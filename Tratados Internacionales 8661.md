@@ -1,3 +1,12 @@
+---
+numero: "Ley 8661"
+nombre: "Aprueba Convención sobre los Derechos de las Personas con Discapacidad y su Protocolo"
+materia: "internacional"
+version_sinalevi: "1 de 1"
+ultima_reforma: ""
+enlace: ""
+---
+
 Tratados Internacionales 8661
 
 Aprueba Convención sobre los Derechos de las Personas con Discapacidad y su Protocolo
@@ -96,8 +105,6 @@ El propósito de la presente Convención es promover, proteger y asegurar el goc
 
 Las personas con discapacidad incluyen a aquellas que tengan deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo que, al interactuar con diversas barreras, puedan impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás.
 
-Ficha Artículo 1
-
 Artículo 2
 
 Definiciones
@@ -113,8 +120,6 @@ Por "discriminación por motivos de discapacidad" se entenderá cualquier distin
 Por "ajustes razonables" se entenderán las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
 Por "diseño universal" se entenderá el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El "diseño universal" no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad, cuando se necesiten.
-
-Ficha Artículo 2
 
 Artículo 3
 
@@ -137,8 +142,6 @@ f) La accesibilidad;
 g) La igualdad entre el hombre y la mujer;
 
 h) El respeto a la evolución de las facultades de los niños y las niñas con discapacidad y de su derecho a preservar su identidad.
-
-Ficha Artículo 3
 
 Artículo 4
 
@@ -172,8 +175,6 @@ i) Promover la formación de los profesionales y el personal que trabajan con pe
 
 5\. Las disposiciones de la presente Convención se aplicarán a todas las partes de los Estados federales sin limitaciones ni excepciones.
 
-Ficha Artículo 4
-
 Artículo 5
 
 Igualdad y no discriminación
@@ -186,8 +187,6 @@ Igualdad y no discriminación
 
 4\. No se considerarán discriminatorias, en virtud de la presente Convención, las medidas específicas que sean necesarias para acelerar o lograr la igualdad de hecho de las personas con discapacidad.
 
-Ficha Artículo 5
-
 Artículo 6
 
 Mujeres con discapacidad
@@ -195,8 +194,6 @@ Mujeres con discapacidad
 1\. Los Estados Partes reconocen que las mujeres y niñas con discapacidad están sujetas a múltiples formas de discriminación y, a ese respecto, adoptarán medidas para asegurar que puedan disfrutar plenamente y en igualdad de condiciones de todos los derechos humanos y libertades fundamentales.
 
 2\. Los Estados Partes tomarán todas las medidas pertinentes para asegurar el pleno desarrollo, adelanto y potenciación de la mujer, con el propósito de garantizarle el ejercicio y goce de los derechos humanos y las libertades fundamentales establecidos en la presente Convención.
-
-Ficha Artículo 6
 
 Artículo 7
 
@@ -207,8 +204,6 @@ Niños y Niñas con discapacidad
 2\. En todas las actividades relacionadas con los niños y las niñas con discapacidad, una consideración primordial será la protección del interés superior del niño.
 
 3\. Los Estados Partes garantizarán que los niños y las niñas con discapacidad tengan derecho a expresar su opinión libremente sobre todas las cuestiones que les afecten, opinión que recibirá la debida consideración teniendo en cuenta su edad y madurez, en igualdad de condiciones con los demás niños y niñas, y a recibir asistencia apropiada con arreglo a su discapacidad y edad para poder ejercer ese derecho.
-
-Ficha Artículo 7
 
 Artículo 8
 
@@ -238,8 +233,6 @@ c) Alentar a todos los órganos de los medios de comunicación a que difundan un
 
 d) Promover programas de formación sobre sensibilización que tengan en cuenta a las personas con discapacidad y los derechos de estas personas.
 
-Ficha Artículo 8
-
 Artículo 9
 
 Accesibilidad
@@ -268,23 +261,17 @@ g) Promover el acceso de las personas con discapacidad a los nuevos sistemas y t
 
 h) Promover el diseño, el desarrollo, la producción y la distribución de sistemas y tecnologías de la información y las comunicaciones accesibles en una etapa temprana, a fin de que estos sistemas y tecnologías sean accesibles al menor costo.
 
-Ficha Artículo 9
-
 Artículo 10
 
 Derecho a la vida
 
 Los Estados Partes reafirman el derecho inherente a la vida de todos los seres humanos y adoptarán todas las medidas necesarias para garantizar el goce efectivo de ese derecho por las personas con discapacidad en igualdad de condiciones con las demás.
 
-Ficha Artículo 10
-
 Artículo 11
 
 Situaciones de riesgo y emergencias humanitarias
 
 Los Estados Partes adoptarán, en virtud de las responsabilidades que les corresponden con arreglo al derecho internacional, y en concreto el derecho internacional humanitario y el derecho internacional de los derechos humanos, todas las medidas necesarias para garantizar la seguridad y la protección de las personas con discapacidad en situaciones de riesgo, incluidas situaciones de conflicto armado, emergencias humanitarias y desastres naturales.
-
-Ficha Artículo 11
 
 Artículo 12
 
@@ -300,8 +287,6 @@ Igual reconocimiento como persona ante la ley
 
 5\. Sin perjuicio de lo dispuesto en el presente artículo, los Estados Partes tomarán todas las medidas que sean pertinentes y efectivas para garantizar el derecho de las personas con discapacidad, en igualdad de condiciones con las demás, a ser propietarias y heredar bienes, controlar sus propios asuntos económicos y tener acceso en igualdad de condiciones a préstamos bancarios, hipotecas y otras modalidades de crédito financiero, y velarán por que las personas con discapacidad no sean privadas de sus bienes de manera arbitraria.
 
-Ficha Artículo 12
-
 Artículo 13
 
 Acceso a la justicia
@@ -309,8 +294,6 @@ Acceso a la justicia
 1\. Los Estados Partes asegurarán que las personas con discapacidad tengan acceso a la justicia en igualdad de condiciones con las demás, incluso mediante ajustes de procedimiento y adecuados a la edad, para facilitar el desempeño de las funciones efectivas de esas personas como participantes directos e indirectos, incluida la declaración como testigos, en todos los procedimientos judiciales, con inclusión de la etapa de investigación y otras etapas preliminares.
 
 2\. A fin de asegurar que las personas con discapacidad tengan acceso efectivo a la justicia, los Estados Partes promoverán la capacitación adecuada de los que trabajan en la administración de justicia, incluido el personal policial y penitenciario.
-
-Ficha Artículo 13
 
 Artículo 14
 
@@ -324,8 +307,6 @@ b) No se vean privadas de su libertad ilegal o arbitrariamente y que cualquier p
 
 2\. Los Estados Partes asegurarán que las personas con discapacidad que se vean privadas de su libertad en razón de un proceso tengan, en igualdad de condiciones con las demás, derecho a garantías de conformidad con el derecho internacional de los derechos humanos y a ser tratadas de conformidad con los objetivos y principios de la presente Convención, incluida la realización de ajustes razonables.
 
-Ficha Artículo 14
-
 Artículo 15
 
 Protección contra la tortura y otros tratos o penas
@@ -335,8 +316,6 @@ crueles, inhumanos o degradantes
 1\. Ninguna persona será sometida a tortura u otros tratos o penas crueles, inhumanos o degradantes. En particular, nadie será sometido a experimentos médicos o científicos sin su libre consentimiento.
 
 2\. Los Estados Partes tomarán todas las medidas de carácter legislativo, administrativo, judicial o de otra índole que sean efectivas para evitar que las personas con discapacidad, en igualdad de condiciones con las demás, sean sometidas a torturas u otros tratos o penas crueles, inhumanos o degradantes.
-
-Ficha Artículo 15
 
 Artículo 16
 
@@ -352,15 +331,11 @@ Protección contra la explotación, la violencia y el abuso
 
 5\. Los Estados Partes adoptarán legislación y políticas efectivas, incluidas legislación y políticas centradas en la mujer y en la infancia, para asegurar que los casos de explotación, violencia y abuso contra personas con discapacidad sean detectados, investigados y, en su caso, juzgados.
 
-Ficha Artículo 16
-
 Artículo 17
 
 Protección de la integridad personal
 
 Toda persona con discapacidad tiene derecho a que se respete su integridad física y mental en igualdad de condiciones con las demás.
-
-Ficha Artículo 17
 
 Artículo 18
 
@@ -378,8 +353,6 @@ d) No se vean privadas, arbitrariamente o por motivos de discapacidad, del derec
 
 2\. Los niños y las niñas con discapacidad serán inscritos inmediatamente después de su nacimiento y tendrán desde el nacimiento derecho a un nombre, a adquirir una nacionalidad y, en la medida de lo posible, a conocer a sus padres y ser atendidos por ellos.
 
-Ficha Artículo 18
-
 Artículo 19
 
 Derecho a vivir de forma independiente y a ser
@@ -394,8 +367,6 @@ b) Las personas con discapacidad tengan acceso a una variedad de servicios de as
 
 c) Las instalaciones y los servicios comunitarios para la población en general estén a disposición, en igualdad de condiciones, de las personas con discapacidad y tengan en cuenta sus necesidades.
 
-Ficha Artículo 19
-
 Artículo 20
 
 Movilidad personal
@@ -409,8 +380,6 @@ b) Facilitar el acceso de las personas con discapacidad a formas de asistencia h
 c) Ofrecer a las personas con discapacidad y al personal especializado que trabaje con estas personas capacitación en habilidades relacionadas con la movilidad;
 
 d) Alentar a las entidades que fabrican ayudas para la movilidad, dispositivos y tecnologías de apoyo a que tengan en cuenta todos los aspectos de la movilidad de las personas con discapacidad.
-
-Ficha Artículo 20
 
 Artículo 21
 
@@ -428,8 +397,6 @@ d) Alentar a los medios de comunicación, incluidos los que suministran informac
 
 e) Reconocer y promover la utilización de lenguas de señas.
 
-Ficha Artículo 21
-
 Artículo 22
 
 Respeto de la privacidad
@@ -437,8 +404,6 @@ Respeto de la privacidad
 1\. Ninguna persona con discapacidad, independientemente de cuál sea su lugar de residencia o su modalidad de convivencia, será objeto de injerencias arbitrarias o ilegales en su vida privada, familia, hogar, correspondencia o cualquier otro tipo de comunicación, o de agresiones ilícitas contra su honor y su reputación. Las personas con discapacidad tendrán derecho a ser protegidas por la ley frente a dichas injerencias o agresiones.
 
 2\. Los Estados Partes protegerán la privacidad de la información personal y relativa a la salud y a la rehabilitación de las personas con discapacidad en igualdad de condiciones con las demás.
-
-Ficha Artículo 22
 
 Artículo 23
 
@@ -459,8 +424,6 @@ c) Las personas con discapacidad, incluidos los niños y las niñas, mantengan s
 4\. Los Estados Partes asegurarán que los niños y las niñas no sean separados de sus padres contra su voluntad, salvo cuando las autoridades competentes, con sujeción a un examen judicial, determinen, de conformidad con la ley y los procedimientos aplicables, que esa separación es necesaria en el interés superior del niño. En ningún caso se separará a un menor de sus padres en razón de una discapacidad del menor, de ambos padres o de uno de ellos.
 
 5\. Los Estados Partes harán todo lo posible, cuando la familia inmediata no pueda cuidar de un niño con discapacidad, por proporcionar atención alternativa dentro de la familia extensa y, de no ser esto posible, dentro de la comunidad en un entorno familiar.
-
-Ficha Artículo 23
 
 Artículo 24
 
@@ -498,8 +461,6 @@ c) Asegurar que la educación de las personas, y en particular los niños y las 
 
 5\. Los Estados Partes asegurarán que las personas con discapacidad tengan acceso general a la educación superior, la formación profesional, la educación para adultos y el aprendizaje durante toda la vida sin discriminación y en igualdad de condiciones con las demás. A tal fin, los Estados Partes asegurarán que se realicen ajustes razonables para las personas con discapacidad.
 
-Ficha Artículo 24
-
 Artículo 25
 
 Salud
@@ -518,8 +479,6 @@ e) Prohibirán la discriminación contra las personas con discapacidad en la pre
 
 f) Impedirán que se nieguen, de manera discriminatoria, servicios de salud o de atención de la salud o alimentos sólidos o líquidos por motivos de discapacidad.
 
-Ficha Artículo 25
-
 Artículo 26
 
 Habilitación y rehabilitación
@@ -533,8 +492,6 @@ b) Apoyen la participación e inclusión en la comunidad y en todos los aspectos
 2\. Los Estados Partes promoverán el desarrollo de formación inicial y continua para los profesionales y el personal que trabajen en los servicios de habilitación y rehabilitación.
 
 3\. Los Estados Partes promoverán la disponibilidad, el conocimiento y el uso de tecnologías de apoyo y dispositivos destinados a las personas con discapacidad, a efectos de habilitación y rehabilitación.
-
-Ficha Artículo 26
 
 Artículo 27
 
@@ -566,8 +523,6 @@ k) Promover programas de rehabilitación vocacional y profesional, mantenimiento
 
 2\. Los Estados Partes asegurarán que las personas con discapacidad no sean sometidas a esclavitud ni servidumbre y que estén protegidas, en igualdad de condiciones con las demás, contra el trabajo forzoso u obligatorio.
 
-Ficha Artículo 27
-
 Artículo 28
 
 Nivel de vida adecuado y protección social
@@ -585,8 +540,6 @@ c) Asegurar el acceso de las personas con discapacidad y de sus familias que viv
 d) Asegurar el acceso de las personas con discapacidad a programas de vivienda pública;
 
 e) Asegurar el acceso en igualdad de condiciones de las personas con discapacidad a programas y beneficios de jubilación.
-
-Ficha Artículo 28
 
 Artículo 29
 
@@ -607,8 +560,6 @@ b) Promover activamente un entorno en el que las personas con discapacidad pueda
 i) Su participación en organizaciones y asociaciones no gubernamentales relacionadas con la vida pública y política del país, incluidas las actividades y la administración de los partidos políticos;
 
 ii) La constitución de organizaciones de personas con discapacidad que representen a estas personas a nivel internacional, nacional, regional y local, y su incorporación a dichas organizaciones.
-
-Ficha Artículo 29
 
 Artículo 30
 
@@ -642,8 +593,6 @@ d) Asegurar que los niños y las niñas con discapacidad tengan igual acceso con
 
 e) Asegurar que las personas con discapacidad tengan acceso a los servicios de quienes participan en la organización de actividades recreativas, turísticas, de esparcimiento y deportivas.
 
-Ficha Artículo 30
-
 Artículo 31
 
 Recopilación de datos y estadísticas
@@ -657,8 +606,6 @@ b) Cumplir las normas aceptadas internacionalmente para proteger los derechos hu
 2\. La información recopilada de conformidad con el presente artículo se desglosará, en su caso, y se utilizará como ayuda para evaluar el cumplimiento por los Estados Partes de sus obligaciones conforme a la presente Convención, así como para identificar y eliminar las barreras con que se enfrentan las personas con discapacidad en el ejercicio de sus derechos.
 
 3\. Los Estados Partes asumirán la responsabilidad de difundir estas estadísticas y asegurar que sean accesibles para las personas con discapacidad y otras personas.
-
-Ficha Artículo 31
 
 Artículo 32
 
@@ -676,8 +623,6 @@ d) Proporcionar, según corresponda, asistencia apropiada, técnica y económica
 
 2\. Las disposiciones del presente artículo se aplicarán sin perjuicio de las obligaciones que incumban a cada Estado Parte en virtud de la presente Convención.
 
-Ficha Artículo 32
-
 Artículo 33
 
 Aplicación y seguimiento nacionales
@@ -689,8 +634,6 @@ Aplicación y seguimiento nacionales
 Cuando designen o establezcan esos mecanismos, los Estados Partes tendrán en cuenta los principios relativos a la condición jurídica y el funcionamiento de las instituciones nacionales de protección y promoción de los derechos humanos.
 
 3\. La sociedad civil, y en particular las personas con discapacidad y las organizaciones que las representan, estarán integradas y participarán plenamente en todos los niveles del proceso de seguimiento.
-
-Ficha Artículo 33
 
 Artículo 34
 
@@ -722,8 +665,6 @@ Comité sobre los derechos de las personas con discapacidad
 
 13\. Los miembros del Comité tendrán derecho a las facilidades, prerrogativas e inmunidades que se conceden a los expertos que realizan misiones para las Naciones Unidas, con arreglo a lo dispuesto en las secciones pertinentes de la Convención sobre Prerrogativas e Inmunidades de las Naciones Unidas.
 
-Ficha Artículo 34
-
 Artículo 35
 
 Informes presentados por los Estados Partes
@@ -737,8 +678,6 @@ Informes presentados por los Estados Partes
 4\. El Estado Parte que haya presentado un informe inicial exhaustivo al Comité no tendrá que repetir, en sus informes ulteriores, la información previamente facilitada. Se invita a los Estados Partes a que, cuando preparen informes para el Comité, lo hagan mediante un procedimiento abierto y transparente y tengan en cuenta debidamente lo dispuesto en el párrafo 3 del artículo 4 de la presente Convención.
 
 5\. En los informes se podrán indicar factores y dificultades que afecten al grado de cumplimiento de las obligaciones contraídas en virtud de la presente Convención.
-
-Ficha Artículo 35
 
 Artículo 36
 
@@ -754,8 +693,6 @@ Consideración de los informes
 
 5\. El Comité transmitirá, según estime apropiado, a los organismos especializados, los fondos y los programas de las Naciones Unidas, así como a otros órganos competentes, los informes de los Estados Partes, a fin de atender una solicitud o una indicación de necesidad de asesoramiento técnico o asistencia que figure en ellos, junto con las observaciones y recomendaciones del Comité, si las hubiera, sobre esas solicitudes o indicaciones.
 
-Ficha Artículo 36
-
 Artículo 37
 
 Cooperación entre los Estados Partes y el Comité
@@ -763,8 +700,6 @@ Cooperación entre los Estados Partes y el Comité
 1\. Los Estados Partes cooperarán con el Comité y ayudarán a sus miembros a cumplir su mandato.
 
 2\. En su relación con los Estados Partes, el Comité tomará debidamente en consideración medios y arbitrios para mejorar la capacidad nacional de aplicación de la presente Convención, incluso mediante la cooperación internacional.
-
-Ficha Artículo 37
 
 Artículo 38
 
@@ -776,15 +711,11 @@ a) Los organismos especializados y demás órganos de las Naciones Unidas tendr�
 
 b) Al ejercer su mandato, el Comité consultará, según proceda, con otros órganos pertinentes instituidos en virtud de tratados internacionales de derechos humanos, con miras a garantizar la coherencia de sus respectivas directrices de presentación de informes, sugerencias y recomendaciones generales y a evitar la duplicación y la superposición de tareas en el ejercicio de sus funciones.
 
-Ficha Artículo 38
-
 Artículo 39
 
 Informe del Comité
 
 El Comité informará cada dos años a la Asamblea General y al Consejo Económico y Social sobre sus actividades y podrá hacer sugerencias y recomendaciones de carácter general basadas en el examen de los informes y datos recibidos de los Estados Partes en la Convención. Esas sugerencias y recomendaciones de carácter general se incluirán en el informe del Comité, junto con los comentarios, si los hubiera, de los Estados Partes.
-
-Ficha Artículo 39
 
 Artículo 40
 
@@ -794,15 +725,11 @@ Conferencia de los Estados Partes
 
 2\. El Secretario General de las Naciones Unidas convocará la Conferencia de los Estados Partes en un plazo que no superará los seis meses contados a partir de la entrada en vigor de la presente Convención. Las reuniones ulteriores, con periodicidad bienal o cuando lo decida la Conferencia de los Estados Partes, serán convocadas por el Secretario General.
 
-Ficha Artículo 40
-
 Artículo 41
 
 Depositario
 
 El Secretario General de las Naciones Unidas será el depositario de la presente Convención.
-
-Ficha Artículo 41
 
 Artículo 42
 
@@ -810,15 +737,11 @@ Firma
 
 La presente Convención estará abierta a la firma de todos los Estados y las organizaciones regionales de integración en la Sede de las Naciones Unidas, en Nueva York, a partir del 30 de marzo de 2007.
 
-Ficha Artículo 42
-
 Artículo 43
 
 Consentimiento en obligarse
 
 La presente Convención estará sujeta a la ratificación de los Estados signatarios y a la confirmación oficial de las organizaciones regionales de integración signatarias. Estará abierta a la adhesión de cualquier Estado u organización regional de integración que no la haya firmado.
-
-Ficha Artículo 43
 
 Artículo 44
 
@@ -832,8 +755,6 @@ Organizaciones regionales de integración
 
 4\. Las organizaciones regionales de integración, en asuntos de su competencia, ejercerán su derecho de voto en la Conferencia de los Estados Partes, con un número de votos igual al número de sus Estados miembros que sean Partes en la presente Convención. Dichas organizaciones no ejercerán su derecho de voto si sus Estados miembros ejercen el suyo, y viceversa.
 
-Ficha Artículo 44
-
 Artículo 45
 
 Entrada en vigor
@@ -842,8 +763,6 @@ Entrada en vigor
 
 2\. Para cada Estado y organización regional de integración que ratifique la Convención, se adhiera a ella o la confirme oficialmente una vez que haya sido depositado el vigésimo instrumento a sus efectos, la Convención entrará en vigor el trigésimo día a partir de la fecha en que haya sido depositado su propio instrumento.
 
-Ficha Artículo 45
-
 Artículo 46
 
 Reservas
@@ -851,8 +770,6 @@ Reservas
 1\. No se permitirán reservas incompatibles con el objeto y el propósito de la presente Convención.
 
 2\. Las reservas podrán ser retiradas en cualquier momento.
-
-Ficha Artículo 46
 
 Artículo 47
 
@@ -864,23 +781,17 @@ Enmiendas
 
 3\. En caso de que así lo decida la Conferencia de los Estados Partes por consenso, las enmiendas adoptadas y aprobadas de conformidad con lo dispuesto en el párrafo 1 del presente artículo que guarden relación exclusivamente con los artículos 34, 38, 39 y 40 entrarán en vigor para todos los Estados Partes el trigésimo día a partir de aquel en que el número de instrumentos de aceptación depositados alcance los dos tercios del número de Estados Partes que hubiera en la fecha de adopción de la enmienda.
 
-Ficha Artículo 47
-
 Artículo 48
 
 Denuncia
 
 Los Estados Partes podrán denunciar la presente Convención mediante notificación escrita dirigida al Secretario General de las Naciones Unidas. La denuncia tendrá efecto un año después de que el Secretario General haya recibido la notificación.
 
-Ficha Artículo 48
-
 Artículo 49
 
 Formato accesible
 
 El texto de la presente Convención se difundirá en formatos accesibles.
-
-Ficha Artículo 49
 
 Artículo 50
 
@@ -899,5 +810,3 @@ PROTOCOLO FACULTATIVO DE LA CONVENCIÓN SOBRE LOS DRECHOS DE LAS PERSONAS CON DI
 …
 
 Dado en la Presidencia de la República.—San José, a los diecinueve días del mes de agosto del dos mil ocho.
-
-Ficha Artículo 50

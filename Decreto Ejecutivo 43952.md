@@ -1,3 +1,12 @@
+---
+numero: "Decreto Ejecutivo 43952"
+nombre: "Reglamento a la Ley Marco de Empleo Público"
+materia: "laboral"
+version_sinalevi: "6 de 6"
+ultima_reforma: ""
+enlace: ""
+---
+
 Decreto Ejecutivo 43952
 
 Reglamento a la Ley Marco de Empleo Público
@@ -60,15 +69,11 @@ DISPOSICIONES GENERALES
 
 Artículo 1.- Objeto. El presente reglamento tiene por objeto desarrollar y precisar los principios y disposiciones de la Ley Marco de Empleo, Ley N°10159, para su debida aplicación, ejecución y observancia por parte de las instituciones públicas en el ámbito de esta y de las personas colaboradoras con relaciones estatutarias, de empleo público y empleo mixto.
 
-Ficha Artículo 1
-
 Artículo 2.- Implementación de la Ley Marco de Empleo Público. Todas las instituciones, entes, órganos y empresas públicas, en el ámbito de cobertura definido en el artículo 2 de la Ley Marco de Empleo Público, Ley Nº 10159, deberán implementar dicha ley, de acuerdo con criterios técnicos, metodológicos, financieros y de recursos humanos, a partir de su entrada en vigor.
 
 En forma análoga y supletoria las instituciones cubiertas por la Ley Marco de Empleo Público, podrán aplicar el Estatuto de Servicio Civil, Ley No. 1581 y sus reformas, y sus Reglamentos, Decretos Ejecutivos No. 21 y No. 34971-MP; así como la normativa emitida por la Dirección General de Servicio Civil como Rector Técnico del Empleo Público costarricense, cuando existan vacíos normativos o situaciones no normadas en sus regulaciones en materia de las relaciones de empleo público o mixto.
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 44755 del 12 de noviembre de 2024)
-
-Ficha Artículo 2
 
 Artículo 3.- Ámbito de cobertura de la rectoría del Ministerio de Planificación Nacional y Política Económica sobre las relaciones de empleo público. El Ministerio de Planificación Nacional y Política Económica ejercerá la rectoría en las relaciones estatutarias, de empleo público y mixto de los servidores que laboran en las instituciones públicas, salvo las excepciones que la Ley Marco de Empleo Público, Ley N°10159, establece en cuanto a los puestos con funciones o labores que sean exclusivas y excluyentes de las competencias que le han sido conferidas constitucionalmente a los Poderes de la República e instituciones con autonomía de gobierno u organizativa.
 
@@ -81,8 +86,6 @@ La Dirección General de Servicio Civil, corno órgano desconcentrado máximo de
 Se excluyen de la rectoría de MIDEPLAN, dispuesta en este artículo, a los entes públicos no estatales, las empresas e instituciones en competencia, salvo en lo relativo a las disposiciones sobre negociación colectiva, y el Benemérito Cuerpo de Bomberos, por estar excluidos de la aplicación de la Ley Marco de Empleo Público, así como los puestos con funciones o labores que sean exclusivas y excluyentes de las competencias que le han sido conferidas constitucionalmente a los Poderes de la República e instituciones con autonomía de gobierno u organizativa. No obstante, estas podrán aplicar las regulaciones contenidas en la Ley Marco de Empleo Público, el Estatuto de Servicio Civil y sus Reglamentos de forma análoga y supletoria para suplir carencias normativas, dar completitud al ordenamiento jurídico y estandarizar la regulación y los procedimientos.
 
 (Así reformado el párrafo anterior por el artículo 1° del decreto ejecutivo N° 44755 del 12 de noviembre de 2024)
-
-Ficha Artículo 3
 
 Artículo 4°-. Principios rectores. Para efectos de la aplicación de la Ley Marco de Empleo Público y el presente reglamento, en todas las instituciones, estén o no sujetas a la rectoría del Ministerio de Planificación Nacional y Política Económica, los principios rectores que deberán regir todas las relaciones de empleo estatutario, público y mixto, serán los siguientes:
 
@@ -107,8 +110,6 @@ h) Prevalencia del interés general: la gestión del empleo público, en todos s
 i) Participación de la ciudadanía: la participación de la persona ciudadana, la rendición de cuentas y la evaluación de resultados son fundamentos de esta ley, como corresponde a los artículos 9 y 11 de la Constitución Política.
 
 Asimismo, en la aplicación de la Ley Marco de Empleo Público, regirán los principios constitucionales de unidad de la acción estatal y el principio de división de poderes.
-
-Ficha Artículo 4
 
 Artículo 5.- Definiciones. Para efectos del presente reglamento, se establecen las siguientes definiciones:
 
@@ -176,8 +177,6 @@ Artículo 5.- Definiciones. Para efectos del presente reglamento, se establecen 
 
 31. Valor público: capacidad de la Administración Pública para dar respuesta a problemas relevantes de la población en el marco del desarrollo sostenible, ofreciendo bienes y servicios eficientes, de calidad e inclusivos, promoviendo oportunidades, dentro de un contexto democrático.
 
-Ficha Artículo 5
-
 CAPÍTULO II
 
 GOBERNANZA DEL EMPLEO PÚBLICO
@@ -206,8 +205,6 @@ j) Los reglamentos autónomos de servicio, o sus equivalentes normativos, para r
 
 k) Los dictámenes vinculantes emitidos por la Procuraduría General de la República y la Contraloría General de la República.
 
-Ficha Artículo 6
-
 Artículo 7.- Subsistemas del Sistema General de Empleo Público. El Sistema General de Empleo Público estará integrado por los siguientes subsistemas en los cuales, cada institución en el ámbito de la Ley Marco de Empleo Pública, ejercerá sus competencias legales respectivas:
 
 a) Gestión de la Organización del trabajo
@@ -224,13 +221,9 @@ f) Gestión de las Relaciones Humanas y Sociales
 
 g) Gestión de la Planificación de Recursos Humanos
 
-Ficha Artículo 7
-
 Artículo 8.- Labores de asesoría y apoyo. Corresponderá al MIDEPLAN, en coordinación con la Dirección General del Servicio Civil, la Secretaría Técnica de la Autoridad Presupuestaria, según su ámbito de competencia legal en materia de empleo público, brindar apoyo y asesoría técnica a las instituciones públicas cubiertas por la Ley Marco de Empleo Público.
 
 Corresponderá a la Procuraduría General de la República, en su condición de órgano superior consultivo, técnico jurídico de la Administración Pública ejercer el asesoramiento en cuestiones jurídicas que le soliciten, el Estado, los entes descentralizados, los demás organismos públicos y empresas estatales, de conformidad con el artículo 3 de su Ley Orgánica, Ley N° 6815.
-
-Ficha Artículo 8
 
 CAPÍTULO III
 
@@ -262,15 +255,11 @@ iii. Lineamientos y normativas administrativas para las oficinas de gestión ins
 
 Las instituciones sujetas a la rectoría de MIDEPLAN que se encuentran fuera del ámbito del Estatuto de Servicio Civil deberán seguir los lineamientos de MIDEPLAN a efectos de que sus procesos de reclutamiento y selección, gestión de las relaciones laborales, gestión de recursos humanos y, en general, toda gestión relacionada a la materia de empleo público se apegue a dichos lineamientos. Adicionalmente, para una mejor aplicación de la Ley Marco de Empleo Público, podrán recibir acompañamiento técnico de la Dirección General de Servicio Civil.
 
-Ficha Artículo 9
-
 Artículo 10.- Plataforma Integrada de Empleo Público. La Plataforma Integrada de Empleo Público se constituye en el instrumento o los instrumentos de carácter tecnológico que, en conjunto, conforman la herramienta informática para la gestión del empleo público, así como un registro centralizado de información estadística cualitativa y cuantitativa, administrada por la Dirección General de Servicio Civil como órgano especializado desconcentrado del Ministerio de Planificación Nacional y Política Económica, bajo los lineamientos que dicte esta cartera ministerial, de conformidad con los términos y alcances del artículo 12 de la Ley Marco de Empleo Público.
 
 Asimismo, la Dirección General de Servicio Civil, en ejercicio del principio de colaboración interinstitucional, podrá establecer los convenios de cooperación interinstitucional para la conformación, desarrollo, implementación y correcta ejecución de dicha plataforma, así como para la interoperabilidad con otras herramientas tecnológicas que puedan integrarse a la Plataforma Integrada de Empleo Público, sin que haya un detrimento de sus funciones y competencias de acuerdo con la Ley Marco de Empleo Público.
 
 Cada dependencia pública bajo el ámbito de aplicación de la Ley Marco alimentará y actualizará la plataforma integrada de empleo público de forma periódica, al menos cada seis meses.
-
-Ficha Artículo 10
 
 Artículo 11.-Módulos de la Plataforma Integrada de Empleo Público.
 
@@ -294,11 +283,7 @@ f) Base de Datos de Empleo Público, con la caracterización estadística de los
 
 g) Cualquier otra información necesaria para el eficiente desarrollo de la plataforma, que defina el Ministerio de Planificación Nacional y Política Económica.
 
-Ficha Artículo 11
-
 Artículo 12.- Manejo de Datos Personales en la Plataforma Integrada de Empleo Público. Cualquier encargo, uso, transferencia o acceso a datos personales en la Plataforma Integrada de Empleo Público se debe realizar de conformidad con las disposiciones y protocolos de atención de la Ley de Protección de la Persona frente al tratamiento de sus datos personales, Ley N° 8968 y su reglamento. La unidad administrativa de cada institución pública que tenga la responsabilidad de publicar los datos en la Plataforma, será responsable de garantizar su calidad en términos de validez y confiabilidad, por lo cual, igualmente, deberá efectuar oportunamente las actualizaciones o correcciones de datos conforme con las definiciones de variables informativas y pautas que se dicten en atención a las disposiciones señaladas en la Ley Marco de Empleo Público por parte del Ministerio de Planificación Nacional y Política Económica y la Dirección General de Servicio Civil, según sus respectivas competencias y atribuciones.
-
-Ficha Artículo 12
 
 CAPÍTULO IV
 
@@ -326,8 +311,6 @@ En cada familia laboral, los puestos o clases podrán tener una organización o 
 
 La creación de cualquier otra familia adicional tiene reserva de ley.
 
-Ficha Artículo 13
-
 Artículo 14.- Distribución de las Clases de Puestos en las Familias Correspondientes. La definición de las clases de puestos y cargos que integren cada familia laboral, la estructura según la cual se desarrollará la descripción de cada clase, así como las actualizaciones que eventualmente se requieran, se realizará de acuerdo con la naturaleza de sus funciones, en apego al marco de legalidad vigente que defina dicha naturaleza y siguiendo las siguientes reglas y parámetros para cada familia:
 
 a) Personas servidoras públicas bajo el ámbito de aplicación del título I y del título IV del Estatuto de Servicio Civil, así como las que se desempeñan en las instituciones señaladas en el artículo 2 de la Ley Marco de Empleo Público, que no estén incluidas en las restantes familias de puestos: Para este caso, se deberán asignar a esta familia todas aquellas clases de puestos relacionadas con personal operativo, logístico, de apoyo o administrativo, tanto de nivel calificado, como no calificado, técnico o profesional, que realice labores en la institución respectiva y que no esté incluido expresamente en las restantes familias. Para ello, se debe incluir en esta familia a todo el personal del Título I y Título IV del Estatuto de Servicio Civil, con excepción de aquellas personas que sean definidas como docentes o que estén expresamente incluidas dentro de otra familia de puestos, así como al personal que se desempeñe en las instituciones señaladas en el artículo 2 de la Ley Marco de Empleo Público, N° 10.159 y que no esté incluido en los alcances de restantes familias de puestos.
@@ -352,8 +335,6 @@ MIDEPLAN tendrá un plazo de 15 días hábiles, a partir de recibida la solicitu
 
 La creación de nuevas clases de puestos o la modificación en las estructuras ocupacionales, de las instituciones bajo la rectoría del MIDEPLAN, deberán ser gestionadas de previo ante MIDEPLAN para el aval correspondiente, siguiendo los procedimientos y disposiciones establecidas para esos efectos por parte de MIDEPLAN.
 
-Ficha Artículo 14
-
 CAPÍTULO V
 
 SUBSISTEMA GESTIÓN DEL EMPLEO
@@ -363,8 +344,6 @@ Artículo 15.- Comprobación de idoneidad. Toda institución sujeta al ámbito d
 Para ello, en el caso de las instituciones que están sujetas al ámbito de aplicación del Estatuto de Servicio Civil, deben acatar los estándares y regulaciones técnicas establecidos por la Dirección General de Servicio Civil. Dichos estándares y regulaciones, además, podrán ser extensivos al resto de instituciones en el ámbito de rectoría de MIDEPLAN, a través del lineamiento correspondiente de éste como rector, sin detrimento de las situaciones o normativas específicas vigentes.
 
 Para el caso de las relaciones de empleo de las personas servidoras públicas que desempeñen funciones o labores administrativas, profesionales o técnicas, que sean exclusivas y excluyentes para el ejercicio de las competencias constitucionalmente asignadas al Poder Legislativo, al Poder Judicial, al Tribunal Supremo de Elecciones y a los entes públicos con autonomía de gobierno u organizativa, dichas instituciones, en el marco de su autonomía, establecerán las condiciones administrativas, operativas y legales para la comprobación de idoneidad, para lo cual podrán solicitar acompañamiento técnico de la Dirección General de Servicio Civil.
-
-Ficha Artículo 15
 
 Artículo 16.- Asesoría Técnica, Seguimiento y Control en Gestión del Empleo. Le corresponderá a la Dirección General de Servicio Civil, aplicando las disposiciones legales y reglamentarias, brindar asesoría técnica, seguimiento y control en materia de Gestión del Empleo, a los órganos encargados de la gestión de recursos humanos en las instituciones cubiertas por la rectoría del MIDEPLAN.
 
@@ -377,8 +356,6 @@ b) Acompañar técnicamente a las instituciones cuyas relaciones de empleo está
 c) Realizar la a correcta y oportuna publicación de la demanda de empleo público por parte de las instituciones públicas, así como de las condiciones propias de los procesos de reclutamiento, selección y nombramiento de personal bajo su ámbito de competencia.
 
 d) Establecer las normativas técnicas de gestión de recursos humanos en general, aplicable al personal de la alta dirección pública sujeto a las disposiciones de la Ley Marco de Empleo Público, N° 10.159, que están en el ámbito del Estatuto de Servicio Civil.
-
-Ficha Artículo 16
 
 Artículo 17.- Sistemas de Selección. Para efectos de desarrollar los procesos de reclutamiento y selección de personal, los sistemas de selección aplicables son los siguientes:
 
@@ -402,8 +379,6 @@ Esta forma específica de aplicación conjunta del sistema de valoración de mé
 
 No obstante lo anterior y salvo casos estrictos de inopia debidamente comprobada y documentada de manera fehaciente, para casos que sean determinados en normativa técnica específica y para los cuales se dispongan condiciones particulares de regulación concursal, la verificación de atestados, deberá aplicarse de manera generalizada como una fase de previa en diferentes procesos de reclutamiento y selección, para asegurar la participación en el proceso de selección, únicamente de personas que poseen los atestados que se exigen en las bases de la convocatoria del concurso. En esos casos, la verificación de atestados no podrá suponer más que la confirmación de las personas que efectivamente puedan someterse al proceso concursal establecido, por ostentar la experiencia profesional, formación, titulación u otro atestado mínimo establecido como requisito en la clase a la cual se asocia el puesto sometido a concurso.
 
-Ficha Artículo 17
-
 Artículo 18.- Aplicación de Sistemas de Selección en concursos, promociones y periodo de prueba. Para los procesos o concursos orientados a nombramientos en puestos de empleo público en un régimen de carrera administrativa- a las entidades y órganos cubiertos por la rectoría del MIDEPLAN-, aplicarán los sistemas de selección según las siguientes reglas, salvo lo dispuesto en otra norma con rango de ley y de forma expresa:
 
 a) En los procesos o concursos para el reclutamiento y selección de personas de nuevo ingreso o generalidad de oferentes a partir de concursos externos, o para la conformación de registros de elegibles generales con demostración de idoneidad, únicamente se podrán aplicar los sistemas de selección concurso de oposición o el de oposición.
@@ -414,23 +389,15 @@ c) En procesos internos desarrollados específicamente para promoción de person
 
 A excepción del personal de alta dirección pública, de confianza y de aquel cuyo nombramiento se defina según legislación específica, toda persona servidora ya sea nombrado como interino o en propiedad, deberá cumplir con un período de prueba de tres meses de servicio continuo, salvo que se disponga lo contrario en norma superior, contados a partir de la fecha de su ingreso o a partir del momento en que ocupa otro puesto, luego del cual, si la evaluación realizada por su superior inmediato es satisfactoria, será ratificada su condición de servidora regular o titular del puesto asumido. La evaluación referida la harán la Unidad de Recursos Humanos con la jefatura inmediata de la persona servidora, mediante la aplicación de los instrumentos técnicos establecidos al efecto. En caso de que no se realice la evaluación respectiva, está será convalidada, so pena de responsabilidad administrativa para la jefatura a cargo de realizar la evaluación.
 
-Ficha Artículo 18
-
 Artículo 19.- Oficinas encargadas de la gestión de recursos humanos. Las oficinas de gestión institucional de recursos humanos de cada institución pública cubierta por los alcances de la Ley Marco de Empleo Público, N° 10.159, serán órganos ejecutores de los procesos de evaluación y aplicación de los instrumentos técnicos en operación, para la determinación de la idoneidad de las personas postuladas para nombramientos como servidoras públicas.
 
 Las instituciones cubiertas por la rectoría de Empleo Público, deberán atender y aplicar lo dispuesto por el Ministerio de Planificación Nacional y Política Económica en el marco de las competencias atribuidas por la Ley Marco de Empleo Público para los procesos de reclutamiento y selección de nuevo personal, concursos externos o concursos internos y de promoción interna de cada institución, los cuales deben darse de acuerdo al mérito, capacidad e idoneidad comprobada, necesaria para la ocupación de puestos de empleo público, cumpliendo, además, con prácticas que garanticen apego a los principios de igualdad, publicidad y transparencia. Asimismo, las instituciones en el ámbito del Estatuto de Servicio Civil deberán aplicar los instrumentos y estándares técnicos que establezca la Dirección General de Servicio Civil para la realización de estos procesos.
 
-Ficha Artículo 19
-
 Artículo 20.- Pruebas de idoneidad para docentes. En el caso de exámenes o pruebas de idoneidad para personas postulantes a la ocupación de puestos cubiertos las disposiciones del Título II del Estatuto de Servicio Civil, Ley N° 1581, estas se desarrollarán y aplicarán de conformidad con lo que al respecto establece la Ley Marco de Empleo Público, N° 10.159 y el Capítulo II del Título II de dicho Estatuto. El Ministerio de Educación Pública deberá coordinar con la Dirección General de Servicio Civil las formas, metodologías y contenidos del diseño de las pruebas o instrumentos para examinar la idoneidad, así como las pautas y el proceso que se utilizará para su aplicación.
-
-Ficha Artículo 20
 
 Artículo 21.- Puestos vacantes para ocupación por personas con discapacidad. Cada entidad u órgano cubiertos por la rectoría de MIDEPLAN deberá garantizar la selección de al menos, un cinco por ciento (5%) de los puestos que anualmente obtengan condición de vacante, para que sean nombradas personas con discapacidad, siempre que exista oferta y registro de elegibles conformado por personas que superen las pruebas técnicas selectivas, diseñadas para la demostración o comprobación de idoneidad.
 
 Como regulación específica se considerará lo dispuesto en el Reglamento a la Ley de Inclusión y Protección Laboral de las Personas con Discapacidad en el Sector Público, Ley N° 8862, Decreto Nº 36462-MP-MTSS, publicado en la Gaceta N° 56 del 21 de marzo 2011.
-
-Ficha Artículo 21
 
 Artículo 21 bis.- Puestos vacantes para ocupación por personas afrodescendientes. Las instituciones, los órganos y entes bajo la rectoría de MIDEPLAN deberán garantizar la selección de al menos un siete por ciento (7%) de los puestos que anualmente obtengan condición de vacante, para que en éstos sean nombradas personas afrodescendientes, siempre que exista oferta y registro de elegibles conformado por personas que hayan superado las pruebas técnicas selectivas, diseñadas para la comprobación de idoneidad. Dicha disposición queda supeditada a que las personas cumplan con la totalidad de requisitos reglamentarios, legales y constitucionales para acceder a esos puestos.
 
@@ -439,8 +406,6 @@ Como mecanismo para el auto reconocimiento y operativización de la Ley de Accio
 Esta medida se aplicará durante el plazo establecido en el ordinal 3 de la Ley de Acciones afirmativas a favor de las personas afrodescendientes.
 
 (Así adicionado por el artículo 2° del decreto ejecutivo N° 44755 del 12 de noviembre de 2024)
-
-Ficha Artículo 21 BIS
 
 Artículo 22.- Traslados y permutas. Como parte de la gestión de recursos humanos y para propiciar el cumplimiento de las funciones y objetivos públicos institucionales, las entidades y órganos, cubiertas por la rectoría de MIDEPLAN, podrán aprobar y efectuar traslados y permutas a nivel interno de cada institución y entre esas, sean temporales o permanentes, mediante consenso de las partes y sin que se cause un daño o perjuicio a las personas servidoras.
 
@@ -452,21 +417,15 @@ La Dirección General del Servicio Civil emitirá las regulaciones técnicas com
 
 Los supuestos contemplados en el Decreto Ejecutivo N° 22317 del 1° de julio de 1993, denominado: Movilidad Horizontal en Ministerios, Instituciones y Empresas Públicas autorizado por la Autoridad Presupuestaria, seguirán atendiéndose conforme lo allí dispuesto.
 
-Ficha Artículo 22
-
 Artículo 23.- Puestos de Alta Dirección Pública. Como parte de los puestos de la alta dirección pública de las instituciones cubiertas por la rectoría de Mideplan, conforme con lo establecido en la Ley Marco de Empleo Público, únicamente se considerarán los que impliquen, formal y regularmente, estar a cargo y ser responsables de dependencias organizacionales calificadas como direcciones, gerencias o equivalentes, o las denominaciones que al efecto establezca el Ministerio de Planificación Nacional y Política Económica para el nivel directivo en los lineamientos para reorganizaciones administrativas.
 
 Los nombramientos en puestos de alta dirección pública, por norma general, serán por un plazo máximo de seis años, sujetándose a las disposiciones establecidas en los artículos 17 y 18 de la Ley Marco de Empleo Público, sin detrimento de los cargos para los cuales existan disposiciones específicas o normas especiales señaladas en la Constitución Política o las leyes vigentes, con excepción de los puestos de confianza establecidos en el artículo 4 de la Ley N°1581 Estatuto de Servicio Civil, así como los puestos de confianza creados por instituciones fuera del ámbito de este de conformidad con legislación especial o específica.
 
 Para el respeto de los derechos subjetivos, derechos adquiridos y situaciones jurídicas consolidadas y estabilidad, las normas relativas a formas, procedimientos, requisitos, condiciones y plazos de nombramiento establecidas en los artículos 17 y 18 de la Ley Marco de Empleo Público, serán aplicables para los nombramientos que se deban efectuar a partir de entrar en vigor la indicada Ley.
 
-Ficha Artículo 23
-
 Artículo 24.- Indemnización. Para efectos del cálculo y pago de la indemnización establecida en el inciso e) del artículo 20 de la Ley Marco de Empleo Público, N° 10.159, salvo disposiciones distintas en apego a la legislación vigente o a sentencias judiciales, se deberán cancelar todos los externos laborales de conformidad con la legislación vigente y cualquier convenio colectivo vigente existente, salvo en casos en los que, de previo a la decisión de cese, la persona colaboradora se apegue a la movilidad laboral.
 
 El Ministerio de Planificación Nacional en coordinación con la Dirección General de Servicio Civil, emitirá los procedimientos, regulaciones complementarias, parámetros e instrumentos técnicos que deberán acatar las dependencias encargadas de la gestión de recursos humanos de cada institución, así como las personas jerarcas de estas, respecto a las reducciones forzosas.
-
-Ficha Artículo 24
 
 Artículo 25.- Regulación de Inhabilitaciones. Las inhabilitaciones son sanciones a personas funcionarias las cuales se regulan por las siguientes disposiciones:
 
@@ -480,8 +439,6 @@ d) Competencia: La competencia para imponer la sanción la tendrá el órgano qu
 
 e) Derecho al olvido: Una vez vencido el plazo de inhabilitación, se eliminará dicho registro de la plataforma integrada de empleo público sin que pueda consultarse o utilizarse en el futuro como un antecedente.
 
-Ficha Artículo 25
-
 CAPÍTULO VI
 
 SUBSISTEMA GESTIÓN DEL DESARROLLO
@@ -494,21 +451,13 @@ Ese marco regulatorio comprenderá las disposiciones, procedimientos e instrumen
 
 Para las actividades y programas de capacitación y desarrollo de personal dedicado al servicio docente y cubierto por las disposiciones del Título II del Estatuto de Servicio Civil, que serán responsabilidad del Instituto de Desarrollo Profesional Uladislao Gámez Solano, deberán considerarse las políticas o programas educativos aprobados por el Consejo Superior de Educación, así como lineamientos generales emitidos por el Ministerio de Planificación Nacional y Política Económica que resulten aplicables.
 
-Ficha Artículo 26
-
 Artículo 27.-Cooperación Interinstitucional. El Ministerio de Planificación Nacional y Política Económica, en coordinación con la Dirección General de Servicio Civil y las instituciones sujetas a los alcances de la Ley Marco de Empleo Público, N° 10.159, establecerán políticas, acuerdos y programas basados en cooperación interinstitucional para compartir recursos y espacios para propiciar la mayor eficiencia, maximización de recursos y alcance de los procesos de capacitación y desarrollo del personal.
-
-Ficha Artículo 27
 
 Artículo 28.- Capacitación del personal. La capacitación del personal deberá apoyar de manera efectiva la integridad y transparencia en la función pública, así como el fortalecimiento de las competencias claves, requeridas para el desempeño en la Alta Dirección Pública, estableciendo un programa de capacitación que considere las líneas rectoras definidas por el Ministerio de Planificación Nacional y Política Económica.
 
 La capacitación para el fortalecimiento de las competencias directivas debe realizarse mediante acciones coordinadas de capacitación y desarrollo asociadas a toda la gestión de recursos humanos, para asegurar la mayor eficiencia y eficacia, contribuir a la modernización del Estado, la competitividad, y agregar valor público a los productos y servicios prestados a los habitantes de la República.
 
-Ficha Artículo 28
-
 Artículo 29.- Declaraciones Juradas Las declaraciones juradas que emitan las personas servidoras en ejercicio del derecho de objeción de conciencia, cuando se vulneren sus convicciones religiosas, éticas y morales, en virtud de programas de formación y capacitación de carácter obligatorio, serán recibidas por la dependencia encargada de la gestión de recursos humanos en la institución en la cual labora la persona servidora pública. Las declaraciones juradas tendrán carácter confidencial y serán resguardadas en el expediente de la capacitación respectiva.
-
-Ficha Artículo 29
 
 CAPÍTULO VII
 
@@ -538,8 +487,6 @@ La evaluación del desempeño contempla como etapas básicas:
 
 4\. Análisis y entrega de resultados.
 
-Ficha Artículo 30
-
 Artículo 31.- Principios Rectores.
 
 Son principios rectores de la evaluación del desempeño de las personas servidoras públicas:
@@ -564,13 +511,9 @@ i) Principio de eficacia.
 
 j) Principio de eficiencia.
 
-Ficha Artículo 31
-
 Artículo 32.- Lineamientos a Evaluación de Desempeño. Las instituciones en el ámbito de la Rectoría de MIDEPLAN deberán contar con sus propios instrumentos técnicos específicos de evaluación de desempeño, en aras de que estos se apeguen tanto a la Ley Marco de Empleo Público como a la consecución de metas, objetivos y resultados institucionales, los cuales deberán ser formulados por la instancia encargada de la gestión de Recursos Humanos. Para ello, deberán apegarse a los lineamientos generales y modelo general de evaluación de desempeño emitidos por el Ministerio de Planificación Nacional y Política Económica, en coordinación con la Dirección General de Servicio Civil.
 
 La Dirección General de Servicio Civil brindará asistencia técnica, seguimiento y control para la implementación, desarrollo y mejora de los procesos de evaluación de desempeño a las instituciones cubiertas bajo el ámbito de rectoría de MIDEPLAN, salvo lo ya dispuesto en este Reglamento para las instituciones de la educación universitaria estatal quienes emitirán sus propias disposiciones de evaluación de desempeño de su personal.
-
-Ficha Artículo 32
 
 CAPÍTULO VIII
 
@@ -583,8 +526,6 @@ El establecimiento del sistema remunerativo de salario global debe aplicarse en 
 a) Familias de puestos definidas por MIDEPLAN conforme al artículo 13 de la Ley Marco de Empleo Público y que se regulan de conformidad con los artículos 13 y 14 del presente reglamento.
 
 b) Familias correspondientes al Poder Legislativo, el Poder Judicial, el Tribunal Supremo de Elecciones (TSE) y los entes públicos con autonomía de gobierno u organizativa, las cuales serán definidas por cada uno de estos y estarán conformadas por las personas servidoras públicas con funciones administrativas, profesionales o técnicas, que sean exclusivas y excluyentes para el ejercicio de las competencias constitucionalmente asignadas a dichos entes.
-
-Ficha Artículo 33
 
 Artículo 34. Condiciones, regulaciones y características mínimas del Sistema de Salario Global. El establecimiento del salario global en favor de las personas colaboradoras con una relación de empleo estatutaria, pública o mixta, incluyendo la metodología de valoración y escalas salariales, así como las modificaciones que eventualmente se ameriten en apego a los estudios técnicos respectivos aplicables y factores contextuales, serán establecidos por el Ministerio de Planificación Nacional y Política Económica en coordinación con la Dirección General de Servicio Civil, así también con la Secretaría Técnica de la Autoridad Presupuestaria en los ámbitos de su competencia, y atendiendo los siguientes aspectos:
 
@@ -616,8 +557,6 @@ g) En el caso de las remuneraciones de la alta jerarquía, conforme al artículo
 
 h) La diferenciación de funciones, labores y tareas de naturaleza referente a administración, supervisión y gestión bancaria, financiera y de Hacienda Pública.
 
-Ficha Artículo 34
-
 Artículo 35.- Columnas salariales globales. Cada familia de puestos contará con una columna salarial global.
 
 El Ministerio de Planificación Nacional y Política Económica (MIDEPLAN), la Secretaría Técnica de la Autoridad Presupuestaria y la Dirección General de Servicio Civil elaborarán conjuntamente una columna salarial global para cada familia de puestos bajo su ámbito de competencia. La columna iniciará secuencialmente del menor al mayor puntaje, todo lo anterior dentro del plazo de seis meses, contado a partir de la entrada en vigor del presente reglamento.
@@ -625,8 +564,6 @@ El Ministerio de Planificación Nacional y Política Económica (MIDEPLAN), la S
 El Poder Legislativo, el Poder Judicial, el Tribunal Supremo de Elecciones (TSE) y los entes públicos con autonomía de gobierno u organizativa deberán definir, mediante los instrumentos adecuados, sus familias laborales, los puestos y clases que las conforman, así como la columna salarial global de la familia correspondiente, dentro del plazo de seis meses, contado a partir de la entrada en vigor del presente reglamento.
 
 Dichas columnas salariales estarán vigentes a partir de la aprobación por parte de las autoridades competentes y deberá ser publicada en la plataforma Integrada de Empleo Público.
-
-Ficha Artículo 35
 
 Artículo 36.- Implementación del nuevo Esquema Salario Global y reglas de transición. El nuevo esquema de remuneración por salario global establecido para los puestos que se regulan en la Ley Marco de Empleo Público, Nº 10.159, deberá aplicarse, estrictamente y sin dilación, para toda nueva persona trabajadora que inicie sus labores en una institución pública con una relación de empleo de carácter estatutario, pública o mixto, o bien en puestos de alta jerarquía, así como en casos de reingreso en el servicio público sin que medie continuidad laboral.
 
@@ -654,8 +591,6 @@ TRANSITORIO ÚNICO. - En cuanto a las personas con nuevos nombramientos o movimi
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 44199 del 6 de setiembre del 2023)
 
-Ficha Artículo 36
-
 Artículo 37.- Supuestos de inaplicación del salario global. El nuevo esquema de remuneración por salario global establecido para los puestos que se agrupen en las familias laborales preceptuadas en la Ley Marco de Empleo Público, N° 10.159, no se aplicará estrictamente en los siguientes supuestos:
 
 a) Cuando a partir de la entrada en vigor del nuevo régimen de Salario Global, una persona que perciba su remuneración con base en esquema de salario compuesto se reincorpore al puesto en el cual ha mantenido un nombramiento titular o en propiedad, por haber concluido la condición o plazo que suspendía temporalmente el vínculo y ejercicio del puesto.
@@ -680,33 +615,21 @@ A las personas que estén en esta situación, se les respetará el pago de salar
 
 Análoga condición se deberá asumir cuando respecto a una persona, estén pendientes de materializarse ajustes salariales individuales o generales, sea con efectos en el salario base o en algún complemento salarial, que se hubiesen consolidado desde antes de entrar en vigencia el nuevo régimen de Salario Global o que se hubiese impulsado para reconocimiento desde antes de que ese régimen entrara en vigor, conforme con la normativa que estuviese vigente en ese momento y esté pendiente la resolución por parte de la Administración. Lo anterior, siempre que el ajuste individual o general, derive para la persona, en un monto de salario total, bruto y ordinario, mayor al que corresponda a la clasificación de su puesto en el esquema de salario global.
 
-Ficha Artículo 37
-
 Artículo 38.- Puestos que devengan salario único o global previo a la vigencia de la Ley Marco de Empleo Público. El nuevo esquema de remuneración por salario global establecido para los puestos que se agrupen en las familias laborales preceptuadas en la Ley Marco de Empleo Público, N° 10.159, no se aplicará a quienes al momento de entrar en vigencia el nuevo régimen de Salario Global, devenguen un salario único o salario global que sea mayor al que corresponda a la clasificación de su puesto en el nuevo esquema de remuneración global.
 
 A las personas que estén en esta situación, se les respetará el pago de salario único o salario global válidamente devengado, pero, a partir de ese momento, no se les efectuarán ajustes incrementales o actualizaciones hasta que su salario sea igualado o superado por el salario correspondiente en la columna salarial global que se dispone en la Ley Marco de Empleo Público y el presente reglamento. Cuando se cumpla esta última condición, se deberá hacer efectiva y de manera inmediata el traslado de la persona involucrada al esquema de salario global derivado de las disposiciones de la Ley Marco de Empleo Público.
 
 En los supuestos del personal que involucre a personas servidoras que se mantengan en un régimen de salario único o global distinto al derivado de la aplicación de los preceptos establecidos en la Ley Marco de Empleo Público, estos serán trasladados al nuevo esquema definido por la Ley Marco de Empleo Público, siempre y cuando su remuneración previa a la vigencia de dicha Ley sea inferior a la determinada por el nuevo esquema.
 
-Ficha Artículo 38
-
 Artículo 39.- Metodología de valoración del trabajo, Escala de Salario Global e Índices Salariales. El Ministerio de Planificación Nacional y Política Económica, publicará de manera paulatina y vía resolución en su sitio web, como parte de la Plataforma Integrada de Empleo Público, la Escala de Salario Global General, los índices o escalas salariales específicas de cada familia laboral, involucrando las clases y puestos que estén en su rectoría. Para la determinación de los salarios globales que correspondan a cada clase de puesto, se desarrollará y aplicará una metodología de valoración del trabajo por puntos. Dicha metodología contemplará los factores que en definitiva se determinen para aplicar con criterios de uniformidad, la valoración de las clases de puestos de cada familia laboral, de acuerdo con la base de factores establecida en el artículo 31 de la Ley Marco de Empleo Público.
-
-Ficha Artículo 39
 
 Artículo 40.- Remuneración en el Servicio Exterior. En casos específicos de puestos autorizados para el Servicio Exterior, se deberá considerar como adicional a los procesos de valoración de puestos y actualizaciones salariales periódicas, y para efectos del reconocimiento del salario global, un indicador de paridad del poder adquisitivo, que se utilizará como factor para eliminar distorsiones en el poder adquisitivo de cada persona trabajadora, según las diferencias que puedan resultar respecto al nivel de poder adquisitivo inherente a Costa Rica y las condiciones económicas que prevalezcan en los distintos países donde cada persona trabajadora se destaque ejerciendo su puesto.
 
 La determinación del factor se realizará mediando coordinación entre el Ministerio de Planificación Nacional y Política Económica y la Dirección General de Servicio Civil.
 
-Ficha Artículo 40
-
 Artículo 41- Movimiento de personal. Las dependencias encargadas de la gestión de recursos humanos en cada institución cubierta por la rectoría de MIDEPLAN, deberán indicar con claridad y precisión, durante las entrevistas que se realicen como parte de los concursos y procesos de selección o de previo a acordar y formalizar cualquier movimiento de personal, cuál será el salario y esquema de remuneración que aplicará en el eventual nombramiento, garantizando a la persona interesada que no exista duda sobre las condiciones que imperan y pueda contar con los elementos suficientes para aceptar, desistir u oponerse según considere pertinente.
 
-Ficha Artículo 41
-
 Artículo 42.- Procesos de pago. Para hacer efectiva la remuneración global, mensual y ordinaria, las instituciones cubiertas por la rectoría de MIDEPLAN, deberán establecer procesos de pago con consideración de periodicidades válidas, sea mensual con adelanto quincenal o excepcionalmente bisemanal en los supuestos que legalmente prevalezca, garantizando en cualquier forma, que no haya un pago salarial mayor del que corresponde en cada ejercicio económico, ni de lo que mensual o anual, y ordinariamente concierne a cada persona servidora pública.
-
-Ficha Artículo 42
 
 Artículo 43-Salario Escolar: En las instituciones en el ámbito de rectoría de MIDEPLAN se reconoce, como parle del salario, un pago diferido a cada persona de ocho punto treinta y tres por ciento (8.33%) mensual, el cual es acumulado por la Administración entre enero y diciembre de cada año y pagado de forma diferida en enero del año siguiente. Este porcentaje es denominado Salario Escolar y deberá considerarse como parte del Salario Global por tratarse de una parte del salario pagada de forma diferida y no un incentivo salarial, conforme la política de continuidad del Salario Escolar; dispuesto por la Fijación de los salarios· mínimos para 1994, Decreto Ejecutivo Nº 23495-MTSS de 19 de noviembre de 1993, adicionado por Decreto Ejecutivo Nº 23907-H de 21 de diciembre de 1994 y la normativa conexa. Las instituciones que entre el 1° de enero de 1994 y la entrada en vigor de la Ley Marco de Empleo Público no hubieran pagado el salario escolar de conformidad con su política salarial, regulación interna y legislación vigente, no podrán aplicar esta disposición para las relaciones de empleo cuyo esquema salarial no haya sido trasladado al esquema de columna salarial global regulada por la Ley Marco de Empleo Público y este reglamento.
 
@@ -722,15 +645,11 @@ Las instituciones, órganos y entes excluidos de la rectoría de Empleo Público
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 44755 del 12 de noviembre de 2024)
 
-Ficha Artículo 43
-
 CAPÍTULO IX
 
 SUBSISTEMA GESTIÓN DE LAS RELACIONES LABORALES
 
 Artículo 44.- Tope en las vacaciones anuales. Se establece un tope de veinte días hábiles de vacaciones anuales por cada cincuenta semanas de labores continuas. No podrán acumularse más de dos periodos. Lo anterior con la salvedad de lo expresamente normado en el Transitorio VIII, para quienes, previo a la entrada en vigencia de la Ley N° 10.159 ya habían adquirido el derecho a una mayor cantidad de días de vacaciones.
-
-Ficha Artículo 44
 
 Artículo 45.- Reglas en el disfrute de vacaciones. El disfrute de vacaciones del personal de las instituciones cubiertas bajo la rectoría de MIDEPLAN se hará efectivo de conformidad con las siguientes pautas, no excluyentes entre sí:
 
@@ -740,15 +659,9 @@ b) La programación de vacaciones anuales que se establezca a lo interno de cada
 
 c) El común acuerdo entre la persona servidora pública y la jefatura superior inmediata.
 
-Ficha Artículo 45
-
 Artículo 46.- Modificación a la programación de vacaciones. Solo procederán las modificaciones a la programación de vacaciones establecida, cuando así lo ameriten las necesidades del servicio o situaciones extraordinarias de las personas servidoras públicas, de las instituciones cubiertas bajo la rectoría de MIDEPLAN.
 
-Ficha Artículo 46
-
 Artículo 47.- Obligación de Jefaturas. Es responsabilidad de las jefaturas inmediatas hacer cumplir los descansos vacacionales debidamente fijados, con las salvedades que se establecen en este Reglamento, en cuanto a las necesidades del servicio o situaciones extraordinarias de las personas servidoras públicas de las instituciones cubiertas bajo la rectoría de MIDEPLAN.
-
-Ficha Artículo 47
 
 Artículo 48.- Vacaciones profilácticas. Las personas servidoras públicas de las instituciones cubiertas bajo la rectoría de MIDEPLAN podrán disfrutar de vacaciones profilácticas. Dichas vacaciones son un periodo de descanso remunerado de naturaleza excepcional, y de efecto preventivo o descongestionante para el organismo o salud mental de la persona servidora pública, debido al desempeño de funciones por plazos mínimos y continuos de tiempo, en ciertos cargos previa y técnicamente determinados, cuya naturaleza de labores impliquen el contacto directo y constante con agentes externos contagiosos o peligrosos, que puedan generar enfermedades físicas y psicológicas a las personas trabajadoras. Lo anterior, con la finalidad de mantener el recurso humano en óptimas condiciones para el buen desempeño del trabajo y asegurar que se brinde un servicio de calidad.
 
@@ -770,45 +683,25 @@ El beneficio de las vacaciones profilácticas no constituye un derecho adquirido
 
 Es absolutamente prohibido compensar en dinero las vacaciones profilácticas, acumularlas o fraccionarlas.
 
-Ficha Artículo 48
-
 Artículo 49.- Normativa interna sobre previsiones de entrega de documentación y activos. Cada institución bajo la rectoría de MIDEPLAN, dentro de los seis meses posteriores a la vigencia del presente reglamento, deberá dictar la normativa interna relativa a previsiones de entrega de documentación y activos al superior inmediato o al que este designe, durante el periodo en que cada persona servidora disfrute de sus vacaciones, de manera que se propicie la continuidad del servicio público.
-
-Ficha Artículo 49
 
 Artículo 50.- De las licencias y de los permisos. Las licencias y los permisos que se concedan a las personas servidoras de las instituciones cubiertas bajo la rectoría de MIDEPLAN, serán las expresamente dispuestas en la Ley Marco de Empleo Público, N° 10.159 y las contempladas en el Estatuto de Servicio Civil y su Reglamento. Las licencias y permisos que se otorguen deberán ser comunicadas a la Dirección General de Servicio Civil.
 
-Ficha Artículo 50
-
 Artículo 51.- Permisos y licencias de excepción. Podrán disfrutar de permisos y licencias ocasionales de excepción, las personas funcionarias públicas cubiertas por la rectoría de MIDEPLAN, de conformidad con los requisitos y formalidades que en cada dependencia establezca su normativa interna.
-
-Ficha Artículo 51
 
 Artículo 52.- Trámite de licencias. Las personas servidoras públicas- de las instituciones cubiertas bajo la rectoría de MIDEPLAN- que requieran de una licencia, tramitarán la solicitud por medio de su superior inmediato, ante las oficinas de recursos humanos.
 
-Ficha Artículo 52
-
 Artículo 53.- Requisitos de las licencias. Salvo casos excepcionales, las solicitudes de licencia-de las personas servidoras públicas de las instituciones cubiertas bajo la rectoría de MIDEPLAN- se presentarán por escrito y con la anticipación que determine mediante instrucción interna cada entidad u órgano, para su oportuna resolución. No podrá disfrutarse de la licencia si no ha sido previamente aprobada y comunicada a la persona funcionaria.
-
-Ficha Artículo 53
 
 Artículo 54.- Cancelación de licencias. En casos altamente calificados- las personas servidoras públicas de las instituciones cubiertas bajo la rectoría de MIDEPLAN- cuando se cause un evidente perjuicio al servicio público, la licencia podrá ser cancelada, mediante resolución debidamente motivada y comunicada en un plazo razonable a la persona interesada, para que esta pueda reintegrarse a sus labores en forma oportuna.
 
-Ficha Artículo 54
-
 Artículo 55.- Licencias infundadas. Se considerará falta grave plantear un hecho falso o inexistente para solicitar una licencia ocasional con el fin de obtenerla. En tal caso, se procederá a la apertura del órgano director del procedimiento en cumplimiento del debido proceso, en los términos establecidos en la Ley Marco de Empleo Público, N° 10.159.
-
-Ficha Artículo 55
 
 Artículo 56.- Requisitos y sanción por falsedad de licencia para cuido de un familiar compañero o compañera. Además de lo establecido en el Estatuto de Servicio Civil, su Reglamento y la normativa supletoria o conexa, con la solicitud de permiso para el cuido de un familiar con enfermedad o discapacidad, o de un compañero o compañera en los términos establecidos en dicho Reglamento, la persona servidora pública comprendida en el presente régimen, tiene el deber de presentar ante la institución para la cual labora, una declaración jurada consignando que convive con la persona enferma o con discapacidad, salvo en el caso de los padres e hijos, con quienes no se requiere la convivencia. En todo caso, el vínculo familiar debe de ser por consanguinidad o afinidad hasta el segundo grado.
 
 Cualquier falsedad en la declaración jurada será considerada falta grave que ameritará la apertura del procedimiento administrativo disciplinario con observancia del debido proceso.
 
-Ficha Artículo 56
-
 Artículo 57.- Prueba de enfermedad o incapacidad de un familiar objeto de cuido. Para efectos de permisos remunerados o no remunerados para el cuidado de un familiar con enfermedad o discapacidad, -las personas servidoras públicas de las instituciones cubiertas bajo la rectoría de MIDEPLAN-, con la finalidad de demostrar la enfermedad terminal o accidente grave del familiar, además de lo establecido en el Estatuto de Servicio Civil, su Reglamento y la normativa supletoria o conexa, deberán presentar certificado médico debidamente validado por el departamento correspondiente de la Caja Costarricense del Seguro Social.
-
-Ficha Artículo 57
 
 CAPÍTULO X
 
@@ -816,15 +709,11 @@ DISPOSICIONES FINALES
 
 Artículo 58.- Reglamentos autónomos de servicio. En el caso de las dependencias y los órganos del Poder Ejecutivo, los reglamentos autónomos de servicio deberán contar con el aval del Ministerio de Planificación Nacional y Política Económica, previa emisión del criterio técnico y jurídico de la Dirección General de Servicio Civil. Adicionalmente, los reglamentos autónomos de servicio de las instituciones que están bajo el ámbito de competencia de la Autoridad Presupuestaría, deberán contar con el visto bueno de la Secretaría Técnica de la Autoridad Presupuestaria, en lo correspondiente a su conformidad con las directrices y los lineamientos generales y específicos de política presupuestaria formulados por la Autoridad Presupuestaria.
 
-Ficha Artículo 58
-
 Artículo 59.- Regulaciones de empleo mixto. Las instituciones con relaciones de empleo mixto, de conformidad con las disposiciones legales vigentes, se regirán de la siguiente forma:
 
 a) Los servidores de naturaleza pública se rigen íntegramente por este reglamento, así como por las normas estatutarias correspondientes, leyes especiales y normas reglamentarias aplicables.
 
 b) Las relaciones de empleo con las personas trabajadoras, con condiciones mayoritariamente regidas por el Derecho Laboral común, seguirán rigiéndose por este, sin perjuicio de aquellas disposiciones que, por la naturaleza pública de la institución, le puedan aplicar a su personal en el ejercicio de sus labores. Asimismo, les será de aplicación imperativa, las disposiciones establecidas en los Capítulos IV, VIII, IX y X de la Ley Marco de Empleo Público, N° 10.159, referentes a Gestión de Organización del Trabajo, Gestión de la Compensación, tope de vacaciones, licencias para cuidado de un familiar con enfermedad o discapacidad, permiso de paternidad, licencia de maternidad y negociación colectiva, así como los preceptos que para su regulación y aplicación se disponen en este Reglamento y demás disposiciones de alcance general o directrices que se emitan al efecto.
-
-Ficha Artículo 59
 
 Artículo 60- Modifíquese el artículo 25 del Reglamento del Estatuto de Servicio Civil, Decreto Ejecutivo N° 21, para que se lea de la siguiente manera:
 
@@ -842,23 +731,15 @@ La Dirección General supervisará en cualquier tiempo y circunstancia la correc
 
 La Tesorería Nacional no autorizará el pago de salarios a servidores, cuando se hayan omitido las disposiciones de este artículo".
 
-Ficha Artículo 60
-
 Artículo 61.- Modifíquese el inciso d) del artículo 43 del Reglamento del Estatuto de Servicio Civil, Decreto Ejecutivo N° 21, para que se lea de la siguiente manera:
 
 "d. Se considerará como falta grave y causal para iniciar el debido proceso de despido, el resultado de la evaluación desempeño de la persona servidora que, a pesar de advertencias, fuese inferior a setenta por ciento o a setenta puntos, por dos periodos de evaluación de desempeño consecutivos firmes, tras verificarse que las calificaciones estén debidamente justificadas por la jefatura inmediata que las asigne y por la autoridad jerárquica que la confirme, en caso de haber sido recurrida conforme con los procedimientos aplicables, y tras el desarrollo e implementación de un plan de seguimiento y mejora de desempeño, con base en el resultado de la primera evaluación de desempeño".
-
-Ficha Artículo 61
 
 Artículo 62- Modifíquese el inciso b) del artículo 14 del Reglamento del Título III de la Ley Fortalecimiento de las Finanzas Públicas, Ley N° 9635 referente al Empleo Público, Decreto N° 41564-MIDEPLAN-H del 11 de febrero de 2019, para que se lea de la siguiente manera:
 
 "b) El incentivo por anualidad será un monto nominal fijo para cada escala salarial en esquema de salario compuesto, que permanecerá invariable. El pago efectivo por el cumplimiento de cada anualidad, en supuestos de permanencias anuales de forma continúa prestando servicios a la Administración Pública, se realizará a partir del mes inmediato siguiente al aniversario de ingreso o reingreso de la persona servidora pública que labore bajo el esquema de salario compuesto. Cuando medien situaciones en las cuales se suspenda o interrumpa esa permanencia continúa prestando servicios a la Administración Pública, el cumplimiento de anualidades se ajustará a la fecha respectiva en la cual se puedan computar años completos de servicio y el pago efectivo de cada anualidad, se realizará a partir del mes inmediato siguiente al cumplimiento".
 
-Ficha Artículo 62
-
 Artículo 63.- Derogatoria. Deróguese el Decreto Ejecutivo N° 42087-MP-PLAN de 4 de diciembre de 2019.
-
-Ficha Artículo 63
 
 DISPOSICIONES TRANSITORIAS
 
@@ -868,11 +749,7 @@ Dentro de los cuatro meses posteriores a la publicación del presente reglamento
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 44055 del 6 de junio del 2023)
 
-Ficha Artículo 1 Transitorio
-
 Transitorio II.- Distribución de puestos según familias. Las instituciones en el ámbito de cobertura de la Ley Marco de Empleo Público tendrán un plazo de hasta un mes calendario, contado a partir de la vigencia del presente reglamento, para la definición de la distribución por familias de clases de puestos y cargos de conformidad con el artículo 14 del presente reglamento.
-
-Ficha Artículo 2 Transitorio
 
 Transitorio III. - Sobre nuevas contrataciones previas a la vigencia de la columna salarial global. A partir de la entrada en vigor del presente reglamento y hasta que se emitan las resoluciones o actos, por parte de las autoridades competentes, que formalicen la nueva columna salarial global, las contrataciones de personas servidoras de nuevo ingreso, cuyos nombramientos sean en clases salariales que, previo a la vigencia de la Ley Marco de Empleo Público se encontraran en el esquema de salario compuesto, se remunerarán con una columna salarial global transitoria, la cual definirá remuneraciones globales sin pluses salariales y será dispuesta por medio de directriz de MIDEPLAN. Una vez que entre en vigor la nueva columna salarial global, las personas bajo este supuesto deberán ser trasladadas y remuneradas conforme a esta.
 
@@ -882,21 +759,13 @@ La columna salarial global transitoria no será utilizada como referencia para l
 
 Las instituciones fuera del ámbito de rectoría de MIDEPLAN podrán aplicar esta misma medida transitoria de forma análoga, para lo cual, podrán definir sus columnas salariales globales transitorias.
 
-Ficha Artículo 3 Transitorio
-
 Transitorio IV. - Ajustes a la normativa interna. Las instituciones contempladas en el ámbito de aplicación de la Ley Marco de Empleo Público, deberán ajustar su normativa interna de conformidad con las disposiciones de dicha Ley y este Reglamento en un plazo de tres meses posteriores a la vigencia del presente Reglamento
-
-Ficha Artículo 4 Transitorio
 
 Transitorio V. - Comprobación de idoneidad. La Dirección General de Servicio Civil tendrá un plazo de 6 meses para actualizar los estándares y normativas específicas para la formulación de instrumentos y pruebas para la comprobación de idoneidad para optimizarles y un mayor cumplimiento de los objetivos de la Ley Marco de Empleo Público. Asimismo, las instituciones fuera del ámbito del Estatuto de Servicio Civil contarán con el mismo plazo para dicha tarea.
 
 Durante los seis meses referidos en el párrafo anterior, se deberán utilizar los instrumentos vigentes de previo a la vigencia de Ley Marco de Empleo Público, siempre y cuando se garantice la idoneidad del personal y no se contradiga esta Ley; aspecto que deberá ser analizado por cada dependencia encargada de la Gestión de Recursos Humanos de las instituciones en colaboración con la asesoría técnica de la Dirección General de Servicio Civil.
 
-Ficha Artículo 5 Transitorio
-
 Transitorio VI. - Evaluación de Desempeño. Las instituciones en el ámbito de rectoría de MIDEPLAN podrán seguir utilizando los instrumentos en materia de evaluación de desempeño que se encuentre vigentes de previo a la entrada en vigor de la Ley Marco de Empleo Público, hasta que se emitan los nuevos lineamientos generales y modelo respecto a estos, en cuyo momento deberán hacerse las actualizaciones, reformas y modificaciones respectivas.
-
-Ficha Artículo 6 Transitorio
 
 Transitorio VII-Prórroga del plazo para la formulación de los salarios globales definitivos. Para los efectos del artículo 35 del presente Reglamento, las entidades autónomas contempladas en el artículo 2 de la Ley Marco de Empleo Público, Ley Nº 10.159, dentro de la rectoría del MIDEP LAN, que no cuentan con los instrumentos técnicos y metodológicos finalizados, necesarios para la formulación de salarios globales, podrán recibir una prórroga para la entrega de éstos.
 
@@ -906,16 +775,10 @@ Una vez analizada la solicitud con la información requerida, el MIDEPLAN determ
 
 (Así adicionado por el artículo 2° del decreto ejecutivo N° 44199 del 6 de setiembre del 2023)
 
-Ficha Artículo 7 Transitorio
-
 Transitorio VIII. - Evaluación de Desempeño para el Ministerio de Educación Pública. Considerando las particularidades en materia de gestión del talento humano y la dimensión de la planilla institucional bajo el ámbito de aplicación de la Ley de Salarios de la Administración Pública, Ley N°2166, el Ministerio de Educación Pública seguirá utilizando durante los años 2025 y 2026 el instrumento de evaluación de desempeño que se encontraba vigente de previo a la entrada en vigor de la Ley Marco de Empleo Público, Ley N°10159. El Ministerio de Educación Pública a partir del año 2027 implementará el nuevo modelo de Evaluación del Desempeño aprobado por los entes rectores.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 45295 del 20 de octubre de 2025)
 
-Ficha Artículo 8 Transitorio
-
 Artículo 64. Rige a partir de su publicación.
 
 Dado en la Presidencia de la República a los veintiocho días del mes de febrero del año dos mil veintitrés.
-
-Ficha Artículo 64

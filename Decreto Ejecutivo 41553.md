@@ -1,3 +1,12 @@
+---
+numero: "Decreto Ejecutivo 41553"
+nombre: "Reglamento para el funcionamiento de la Comisión de Políticas para la Negociación de Convenciones Colectivas en el Sector Público"
+materia: "laboral"
+version_sinalevi: "2 de 2"
+ultima_reforma: ""
+enlace: ""
+---
+
 Decreto Ejecutivo 41553
 
 Reglamento para el funcionamiento de la Comisión de Políticas para la Negociación de Convenciones Colectivas en el Sector Público
@@ -60,11 +69,7 @@ d) El Director General del Servicio Civil, el Sub Director General del Servicio 
 
 e) Un representante de nivel jerárquico de la entidad que va a negociar la convención colectiva.
 
-Ficha Artículo 1
-
 Artículo 2º—El presente reglamento será aplicable a todas las empresas e instituciones del sector público que participen de la negociación de convenciones colectivas, en el entendido de que no podrán participar de dichas negociaciones, como sus beneficiarios, las personas a quienes hacen referencia los artículos 683 y 689 del Código de Trabajo. Se excluyen de este Reglamento las Municipalidades y las Universidades Públicas, las cuales gozan de autonomía de gobierno de acuerdo con la Constitución Política.
-
-Ficha Artículo 2
 
 Artículo 3º-Son atribuciones de la Comisión.
 
@@ -80,22 +85,12 @@ c) Dictaminar los proyectos de negociación de convenciones colectivas para el s
 
 d) Mantener el contacto necesario con la delegación patronal que participe de la negociación colectiva, durante el tiempo que dure dicha negociación, a fin de aportar el apoyo técnico y la asesoría que requiera esa delegación.
 
-Ficha Artículo 3
-
 Artículo 4º—La Comisión contará con la asesoría jurídica de la Procuraduría General de la República y el concurso de los demás órganos técnicos de la Administración Pública que requiera para el mejor cumplimiento de sus fines.
-
-Ficha Artículo 4
 
 Artículo 5º—En todo lo relacionado con su funcionamiento, la Comisión se regirá por las disposiciones de los artículos 49 a 58 de la Ley General de la Administración Pública, Ley N° 6227, de 2 de mayo de 1978.
 
-Ficha Artículo 5
-
 Artículo 6º—Cuando los órganos jerárquicos de las empresas o entidades cubiertas por este reglamento se separen de algún lineamiento expresado por la Comisión que aquí se establece, deberán hacerlo bajo su responsabilidad, y conscientes de los compromisos presupuestarios que asumen.
-
-Ficha Artículo 6
 
 Artículo 7º—Deróguese el Decreto Ejecutivo N° 29576-MTSS, Reglamento para la negociación de convenciones colectivos en el Sector Público, de el 31 de mayo de 2001.
 
 Dado en la Presidencia de la República, a los 30 días del mes de noviembre de dos mil dieciocho.
-
-Ficha Artículo 7

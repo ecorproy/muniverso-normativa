@@ -1,3 +1,12 @@
+---
+numero: "Ley 8"
+nombre: "Ley Orgánica del Poder Judicial (1937)"
+materia: "judicial"
+version_sinalevi: "54 de 54"
+ultima_reforma: "Ley 10866 del 2026-03-04"
+enlace: ""
+---
+
 Ley 8
 
 Ley Orgánica del Poder Judicial (1937)
@@ -28,15 +37,11 @@ Corresponde al Poder Judicial, además de las funciones que la Constitución Pol
 
 (Así reformado por el artículo 1° de la Ley No. 7728 de 15 de diciembre de 1997).
 
-Ficha Artículo 1
-
 Artículo 2.- El Poder Judicial sólo está sometido a la Constitución Política y la ley. Las resoluciones que dicte, en los asuntos de su competencia, no le imponen más responsabilidades que las expresamente señaladas por los preceptos legislativos.
 
 No obstante, la autoridad superior de la Corte prevalecerá sobre su desempeño, para garantizar que la administración de justicia sea pronta y cumplida.
 
 (Así reformado por el artículo 1° de la Ley No. 7728 de 15 de diciembre de 1997).
-
-Ficha Artículo 2
 
 Artículo 3.- Administran la justicia:
 
@@ -68,15 +73,11 @@ El coordinador distribuirá la carga de trabajo, aplicando los criterios que hay
 
 (Así reformado por el artículo 1° de la Ley No. 7728 de 15 de diciembre de 1997).
 
-Ficha Artículo 3
-
 Artículo 4.- Ningún tribunal puede avocar el conocimiento de causas pendientes ante otro. En casos muy calificados, se puede pedir un expediente ad effectum videndi, por no más de diez días.
 
 Si el expediente fuere retenido injustificadamente por mayor tiempo, la persona responsable podrá ser sujeta del régimen sancionador previsto en la Ley de Régimen Sancionador de Personas Servidoras e Integrantes de Listas de Suplentes, Elegibles y Meritorias del Poder Judicial, cuando así lo solicite parte interesada.
 
 (Así reformado el párrafo anterior por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026)
-
-Ficha Artículo 4
 
 Artículo 5- Si las personas juzgadoras no cumplen con los plazos establecidos para realizar sus actuaciones y, en su caso, dictar resoluciones, la parte interesada podrá urgir el pronto despacho ante la persona servidora omisa y, si no lo obtiene dentro del término de cinco días naturales, podrá interponer la denuncia por retardo de justicia.
 
@@ -94,11 +95,7 @@ Los usos y las costumbres tendrán carácter supletorio del derecho escrito. Al 
 
 (Así reformado por el artículo 3 inciso 2) de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
 
-Ficha Artículo 5
-
 Artículo 6.- Los tribunales se prestarán mutuo auxilio para la práctica de todas las diligencias que fueren necesarias y se ordenaren en la sustanciación de los asuntos judiciales.
-
-Ficha Artículo 6
 
 Artículo 6 bis.- Tendrán la validez y eficacia de un documento físico original, los archivos de documentos, mensajes, imágenes, bancos de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por nuevas tecnologías, destinados a la tramitación judicial, ya sea que contengan actos o resoluciones judiciales. Lo anterior siempre que cumplan con los procedimientos establecidos para garantizar su autenticidad, integridad y seguridad.
 
@@ -116,15 +113,11 @@ La Corte Suprema de Justicia dictará los reglamentos necesarios para normar el 
 
 (Nota de Sinalevi: El Consejo Superior, mediante circular N° 57 del 26 de abril de 2010 "Dispensa de la presentación de documentos originales cuando éstos hayan sido enviados de previo vía fax", dispuso que "...en la remisión de escritos vía fax no es necesario que las partes remitan el documento original dentro de los tres días siguientes, en razón de la derogatoria parcial del artículo 6 bis de la Ley Orgánica del Poder Judicial", excepto cuando se ponga en duda su autenticidad.)
 
-Ficha Artículo 6 BIS
-
 Artículo 7.- Para ejecutar resoluciones o practicar las actuaciones que ordenen, los tribunales podrán requerir el auxilio de la fuerza pública y de los otros medios de acción conducentes.
 
 Los particulares quedan obligados a prestar el auxilio que se les solicite y que puedan dar.
 
 (Así reformado por el artículo 1° de la Ley No. 7728 de 15 de diciembre de 1997).
-
-Ficha Artículo 7
 
 Artículo 8.- Los funcionarios que administran justicia no podrán:
 
@@ -147,8 +140,6 @@ Aparte de la sanción disciplinaria que se impondrá al funcionario, el hecho de
 Las prohibiciones establecidas en los incisos 3) y 4) son aplicables a todos los servidores judiciales, en el ejercicio de sus funciones.
 
 (Así reformado por el artículo 1° de la Ley N° 7728 de 15 de diciembre de 1997).
-
-Ficha Artículo 8
 
 Artículo 9.- Se prohíbe a todos los funcionarios y empleados del Poder Judicial:
 
@@ -182,17 +173,11 @@ Las prohibiciones a las que se refieren los incisos 1) y 3) no son aplicables a 
 
 (Así reformado por el artículo 1° de la Ley N° 7728 de 15 de diciembre de 1997)
 
-Ficha Artículo 9
-
 Artículo 9 bis- Las personas servidoras judiciales tienen deber de reserva y discreción respecto de los asuntos conocidos en razón de su cargo, que así lo requieran por su naturaleza o en virtud de instrucciones especiales, además de los establecidos como confidenciales por ley, sin perjuicio de las obligaciones que tienen de rendir cuentas de manera transparente y de denunciar cualquier hecho delictivo o que pueda constituir falta. A quienes incumplan con este deber, se les aplicará lo previsto en la Ley de Régimen Sancionador de Personas Servidoras e Integrantes de Listas de Suplentes, Elegibles y Meritorias del Poder Judicial.
 
 (Así adicionado por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026)
 
-Ficha Artículo 9 BIS
-
 Artículo 10.- Cuando hayan de practicarse diligencias fuera del perímetro judicial de la oficina, que ameriten gastos de traslado, alimentación y hospedaje, que deban cubrir los interesados en un proceso, el Despacho dictará resolución indicando los correspondientes montos, conforme se establezca legalmente. Esa suma deberá depositarla, de previo, el interesado en la cuenta corriente del respectivo despacho judicial, el cual girará el monto al servidor que prestó el servicio.
-
-Ficha Artículo 10
 
 Artículo 11.- Todo servidor judicial deberá prestar el juramento requerido por la Constitución Política y en los casos que la ley señala.
 
@@ -210,8 +195,6 @@ Todas las juramentaciones se asentarán en un libro que, para tal efecto, se lle
 
 (Así reformado por el artículo 1° de la Ley No. 7728 de 15 de diciembre de 1997)
 
-Ficha Artículo 11
-
 Artículo 12.- Sin perjuicio de los otros requisitos exigidos por la ley, para ingresar al servicio judicial se requiere estar capacitado, mental y físicamente, para desempeñar la función, según su naturaleza.
 
 Sin embargo, no podrán ser nombradas las personas contra quienes haya recaído auto firme de apertura a juicio; tampoco los condenados por delito a pena de prisión; los que estén sometidos a pena de inhabilitación para el desempeño de cargos u oficios públicos; ni los declarados judicialmente en estado de quiebra o insolvencia; los que habitualmente ingieran bebidas alcohólicas en forma excesiva, consuman drogas no autorizadas o tengan trastornos graves de conducta, de modo que puedan afectar la continuidad y la eficiencia del servicio.
@@ -222,37 +205,23 @@ Tampoco podrán ser nombradas, sin importar que sea en la condición de meritori
 
 (Así reformado por el artículo 1° de la Ley N° 7728 de 15 de diciembre de 1997)
 
-Ficha Artículo 12
-
 Artículo 13.- (Derogado por el artículo 3° de la ley N° 6024 del 15 de diciembre de 1976. Posteriormente mediante resolución de la Sala Constitucional Nº 4425-94 del 19 de agosto de 1994, se anuló el numeral 13 de la norma N° 7333 del 5 de mayo de 1933, que reformó integralmente la presente ley)
-
-Ficha Artículo 13
 
 Artículo 14.- Cuando quedare vacante un puesto de administración de justicia, con la excepción del de Magistrado, para llenar la vacante en propiedad, la Corte o el Consejo deberá pedir al Consejo de la Judicatura que le envíe una terna constituida entre los funcionarios elegibles. Si abierto el concurso no se presentare ningún candidato, se seguirá el procedimiento establecido en la Ley de Carrera Judicial.
 
 Igual procedimiento se aplicará para hacer un nombramiento interino por más de tres meses.
 
-Ficha Artículo 14
-
 Artículo 15- Los nombramientos se realizarán mediante votación pública y razonada. En las actas deberán consignarse manifestaciones, votos salvados o protestas e os miembros del órgano encargado del nombramiento.
 
 (Así reformado por el artículo 2° de la ley Publicidad e idoneidad en el proceso de elección del Fiscal o Fiscala General de la República, N° 10401 del 14 de noviembre de 2023)
 
-Ficha Artículo 15
-
 Artículo 16.- Al efectuarse un nombramiento en propiedad, el Consejo puede disponer que la persona elegida sea ubicada en otro despacho por un período no mayor de tres meses, para que, bajo la dirección del titular de esa otra oficina, se capacite para el desempeño del cargo. Lo anterior se efectuará en coordinación con la Escuela Judicial.
-
-Ficha Artículo 16
 
 Artículo 17.- Los Magistrados durarán en sus funciones el tiempo que determine la Constitución Política y los restantes funcionarios que administran justicia, que no se encuentran admitidos en la Carrera Judicial, durarán seis años.
 
 Si iniciado el período de un funcionario, ocurriere una vacancia por cualquier motivo, quien lo reponga se tendrá por nombrado para el resto de ese período, salvo en lo dispuesto por la Constitución Política, en cuanto a Magistrados.
 
-Ficha Artículo 17
-
 Artículo 18.- Cuando la Corte Suprema de Justicia o el Consejo Superior del Poder Judicial, en su caso, tenga duda sobre la corrección de cualquier servidor judicial, de modo que se dé una pérdida de confianza, podrá separarlo de su cargo para el mejor servicio público. Cuando no se trate de funcionarios o empleados de confianza, deberá tramitarse la correspondiente información, en cumplimiento del debido proceso, que garantice el derecho de defensa del interesado.
-
-Ficha Artículo 18
 
 Artículo 19.- Para poder ejercer válidamente los cargos, los Magistrados deben rendir caución por la suma correspondiente a veintiocho salarios base. Los miembros del Consejo Superior del Poder Judicial, el Director Ejecutivo, el Subdirector Ejecutivo, el Auditor, el Jefe y Subjefe de los Departamentos Financiero Contable y de Proveeduría, los jefes de las Secciones de Tesorería y de Almacén, y los jefes y encargados de las unidades administrativas regionales y subregionales, la rendirán por catorce salarios base; los jueces de casación y los jueces del Tribunal Colegiado, por siete salarios base; los jueces, por cuatro salarios base y todos los demás servidores del Poder Judicial, que por ley deban rendir garantía, por tres salarios base. Esta disposición no comprende a los suplentes ni a los interinos que sustituyan a un servidor judicial por un tiempo menor de tres meses.
 
@@ -262,31 +231,19 @@ En caso de traslado o permuta de servidores judiciales de la misma categoría, l
 
 (Así reformado por el artículo 1° de la Ley N° 7728 de 15 de diciembre de 1997).
 
-Ficha Artículo 19
-
 Artículo 20.- La garantía puede consistir en hipoteca, fianza, póliza de fidelidad del Instituto Nacional de Seguros o un depósito en efectivo.
 
 Para la calificación de la garantía y el otorgamiento de la escritura, en su caso, se seguirán, en lo conducente, las prescripciones del Código Fiscal y los decretos respectivos.
-
-Ficha Artículo 20
 
 Artículo 21.- La garantía se extingue un año después de la fecha en que el funcionario terminó su período o cesó en sus funciones. Pero si ya hubiere juicios pendientes de responsabilidad contra él, la garantía quedará afecta a lo que en ellos se declare.
 
 Si hubiere reelección de algún funcionario, deberá rendirse y calificarse de nuevo su garantía.
 
-Ficha Artículo 21
-
 Artículo 22.- Para cancelar la garantía, el interesado ocurrirá al Ministerio de Hacienda, el cual, si ha transcurrido el tiempo necesario, citará mediante edictos publicados en el diario oficial, a quienes tengan alguna objeción que hacer a la cancelación, para que, dentro de quince días, se presenten a ejercitar su derecho. Si nadie ocurriere en ese término, que contará desde el día siguiente de la publicación del primer edicto, el Ministerio de Hacienda mandará a hacer la cancelación de la hipoteca o la devolución del depósito; pero si ocurre alguno que justifique haber entablado en tiempo el juicio de responsabilidad, se suspenderá la orden de cancelación o devolución, mientras no se concluya el juicio.
-
-Ficha Artículo 22
 
 Artículo 23.- Los trámites indicados en el artículo anterior no son necesarios cuando se trate de garantía fiduciaria, la cual queda extinguida cuando se realicen las condiciones indicadas en el artículo 21.
 
-Ficha Artículo 23
-
 Artículo 24.- La extinción de la que se habla en el artículo 21 se refiere únicamente a la garantía, pues la acción de responsabilidad contra el funcionario se rige por los términos ordinarios de la prescripción.
-
-Ficha Artículo 24
 
 Artículo 25.- No pueden administrar justicia:
 
@@ -295,8 +252,6 @@ Artículo 25.- No pueden administrar justicia:
 2.- Quien sea pariente por consanguinidad o afinidad, dentro del segundo grado inclusive, de un integrante de un tribunal colegiado.
 
 3.- Quien tenga motivo de impedimento o que haya sido separado por excusa o recusación en determinado negocio.
-
-Ficha Artículo 25
 
 Artículo 26.- En cumplimiento de las condiciones y procedimientos que establece esta ley, la Ley de Régimen Sancionador de Personas Servidoras e Integrantes de Listas de Suplentes, Elegibles y Meritorias del Poder Judicial y leyes conexas, las funciones de quienes sirven puestos judiciales cesan por:
 
@@ -328,8 +283,6 @@ Artículo 26.- En cumplimiento de las condiciones y procedimientos que establece
 
 (Así adicionado el inciso anterior por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026)
 
-Ficha Artículo 26
-
 Artículo 27.- Los servidores que desempeñan puestos judiciales serán suspendidos por las siguientes causas:
 
 1.- Hallarse detenidos preventivamente y mientras dure esa medida.
@@ -344,8 +297,6 @@ Artículo 27.- Los servidores que desempeñan puestos judiciales serán suspendi
 
 (Así reformado por el artículo 1° de la Ley N° 7728 de 15 de diciembre de 1997).
 
-Ficha Artículo 27
-
 Artículo 28.- Podrá ser destituido de su cargo, siguiendo el procedimiento establecido y con la previa oportunidad de defensa, el servidor:
 
 1.- Al que se imponga pena de inhabilitación para el desempeño de cargos públicos.
@@ -358,8 +309,6 @@ Artículo 28.- Podrá ser destituido de su cargo, siguiendo el procedimiento est
 
 5.- Que, habitualmente ingiera bebidas alcohólicas de forma excesiva; consuma drogas no autorizadas o tuviere trastornos graves de conducta, de forma tal que puedan afectar el servicio.
 
-Ficha Artículo 28
-
 Artículo 29.- Cuando, por impedimento, recusación, excusa u otro motivo, un servidor tenga que separarse del conocimiento de un asunto determinado, su falta será suplida del modo siguiente:
 
 1.- A los jueces los suplirán otros del mismo lugar, en la forma que establezca el Presidente de la Corte. Si estos, a su vez, tampoco pudieren conocer, serán llamados los suplentes respectivos y, si la causal comprendiere también a los suplentes, deberá conocer el asunto el titular del despacho en que radica la causa, a pesar de la causal que le inhibe y sin responsabilidad disciplinaria por ese motivo.
@@ -370,19 +319,13 @@ Artículo 29.- Cuando, por impedimento, recusación, excusa u otro motivo, un se
 
 (Así reformado por el artículo 1° de la Ley 7728 e 15 de diciembre de 1997).
 
-Ficha Artículo 29
-
 Artículo 30.- Cuando por impedimento, recusación o excusa, un funcionario que administra justicia haya sido reemplazado por otro, según las reglas del artículo anterior, el expediente, si hubiere sido enviado a otro despacho, volverá a la oficina de origen para su fenecimiento, al desaparecer el motivo que originó el reemplazo.
-
-Ficha Artículo 30
 
 Artículo 31.- A falta de regla expresa sobre impedimentos, excusas y recusaciones, se estará a lo dispuesto en el Código Procesal Civil, en cualquier materia, salvo en la jurisdicción constitucional la cual se regirá por sus propias normas y principios.
 
 Los motivos de impedimento y recusación, previstos en los códigos y leyes procesales, comprenden a todas las personas servidoras judiciales, incluso a las profesionales, letradas, auxiliares y técnicas que, de algún modo, deban intervenir en el asunto, debiendo ser sustituidas para el caso concreto. En igual sentido, comprenden a quienes ejercen funciones meramente administrativas, que también estarán sujetas a las causales de abstención dispuestas en leyes especiales respecto a sus funciones.
 
 (Así reformado el párrafo anterior por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026)
-
-Ficha Artículo 31
 
 Artículo 32.- Las faltas temporales se llenarán del modo siguiente:
 
@@ -396,8 +339,6 @@ Artículo 32.- Las faltas temporales se llenarán del modo siguiente:
 
 (Así reformado por el artículo 1° de la Ley N° 7728 de 15 de diciembre de 1997).
 
-Ficha Artículo 32
-
 Artículo 33.- En los tribunales colegiados de la misma materia y categoría, sus integrantes podrán sustituirse recíprocamente, cuando por cualquier motivo justificado no puedan asistir al despacho o conocer de determinados asuntos.
 
 La misma regla podrá aplicarse a los integrantes de las diferentes secciones de un mismo tribunal o de tribunales diferentes, siempre que sean de igual materia y categoría.
@@ -406,37 +347,25 @@ La designación será efectuada por los tribunales o secciones, en la forma en q
 
 Todo caso de sustitución, de conformidad con este artículo, deberá comunicarse, inmediatamente, a la Secretaría del Consejo.
 
-Ficha Artículo 33
-
 Artículo 34.- Las faltas absolutas se llenarán del modo siguiente:
 
 1.- Las de los Magistrados, en la forma prevista en la Constitución Política. En este caso, el Presidente de la Corte, de inmediato, deberá poner la falta en conocimiento de la Asamblea Legislativa, a fin de que llene la vacante.
 
 2.- Las de los demás funcionarios y empleados, mediante nuevos nombramientos.
 
-Ficha Artículo 34
-
 Artículo 35.- En los casos de falta absoluta de jueces el órgano competente podrá demorar el nombramiento definitivo hasta por tres meses, mientras tanto llamará al suplente respectivo al ejercicio de las funciones o nombrará un sustituto en forma interina.
 
 (Así reformado por el artículo 1° de la Ley N° 7728 de 15 de diciembre de 1997).
 
-Ficha Artículo 35
-
 Artículo 36.- Los funcionarios judiciales que puedan tener a su orden personas detenidas, deben residir a una distancia no mayor de treinta kilómetros del asiento del tribunal, siempre que entre éste y el lugar de su residencia existan buenos medios de comunicación, de modo que no se afecte el deber de asistencia.
 
-Ficha Artículo 36
-
 Artículo 37.- La obligación de residencia cesa cuando el funcionario o empleado goce de licencia o de vacaciones.
-
-Ficha Artículo 37
 
 Artículo 38.- La obligación de asistencia cesa:
 
 1.- En los mismos casos que expresa el artículo anterior.
 
 2.- En los días inhábiles, considerándose por tales los que por ley sean feriados, los días sábados y domingos y los que el Consejo Superior del Poder Judicial declare de asueto para los servidores del ramo, con la debida anticipación. Lo anterior, sin perjuicio de la obligación de asistencia que tienen los servidores que deben desempeñar sus funciones en esos días u horas inhábiles, con reconocimiento de los derechos y beneficios contemplados en la legislación laboral.
-
-Ficha Artículo 38
 
 Artículo 39.—Los servidores judiciales tendrán derecho a vacaciones anuales, en la siguiente forma:
 
@@ -454,13 +383,9 @@ La vigencia de esta reforma regirá para quienes comiencen a laborar en el Poder
 
 (Así reformado por el artículo 1° de la Ley N° 8527 de 20 de junio de 2006).
 
-Ficha Artículo 39
-
 Artículo 40.- El Consejo Superior del Poder Judicial dictará, anualmente, un plan de vacaciones en el que dispondrá las medidas que estime necesarias para que no se afecte el servicio público y procurará que los Despachos Judiciales no cierren por ese motivo.
 
 Con excepción de la Sala Constitucional, la Corte dictará el plan de vacaciones para las demás Salas.
-
-Ficha Artículo 40
 
 Artículo 41.- Podrán conceder licencias sin goce de sueldo y con justa causa:
 
@@ -472,8 +397,6 @@ Artículo 41.- Podrán conceder licencias sin goce de sueldo y con justa causa:
 
 4.- Los jefes de oficina, a sus respectivos subalternos.
 
-Ficha Artículo 41
-
 Artículo 42.- Cuando un servidor judicial sea incapacitado por enfermedad, la Dirección Ejecutiva tramitará la licencia con goce de sueldo. Cuando se trate de un Magistrado, esa función le compete al Presidente de la Corte. El servidor recibirá lo necesario hasta completar su salario a partir del monto que reciba de la Caja Costarricense del Seguro Social y, en materia de riesgos profesionales, lo que indique la ley respectiva.
 
 Tanto el servidor sustituto como los subalternos que hubiere necesidad de ascender o nombrar interinamente, por causa de la licencia, devengarán las dotaciones ordinarias asignadas a los puestos que vengan a desempeñar.
@@ -482,13 +405,9 @@ Cuando el servidor recupere su salud y no se reintegre a sus labores, se suspend
 
 Si se comprobare simulación, se pondrán los hechos en conocimiento del órgano competente para ejecutar las sanciones del caso. Si se tratare de un Magistrado, se comunicará lo pertinente a la Asamblea Legislativa.
 
-Ficha Artículo 42
-
 Artículo 43.- Toda enfermedad que motive licencia con goce de sueldo deberá ser comprobada con documento en el que conste la incapacidad extendida por la Caja Costarricense del Seguro Social, el Instituto Nacional de Seguros, el servicio médico de los empleados del Poder Judicial, el médico de la respectiva localidad y, si no hubiere alguno de estos en el lugar, por el de cualquier otro médico.
 
 En todo caso, el documento médico se podrá mandar a ratificar o ampliar a costa del interesado, bien sea por el mismo médico que lo extendió, por su superior o por otro.
-
-Ficha Artículo 43
 
 Artículo 44.- Las licencias con goce de sueldo o sin él no pueden exceder de seis meses. Tampoco pueden exceder de ese término, las que sumadas en un mismo año se conceden a un empleado o funcionario.
 
@@ -508,13 +427,9 @@ Asimismo, los servidores varones tendrán derecho a una licencia con goce de sue
 
 Toda servidora judicial en estado de gravidez tendrá derecho a licencia con su salario completo por cuatro meses, distribuidos un mes antes y tres meses después del parto. Durante ese período, se pagará a la respectiva servidora en la forma dispuesta en el artículo 42 de esta Ley, y la Corte le garantizará los derechos acordados en el artículo 97 del Código de Trabajo.
 
-Ficha Artículo 44
-
 Artículo 45.- La Corte Plena determinará, mediante acuerdo, los distintivos personales y los vehículos que puedan usar, exclusivamente, los Magistrados de la Corte Suprema de Justicia. El Consejo Superior del Poder Judicial lo hará respecto de sus propios miembros, los inspectores judiciales, el Secretario General de la Corte , los jueces, los defensores públicos y los miembros del Organismo de Investigación Judicial, y lo comunicará al Poder Ejecutivo, para que las autoridades dependientes de ese otro Poder les guarden las consideraciones propias de su posición y les faciliten el ejercicio de sus funciones. Asimismo, el Consejo determinará los distintivos que se usarán en todos los demás vehículos del Poder Judicial.
 
 (Así reformado por el artículo 1° de la Ley N° 7728 de 15 de diciembre de 1997).
-
-Ficha Artículo 45
 
 Artículo 46.- Los acuerdos y las disposiciones de la Corte relativas al establecimiento y la definición de una circunscripción territorial, o los que conciernan al recargo de competencias, el traslado y la conversión de despachos judiciales y de cargos o puestos, deberán fundamentarse en la ineludible eficiencia del servicio, la especialización de los órganos judiciales y de los tribunales jurisdiccionales y la equidad necesaria de las cargas de trabajo.
 
@@ -526,8 +441,6 @@ Cuando la carga de trabajo no amerite abrir otro órgano jurisdiccional ni judic
 
 (Así reformado por el artículo 1° de la Ley N° 7728 de 15 de diciembre de 1997).
 
-Ficha Artículo 46
-
 Artículo 47.- Quienes laboran en el Poder Judicial se denominan, en general, "servidores". Sin embargo, cuando esta Ley se refiere a "funcionarios que administran justicia" ha de entenderse por tales a los magistrados y jueces; el término "funcionarios" alude a los que, fuera de los antes mencionados, tengan atribuciones, potestades y responsabilidades propias, determinadas en esta Ley y por "empleados", a todas las demás personas que desempeñen puestos, remunerados por el sistema de sueldos.
 
 Las prohibiciones establecidas en esta ley se aplicarán tanto a los servidores judiciales nombrados en propiedad como a los interinos, salvo disposición legal en contrario. Cuando esta ley mencione "Corte" habrá de entenderse Corte Suprema de Justicia o Corte Plena y cuando, en los códigos procesales, se hable de "Ley Orgánica", sin especificación alguna, se alude a la presente ley; además, las menciones del "Consejo", deberán entenderse como Consejo Superior del Poder Judicial.
@@ -538,15 +451,11 @@ Cuando esta u otra ley, así como normativa interna del Poder Judicial, hagan me
 
 (Así reformado por el artículo 1° de la Ley N° 7728 de 15 de diciembre de 1997)
 
-Ficha Artículo 47
-
 Artículo 47 bis.- La Corte Suprema de Justicia podrá ordenar la destrucción o el reciclaje de los expedientes, siempre que no sean necesarios para algún trámite judicial futuro, que no tengan interés histórico, o cuando se encuentren respaldados por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o cualquier otro medio con garantía razonable de conservación. Al efecto se publicarán las listas de expedientes por destruir en el Boletín Judicial.
 
 Dentro del plazo de ocho días hábiles luego de la primera publicación, el Archivo Nacional podrá solicitar los expedientes que estime pertinentes. Las partes también podrán solicitar la devolución de los documentos aportados, certificación integral o parcial del expediente, o la entrega del expediente original, salvo en materia penal.
 
 (Así adicionado por el artículo 9° de la Ley N° 7728 de 15 de diciembre de 1997).
-
-Ficha Artículo 47 BIS
 
 TITULO II
 
@@ -560,31 +469,19 @@ DISPOSICIONES GENERALES
 
 Artículo 48.- La Corte Suprema de Justicia es el Tribunal Superior del Poder Judicial y como órgano superior de éste ejercerá las funciones de gobierno y de reglamento.
 
-Ficha Artículo 48
-
 Artículo 49.- La Corte Suprema de Justicia se compone de tres Salas de Casación: Primera, Segunda y Tercera y la Sala Constitucional, integradas por cinco Magistrados, con excepción de la última que lo será con siete. En la Sala en que se desempeña el Presidente de la Corte, cuando las circunstancias lo requieran, a juicio suyo, podrá haber un Magistrado suplente de tiempo completo que lo sustituirá mientras no ejerza el cargo, en todos los casos en que no concurra a conocer de los asuntos propios de su Sala. Dicho Magistrado suplente no integrará la Corte Plena.
 
 Los asuntos se distribuirán entre las Salas, fundamentalmente por materias. Si no hubiere ley aplicable que regule la distribución del trabajo o la competencia entre las Salas, la Corte decidirá el punto, mediante un acuerdo que publicará en el Boletín Judicial.
 
-Ficha Artículo 49
-
 Artículo 50.- Cada Magistrado podrá contar, al menos, con un abogado asistente, de su nombramiento, con aprobación del Consejo Superior del Poder Judicial. Para separarse de su propuesta, el Consejo deberá hacerlo con el voto de todos sus miembros, en resolución debidamente fundamentada, en cuyo caso solicitará al Magistrado el envío de otro candidato. El Presidente de la Corte contará con un Director del Despacho del Presidente, quien desempeñará las funciones que éste le asigne.
 
-Ficha Artículo 50
-
 Artículo 51.- Los Magistrados de la Corte Suprema de Justicia se juramentarán ante la Asamblea Legislativa y tomarán posesión de su cargo a partir de la fecha designada por la Asamblea, siempre que hayan rendido la garantía.
-
-Ficha Artículo 51
 
 Artículo 52.- Salvo excepción expresa en contrario, para que las Salas puedan ejercer sus funciones se requiere de la concurrencia de todos sus miembros.
 
 Cada Sala elegirá a uno de sus miembros como Presidente, con las facultades y deberes que esta Ley establece. En los casos de separación del Presidente, o cuando no formara parte del tribunal por cualquier causa, el Magistrado que corresponda ejercerá la Presidencia, de conformidad con el artículo 32, inciso 1) de esta Ley.
 
-Ficha Artículo 52
-
 Artículo 53.- La sede de la Corte Suprema de Justicia está en la capital de la República.
-
-Ficha Artículo 53
 
 CAPITULO II
 
@@ -638,8 +535,6 @@ g) Los órganos con personería instrumental.
 
 (Así reformado por el artículo 212 de la Ley N° 8508 de 28 de abril de 2006 Código Procesal Contencioso Administrativo).
 
-Ficha Artículo 54
-
 CAPITULO III
 
 DE LA SALA SEGUNDA
@@ -660,8 +555,6 @@ Artículo 55- La Sala Segunda conocerá:
 
 (Así reformado por el artículo 2° punto III) de la ley que aprobó el Código Procesal de Familia, N° 9747 del 23 de octubre de 2019)
 
-Ficha Artículo 55
-
 Artículo 55 bis- La Sala Segunda de la Corte Suprema de Justicia. En lo familiar, la Sala Segunda de la Corte Suprema de Justicia conocerá de:
 
 1. Los recursos de casación y las demandas de revisión en materia familiar.
@@ -677,8 +570,6 @@ Artículo 55 bis- La Sala Segunda de la Corte Suprema de Justicia. En lo familia
 6. Del auxilio judicial internacional y del reconocimiento y eficacia de sentencias y laudos extranjeros en materia de familia, con la salvedad de lo que corresponda conocer a las otras salas de la Corte.
 
 (Así adicionado por el artículo 3° punto III) de la ley que aprobó el Código Procesal de Familia, N° 9747 del 23 de octubre de 2019)
-
-Ficha Artículo 55 BIS
 
 CAPITULO IV
 
@@ -700,8 +591,6 @@ Artículo 56.-La Sala Tercera conocerá:
 
 (Así reformado por el artículo 8° "Creación del recurso de apelación de la sentencia, otras reformas al régimen de impugnación e implementación de nuevas reglas de oralidad en el proceso penal", ley N° 8837 del 3 de mayo de 2010)
 
-Ficha Artículo 56
-
 CAPITULO V
 
 DE LA SALA CONSTITUCIONAL
@@ -715,8 +604,6 @@ Artículo 57.- La Sala Constitucional conocerá:
 3.- De las consultas de constitucionalidad.
 
 4.- De los conflictos de competencia entre los Poderes del Estado, incluido el Tribunal Supremo de Elecciones y los de competencia constitucional entre éstos y la Contraloría General de la República, municipalidades, entes descentralizados y demás personas de Derecho Público.
-
-Ficha Artículo 57
 
 CAPITULO VI
 
@@ -743,8 +630,6 @@ Esta disposición procederá solo cuando exista una excepción calificada a los 
 De la sesión privada se levantará un acta de conocimiento público, de la cual solo se omitirán aquellas intervenciones o datos que no se pueden divulgar porque el ordenamiento jurídico así lo prohíba, según lo establecido en la moción aprobada al efecto
 
 (Así reformado por el artículo único de la Ley para garantizar transparencia en las votaciones del Poder Judicial, N° 10325 del 9 de noviembre del 2022)
-
-Ficha Artículo 58
 
 Artículo 59.- Corresponde a la Corte Suprema de Justicia:
 
@@ -824,8 +709,6 @@ En estos casos los procedimientos serán tramitados en dicha institución confor
 
 (Así reformado por el artículo 2° de la Ley N° 7728 de 15 de diciembre de 1997)
 
-Ficha Artículo 59
-
 CAPITULO VII
 
 DEL PRESIDENTE DE LA CORTE SUPREMA DE JUSTICIA
@@ -880,8 +763,6 @@ Artículo 60.- El Presidente de la Corte lo será también del Poder Judicial y,
 
 Las funciones anteriores serán desempeñadas por el Vicepresidente de la Corte, cuando deba suplir al Presidente, en sus ausencias temporales.
 
-Ficha Artículo 60
-
 CAPITULO VIII
 
 DE LOS PRESIDENTES DE SALA
@@ -900,8 +781,6 @@ Artículo 61.- Además de las atribuciones que por ley o reglamento se les confi
 
 Las resoluciones que el Presidente dictare, en uso de las atribuciones que se le confieren en este artículo, no podrán prevalecer contra el voto de la mayoría del tribunal.
 
-Ficha Artículo 61
-
 CAPITULO IX
 
 DE LOS MAGISTRADOS SUPLENTES
@@ -917,8 +796,6 @@ Transitorio.- Los actuales Magistrados suplentes de la Sala Constitucional desem
 N° 11083 del 21 de agosto de 2013
 
 , razón por la que indica la Sala que este numeral se mantiene vigente en su versión previa a la reforma por la Ley de Apertura de la Casación Penal, tal y como se muestra)
-
-Ficha Artículo 62
 
 Artículo 63.- Los Magistrados suplentes, escogidos por sorteo para reponer la falta temporal de un propietario, desempeñarán sus funciones por el tiempo que dure ésta; los llamados para reponer una falta absoluta, por todo el tiempo que transcurre sin que la Asamblea Legislativa llene la vacante y dé posesión al Magistrado nuevamente electo.
 
@@ -936,15 +813,9 @@ Las reglas establecidas en el párrafo anterior se aplicarán en el caso en que 
 
 (Así adicionado el párrafo anterior por el artículo 1° de la ley N° 8553 del 19 de octubre del 2006)
 
-Ficha Artículo 63
-
 Artículo 64.- Los Magistrados suplentes escogidos por sorteo, para conocer de un asunto determinado, no podrán separarse de su conocimiento, salvo en el caso de excusa o impedimento conforme a la ley. Aquel que se negare sin motivo legal al desempeño de su cargo o el que hiciere dificultades para que se conozca el asunto será repuesto por otro Magistrado suplente, escogido mediante sorteo para ese fin. Al remiso, la Corte le aplicará suspensión por seis meses del ejercicio de la suplencia y dará cuenta a la Asamblea Legislativa, por si estima del caso separarlo del todo.
 
-Ficha Artículo 64
-
 Artículo 65.- El Presidente de la Corte podrá, a solicitud del respectivo Presidente de Sala, llamar Magistrados suplentes al ejercicio del cargo, por determinados períodos, para que se desempeñen en las Salas en que estuvieren asignados, para colaborar cuando la Sala no se encontrare al día en la resolución de los asuntos de su conocimiento o fuere necesario dedicar, exclusivamente, a un titular para resolver asuntos de suma complejidad.
-
-Ficha Artículo 65
 
 CAPITULO X
 
@@ -980,8 +851,6 @@ Los dictámenes, informes y recomendaciones de las comisiones no serán vinculan
 
 El Presidente de la Corte podrá formar parte de cualquier comisión y cuando lo haga la coordinará.
 
-Ficha Artículo 66
-
 CAPÍTULO XI
 
 (Así adicionado el capítulo anterior por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026)
@@ -991,8 +860,6 @@ Artículo 67- El Consejo Superior del Poder Judicial es un órgano subordinado d
 (Así adicionado por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026)
 
 (Así reformado por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026)
-
-Ficha Artículo 67
 
 Artículo 68- Contenido del informe. En la confección de este informe, la persona funcionaria obligada a rendirlo deberá considerar, al menos:
 
@@ -1014,27 +881,19 @@ Las estadísticas referidas a las funciones jurisdiccionales a lo interno de su 
 
 (Así adicionado por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026)
 
-Ficha Artículo 68
-
 Artículo 69- Plazos del informe. El informe de rendición de cuentas será anual, contado a partir de la fecha del nombramiento. El informe se deberá remitir ante la Corte Suprema de Justicia y ante la Asamblea Legislativa un mes posterior al cumplimiento de la anualidad, con excepción del año en que corresponda discutirse si la persona debe o no ser reelecta en el cargo de magistrado o magistrada, en cuyo caso el informe se rendirá un mes antes de la fecha de conclusión del periodo de nombramiento.
 
 Si el último día del plazo es un día no hábil para cualquiera de los dos Poderes, el plazo se entenderá como prorrogado para el primer día hábil siguiente.
 
 (Así adicionado por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026)
 
-Ficha Artículo 69
-
 Artículo 70- Publicación y acceso. El informe de rendición de cuentas deberá ser publicado en el sitio web oficial del Poder Judicial y de la Asamblea Legislativa y estar disponible para consulta pública.
 
 (Así adicionado por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026)
 
-Ficha Artículo 70
-
 Artículo 71- Sanciones. El incumplimiento de la obligación de presentar el informe de rendición de cuentas en el plazo establecido será considerado una falta grave y podrá ser sancionado conforme a lo dispuesto en esta ley.
 
 (Así adicionado por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026)
-
-Ficha Artículo 71
 
 TITULO III
 
@@ -1048,27 +907,19 @@ Artículo 72.- El Consejo Superior del Poder Judicial es un órgano subordinado 
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 67 al artículo 72)
 
-Ficha Artículo 72
-
 Artículo 73.- Los miembros del Consejo, con excepción de los magistrados que lo integren, tendrán el mismo salario base de los jueces del Tribunal de Casación.
 
 (Así reformado por el artículo 3° de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 68 al artículo 73)
 
-Ficha Artículo 73
-
 Artículo 74.- El Consejo estará integrado por cinco miembros, cuatro de ellos serán funcionarios del Poder Judicial y un abogado externo, todos de reconocida competencia.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 69 al artículo 74)
 
-Ficha Artículo 74
-
 Artículo 75.- El Presidente de la Corte es, a su vez, el Presidente del Consejo. Los restantes miembros serán nombrados, libremente, por la Corte, por períodos de seis años y no podrán ser reelectos, salvo que las tres cuartas partes del total de los Magistrados acuerden lo contrario.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 70 al artículo 75)
-
-Ficha Artículo 75
 
 Artículo 76.- Salvo el Presidente, los tres miembros del Consejo, que a su vez son funcionarios judiciales, deberán haber laborado para el Poder Judicial, como mínimo durante cinco años.
 
@@ -1078,33 +929,23 @@ El abogado externo deberá tener experiencia profesional como litigante, no meno
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 71 al artículo 76)
 
-Ficha Artículo 76
-
 Artículo 77.- Excepto el Presidente de la Corte, que será sustituido según la forma establecida para ese cargo, los restantes miembros del Consejo tendrán dos suplentes cada uno, quienes deberán reunir los mismos requisitos que el titular electo por la Corte.
 
 El cese anticipado de un miembro del Consejo dará lugar a su sustitución por el resto del período.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 72 al artículo 77)
 
-Ficha Artículo 77
-
 Artículo 78.- Los miembros del Consejo atenderán sus funciones a tiempo completo y tendrán las mismas prohibiciones e incompatibilidades que los demás servidores judiciales.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 73 al artículo 78)
-
-Ficha Artículo 78
 
 Artículo 79.- A quien haya sido designado miembro del Consejo Superior y ocupe algún cargo dentro del Poder Judicial, se le suspenderá en el ejercicio de este último, pero conservará el derecho de reintegrarse a ese puesto, con el salario que corresponda a tal cargo, una vez que termine en sus funciones como miembro del Consejo. Todo ello siempre que no hubiere vencido el período para el que fue nombrado en ese otro puesto o no hubiere sido reelecto en él, o que no hubiere sido despedido.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 74 al artículo 79)
 
-Ficha Artículo 79
-
 Artículo 80.- Los miembros del Consejo Superior del Poder Judicial, propietarios o suplentes en el ejercicio del cargo, no podrán, durante su mandato, ser promovidos en ascenso mediante nombramientos que dependan del Consejo.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 75 al artículo 80)
-
-Ficha Artículo 80
 
 Artículo 81.- El Consejo Superior del Poder Judicial deberá reunirse, ordinariamente, como mínimo dos veces por semana y, extraordinariamente, cuando sea convocado por su Presidente o por tres de sus miembros. El quórum se formará con el total de sus miembros.
 
@@ -1113,8 +954,6 @@ Salvo norma en contrario, las decisiones se tomarán por mayoría de votos. De n
 Sin perjuicio de la aplicación del régimen disciplinario, la inasistencia injustificada a las sesiones del Consejo por tres veces consecutivas, o por seis veces alternas durante un semestre, se considerará como causal de remoción del cargo de miembro del Consejo.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 76 al artículo 81)
-
-Ficha Artículo 81
 
 Artículo 82- Las sesiones del Consejo serán públicas, salvo en casos especiales debidamente motivados en los que la ley disponga lo contrario.
 
@@ -1126,27 +965,19 @@ En cada sesión se levantará un acta, la cual constituirá una transcripción l
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 77 al artículo 82)
 
-Ficha Artículo 82
-
 Artículo 83.- En lo no dispuesto en la presente Ley, el régimen de los actos del Consejo será el establecido para los actos administrativos, sin que, en ningún caso, deba consultarse a la Procuraduría General de la República.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 78 al artículo 83)
 
-Ficha Artículo 83
-
 Artículo 84.- En los asuntos de su competencia, el Consejo podrá integrar comisiones de trabajo.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 79 al artículo 84)
-
-Ficha Artículo 84
 
 Artículo 85.- El Consejo rendirá un informe anual a la Corte Suprema de Justicia, sobre su funcionamiento y el de los tribunales de la República y demás órganos, departamentos y oficinas del Poder Judicial. En dicho informe, incluirá las necesidades que, a su juicio, existan en materia de personal, de instalaciones y recursos, para el desempeño debido y correcto de la función judicial. Antes de elaborarlo, pedirá a los tribunales, los juzgados y los demás órganos, oficinas y departamentos, un informe anual sobre la labor realizada y las necesidades concretas.
 
 (Así reformado por el artículo 3° de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 80 al artículo 85)
-
-Ficha Artículo 85
 
 CAPITULO II
 
@@ -1222,8 +1053,6 @@ En cualquier caso, todas las potestades del Consejo respecto de los servidores j
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 81 al artículo 86)
 
-Ficha Artículo 86
-
 Artículo 87.- Para los efectos de ejecutar el presupuesto del Poder Judicial promulgado por la Asamblea Legislativa, el Poder Ejecutivo girará al primero, por mensualidades adelantadas, los montos correspondientes a las transferencias que se le asignen, con excepción de los rubros que correspondan a salarios.
 
 El Consejo está autorizado para abrir cuentas a nombre del Poder Judicial en los bancos del Estado, con el propósito de depositar esos fondos y ordenar pagos contra ellos.
@@ -1233,8 +1062,6 @@ Cuando las necesidades del servicio lo requieran, el Consejo podrá crear subpar
 No obstante, no se podrán modificar los recursos destinados a cubrir sueldos o servicios personales, salvo que se trate de sumas acumuladas o no gastadas.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 82 al artículo 87)
-
-Ficha Artículo 87
 
 Artículo 87 bis (Artículo 82 bis)- Para los efectos de la inspección y vigilancia de los tribunales se contará con un órgano al que se le atribuirá dichas funciones.
 
@@ -1250,13 +1077,9 @@ El Consejo podrá solicitar informes a otras oficinas judiciales, cuando lo esti
 
 (Así adicionado por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 232 de la Ley N° 10905 antes mencionada, indica adicionar un numeral 82 bis, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 82 normal fue renombrado como artículo 87. En consecuencia, la adición del numeral 82 bis debe entenderse aplicada correctamente al artículo 87 bis.)
 
-Ficha Artículo 87 BIS
-
 Artículo 88.- Sin perjuicio del derecho de avocamiento de la Corte Suprema de Justicia, cuando el Consejo resuelva aspectos de carácter administrativo, su pronunciamiento agota la vía administrativa y solo tendrá recurso de reconsideración, que deberá ser interpuesto por el interesado dentro del plazo de tres días, a partir del día siguiente al de su notificación. En este último caso, el Consejo podrá disponer la suspensión del acto que pueda causar daño o perjuicio de imposible o difícil reparación.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 83 al artículo 88)
-
-Ficha Artículo 88
 
 CAPITULO III
 
@@ -1274,13 +1097,9 @@ Asimismo, dependerán del Consejo, pero únicamente en lo administrativo y no en
 
 (Así reformado por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 232 de la Ley N° 10905 antes mencionada, indica modificar el numeral 84, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 84 fue renombrado como artículo 89. En consecuencia, la reforma del artículo 84 debe entenderse aplicada correctamente al artículo 89.)
 
-Ficha Artículo 89
-
 Artículo 90.- En el Poder Judicial, funcionarán los departamentos, secciones y jefaturas administrativas que el buen servicio demande, con las atribuciones que la Corte señale.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 85 al artículo 90)
-
-Ficha Artículo 90
 
 SECCION II
 
@@ -1292,13 +1111,9 @@ Con excepción de los órganos previstos en el artículo 84 y de otros que así 
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 86 al artículo 91)
 
-Ficha Artículo 91
-
 Artículo 92.- En la Dirección habrá un Subdirector, que estará subordinado al Director y colaborará con él en el desempeño de su cargo. Debe reunir los mismos requisitos que se exigen para el Director, a quien reemplazará en sus ausencias temporales. Se procurará, en todo caso, que no tenga la misma especialidad profesional del Director.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 87 al artículo 92)
-
-Ficha Artículo 92
 
 Artículo 93.- Corresponderá al Director, de conformidad con la ley, el reglamento y las directrices que la Corte, el Presidente del Consejo o éste le indiquen:
 
@@ -1338,8 +1153,6 @@ Artículo 93.- Corresponderá al Director, de conformidad con la ley, el reglame
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 88 al artículo 93)
 
-Ficha Artículo 93
-
 SECCION III
 
 DE LA AUDITORIA DEL PODER JUDICIAL
@@ -1347,8 +1160,6 @@ DE LA AUDITORIA DEL PODER JUDICIAL
 Artículo 94.- Existirá un Departamento de Auditoría dependiente del Consejo, a cargo de un Auditor Jefe que deberá ser costarricense, mayor de treinta años, licenciado en Ciencias Económicas, incorporado al Colegio de Contadores Públicos autorizados de Costa Rica; y poseer conocimientos y amplia experiencia sobre el manejo de las disposiciones legales que rigen la Administración Pública.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 89 al artículo 94)
-
-Ficha Artículo 94
 
 Artículo 95.- Corresponde al Auditor:
 
@@ -1370,15 +1181,11 @@ Artículo 95.- Corresponde al Auditor:
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 90 al artículo 95)
 
-Ficha Artículo 95
-
 Artículo 96.- En el caso de ausencia temporal del Auditor, sus funciones se recargarán en cualquier otro servidor de la Auditoría que tenga conocimientos contables, según lo disponga el Presidente del Consejo. Si la ausencia se prolongare por más de ocho días, el Consejo nombrará a un auditor interino.
 
 Los nombramientos que se realicen, de forma interina, podrán recaer en personas que no reúnan los requisitos establecidos en esta Ley, siempre que tales nombramientos no excedan de tres meses. Transcurrido este término, el Consejo deberá hacer el nombramiento de una persona que reúna los requisitos establecidos, previo concurso que convocará el Departamento de Personal.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 91 al artículo 96)
-
-Ficha Artículo 96
 
 TITULO IV
 
@@ -1400,8 +1207,6 @@ Los tribunales podrán ser mixtos, cuando lo justifique el número de asuntos qu
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 92 al artículo 97)
 
-Ficha Artículo 97
-
 Artículo 98.-Los tribunales de apelación de sentencia penal conocerán:
 
 1. Del recurso de apelación contra las sentencias dictadas por los tribunales unipersonales y colegiados de juicio.
@@ -1422,8 +1227,6 @@ Artículo 98.-Los tribunales de apelación de sentencia penal conocerán:
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 93 al artículo 98)
 
-Ficha Artículo 98
-
 Artículo 98 bis.-Integración de los tribunales de apelación de sentencia:
 
 Los tribunales de apelación de sentencia estarán conformados por secciones independientes, integradas cada una por tres jueces, de acuerdo con las necesidades del servicio, y se distribuirán su labor conforme lo dispone la presente Ley. La jurisdicción penal juvenil contará con los tribunales de apelación de sentencia, especializados en esta materia, según las necesidades del servicio.
@@ -1433,8 +1236,6 @@ Los tribunales de apelación de sentencia estarán conformados por secciones ind
 (Así reformado por el artículo 8° "Creación del recurso de apelación de la sentencia, otras reformas al régimen de impugnación e implementación de nuevas reglas de oralidad en el proceso penal", ley N° 8837 del 3 de mayo de 2010)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 93 bis al artículo 98 bis)
-
-Ficha Artículo 98 BIS
 
 Artículo 98 ter- Corresponde al Tribunal de Apelación de Sentencia Especializado en Delincuencia Organizada conocer:
 
@@ -1450,13 +1251,9 @@ Los tribunales de apelación de sentencia especializados en delincuencia organiz
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 93 ter al artículo 98 ter)
 
-Ficha Artículo 98 TER
-
 Artículo 99.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 94 al artículo 99)
-
-Ficha Artículo 99
 
 Artículo 99 bis.-
 
@@ -1484,8 +1281,6 @@ d) Las empresas públicas que asuman formas de organización distintas de las de
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 94 bis al artículo 99 bis)
 
-Ficha Artículo 99 BIS
-
 Artículo 99 ter- Para ser miembro de los tribunales colegiados se requiere:
 
 1-) Ser costarricense en ejercicio de los derechos ciudadanos.
@@ -1497,8 +1292,6 @@ Artículo 99 ter- Para ser miembro de los tribunales colegiados se requiere:
 (Así adicionado por el artículo 2° de la ley N° 9769 del 18 de octubre del 2019)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 94 ter al artículo 99 ter)
-
-Ficha Artículo 99 TER
 
 Artículo 100.- Los tribunales colegiados de apelación civiles conocerán:
 
@@ -1518,8 +1311,6 @@ Artículo 100.- Los tribunales colegiados de apelación civiles conocerán:
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 95 al artículo 100)
 
-Ficha Artículo 100
-
 Artículo 100 bis.- Los tribunales colegiados de primera instancia civiles conocerán:
 
 1.- De los procesos ordinarios de mayor cuantía.
@@ -1531,8 +1322,6 @@ Artículo 100 bis.- Los tribunales colegiados de primera instancia civiles conoc
 (Así adicionado por el artículo 184 aparte 4) del Código Procesal Civil, N° 9342 del 3 de febrero del 2016)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 95 bis al artículo 100 bis)
-
-Ficha Artículo 100 BIS
 
 Artículo 101.- Los tribunales penales de juicio estarán conformados al menos por cuatro jueces y se integrarán, en cada caso, con tres de ellos, para conocer de los siguientes asuntos:
 
@@ -1549,8 +1338,6 @@ Artículo 101.- Los tribunales penales de juicio estarán conformados al menos p
 (Así reformado por el artículo 4° de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 96 al artículo 101)
-
-Ficha Artículo 101
 
 Artículo 101 bis.- Los tribunales penales de juicio se constituirán con uno solo de sus miembros, para conocer:
 
@@ -1576,8 +1363,6 @@ Los jueces de la sede principal y de las oficinas adscritas, podrán sustituirse
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 96 bis al artículo 101 bis)
 
-Ficha Artículo 101 BIS
-
 Artículo 101 ter-Los tribunales especializados en delincuencia organizada estarán conformados por secciones independientes de al menos cuatro jueces y se integrarán, en cada caso, con tres de ellos, para conocer de los siguientes asuntos:
 
 1-) De la fase de juicio.
@@ -1589,8 +1374,6 @@ Artículo 101 ter-Los tribunales especializados en delincuencia organizada estar
 (Así adicionado por el artículo 18 de la Ley Creación de la Jurisdicción Especializada en Delincuencia Organizada en Costa Rica, N° 9481 del 13 de setiembre de 2017)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 96 ter al artículo 101 ter)
-
-Ficha Artículo 101 TER
 
 Artículo 102.- Los tribunales de lo contencioso-administrativo y civil de Hacienda conocerán:
 
@@ -1604,8 +1387,6 @@ Artículo 102.- Los tribunales de lo contencioso-administrativo y civil de Hacie
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 97 al artículo 102)
 
-Ficha Artículo 102
-
 Artículo 103.- Los tribunales de apelación conocerán:
 
 1. De las apelaciones que procedan en los asuntos de conocimiento de los juzgados de trabajo, excepto las diferidas que eventualmente deban ser conocidas por los órganos de casación.
@@ -1615,8 +1396,6 @@ Artículo 103.- Los tribunales de apelación conocerán:
 (Así reformado por el artículo 3° aparte b) de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 98 al artículo 103)
-
-Ficha Artículo 103
 
 Artículo 104- Los Tribunales de Familia conocerán:
 
@@ -1642,8 +1421,6 @@ d) Los demás asuntos que determine la ley.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 99 al artículo 104)
 
-Ficha Artículo 104
-
 Artículo 105.-El Tribunal Agrario. El Tribunal Agrario conocerá:
 
 1. El recurso de apelación interpuesto contra los autos y contra las sentencias emitidas por los juzgados agrarios, cuando proceda.
@@ -1662,8 +1439,6 @@ Artículo 105.-El Tribunal Agrario. El Tribunal Agrario conocerá:
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 100 al artículo 105)
 
-Ficha Artículo 105
-
 Artículo 106.-Los tribunales estarán integrados por el número de jueces necesario para el servicio público bueno y eficiente. En los conformados por más de un juez, sus integrantes elegirán, internamente, a quien se desempeñará como coordinador por un período de cuatro años, podrá ser reelegido y tendrá las funciones que le señalen la ley y la Corte Plena. A falta de acuerdo interno de elección, luego de realizadas cinco votaciones, la Corte Plena designará al coordinador.
 
 Los tribunales podrán tener competencia y jurisdicción en dos o más cantones de diferentes provincias, en una o en varias provincias y aun en todo el territorio nacional. El Consejo Superior del Poder Judicial regulará la distribución de los asuntos, por razón de la materia o territorio, entre los tribunales, para equiparar el trabajo con el objeto de mejorar el servicio y obtener el resultado más eficiente.
@@ -1681,8 +1456,6 @@ Para ser juez de casación o juez de apelación de sentencia se requiere:
 (Así reformado por el artículo 5° de la ley N° 9021 del 3 de enero de 2012)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 101 al artículo 106)
-
-Ficha Artículo 106
 
 Artículo 106 bis-Para ser jueza o juez del Juzgado Especializado en Delincuencia Organizada y juez o jueza tramitadora del Tribunal Penal Especializado en Delincuencia Organizada y del Tribunal de Apelación de Sentencia Especializado en Delincuencia Organizada, titular o suplente, se requiere:
 
@@ -1738,15 +1511,11 @@ Quienes se desempeñen en la Jurisdicción Especializada en Delincuencia Organiz
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 101 bis al artículo 106 bis)
 
-Ficha Artículo 106 BIS
-
 Artículo 107.- Los conflictos de competencia entre juzgados civiles, agrarios, penales, penales juveniles, de trabajo, familia, contencioso- administrativo, civiles de hacienda y otros, se resolverán según las siguientes reglas: Los conflictos según la materia y dentro de un mismo territorio serán conocidos por el Tribunal Colegiado respectivo. Si los juzgados pertenecieren a tribunales colegiados de diferentes territorios, le corresponde resolver al Tribunal de Casación respectivo o, de no existir este último, a la Sala de la Corte pertinente. Si son juzgados de diferente materia, sean o no de un mismo territorio, le corresponde al Tribunal de Casación respectivo o, de no existir este último, a la Sala de la Corte de la materia a la que pertenezca el órgano ante el cual se presentó el asunto o se previno en su conocimiento, excepto que existan otras disposiciones en la ley.
 
 (Así reformado por el artículo 4° de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 102 al artículo 107)
-
-Ficha Artículo 107
 
 Capítulo II
 
@@ -1760,15 +1529,11 @@ Artículo 108.- Habrá juzgados civiles, penales, penales juveniles, de lo conte
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 103 al artículo 108)
 
-Ficha Artículo 108
-
 Artículo 109.- Los juzgados podrán ser mixtos, cuando lo justifique el número de asuntos que deban conocer.
 
 (Así reformado por el artículo 4° de la Ley N° 7728 de 215 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 104 al artículo 109)
-
-Ficha Artículo 109
 
 Artículo 110.- Los juzgados civiles conocerán:
 
@@ -1781,8 +1546,6 @@ Artículo 110.- Los juzgados civiles conocerán:
 (Así reformado por el artículo 184 aparte 4) del Código Procesal Civil, N° 9342 del 3 de febrero del 2016)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 105 al artículo 110)
-
-Ficha Artículo 110
 
 Artículo 111- Los juzgados de Familia conocerán:
 
@@ -1797,8 +1560,6 @@ d) Los demás asuntos que estipule la ley.
 (Así reformado por el artículo 2° punto III) de la ley que aprobó el Código Procesal de Familia, N° 9747 del 23 de octubre de 2019)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 106 al artículo 111)
-
-Ficha Artículo 111
 
 Artículo 111 bis- Juzgados de Niñez y Adolescencia Los juzgados de Niñez y Adolescencia conocerán de:
 
@@ -1822,8 +1583,6 @@ En los lugares en los cuales no exista este despacho, la competencia de estas ma
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 106 bis al artículo 111 bis)
 
-Ficha Artículo 111 BIS
-
 Artículo 112-Corresponde al juez penal conocer de los actos jurisdiccionales de los procedimientos preparatorio e intermedio, así como del recurso de apelación en materia contravencional.
 
 Se procurará que un mismo funcionario no asuma ambas etapas en un solo proceso, salvo que, por la cantidad de asuntos de los que conoce, el despacho esté integrado por un solo juez.
@@ -1840,23 +1599,17 @@ c) cualquier otra responsabilidad de las personas jurídicas que se derive de la
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 107 al artículo 112)
 
-Ficha Artículo 112
-
 Artículo 112 bis- Corresponde al Juzgado Especializado en Delincuencia Organizada conocer de los actos jurisdiccionales de los procedimientos preparatorio e intermedio. Se procurará que un juez no asuma ambas etapas en un solo proceso.
 
 (Así adicionado por el artículo 18 de la Ley Creación de la Jurisdicción Especializada en Delincuencia Organizada en Costa Rica, N° 9481 del 13 de setiembre de 2017)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 107 bis al artículo 112 bis)
 
-Ficha Artículo 112 BIS
-
 Artículo 113.- La Corte podrá designar juzgados y tribunales penales de turno extraordinario, para que presten servicio luego de la jornada ordinaria, en días de asueto, feriados y de vacaciones generales.
 
 (Así reformado por el artículo 4° de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 108 al artículo 113)
-
-Ficha Artículo 113
 
 Artículo 114.- Los juzgados de trabajo conocerán:
 
@@ -1869,8 +1622,6 @@ Artículo 114.- Los juzgados de trabajo conocerán:
 (Así reformado por el artículo 3° aparte b) de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 109 al artículo 114)
-
-Ficha Artículo 114
 
 Artículo 115.- Los juzgados de lo contencioso-administrativo y civil de Hacienda conocerán:
 
@@ -1894,8 +1645,6 @@ Artículo 115.- Los juzgados de lo contencioso-administrativo y civil de Haciend
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 110 al artículo 115)
 
-Ficha Artículo 115
-
 Artículo 116.- Los juzgados penales juveniles conocerán:
 
 1.- En instancia, de las acusaciones atribuidas a menores de edad por la comisión o la participación en delitos o contravenciones. También conocerá de las causas penales seguidas contra mayores de edad, siempre que el hecho haya ocurrido durante su minoridad.
@@ -1914,8 +1663,6 @@ Artículo 116.- Los juzgados penales juveniles conocerán:
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 111 al artículo 116)
 
-Ficha Artículo 116
-
 Artículo 117.- Los juzgados de ejecución de la pena conocerán:
 
 1.- De las fijaciones de pena y las medidas de seguridad posteriores a la aplicada por el tribunal de sentencia.
@@ -1931,8 +1678,6 @@ Artículo 117.- Los juzgados de ejecución de la pena conocerán:
 (Así reformado por el artículo 4° de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 112 al artículo 117)
-
-Ficha Artículo 117
 
 Artículo 118- Funciones de los juzgadores agrarios. Los juzgados agrarios conocerán los asuntos propios de su competencia, independientemente del valor económico de las pretensiones. Entre ellos se encuentran:
 
@@ -1952,8 +1697,6 @@ Artículo 118- Funciones de los juzgadores agrarios. Los juzgados agrarios conoc
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 113 al artículo 118)
 
-Ficha Artículo 118
-
 Capítulo III
 
 (\*) De los juzgados de menor cuantía y contravencionales
@@ -1970,21 +1713,15 @@ La determinación de la cuantía se revisará cada dos años, para lo cual, prev
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 114 al artículo 119)
 
-Ficha Artículo 119
-
 Artículo 120.- (Derogado por el artículo 183 aparte 3) del Código Procesal Civil, N° 9342 del 3 de febrero de 2016)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 115 al artículo 120)
-
-Ficha Artículo 120
 
 Artículo 121.- Los juzgados contravencionales y de menor cuantía conocerán en materia de trabajo, como juzgados de trabajo por ministerio de ley, de todos los asuntos, cualquiera sea su valor económico, correspondientes a su circunscripción territorial, excepto de los conflictos colectivos de carácter económico y social, siempre y cuando en su territorio no exista juzgado de trabajo.
 
 (Así reformado por el artículo 3° aparte b) de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 116 al artículo 121)
-
-Ficha Artículo 121
 
 Artículo 122.- En materia penal, los juzgados contravencionales conocerán:
 
@@ -1998,8 +1735,6 @@ Artículo 122.- En materia penal, los juzgados contravencionales conocerán:
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 117 al artículo 122)
 
-Ficha Artículo 122
-
 Artículo 123.- En las circunscripciones en las cuales no exista juzgado penal, el juez contravencional podrá realizar -en casos urgentes- los actos jurisdiccionales del procedimiento preparatorio y, de inmediato y por cualquier medio, lo comunicará al juzgado penal. En esos eventuales supuestos, el juez contravencional actúa por delegación y, el juez penal, deberá tomar las disposiciones necesarias para esa delegación y respecto del control de las actuaciones; también, de ser necesario, podrá dirigirlas personalmente.
 
 La Corte establecerá cuáles juzgados contravencionales tendrán el recargo de competencia referido en el párrafo anterior.
@@ -2008,13 +1743,9 @@ La Corte establecerá cuáles juzgados contravencionales tendrán el recargo de 
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 118 al artículo 123)
 
-Ficha Artículo 123
-
 Artículo 124.- (Derogado por el artículo 212 de la Ley N° 8508 de 28 de abril de 2006 y posteriormente vuelto a derogar por el artículo 37 aparte b) de la Ley N° 8624 del 1° de noviembre de 2007)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 119 al artículo 124)
-
-Ficha Artículo 124
 
 Artículo 124 bis- Juzgados de Familia por ministerio de ley En los lugares que determine la Corte Suprema de Justicia, por no existir Juzgado de Familia, la tramitación de los siguientes asuntos podrán ser conocidos en primera instancia por los juzgados contravencionales que se designen:
 
@@ -2032,8 +1763,6 @@ Artículo 124 bis- Juzgados de Familia por ministerio de ley En los lugares que 
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 119 bis al artículo 124 bis)
 
-Ficha Artículo 124 BIS
-
 Artículo 125- Los juzgados de Pensiones Alimentarias conocerán:
 
 1. Todos los asuntos referidos a prestaciones alimentarias derivadas de las relaciones familiares.
@@ -2046,8 +1775,6 @@ Artículo 125- Los juzgados de Pensiones Alimentarias conocerán:
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 120 al artículo 125)
 
-Ficha Artículo 125
-
 Artículo 126.- En materia de tránsito, los juzgados contravencionales, conocerán:
 
 1.- De las infracciones de tránsito.
@@ -2057,8 +1784,6 @@ Artículo 126.- En materia de tránsito, los juzgados contravencionales, conocer
 (Así reformado por el artículo 4° de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 121 al artículo 126)
-
-Ficha Artículo 126
 
 Artículo 126 bis- Juzgados de Violencia Doméstica y de Protección Cautelar. Los juzgados de Violencia Doméstica y de Protección Cautelar conocerán de:
 
@@ -2072,15 +1797,11 @@ En los lugares en los cuales no existe juzgado de Violencia Doméstica, estos as
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 121 bis al artículo 126 bis)
 
-Ficha Artículo 126 BIS
-
 Artículo 127.- En los cantones donde existan varios juzgados de menor cuantía o contravencionales, la Corte Suprema de Justicia podrá establecer los que puedan atender también asuntos civiles y otros asuntos de diversas materias.
 
 (Así reformado por el artículo 4° de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 122 al artículo 127)
-
-Ficha Artículo 127
 
 CAPITULO IV
 
@@ -2092,13 +1813,9 @@ Artículo 128.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de ener
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 123 al artículo 128)
 
-Ficha Artículo 128
-
 Artículo 129.- (Derogado por el artículo 23 de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 124 al artículo 129)
-
-Ficha Artículo 129
 
 Artículo 129 bis- Juez de enlace en materia de niñez y adolescencia. La Corte Suprema de Justicia, de entre las personas juzgadoras del Poder Judicial en materia familiar, elegirá una o varias personas que ejercerán la función de personas juzgadoras de enlace, con el cometido de facilitar las consultas y comunicaciones judiciales directas sobre los asuntos tramitados en aplicación de los convenios internacionales y las leyes nacionales.
 
@@ -2107,8 +1824,6 @@ Estas consultas y comunicaciones judiciales podrán ser recíprocas entre tribun
 (Así adicionado por el artículo 3° punto III) de la ley que aprobó el Código Procesal de Familia, N° 9747 del 23 de octubre de 2019)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 124 bis al artículo 129 bis)
-
-Ficha Artículo 129 BIS
 
 Capítulo V
 
@@ -2121,8 +1836,6 @@ Artículo 130.- Los tribunales tendrán jueces tramitadores, cuando lo requieran
 (Así reformado por el artículo 4° de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 125 al artículo 130)
-
-Ficha Artículo 130
 
 Artículo 131.- Corresponde a los jueces tramitadores:
 
@@ -2148,15 +1861,11 @@ Artículo 131.- Corresponde a los jueces tramitadores:
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 126 al artículo 131)
 
-Ficha Artículo 131
-
 Artículo 132.- Los jueces tramitadores deben reunir los mismos requisitos del juez, de acuerdo con la categoría que corresponda en el despacho de que se trate.
 
 (Así reformado por el artículo 4° de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 127 al artículo 132)
-
-Ficha Artículo 132
 
 Artículo 133.- La Corte Suprema de Justicia podrá establecer, mediante acuerdo que se publicará en el Boletín Judicial, otras funciones que deben realizar los jueces tramitadores, según la materia y la cuantía de los asuntos.
 
@@ -2164,21 +1873,15 @@ Artículo 133.- La Corte Suprema de Justicia podrá establecer, mediante acuerdo
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 128 al artículo 133)
 
-Ficha Artículo 133
-
 Artículo 134.- En los tribunales que no cuenten con un juez tramitador, algunas de las funciones a él atribuidas podrán ser cumplidas por uno de los miembros del personal auxiliar, según lo determine la Corte o el Consejo.
 
 (Así reformado por el artículo 4° de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 129 al artículo 134)
 
-Ficha Artículo 134
-
 Artículo 135.- (Derogado por el artículo 23 de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 130 al artículo 135)
-
-Ficha Artículo 135
 
 CAPITULO VI
 
@@ -2190,13 +1893,9 @@ No expresándose por las partes la calidad del árbitro, se entenderá nombrado 
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 131 al artículo 136)
 
-Ficha Artículo 136
-
 Artículo 137.- No podrá ser árbitro de derecho, el que ha intervenido como abogado o procurador de una de las partes, en el asunto para el que fuere nombrado, salvo que las partes, en la escritura o exposición de compromiso, lo hayan elegido con conocimiento de causa y así lo expresen.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 132 al artículo 137)
-
-Ficha Artículo 137
 
 Artículo 138.- Los árbitros que no sean funcionarios judiciales, una vez aceptado su encargo, quedan obligados a desempeñarlo, bajo la pena de responder de los daños y perjuicios que causaren con su incumplimiento. Esta obligación cesa:
 
@@ -2208,13 +1907,9 @@ Artículo 138.- Los árbitros que no sean funcionarios judiciales, una vez acept
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 133 al artículo 138)
 
-Ficha Artículo 138
-
 Artículo 139.- Los árbitros juris han de tener las mismas calidades y condiciones que las exigidas para ejercer en un juzgado. Los árbitros arbitradores no requerirán condiciones especiales sino el nombramiento de las partes.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 134 al artículo 139)
-
-Ficha Artículo 139
 
 Título V
 
@@ -2232,13 +1927,9 @@ Artículo 140 .- Los tribunales tendrán la organización interna y el personal 
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 135 al artículo 140)
 
-Ficha Artículo 140
-
 Artículo 141.- Salvo los que corresponda hacer al Consejo, los jefes de Despacho -sujetos a la aprobación de aquel- podrán nombrar a sus respectivos funcionarios y empleados. Cuando se trate de nombramientos en propiedad, deberán solicitar al Departamento de Personal, las ternas respectivas, las cuales podrán ser rechazadas si estiman que ninguno de los candidatos satisface las necesidades del Despacho. Si la plaza estuviere vacante, el nombramiento en propiedad no podrá diferirse por más de tres meses. Las mismas reglas se aplicarán para los nombramientos del personal subalterno del resto de las oficinas judiciales.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 136 al artículo 141)
-
-Ficha Artículo 141
 
 Artículo 142.- El Consejo Superior podrá conceder a los servidores judiciales permiso para estudiar, en horas laborales, profesiones que interesen al Poder Judicial. Dichos servidores podrán dejar de asistir a sus oficinas durante las horas que les sean autorizadas para estar presentes en los cursos y exámenes, pero el resto del tiempo, así como durante las vacaciones y los días de asueto en el centro de estudios, deberán asistir puntualmente al despacho.
 
@@ -2248,13 +1939,9 @@ El Consejo podrá cancelar el beneficio referido en el párrafo anterior, luego 
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 137 al artículo 142)
 
-Ficha Artículo 142
-
 Artículo 143.- En ninguna oficina podrá haber más de dos empleados estudiantes que gocen de la ventaja a la que se refiere el artículo anterior.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 138 al artículo 143)
-
-Ficha Artículo 143
 
 Artículo 144.- Podrá haber en cada oficina, hasta dos servidores meritorios, nombrados por los respectivos jefes de Despacho. La relación creada bajo las previsiones de este artículo no crea derechos laborales en favor del meritorio, pero sí faculta para el ejercicio del régimen disciplinario.
 
@@ -2262,13 +1949,9 @@ Cuando el jefe de la oficina considere inconveniente la presencia o actuación d
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 139 al artículo 144)
 
-Ficha Artículo 144
-
 Artículo 145.- Los servidores meritorios deben tener las mismas calidades que los propietarios, y tendrán derecho a ser elegidos en propiedad o para reponer a los propietarios durante sus ausencias temporales, una vez calificados por el Departamento de Personal.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 140 al artículo 145)
-
-Ficha Artículo 145
 
 Artículo 146.- La Secretaría de la Corte Suprema de Justicia es el órgano de comunicación entre el Poder Judicial y los otros Poderes del Estado, así como entre estos y los funcionarios judiciales. Además, se encargará de comunicar los acuerdos de la Corte Plena y el Consejo.
 
@@ -2283,8 +1966,6 @@ Tanto los Secretarios de la Corte como los de las Salas deberán ser abogados.
 (Así reformado por el artículo 5° de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 141 al artículo 146)
-
-Ficha Artículo 146
 
 Artículo 147.- Cada circuito judicial contará con un administrador general, quien tendrá a su cargo las funciones administrativas que, por ley o reglamento, no se atribuyan a otros servidores. De él dependerán las oficinas centralizadas de servicio del circuito respectivo.
 
@@ -2326,8 +2007,6 @@ El administrador general será nombrado por el Director Ejecutivo y deberá tene
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 142 al artículo 147)
 
-Ficha Artículo 147
-
 Capítulo Segundo
 
 (\*)De la organización general de los tribunales
@@ -2342,8 +2021,6 @@ Este sistema de organización procurará la participación de los jueces y demá
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 143 al artículo 148)
 
-Ficha Artículo 148
-
 Artículo 149.- En los circuitos judiciales y los tribunales donde el mejor servicio público lo requiera, podrán establecerse unidades de servicio administrativo centralizado, tales como: notificaciones, recepción de documentos, correo interno, archivo, custodia de evidencias, administración de salas de audiencias, tesorería y cualquier otra que determine la Corte , de manera que una unidad de trabajo pueda atender las necesidades y los requerimientos de dos o más tribunales.
 
 Las labores de estas oficinas pueden extenderse más allá de los horarios habituales, según se necesite para mejorar el servicio público.
@@ -2353,8 +2030,6 @@ Estos despachos dependerán de la administración general.
 (Así reformado por el artículo 5° de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 144 al artículo 149)
-
-Ficha Artículo 149
 
 Artículo 150.- Cuando sea indispensable para hacer más eficiente el servicio judicial, en los circuitos habrá una oficina central de tesorería, que tramitará todo lo relacionado con la contabilidad de los depósitos y el procedimiento del giro de dinero.
 
@@ -2366,23 +2041,17 @@ Lo anterior sin perjuicio de que el Consejo Superior autorice a los despachos ub
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 145 al artículo 150)
 
-Ficha Artículo 150
-
 Artículo 151.- En las diferentes circunscripciones territoriales funcionarán equipos de localización, citación y presentación de personas requeridas por autoridades jurisdiccionales, el Ministerio Público y la Defensa Pública. Los funcionarios encargados de esta labor tendrán la potestad de ejecutar las órdenes de detención, traslado y presentación de personas que las autoridades jurisdiccionales o del Ministerio Público dispongan en el ejercicio de sus funciones.
 
 (Así reformado por el artículo 5° de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 146 al artículo 151)
 
-Ficha Artículo 151
-
 Artículo 152.- La Corte podrá disponer la utilización de sistemas informáticos para notificaciones, citaciones, comunicación entre oficinas judiciales y externas, públicas o privadas, archivo, manejo de documentación e información, atención al usuario, y para cualquier otro acto en que se demuestre que el uso de la informática agiliza el procedimiento, caso en el que las constancias propias del sistema resultan suficientes para acreditar la realización del acto procesal que las generó, salvo prueba en contrario.
 
 (Así reformado por el artículo 5° de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 147 al artículo 152)
-
-Ficha Artículo 152
 
 CAPITULO IV
 
@@ -2391,8 +2060,6 @@ DEL ENCARGADO DE TESORERIA
 Artículo 153.- (Derogado por el artículo 23 de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 148 al artículo 153)
-
-Ficha Artículo 153
 
 TITULO VI
 
@@ -2410,8 +2077,6 @@ Artículo 154.- Además de otros órganos que establezcan la ley o el reglamento
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 149 al artículo 154)
 
-Ficha Artículo 154
-
 CAPITULO II
 
 DE LOS DEFENSORES PUBLICOS Y DE OFICIO
@@ -2422,8 +2087,6 @@ Artículo 155.- La Defensa Pública es un órgano dependiente del Consejo Superi
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 150 al artículo 155)
 
-Ficha Artículo 155
-
 Artículo 156.- El Jefe de la Defensa Pública debe ser costarricense, abogado, mayor de treinta años y con suficiente experiencia en la tramitación de asuntos judiciales y administración de personal.
 
 A propuesta del jefe, la Corte designará al subjefe de la Defensa Pública, quien deberá reunir los mismos requisitos que aquel.
@@ -2431,8 +2094,6 @@ A propuesta del jefe, la Corte designará al subjefe de la Defensa Pública, qui
 (Así reformado por el artículo 6° de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 151 al artículo 156)
-
-Ficha Artículo 156
 
 Artículo 157.- La Defensa Pública proveerá defensor público a todo imputado o prevenido que solicite sus servicios. La autoridad que tramite la causa le advertirá que, si se demuestra que tiene solvencia económica, deberá designar un abogado particular o pagar al Poder Judicial los servicios del defensor público, según la fijación que hará el juzgador.
 
@@ -2443,8 +2104,6 @@ También proveerá defensor, en los procesos agrarios no penales, a la parte que
 (Así reformado por el artículo 6° de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 152 al artículo 157)
-
-Ficha Artículo 157
 
 Artículo 158- La Jefatura de la Defensa Pública o quien esta designe gestionará ante la autoridad judicial o administrativa correspondiente la fijación y el cobro de los honorarios por los servicios prestados, en el momento que la persona usuaria prescinda de sus servicios y las costas cuando el proceso que se está tramitando finalice con sentencia firme. Estos extremos podrán ser cobrados, según corresponda, a las personas usuarias con recursos económicos demostrados para cancelarlos o a la contraparte vencida.
 
@@ -2460,15 +2119,11 @@ La fijación y el cobro de honorarios y costas para la materia laboral se regir�
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 153 al artículo 158)
 
-Ficha Artículo 158
-
 Artículo 159- Los fondos provenientes de honorarios y/o costas se depositarán en una cuenta bancaria especial de la Defensa Pública y se emplearán exclusivamente para adquirir bienes y servicios tendientes a mejorar la Defensa Pública, salvo lo dispuesto en el artículo 454 del Código de Trabajo para la materia laboral y lo establecido en la distribución de los dineros por costas personales que se generen a favor de la parte patrocinada por la defensa pública agraria que se regirán por lo dispuesto en el artículo 47, "Patrocinio letrado a cargo de la Defensa Pública", del Código Procesal Agrario, Ley N° 9609, de 27 de setiembre de 2018.
 
 (Así reformado por el artículo 1° de la ley N° 10257 del 6 de mayo del 2022, "Reforma Ley Orgánica del Poder Judicial, para garantizar el financiamiento de las secciones especializadas de la defensa pública")
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 154 al artículo 159)
-
-Ficha Artículo 159
 
 Artículo 160.- Los defensores públicos son funcionarios dependientes del Poder Judicial, de nombramiento del Jefe de la Defensa Pública , y de ratificación del Consejo.
 
@@ -2480,8 +2135,6 @@ Cuando, en una misma circunscripción territorial, exista más de un defensor p�
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 155 al artículo 160)
 
-Ficha Artículo 160
-
 Artículo 161.- La Defensa Pública contará con el número necesario de auxiliares en abogacía, para que colaboren estrechamente con el defensor en el ejercicio de su cargo. Tendrán las funciones que les señalen la jefatura, esta Ley, su Reglamento y el Manual descriptivo de puestos.
 
 Los auxiliares de abogacía deberán tener aprobado al menos el tercer año de la carrera profesional o estudios equivalentes en Derecho.
@@ -2490,19 +2143,13 @@ Los auxiliares de abogacía deberán tener aprobado al menos el tercer año de l
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 156 al artículo 161)
 
-Ficha Artículo 161
-
 Artículo 162.- En caso de inopia de abogados en una determinada jurisdicción territorial, se podrá nombrar como defensores, en ese orden, a los egresados de las facultades o escuelas de Derecho o a los estudiantes que estén cursando el último año. Sin embargo, los profesionales siempre desplazarán a quienes carezcan de título, pero se respetará el plazo por el que estos hayan sido nombrados.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 157 al artículo 162)
 
-Ficha Artículo 162
-
 Artículo 163.- El cargo de defensor público de tiempo completo es incompatible con el ejercicio privado de la profesión de abogado y del ejercicio del notariado.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 158 al artículo 163)
-
-Ficha Artículo 163
 
 Artículo 164.- En las circunscripciones territoriales donde no exista defensor público nombrado, la asistencia podrá estar a cargo de defensores de oficio, de nombramiento del funcionario que conozca del asunto, salvo que el Jefe de la Defensa Pública recargue esas labores en un defensor público de otro territorio.
 
@@ -2513,8 +2160,6 @@ El cargo de defensor de oficio es gratuito y la persona en la que recaiga el nom
 (Así reformado por el artículo 6° de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 159 al artículo 164)
-
-Ficha Artículo 164
 
 CAPITULO III
 
@@ -2528,13 +2173,9 @@ No podrán ser ejecutores los servidores judiciales, con excepción de los miemb
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 160 al artículo 165)
 
-Ficha Artículo 165
-
 Artículo 166.- La Corte dictará normas reguladoras para la selección de los curadores, de los notarios inventariadores en los procedimientos de concurso mercantil y civil y de los peritos judiciales en general.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 161 al artículo 166)
-
-Ficha Artículo 166
 
 TITULO VII
 
@@ -2548,8 +2189,6 @@ Artículo 167.- La facultad de administrar justicia se adquiere con el cargo al 
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 162 al artículo 167)
 
-Ficha Artículo 167
-
 Artículo 168.- La competencia se pierde en causas determinadas:
 
 1.- Cuando está fenecida la causa y ejecutada la sentencia.
@@ -2561,8 +2200,6 @@ Artículo 168.- La competencia se pierde en causas determinadas:
 4.- Cuando el juez ha sido declarado inhábil en virtud de impedimento, excusa o recusación.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 163 al artículo 168)
-
-Ficha Artículo 168
 
 Artículo 169.- Salvo en los casos exceptuados por la ley, la competencia se suspende:
 
@@ -2576,15 +2213,11 @@ Artículo 169.- Salvo en los casos exceptuados por la ley, la competencia se sus
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 164 al artículo 169)
 
-Ficha Artículo 169
-
 Artículo 170.- Todo juez tiene limitada su competencia al territorio y a la clase de asuntos que le estén señalados para ejercerla; las diligencias que los procesos de que conozca exijan se hagan en el territorio de otro juez, sólo podrán practicarlas por medio de este, salvo autorización legal en contrario.
 
 El juez solo podrá conocer de los asuntos no sometidos a su competencia, cuando le fuere legalmente prorrogada o delegada.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 165 al artículo 170)
-
-Ficha Artículo 170
 
 Artículo 171.- El juez con competencia para conocer de un asunto, la tiene también para conocer de sus tercerías y demás incidentes, salvo que en juicio de menor cuantía viniere una reconvención, compensación, tercería u otro incidente que deba tramitarse en juicio de mayor cuantía, pues en tal caso, deberán pasar tanto el juicio principal como el incidental, al conocimiento del juez superior, quien los tramitará conforme a la cuantía de cada uno. Igual procedimiento se observará cuando un proceso sucesorio de menor cuantía ejerza fuero de atracción sobre otro de mayor cuantía o inestimable.
 
@@ -2598,19 +2231,13 @@ Sin embargo, no será motivo para inhibición en juicio de menor cuantía:
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 166 al artículo 171)
 
-Ficha Artículo 171
-
 Artículo 172.- Los fallos y demás resoluciones serán ejecutados por el tribunal de primera instancia que falle el asunto. Tratándose de tribunales penales, la sentencia se ejecutará por el mismo tribunal, siempre que la misma condene a suma líquida.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 167 al artículo 172)
 
-Ficha Artículo 172
-
 Artículo 173.- Salvo disposición legal en contrario, todos los actos y procedimientos judiciales de quien no tiene facultad legal para ejecutarlos, serán absolutamente nulos.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 168 al artículo 173)
-
-Ficha Artículo 173
 
 Artículo 174.- Cuando un funcionario estimare que es incompetente para conocer del asunto que se le somete, salvo el caso de prórroga de competencia, lo declarará así de oficio y ordenará remitir el expediente al funcionario que a su juicio corresponda conocer. Si mediare apelación de alguna de las partes o si, no habiéndola, este último funcionario desintiere de esa opinión, será el superior de ambos quien decida la competencia, sin más trámite y tan pronto como reciba los autos.
 
@@ -2620,21 +2247,15 @@ La competencia entre las autoridades administrativas y las judiciales se decidir
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 169 al artículo 174)
 
-Ficha Artículo 174
-
 Artículo 175.- Los tribunales no pueden sostener competencias con los superiores que ejerzan jurisdicción sobre ellos.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 170 al artículo 175)
-
-Ficha Artículo 175
 
 Artículo 176.- La competencia de los árbitros se limita al asunto que expresamente les fuere sometido por la escritura o escrito de compromiso, y a los incidentes sin cuya resolución no fuere posible decidir el asunto principal.
 
 Cuando se propusiere la excepción de compensación, la sentencia que la admita no será eficaz en cuanto a la declaración del crédito del demandado, sino por la cantidad que importe la demanda.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 171 al artículo 176)
-
-Ficha Artículo 176
 
 Artículo 177.- Los árbitros recabarán datos o auxilios de cualquier autoridad, por medio del juez al que haya correspondido conocer del asunto.
 
@@ -2644,13 +2265,9 @@ Corresponderá también al juez ejecutar las resoluciones y providencias legalme
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 172 al artículo 177)
 
-Ficha Artículo 177
-
 Artículo 178.- A falta de norma expresa en esta Ley sobre jurisdicción y competencia, se aplicará lo dispuesto en los códigos y leyes procesales respectivos.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 173 al artículo 178)
-
-Ficha Artículo 178
 
 TITULO VIII
 
@@ -2666,23 +2283,17 @@ Artículo 179.- El régimen sancionador tiene por finalidad la verificación de 
 
 (Así reformado por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 232 de la Ley N° 10905 antes mencionada, indica modificar el numeral 174, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 174 fue renombrado como artículo 179. En consecuencia, la reforma del artículo 174 debe entenderse aplicada correctamente al artículo 179.)
 
-Ficha Artículo 179
-
 Artículo 180.- Todas las personas servidoras judiciales, sin importar la categoría del puesto o su condición de propietarias, interinas o meritorias, están sujetas a responsabilidad sancionadora por sus conductas que configuren una falta. De igual manera, lo estarán quienes integren las listas de suplentes, elegibles o meritorias para diferentes puestos en el Poder Judicial, cuando se encuentren sin nombramiento activo.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 175 al artículo 180)
 
 (Así reformado por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 232 de la Ley N° 10905 antes mencionada, indica modificar el numeral 175, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 175 fue renombrado como artículo 180. En consecuencia, la reforma del artículo 175 debe entenderse aplicada correctamente al artículo 180.)
 
-Ficha Artículo 180
-
 Artículo 181.- La responsabilidad sancionadora sólo podrá ser acordada por el órgano competente, mediante el procedimiento establecido en la Ley de Régimen Sancionador de Personas Servidoras e Integrantes de Listas de Suplentes, Elegibles y Meritorias del Poder Judicial.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 176 al artículo 181)
 
 (Así reformado por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 232 de la Ley N° 10905 antes mencionada, indica modificar el numeral 176, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 176 fue renombrado como artículo 181. En consecuencia, la reforma del artículo 176 debe entenderse aplicada correctamente al artículo 181.)
-
-Ficha Artículo 181
 
 Artículo 182.- No obstante lo dispuesto en los artículos anteriores, toda persona superior jerárquica, que ostente o no competencia para aplicar el régimen sancionador, podrá realizar advertencias a las personas servidoras bajo su cargo, cuando incurran en una acción u omisión, sin mediar dolo o culpa grave, y que por mera constatación es posible determinar que lo sucedido no constituye falta, sino un simple error humano o errónea interpretación de directrices sin trascendencia alguna, con la finalidad de que modifique la conducta incompatible con el cargo.
 
@@ -2696,31 +2307,21 @@ Las advertencias realizadas en razón de acciones u omisiones que ameriten la ap
 
 (Así reformado por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 232 de la Ley N° 10905 antes mencionada, indica modificar el numeral 177, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 177 fue renombrado como artículo 182. En consecuencia, la reforma del artículo 177 debe entenderse aplicada correctamente al artículo 182.)
 
-Ficha Artículo 182
-
 Artículo 183.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 178, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 178 fue renombrado como artículo 183. En consecuencia, la derogatoria del artículo 178 debe entenderse aplicada correctamente al artículo 183.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 178 al artículo 183)
-
-Ficha Artículo 183
 
 Artículo 184.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 179, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 179 fue renombrado como artículo 184. En consecuencia, la derogatoria del artículo 179 debe entenderse aplicada correctamente al artículo 184.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 179 al artículo 184)
 
-Ficha Artículo 184
-
 Artículo 185.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 180, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 180 fue renombrado como artículo 185. En consecuencia, la derogatoria del artículo 180 debe entenderse aplicada correctamente al artículo 185.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 180 al artículo 185)
 
-Ficha Artículo 185
-
 Artículo 186.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 181, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 181 fue renombrado como artículo 186. En consecuencia, la derogatoria del artículo 181 debe entenderse aplicada correctamente al artículo 186.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 181 al artículo 186)
-
-Ficha Artículo 186
 
 CAPITULO II
 
@@ -2750,15 +2351,11 @@ Estos órganos tendrán las potestades que define la Ley de Régimen Sancionador
 
 (Así reformado por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 232 de la Ley N° 10905 antes mencionada, indica modificar el numeral 182, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 182 fue renombrado como artículo 187. En consecuencia, la reforma del artículo 182 debe entenderse aplicada correctamente al artículo 187.)
 
-Ficha Artículo 187
-
 Artículo 188.- En los procedimientos disciplinarios que son competencia de la Corte Plena, el órgano director será uno de sus integrantes o una persona jueza decisora del Tribunal Administrativo Sancionador, según lo dispuesto en la Ley de Régimen Sancionador de Personas Servidoras e Integrantes de Listas de Suplentes, Elegibles y Meritorias del Poder Judicial.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 183 al artículo 188)
 
 (Así reformado por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 232 de la Ley N° 10905 antes mencionada, indica modificar el numeral 183, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 183 fue renombrado como artículo 188. En consecuencia, la reforma del artículo 183 debe entenderse aplicada correctamente al artículo 188.)
-
-Ficha Artículo 188
 
 Artículo 189.- Constituyen también órganos directores, a los cuales se les delegan todas las facultades y deberes de investigación, instrucción y tramitación que se establecen en la ley:
 
@@ -2774,37 +2371,25 @@ Artículo 189.- Constituyen también órganos directores, a los cuales se les de
 
 (Así reformado por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 232 de la Ley N° 10905 antes mencionada, indica modificar el numeral 184, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 184 fue renombrado como artículo 189. En consecuencia, la reforma del artículo 184 debe entenderse aplicada correctamente al artículo 189.)
 
-Ficha Artículo 189
-
 Artículo 190.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 185, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 185 fue renombrado como artículo 190. En consecuencia, la derogatoria del artículo 185 debe entenderse aplicada correctamente al artículo 190.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 185 al artículo 190)
-
-Ficha Artículo 190
 
 Artículo 191.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 186, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 186 fue renombrado como artículo 191. En consecuencia, la derogatoria del artículo 186 debe entenderse aplicada correctamente al artículo 191.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 186 al artículo 191)
 
-Ficha Artículo 191
-
 Artículo 192.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 187, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 187 fue renombrado como artículo 192. En consecuencia, la derogatoria del artículo 187 debe entenderse aplicada correctamente al artículo 192.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 187 al artículo 192)
-
-Ficha Artículo 192
 
 Artículo 193.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 188, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 188 fue renombrado como artículo 193. En consecuencia, la derogatoria del artículo 188 debe entenderse aplicada correctamente al artículo 193.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 188 al artículo 193)
 
-Ficha Artículo 193
-
 Artículo 194.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 189, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 189 fue renombrado como artículo 194. En consecuencia, la derogatoria del artículo 189 debe entenderse aplicada correctamente al artículo 194.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 189 al artículo 194)
-
-Ficha Artículo 194
 
 CAPITULO III
 
@@ -2814,43 +2399,29 @@ Artículo 195.- (Derogado por el artículo 231 de la Ley Régimen sancionador de
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 190 al artículo 195)
 
-Ficha Artículo 195
-
 Artículo 196.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 191, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 191 fue renombrado como artículo 196. En consecuencia, la derogatoria del artículo 191 debe entenderse aplicada correctamente al artículo 196.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 191 al artículo 196)
-
-Ficha Artículo 196
 
 Artículo 197.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 192, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 192 fue renombrado como artículo 197. En consecuencia, la derogatoria del artículo 192 debe entenderse aplicada correctamente al artículo 197.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 192 al artículo 197)
 
-Ficha Artículo 197
-
 Artículo 198.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 193, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 193 fue renombrado como artículo 198. En consecuencia, la derogatoria del artículo 193 debe entenderse aplicada correctamente al artículo 198.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 193 al artículo 198)
-
-Ficha Artículo 198
 
 Artículo 199.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 194, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 194 fue renombrado como artículo 199. En consecuencia, la derogatoria del artículo 194 debe entenderse aplicada correctamente al artículo 199.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 194 al artículo 199)
 
-Ficha Artículo 199
-
 Artículo 200.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 195, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 195 fue renombrado como artículo 200. En consecuencia, la derogatoria del artículo 195 debe entenderse aplicada correctamente al artículo 200.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 195 al artículo 200)
 
-Ficha Artículo 200
-
 Artículo 201.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 196, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 196 fue renombrado como artículo 201. En consecuencia, la derogatoria del artículo 196 debe entenderse aplicada correctamente al artículo 201.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 196 al artículo 201)
-
-Ficha Artículo 201
 
 CAPITULO IV
 
@@ -2860,97 +2431,65 @@ Artículo 202.- (Derogado por el artículo 231 de la Ley Régimen sancionador de
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 197 al artículo 202)
 
-Ficha Artículo 202
-
 Artículo 203.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 198, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 198 fue renombrado como artículo 203. En consecuencia, la derogatoria del artículo 198 debe entenderse aplicada correctamente al artículo 203.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 198 al artículo 203)
-
-Ficha Artículo 203
 
 Artículo 204.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 199, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 199 fue renombrado como artículo 204. En consecuencia, la derogatoria del artículo 199 debe entenderse aplicada correctamente al artículo 204.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 199 al artículo 204)
 
-Ficha Artículo 204
-
 Artículo 205.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 200, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 200 fue renombrado como artículo 205. En consecuencia, la derogatoria del artículo 200 debe entenderse aplicada correctamente al artículo 205.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 200 al artículo 205)
-
-Ficha Artículo 205
 
 Artículo 206.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 201, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 201 fue renombrado como artículo 206. En consecuencia, la derogatoria del artículo 201 debe entenderse aplicada correctamente al artículo 206.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 201 al artículo 206)
 
-Ficha Artículo 206
-
 Artículo 207.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 202, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 202 fue renombrado como artículo 207. En consecuencia, la derogatoria del artículo 202 debe entenderse aplicada correctamente al artículo 207.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 202 al artículo 207)
-
-Ficha Artículo 207
 
 Artículo 208.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 203, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 203 fue renombrado como artículo 208. En consecuencia, la derogatoria del artículo 203 debe entenderse aplicada correctamente al artículo 208.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 203 al artículo 208)
 
-Ficha Artículo 208
-
 Artículo 209.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 204, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 204 fue renombrado como artículo 209. En consecuencia, la derogatoria del artículo 204 debe entenderse aplicada correctamente al artículo 209.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 204 al artículo 209)
-
-Ficha Artículo 209
 
 Artículo 210.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 205, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 205 fue renombrado como artículo 210. En consecuencia, la derogatoria del artículo 205 debe entenderse aplicada correctamente al artículo 210.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 205 al artículo 210)
 
-Ficha Artículo 210
-
 Artículo 211.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 206, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 206 fue renombrado como artículo 211. En consecuencia, la derogatoria del artículo 206 debe entenderse aplicada correctamente al artículo 211.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 206 al artículo 211)
-
-Ficha Artículo 211
 
 Artículo 212.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 207, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 207 fue renombrado como artículo 212. En consecuencia, la derogatoria del artículo 207 debe entenderse aplicada correctamente al artículo 212.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 207 al artículo 212)
 
-Ficha Artículo 212
-
 Artículo 213.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 208, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 208 fue renombrado como artículo 213. En consecuencia, la derogatoria del artículo 208 debe entenderse aplicada correctamente al artículo 213.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 208 al artículo 213)
-
-Ficha Artículo 213
 
 Artículo 214.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 209, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 209 fue renombrado como artículo 214. En consecuencia, la derogatoria del artículo 209 debe entenderse aplicada correctamente al artículo 214.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 209 al artículo 214)
 
-Ficha Artículo 214
-
 Artículo 215.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 210, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 210 fue renombrado como artículo 215. En consecuencia, la derogatoria del artículo 210 debe entenderse aplicada correctamente al artículo 215.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 210 al artículo 215)
-
-Ficha Artículo 215
 
 Artículo 216.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 211, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 211 fue renombrado como artículo 216. En consecuencia, la derogatoria del artículo 211 debe entenderse aplicada correctamente al artículo 216.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 211 al artículo 216)
 
-Ficha Artículo 216
-
 Artículo 217.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 212, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 212 fue renombrado como artículo 217. En consecuencia, la derogatoria del artículo 212 debe entenderse aplicada correctamente al artículo 217.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 212 al artículo 217)
-
-Ficha Artículo 217
 
 CAPITULO V
 
@@ -2960,19 +2499,13 @@ Artículo 218.- (Derogado por el artículo 231 de la Ley Régimen sancionador de
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 213 al artículo 218)
 
-Ficha Artículo 218
-
 Artículo 219.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 214, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 214 fue renombrado como artículo 219. En consecuencia, la derogatoria del artículo 214 debe entenderse aplicada correctamente al artículo 219.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 214 al artículo 219)
 
-Ficha Artículo 219
-
 Artículo 220.- (Derogado por el artículo 231 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 231 de la Ley N° 10905 antes mencionada, indica derogar el numeral 215, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 215 fue renombrado como artículo 220. En consecuencia, la derogatoria del artículo 215 debe entenderse aplicada correctamente al artículo 220.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 215 al artículo 220)
-
-Ficha Artículo 220
 
 CAPITULO VI
 
@@ -2986,8 +2519,6 @@ En caso de desorden o tumulto, se mandará a desalojar el recinto con el auxilio
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 216 al artículo 221)
 
-Ficha Artículo 221
-
 Artículo 222.- Si los actos a los que se refiere el artículo anterior significan ultraje u ofensa directa contra el funcionario o el tribunal, podrán imponerle al culpable de cinco a quince días multa. Esta resolución podrá ser apelada ante el superior, si se tratare de la dictada por un juez o un representante del Ministerio Público. Si la multa fuere impuesta por la Corte Plena , una de las Salas, un tribunal colegiado o uno de sus integrantes, el Fiscal General, o bien por el Consejo Superior, no cabrá más recurso que el de revocatoria o reconsideración.
 
 Cuando los hechos contemplados en este artículo y en el numeral precedente lleguen a constituir delito, contravención o falta, su autor será puesto a la orden de la autoridad respectiva, para su juzgamiento.
@@ -2995,8 +2526,6 @@ Cuando los hechos contemplados en este artículo y en el numeral precedente lleg
 (Así reformado por el artículo 7° de la Ley N° 7728 de 15 de diciembre de 1997)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 217 al artículo 222)
-
-Ficha Artículo 222
 
 Artículo 223.- Las partes y sus abogados directores serán corregidos, disciplinariamente, con cinco a veinte días multa cuando en los asuntos en que intervengan o con motivo de ellos, dentro o fuera de juicio, de palabra o por escrito, por correspondencia privada o por cualquier medio de comunicación colectiva, injurien o difamen a los tribunales o a los funcionarios judiciales, sin perjuicio de las responsabilidades penales correspondientes.
 
@@ -3007,8 +2536,6 @@ Si el ataque al funcionario fuere de obra, se aplicará a la parte, la multa en 
 En caso de reincidencia, la Corte o el Consejo comunicarán a la Junta Directiva del Colegio de Abogados la falta para que resuelva si aplica el régimen disciplinario.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 218 al artículo 223)
-
-Ficha Artículo 223
 
 Artículo 224.- Los profesionales y las partes que en sus escritos consignen ofensas, frases injuriosas, despectivas o irrespetuosas contra los colegas o contra las partes o personas que intervienen en los juicios, podrán ser corregidos con cinco a quince días multa, sin perjuicio de que el ofendido les exija las responsabilidades consiguientes.
 
@@ -3022,13 +2549,9 @@ Estas multas son de carácter disciplinario y nunca podrán convertirse en prisi
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 219 al artículo 224)
 
-Ficha Artículo 224
-
 Artículo 225.- En el caso del artículo 217, el funcionario o tribunal hará constar en los autos, de forma lacónica, la falta cometida y, a continuación, dictará resolución fundamentada en la que impondrá la multa. La apelación que establezca el interesado, de acuerdo con el mencionado artículo, deberá interponerse dentro del tercer día.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 220 al artículo 225)
-
-Ficha Artículo 225
 
 Artículo 226.- En los casos previstos en el artículo 218, se procederá en la siguiente forma:
 
@@ -3048,8 +2571,6 @@ Artículo 226.- En los casos previstos en el artículo 218, se procederá en la 
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 221 al artículo 226)
 
-Ficha Artículo 226
-
 ARTICULO 227.- En el primer caso del artículo 219(\*) se en el segundo caso, el funcionario o tribunal hará constar en los autos, de forma lacónica, la falta cometida y, a continuación, dictará la resolución en la que impondrá la multa. En ambos casos regirán, respecto de la multa, en lo que fueren aplicables, las disposiciones del artículo anterior.
 
 (Mediante resolución de la Sala Constitucional N° 11596 del 9 de noviembre de 2001, se anuló del párrafo anterior el enunciado que disponía: "impondrá de plano la corrección disciplinaria")
@@ -3066,8 +2587,6 @@ Si no lo hiciere, una vez vencido ese plazo y sin necesidad de nueva resolución
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 222 al artículo 227)
 
-Ficha Artículo 227
-
 Artículo 228.- No obstante lo dispuesto en los artículos anteriores, cuando los hechos a que se refiere este capítulo fueren cometidos por quienes laboren para la Defensa Pública o para el Ministerio Público, la persona juzgadora que conozca del asunto procederá a comunicar la falta a la dirección correspondiente o al Tribunal Administrativo Sancionador para que se aplique el régimen sancionador, en respeto del procedimiento establecido en la Ley de Régimen Sancionador de Personas Servidoras e Integrantes de Listas de Suplentes, Elegibles y Meritorias del Poder Judicial.
 
 En igual sentido, deberá proceder la autoridad judicial cuando estime que dichas personas servidoras han descuidado su función.
@@ -3075,8 +2594,6 @@ En igual sentido, deberá proceder la autoridad judicial cuando estime que dicha
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 223 al artículo 228)
 
 (Así reformado por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026. Se hace constar que el artículo 232 de la Ley N° 10905 antes mencionada, indica modificar el numeral 223, presenta un error de referencia numérica. Debido a la reestructuración numérica dispuesta por el artículo 1° de la Ley N° 10866 del 4 de marzo de 2026, el antiguo artículo 223 fue renombrado como artículo 228. En consecuencia, la reforma del artículo 223 debe entenderse aplicada correctamente al artículo 228.)
-
-Ficha Artículo 228
 
 TÍTULO IX
 
@@ -3098,8 +2615,6 @@ Artículo 229- Los servidores judiciales con veinte o más años de servicio en 
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 224 al artículo 229)
 
-Ficha Artículo 229
-
 Artículo 229 bis- Los servidores con veinte o más años de servicio en el Poder Judicial podrán acogerse a una jubilación anticipada si no se cumpliera con la edad o el número de años de servicio, citado en el artículo anterior. Esta se calculará de la siguiente forma:
 
 a) Si el retiro se produjera al cumplir treinta y cinco o más años de servicio, pero sin haber cumplido los sesenta y cinco años de edad, la jubilación se calculará en proporción a la edad del servidor:
@@ -3114,15 +2629,11 @@ b) Si el retiro se produjera al cumplir el servidor sesenta y cinco o más años
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 224 bis al artículo 229 bis)
 
-Ficha Artículo 229 BIS
-
 Artículo 230- Ninguna jubilación podrá ser superior a diez veces el salarlo base del puesto más bajo pagado en el Poder Judicial, ni inferior a la tercera parte del salario base del puesto más bajo pagado en el Poder Judicial. El monto de las pensiones y las jubilaciones en curso de pago y las que se otorguen en el futuro se reajustará por variaciones en el índice de precios al consumidor (IPC), definido por el Instituto Nacional de Estadística y Censos (INEC).
 
 (Así reformado por el artículo 1° de la ley N° 9544 del 24 de abril de 2018)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 225 al artículo 230)
-
-Ficha Artículo 230
 
 Artículo 231- Para el cómputo del tiempo laborado no será necesario que los funcionarios hayan servido para el Poder Judicial consecutivamente ni en puestos de Igual categoría. Se tomarán en cuenta todos los años de trabajo remunerado, debiendo el servidor haber servido al Poder Judicial al menos los últimos veinte años.
 
@@ -3140,8 +2651,6 @@ En el caso de que lo cotizado por el interesado, el patrono y el Estado no alcan
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 226 al artículo 231)
 
-Ficha Artículo 231
-
 Artículo 232- El servidor judicial que se incapacite de modo permanente para el desempeño de su cargo o empleo, así declarado por la Comisión Calificadora del Estado de Invalidez de la Caja Costarricense de Seguro Social (CCSS) o por la instancia que esa institución designe, y hubiera laborado por cinco años o más para el Poder Judicial, será separado de su puesto con una jubilación permanente. Dicha jubilación se calculará de la siguiente manera:
 
 a) Se determina el ochenta y tres por ciento (83%) del promedio de los salarios ordinarios devengados en los últimos veinte años de su vida laboral o los que hubiera disponibles, actualizados según el índice de precios al consumidor (IPC), definido por el Instituto Nacional de Estadística y Censos (INEC), según se estableció en el artículo 224.
@@ -3153,8 +2662,6 @@ Los montos de las pensiones por invalidez observarán los topes establecidos en 
 (Así reformado por el artículo 1° de la ley N° 9544 del 24 de abril de 2018)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 227 al artículo 232)
-
-Ficha Artículo 232
 
 Artículo 233- Tienen derecho a pensión por sobrevivencia:
 
@@ -3180,8 +2687,6 @@ En ausencia de los derechohabientes por viudez, unión de hecho u orfandad, tien
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 228 al artículo 233)
 
-Ficha Artículo 233
-
 Artículo 234- El monto de las prestaciones de pensión por sobrevivencia en los casos de viudez, unión de hecho, orfandad o ascendencia será proporcional al monto de pensión que recibía el pensionado al momento de fallecer, y en su conjunto este monto no será mayor al ochenta por ciento (80%) de lo que correspondía al causante. En caso de muerte de un servidor activo, la cuantía de la pensión por viudez, unión de hecho, orfandad o ascendencia será proporcional al monto de pensión que hubiera recibido el fallecido de acuerdo con el cumplimiento de requisitos en el momento de la contingencia, y en su conjunto este monto no será mayor al ochenta por ciento (80%) de lo que le hubiera correspondido al causante.
 
 Las proporciones para los beneficios por viudez, unión de hecho, orfandad y ascendencia serán las que se estipulen en el reglamento del Régimen.
@@ -3196,15 +2701,11 @@ Las asignaciones que caduquen acrecerán proporcionalmente las de los demás ben
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 229 al artículo 234)
 
-Ficha Artículo 234
-
 Artículo 234 bis- Cuando en el cumplimiento de sus labores sustantivas y operativas se produzca el fallecimiento de algún servidor del Organismo de Investigación Judicial (OIJ), cuyo puesto esté contemplado en el escalafón policial o su equivalente, y este no cumpla los requisitos para obtener el derecho a una jubilación en el régimen de pensiones al que se encuentre adscrito, se otorgará a sus beneficiarios una pensión por sobrevivencia, conforme al artículo 228 de esta ley, equivalente a dos terceras partes del salario promedio de los salarios ordinarios devengados que hubiera disponibles, la cual se actualizará para mantener el poder adquisitivo según la inflación interanual.
 
 (Así adicionado por el artículo único de la ley N° 10526 del 18 de setiembre del 2024)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 229 bis al artículo 234 bis)
-
-Ficha Artículo 234 BIS
 
 Artículo 235- Cuando la Junta Administradora del Fondo tenga evidencia de que, con fines de defraudación al Fondo, una persona jubilada o pensionada realiza acciones tendentes a trasladar su derecho a otra persona, con la pretensión de que a su fallecimiento le suceda en el beneficio, realizará la investigación correspondiente con las garantías del debido proceso y con base en ella podrá denegar o suspender el beneficio sin más trámite.
 
@@ -3212,23 +2713,17 @@ Artículo 235- Cuando la Junta Administradora del Fondo tenga evidencia de que, 
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 230 al artículo 235)
 
-Ficha Artículo 235
-
 Artículo 236- Excepto por pensión alimentaria, no son susceptibles de embargo, ni de venta, cesión o cualquier otra forma de traspaso, las jubilaciones y las pensiones, ni el Fondo establecido para cubrirlas.
 
 (Así reformado por el artículo 1° de la ley N° 9544 del 24 de abril de 2018)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 231 al artículo 236)
 
-Ficha Artículo 236
-
 Artículo 237- De presentarse algún error en el giro de las jubilaciones y las pensiones, la Administración del Fondo queda autorizada para rebajar en tractos proporcionales, no menores al diez por ciento (10%) del monto de la jubilación o pensión, la suma girada de más, previa audiencia al interesado.
 
 (Así reformado por el artículo 1° de la ley N° 9544 del 24 de abril de 2018)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 232 al artículo 237)
-
-Ficha Artículo 237
 
 Artículo 238- Se le suspenderá el goce del beneficio a la persona jubilada, durante el tiempo que esté percibiendo cualquier otro sueldo del Estado, sus instituciones y de las municipalidades.
 
@@ -3243,8 +2738,6 @@ Todo jubilado que reingrese al servicio del Poder Judicial dejará de percibir s
 (Así reformado por el artículo 1° de la ley N° 9544 del 24 de abril de 2018)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 233 al artículo 238)
-
-Ficha Artículo 238
 
 CAPÍTULO II
 
@@ -3262,8 +2755,6 @@ En caso contrario, si lo determinado actuarialmente como cotizado al Fondo de Ju
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 234 al artículo 239)
 
-Ficha Artículo 239
-
 CAPÍTULO III
 
 EL FONDO
@@ -3273,8 +2764,6 @@ Artículo 240- Con las cotizaciones de los servidores judiciales, el Estado y el
 (Así reformado por el artículo 1° de la ley N° 9544 del 24 de abril de 2018)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 235 al artículo 240)
-
-Ficha Artículo 240
 
 Artículo 241- El Fondo de Jubilaciones y Pensiones del Poder Judicial tendrá los siguientes ingresos:
 
@@ -3295,8 +2784,6 @@ Los recursos que se obtengan con la contribución obligatoria establecida en la 
 (\*) (Nota de Sinalevi: Mediante resolución de la Sala Constitucional N° 11957-2021 del 25 de mayo de 2021, se anula el porcentaje de cotizaciones y la contribución especial solidaria y redistributiva en cuanto excedan el 50% del monto bruto de la pensión que corresponde a la persona jubilada o pensionada. Sin embargo, de conformidad con el artículo 91 de la Ley de la Jurisdicción Constitucional, para evitar graves dislocaciones de la seguridad, la justicia, o la paz social, la Sala gradúa y dimensiona los efectos de esta resolución, de modo que, a partir del mes siguiente de la notificación de la sentencia, las autoridades competentes deberán realizar el ajuste correspondiente conforme a esta sentencia, de manera tal que las cargas tributarias que pesan sobre el monto de las jubilaciones y pensiones no exceda el 50% del monto bruto que recibe el jubilado o pensionado.)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 236 al artículo 241)
-
-Ficha Artículo 241
 
 Artículo 241 bis- Contribución especial, solidaria y redistributiva de los pensionados y jubilados
 
@@ -3324,23 +2811,17 @@ Los recursos que se obtengan con la contribución especial, solidaria y redistri
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 236 bis al artículo 241 bis)
 
-Ficha Artículo 241 BIS
-
 Artículo 242- Los recursos del Fondo de Jubilaciones y Pensiones deberán ser gestionados de conformidad con la Ley N.º 7983, Ley de Protección al Trabajador, de 16 de febrero de 2000, y la normativa que al efecto ha establecido el Consejo Nacional de Supervisión del Sistema Financiero (Conassif) y la Superintendencia de Pensiones (Supén).
 
 (Así reformado por el artículo 1° de la ley N° 9544 del 24 de abril de 2018)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 237 al artículo 242)
 
-Ficha Artículo 242
-
 Artículo 243- Estarán exentos de los impuestos referidos en el artículo 18 y en el inciso c) del artículo 23 de la Ley N.º 7092, Ley del Impuesto sobre la Renta, de 21 de abril de 1988, y sus reformas, los intereses, los dividendos, las ganancias de capital y cualquier otro beneficio que produzcan los valores en moneda nacional o en moneda extranjera en que se inviertan los recursos del Fondo de Jubilaciones y Pensiones del Poder Judicial.
 
 (Así reformado por el artículo 1° de la ley N° 9544 del 24 de abril de 2018)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 238 al artículo 243)
-
-Ficha Artículo 243
 
 CAPÍTULO IV
 
@@ -3380,8 +2861,6 @@ Se financiará con una comisión por gastos administrativos que surgirá de dedu
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 239 al artículo 244)
 
-Ficha Artículo 244
-
 Artículo 245- La Junta Administradora estará conformada por tres miembros que serán electos democráticamente por el colectivo judicial, así como por tres miembros designados por la Corte Plena, con perspectiva de género en ambos casos. Cada integrante titular tendrá un suplente para que lo sustituyan en sus ausencias, quien deberá cumplir con los mismos requisitos del titular.
 
 Quienes integran la Junta durarán en sus cargos cinco años, luego de los cuales podrán ser reelectos, todo conforme con la reglamentación que al efecto habrá de dictarse por la Corte Plena, previa audiencia conferida a las organizaciones gremiales del Poder Judicial.
@@ -3408,8 +2887,6 @@ La Integración del órgano deberá garantizar la representación paritaria de a
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 240 al artículo 245)
 
-Ficha Artículo 245
-
 Artículo 245 bis- La Junta Administradora, bajo su responsabilidad, invertirá los recursos acumulados del Fondo de Jubilaciones y Pensiones del Poder Judicial, en las mejores condiciones de mercado, de manera tal que prevalezcan los criterios de seguridad, liquidez y rentabilidad.
 
 Dicha Junta está autorizada para colocar los recursos del Fondo de Jubilaciones y Pensiones del Poder Judicial, en las siguientes posibilidades de inversión:
@@ -3432,15 +2909,11 @@ La Junta Administradora deberá realizar, anualmente, un estudio de su cartera c
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 240 bis al artículo 245 bis)
 
-Ficha Artículo 245 BIS
-
 Artículo 246- La supervisión y la regulación de la Junta Administrativa y del Fondo de Jubilaciones y Pensiones del Poder Judicial estarán a cargo de la Superintendencia de Pensiones (Supén) y del Consejo Nacional de Supervisión del Sistema Financiero (Conassif), respectivamente, de conformidad con las atribuciones que les otorga la ley. La Junta Administradora estará sujeta al cobro por supervisión previsto en los artículos 174 y 175 de la Ley N.º 7732, Ley Reguladora del Mercado de Valores, de 17 de diciembre de 1997.
 
 (Así reformado por el artículo 4° de la ley N° 9746 del 16 de octubre del 2019)
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 241 al artículo 246)
-
-Ficha Artículo 246
 
 Artículo 247- La Junta Administradora emitirá un reglamento general del Régimen de Pensiones y Jubilaciones del Poder Judicial, el cual deberá ser aprobado por la Superintendencia de Pensiones (Supén), y contemplará necesariamente lo siguiente:
 
@@ -3460,8 +2933,6 @@ f) Todos los otros elementos que se consideren necesarios para la correcta admin
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 242 al artículo 247)
 
-Ficha Artículo 247
-
 TITULO X
 
 DEL EJERCICIO DE LA ABOGACIA
@@ -3476,39 +2947,27 @@ Los universitarios que se identifiquen como estudiantes de una Facultad o Escuel
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 243 al artículo 248)
 
-Ficha Artículo 248
-
 ARTICULO 249.- Aunque sean abogados, no podrán ejercer la profesión los servidores propietarios de los Poderes Ejecutivo y Judicial, del Tribunal Supremo de Elecciones, de la Contraloría General de la República, de la Procuraduría General de la República y de las municipalidades, salvo en sus propios negocios y en los de sus cónyuges, ascendientes o descendientes, hermanos, suegros, yernos y cuñados.
 
 Se exceptúan de la prohibición anterior los servidores del Poder Ejecutivo que presten servicios en los establecimientos oficiales de enseñanza y que no tengan ninguna otra incompatibilidad; lo mismo que los servidores judiciales interinos o suplentes, siempre que ese interinato no exceda de tres meses; los fiscales específicos; los munícipes y apoderados municipales; el Director de la Revista Judicial; los defensores públicos de medio tiempo y los que sean retribuidos por el sistema de honorarios y, en general, todos los servidores que no devenguen sueldo sino dietas.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 244 al artículo 249)
 
-Ficha Artículo 249
-
 Artículo 250.- Es prohibido al abogado dirigir al mismo tiempo o sucesivamente a partes contrarias en el mismo proceso o asunto.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 245 al artículo 250)
-
-Ficha Artículo 250
 
 Artículo 251.- El Colegio de Abogados informará a la Secretaría del Consejo Superior del Poder Judicial de las inscripciones de los licenciados en Derecho, a fin de anotarlos en los catálogos respectivos y publicar sus nombres en el Boletín Judicial, para que todas las autoridades judiciales tengan conocimiento de ello.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 246 al artículo 251)
 
-Ficha Artículo 251
-
 Artículo 252.- Decretada por el Colegio de Abogados la suspensión de un abogado en el ejercicio de su profesión, una vez recibida la comunicación, el Consejo Superior del Poder Judicial lo hará saber a las autoridades jurisdiccionales para que, en los asuntos pendientes en que fuere apoderado o abogado director el profesional suspendido, se ordene notificar de ello, personalmente, a su mandante o cliente, a quien no le correrá término alguno durante los quince días siguientes, a fin de que pueda proveer al cuidado de sus intereses.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 247 al artículo 252)
 
-Ficha Artículo 252
-
 Artículo 253- En los procesos judiciales en que se impugnen actos relacionados con la aplicación del régimen sancionador, la Dirección Jurídica del Poder Judicial podrá participar junto con la Procuraduría General de la República en la representación y defensa del Poder Judicial.
 
 (Así adicionado por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026)
-
-Ficha Artículo 253
 
 TITULO XI
 
@@ -3524,15 +2983,11 @@ Dicho sueldo no puede ser objeto de venta, traspaso o gravamen de ninguna especi
 
 (Así modificada su numeración por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026, que lo traspaso del antiguo artículo 253 al artículo 254)
 
-Ficha Artículo 254
-
 Artículo 255.- Las funciones no jurisdiccionales asignadas a la Corte, mediante leyes promulgadas con anterioridad a ésta, son, en adelante, de competencia del Consejo, con las excepciones que esta Ley establece.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 249 al artículo 254)
 
 (Así modificada su numeración por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026, que lo traspaso del antiguo artículo 254 al artículo 255)
-
-Ficha Artículo 255
 
 Artículo 256.- Se autoriza al Poder Judicial para que constituya un fondo de contingencia, mediante un fideicomiso que formalizará en uno de los bancos comerciales del Estado, que no podrá exceder del uno por ciento de su presupuesto ordinario de cada ejercicio fiscal. Este fondo será utilizado para satisfacer necesidades urgentes o imprevistas, originadas en fenómenos naturales, conmoción interna o calamidad pública, que afecten la administración de justicia, sus instalaciones y servicios, y declaración del Estado de Necesidad del Poder Ejecutivo.
 
@@ -3540,15 +2995,11 @@ Artículo 256.- Se autoriza al Poder Judicial para que constituya un fondo de co
 
 (Así modificada su numeración por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026, que lo traspaso del antiguo artículo 255 al artículo 256)
 
-Ficha Artículo 256
-
 Artículo 257.- La Corte queda facultada para dictar las reglas prácticas que sean necesarias para la aplicación de la presente Ley.
 
 (Así modificada su numeración por el artículo 1° de la Ley para la rendición de cuentas de los Magistrados y Magistradas del Poder Judicial y del Tribunal Supremo de Elecciones, N° 10866 del 4 de marzo de 2026, que lo traspaso del antiguo artículo 251 al artículo 256)
 
 (Así modificada su numeración por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026, que lo traspaso del antiguo artículo 256 al artículo 257)
-
-Ficha Artículo 257
 
 Artículo 258- Capacitación de servidores en materia familiar. A fin de asegurar que las personas con discapacidad tengan acceso efectivo a la justicia, el Poder Judicial promoverá la capacitación adecuada de los que trabajan en la administración de justicia.
 
@@ -3558,8 +3009,6 @@ Artículo 258- Capacitación de servidores en materia familiar. A fin de asegura
 
 (Así modificada su numeración por el artículo 232 de la Ley Régimen sancionador de personas servidoras e integrantes de listas de suplentes, elegibles y meritorias del Poder Judicial, N° 10905 del 12 de mayo del 2026, que lo traspaso del antiguo artículo 257 al artículo 258)
 
-Ficha Artículo 258
-
 TITULO XII
 
 DISPOSICIONES TRANSITORIAS
@@ -3568,56 +3017,30 @@ CAPITULO UNICO
 
 Transitorio I.- En caso de remisión en leyes anteriores a la presente, respecto de las regulaciones sobre impedimentos, excusas y recusaciones de la Ley Orgánica del Poder Judicial, que ahora se reforma, se estará a lo que sobre la materia dispone el Código Procesal Civil.
 
-Ficha Artículo 1 Transitorio
-
 Transitorio II.- Los tribunales de justicia creados en la presente Ley deberán estar integrados y entrar en funcionamiento, a más tardar, dentro del año fiscal siguiente a la vigencia de esta Ley.
 
-Ficha Artículo 2 Transitorio
-
 Transitorio III.- El Poder Ejecutivo, a solicitud de la Corte Suprema de Justicia, realizará las modificaciones presupuestarias que sean necesarias para darle contenido presupuestario a los órganos que se crean en la presente Ley.
-
-Ficha Artículo 3 Transitorio
 
 Transitorio IV.- Se faculta a la Corte Suprema de Justicia y al Consejo Superior del Poder Judicial para realizar los traslados de servidores judiciales, que resulten necesarios para adecuar la organización del Poder Judicial a la estructura que se establece en la presente Ley.
 
 En ningún caso podrá reducirse el salario que devenga el servidor. Se tendrá, para los efectos de la presente disposición, que la asignación de diferentes funciones a las encomendadas hasta el momento al servidor, no afecta la relación laboral.
 
-Ficha Artículo 4 Transitorio
-
 Transitorio V.- Los cambios que en materia de competencia jurisdiccional se establecen en la presente Ley, se aplicarán únicamente a los procesos iniciados con posterioridad a su vigencia.
 
 Sin embargo, cuando la competencia se atribuya a un nuevo tribunal, pasarán a su conocimiento todos los procesos pendientes a la fecha en que entre en funciones. En igual sentido, pasarán a conocimiento de los jueces penales todos los asuntos pendientes ante la Sala Tercera por delitos de imprenta.
 
-Ficha Artículo 5 Transitorio
-
 Transitorio VI.- (Derogado por el artículo 23 de la Ley N° 7728 de 15 de diciembre de 1997).
-
-Ficha Artículo 6 Transitorio
 
 Transitorio VII.- Mientras no se promulgue una nueva Ley Orgánica de Notariado, la Sala Segunda será el órgano competente para ejercer el régimen disciplinario sobre los notarios y para autorizar el uso de protocolos. Asimismo, le corresponderá al Presidente de la Corte autorizar el ejercicio del notariado e inscribir a los notarios en el Registro que al efecto se lleva.
 
-Ficha Artículo 7 Transitorio
-
 Transitorio VIII.- Mientras no se promulgue una ley que regule la carrera judicial, los nombramientos de los funcionarios que administran justicia se harán conforme al procedimiento establecido por el Estatuto del Servicio Judicial, excepto en cuanto al órgano competente para hacerlos.
-
-Ficha Artículo 8 Transitorio
 
 Transitorio IX.- Los funcionarios judiciales nombrados en la primera oportunidad, para integrar el Consejo Superior del Poder Judicial, no podrán ser reelegidos y durarán en sus cargos tres años.
 
-Ficha Artículo 9 Transitorio
-
 Transitorio X.- Las prohibiciones que estipula el párrafo tercero del artículo 12, no se aplicarán a los servidores que hubieran ingresado al Poder Judicial antes de la entrada en vigencia de esta Ley.
-
-Ficha Artículo 10 Transitorio
 
 Transitorio XI.- El Director y Subdirector Administrativos, que se desempeñen al momento de entrar en vigencia la presente Ley, pasarán a ocupar los cargos de Director y Subdirector Ejecutivos del Poder Judicial.
 
-Ficha Artículo 11 Transitorio
-
 Transitorio XII.- Dentro del mes siguiente a la vigencia de esta Ley, los funcionarios rendirán o completarán la garantía que se ordena en el artículo 19.
 
-Ficha Artículo 12 Transitorio
-
 Transitorio XIII.- (Derogado por el artículo 5° de la Ley N° 7605 de dos de mayo de 1996).
-
-Ficha Artículo 13 Transitorio

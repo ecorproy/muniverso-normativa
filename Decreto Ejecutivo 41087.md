@@ -1,3 +1,12 @@
+---
+numero: "Decreto Ejecutivo 41087"
+nombre: "Reglamento a la Ley para Promoción de la Autonomía Personal de las Personas con Discapacidad"
+materia: "derechos-humanos"
+version_sinalevi: "1 de 1"
+ultima_reforma: ""
+enlace: ""
+---
+
 Decreto Ejecutivo 41087
 
 Reglamento a la Ley para Promoción de la Autonomía Personal de las Personas con Discapacidad
@@ -39,8 +48,6 @@ CAPÍTULO I
 DISPOSICIONES GENERALES
 
 ARTÍCULO 1.-Objetivo. El objetivo del presente reglamento es establecer las disposiciones de observancia obligatoria para personas físicas, jurídicas e instituciones de los Poderes del Estado y privadas con el fin de promover y asegurar a todas las personas con discapacidad, el ejercicio pleno y en igualdad de condiciones con los demás del derecho a la autonomía personal, lo que incluye el igual reconocimiento de las personas con discapacidad como personas ante la ley, según lo regulado en la Ley para la Promoción de la Autonomía Personal de las Personas con Discapacidad, Ley N° 9379.
-
-Ficha Artículo 1
 
 ARTÍCULO 2.-Definiciones. Para contribuir a que las disposiciones de este reglamento y las de la Ley N° 9379, se manifiesten en el plano de la realidad, de conformidad con el paradigma de abordaje de la discapacidad desde los derechos humanos y la Convención sobre los Derechos de las Personas con Discapacidad, se establecen las siguientes definiciones:
 
@@ -114,8 +121,6 @@ El concepto de discapacidad psicosocial implica erradicar del vocabulario emplea
 
 29. Traslado a centros de estudio, laborales, salud y de recreación: Requiere de la facultad de orientación y movilidad.
 
-Ficha Artículo 2
-
 ARTÍCULO 3.-Principios generales. Los principios generales que fundamentan la aplicación de la Ley N° 9379 y el presente reglamento son los establecidos en el artículo 3 de la Convención sobre los Derechos de las Personas con Discapacidad, sean:
 
 a) El respeto de la dignidad inherente, la autonomía individual, incluida la libertad de tomar las propias decisiones, y la independencia de las personas.
@@ -134,8 +139,6 @@ g) La igualdad entre el hombre y la mujer.
 
 h) El respeto a la evolución de las facultades de los niños y las niñas con discapacidad y de su derecho a preservar su identidad.
 
-Ficha Artículo 3
-
 ARTÍCULO 4.-Responsabilidades del Estado. Para el cumplimiento efectivo de las responsabilidades que el artículo 4 de la Ley N° 9379 le definió al Estado costarricense, integrado por sus 3 poderes, tienen la obligación de:
 
 1. Respetar, proteger y hacer realidad el derecho de todas las personas con discapacidad al reconocimiento de su igualdad jurídica.
@@ -150,8 +153,6 @@ La capacitación también se impartirá a niñas, niños y adolescentes con disc
 
 4. Implementar ajustes razonables y aplicar el concepto de diseño universal, en el supuesto que así se requiera y sin perjuicio de la ejecución de las disposiciones dela citada ley.
 
-Ficha Artículo 4
-
 CAPÍTULO II
 
 IGUALDAD JURÍDICA DE LAS PERSONAS
@@ -160,8 +161,6 @@ CON DISCAPACIDAD Y DE LA SALVAGUARDIA
 
 ARTÍCULO 5.- Igualdad jurídica de las personas con discapacidad. De conformidad con el artículo 5 de la Ley N° 9379 y los incisos a), b), c), d) y e) del artículo 2 de este reglamento, todas las personas con discapacidad gozan plenamente de igualdad jurídica, por lo que es contrario a la ley y a la dignidad humana restringir, rebajar, modificar, limitar o eliminar su personalidad jurídica, capacidad jurídica y capacidad de actuar, de modo que resulta discriminatorio por motivos de discapacidad negarle o limitarle a las personas con discapacidad, en igualdad de condiciones con los demás, la titularidad y el legítimo ejercicio de todos sus derechos, la atención de sus propios intereses y tomar sus propias decisiones en todos los aspectos de la vida, incluyendo el ámbito patrimonial, civil, electoral, sexual y reproductivo, familiar, económico, financiero, social, cultural, de salud, de acceso a la justicia, rehabilitación y habilitación, entre otros similares.
 
-Ficha Artículo 5
-
 ARTÍCULO 6.-Naturaleza jurídica de la salvaguardia para la igualdad jurídica de las personas con discapacidad. La salvaguardia para la igualdad jurídica de las personas con discapacidad, establecida en el Capítulo II de la Ley N° 9379 y el Código Procesal Civil, es el instituto jurídico creado por el Estado costarricense de conformidad con el artículo 12 de la Convención sobre los Derechos de las Personas con Discapacidad, para:
 
 1. Asegurar el pleno respeto de la igualdad jurídica de las personas con discapacidad, de acuerdo a esa Convención, mediante el reconocimiento de la personalidad jurídica, capacidad jurídica y capacidad de actuar de todas las personas con discapacidad.
@@ -169,8 +168,6 @@ ARTÍCULO 6.-Naturaleza jurídica de la salvaguardia para la igualdad jurídica 
 2. Proporcionar a personas con discapacidad intelectual o psicosocial un sistema de apoyos en el ejercicio de su capacidad de actuar, para asegurar el derecho a la autonomía personal en igualdad de condiciones con los demás.
 
 Asimismo, el apoyo puede ser solicitado y proporcionado a personas con discapacidad intelectual o psicosocial que conjuntamente presenten otras condiciones de discapacidad diferentes a éstas y también para personas con sordoceguera o parálisis cerebral severas, en razón de que al interactuar con las barreras debidas a la actitud y el entorno, su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás personas, puede ser restringida, rebajada, modificada, limitada y hasta eliminada.
-
-Ficha Artículo 6
 
 ARTÍCULO 7.-La salvaguardia para la igualdad jurídica de las personas con discapacidad como apoyo para el ejercicio de la capacidad de actuar.
 
@@ -192,8 +189,6 @@ ARTÍCULO 7.-La salvaguardia para la igualdad jurídica de las personas con disc
 
 El apoyo intenso descrito en el artículo 8 del presente reglamento no se considera imposición contra la voluntad de la persona que recibe ese tipo de apoyo, al tratarse de ajuste razonable.
 
-Ficha Artículo 7
-
 ARTÍCULO 8.-Intensidad de los apoyos en el ejercicio de la capacidad de actuar. Los apoyos en el ejercicio de la capacidad de actuar serán de diversa intensidad, menos o más intensos de acuerdo con la situación concreta y en virtud de las disposiciones que para estos efectos contiene la Ley N° 9379, así como este reglamento y la Convención sobre los Derechos de las Personas con Discapacidad, según corresponda.
 
 Así por ejemplo, un apoyo más intenso podría ser el que brinde la persona garante a una persona con discapacidad que se encuentre en situación de compromiso del estado de conciencia debidamente comprobado, quien podrá consentir para un acto concreto.
@@ -208,25 +203,17 @@ En los estos dos últimos supuestos, garantizando que la información sea asimil
 
 Y en los tres tipos de apoyo, según el caso en concreto, se debe garantizar que prevalezca la voluntad, gustos y deseos y preferencias de la persona que recibe el apoyo.
 
-Ficha Artículo 8
-
 ARTÍCULO 9.-Pluralidad de personas garantes para la igualdad jurídica. De conformidad con el paradigma de abordaje de la discapacidad desde los derechos humanos, establecido en la Convención sobre los Derechos de las Personas con Discapacidad y en la Ley N° 9379, es posible que una persona con discapacidad cuente con el apoyo de más de una persona que funjan como garantes para la igualdad jurídica y en ese supuesto, los garantes ofrecerán el o los apoyos para los actos determinados en la resolución de designación y en la intensidad indicada.
 
 Que una sola persona con discapacidad cuente con más de una persona que le apoye como garante, dependerá del análisis de la situación en concreto o que la persona con discapacidad así lo solicite, sin perjuicio de la valoración de solicitud que tiene que efectuar el juez o jueza, de conformidad con el artículo 10 de la Ley N° 9379.
-
-Ficha Artículo 9
 
 ARTÍCULO 10.-Acceso a la justicia y principio de gratuidad en el salvaguardia para la igualdad jurídica de las personas con discapacidad. En aplicación del derecho al acceso de la justicia, en igualdad de condiciones con las demás, establecido en el artículo 13 de la Convención sobre los Derechos de las Personas con Discapacidad, el procedimiento de solicitud y establecimiento de salvaguardia deberá ajustarse a las regulaciones de la Ley N° 9379 y este reglamento, para garantizarle a la persona con discapacidad su participación efectiva, en todas las etapas de este procedimiento judicial.
 
 Debido a que la Ley N° 9379, en el artículo 6 define que el procedimiento de solicitud y establecimiento de salvaguardia se rige por el principio de gratuidad, ello con la finalidad de que el costo económico que conlleva la participación en el proceso judicial no constituya una barrera para el acceso a la justicia de las personas con discapacidad; así las cosas, se deberá tomar todas las medidas pertinentes para cumplir con la disposición de gratuidad, entre ellas, se podrá valorar la exoneración del pago del curador procesal (indicado en el artículo 34 de la Ley N° 9379) a las personas solicitantes de la salvaguardia que informen y demuestren al Juzgado no contar con los recursos económicos para cubrir tal erogación.
 
-Ficha Artículo 10
-
 ARTÍCULO 11.-Solicitud de la salvaguardia. La gestión de solicitud de la salvaguardia puede efectuarse por escrito y también verbalmente o por los medios de comunicación establecidos en la Ley N° 9379 y especificados en este reglamento. En los 2 últimos supuestos, la solicitud será consigna por escrito.
 
 Si la persona con discapacidad, de manera individual o contando con apoyo de otra persona, se apersona al Juzgado para presentar la solicitud de la salvaguardia o lo hace por medio de escrito firmado (con su rúbrica o huella digital impresa), no requerirá autenticación por parte de profesional en derecho.
-
-Ficha Artículo 11
 
 ARTÍCULO 12.-Legitimación para solicitar la salvaguardia. De conformidad con el paradigma de abordaje de la discapacidad desde los derechos humanos, los principios de la Ley N° 9379 y la naturaleza jurídica de la salvaguardia, la persona con discapacidad es la primera legitimada para presentar la solicitud de salvaguardia.
 
@@ -234,15 +221,11 @@ La excepcionalidad que faculta tanto a los familiares de la persona con discapac
 
 La limitación funcional a la que se refiere el artículo 8 de la Ley N° 9379, es el fundamento para esta excepcionalidad se interpreta de acuerdo a los conceptos contenidos en este reglamento, y originarse en la absoluta imposibilidad que limite a la persona con discapacidad para presentar la solicitud de manera individual o contando con apoyo de otra persona o para firmar (con su rúbrica o huella digital impresa) el escrito de solicitud.
 
-Ficha Artículo 12
-
 ARTÍCULO 13.- Revisión de la salvaguardia. Las personas físicas y jurídicas señaladas en el artículo 8 de la Ley N° 9379 son las legitimadas para solicitar la revisión de la salvaguardia en cualquier momento, y en particular cuando la persona garante actúe sin seguir las disposiciones del artículo 11 de la Ley N° 9379 y del artículo 16 del presente reglamento; siempre y cuando la salvaguardia este vigente.
 
 La revisión oficiosa que la persona Juzgadora debe efectuar cada cinco años, estará sujeta a que el expediente se encuentre activo, de modo que de encontrarse archivado el expediente ésta no procede.
 
 Procede aplicar a la revisión, las disposiciones de la solicitud y las de la legitimación, en cuanto a que las personas para solicitar la salvaguardia son las mismas para requerir la revisión, en los mismos términos definidos en este reglamento.
-
-Ficha Artículo 13
 
 ARTÍCULO 14.-Valoración de la salvaguardia. De conformidad con lo que establece el artículo 10 de la Ley N° 9379, el juez o jueza valorará en primera instancia y con prioridad la persona o personas propuestas como garante, por la persona con discapacidad.
 
@@ -258,15 +241,9 @@ La limitación funcional a la que se refiere el artículo 10 de la Ley N° 9379,
 
 La persona juzgadora al reconocer la igualdad jurídica de las personas con discapacidad en los términos definidos en la Ley N° 9379y al efectuar el trámite indicado en el artículo 34 de la citada ley, garantizará que la persona designada para ejercer la salvaguardia sea la idónea.
 
-Ficha Artículo 14
-
 ARTÍCULO 15.-Obligaciones de la persona garante para la igualdad jurídica. La persona garante tendrá para con la persona con discapacidad que goce de la salvaguardia para la igualdad jurídica, las obligaciones establecidas en el artículo 11 de la Ley N° 9379.
 
-Ficha Artículo 15
-
 ARTÍCULO 16.-Referencia a las obligaciones de la persona garante en la resolución judicial que establezca la salvaguardia. En la resolución que se establezca la salvaguardia para la igualdad jurídica, corresponde hacer referencia a las obligaciones de la persona garante para con la persona con discapacidad que recibe el apoyo y hacer especial énfasis en aquellas que correspondan, según la situación en concreto.
-
-Ficha Artículo 16
 
 ARTÍCULO 17.-Especificación de cada una de las obligaciones de la persona garante para la igualdad jurídica. Partiendo de que según el inciso b) del artículo 5 de la Ley N° 9379, todas las personas con discapacidad son las titulares y ejercen legítimamente todos sus derechos y atención de sus propios intereses, a continuación, se especifican cada una de las obligaciones de la persona garante.
 
@@ -314,25 +291,17 @@ k) El deber de la persona garante de proteger la privacidad de la información p
 
 Dicho deber también implica el deber de la persona garante de denunciar ante las autoridades judiciales y/o administrativas correspondientes, de manera oportuna y diligente sobre actos, omisiones o intenciones que tengan la finalidad de dejar sin efecto la privacidad de la información, en los términos indicados la Ley N° 9379.
 
-Ficha Artículo 17
-
 ARTÍCULO 18.-Persona jurídica como garante. Procede designar a persona jurídica como garante, siempre y cuando la persona con discapacidad así lo proponga o ésta no cuente con familiares que le brinden apoyo y protección.
 
 En dicho supuesto, el apoyo será ofrecido por la persona física que ostente la representación legal de la persona jurídica o por la persona física que para estos efectos designe el representante legal.
 
 Todas las disposiciones de la Ley N° 9379 y del presente reglamento, referentes a la persona garante le son aplicables a la persona jurídica que funja como garante.
 
-Ficha Artículo 18
-
 ARTÍCULO 19.-Especificación del escrito inicial. El dictamen médico de la Caja Costarricense del Seguro Social o de especialista tratante, para los efectos del escrito inicial referido en el artículo 33 de la Ley N° 9379, también se aceptará como procedente aquel que únicamente indique la limitación funcional.
-
-Ficha Artículo 19
 
 ARTÍCULO 20.-Especificación del trámite. El informe requerido por el juez o la jueza al Departamento de Trabajo Social y Psicología del Poder Judicial, de conformidad con el artículo 37 de la Ley N° 9379, se trata de un informe de trabajo social.
 
 El informe debe versar sobre la situación de la persona con discapacidad y de la persona que se propone para ejercer la salvaguardia, para ello se debe considerar como mínimo el entorno, la identificación o no de barreras en éste, gustos, preferencias y voluntad de la persona con discapacidad, con respecto al apoyo que se le propone o solicita.
-
-Ficha Artículo 20
 
 CAPÍTULO III
 
@@ -341,8 +310,6 @@ ASISTENCIA PERSONAL HUMANA
 ARTÍCULO 21.-Naturaleza de la asistencia personal humana. La asistencia personal humana consiste en el o los apoyos ofrecidos por una persona denominada asistente personal a una persona con discapacidad que haya calificado como receptora de dicha asistencia, en las actividades de la vida diaria necesarias para que la persona con discapacidad ejercite en igualdad de condiciones con los demás su derecho a la autonomía personal.
 
 El apoyo o los apoyos se deben ofrecer de conformidad y en estricto respeto al derecho de autonomía personal de las personas con discapacidad, las disposiciones de la Ley N° 9379, del presente reglamento y demás normativo atinente, en cumplimiento con el principio de legalidad administrativo.
-
-Ficha Artículo 21
 
 ARTÍCULO 22.-Plan individual de apoyo. El plan individual de apoyo es el documento por medio del cual la persona con discapacidad que califique como receptora de la asistencia personal humana, de manera individual o con apoyo de otra persona de su elección, indica, según así lo considere:
 
@@ -357,8 +324,6 @@ La persona receptora de la asistencia personal humana o quien le brinde apoyo, s
 Las personas funcionarias de la Unidad se encuentran autorizadas para apoyar a la persona receptora o quien le brinde apoyos, a completar el formulario de plan individual, si así lo manifiesta o requiere.
 
 El plan individual de apoyo, deberá contar con el aval de la Unidad, para ello ésta deberá tomar en consideración, como mínimo, la capacidad presupuestaria anual que financia el Programa en relación con la cantidad de personas receptoras del mismo, así como los gustos, preferencias y requerimientos de apoyo de la persona con discapacidad.
-
-Ficha Artículo 22
 
 ARTÍCULO 23.-Carácter selectivo de la asistencia personal humana y del acceso a productos y servicios de apoyo. La asistencia personal humana es de carácter selectivo, por lo tanto, únicamente serán personas receptoras de la asistencia personal humana y a productos y servicios de apoyo, aquellas que cumplan con los requisitos que a continuación se especifican:
 
@@ -384,15 +349,9 @@ La Unidad de Autonomía Personal y Vida Independiente, en manual de procedimient
 
 Si la persona solicitante es persona con discapacidad en condición de pobreza y se le deniega la asistencia por el incumplimiento de este requisito, procede la interposición de los recursos establecidos en la Ley General de la República para recurrir las decisiones de la Administración, en el tiempo y forma que la misma ley define.
 
-Ficha Artículo 23
-
 ARTÍCULO 24.-Prohibición para personas empleadas públicas para desempeñarse como asistentes personales humanos. Por disposición de la Ley N° 9379, una persona empleada pública no podrá a la vez brindar servicios de asistencia personal humana.
 
-Ficha Artículo 24
-
 ARTÍCULO 25.-Consecuencias de actos contrarios a regulaciones sobre la asistencia personal humana. Actos de la Administración Pública en contra de las regulaciones del Capítulo III de la Ley N° 9379 y de este reglamento, son absolutamente nulos y conllevan responsabilidad para la persona funcionaria que genere el acto administrativo.
-
-Ficha Artículo 25
 
 CAPÍTULO IV
 
@@ -404,17 +363,11 @@ ARTÍCULO 26.-Creación del Programa para la Promoción de la Autonomía Persona
 
 La citada ley también ordenó la conformación de la Unidad de Autonomía Personal y Vida Independiente en el Conapdis, como la instancia administrativa que tiene a cargo dicho programa.
 
-Ficha Artículo 26
-
 ARTÍCULO 27.-Facultades del Consejo Nacional de Personas con Discapacidad para la implementación del Programa para la Promoción de la Autonomía Personal de las Personas con Discapacidad Para la implementación del Programa para la Promoción de la Autonomía Personal de las Personas con Discapacidad y el cumplimiento de las funciones asignadas a la Unidad de Autonomía Personal y Vida Independiente, el Conapdis fue facultado por la Ley N° 9379 a disponer de un porcentaje no mayor al veinte por ciento (20%) de los recursos totales establecidos en el artículo 19 de la ley antes indicada, para contratar el recurso humano técnico y profesional necesario, por lo cual el Conapdis deberá proceder de conformidad, según los procedimientos y normativa que corresponda.
 
 La determinación del personal es competencia del Conapdis, para lo cual deberá seguir los procesos y normativa correspondientes, tanto interna como de otras instancias administrativas con competencia al respecto. Lo anterior, sin perjuicio de procesos de consultas no vinculantes que efectúe el Conapdis a la población con discapacidad.
 
-Ficha Artículo 27
-
 ARTÍCULO 28.-Financiamiento del Programa para la Promoción de la Autonomía Personal de las Personas con Discapacidad El Programa para la Promoción de la Autonomía Personal de las Personas con Discapacidad se financiará de conformidad a lo señalado por el artículo 19 de la Ley N° 9379.
-
-Ficha Artículo 28
 
 ARTÍCULO 29.-Especificación de las funciones de la Unidad de Autonomía Personal y Vida Independiente A continuación, se especifican las funciones de la Unidad de Autonomía Personal y Vida Independiente para la ejecución del Programa para la Promoción de la Autonomía Personal de las Personas con Discapacidad.
 
@@ -462,8 +415,6 @@ j.ii) No asignarle más a esa persona como asistente personal. Si se tratan de i
 
 k) La demás que se establezcan en la Ley N° 9379 y en el presente reglamento.
 
-Ficha Artículo 29
-
 ARTÍCULO 30.-Contenidos y forma del convenio para garantizar la utilización de la prestación económica en la asistencia personal humana. Además de lo señalado por el artículo 21 de la Ley N° 9379, el convenio que suscribirá la Unidad de Autonomía Personal y Vida Independiente con la persona receptora de la asistencia personal humana se agrega que éste tendrá una vigencia de un año, por lo que deberá ser renovado al término de ese plazo.
 
 El convenio deberá contener que los incumplimientos a las obligaciones de la persona solicitante, la receptora o del familiar serán comprobadas por medio de las fiscalizaciones para esos efectos realice la Unidad, concediéndose a la parte el debido derecho de defensa, al proceder la interposición de los recursos establecidos por la Ley General de la Administración Pública, contra lo actos de la administración, con excepciones señalas en el artículo 22 del este reglamento.
@@ -473,8 +424,6 @@ La consecuencia de la comprobación de incumplimientos será la denegatoria de l
 El convenio deberá contener claramente la identificación de las partes suscribientes y el monto económico mensual que se le trasladará mensualmente para sufragar la asistencia personal humana.
 
 Los demás aspectos de contenido y forma serán definidos por la Unidad en manual de procedimientos.
-
-Ficha Artículo 30
 
 ARTÍCULO 31.-Legitimados para la suscripción del convenio. En aplicación del derecho de autonomía personal y los principios de la Ley N° 9379, para el supuesto de personas adultas, la persona legitimada para el acto de suscripción del convenio será la persona con discapacidad receptora de la asistencia personal humana. La suscripción podrá realizar consignándose la firma por escrito, con la huella digital o por cualquier otro medio de comunicación.
 
@@ -488,19 +437,13 @@ b) Si los padres están divorciados o no conviven, quien ejerza la guardia, cria
 
 c) La persona representante legal.
 
-Ficha Artículo 31
-
 ARTÍCULO 32.-Derechos de las personas que solicitan y de las receptoras de la asistencia personal humana. La impugnación señalada en el inciso f) del artículo 22 de la Ley N° 9379, aplica siempre y cuando la denegatoria de la solicitud no encuadre en las excepciones señalas en el artículo 22 del este reglamento. Asimismo, es su derecho impugnar las otras resoluciones que se indican en el presente reglamento.
 
 La Unidad de Autonomía Personal y Vida Independiente tomará todas las medidas pertinentes para garantizar a la persona solicitante y a la receptora de la asistencia personal los derechos establecidos en el artículo 22 de la Ley N° 9379.
 
-Ficha Artículo 32
-
 ARTÍCULO 33.-Obligaciones de las personas que solicitan y de las receptoras de la asistencia personal humana. La Unidad de Autonomía Personal y Vida Independiente tomará todas las medidas pertinentes para hacer de conocimiento de la persona solicitante y a la receptora de la asistencia personal las obligaciones establecidas en el artículo 23 de la Ley N° 9379. Asimismo, queda facultada de oficio, en el plazo que se indique en manual de procedimiento, para fiscalizar el cumplimiento de las mismas.
 
 En el supuesto de que la persona solicitante o la receptora de la asistencia no cumpla con sus obligaciones, la Unidad tiene el deber de proceder como lo disponga la Ley N° 9379, el presente reglamento y el convenio, para aplicar la consecuencia que corresponda, según el tipo de incumplimiento.
-
-Ficha Artículo 33
 
 ARTÍCULO 34.-Derechos del familiar que solicita la asistencia personal humana para la persona con discapacidad. La posibilidad de que el familiar de la persona con discapacidad solicite a su favor la asistencia personal, en razón de que la Ley N° 9379, en su artículo 24 señala que ello será viable siempre y cuando a ésta por su propia condición de discapacidad se le dificulte o imposibilite realizarlo por sí mismo, quedará supeditada a un encuentro (o los que sean necesarios) que el personal de la Unidad de Autonomía Personal y Vida Independiente mantendrá personal e individualmente con la persona con discapacidad.
 
@@ -512,13 +455,9 @@ También, es derecho del familiar de la persona con discapacidad impugnar la res
 
 La Unidad de Autonomía Personal y Vida Independiente tomará todas las medidas pertinentes para garantizar a la persona solicitante y a la receptora de la asistencia personal los derechos establecidos en el artículo 24 de la Ley N° 9379.
 
-Ficha Artículo 34
-
 ARTÍCULO 35.-Obligaciones del familiar que solicita la asistencia personal para la persona con discapacidad La Unidad de Autonomía Personal y Vida Independiente tomará todas las medidas pertinentes para hacer de conocimiento del familiar de la persona con discapacidad las obligaciones establecidas en el artículo 25 de la Ley N° 9379. Asimismo, queda facultada de oficio, en el plazo que se indique en manual de procedimiento, para fiscalizar el cumplimiento de las mismas.
 
 En el supuesto de que el familiar de la persona con discapacidad no cumpla con sus obligaciones, la Unidad tiene el deber de proceder como lo disponga la Ley N° 9379, el presente reglamento y el convenio, para aplicar la consecuencia que corresponda, según el tipo de incumplimiento.
-
-Ficha Artículo 35
 
 ARTÍCULO 36.-Trámite para solicitar la asistencia personal humana o productos y servicios de apoyo y las gestiones de la Unidad de Autonomía Personal y Vida Independiente ante la solicitud
 
@@ -556,8 +495,6 @@ f) Se inicia con la asistencia personal humana y con el giro mensual de la prest
 
 g) La Unidad realizará revisiones de oficio del plan individual y fiscalizaciones de oficio del servicio ofrecido por el asistente personal y de las obligaciones de la persona receptora de la asistencia personal humana o del familiar, en los plazos indicados por el manual de procedimiento del Programa.
 
-Ficha Artículo 36
-
 CAPÍTULO V
 
 PRODUCTOS Y SERVICIOS DE APOYO
@@ -574,13 +511,9 @@ La lista debe presentarse en formatos accesibles, públicos y oficiales del Cona
 
 La solicitud de asistencia personal humana no excluye la posibilidad que previa o posteriormente, la persona solicite la valoración para ser receptor o receptora de productos o servicios de apoyo, pues son beneficios complementarios, que no suponen duplicidad.
 
-Ficha Artículo 37
-
 ARTÍCULO 38.-Proceder de la Unidad ante solicitudes. Ante solicitudes para ser persona receptora de productos o servicios de apoyo, la Unidad procede de conformidad con el mencionado artículo 22 y en lo que corresponda, según el artículo 33 del presente reglamento.
 
 Cuando la persona sea calificada como receptora de productos o servicios de apoyo, la Unidad de Autonomía Personal y Vida Independiente, a través de los mecanismos definidos en manual de procedimientos del Programa, le trasladará a la persona con discapacidad o a quien le brinde apoyos, la prestación económica para la adquisición del producto o pago del servicio de apoyo.
-
-Ficha Artículo 38
 
 ARTÍCULO 39.-Adquisición de productos o servicios de apoyo. En el supuesto de adquisición de productos de apoyo, una vez otorgado a la persona con discapacidad, éste será de su propiedad, por lo que la responsabilidad consecuencia del uso indebido o negligente, recae exclusivamente en ella o en quien le ofrezca apoyos, si corresponde.
 
@@ -588,15 +521,11 @@ Respecto a los servicios de apoyo, éstos podrán ser financiados mensualmente y
 
 El pago del mantenimiento de animales de asistencia solo se podrá realizar si la persona cuenta con un animal debidamente entrenado para tal fin, por lo que la Unidad de Autonomía Personal y Vida Independiente vía manual de procedimiento del Programa, establecerá los medios para comprobar este aspecto.
 
-Ficha Artículo 39
-
 ARTÍCULO 40.- Pérdida de producto de apoyo y suspensión del costeo de servicio de apoyo o manutención de animales de asistencia. En el caso de que la persona receptora del producto de apoyo lo pierda por que le fue robado, hurtado o dañado, deberá presentar copia de la denuncia judicial a la Unidad de Autonomía Personal y Vida Independiente, para que esta instancia en el plazo de 60 días naturales trasladé el dinero para que la persona pueda restituir el producto, esto, siempre y cuando exista la capacidad presupuestaria, de lo contrario, dicho traslado se hará en el plazo que corresponda.
 
 Si la pérdida se debe a uso indebido o negligente, la persona podrá hacer una nueva solicitud hasta pasado 1 año después de que la Unidad tuvo conocimiento de la pérdida.
 
 Por su parte, el financiamiento de servicios de apoyo y la manutención de animal de asistencia, podrá ser suspendido cuando la Unidad compruebe, por medios que defina en manual de procedimientos del Programa, que la persona ya no requiere del servicio o que el dinero se utiliza para cualquier otro fin, diferente al pago del servicio. Dicha suspensión será consignada por la Unidad en resolución administrativa y la parte podrá ejercer contra ella los recursos administrativos ordinarios establecidos en la Ley General de la Administración Pública.
-
-Ficha Artículo 40
 
 CAPÍTULO VI
 
@@ -606,17 +535,11 @@ ARTÍCULO 41.-Formación y capacitación de asistentes personales. La formación
 
 Los deberes del INA incluyen determinar en el ámbito de sus competencias, los procesos, mecanismos y plazos para desarrollar e implementar módulos de actualización técnica, con la finalidad de reafirmar o actualizar conocimientos sobre asistencia personal humana. De lo anterior, participaran las instancias mencionadas en el artículo 27 de la Ley N° 9379 y en sus términos.
 
-Ficha Artículo 41
-
 ARTÍCULO 42.-Certificación de las personas asistentes. Las personas que podrán ofrecer el servicio de asistencia personal humana a las personas receptoras de la prestación económica, otorgada al amparo de la presente ley, serán únicamente aquellas certificadas por el INA.
-
-Ficha Artículo 42
 
 ARTÍCULO 43.-Obligaciones de la persona asistente personal. Las obligaciones son las definidas en el artículo 29 de la Ley N° 9379 y estas implican que la persona asistente deba ofrecer el apoyo con total discreción, es decir, respetando la privacidad de la persona con discapacidad.
 
 También son deberes, las demás que se regulen en el presente reglamento.
-
-Ficha Artículo 43
 
 ARTÍCULO 44.-Asignación de asistente personal. La Unidad de Autonomía Personal y Vida Independiente es la competente para asignar a la persona receptora de la asistencia, la persona o personas que fungirán como asistentes personales.
 
@@ -626,21 +549,15 @@ La asignación de la persona o personas asistente temporal se hará por turnos d
 
 Los demás aspectos, relacionados con la asignación del asistente personal se consignarán en manual de procedimientos del Programa.
 
-Ficha Artículo 44
-
 ARTÍCULO 45.-Asignación de asistente personal a personas menores de edad receptoras de asistencia personal humana. En el supuesto de personas menores de edad receptoras de la asistencia, resulta aplicable lo regulado en el artículo anterior, salvo que la manifestación sobre si la persona asistente personal sea hombre o mujer, será efectuada por la madre, el padre o representante legal, para lo cual tomarán en consideración de la preferencia de la persona menor de edad, según su edad y madurez.
 
 Debido a que el presente reglamento determina que en el supuesto de personas menores de edad con discapacidad receptoras de la asistencia personal humana, quienes están legitimados para la suscripción del convenio son la madre o el padre, (siempre y cuando ejerzan la patria potestad), si los padres están divorciados o no conviven, quien ejerza la guardia, crianza y educación y la persona representante legal, las personas mencionadas no podrán fungir a la vez como asistentes personales de sus hijos o hijas.
-
-Ficha Artículo 45
 
 ARTÍCULO 46.-Seguridad social y póliza de riesgo. La persona asistente personal será el responsable de cubrirse económicamente y por los mecanismos existentes, lo referente a la seguridad social y póliza de riesgo de trabajo.
 
 Personas asistentes que no cumplan con este deber, no podrán desempeñarse como tales.
 
 La Unidad de Autonomía Personal y Vida Independiente, en manual de procedimiento del Programa definirá los medios y plazos para fiscalizar esta obligación.
-
-Ficha Artículo 46
 
 CAPÍTULO VII
 
@@ -651,5 +568,3 @@ ARTÍCULO 47 . Inaplicabilidad de normas contrarias a la Ley N° 9379 y el prese
 Dado en la Presidencia de la República. -San José, los 30 días del mes de abril del 2018.
 
 Rige a partir de su publicación
-
-Ficha Artículo 47

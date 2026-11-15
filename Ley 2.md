@@ -1,3 +1,12 @@
+---
+numero: "Ley 2"
+nombre: "Código de Trabajo"
+materia: "laboral"
+version_sinalevi: "64 de 64"
+ultima_reforma: "Ley 10895 del 2026-04-07"
+enlace: ""
+---
+
 Ley 2
 
 Código de Trabajo
@@ -24,13 +33,9 @@ Disposiciones generales
 
 ARTICULO 1º.- El presente Código regula los derechos y obligaciones de patronos y trabajadores con ocasión del trabajo, de acuerdo con los principios cristianos de Justicia Social.
 
-Ficha Artículo 1
-
 ARTICULO 2º.-
 
 Patrono es toda persona física o jurídica, particular o de Derecho Público, que emplea los servicios de otra u otras, en virtud de un contrato de trabajo, expreso o implícito, verbal o escrito, individual o colectivo.
-
-Ficha Artículo 2
 
 ARTICULO 3º.-
 
@@ -40,31 +45,21 @@ Este quedará obligado solidariamente por la gestión de aquél para los efectos
 
 Serán considerados como patronos de quienes trabajen -y no como intermediarios- los que se encarguen, por contrato, de trabajos que ejecuten con capitales propios.
 
-Ficha Artículo 3
-
 ARTICULO 4º.-
 
 Trabajador es toda persona física que presta a otra u otras sus servicios materiales, intelectuales o de ambos géneros en virtud de un contrato de trabajo expreso o implícito, verbal o escrito, individual o colectivo.
-
-Ficha Artículo 4
 
 ARTICULO 5º.-
 
 Se considerarán representantes de los patronos, y en tal concepto obligarán a éstos en sus relaciones con los trabajadores: los directores, gerentes, administradores, capitanes de barco y, en general, las personas que a nombre de otro ejerzan funciones de dirección o de administración.
 
-Ficha Artículo 5
-
 ARTICULO 6º.-
 
 En toda empresa, cualquiera que sea su naturaleza, las órdenes, instrucciones y disposiciones que se dirijan a los trabajadores de la misma, deberán darse en idioma español.
 
-Ficha Artículo 6
-
 ARTICULO 7º.-
 
 A ningún individuo se le coartará la libertad de ejercer el comercio en las zonas de trabajo, a menos que esa libertad resulte contraria a los intereses de los mismos trabajadores o de la colectividad; ni se cobrarán por dicho ejercicio otras cuotas e impuestos que los autorizados por las leyes respectivas.
-
-Ficha Artículo 7
 
 ARTICULO 8º.-
 
@@ -72,13 +67,9 @@ A ningún individuo se le coartará la libertad de trabajo, ni se le podrá impe
 
 No se entenderá coartada la libertad de trabajo cuando se actúe en uso de las facultades que prescriban este Código, sus Reglamentos y sus leyes conexas.
 
-Ficha Artículo 8
-
 ARTICULO 9º.-
 
 Queda prohibido en todas las zonas de trabajo el establecimiento de expendios de bebidas o drogas embriagantes, de juegos de azar y de prostíbulos. Es entendido que esta prohibición se limita a un radio de tres kilómetros de las zonas de trabajo establecidas fuera de las poblaciones, ya que en cuanto a estas últimas rigen las disposiciones de las leyes respectivas.
-
-Ficha Artículo 9
 
 ARTICULO 10.-
 
@@ -90,23 +81,15 @@ Quedan exentos de los impuestos de papel sellado y timbre todos los actos juríd
 
 Igual exoneración regirá para los contratos y convenciones de trabajo, individuales o colectivos, que se celebren y ejecuten en el territorio de la República.
 
-Ficha Artículo 10
-
 ARTICULO 11.-
 
 Serán absolutamente nulas, y se tendrán por no puestas, las renuncias que hagan los trabajadores de las disposiciones de este Código y de sus leyes conexas que los favorezcan.
-
-Ficha Artículo 11
 
 ARTICULO 12.-
 
 Queda prohibido a los patronos despedir a sus trabajadores o tomar cualquier otra clase de represalias contra ellos, con el propósito de impedirles demandar el auxilio de las autoridades encargadas de velar por el cumplimiento y aplicación del presente Código, de sus Reglamentos y de sus leyes conexas.
 
-Ficha Artículo 12
-
 ARTICULO 13.- .-(Anulado por Resolución de la Sala Constitucional Nº 616-99 de las 10:00 horas del 29 de enero de 1999.)
-
-Ficha Artículo 13
 
 ARTICULO 14.-
 
@@ -122,25 +105,17 @@ c. (Las explotaciones propiamente agrícolas o ganaderas que ocupen permanenteme
 
 (El inciso c) destacado en este artículo fue considerado inaplicable mediante resolución de la Corte Suprema de Justicia del 22 de julio de 1954)
 
-Ficha Artículo 14
-
 ARTICULO 15.-
 
 Los casos no previstos en este Código, en sus Reglamentos o en sus leyes supletorias o conexas, se resolverán de acuerdo con los principios generales de Derecho de Trabajo, la equidad, la costumbre o el uso locales; y en defecto de éstos se aplicarán, por su orden, las disposiciones contenidas en los Convenios y Recomendaciones adoptados por la Organización Internacional de Trabajo en cuanto no se opongan a las leyes del país, y los principios y leyes de derecho común.
-
-Ficha Artículo 15
 
 ARTICULO 16.-
 
 En caso de conflicto entre las leyes de trabajo o de previsión social con las de cualquier otra índole, predominarán las primeras.
 
-Ficha Artículo 16
-
 ARTICULO 17.-
 
 Para los efectos de interpretar el presente Código, sus Reglamentos y sus leyes conexas, se tomarán en cuenta, fundamentalmente, el interés de los trabajadores y la conveniencia social.
-
-Ficha Artículo 17
 
 TITULO SEGUNDO
 
@@ -156,8 +131,6 @@ Contrato individual de trabajo, sea cual fuere su denominación, es todo aquél 
 
 Se presume la existencia de este contrato entre el trabajador que presta sus servicios y la persona que los recibe.
 
-Ficha Artículo 18
-
 ARTICULO 19.-
 
 El contrato de trabajo obliga tanto a lo que se expresa en él, como a las consecuencias que del mismo se deriven según la buena fe, la equidad, el uso, la costumbre o la ley.
@@ -166,19 +139,13 @@ En los contratos de trabajos agrícolas, por precio diario, el patrono, en las �
 
 (Así adicionado el párrafo anterior por el artículo 1° de la ley N° 33 del 6 de diciembre de 1944 )
 
-Ficha Artículo 19
-
 ARTICULO 20.-
 
 Si en el contrato no se determina el servicio que debe prestarse, el trabajador estará obligado a desempeñar solamente el que sea compatible con sus fuerzas, aptitudes, estado o condición, y que sea del mismo género de los que formen el objeto del negocio, actividad o industria a que se dedique su patrono.
 
-Ficha Artículo 20
-
 ARTICULO 21.-
 
 En todo contrato de trabajo deben entenderse incluidos, por lo menos, las garantías y derechos que otorgan a los trabajadores el presente Código y sus leyes supletorias o conexas.
-
-Ficha Artículo 21
 
 ARTICULO 22.-
 
@@ -192,15 +159,11 @@ c. A los trabajos accidentales o temporales que no excedan de noventa días, no 
 
 d. A la prestación de un trabajo para obra determinada, siempre que el valor de ésta no exceda de doscientos cincuenta colones, aunque el plazo para concluirla sea mayor de noventa días.
 
-Ficha Artículo 22
-
 ARTICULO 23.-
 
 En los demás casos el contrato de trabajo deberá extenderse por escrito, en tres tantos: uno para cada parte y otro que el patrono hará llegar a la Oficina de Empleo del Ministerio de Trabajo y Seguridad Social, directamente o por medio de la autoridad de trabajo o política respectiva, dentro de los quince días posteriores a su celebración, modificación o novación.
 
 (El nombre de la Oficina fue así reformado por el artículo 1, inciso e) de la ley No.3372 de 6 de agosto de 1964. Igualmente, el nombre del Ministerio fue así reformado por la Ley No. 5089 de 18 de octubre de 1972)
-
-Ficha Artículo 23
 
 ARTICULO 24.-
 
@@ -232,29 +195,21 @@ El Ministerio de Trabajo y de Seguridad Social podrá imprimir modelos de contra
 
 (El nombre del Ministerio fue así reformado por la Ley No. 5089 de 18 de octubre de 1972)
 
-Ficha Artículo 24
-
 ARTICULO 25.-
 
 La prueba plena del contrato escrito sólo podrá hacerse con el documento respectivo. La falta de éste se imputará siempre al patrono; en este caso, dicha prueba se hará de acuerdo con lo que dispone el párrafo siguiente.
 
 El contrato verbal se probará por todos los medios generales de prueba; pero si se tratare de testigos al servicio del mismo patrono a cuyas órdenes trabaja el interesado, se necesitará la concurrencia de tres declarantes conformes de toda conformidad en los puntos esenciales del pacto. Sin embargo, si dicho patrono no ocupare a más de cuatro trabajadores bastará con el testimonio de dos de ellos.
 
-Ficha Artículo 25
-
 ARTICULO 26.-
 
 El contrato de trabajo sólo podrá estipularse por tiempo determinado en aquellos casos en que su celebración resulte de la naturaleza del servicio que se va a prestar. Si vencido su término subsisten las causas que le dieron origen y la materia del trabajo, se tendrá como contrato por tiempo indefinido, en cuanto beneficie al trabajador, aquél en que es permanente la naturaleza de los trabajos.
-
-Ficha Artículo 26
 
 ARTICULO 27.-
 
 No puede estipularse el contrato de trabajo por más de un año en perjuicio del trabajador; pero si se tratare de servicios que requieran preparación técnica especial, la duración podrá ser, en las mismas condiciones, hasta de cinco años.
 
 No obstante, todo contrato por tiempo fijo es susceptible de prórroga, expresa o tácita. Lo será de esta última manera por el hecho de continuar el trabajador prestando sus servicios con conocimiento del patrono.
-
-Ficha Artículo 27
 
 ARTICULO 28.-
 
@@ -269,8 +224,6 @@ Después de un año de trabajo continuo con un mínimo de un mes de anticipació
 Dichos avisos se darán siempre por escrito, pero si el contrato fuere verbal, el trabajador podrá darlo en igual forma en caso de que lo hiciere ante dos testigos; y pueden omitirse, sin perjuicio del auxilio de cesantía, por cualquiera de las dos partes, pagando a la otra una cantidad igual al salario correspondiente a los plazos anteriores.
 
 Durante el término del aviso el patrono estará obligado a conceder un día de asueto al trabajador, cada semana, para que busque colocación.
-
-Ficha Artículo 28
 
 Artículo 29.-
 
@@ -314,8 +267,6 @@ m) AÑO 13 y siguientes 20 días por año laborado o fracción superior a seis m
 
 (Así reformado por el artículo 88 de la Ley de Protección al Trabajador N° 7983 del 16 de febrero del 2000)
 
-Ficha Artículo 29
-
 ARTICULO 30.-
 
 El preaviso y el auxilio de cesantía se regirán por las siguientes reglas comunes:
@@ -328,8 +279,6 @@ La continuidad del trabajo no se interrumpe por enfermedad, vacaciones, huelga l
 
 Será absolutamente nula la cláusula del contrato que tienda a interrumpir la continuidad de los servicios prestados o por prestarse.
 
-Ficha Artículo 30
-
 ARTICULO 31.-
 
 En los contratos a tiempo fijo y para obra determinada, cada una de las partes puede ponerles término, sin justa causa, antes del advenimiento del plazo o de la conclusión de la obra, pagando a la otra los daños y perjuicios concretos que demuestre, en relación con el tiempo de duración del contrato resuelto, con la importancia de la función desempeñada y con la dificultad que el trabajador tenga para procurarse cargo o empleo equivalente, o el patrono para encontrar sustituto, todo a juicio de los Tribunales de Trabajo.
@@ -340,13 +289,9 @@ No obstante, si el contrato se ha estipulado por seis meses o más o la ejecuci�
 
 (Así reformado por el artículo 88 de la Ley de Protección al Trabajador N° 7983 del 16 de febrero del 2000)
 
-Ficha Artículo 31
-
 ARTICULO 32.-
 
 El patrono puede renunciar expresa o tácitamente los derechos que le otorgan los artículos 28 y 31. La renuncia se presumirá de pleno derecho siempre que no formule su reclamo antes de treinta días contados a partir de aquél en que el trabajador puso término al contrato.
-
-Ficha Artículo 32
 
 Artículo 33-
 
@@ -358,8 +303,6 @@ En los procesos concursales, o en los demás casos, la persona deudora si se enc
 
 (Así reformado por el artículo 74 de la ley N° 9957 del 14 de abril del 2021 "Ley Concursal de Costa Rica)
 
-Ficha Artículo 33
-
 ARTICULO 34.-
 
 La falta de cumplimiento del contrato de trabajo sólo obligará a los que en ella incurran a la responsabilidad económica respectiva, sin que en ningún caso pueda hacerse coacción contra las personas.
@@ -369,8 +312,6 @@ Cuando de los procedimientos seguidos aparezca que ha sido cometida una infracci
 (Así reformado por el artículo 1º de la ley No. 668 de 14 de agosto de 1946)
 
 (Nota: El artículo 612 que aquí se alude fue reformado expresamente por el artículo 5º de la ley No.7360 del 4 de noviembre de 1993, el cual tiene ahora otro contenido, por lo que deja sin efecto la remisión dicha)
-
-Ficha Artículo 34
 
 Artículo 35.- A la expiración de todo contrato de trabajo, la parte empleadora, a solicitud del trabajador o trabajadora, deberá darle un certificado que exprese:
 
@@ -388,25 +329,17 @@ Si la expiración del contrato obedece a destitución por falta atribuida a la p
 
 (Así reformado por el artículo 3° aparte a) de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 35
-
 ARTICULO 36.-
 
 Salvo lo dicho en el artículo 173, las deudas que el trabajador contraiga con el patrono o con sus asociados, familiares o dependientes, durante la vigencia del contrato o con anterioridad a la celebración de éste, sólo serán compensables o amortizables, según el caso, en la proporción en que sean embargables los respectivos salarios.
-
-Ficha Artículo 36
 
 ARTICULO 37.-
 
 La sustitución del patrono no afectará los contratos de trabajo existentes, en perjuicio del trabajador. El patrono sustituido será solidariamente responsable con el nuevo patrono por las obligaciones derivadas de los contratos o de la ley, nacidas antes de la fecha de la sustitución y hasta por el término de seis meses. Concluido este plazo, la responsabilidad subsistirá únicamente para el nuevo patrono.
 
-Ficha Artículo 37
-
 ARTICULO 38.-
 
 Si se contrata al trabajador por servicio o ejecución de obra en lugar distinto al de su residencia habitual en el momento de celebrarse el contrato, el patrono sufragará diariamente los gastos razonables de ida y retorno, siempre que haya diez o más kilómetros de separación entre ambos sitios.
-
-Ficha Artículo 38
 
 ARTICULO 39.-
 
@@ -418,15 +351,11 @@ El trabajador con familia que esté en el caso del párrafo anterior, tendrá, a
 
 No regirá lo dispuesto en este artículo si la terminación del contrato se origina por culpa o voluntad del trabajador, salvo que éste no haya podido o querido continuar en sus labores por mala salud, por no soportar de modo evidente las condiciones materiales del trabajo o por la crecida insalubridad de los lugares.
 
-Ficha Artículo 39
-
 ARTICULO 40.-
 
 Lo dispuesto en el artículo anterior no impedirá que el Poder Ejecutivo, una vez que el Ministerio de Trabajo y Seguridad Social realice las investigaciones previas y libre la necesaria autorización, extienda discrecionalmente pases gratuitos en las empresas de transportes del Estado, a los trabajadores que soliciten trasladarse en las regiones del país en donde exista desocupación a aquéllas en que escaseen brazos, y a todos los que, estando fuera de su domicilio, necesiten ser hospitalizados o devueltos a su hogar por causa de enfermedad comprobada.
 
 (El nombre del Ministerio fue así reformado por la Ley No 5089 de 18 de octubre de 1972)
-
-Ficha Artículo 40
 
 ARTICULO 41.-
 
@@ -444,8 +373,6 @@ Una vez que el Agente compruebe haber cubierto dichos gastos al trabajador, ante
 
 (El nombre del Ministerio fue así reformado por el artículo 1º de la ley No.3372 de 6 de agosto de 1964 y No.5989 del 18 de octubre de 1972)
 
-Ficha Artículo 41
-
 ARTICULO 42.-
 
 Todos los contratos a que se refiere el artículo anterior deberán celebrarse por escrito, y el Agente presentará al Ministerio de Trabajo y de Seguridad Social, también antes del embarque o salida de los trabajadores, dos copias de los mismos, de cuya autenticidad se hará responsable.
@@ -459,8 +386,6 @@ Los gastos de transporte al exterior y alimentación del trabajador y de sus fam
 El trabajador percibirá íntegro el salario convenido, sin que pueda descontársele cantidad alguna por cualquiera de los motivos a que se refieren los incisos a), b), c) y d) del artículo 41.
 
 (El nombre del Ministerio fue así reformado por la Ley No. 5089 de 18 de octubre de 1972)
-
-Ficha Artículo 42
 
 ARTICULO 43.-
 
@@ -476,21 +401,15 @@ Los trabajadores que hayan sido obligados por autoridad competente a suministrar
 
 (El nombre del Ministerio fue así reformado por la Ley No. 5089 de 18 de octubre de 1972)
 
-Ficha Artículo 43
-
 ARTICULO 44.-
 
 El Ministerio de Trabajo y de Seguridad Social podrá negarse a otorgar el permiso y autorización a que se refieren los artículo 41 y 42 cuando, a su juicio, haya carestía de brazos en el país o sean imprescindibles los trabajadores de que se trate para el buen desenvolvimiento de la producción nacional, o cuando se presenten otras circunstancias especiales análogas.
 
 (El nombre del Ministerio fue así reformado por la Ley No. 5089 de 18 de octubre de 1972)
 
-Ficha Artículo 44
-
 ARTICULO 45.-
 
 Es entendido que las restricción contempladas en los cuatro artículos anteriores no rigen para los profesionales titulados ni para aquellos técnicos cuyo trabajo requiera conocimientos muy calificados.
-
-Ficha Artículo 45
 
 ARTICULO 46.-
 
@@ -498,19 +417,13 @@ Tendrán capacidad para contratar su trabajo, para percibir la retribución conv
 
 La libertad de contratación en materia de trabajo para los mayores de quince años no implicará su emancipación.
 
-Ficha Artículo 46
-
 ARTICULO 47.-
 
 Los contratos relativos al trabajo de los mayores de doce años y menores de quince, deberán celebrarse con el respectivo representante legal y, en defecto de éste, con el Patronato Nacional de la Infancia.
 
-Ficha Artículo 47
-
 ARTICULO 48.-
 
 Todas las disposiciones de este Capítulo se aplicarán a las modalidades que se regulan en los siguientes, salvo que en éstos haya manifestación en contrario.
-
-Ficha Artículo 48
 
 CAPITULO SEGUNDO
 
@@ -520,21 +433,15 @@ ARTICULO 49.-
 
 Contrato colectivo es el que se celebra entre uno o varios sindicatos de trabajadores y uno o varios patronos, o uno o varios sindicatos de patronos, por virtud del cual el sindicato o sindicatos de trabajadores se comprometen, bajo su responsabilidad, a que algunos o todos sus miembros ejecuten labores determinadas, mediante una remuneración que debe ser ajustada individualmente para cada uno de éstos y percibida en la misma forma.
 
-Ficha Artículo 49
-
 ARTICULO 50.-
 
 El contrato colectivo se celebrará siempre por escrito, en tres ejemplares: uno para cada parte y otro que el patrono hará llegar a la Inspección General de Trabajo, directamente o por medio de la autoridad de trabajo o política respectiva, dentro de los cinco días posteriores a su celebración, modificación o novación. Si el patrono no cumpliere con dicha obligación, se presumirá la existencia del contrato colectivo de trabajo, en los términos del artículo 18, párrafo segundo, y sus estipulaciones podrán probarse de acuerdo con lo dispuesto por el artículo 25 para el contrato verbal.
 
 (El nombre de la Inspección fue así reformado por el artículo 1, inciso f) de la Ley Nº 3372 de 6 de agosto de 1964)
 
-Ficha Artículo 50
-
 ARTICULO 51.-
 
 Los representantes del sindicato o sindicatos justificarán su personería para celebrar el contrato colectivo por medio de sus estatutos legalmente inscritos y por el acta de la asamblea o asambleas que así lo hayan acordado. La parte de los patronos no sindicalizados justificará su representación conforme al derecho común.
-
-Ficha Artículo 51
 
 ARTICULO 52.-
 
@@ -556,13 +463,9 @@ Las demás estipulaciones en que convengan las partes, y
 
 El lugar y fecha de la celebración del contrato y las firmas de las partes o de los representantes de éstas.
 
-Ficha Artículo 52
-
 ARTICULO 53.-
 
 La disolución del sindicato no afecta las obligaciones y derechos emanados del contrato colectivo que correspondan a sus miembros.
-
-Ficha Artículo 53
 
 CAPITULO TERCERO
 
@@ -586,8 +489,6 @@ En toda convención colectiva deben entenderse incluidas, por lo menos, todas la
 
 (Interpretado por la Sala Constitucional en el sentido que: "a) son inconstitucionales las convenciones colectivas reguladas por los artículos 54 y siguientes del Código de Trabajo que se celebran en el sector público, cuando se trata de personal regido por la relación de empleo de naturaleza pública (relación estatutaria); b) no son inconstitucionales las convenciones colectivas que se celebran en el sector público, cuando las celebran obreros, trabajadores, funcionarios o empleados del sector público, cuyas relaciones laborales se regulan por el Derecho común; c) igualmente son compatibles con el Derecho de la Constitución, los instrumentos colectivos que se han negociado y se han venido prorrogando o modificando, en aplicación de la política general sobre convenciones colectivas en el Sector Público, salvo que se trate de negociaciones con personal en relación de empleo de naturaleza pública, en cuyo caso esos instrumentos resultan inconstitucionales; d) corresponde a la administración y a los jueces que conocen en los juicios laborales, en su caso, de la aplicación de las convenciones colectivas, determinar si los trabajadores involucrados, dada la naturaleza de las funciones que cumplen o cumplían, están regulados por el Derecho público o el común, a los efectos de definir si pueden o no ser sujetos activos en la aplicación de las convenciones colectivas". Resolución 4453-00 de las 14:56 horas del 24/05/2000, publicado en el Boletín Judicial N°124 del 28/06/2000.)
 
-Ficha Artículo 54
-
 ARTICULO 55.-
 
 Las estipulaciones de la convención colectiva tienen fuerza de ley para:
@@ -599,8 +500,6 @@ Todas las personas que en el momento de entrar en vigor trabajen en la empresa, 
 Los que concierten en lo futuro contratos individuales o colectivos dentro de la misma empresa, empresas o centro de producción afectados por el pacto, en el concepto de que dichos contratos no podrán celebrarse en condiciones menos favorables para los trabajadores que las contenidas en la convención colectiva.
 
 (Interpretado por la Sala Constitucional en el sentido que: "a) son inconstitucionales las convenciones colectivas reguladas por los artículos 54 y siguientes del Código de Trabajo que se celebran en el sector público, cuando se trata de personal regido por la relación de empleo de naturaleza pública (relación estatutaria); b) no son inconstitucionales las convenciones colectivas que se celebran en el sector público, cuando las celebran obreros, trabajadores, funcionarios o empleados del sector público, cuyas relaciones laborales se regulan por el Derecho común; c) igualmente son compatibles con el Derecho de la Constitución, los instrumentos colectivos que se han negociado y se han venido prorrogando o modificando, en aplicación de la política general sobre convenciones colectivas en el Sector Público, salvo que se trate de negociaciones con personal en relación de empleo de naturaleza pública, en cuyo caso esos instrumentos resultan inconstitucionales; d) corresponde a la administración y a los jueces que conocen en los juicios laborales, en su caso, de la aplicación de las convenciones colectivas, determinar si los trabajadores involucrados, dada la naturaleza de las funciones que cumplen o cumplían, están regulados por el Derecho público o el común, a los efectos de definir si pueden o no ser sujetos activos en la aplicación de las convenciones colectivas". Resolución 4453-00 de las 14:56 horas del 24/05/2000, publicado en el Boletín Judicial N°124 del 28/06/2000.)
-
-Ficha Artículo 55
 
 ARTICULO 56.-Todo patrono particular que emplee en su empresa, o en determinado centro de producción si la empresa por la naturaleza de sus actividades tuviere que distribuir la ejecución de sus trabajos en varias zonas del país, los servicios de más de la tercera parte de trabajadores sindicalizados, tendrá obligación de celebrar con el respectivo sindicato, cuando éste lo solicite, una convención colectiva. Al efecto se observarán las siguientes reglas:
 
@@ -616,8 +515,6 @@ d. Si transcurridos treinta días después de la solicitud hecha al patrono por 
 
 (Interpretado por la Sala Constitucional en el sentido que: "a) son inconstitucionales las convenciones colectivas reguladas por los artículos 54 y siguientes del Código de Trabajo que se celebran en el sector público, cuando se trata de personal regido por la relación de empleo de naturaleza pública (relación estatutaria); b) no son inconstitucionales las convenciones colectivas que se celebran en el sector público, cuando las celebran obreros, trabajadores, funcionarios o empleados del sector público, cuyas relaciones laborales se regulan por el Derecho común; c) igualmente son compatibles con el Derecho de la Constitución, los instrumentos colectivos que se han negociado y se han venido prorrogando o modificando, en aplicación de la política general sobre convenciones colectivas en el Sector Público, salvo que se trate de negociaciones con personal en relación de empleo de naturaleza pública, en cuyo caso esos instrumentos resultan inconstitucionales; d) corresponde a la administración y a los jueces que conocen en los juicios laborales, en su caso, de la aplicación de las convenciones colectivas, determinar si los trabajadores involucrados, dada la naturaleza de las funciones que cumplen o cumplían, están regulados por el Derecho público o el común, a los efectos de definir si pueden o no ser sujetos activos en la aplicación de las convenciones colectivas". Resolución 4453-00 de las 14:56 horas del 24/05/2000, publicado en el Boletín Judicial N°124 del 28/06/2000.)
 
-Ficha Artículo 56
-
 ARTICULO 57.-
 
 La convención colectiva se extenderá por escrito en tres ejemplares, bajo pena de nulidad absoluta. Cada una de las partes conservará un ejemplar y el tercero será depositado en la Oficina de Asuntos Gremiales y de Conciliación Administrativa del Ministerio de Trabajo y Seguridad Social directamente o por medio de la autoridad de trabajo o política respectiva. No tendrá valor legal sino a partir de la fecha en que quede depositada la copia y, para este efecto, el funcionario a quien se entregue extenderá un recibo a cada uno de los que la hayan suscrito.
@@ -627,8 +524,6 @@ Dicho depósito será comunicado inmediatamente a la Oficina de Asuntos Gremiale
 (Los nombres referidos fueron así reformados por artículo 1, inciso h) de la Ley Nº 3372 de 6 de agosto de 1964. El nombre del Ministerio fue así reformado por el artículo 2 de la ley No.5089 del 18 de octubre de 1972)
 
 (Interpretado por la Sala Constitucional en el sentido que: "a) son inconstitucionales las convenciones colectivas reguladas por los artículos 54 y siguientes del Código de Trabajo que se celebran en el sector público, cuando se trata de personal regido por la relación de empleo de naturaleza pública (relación estatutaria); b) no son inconstitucionales las convenciones colectivas que se celebran en el sector público, cuando las celebran obreros, trabajadores, funcionarios o empleados del sector público, cuyas relaciones laborales se regulan por el Derecho común; c) igualmente son compatibles con el Derecho de la Constitución, los instrumentos colectivos que se han negociado y se han venido prorrogando o modificando, en aplicación de la política general sobre convenciones colectivas en el Sector Público, salvo que se trate de negociaciones con personal en relación de empleo de naturaleza pública, en cuyo caso esos instrumentos resultan inconstitucionales; d) corresponde a la administración y a los jueces que conocen en los juicios laborales, en su caso, de la aplicación de las convenciones colectivas, determinar si los trabajadores involucrados, dada la naturaleza de las funciones que cumplen o cumplían, están regulados por el Derecho público o el común, a los efectos de definir si pueden o no ser sujetos activos en la aplicación de las convenciones colectivas". Resolución 4453-00 de las 14:56 horas del 24/05/2000, publicado en el Boletín Judicial N°124 del 28/06/2000.)
-
-Ficha Artículo 57
 
 ARTICULO 58.-
 
@@ -654,8 +549,6 @@ El lugar y fecha de la celebración de la convención y las firmas de las partes
 
 (Interpretado por la Sala Constitucional en el sentido que: "a) son inconstitucionales las convenciones colectivas reguladas por los artículos 54 y siguientes del Código de Trabajo que se celebran en el sector público, cuando se trata de personal regido por la relación de empleo de naturaleza pública (relación estatutaria); b) no son inconstitucionales las convenciones colectivas que se celebran en el sector público, cuando las celebran obreros, trabajadores, funcionarios o empleados del sector público, cuyas relaciones laborales se regulan por el Derecho común; c) igualmente son compatibles con el Derecho de la Constitución, los instrumentos colectivos que se han negociado y se han venido prorrogando o modificando, en aplicación de la política general sobre convenciones colectivas en el Sector Público, salvo que se trate de negociaciones con personal en relación de empleo de naturaleza pública, en cuyo caso esos instrumentos resultan inconstitucionales; d) corresponde a la administración y a los jueces que conocen en los juicios laborales, en su caso, de la aplicación de las convenciones colectivas, determinar si los trabajadores involucrados, dada la naturaleza de las funciones que cumplen o cumplían, están regulados por el Derecho público o el común, a los efectos de definir si pueden o no ser sujetos activos en la aplicación de las convenciones colectivas". Resolución 4453-00 de las 14:56 horas del 24/05/2000, publicado en el Boletín Judicial N°124 del 28/06/2000.)
 
-Ficha Artículo 58
-
 ARTICULO 59.-
 
 Si firmada una convención colectiva el patrono se separa del sindicato o grupo patronal que celebró el pacto, éste regirá siempre la relación de aquel patrono con el sindicato o sindicatos o grupo de sus trabajadores.
@@ -663,8 +556,6 @@ Si firmada una convención colectiva el patrono se separa del sindicato o grupo 
 En caso de disolución del sindicato de trabajadores o del sindicato de patronos, se observará la regla del artículo 53.
 
 (Interpretado por la Sala Constitucional en el sentido que: "a) son inconstitucionales las convenciones colectivas reguladas por los artículos 54 y siguientes del Código de Trabajo que se celebran en el sector público, cuando se trata de personal regido por la relación de empleo de naturaleza pública (relación estatutaria); b) no son inconstitucionales las convenciones colectivas que se celebran en el sector público, cuando las celebran obreros, trabajadores, funcionarios o empleados del sector público, cuyas relaciones laborales se regulan por el Derecho común; c) igualmente son compatibles con el Derecho de la Constitución, los instrumentos colectivos que se han negociado y se han venido prorrogando o modificando, en aplicación de la política general sobre convenciones colectivas en el Sector Público, salvo que se trate de negociaciones con personal en relación de empleo de naturaleza pública, en cuyo caso esos instrumentos resultan inconstitucionales; d) corresponde a la administración y a los jueces que conocen en los juicios laborales, en su caso, de la aplicación de las convenciones colectivas, determinar si los trabajadores involucrados, dada la naturaleza de las funciones que cumplen o cumplían, están regulados por el Derecho público o el común, a los efectos de definir si pueden o no ser sujetos activos en la aplicación de las convenciones colectivas". Resolución 4453-00 de las 14:56 horas del 24/05/2000, publicado en el Boletín Judicial N°124 del 28/06/2000.)
-
-Ficha Artículo 59
 
 ARTICULO 60.-
 
@@ -674,23 +565,17 @@ Igualmente podrá dicho sindicato ejercer los derechos y acciones que nazcan de 
 
 (Interpretado por la Sala Constitucional en el sentido que: "a) son inconstitucionales las convenciones colectivas reguladas por los artículos 54 y siguientes del Código de Trabajo que se celebran en el sector público, cuando se trata de personal regido por la relación de empleo de naturaleza pública (relación estatutaria); b) no son inconstitucionales las convenciones colectivas que se celebran en el sector público, cuando las celebran obreros, trabajadores, funcionarios o empleados del sector público, cuyas relaciones laborales se regulan por el Derecho común; c) igualmente son compatibles con el Derecho de la Constitución, los instrumentos colectivos que se han negociado y se han venido prorrogando o modificando, en aplicación de la política general sobre convenciones colectivas en el Sector Público, salvo que se trate de negociaciones con personal en relación de empleo de naturaleza pública, en cuyo caso esos instrumentos resultan inconstitucionales; d) corresponde a la administración y a los jueces que conocen en los juicios laborales, en su caso, de la aplicación de las convenciones colectivas, determinar si los trabajadores involucrados, dada la naturaleza de las funciones que cumplen o cumplían, están regulados por el Derecho público o el común, a los efectos de definir si pueden o no ser sujetos activos en la aplicación de las convenciones colectivas". Resolución 4453-00 de las 14:56 horas del 24/05/2000, publicado en el Boletín Judicial N°124 del 28/06/2000.)
 
-Ficha Artículo 60
-
 ARTICULO 61.-
 
 Las personas obligadas por una convención colectiva, sólo podrán ejercer los derechos y acciones que nazcan de la misma, para exigir su cumplimiento y, en su caso, obtener el pago de daños y perjuicios, contra otras personas o sindicatos obligados en la convención, cuando la falta de cumplimiento les ocasione un perjuicio individual.
 
 (Interpretado por la Sala Constitucional en el sentido que: "a) son inconstitucionales las convenciones colectivas reguladas por los artículos 54 y siguientes del Código de Trabajo que se celebran en el sector público, cuando se trata de personal regido por la relación de empleo de naturaleza pública (relación estatutaria); b) no son inconstitucionales las convenciones colectivas que se celebran en el sector público, cuando las celebran obreros, trabajadores, funcionarios o empleados del sector público, cuyas relaciones laborales se regulan por el Derecho común; c) igualmente son compatibles con el Derecho de la Constitución, los instrumentos colectivos que se han negociado y se han venido prorrogando o modificando, en aplicación de la política general sobre convenciones colectivas en el Sector Público, salvo que se trate de negociaciones con personal en relación de empleo de naturaleza pública, en cuyo caso esos instrumentos resultan inconstitucionales; d) corresponde a la administración y a los jueces que conocen en los juicios laborales, en su caso, de la aplicación de las convenciones colectivas, determinar si los trabajadores involucrados, dada la naturaleza de las funciones que cumplen o cumplían, están regulados por el Derecho público o el común, a los efectos de definir si pueden o no ser sujetos activos en la aplicación de las convenciones colectivas". Resolución 4453-00 de las 14:56 horas del 24/05/2000, publicado en el Boletín Judicial N°124 del 28/06/2000.)
 
-Ficha Artículo 61
-
 ARTICULO 62.-
 
 Cuando una acción fundada en una convención colectiva haya sido intentada por un individuo o un sindicatos, los otros sindicatos afectados por ella podrán apersonarse en el litigio en razón del interés colectivo que su solución tenga para sus miembros.
 
 (Interpretado por la Sala Constitucional en el sentido que: "a) son inconstitucionales las convenciones colectivas reguladas por los artículos 54 y siguientes del Código de Trabajo que se celebran en el sector público, cuando se trata de personal regido por la relación de empleo de naturaleza pública (relación estatutaria); b) no son inconstitucionales las convenciones colectivas que se celebran en el sector público, cuando las celebran obreros, trabajadores, funcionarios o empleados del sector público, cuyas relaciones laborales se regulan por el Derecho común; c) igualmente son compatibles con el Derecho de la Constitución, los instrumentos colectivos que se han negociado y se han venido prorrogando o modificando, en aplicación de la política general sobre convenciones colectivas en el Sector Público, salvo que se trate de negociaciones con personal en relación de empleo de naturaleza pública, en cuyo caso esos instrumentos resultan inconstitucionales; d) corresponde a la administración y a los jueces que conocen en los juicios laborales, en su caso, de la aplicación de las convenciones colectivas, determinar si los trabajadores involucrados, dada la naturaleza de las funciones que cumplen o cumplían, están regulados por el Derecho público o el común, a los efectos de definir si pueden o no ser sujetos activos en la aplicación de las convenciones colectivas". Resolución 4453-00 de las 14:56 horas del 24/05/2000, publicado en el Boletín Judicial N°124 del 28/06/2000.)
-
-Ficha Artículo 62
 
 SECCION II
 
@@ -718,8 +603,6 @@ Para los efectos de este inciso, cuando se presentare una oposición en tiempo, 
 
 (Interpretado por la Sala Constitucional en el sentido que: "a) son inconstitucionales las convenciones colectivas reguladas por los artículos 54 y siguientes del Código de Trabajo que se celebran en el sector público, cuando se trata de personal regido por la relación de empleo de naturaleza pública (relación estatutaria); b) no son inconstitucionales las convenciones colectivas que se celebran en el sector público, cuando las celebran obreros, trabajadores, funcionarios o empleados del sector público, cuyas relaciones laborales se regulan por el Derecho común; c) igualmente son compatibles con el Derecho de la Constitución, los instrumentos colectivos que se han negociado y se han venido prorrogando o modificando, en aplicación de la política general sobre convenciones colectivas en el Sector Público, salvo que se trate de negociaciones con personal en relación de empleo de naturaleza pública, en cuyo caso esos instrumentos resultan inconstitucionales; d) corresponde a la administración y a los jueces que conocen en los juicios laborales, en su caso, de la aplicación de las convenciones colectivas, determinar si los trabajadores involucrados, dada la naturaleza de las funciones que cumplen o cumplían, están regulados por el Derecho público o el común, a los efectos de definir si pueden o no ser sujetos activos en la aplicación de las convenciones colectivas". Resolución 4453-00 de las 14:56 horas del 24/05/2000, publicado en el Boletín Judicial N°124 del 28/06/2000.)
 
-Ficha Artículo 63
-
 ARTICULO 64.-
 
 El Poder Ejecutivo fijará el plazo durante el cual debe regir la convención, que no excederá de cinco años ni bajará de uno.
@@ -729,8 +612,6 @@ Dicho plazo se prorrogará automáticamente, en cada ocasión, durante un perío
 (El nombre del Ministerio fue así reformado por la Ley No. 5089 de 18 de octubre de 1972)
 
 (Interpretado por la Sala Constitucional en el sentido que: "a) son inconstitucionales las convenciones colectivas reguladas por los artículos 54 y siguientes del Código de Trabajo que se celebran en el sector público, cuando se trata de personal regido por la relación de empleo de naturaleza pública (relación estatutaria); b) no son inconstitucionales las convenciones colectivas que se celebran en el sector público, cuando las celebran obreros, trabajadores, funcionarios o empleados del sector público, cuyas relaciones laborales se regulan por el Derecho común; c) igualmente son compatibles con el Derecho de la Constitución, los instrumentos colectivos que se han negociado y se han venido prorrogando o modificando, en aplicación de la política general sobre convenciones colectivas en el Sector Público, salvo que se trate de negociaciones con personal en relación de empleo de naturaleza pública, en cuyo caso esos instrumentos resultan inconstitucionales; d) corresponde a la administración y a los jueces que conocen en los juicios laborales, en su caso, de la aplicación de las convenciones colectivas, determinar si los trabajadores involucrados, dada la naturaleza de las funciones que cumplen o cumplían, están regulados por el Derecho público o el común, a los efectos de definir si pueden o no ser sujetos activos en la aplicación de las convenciones colectivas". Resolución 4453-00 de las 14:56 horas del 24/05/2000, publicado en el Boletín Judicial N°124 del 28/06/2000.)
-
-Ficha Artículo 64
 
 ARTICULO 65.-
 
@@ -742,8 +623,6 @@ El Poder Ejecutivo en este caso, y en el del párrafo segundo del artículo ante
 
 (Interpretado por la Sala Constitucional en el sentido que: "a) son inconstitucionales las convenciones colectivas reguladas por los artículos 54 y siguientes del Código de Trabajo que se celebran en el sector público, cuando se trata de personal regido por la relación de empleo de naturaleza pública (relación estatutaria); b) no son inconstitucionales las convenciones colectivas que se celebran en el sector público, cuando las celebran obreros, trabajadores, funcionarios o empleados del sector público, cuyas relaciones laborales se regulan por el Derecho común; c) igualmente son compatibles con el Derecho de la Constitución, los instrumentos colectivos que se han negociado y se han venido prorrogando o modificando, en aplicación de la política general sobre convenciones colectivas en el Sector Público, salvo que se trate de negociaciones con personal en relación de empleo de naturaleza pública, en cuyo caso esos instrumentos resultan inconstitucionales; d) corresponde a la administración y a los jueces que conocen en los juicios laborales, en su caso, de la aplicación de las convenciones colectivas, determinar si los trabajadores involucrados, dada la naturaleza de las funciones que cumplen o cumplían, están regulados por el Derecho público o el común, a los efectos de definir si pueden o no ser sujetos activos en la aplicación de las convenciones colectivas". Resolución 4453-00 de las 14:56 horas del 24/05/2000, publicado en el Boletín Judicial N°124 del 28/06/2000.)
 
-Ficha Artículo 65
-
 CAPITULO CUARTO
 
 De los reglamentos interiores de trabajo
@@ -752,8 +631,6 @@ ARTICULO 66.-
 
 Reglamento de trabajo es el elaborado por el patrono de acuerdo con las leyes, decretos, convenciones y contratos vigentes que lo afecten, con el objeto de precisar las condiciones obligatorias a que deben sujetarse él y sus trabajadores con motivo de la ejecución o prestación concreta del trabajo.
 
-Ficha Artículo 66
-
 ARTICULO 67.-
 
 Todo reglamento de trabajo debe ser aprobado previamente por la Oficina Legal, de Información y Relaciones internacionales del Ministerio de Trabajo y Seguridad Social será puesto en conocimiento de los trabajadores con quince días de anticipación a la fecha en que comenzará a regir; se imprimirá en caracteres fácilmente legibles y se tendrá constantemente colocado, por lo menos, en dos de los sitios más visibles del lugar de trabajo.
@@ -761,8 +638,6 @@ Todo reglamento de trabajo debe ser aprobado previamente por la Oficina Legal, d
 Las disposiciones anteriores se observarán también para toda modificación o derogatoria que haga el patrono del reglamento de trabajo.
 
 (Los nombres fueron así reformados por leyes No. 3372 de 6 de agosto de 1964 y Nº 5089 de 18 de octubre de 1972)
-
-Ficha Artículo 67
 
 ARTICULO 68.-
 
@@ -781,8 +656,6 @@ Las disposiciones disciplinarias y formas de aplicarlas. Es entendido que se pro
 La designación de las personas del establecimiento ante quienes deberán presentarse las peticiones de mejoramiento o reclamos en general, y la manera de formular unas y otros, y
 
 Las normas especiales pertinentes a las diversas clases de labores, de acuerdo con la edad y sexo de los trabajadores.
-
-Ficha Artículo 68
 
 CAPITULO QUINTO
 
@@ -844,8 +717,6 @@ Lo anterior sin perjuicio de lo dispuesto en normas especiales.
 
 (\*) (Así adicionado el inciso l) anterior por el artículo único de la Ley para crear la licencia remunerada por muerte de familiares de personas trabajadoras, para proteger el derecho al duelo, N° 10589 del 5 de noviembre de 2024)
 
-Ficha Artículo 69
-
 ARTICULO 70.-Queda absolutamente prohibido a los patronos:
 
 a. Inducir o exigir a sus trabajadores a que compren sus artículos de consumo a determinados establecimientos o personas;
@@ -874,8 +745,6 @@ k) Exigir una prueba médica de embarazo para el ingreso o la permanencia en el 
 
 (Así adicionado el inciso anterior por el artículo 2° de la Ley para combatir la discriminación laboral contra las mujeres en condición de maternidad, N° 10211 del 5 de mayo de 2022)
 
-Ficha Artículo 70
-
 ARTICULO 71.- Fuera de las contenidas en otros artículos de este Código, en sus Reglamentos y en sus leyes supletorias o conexas, son obligaciones de los trabajadores:
 
 a. Desempeñar el servicio contratado bajo la dirección del patrono o de su representante, a cuya autoridad estarán sujetos en todo lo concerniente al trabajo;
@@ -894,8 +763,6 @@ g. Guardar rigurosamente los secretos técnicos, comerciales o de fabricación d
 
 h. Observar rigurosamente las medidas preventivas que acuerden las autoridades competentes y las que indiquen los patronos, para seguridad y protección personal de ellos o de sus compañeros de labores, o de los lugares donde trabajan.
 
-Ficha Artículo 71
-
 ARTICULO 72.-
 
 Queda absolutamente prohibido a los trabajadores:
@@ -912,8 +779,6 @@ Portar armas de cualquier clase durante las horas de labor, excepto en los casos
 
 (Nota: Véase el artículo 398, inciso 3)(actual 402), del Código Penal, ley Nº 4573 del 4 de mayo de 1970, en cuanto a la referencia al Código de Policía)
 
-Ficha Artículo 72
-
 CAPITULO SEXTO
 
 De la suspensión y de la terminación de los contratos de trabajo
@@ -923,8 +788,6 @@ ARTICULO 73.-
 La suspensión total o parcial de los contratos de trabajo no implica su terminación ni extingue los derechos y obligaciones que emanen de los mismos.
 
 La suspensión puede afectar a todos los contratos vigentes en una empresa o sólo a parte de ellos.
-
-Ficha Artículo 73
 
 ARTICULO 74.-
 
@@ -940,8 +803,6 @@ En los dos primeros casos el Poder Ejecutivo podrá dictar medidas de emergencia
 
 (Nota de Sinalevi: De conformidad con el artículo 1° de la ley N° 305 del 15 de diciembre de 1948, se estableció lo siguiente; "Artículo 1º.-Los contratos de Trabajo en que son parte personas que se han enrolado en las filas del Ejército Nacional, o que prestan sus servicios en oficinas o instituciones que se han creado con motivo de la actual emergencia, se declaran suspendidos temporalmente, considerándose que la causal de suspensión se encuentra comprendida en el artículo 74 del Código de Trabajo")
 
-Ficha Artículo 74
-
 ARTICULO 75.-
 
 La suspensión temporal de los contratos de trabajo surtirá efecto desde la conclusión del día en que ocurrió el hecho que le dio origen, siempre que se inicie ante la Inspección General de Trabajo o ante sus representantes debida y especialmente autorizados, la comprobación plena de la causa en que se funda, dentro de los tres días posteriores al ya mencionado.
@@ -950,15 +811,11 @@ En los dos primeros casos previstos en el artículo anterior la prueba correrá 
 
 Si la Inspección General de Trabajo o sus representantes llegaren al convencimiento de que no existe la causa alegada, o de que la suspensión es injustificada, declararán sin lugar la solicitud a efecto de que los trabajadores puedan ejercitar su facultad de dar por concluidos sus contratos, con responsabilidad para el patrono.
 
-Ficha Artículo 75
-
 ARTICULO 76.-
 
 Durante la suspensión de los contratos de trabajo fundada en alguna de las tres causas a que se refiere el artículo 74, el patrono o sus sucesores pueden ponerles término cubriendo a los trabajadores el importe del preaviso, el auxilio de cesantía y demás indemnizaciones que pudieran corresponderles.
 
 (Nota de Sinalevi: El artículo 2° de la ley N° 305 del 15 de diciembre de 1948, establece que los patronos no podrán hacer uso, en perjuicio de los trabajadores, de la facultad que les otorgan los artículos 76, 78 y 81, inciso G), del Código de Trabajo)
-
-Ficha Artículo 76
 
 ARTICULO 77.-
 
@@ -967,8 +824,6 @@ La reanudación de los trabajos deberá ser notificada a la Inspección General 
 La Inspección General de Trabajo se encargará de informar la reanudación de los trabajos a los trabajadores, y para facilitar su labor el patrono o sus sucesores deberán dar todos los datos pertinentes que se les pidan.
 
 Si por cualquier motivo el referido Despacho no lograre localizar dentro de tercero día, contado desde que se recibió todos los datos a que se alude en el párrafo anterior, a uno o a varios trabajadores, notificará a los interesados la reanudación de los trabajos por medio de un aviso que se insertará por tres veces consecutivas en el Diario Oficial. En este caso el término de quince días correrá para dichos trabajadores a partir de aquél en que se hizo la primera publicación.
-
-Ficha Artículo 77
 
 ARTICULO 78.-
 
@@ -979,8 +834,6 @@ Es obligación del trabajador dar aviso al patrono de la causa que le impide asi
 A solicitud del trabajador el Jefe de la Cárcel le extenderá las constancias necesarias para la prueba de los extremos a que se refiere el párrafo anterior.
 
 (Nota de Sinalevi: El artículo 2° de la ley N° 305 del 15 de diciembre de 1948, establece que los patronos no podrán hacer uso, en perjuicio de los trabajadores, de la facultad que les otorgan los artículos 76, 78 y 81, inciso G), del Código de Trabajo)
-
-Ficha Artículo 78
 
 ARTICULO 79.-
 
@@ -996,11 +849,7 @@ Después de un trabajo continuo mayor de nueve meses, le pagará medio salario d
 
 Es entendido que a estos casos se aplicará lo dispuesto en el artículo 30 y que el patrono durante la suspensión del contrato podrá colocar interinamente a otro trabajador.
 
-Ficha Artículo 79
-
 ARTICULO 80.-(Anulado mediante resolución de la Sala Constitucional N° 18356 del 2 de diciembre de 2009.)
-
-Ficha Artículo 80
 
 ARTICULO 81.-
 
@@ -1048,8 +897,6 @@ n) Cuando la persona trabajadora incurra en conductas discriminatorias contra ot
 
 (Así reformado el inciso anterior por el artículo 1° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
 
-Ficha Artículo 81
-
 ARTICULO 82.-
 
 El patrono que despida a un trabajador por alguna o algunas de las causas enumeradas en el artículo anterior, no incurrirá en responsabilidad.
@@ -1061,8 +908,6 @@ Si con posterioridad al despido surgiere contención y no se comprobare la causa
 Siempre que el trabajador entable juicio para obtener las prestaciones de que habla este artículo y el patrono pruebe la justa causa en que se fundó el despido y la circunstancia de haber notificado ésta por escrito al trabajador en el momento de despedirlo, los Tribunales de Trabajo condenarán al primero a pagar ambas costas del litigio y le impondrán en la misma sentencia, como corrección disciplinaria, una multa de cuatro a veinte colones, que se convertirá forzosamente en arresto si el perdidos o no cubre su monto dentro de las veinticuatro horas siguientes a aquélla en que quedó firme el respectivo fallo.
 
 (Así reformado por el artículo 1° de la ley N° 668 de 14 de agosto de 1946)
-
-Ficha Artículo 82
 
 ARTICULO 83.-
 
@@ -1094,13 +939,9 @@ k) Cuando la parte patronal incurra en actos discriminatorios contra alguna pers
 
 La regla que contiene el párrafo final del artículo 81 rige también a favor de los trabajadores.
 
-Ficha Artículo 83
-
 ARTICULO 84.-
 
 Por cualquiera de las causas que enumera el artículo anterior podrá el trabajador separarse de su trabajo, conservando su derecho a las indemnizaciones y prestaciones legales. Tampoco incurrirá en responsabilidad alguna, salvo la de pagar el importe del pre-aviso y la de carácter civil que le corresponda, si posteriormente surgiere contención y se le probare que abandonó sus labores sin justa causa.
-
-Ficha Artículo 84
 
 ARTICULO 85.-Son causas que terminan con el contrato de trabajo sin responsabilidad para el trabajador y sin que extingan los derechos de éste o de sus causahabientes para reclamar y obtener el pago de las prestaciones e indemnizaciones que pudieran corresponderles en virtud de lo ordenado por el Código o por disposiciones especiales:
 
@@ -1146,8 +987,6 @@ Para el pago de las prestaciones indicadas se estará al procedimiento en el tí
 
 (Nota: Mediante Resolución N° 3340- 96 de la Sala Constitucional de las 9:00 horas del 5 de julio de 1996, se dispuso lo siguiente: " ... Se evacua la consulta en el sentido de que el inciso 1), párrafo segundo del artículo 85 del Código de Trabajo no es contrario a los artículos 33, 51 y 52 de la Constitución Política...")
 
-Ficha Artículo 85
-
 ARTICULO 86.-
 
 El contrato de trabajo terminará sin responsabilidad para ninguna de las partes por las siguientes causas:
@@ -1157,8 +996,6 @@ Por el advenimiento del plazo en los contratos a plazo fijo, salvo el caso de pr
 Por las causas expresamente estipuladas en él, y
 
 Por mutuo consentimiento.
-
-Ficha Artículo 86
 
 CAPITULO SETIMO
 
@@ -1172,15 +1009,11 @@ Sin perjuicio de otras sanciones e indemnizaciones legales, cuando les ocurriera
 
 (Así reformado por el artículo único de la Ley Libertad de elección de empleo de las mujeres, Ley N° 10131 del 10 de febrero del 2022)
 
-Ficha Artículo 87
-
 Artículo 88- Queda absolutamente prohibido el trabajo nocturno de las personas menores de dieciocho años y el diurno de estas en hosterías, clubes, cantinas, bares y en todos los expendios de bebidas con contenido alcohólico de consumo inmediato.
 
 A dichos trabajos prohibidos se les aplicará lo dispuesto en el párrafo segundo del artículo 87 del presente Código. A los efectos del presente artículo se considerará período nocturno el comprendido entre las diecinueve horas y las siete horas del día siguiente, según lo establecido en el artículo 95 de la Ley N.º 7739, Código de la Niñez y la Adolescencia, de 6 de enero de 1998.
 
 (Así reformado por el artículo único de la Ley N° 9758 del 29 de octubre del 2019, "Regulación de la jornada nocturna de las mujeres trabajadoras")
-
-Ficha Artículo 88
 
 ARTICULO 89.-
 
@@ -1198,8 +1031,6 @@ No obstante, en tratándose de explotaciones agrícolas o ganaderas, se permitir
 
 (El Código de la Niñez y la Adolescencia, Ley N° 7739 del 6 de febrero de 1998, estableció una jornada diurna máxima de seis horas diarias y de treinta y seis semanales para los trabajadores adolescentes (Quince Años))
 
-Ficha Artículo 89
-
 ARTICULO 90.-Las prohibiciones anteriores comprenderán, asimismo, los siguientes casos:
 
 a- El ejercicio por cuenta propia o ajena de un oficio que se practique en las calles o sitios públicos, siempre que lo haga una persona menor de quince años.
@@ -1208,23 +1039,17 @@ b- El trabajo de personas menores de quince años en la venta de objetos en teat
 
 (Así reformado por el artículo único de la Ley libertad de elección de empleo de las mujeres, Ley N° 10131 del 10 de febrero del 2022)
 
-Ficha Artículo 90
-
 ARTICULO 91.-
 
 El Patronato Nacional de la Infancia, sus respectivas Juntas Provinciales de Protección a la Infancia o sus representantes autorizados pueden otorgar, en casos muy calificados, autorizaciones escritas especiales para permitir el trabajo nocturno de los menores que hayan cumplido dieciséis años, a los efectos del aprendizaje o de la formación profesional, en aquellas industrias u ocupaciones en las que el trabajo deba efectuarse continuamente.
 
 (Así reformado por el artículo 1° de la ley N° 5313 de 14 de agosto de 1973)
 
-Ficha Artículo 91
-
 ARTICULO 92.-
 
 En las escuelas industriales y reformatorios el trabajo debe ser proporcionado a las fuerzas físicas y mentales de los alumnos, a sus aptitudes, gustos e inclinaciones.
 
 Se harán acreedores a las sanciones legales que correspondan los directores que permitan en estos establecimientos el trabajo los domingos y demás días feriados.
-
-Ficha Artículo 92
 
 ARTICULO 93.-
 
@@ -1244,8 +1069,6 @@ El salario que perciben, y
 
 La constancia de que han cumplido los requisitos de la Ley General de Educación Común y, en su caso, lo dispuesto en el artículo 91.
 
-Ficha Artículo 93
-
 Artículo 94-Queda prohibido a las personas empleadoras despedir a las trabajadoras que se encuentren en estado de embarazo o en período de lactancia, o bien, a las personas trabajadoras que gocen de las licencias especificadas en el artículo 95 de este Código, salvo por causa justificada originada en falta grave a los deberes derivados del contrato, conforme a las causales establecidas en el artículo 81. En caso de que la trabajadora incurra en falta grave, la persona empleadora deberá gestionar el despido ante la Dirección Nacional y la Inspección General de Trabajo, para lo cual deberá comprobar la falta. Esta entidad tramitará y resolverá, de la forma más expedita posible, la solicitud, mediante un procedimiento sumario, resguardando el debido proceso, el equilibrio entre las partes, la objetividad y fundamentando su resolución en prueba recabada con su debido análisis. Excepcionalmente, la Dirección podrá dictar una medida cautelar provisional, inclusive la suspensión de la trabajadora con goce de salario, mientras se resuelve la gestión de despido.
 
 Para gozar de la protección que aquí se establece, la trabajadora deberá dar aviso de su estado de embarazo a la persona empleadora y podrá aportar certificación médica o constancia de la Caja Costarricense de Seguro Social. La persona empleadora deberá otorgarle a la trabajadora hasta un día de licencia con goce salarial para la obtención de esta.
@@ -1253,8 +1076,6 @@ Para gozar de la protección que aquí se establece, la trabajadora deberá dar 
 Una vez transcurrido el plazo de la licencia, la persona empleadora deberá brindar permiso con goce de salario para asistir a servicios médicos, tanto del niño o la niña recién nacido, como de la madre o persona encargada, así como para el retiro de constancias de lactancia en los centros de salud.
 
 (Así reformado por el artículo 1° de la Ley para combatir la discriminación laboral contra las mujeres en condición de maternidad, N° 10211 del 5 de mayo de 2022)
-
-Ficha Artículo 94
 
 Artículo 94 bis.- La trabajadora embarazada o en período de lactancia, que fuera despedida en contravención con lo dispuesto en el artículo anterior, podrá gestionar ante el juzgado de trabajo su reinstalación inmediata, con pleno goce de todos sus derechos, mediante el procedimiento establecido en el título décimo de este Código.
 
@@ -1269,8 +1090,6 @@ Si se tratara de una trabajadora en período de lactancia, tendrá derecho, adem
 (Así adicionado por el artículo 32° (actual 35) de la Ley de Promoción de la Igualdad Social de la Mujer, Nº 7142 de 8 de marzo de 1990)
 
 (Así reformado por el artículo 3° aparte a) de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 94 BIS
 
 Artículo 95- La trabajadora embarazada gozará, obligatoriamente, de una licencia remunerada por maternidad, durante el mes anterior al parto y los tres posteriores a él. El primer año de vida del menor se considerará como período mínimo de lactancia, el cual, por prescripción médica, podrá ser prorrogado cada tres meses, para los efectos del artículo 94, por todo el tiempo que la niña o el niño sea alimentado con leche materna. La certificación médica será expedida por cualquier médico del ámbito público o privado, en casos de lactancia materna directa, lactancia materna diferida, lactancia materna mixta y procesos de relactación.
 
@@ -1314,8 +1133,6 @@ En casos de adopción, la madre adoptante tendrá derecho a un periodo de lactan
 
 (Así reformado por el artículo 1° de la Ley para combatir la discriminación laboral contra las mujeres en condición de maternidad, N° 10211 del 5 de mayo de 2022)
 
-Ficha Artículo 95
-
 Artículo 96- Dicho descanso puede abonarse a las vacaciones de ley pagando a la trabajadora su salario completo. Si no se abonara a la persona a quien se le haya concedido, tendrá derecho, por lo menos, a las dos terceras partes de su sueldo o a lo que falte para que lo reciba completo, si estuviera acogida a los beneficios de la Caja Costarricense de Seguro Social y a volver a su puesto una vez desaparecidas las circunstancias que la obligaron a abandonarlo o a otro puesto equivalente en remuneración, que guarde relación con sus aptitudes, capacidad y competencia.
 
 Si se tratara de aborto no intencional o por causas biológicas y naturales, o de parto prematuro no viable, los descansos remunerados se reducirán a la mitad. En el caso de que la mujer interesada permanezca ausente de su trabajo un tiempo mayor del concedido, a consecuencia de enfermedad que según certificado médico deba su origen al embarazo o al parto, y que la incapacite para trabajar, tendrá también derecho a las prestaciones de que habla el párrafo anterior, durante todo el lapso que exija su restablecimiento, siempre que este no exceda de tres meses.
@@ -1323,8 +1140,6 @@ Si se tratara de aborto no intencional o por causas biológicas y naturales, o d
 Una vez transcurrida la licencia, la incapacidad o el disfrute de vacaciones, la persona trabajadora volverá a su puesto y solamente en casos de excepción, debidamente justificados, podrá ser ubicada en otro puesto equivalente en remuneración, el cual guarde relación con sus aptitudes, capacidad y competencia.
 
 (Así reformado por el artículo 1° de la Ley para combatir la discriminación laboral contra las mujeres en condición de maternidad, N° 10211 del 5 de mayo de 2022)
-
-Ficha Artículo 96
 
 Artículo 97- Toda madre en periodo de lactancia deberá disponer de una hora, en jornada ordinaria, para alimentar a su bebé, en los lugares donde trabaje y durante sus horas laborales, de un intervalo, al día a elegir, de:
 
@@ -1344,15 +1159,11 @@ En casos de adopción, la madre adoptante tendrá derecho a un periodo de lactan
 
 (Así reformado por el inciso b) del artículo 8° de la Ley para proteger, promover y apoyar la lactancia materna, N° 10895 del 7 de abril del 2026)
 
-Ficha Artículo 97
-
 Artículo 97bis- La persona empleadora deberá procurar, a la trabajadora en lactancia, espacios durante la jornada laboral para la extracción de leche, con un mínimo de 25 minutos cada 3 horas laborales. Estos periodos de lactancia podrán ser modificados según las necesidades fisiológicas de las madres lactantes con una certificación médica; estos periodos deberán computarse como tiempo de trabajo efectivo para efectos de su remuneración y no podrán ser considerados como periodos de lactancia, por lo que no son acumulables y utilizados para otro fin.
 
 En casos de pérdida del niño o niña, la madre podrá solicitar un periodo de extracción para realizar el cese del proceso de lactancia, con certificación médica que indique el tiempo que requiere para realizar el proceso sin perjuicio de su salud.
 
 (Así adicionado por el inciso c) del artículo 8° de la Ley para proteger, promover y apoyar la lactancia materna, N° 10895 del 7 de abril del 2026)
-
-Ficha Artículo 97 BIS
 
 ARTICULO 98.-
 
@@ -1360,13 +1171,9 @@ Cuando el trabajo se pague por unidad de tiempo, el valor de las prestaciones a 
 
 Cuando el trabajo se pague por unidad de obra, por tarea o a destajo, el valor del lapso destinado al descanso pre y post-natal se fijará de acuerdo con el salario devengado, durante los últimos noventa días o fracción de tiempo menor si no se hubiere ajustado dicho término, contados a partir del momento en que la trabajadora dejó sus labores; y el valor del tiempo diario destinado a la lactancia se determinará dividiendo el salario devengado en el respectivo período de pago por el número de horas efectivamente trabajadas, y estableciendo luego la equivalencia correspondiente.
 
-Ficha Artículo 98
-
 ARTICULO 99.-
 
 El subsidio durante los períodos inmediatamente anteriores y posteriores al parto se subordina al reposo de la trabajadora: podrá suspendérsele si la autoridad administrativa de trabajo comprueba, a instancia del patrono, que ésta, fuera de las labores domésticas compatibles con su estado, se dedica a otros trabajos remunerados.
-
-Ficha Artículo 99
 
 Artículo 100- Toda persona empleadora, que tenga en su establecimiento madres en periodo de lactancia, quedará obligada a acondicionar un espacio de lactancia ideal, con el propósito de que las madres amamanten sin peligro a sus hijos y puedan extraerse la leche y almacenarla en un espacio adecuado, en su lugar de trabajo.
 
@@ -1375,8 +1182,6 @@ Este acondicionamiento deberá garantizar privacidad e higiene, dentro de las po
 Deberá proporcionarse, igualmente, un espacio dentro de sus instalaciones, que garantice poder extraerse la leche y almacenarla en un espacio adecuado en su lugar de trabajo.
 
 (Así reformado por el inciso e) del artículo 8° de la Ley para proteger, promover y apoyar la lactancia materna, N° 10895 del 7 de abril del 2026)
-
-Ficha Artículo 100
 
 CAPÍTULO OCTAVO
 
@@ -1390,8 +1195,6 @@ Las condiciones de trabajo, así como las labores específicas por realizarse, i
 
 (Así reformado por el artículo 1° de la ley N° 8726 del 2 de julio de 2009)
 
-Ficha Artículo 101
-
 Artículo 102.-
 
 El período de prueba en el trabajo doméstico será de tres meses, durante los cuales, sin responsabilidad, ambas partes podrán ponerle término a la relación laboral. Una vez concluido este período y durante nueve meses más, la parte que desee poner término al contrato deberá avisar a la otra con quince días de anticipación.
@@ -1402,19 +1205,13 @@ Durante el período de preaviso, la persona empleadora le concederá a la person
 
 (Así reformado por el artículo 1° de la ley N° 8726 del 2 de julio de 2009)
 
-Ficha Artículo 102
-
 ARTICULO 103.-(Derogado por el artículo 2° de la ley N° 8726 del 2 de julio de 2009)
-
-Ficha Artículo 103
 
 Artículo 104.-
 
 Las personas empleadoras del trabajo doméstico remunerado estarán obligadas a garantizar la seguridad social de las personas trabajadoras, y a inscribirlas en la Caja Costarricense de Seguro Social, dentro de los ocho días hábiles siguientes al inicio de sus labores, de conformidad con el artículo 44 de la Ley constitutiva de la Caja Costarricense de Seguro Social y sus Reglamentos, así como a otorgarle un seguro de riesgo de trabajo, de conformidad con los artículos 193, 201, siguientes y concordantes de este Código.
 
 (Así reformado por el artículo 1° de la ley N° 8726 del 2 de julio de 2009)
-
-Ficha Artículo 104
 
 Artículo 105.-
 
@@ -1436,23 +1233,17 @@ e) En caso de incapacidad temporal originada por enfermedades, riesgo profesiona
 
 (Así reformado por el artículo 1° de la ley N° 8726 del 2 de julio de 2009)
 
-Ficha Artículo 105
-
 Artículo 106.-
 
 Si el contrato de las personas trabajadoras domésticas concluye por despido injustificado, por renuncia originada en faltas graves de las personas empleadoras o de las personas que habitan con ellos, por muerte o fuerza mayor, la persona trabajadora o, en su caso, los derecho-habientes a que se refiere el artículo 85 de este Código tendrán derecho a una indemnización, de acuerdo con las reglas establecidas en el artículo 29 de esta Ley. En el caso de jornadas inferiores a la ordinaria, estos derechos se mantendrán proporcionalmente, igualmente para las personas menores de edad, de acuerdo con el Código de la Niñez y la Adolescencia.
 
 (Así reformado por el artículo 1° de la ley N° 8726 del 2 de julio de 2009)
 
-Ficha Artículo 106
-
 Artículo 107.-
 
 Las disposiciones de este Código, así como las leyes supletorias o conexas, se aplicarán, salvo disposiciones en contrario, al régimen del trabajo doméstico remunerado en lo no previsto por el presente capítulo.
 
 (Así reformado por el artículo 1° de la ley N° 8726 del 2 de julio de 2009)
-
-Ficha Artículo 107
 
 Artículo 108.-
 
@@ -1464,8 +1255,6 @@ Asimismo, se regirán por el Convenio 182, el Convenio 138 y la Recomendación 1
 
 (Así reformado por el artículo 1° de la ley N° 8726 del 2 de julio de 2009)
 
-Ficha Artículo 108
-
 CAPITULO NOVENO
 
 De los trabajadores a domicilio
@@ -1473,8 +1262,6 @@ De los trabajadores a domicilio
 ARTICULO 109.-
 
 Trabajadores a domicilio son los que elaboran artículos en su hogar u otro sitio elegido libremente por ellos, sin la vigilancia o la dirección inmediata del patrono o del representante de éste.
-
-Ficha Artículo 109
 
 ARTICULO 110.-
 
@@ -1484,13 +1271,9 @@ Además hará imprimir comprobantes por duplicado, que le firmará el trabajador
 
 (El nombre de la Oficina fue así reformado por el artículo 1, inciso k) de la ley No.3372 del 6 de agosto de 1964. El nombre de Ministerio fue así reformado por el artículo 2 de la ley No.5089 del 18 de octubre de 1972)
 
-Ficha Artículo 110
-
 ARTICULO 111.-
 
 Los trabajos defectuosos o el evidente deterioro de materiales autorizan al patrono para retener hasta la décima parte del salario que perciban los trabajadores a domicilio, mientras se discuten y declaran las responsabilidades consiguientes.
-
-Ficha Artículo 111
 
 ARTICULO 112.-
 
@@ -1500,13 +1283,9 @@ En ningún caso podrán ser inferiores a las que se paguen por iguales obras en 
 
 El patrono que infrinja esta disposición será obligado en sentencia a cubrir a cada trabajador una indemnización fija de cien colones.
 
-Ficha Artículo 112
-
 ARTICULO 113.-
 
 Las autoridades sanitarias o de trabajo prohibirán la ejecución de labores a domicilio, mediante notificación formal que harán al patrono y al trabajador, cuando en el lugar de trabajo imperen condiciones marcadamente antihigiénicas, o se presente un caso de tuberculosis o de enfermedad infecto-contagiosa. A la cesación comprobada de estas circunstancias, o a la salida o restablecimiento del enfermo y debida desinfección del lugar, se otorgará permiso de reanudar el trabajo.
-
-Ficha Artículo 113
 
 CAPITULO DECIMO
 
@@ -1514,19 +1293,11 @@ Del trabajo de los aprendices
 
 ARTICULO 114.- .-(Derogado por el artículo 29° de la Ley de Aprendizaje, N° 4903 de 17 de noviembre de 1971)
 
-Ficha Artículo 114
-
 ARTICULO 115.- (Derogado por el artículo 29° de la Ley de Aprendizaje, N° 4903 de 17 de noviembre de 1971)
-
-Ficha Artículo 115
 
 ARTICULO 116.- (Derogado por el artículo 29° de la Ley de Aprendizaje, N° 4903 de 17 de noviembre de 1971)
 
-Ficha Artículo 116
-
 ARTICULO 117.-(Derogado por el artículo 29° de la Ley de Aprendizaje, N° 4903 de 17 de noviembre de 1971)
-
-Ficha Artículo 117
 
 CAPITULO UNDECIMO
 
@@ -1538,13 +1309,9 @@ Trabajadores del mar y de las vías navegables son los que prestan servicios pro
 
 Se entenderán por servicios propios de la navegación todos aquéllos necesarios para la dirección, maniobras y servicio del barco.
 
-Ficha Artículo 118
-
 ARTICULO 119.-
 
 El capitán de la nave se considerará, para todos los efectos legales, como representante del patrono, si él mismo no lo fuere; y gozará también del carácter de autoridad en los casos y con las facultades que las leyes comunes le atribuyan.
-
-Ficha Artículo 119
 
 Artículo 120.—Todo pescador deberá firmar un contrato de enrolamiento con el armador del barco de pesca o su representante legal autorizado. Se entenderá como pescador toda persona que vaya a ser empleada o contratada a bordo de cualquier barco de pesca, en cualquier calidad, que figure en el rol de la tripulación.
 
@@ -1560,8 +1327,6 @@ Asimismo, a la Dirección Nacional de Empleo le corresponde diseñar y expedir u
 
 (Así reformado por el artículo 173 de la Ley de Pesca y Acuicultura, N° 8436 de 1° de marzo de 2005)
 
-Ficha Artículo 120
-
 Artículo 120 bis.—La Dirección Nacional de Empleo del Ministerio de Trabajo y Seguridad Social, en coordinación con el Consejo de Salud Ocupacional, la Dirección Nacional de Inspección de Trabajo, el Instituto Costarricense de Pesca y Acuicultura, la Dirección de Seguridad Marítima y Portuaria del Ministerio de Obras Públicas y Transportes, deberán prever todas las demás formalidades y garantías concernientes a la celebración del contrato de enrolamiento que se consideren necesarias para proteger los intereses del pescador y el adecuado cumplimiento de las obligaciones contractuales a cargo del armador del barco de pesca, en relación con esos contratos.
 
 La Dirección de la Inspección General de Trabajo, en el ejercicio de su potestad de fiscalización, está compelida a actuar de oficio o por denuncia de parte interesada, en la estricta aplicación y fiel cumplimiento de la normativa en mención, procediendo a realizar a sus infractores las inspecciones y prevenciones que corresponda. Constatado el hecho infractor, otorgará el plazo de ley, a fin de que el empleador cese el acto prevenido y restituya las condiciones de normalidad que se extrañan. En caso de desacato, reticencia o renuencia a cumplir lo exigido, se interpondrá la acción correspondiente ante los tribunales de trabajo competentes.
@@ -1576,19 +1341,13 @@ Prohíbese el empleo de niños menores de dieciséis años para prestar servicio
 
 (Así adicionado por el artículo 173 de la Ley de Pesca y Acuicultura, N° 8436 de 1° de marzo de 2005)
 
-Ficha Artículo 120 BIS
-
 ARTICULO 121.-
 
 Será siempre obligación del patrono restituir al trabajador al lugar o puerto que cada modalidad de contrato establece el artículo anterior, antes de darlo por concluido. No se exceptúa el caso de siniestro, pero si el de prisión impuesta al trabajador por delito cometido en el extranjero y otros análogos que denoten imposibilidad absoluta de cumplimiento.
 
-Ficha Artículo 121
-
 ARTICULO 122.-
 
 Si una nave costarricense cambiare de nacionalidad o pereciere por naufragio, se tendrán por concluidos todos los contratos de embarco a ella relativos en el momento en que se cumpla la obligación de que habla el artículo 121. En el primer caso, los trabajadores tendrán derecho al importe de tres meses de salario, salvo que las indemnizaciones legales fueren mayores; y en el segundo caso, a un auxilio de cesantía equivalente a dos meses de salario, salvo que el artículo 29 les diere facultad de reclamar uno mayor.
-
-Ficha Artículo 122
 
 ARTICULO 123.-
 
@@ -1596,31 +1355,21 @@ No podrán las partes dar por concluido ningún contrato de embarco, ni aun por 
 
 Sin embargo, si estando la nave en cualquier puerto, el capitán encontrare sustituto para el trabajador que desea dejar sus labores, podrá éste dar por concluido su contrato, ajustándose a las prescripciones legales.
 
-Ficha Artículo 123
-
 ARTICULO 124.-
 
 El cambio de capitán por otro que no sea garantía de seguridad, de aptitud y de acertada dirección, o la variación del destino de la nave, serán también causas justas para que los trabajadores den por terminados sus contratos.
-
-Ficha Artículo 124
 
 ARTICULO 125.-
 
 Tomando en cuenta la naturaleza de las labores que cada trabajador desempeñe, la menor o mayor urgencia de éstas en caso determinado, la circunstancia de estar la nave en el puerto o en el mar y los demás factores análogos que sean de su interés, las partes gozarán, dentro de los límites legales, de una amplia libertad para fijar lo relativo a jornadas, descansos, turnos, vacaciones y otras de índole semejante.
 
-Ficha Artículo 125
-
 ARTICULO 126.-
 
 Los trabajadores contratados por viaje tienen derecho a un aumento proporcional de sus salarios en caso de prolongación o retardo del viaje, salvo que esto se debiere a fuerza mayor o a caso fortuito. No se hará reducción de salarios si el viaje se acortare, cualquiera que fuere la causa.
 
-Ficha Artículo 126
-
 ARTICULO 127.-
 
 La nave con sus máquinas, aparejos, pertrechos y fletes estará afectada a la responsabilidad del pago de los salarios e indemnizaciones que correspondan a los trabajadores.
-
-Ficha Artículo 127
 
 ARTICULO 128.-
 
@@ -1628,15 +1377,11 @@ Por el solo hecho de abandonar voluntariamente su trabajo mientras la nave esté
 
 El patrono repartirá a prorrata entre los restantes trabajadores el monto de los referidos salarios, si no hubiere recargo de labores; y proporcionalmente entre los que hicieren las veces del cesante, en el caso contrario.
 
-Ficha Artículo 128
-
 ARTICULO 129.-
 
 El trabajador que sufriere de alguna enfermedad mientras la nave esté en viaje, tendrá derecho a ser atendido por cuenta del patrono, tanto a bordo como en tierra, con goce de la mitad de su sueldo, y a ser restituido cuando haya sanado, de acuerdo con lo dispuesto por los artículos 120 y 121, si así lo pidiere.
 
 Los casos comprendidos por la Ley de Seguro Social y las disposiciones sobre riesgos profesionales se regirán de acuerdo con lo que ellas dispongan.
-
-Ficha Artículo 129
 
 ARTICULO 130.-
 
@@ -1648,19 +1393,13 @@ Si el contrato fue por viaje se considerará que ha ganado la mitad de su ajuste
 
 Si el ajuste se hizo a la parte, se pagará toda la que corresponda al trabajador cuando la muerte de éste sucediere después de comenzado el viaje. El patrono no estará obligado a ningún pago en el caso de que el fallecimiento ocurriere antes de la fecha en que normalmente debía salir el barco.
 
-Ficha Artículo 130
-
 ARTICULO 131.-
 
 Si la muerte del trabajador ocurriere en defensa de la nave o si fuere apresado por el mismo motivo, se le considerará presente hasta que concluya el viaje para devengar los salarios a que tendrá derecho conforme a su contrato.
 
-Ficha Artículo 131
-
 ARTICULO 132.-
 
 Será ilícita la huelga que declaren los trabajadores cuando la embarcación se encontrare navegando o fondeada fuera del puerto.
-
-Ficha Artículo 132
 
 TITULO TERCERO
 
@@ -1674,11 +1413,7 @@ ARTICULO 133.-
 
 Lo dispuesto en los siguientes artículos de este Título es de observancia general, pero no excluye las soluciones especiales que para ciertas modalidades de trabajo se dan en otros Capítulos del presente Código, ni el convenio que con sujeción a los límites legales realicen las partes.
 
-Ficha Artículo 133
-
 ARTICULO 134.- (Derogado por el artículo 6º de la ley N° 7360 del 4 de noviembre de 1993)
-
-Ficha Artículo 134
 
 CAPITULO SEGUNDO
 
@@ -1687,8 +1422,6 @@ De la jornada de trabajo
 ARTICULO 135.-
 
 Es trabajo diurno el comprendido entre las cinco y las diecinueve horas, y nocturno el que se realiza entre las diecinueve y las cinco horas.
-
-Ficha Artículo 135
 
 ARTICULO 136.-
 
@@ -1700,8 +1433,6 @@ Las partes podrán contratar libremente las horas destinadas a descanso y comida
 
 (Nota de Sinalevi: Mediante el artículo 4° de ley N° 308 del 16 de diciembre de 1948, se habían suspendido los efectos del presente artículo y hasta la terminación de los conflictos bélicos de la época. No obstante, dicha suspensión quedó sin efecto con la celebración de las elecciones nacionales de los años 1948 y 1949)
 
-Ficha Artículo 136
-
 ARTICULO 137.-
 
 Tiempo de trabajo efectivo es aquél en que el trabajador permanezca a las órdenes del patrono o no pueda salir del lugar donde presta sus servicios durante las horas de descanso y comidas.
@@ -1710,13 +1441,9 @@ En todo caso se considerará como tiempo de trabajo efectivo el descanso mínimo
 
 (\*)(Así adicionado la frase anterior por el artículo 1° inciso c) de la ley N° 31 del 18 de noviembre de 1943)
 
-Ficha Artículo 137
-
 ARTICULO 138.-
 
 Salvo lo dicho en el artículo 136, la jornada mixta en ningún caso excederá de siete horas, pero se calificará de nocturna cuando se trabajen tres horas y media o más entre las diecinueve y las cinco horas.
-
-Ficha Artículo 138
 
 ARTICULO 139.-
 
@@ -1730,21 +1457,15 @@ El trabajo que fuera de la jornada ordinaria y durante las horas diurnas ejecute
 
 (Nota de Sinalevi: Mediante el artículo 4° de ley N° 308 del 16 de diciembre de 1948, se habían suspendido los efectos del presente artículo y hasta la terminación de los conflictos bélicos de la época. No obstante, dicha suspensión quedó sin efecto con la celebración de las elecciones nacionales de los años 1948 y 1949)
 
-Ficha Artículo 139
-
 ARTICULO 140.-
 
 La jornada extraordinaria, sumada a la ordinaria, no podrá exceder de doce horas, salvo que por siniestro ocurrido o riesgo inminente peligren las personas, los establecimientos, las máquinas o instalaciones, los plantíos, los productos o cosechas y que, sin evidente perjuicio, no puedan sustituirse los trabajadores o suspenderse las labores de los que están trabajando.
-
-Ficha Artículo 140
 
 ARTICULO 141.-
 
 En los trabajos que por su propia naturaleza son peligrosos o insalubres, no se permitirá la jornada extraordinaria.
 
 (Derogado el párrafo segundo original por el artículo 2° de la ley N° 25 del 17 de noviembre de 1944)
-
-Ficha Artículo 141
 
 ARTICULO 142.-
 
@@ -1754,8 +1475,6 @@ Los respectivos patronos estarán obligados a llevar un libro sellado y autoriza
 
 (El nombre de la Inspección fue así reformado por artículo 1, inciso f) de la Ley No.3372 de 6 de agosto de 1964)
 
-Ficha Artículo 142
-
 ARTICULO 143.-
 
 Quedarán excluidos de la limitación de la jornada de trabajo los gerentes, administradores, apoderados y todos aquellos empleados que trabajan sin fiscalización superior inmediata: los trabajadores que ocupan puestos de confianza; los agentes comisionistas y empleados similares que no cumplan su cometido en el local del establecimiento; los que desempeñan funciones discontinuas o que requieran su sola presencia; y las personas que realizan labores que por su indudable naturaleza no están sometidas a jornada de trabajo.
@@ -1764,13 +1483,9 @@ Sin embargo, estas personas no estarán obligadas a permanecer más de doce hora
 
 (Así reformado por el artículo 1º de la ley N° 2378 de 29 de setiembre de 1960 ).
 
-Ficha Artículo 143
-
 ARTICULO 144.-
 
 Los patronos deberán consignar en sus libros de salarios o planillas, debidamente separado de lo que se refiera a trabajo ordinario, lo que a cada uno de sus trabajadores paguen por concepto de trabajo extraordinario.
-
-Ficha Artículo 144
 
 ARTICULO 145.-
 
@@ -1778,11 +1493,7 @@ El Poder Ejecutivo, si de los estudios que haga el Ministerio de Trabajo y Segur
 
 (El nombre del Ministerio fue así reformado por la Ley No. 5089 de 18 de octubre de 1972)
 
-Ficha Artículo 145
-
 ARTICULO 146.- (Derogado por el artículo 1º de la ley N° 7679 de 17 de julio de 1997)
-
-Ficha Artículo 146
 
 CAPITULO TERCERO
 
@@ -1799,8 +1510,6 @@ ARTICULO 147.-
 Son hábiles para el trabajo, todos los días del año, excepto los feriados y los días de descanso semanal existentes por disposición legal o convenio entre las partes.
 
 (Así reformado por el artículo 1º de la ley N° 7619 de 24 de julio de 1996)
-
-Ficha Artículo 147
 
 Artículo 148.- Se considerarán días feriados y, por lo tanto, de pago obligatorio los siguientes: el 1° de enero, el 11 de abril, el Jueves y Viernes Santos, el 1° de mayo, el 25 de julio, el 15 de agosto, el 15 de setiembre y el 25 de diciembre. Los días 2 y 31 de agosto y el 1° de diciembre también se considerarán días feriados, pero su pago no será obligatorio.
 
@@ -1840,13 +1549,9 @@ Las actividades oficiales correspondientes a las conmemoraciones referidas para 
 
 (Así reformado por el artículo 2° de la ley N° 9803 del 19 de mayo del 2020, "Celebración nacional del 1° de diciembre como día de la abolición del ejército y día feriado de pago no obligatorio")
 
-Ficha Artículo 148
-
 ARTICULO 149.-
 
 Queda absolutamente prohibido a los patronos ocupar a sus trabajadores durante los días feriados; y el que lo hiciere sufrirá la multa de ley y deberá indemnizarlos en la forma que determina el párrafo segundo del artículo 152.
-
-Ficha Artículo 149
 
 ARTICULO 150.-
 
@@ -1870,8 +1575,6 @@ En el Cantón Central de San José, solamente podrán permanecer abiertos los do
 
 (Así reformado por el artículo 2° de la ley N° 2 del 10 de octubre de 1945)
 
-Ficha Artículo 150
-
 ARTICULO 151.-
 
 También se exceptúan de lo ordenado en el artículo 149 las personas que se ocupan exclusivamente:
@@ -1889,8 +1592,6 @@ e. En las labores no comprendidas en el presente y el anterior artículos, siemp
 (Así adicionado el inciso anterior por el artículo 1° de la ley N° 1090 del 29 de agosto de 1947)
 
 (Nota: Ver ley N° 7619 del 18 de julio de 1996, según la cual dejaron de ser días feriados el 19 de marzo , el día de Corpus Christi, el 29 de junio y el 8 de diciembre.)
-
-Ficha Artículo 151
 
 ARTICULO 152.-
 
@@ -1910,8 +1611,6 @@ Cuando se trate de aquellas labores comprendidas en el último caso del párrafo
 
 (El nombre del Ministerio fue así reformado por el artículo 1° de la Ley Nº 3372 de 6 de agosto de 1964)
 
-Ficha Artículo 152
-
 SECCION II
 
 De las vacaciones anuales:
@@ -1926,19 +1625,13 @@ No interrumpirán la continuidad del trabajo, las licencias sin goce de salario,
 
 (Así reformado por el artículo 1° de la ley N° 4302 de 16 de enero de 1969)
 
-Ficha Artículo 153
-
 ARTICULO 154.-
 
 El trabajador tendrá derecho a vacaciones aun cuando su contrato no le exija trabajar todas las horas de la jornada ordinaria ni todos los días de la semana.
 
-Ficha Artículo 154
-
 ARTICULO 155.-
 
 El patrono señalará la época en que el trabajador gozará de sus vacaciones, pero deberá hacerlo dentro de las quince semanas posteriores al día en que se cumplan las cincuenta de servicio continuo, tratando de que no se altere la buena marcha de su empresa, industria o negocio, ni la efectividad del descanso.
-
-Ficha Artículo 155
 
 Artículo 156.- Las vacaciones serán absolutamente incompensables, salvo las siguientes excepciones:
 
@@ -1954,15 +1647,11 @@ Sin perjuicio de lo establecido en los incisos anteriores, el patrono velará po
 
 (Así reformado por el artículo único de la ley N° 7989 del 16 de febrero del 2000)
 
-Ficha Artículo 156
-
 ARTICULO 157.-
 
 Para calcular el salario que el trabajador debe recibir durante sus vacaciones, se tomará el promedio de las remuneraciones ordinarias y extraordinarias devengadas por él durante la última semana o el tiempo mayor que determine el Reglamento, si el beneficiario prestare sus servicios en una explotación agrícola o ganadera; o durante las últimas cincuenta semanas si trabajare en una empresa comercial, industrial o de cualquier otra índole. Los respectivos términos se contarán, en ambos casos, a partir del momento en que el trabajador adquiera su derecho al descanso.
 
 (Así reformado por el artículo 1° de la ley N° 31 de 24 de noviembre de 1943).
-
-Ficha Artículo 157
 
 ARTICULO 158.-
 
@@ -1970,27 +1659,19 @@ Los trabajadores deben gozar sin interrupciones de su período de vacaciones. Es
 
 (Así reformado por el artículo 1° de la ley N° 2919 de 24 de noviembre de 1961)
 
-Ficha Artículo 158
-
 ARTICULO 159.-
 
 Queda prohibido acumular las vacaciones, pero podrán serlo por una sola vez cuando el trabajador desempeñare labores técnicas, de dirección, de confianza u otras análogas, que dificulten especialmente su reemplazo, o cuando la residencia de su familia quedare situada en provincia distinta del lugar donde presta sus servicios. En este último caso, si el patrono fuere el interesado de la acumulación, deberá sufragar al trabajador que desee pasar al lado de su familia las vacaciones, los gastos de traslado, en la ida y regreso respectivos.
 
-Ficha Artículo 159
-
 ARTICULO 160.-
 
 Las faltas injustificadas de asistencia al trabajo sólo podrán descontarse del período de vacaciones cuando se hubieren pagado al trabajador.
-
-Ficha Artículo 160
 
 ARTICULO 161.-
 
 De la concesión de vacaciones, así como de las acumulaciones que se pacten dentro de las previsiones del artículo 159, se dejará testimonio escrito a petición de patronos o de trabajadores.
 
 Tratándose de empresas particulares se presumirá, salvo prueba en contrario, que las vacaciones no han sido otorgadas si el patrono, a requerimiento de las autoridades de trabajo, no muestra la respectiva constancia firmada directamente por el interesado, o a su ruego por dos compañeros de labores, en el caso de que éste no supiere o no pudiere hacerlo.
-
-Ficha Artículo 161
 
 CAPITULO CUARTO
 
@@ -2000,19 +1681,13 @@ ARTICULO 162.-
 
 Salario o sueldo es la retribución que el patrono debe pagar al trabajador en virtud del contrato de trabajo.
 
-Ficha Artículo 162
-
 ARTICULO 163.-
 
 El salario se estipulará libremente, pero no podrá ser inferior al que se fije como mínimo, de acuerdo con las prescripciones de esta ley.
 
-Ficha Artículo 163
-
 ARTICULO 164.-
 
 El salario puede pagarse por unidad de tiempo (mes, quincena, semana, día u hora); por pieza, por tarea o a destajo; en dinero; en dinero y en especie; y por participación en las utilidades, ventas o cobros que haga el patrono.
-
-Ficha Artículo 164
 
 ARTICULO 165.-
 
@@ -2023,8 +1698,6 @@ Se exceptúan de la prohibición anterior las fincas dedicadas al cultivo del ca
 (Así adicionado el párrafo anterior por el artículo 1° de la ley N° 31 de 24 de noviembre de 1943).
 
 Las sanciones legales se aplicarán en su máximum cuando las órdenes de pago sólo fueren canjeables por mercaderías en determinados establecimientos.
-
-Ficha Artículo 165
 
 ARTICULO 166.-
 
@@ -2038,8 +1711,6 @@ No obstante lo dispuesto en los tres párrafos anteriores, no se computarán com
 
 (Así adicionado el párrafo anterior por el artículo 1° de la ley N° 31 de 24 de noviembre de 1943).
 
-Ficha Artículo 166
-
 ARTICULO 167.-
 
 Para fijar el importe del salario en cada clase de trabajo se tendrán en cuenta la cantidad y calidad del mismo.
@@ -2050,21 +1721,15 @@ A trabajo igual, desempeñado en puesto, jornada y condiciones de eficiencia igu
 
 No podrán establecerse diferencias por consideración a edad, sexo o nacionalidad.
 
-Ficha Artículo 167
-
 ARTICULO 168.-
 
 Las partes fijarán el plazo para el pago del salario, pero dicho plazo nunca podrá ser mayor de una quincena para los trabajadores manuales, ni de un mes para los trabajadores intelectuales y los servidores domésticos.
 
 Si el salario consistiere en participación en las utilidades, ventas o cobros que haga el patrono, se señalará una suma quincenal o mensual que debe recibir el trabajador, la cual será proporcionada a las necesidades de éste y al monto probable de las ganancias que le correspondieren. La liquidación definitiva se hará por lo menos anualmente.
 
-Ficha Artículo 168
-
 ARTICULO 169.-
 
 Salvo lo dicho en el párrafo segundo del artículo anterior, el salario debe liquidarse completo en cada período de pago. Para este efecto, y para el cómputo de todas las indemnizaciones que otorga este Código, se entiende por salario completo el devengado durante las jornadas ordinaria y extraordinaria.
-
-Ficha Artículo 169
 
 ARTICULO 170.-
 
@@ -2072,13 +1737,9 @@ Salvo convenio escrito en contrario, los pagos se verificarán en el lugar donde
 
 Podrá pagarse durante el trabajo o inmediatamente que éste cese, pero no en centros de vicio ni en lugares de recreo, venta de mercaderías o expendio de bebidas alcohólicas, a no ser que se trate del establecimiento donde se hace el pago.
 
-Ficha Artículo 170
-
 ARTICULO 171.-
 
 El salario se pagará directamente al trabajador o a la persona de su familia que él indique por escrito, una vez hechas las deducciones y retenciones autorizadas por el presente Código y sus leyes conexas.
-
-Ficha Artículo 171
 
 ARTICULO 172.-
 
@@ -2096,8 +1757,6 @@ En caso de simulación de embargo se podrá demostrara la misma en incidente cre
 
 (Así reformado por el artículo 2º de la ley N° 6159 de 25 de noviembre de 1977).
 
-Ficha Artículo 172
-
 ARTICULO 173.-
 
 El anticipo que haga el Patrono al trabajador para inducirlo a aceptar el empleo se limitará, respecto a su cuantía, a una cuarta parte del salario mensual convenido; cuando exceda del límite fijado será legalmente incobrable y no podrá ser recuperado posteriormente compensándolo con las cantidades que se adeuden al trabajador.
@@ -2105,8 +1764,6 @@ El anticipo que haga el Patrono al trabajador para inducirlo a aceptar el empleo
 Las deudas que el trabajador contraiga con el patrono por concepto de anticipos o por pagos hechos en exceso, se amortizarán durante la vigencia del contrato en un mínimo de cuatro períodos de pago y no devengarán intereses. Es entendido que al terminar el contrato el Patrono podrá hacer la liquidación definitiva que proceda.
 
 (Así reformado por el artículo 2° de la ley N° 3636 de 16 de diciembre de 1965, "Ratifica Convenio OIT Nº 117 Sobre Normas de Política Social")
-
-Ficha Artículo 173
 
 ARTICULO 174.-
 
@@ -2116,13 +1773,9 @@ Quedan a salvo las operaciones legales que se hagan con las cooperativas o con l
 
 (Así reformado por el artículo 2º de la ley N° 4418 de 22 de setiembre de 1969)
 
-Ficha Artículo 174
-
 ARTICULO 175.-
 
 En los casos a que se refiere el concepto segundo del artículo 33, se hará extensivo el privilegio que ahí se establece a los créditos por salarios devengados, sin limitación de suma ni de tiempo trabajado, ya sea que el trabajador continúe o no prestando sus servicios.
-
-Ficha Artículo 175
 
 ARTICULO 176.-
 
@@ -2132,8 +1785,6 @@ Todo patrono que ocupe permanentemente a tres o más trabajadores, sin llegar al
 
 (Los nombres fueron así reformados por las leyes Nº 3372 de 6 de agosto de 1964 y Nº 5089 de 18 de octubre de 1972).
 
-Ficha Artículo 176
-
 CAPITULO QUINTO
 
 Del salario mínimo
@@ -2142,15 +1793,11 @@ ARTICULO 177.-
 
 Todo trabajador tiene derecho a devengar un salario mínimo que cubra las necesidades normales de su hogar en el orden material, moral y cultural, el cual se fijará periódicamente, atendiendo a las modalidades de cada trabajo, a las particulares condiciones de cada región y de cada actividad intelectual, industrial, comercial, ganadera o agrícola
 
-Ficha Artículo 177
-
 ARTICULO 178.-
 
 Los salarios mínimos que se fijen conforme a la ley regirán desde la fecha de vigencia del Decreto respectivo para todos los trabajadores, con excepción de los que sirven al Estado, sus Instituciones y Corporaciones Municipales y cuya remuneración esté específicamente determinada en el correspondiente presupuesto público. Sin embargo, aquél y éstas harán anualmente, al elaborar sus respectivos presupuestos ordinarios, las rectificaciones necesarias a efecto de que ninguno de sus trabajadores devengue salario inferior al mínimo que le corresponda.
 
 (Así reformado por el artículo 2° de la ley N° 3372 de 6 de agosto de 1964)
-
-Ficha Artículo 178
 
 ARTICULO 179.-
 
@@ -2158,59 +1805,31 @@ La fijación del salario mínimo modifica automáticamente los contratos de trab
 
 (Así reformado por el artículo 2° de la ley Nº 3372 de 6 de agosto de 1964, que primero lo deroga y luego traslada el 191 al presente numeral 179)
 
-Ficha Artículo 179
-
 ARTICULO 180.- (Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)
-
-Ficha Artículo 180
 
 ARTICULO 181.- (Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)
 
-Ficha Artículo 181
-
 ARTICULO 182.-(Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)
-
-Ficha Artículo 182
 
 ARTICULO 183.-(Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)
 
-Ficha Artículo 183
-
 ARTICULO 184.-(Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)
-
-Ficha Artículo 184
 
 ARTICULO 185.-(Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)
 
-Ficha Artículo 185
-
 ARTICULO 186.-(Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)
-
-Ficha Artículo 186
 
 ARTICULO 187.-(Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)
 
-Ficha Artículo 187
-
 ARTICULO 188.-(Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)
-
-Ficha Artículo 188
 
 ARTICULO 189.-(Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)
 
-Ficha Artículo 189
-
 ARTICULO 190.- (Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)
-
-Ficha Artículo 190
 
 ARTICULO 191.- (Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)
 
-Ficha Artículo 191
-
 ARTICULO 192.- (Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)
-
-Ficha Artículo 192
 
 TITULO CUARTO
 
@@ -2230,8 +1849,6 @@ La responsabilidad del patrono, en cuanto a asegurar contra riesgos del trabajo,
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 193
-
 ARTICULO 194.-
 
 Sin perjuicio de que, a solicitud del interesado se pueda expedir el seguro contra riesgos del trabajo, estarán excluidos de las disposiciones de este Título:
@@ -2241,8 +1858,6 @@ La actividad laboral familiar de personas físicas, entendida ésta como la que 
 Los trabajadores que realicen actividades por cuenta propia, entendidos como los que trabajan solos o asociados, en forma independiente, y que no devengan salario.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 194
 
 ARTÍCULO 194 bis- El Instituto Nacional de Seguros emitirá un seguro de riesgos del trabajo especial, que cubra únicamente los siniestros por envenenamiento por mordeduras de serpiente, sufridos con ocasión o por consecuencia de las labores que realicen las personas trabajadoras agrícolas independientes y que no tengan suscrito el seguro de riesgos del trabajo.
 
@@ -2262,15 +1877,11 @@ Este seguro, será al costo, funcionará bajo las condiciones, coberturas y requ
 
 (Así adicionado por el artículo único de la Ley para garantizar la cobertura universal del seguro de riesgos del trabajo a las personas trabajadoras independientes afectadas por mordeduras de serpientes, N° 10150 del 16 de marzo de 2022)
 
-Ficha Artículo 194 BIS
-
 ARTICULO 195.-
 
 Constituyen riesgos del trabajo los accidentes y las enfermedades que ocurran a los trabajadores, con ocasión o por consecuencia del trabajo que desempeñen en forma subordinada y remunerada, así como la agravación o reagravación que resulte como consecuencia directa, inmediata e indudable de esos accidentes y enfermedades.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 195
 
 ARTICULO 196.-
 
@@ -2288,15 +1899,11 @@ ch) En cualquiera de los eventos que define el inciso e) del articulo 71 del pre
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 196
-
 ARTICULO 197.-
 
 Se denomina enfermedad del trabajo a todo estado patológico, que resulte de la acción continuada de una causa, que tiene su origen o motivo en el propio trabajo o en el medio y condiciones en que el trabajador labora, y debe establecerse que éstos han sido la causa de la enfermedad.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 197
 
 ARTICULO 198.-
 
@@ -2305,8 +1912,6 @@ Cuando el trabajo que se ejecuta actúe directamente como factor desencadenante,
 En los demás casos en que se agraven las consecuencias de un riesgo de trabajo, sin que se determine incapacidad parcial o total permanente. La incapacidad resultante se valorará de acuerdo con el dictamen médico sobre las consecuencias que, presumiblemente, el riesgo hubiera ocasionado al trabajador, sin la existencia de los citados factores preexistentes, pudiendo aumentar el porcentaje de incapacidad permanente que resulte, hasta en un diez por ciento de la capacidad general.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 198
 
 Artículo 198 bis.—Compete al Consejo de Seguridad Ocupacional como organismo técnico del Ministerio de Trabajo y Seguridad Social, establecer los manuales, los catálogos, las listas de dispositivos de seguridad, el equipo de protección y de la salud ocupacional de la actividad pesquera en general.
 
@@ -2322,8 +1927,6 @@ Será responsabilidad de INCOPESCA verificar que las normas de seguridad naciona
 
 (Así adicionado por el artículo 174 de la Ley de Pesca y Acuicultura, N° 8436 de 1° de marzo de 2005)
 
-Ficha Artículo 198 BIS
-
 ARTICULO 199.-
 
 No constituyen riesgos del trabajo cubiertos por este Título, los que se produzcan en las siguientes circunstancias, previa la comprobación correspondiente:
@@ -2336,8 +1939,6 @@ Salvo que exista prescripción médica y siempre que haya una relación de causa
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 199
-
 ARTICULO 200.-
 
 Para los efectos de este Título, se consideran trabajadores los aprendices y otras personas semejantes aunque, en razón de su falta de pericia, no reciban salario.
@@ -2348,8 +1949,6 @@ Los trabajadores extranjeros, y sus derecho habientes, gozarán de los beneficio
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 200
-
 Artículo 200 bis- Tendrán derecho a la protección del seguro dispuesto en este título, los estudiantes de los programas de educación y formación técnica dual.
 
 Dicho seguro será con cargo a las empresas o centros de formación para la empleabilidad de tal programa y se denominará, para efectos de la protección dispuesta en este artículo, Seguro de Riesgos de Trabajo Especial para Formación Técnica Dual.
@@ -2357,8 +1956,6 @@ Dicho seguro será con cargo a las empresas o centros de formación para la empl
 Es entendido que el derecho referido no configura relación laboral entre el estudiante y el tomador del seguro.
 
 (Así adicionado por el artículo 32 de la ley N° 9728 del 12 se setiembre del 2019, "Educación y Formación Técnica Dual")
-
-Ficha Artículo 200 BIS
 
 CAPITULO SEGUNDO
 
@@ -2368,15 +1965,11 @@ En beneficio de los trabajadores, declárase obligatorio, universal y forzoso el
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 201
-
 ARTICULO 202.-
 
 Prohíbese a los funcionarios, empleados, personeros o apoderados del Estado, suscribir contratos u otorgar permisos para la realización de trabajos, sin la previa presentación, por parte de los interesados, del seguro contra los riesgos del trabajo.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 202
 
 ARTICULO 203.-
 
@@ -2384,15 +1977,11 @@ Los inspectores, con autoridad, de las municipalidades, del Ministerio de Trabaj
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 203
-
 ARTICULO 204.-
 
 Los riesgos del trabajo serán asegurados, exclusivamente, por el Instituto Nacional de Seguros, a cargo del patrono, y a favor de sus trabajadores. Se autoriza el Instituto Nacional de seguros a emitir recibos pólizas, para acreditar la existencia de este seguro.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 204
 
 ARTICULO 205.-
 
@@ -2401,8 +1990,6 @@ El seguro de riesgos del trabajo será administrado sobre las bases técnicas qu
 La institución aseguradora hará liquidaciones anuales, que incluyan la formación de las reservas técnicamente necesarias, para establecer los resultados del ejercicio económico transcurrido. Si se presentaren excedentes, éstos pasarán a ser parte de una reserva de reparto, que se destinará, en un 50%, a financiar los programas que desarrolle el Consejo de Salud Ocupacional y el resto a incorporar mejoras al régimen.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 205
 
 ARTICULO 206.-
 
@@ -2414,8 +2001,6 @@ El trabajador podrá plantear administrativamente, cualquier disconformidad, en 
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 206
-
 ARTICULO 207.-
 
 Únicamente para los efectos de poder delimitarse la responsabilidad subrogada por la institución aseguradora, en virtud del seguro de riesgos del trabajo, se entenderá que la vigencia de éste se inicia al ser pagada la prima provisional o definitiva que se fije, extendiéndose la cobertura hasta el día de la expiración del seguro. Sin embargo, esta vigencia cesará, en forma automática, en los siguientes casos:
@@ -2426,23 +2011,17 @@ Por la falta de pago de cualquier prima o fracción de las misma.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 207
-
 ARTICULO 208.-
 
 El sistema tarifario y las modalidades de pago del seguro de riesgos del trabajo serán establecidos sobre la base técnica que disponga el Instituto Nacional de Seguros. El Instituto publicará, anualmente, en el Diario Oficial, las normas de aseguramiento, costo promedio de la estancia hospitalaria y la estructura de las prestaciones vigentes, así como los balances y estados del último ejercicio.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 208
-
 ARTICULO 209.-
 
 Se impondrán las sanciones legales correspondientes, al patrono que omita el envío regular de planillas al Instituto Nacional de Seguros.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 209
 
 ARTICULO 210.-
 
@@ -2452,8 +2031,6 @@ El patrono garantiza la veracidad de las declaraciones y responderá por las con
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 210
-
 ARTICULO 211.-
 
 Cualquier cambio o variación en la naturaleza, condiciones o lugar de los trabajos, cubiertos por seguro asumido por el Instituto Nacional de Seguros, que agraven las condiciones de riesgos, deberá ser puesto en conocimiento del Instituto, el cual podrá aplicar la prima que corresponda, de acuerdo con la variante que se produzca.
@@ -2462,23 +2039,17 @@ No tendrá validez ningún cambio, alteración o traspaso de los términos del s
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 211
-
 ARTICULO 212.-
 
 El seguro contra riesgos del trabajo será renovado por el patrono, para cada nuevo período de vigencia, mediante el pago de la prima que corresponda. Las condiciones del contrato de seguro podrán ser modificadas, considerando la frecuencia y gravedad de los infortunios ocurridos, y cualesquiera otras circunstancias prevalecientes en el momento de la renovación.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 212
-
 ARTICULO 213.-
 
 El seguro ampara los riesgos del trabajo, que ocurran dentro del territorio nacional, que comprende, además del natural o geográfico, el mar territorial, el espacio aéreo que los cubre y la plataforma continental. No obstante, el Instituto Nacional de Seguros extenderá la cobertura fuera del país, cuando se tratare de empresas o actividades que, por su índole, deban realizarse, ocasional o permanentemente, fuera del ámbito geográfico de la República.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 213
 
 ARTICULO 214.-
 
@@ -2496,25 +2067,17 @@ Adoptar las medidas preventivas que señalen las autoridades competentes, confor
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 214
-
 ARTICULO 215.- Cuando el patrono se negare, injustificadamente, a cumplir lo dispuesto en el inciso d) del artículo anterior, el Instituto Nacional de Seguros podrá recargar el monto de la prima del seguro, hasta en un 50%, en la forma y condiciones que determine el reglamento de la ley.
 
 ( Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo Nº 6727 de 9 de marzo de 1982.)
-
-Ficha Artículo 215
 
 ARTICULO 216.- Sin perjuicio de lo señalado en los artículos 201, 206, 221, 231 y 232, el seguro contra los riesgos del trabajo cubrirá sólo a los trabajadores del patrono asegurado que se indican en la solicitud del seguro, o a los que se incluyan en las planillas presentadas antes de que ocurra el riesgo y a los que se informaron por escrito como tales de previo al infortunio.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 216
-
 ARTICULO 217.- Podrán ser asegurados contra los riesgos del trabajo, los trabajadores a quienes en oportunidad precedente se les haya fijado algún tipo de incapacidad permanente, como consecuencia de un infortunio laboral, en el entendido de que el porcentaje de incapacidad permanente anterior, quedará excluido de la fijación de impedimento, sobre el mismo órgano o función, por cualquier riesgo sobreviviente.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 217
 
 CAPITULO TERCERO
 
@@ -2536,15 +2099,11 @@ Readaptación, reubicación y rehabilitación laboral que sea factible otorgar, 
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 218
-
 ARTICULO 219.- Cuando el riesgo del trabajo ocasionare la muerte al trabajador se reconocerá una suma global para cubrir gastos de entierro, que se determinará en el reglamento de la ley.
 
 Si la muerte ocurriera en el lugar distinto al de la residencia habitual del trabajador, se reconocerá, para gastos de traslado del cadáver, una suma que se fijará en el reglamento de la ley. Para gastos de entierro, la suma no será menor de tres mil colones, para gastos de traslado del cadáver, no será inferior a un mil colones. Ambas sumas serán revisadas por vía reglamentaria, cuando las circunstancias así lo exijan, en un plazo no mayor de dos años.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 219
 
 ARTICULO 220.- Cuando ocurra un riesgo del trabajo, todo patrono está obligado a procurar al trabajador, de inmediato, el suministro de las prestaciones médico-sanitarias que su estado requiera, sin perjuicio de la obligación que tiene de brindarle los primeros auxilios, para lo cual, en cada centro de trabajo deberá instalarse un botiquín de emergencia, con los artículos y medicamentos que disponga el reglamento de esta ley.
 
@@ -2554,15 +2113,11 @@ Excepto en lo referente al botiquín de emergencia, y siempre que se le comuniqu
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 220
-
 ARTICULO 221.- Todo patrono está obligado a notificar, al Instituto Nacional de Seguros, los riesgos del trabajo que ocurran a los trabajadores bajo su dirección y dependencia. La notificación deberá realizarla en un plazo no mayor de ocho días hábiles, contados a partir del momento en que ocurra el riesgo.
 
 Si el trabajador no estuviera asegurado contra los riesgos del trabajo, el Instituto le otorgará todas las prestaciones que le hubiesen correspondido de haber estado asegurado. El Instituto conservará el derecho de accionar contra el patrono, por el cobro de los gastos en que haya incurrido ante esa eventualidad.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 221
 
 ARTICULO 222.- La notificación, a que se refiere el artículo anterior, contendrá los siguientes datos:
 
@@ -2579,8 +2134,6 @@ Nombre y apellidos de los parientes más cercanos o dependientes del trabajador,
 Cualesquiera otros datos que se consideren de interés.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 222
 
 CAPITULO CUARTO
 
@@ -2607,8 +2160,6 @@ d. Gran invalidez; ocurre cuando el trabajador ha quedado con incapacidad total 
 e. La muerte.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 223
 
 CAPITULO QUINTO
 
@@ -5778,21 +5329,15 @@ Si la enfermedad incapacita para cualquier trabajo, se declarará la incapacidad
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 224
-
 ARTICULO 225.- Toda enfermedad del trabajo debe tratarse y curarse cuantas veces sea necesario, antes de establecerse incapacidad permanente. En caso de llegarse a determinar la imposibilidad de curación, o cuando el trabajador se haya sensibilizado al agente que le produjo la enfermedad, se procederá a establecer incapacidad permanente.
 
 El Poder Ejecutivo, habiendo oído de previo a la Junta Directiva del Instituto asegurador, podrá dictar, por vías de reglamento, las tablas de enfermedades profesionales que darán derecho a una indemnización, sin perjuicio de que los tribunales de trabajo conceptúen otras enfermedades no enumeradas en el decreto o decretos respectivos, comprendidas dentro de las previsiones del párrafo anterior.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 225
-
 ARTICULO 226.- Las lesiones que sin producir impedimentos acarreen alguna mutilación, cicatriz o desfiguración de la víctima, se equipararán para los efectos de las prestaciones en dinero, según su gravedad, a la incapacidad permanente, sin perjuicio de lo establecido en el artículo 224 para las cicatrices retráctiles que no pueden ser resueltas quirúrgicamente.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 226
 
 ARTICULO 227.- Se considerarán hernias del trabajo aquellas relacionadas con un traumatismo violento sufrido en el trabajo, que ocasione las dolencias típicas que médicamente les son atribuibles.
 
@@ -5802,8 +5347,6 @@ Para la calificación concreta, en cada caso, se tomarán en cuenta los antecede
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 227
-
 CAPITULO SEXTO
 
 Artículo 228.- Las instituciones públicas suministrarán al Instituto Nacional de Seguros la atención médico-quirúrgica-hospitalaria y de rehabilitación que este requiera para la administración del régimen de riesgos del trabajo. La fijación de los costos se hará con base en los informes presentados por las instituciones públicas, tomando en cuenta el criterio del ente asegurador. En caso de discrepancia se aplicarán las reglas establecidas en la Ley general de la Administración Pública, para determinar el costo definitivo de los servicios.
@@ -5812,19 +5355,13 @@ El pago de los servicios asistenciales que el Instituto asegurador solicite se h
 
 (Así reformado por el artículo 1° de la ley N° 8823 del 5 de mayo de 2010, "Reforma varias leyes sobre la participación de la Contraloría General de la República para la simplificación y el Fortalecimiento de la Gestión Pública")
 
-Ficha Artículo 228
-
 ARTICULO 229.- El trabajador que sufra un riesgo del trabajo deberá someterse a las prestaciones médico-sanitarias y de rehabilitación que disponga y le suministre el Instituto Nacional de Seguros.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 229
-
 ARTICULO 230.- En caso de emergencia, el trabajador que haya sufrido un riesgo cubierto por el seguro a que se refiere esta ley, podrá ser atendido por cualquier profesional o centro de salud, público o privado, por cuenta del ente asegurador, según la tarifa establecida. Tan pronto como sea posible el trabajador sometido a tratamiento será trasladado a donde corresponda, según los reglamentos o disposiciones del ente asegurador.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 230
 
 ARTICULO 231.- Si el patrono no hubiere asegurado al trabajador contra los riesgos del trabajo, el pago de todas las prestaciones señaladas en los artículos 218 y 219, que el ente asegurador haya suministrado al trabajador víctima de un riesgo del trabajo, o a sus causahabientes, estará exclusivamente a cargo del patrono.
 
@@ -5833,8 +5370,6 @@ En todo caso, el instituto asegurador atenderá todas las prestaciones señalada
 De igual modo actuará el ente asegurador, cuando se presentaren discrepancias con el patrono, en relación con la interpretación y aplicación del seguro, su vigencia y cobertura.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 231
 
 ARTICULO 232.- Cuando un trabajador que no esté asegurado sufra un riesgo del trabajo, y acuda al Instituto Nacional de Seguros, o a cualquier hospital, clínica o centro de salud, público o privado, en demanda de las prestaciones médico-sanitarias y de rehabilitación que establece este Título, tendrá derecho a que se le suministren de inmediato los servicios que su caso requiera. En este caso el patrono podrá nombrar un médico, para que controlo el curso del tratamiento que se le suministre al trabajador.
 
@@ -5845,8 +5380,6 @@ Para los efectos del cobro, constituirán título ejecutivo, de acuerdo con los 
 Igual procedimiento seguirá el Instituto Nacional de Seguros para el cobro de cualquier suma que se le adeude, derivada de la aplicación del régimen de riesgos del trabajo que establece este Código.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 232
 
 ARTICULO 233.- El trabajador que hiciere abandono de la asistencia médico- sanitaria o de rehabilitación que se le otorga, o que se negare, sin causa justificada, a seguir las prescripciones médicas, perderá el derecho a las prestaciones que dispone este Código, salvo el contemplado en el inciso c) del artículo 218.
 
@@ -5862,8 +5395,6 @@ De igual manera, el juez de trabajo impondrá al ente asegurador de la obligaci�
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 233
-
 ARTICULO 234.- Cuando el trabajador no reciba las prestaciones señaladas en el artículo 218, podrá demandar el suministro o el costo de éstas, los intereses legales correspondientes, más las costas procesales y personales que implique su acción ante el juez de trabajo. En concordancia con los procedimientos señalados en el artículo 233, el juez de trabajo apercibirá al obligado para que demuestre, dentro del quinto día, haber cumplido con las mismas. En caso contrario, ya sea porque no conteste dentro del término, o porque no demuestre del todo, o lo haga insuficientemente, haber cumplido con dichas prestaciones, o bien porque el Organismo de Investigación Judicial hubiese dictaminado prestaciones superiores a las otorgadas, el juez, en el fallo correspondiente, impondrá al obligado en cuanto a su obligación de preceder a su suministro o pago, así como de las accesorias de la acción.
 
 Igual procedimientos seguirán, en su caso, los causahabientes del trabajador que falleciere a consecuencia de un riesgo del trabajo, para obtener las prestaciones a que se refieren los artículos 219 y 243, o el reembolso que a ellas corresponda.
@@ -5871,8 +5402,6 @@ Igual procedimientos seguirán, en su caso, los causahabientes del trabajador qu
 Todo lo anterior, sin perjuicio de lo establecido en el artículo 303.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 234
 
 ARTICULO 235.- Para los efectos de este Código, el cálculo de salario de los trabajadores se determinará de la siguiente manera:
 
@@ -5900,8 +5429,6 @@ Para los efectos de este artículo, servirán de prueba preferente para la fijac
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 235
-
 ARTICULO 236.- Durante la incapacidad temporal, el trabajador tendrá derecho a un subsidio igual al 60% de su salario diario durante los primeros cuarenta y cinco días de incapacidad. Transcurrido ese plazo, el subsidio que se reconocerá al trabajador será equivalente al 100% del salario diario, si percibiere una remuneración diaria igual o inferior a cien colones. Si el sueldo fuere superior a cien colones por día, sobre el exceso se pagará un subsidio igual al 67%. La suma máxima sobre la cual se aplicará el 100% podrá ser modificada reglamentariamente.
 
 Cuando la remuneración del trabajador sea pagada en forma mensual, quincenal o semanal en comercio, y cuando se trate de trabajadores con salario base fijado por el Ministerio de Trabajo y Seguridad Social, el subsidio será pagado a partir de la fecha en que ocurrió el riesgo del trabajo, hasta cuando se dé el alta médica al trabajador, con o sin fijación del impedimento, o hasta que transcurra el plazo de dos años que señala el artículo 237.
@@ -5920,13 +5447,9 @@ Cuando el trabajador preste servicios a más de un patrono, el subsidio se calcu
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 236
-
 ARTICULO 237.- Si transcurrido un plazo de dos años a partir de la ocurrencia del riesgo, no hubiere cesado la incapacidad temporal del trabajador, se procederá a establecer el porcentaje de incapacidad permanente, y se suspenderá el pago del subsidio, sin perjuicio de que se puedan continuar suministrando las prestaciones médico-sanitarias y de rehabilitación al trabajador.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 237
 
 ARTICULO 238.- La declaración de incapacidad menor permanente establece para el trabajador el derecho a percibir un renta anual, pagadera en dozavos, durante un plazo de cinco años, la cual se calculará aplicando el porcentaje de incapacidad que se le ha fijado, conforme a los términos de los artículos 224 y 225, al salario anual que se determine.
 
@@ -5934,13 +5457,9 @@ ARTICULO 238.- La declaración de incapacidad menor permanente establece para el
 
 (Nota: Ver Reglamento sobre Botiquines de Emergencia, Decreto Ejecutivo N° 12 del 28 de setiembre de 1951)
 
-Ficha Artículo 238
-
 ARTICULO 239.- La declaratoria de incapacidad parcial permanente determina para el trabajador el derecho a percibir una renta anual, pagadera un dozavos, durante un plazo de diez años, equivalente al 67% del salario anual que se determine.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 239
 
 ARTICULO 240.- La declaratoria de incapacidad total permanente determina para el trabajador el derecho a percibir una renta anual vitalicia, pagadera en dozavos, igual al 100% del salario anual, hasta un límite de treinta y seis mil colones y el 67% sobre el exceso de esa suma.
 
@@ -5950,8 +5469,6 @@ Ninguna renta mensual que se fije por incapacidad total permanente será inferio
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 240
-
 ARTICULO 241.- La declaratoria de gran invalidez determina para el trabajador, el derecho a percibir una renta anual vitalicia, pagadera en dozavos, igual al 100% del salario anual hasta un límite de treinta y seis mil colones y el 67% sobre el exceso de esa suma.
 
 Por vía reglamentaria se podrá aumentar el salario anual máximo sobre el cual se aplica el 100%.
@@ -5959,8 +5476,6 @@ Por vía reglamentaria se podrá aumentar el salario anual máximo sobre el cual
 Ninguna renta mensual que se fije por gran invalidez será inferior a mil quinientos colones y en todos los casos, adicionalmente, se reconocerá una suma mensual fija de quinientos colones. La cuantía básica podrá aumentarse reglamentariamente.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 241
 
 ARTICULO 242.- A juicio del Instituto Nacional de Seguros se podrá otorgar una asignación global, por un monto máximo de cuarenta mil colones, a los trabajadores con gran invalidez que se encuentren en precaria situación económica, la cual se destinará a los siguientes fines:
 
@@ -5975,8 +5490,6 @@ La asignación a que se refiere este artículo podrá ser girada mediante un sol
 El trabajador deberá gestionar y justificar por escrito ante el Instituto Nacional de Seguros, la solicitud de este beneficio.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 242
 
 Artículo 243- Cuando un riesgo del trabajo produzca la muerte al trabajador o la trabajadora, las personas que a continuación se señalan tendrán derecho a una renta anual, pagadera en dozavos, a partir de la fecha de defunción del trabajador 0 la trabajadora, o bien, a partir del nacimiento del hijo 0 la hija póstumo derechohabientes, calculada sobre el salario anual que se determine que percibió el occiso, en el siguiente orden y condiciones:
 
@@ -6022,15 +5535,11 @@ g. Las rentas que se fijen con base en este artículo tendrán el carácter de p
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 243
-
 ARTICULO 244.- La caducidad de la renta, por muerte de un beneficiario de los comprendidos en el artículo 243, o por cualquier otra causa, no configura derecho a favor de ninguno otro.
 
 Una sola persona no podrá disfrutar de dos rentas simultáneas, por razón de un mismo riesgo del trabajo, ocurrido a un mismo trabajador.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 244
 
 ARTICULO 245.- La suma de las rentas que se acuerde con arreglo al artículo 243 no podrá exceder del 75% del salario anual del trabajador fallecido que se determine.
 
@@ -6038,37 +5547,25 @@ Si las rentas excedieren de ese 75% se reducirán proporcionalmente, sin perjuic
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 245
-
 ARTICULO 246.- La renta a que se refiere este capítulo es anual, y se pagará en cuotas mensuales adelantadas, a partir del día en que cese la incapacidad temporal del trabajador, u ocurra su muerte, a consecuencia del infortunio.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 246
 
 ARTICULO 247.- Si a consecuencia de un riesgo del trabajo desapareciera un trabajador sin que haya certidumbre de su fallecimiento, y no se volviera a tener noticias de él dentro de los treinta días posteriores al suceso, se presumirá su muerte, a afecto de que los causahabientes perciban las prestaciones en dinero que dispone este Código, sin perjuicio de la devolución que procediere posteriormente, en caso de que se pruebe que el trabajador no había fallecido.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 247
-
 ARTICULO 248.- Cuando el trabajador, al que se le hubiere fijado incapacidad permanente, falleciere, y su muerte se produjera como consecuencia y por efecto directo de ese mismo riesgo, deberán pagarse las prestaciones en dinero, por muerte, que establece esta ley, fijándose las rentas a partir de su muerte.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 248
 
 ARTICULO 249.- La prestaciones en dinero, que conforme a este Código correspondan por incapacidad permanente o por muerte, se otorgarán sin perjuicio de las que haya percibido el trabajador afectado por un riesgo, desde el acaecimiento del mismo hasta el establecimiento de la incapacidad permanente, o en su caso, la muerte.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 249
-
 ARTICULO 250.- Si como consecuencia de un riesgo del trabajo, el trabajador quedare con enajenación mental, las prestaciones en dinero que le correspondan serán pagadas a la persona que conforme al Código Civil o de Familia lo represente. Igual regla regirá para los causahabientes del trabajador que falleciere, que sean menores de edad o enajenados mentales.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 250
 
 ARTICULO 251.- Los trabajadores a quienes se les haya otorgado incapacidad total permanente, y los derecho habientes del trabajador que falleciere a causa de un riesgo del trabajo, tendrán derecho al pago de una renta adicional en diciembre, equivalente al monto de la indemnización que estuvieran percibiendo, mensualmente, pero sin que la misma pueda exceder de la suma de mil quinientos colones. Esta suma, a solicitud del Instituto, podrá ser modificada reglamentariamente.
 
@@ -6076,13 +5573,9 @@ El pago de esta renta adicional queda sujeto a que las rentas de las personas in
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 251
-
 ARTICULO 252.- Las prestaciones en dinero reconocidas al amparo de este Título, no excluyen ni suspenden el giro de ninguno de los beneficios establecidos en las leyes de jubilaciones, pensiones y subsidios de carácter general o especial.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 252
 
 ARTICULO 253.- Las prestaciones médico- sanitarias de rehabilitación y en dinero que otorga el presente Código no podrán renunciarse, transarse, cederse, compensarse, ni gravarse, ni serán susceptibles de embargo, salvo las prestaciones en dinero, en un 50%, por concepto de pensión alimenticia.
 
@@ -6091,8 +5584,6 @@ Para este efecto, los tribunales denegarán de plano toda reclamación que en es
 Si por falta de aviso oportuno de la muerte de una de las personas que se hubieran hecho acreedoras a prestaciones en dinero, de acuerdo con los términos de este Código, o por cualquier otra ocultación hecha por el trabajador, o sus causahabientes, se hubieran pagado prestaciones no debidas, el Instituto Nacional de Seguros podrá cobrar o compensar lo que haya entregado indebidamente a los responsables, deduciendo las sumas de las prestaciones en dinero que se les adeuden a éstos, o mediante las gestiones cobratorias que correspondan, todo lo cual deberá comprobarse ante un juzgado de trabajo.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 253
 
 ARTICULO 254.- El patrono está obligado a reponer en su trabajo habitual al trabajador que haya sufrido un riesgo del trabajo, cuando esté en capacidad de laborar.
 
@@ -6108,8 +5599,6 @@ El Poder Ejecutivo, por la vía reglamentaria, habiendo oído de previo a la Jun
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 254
-
 ARTICULO 255.- En el caso de trabajadores que estén cubiertos por las disposiciones de este Código, el Instituto Nacional de Seguros procederá a la conmutación de rentas, en casos calificados de excepción, siempre que no se haya fijado incapacidad total permanente.
 
 El interesado presentará la solicitud de conmutación de rentas al Instituto Nacional de Seguros, en forma escrita, expresando con claridad el motivo por el cual pide la conmutación y el uso que le dará al dinero.
@@ -6118,33 +5607,23 @@ El Instituto tramitará esas solicitudes en forma gratuita y rápida, pero deber
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 255
-
 ARTICULO 256.- En casos calificados, en que por excepción el Instituto Nacional de Seguros resuelva a coger la solicitud de conmutación de rentas, entregará a quien corresponda, en lugar de las prestaciones en dinero que se adeudan, una suma global que se pagará de inmediato, la cual se calculará de acuerdo con las tablas actuariales que el Instituto Nacional de Seguros utiliza.
 
 Los cálculos que no merezcan conformidad del interesado deberán ser remitidos al Tribunal Superior de Trabajo, a efecto de que éste los revise y apruebe, o los devuelva con observaciones, en caso de que la suma que va a ser entregada al trabajador, o a sus causahabientes, sea diferente a la que les corresponde
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 256
-
 ARTICULO 257.- Tratándose de menores de edad, la conmutación de rentas sólo procederá por vía de excepción cuando sea recomendada por el Instituto Nacional de Seguros, en cuyo caso se pondrán todos los antecedentes en conocimiento del Tribunal Superior de Trabajo que corresponda, para que resuelva. El Tribunal solicitará el criterio del Patronato Nacional de la Infancia sobre su utilidad y necesidad. Este criterio deberá rendirse en un plazo no mayor de ocho días hábiles.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 257
 
 ARTICULO 258.- Si el Tribunal Superior de Trabajo aprobará la conmutación, el Instituto Nacional de Seguros depositará la suma que corresponda a la orden del juzgado de trabajo de la jurisdicción de donde residen los menores, dentro del tercer día, para que éste la gire a quienes corresponda.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 258
-
 ARTICULO 259.- Todo arreglo referente a conmutación de rentas, que se realice sin la observancia de los artículos de este capítulo, será absolutamente nulo, y quien hubiere pagado cualquier suma, no podrá repetir, compensar, ni reclamar en ninguna otra forma, al trabajador, o a sus causahabientes, las sumas que les hubiere entregado.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 259
 
 ARTICULO 260.- Establecida por parte del Instituto Nacional de seguros el alta del trabajador al que le ocurrió un riesgo del trabajo, con fijación de incapacidad permanente, la Institución aseguradora, de oficio, fijará las rentas que le corresponden, las que deberán empezarse a girar en un plazo no mayor de diez días hábiles a partir de la fecha del alta.
 
@@ -6152,21 +5631,15 @@ Si el Instituto tramitó el riesgo como no asegurado, con base en el dictamen m�
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 260
-
 ARTICULO 261.- Sin perjuicio de lo dispuesto en el artículo 260, si el trabajador no estuviere conforme con el dictamen médico final, gestionará, verbalmente o por escrito, ante la Junta Médica calificadora de la incapacidad para el trabajo, la revisión de ese dictamen.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 261
 
 ARTICULO 262.- Créase la junta médica calificadora de la incapacidad para el trabajo, con independencia funcional, la cual estará integrada por cinco miembros, en la que deberán estar representados los Ministerios de Trabajo y Seguridad Social, y de Salud, el Colegio de Médicos y Cirujanos, el Instituto Nacional de Seguros y los trabajadores. Las instituciones mencionadas nombrarán directamente sus representantes.
 
 El Poder Ejecutivo designará, en forma rotativa, al representante de los trabajadores, de las ternas que le sean sometidas por las confederaciones legalmente constituidas. En la primera oportunidad, en la designación se hará el sorteo correspondiente para establecer el orden respectivo.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 262
 
 ARTICULO 263.- Para ser miembro integrante de la junta médica calificadora de la incapacidad para el trabajo se requieren los siguientes requisitos
 
@@ -6190,8 +5663,6 @@ Celebrarán un máximo de ocho sesiones remuneradas por mes, y recibirán dietas
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 263
-
 ARTICULO 264.- Aunque se hubieren conmutado las rentas, y a solicitud del trabajador, del patrono, o del ente asegurador, podrán revisarse los dictámenes que determinen el alta del trabajador, con o sin fijación de impedimento, cuando pueda presumirse que ha sobrevenido alguna modificación agravante en las condiciones físicas o mentales de éste. En caso de que se determine tal modificación, se fijará la readecuación en beneficio del trabajador.
 
 La revisión será admisible dentro de los dos años posteriores a la orden de alta, y así sucesivamente a partir de la fecha del último informe médico, sin exceder un término de cinco años a partir del primer dictamen final.\*
@@ -6201,8 +5672,6 @@ En esos casos, las prestaciones en dinero a que tenga derecho el trabajador, se 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
 \*(Mediante resolución de la Sala Constitucional N° 7727-00, de las 14:44 horas del 30/08/2000, se dispuso declarar inconstitucional la prescripción de dos años prevista por este artículo.)
-
-Ficha Artículo 264
 
 ARTICULO 265.- Cuando se hubiere presentado recurso de revisión ante la junta médica calificadora, en los términos del artículo 261, de este Código, la misma se pronunciará sobre el dictamen médico extendido por el ente asegurador, en un plazo no mayor de quince días, en el entendido de que se pronunciará exclusivamente sobre la disconformidad del trabajador.
 
@@ -6226,13 +5695,9 @@ Para los efectos de la condenatoria en costa se presume la buena fe del trabajad
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 265
-
 ARTICULO 266.- A partir del primer dictamen médico que determine algún tipo de incapacidad permanente y sin perjuicio de los recursos de apelación que este Título establezca, el Instituto Nacional de Seguros procederá, de oficio, a la fijación de las rentas que correspondan las cuales serán provisionales hasta tanto no se establezca la valoración definitiva. Estas rentas se ajustarán a los términos finales, de forma que el ente asegurador recupere cualquier suma pagada en exceso, por motivo de simulación o fraude imputable al trabajador, descontando la misma de las rentas no percibidas; o en caso contrario, hará un sólo pago de las diferencias no cubiertas, a favor del trabajador.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 266
 
 ARTICULO 267.- Los recursos correspondientes al funcionamiento de la junta médica serán consignados anualmente en el presupuesto del Ministerio de Trabajo y Seguridad Social.
 
@@ -6242,21 +5707,15 @@ El Poder Ejecutivo reglamentará todo lo relativo al funcionamiento de la junta 
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 267
-
 CAPITULO SÉTIMO
 
 ARTICULO 268.- Se autoriza al Instituto Nacional de Seguros a crear un cuerpo de inspectores que velará por el estricto cumplimiento de este Título y los reglamentos que se promulguen. Estos inspectores tendrán la autoridad, el derecho, las facultades, las obligaciones y los deberes suficientes para el cumplimiento de su labor.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 268
-
 ARTICULO 269.- Los inspectores del Instituto Nacional de Seguros y del Ministerio de Trabajo y Seguridad Social podrán ordenar la suspensión o cierre de los centros de trabajo, donde se cometan infracciones al presente Título, que ameriten tal sanción.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 269
 
 ARTICULO 270.- Todo patrono está obligado a acatar, de inmediato, las órdenes de suspensión o cierre de los centros de trabajo; pero dentro del tercer día podrá impugnarlas ante el Juzgado de Trabajo de la jurisdicción donde se realizan las labores, aportando toda la prueba de descargo que sea del caso.
 
@@ -6268,8 +5727,6 @@ Contra la resolución que se tome, no cabrá recurso alguno. Se presume la respo
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 270
-
 ARTICULO 271.- El patrono al que se le ordene la suspensión de los trabajos o el cierre de los centros de trabajo, conforme a lo establecido en este Código, e incumpla esa decisión, se hará acreedor a las siguientes sanciones:
 
 A la multa comprendida en el numeral dos del artículo 614 de este Código.
@@ -6278,21 +5735,15 @@ Al cierre temporal del centro de trabajo hasta por un mes.
 
 (Así reformado por el artículo 2º de la ley N° 7360 del 4 de noviembre de 1993)
 
-Ficha Artículo 271
-
 ARTICULO 272.- Corresponderá al juzgado de trabajo de la jurisdicción donde está ubicado el centro de trabajo, la imposición de las sanciones que se indican en el artículo 271, lo que hará de oficio o a gestión de las autoridades de inspección, indicadas en el artículo 269, o de los propios trabajadores.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 272
 
 CAPITULO OCTAVO
 
 ARTICULO 273.- Declárase de interés público todo lo referente a salud ocupacional, que tiene como finalidad promover y mantener el más alto nivel de bienestar físico, mental y social del trabajador en general; prevenir todo daño causado a la salud de éste por las condiciones del trabajo; protegerlo en su empleo contra los riesgos resultantes de la existencia de agentes nocivos a la salud; colocar y mantener al trabajador en un empleo con sus aptitudes fisiológicas y sicológicas y, en síntesis, adaptar el trabajo al hombre y cada hombre a su tarea.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 273
 
 ARTICULO 274.- Créase el Consejo de Salud Ocupacional como organismo técnico adscrito al Ministerio de Trabajo y Seguridad Social, con las siguientes funciones:
 
@@ -6320,8 +5771,6 @@ j. Cualesquiera otras actividades propias de la materia.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 274
-
 ARTICULO 275.- El Consejo de Salud Ocupacional estará integrado por ocho miembros propietarios. Uno representará al Ministerio de Trabajo y Seguridad Social, y será quien lo presida, uno al Ministerio de Salud, uno al Instituto Nacional de Seguros, uno a la Caja Costarricense de Seguro Social, dos a los patronos y dos a los trabajadores.
 
 El Poder Ejecutivo designará a los representantes de los patrono, escogidos de ternas enviadas por las cámaras patronales. Y escogerá, en forma rotativa, a los dos representantes de los trabajadores, de las ternas enviadas por las confederaciones de trabajadores.
@@ -6332,8 +5781,6 @@ Los ministerios dichos designarán a sus representantes y las juntas directivas 
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 275
-
 ARTICULO 276.- Los miembros del Consejo de Salud Ocupacional serán electos por períodos de tres años y podrán ser reelectos. El consejo sesionará ordinariamente cuatro veces al mes y extraordinariamente cuando así lo acuerden, o sea convocado por el Presidente para atender asuntos de urgencia.
 
 El quórum para las sesiones del Consejo lo formarán cinco de sus miembros.
@@ -6342,15 +5789,11 @@ Las dietas las determinará el reglamento respectivo. En ningún caso se remuner
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 276
-
 ARTICULO 277.- El consejo contará con los servicios de un director ejecutivo, quien actuará como su secretario y asistirá a todas las sesiones con derecho a voz.
 
 Todo lo relativo a estructura administrativa del consejo, sus dependencias y el personal técnico necesario será determinado en el reglamento de la ley, el cual deberá contener previsiones especiales relativas a la contratación temporal o permanente, del personal profesional especializado nacional o extranjero, que el Consejo estime pertinente para el mejor desempeño de sus funciones.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 277
 
 ARTICULO 278.- Los recursos del Consejo de Salud Ocupacional estarán constituidos por:
 
@@ -6364,33 +5807,23 @@ Por las sumas que, en virtud de convenios con organismos nacionales e internacio
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 278
-
 ARTICULO 279.- Con los recursos a que se refiere el artículo anterior, el Consejo de Salud Ocupacional preparará en cada ejercicio, su presupuesto ordinario, el cual deberá ser sometido por el Ministerio de Trabajo y Seguridad Social a la aprobación de la Contraloría General de la República.
 
 Igual trámite se seguirá en lo referente al presupuesto extraordinario.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 279
-
 ARTICULO 280.- La administración financiera de los recursos del Consejo de Salud Ocupacional, estará a cargo del Ministerio de Trabajo y Seguridad Social, por medio de sus dependencias, conforme a las normas de la Ley de la Administración Financiera de la República, sin que pueda destinarse suma alguna a fines diferentes del trabajo que compete al consejo expresado.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 280
 
 ARTICULO 281.- El consejo preparará, en coordinación con la Oficina de Planificación Nacional y Política Económica, un plan nacional de salud ocupacional para corto, mediano y largo plazo, al cual deberá ajustar sus planes anuales de trabajo.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 281
-
 ARTICULO 282.- Corre a cargo de todo patrono la obligación de adoptar, en los lugares de trabajo, las medidas para garantizar la salud ocupacional de los trabajadores, conforme a los términos de este Código, su reglamento, los reglamentos de salud ocupacional que se promulguen, y las recomendaciones que, en esta materia, formulen tanto el Consejo de Salud Ocupacional, como las autoridades de inspección del Ministerio de Trabajo y Seguridad Social, Ministerio de Salud e Instituto Nacional de Seguros.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 282
 
 ARTICULO 283.- El Poder Ejecutivo, en un plazo no superior a un año, contado a partir de la vigencia de la presente modificación, promulgará los reglamentos de salud ocupacional que sean necesarios y que tengan por objetivo directo
 
@@ -6438,8 +5871,6 @@ Los depósitos y el control, en condiciones de seguridad, de sustancias peligros
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 283
-
 ARTICULO 284.- Sin perjuicio de lo establecido en otras disposiciones de este Código, será obligación del patrono:
 
 Permitir a las autoridades competentes la inspección periódica de los centros de trabajo y la colocación de textos legales, avisos, carteles y anuncios similares, referentes a salud ocupacional;
@@ -6451,8 +5882,6 @@ Cumplir con las normas, y disposiciones legales y reglamentarias sobre salud ocu
 Proporcionar el equipo y elemento de protección personal y de seguridad en el trabajo y asegurar su uso y funcionamiento.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 284
 
 ARTICULO 285.- Todo trabajador deberá acatar y cumplir, en lo que le sea aplicable, con los términos de esta ley, su reglamento, los reglamentos de salud ocupacional, que se promulguen y las recomendaciones que, en esta materia, les formulen las autoridades competentes.
 
@@ -6467,8 +5896,6 @@ Participar en la elaboración, planificación y ejecución de los programas de s
 ch) Utilizar, conservar y cuidar el equipo y elementos de protección personal y de seguridad en el trabajo, que se le suministren.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 285
 
 ARTICULO 286.- Ningún trabajador debe:
 
@@ -6486,13 +5913,9 @@ Manejar, operar o hacer uso de equipo y herramientas de trabajo para los cuales 
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 286
-
 ARTICULO 287.- Los trabajadores que no están amparados por este Título, conforme al artículo 194, quedan sometidos a las disposiciones de este Capítulo, pero las obligaciones correspondientes al patrono, recaerán, según el caso, sobre el jefe de familia o los propios trabajadores.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 287
 
 ARTICULO 288.- En cada centro de trabajo, donde se ocupen diez o más trabajadores, se establecerán las comisiones de salud ocupacional que, a juicio del Consejo de Salud Ocupacional, sean necesarias. Estas comisiones deberán estar integradas con igual número de representantes del patrono y de los trabajadores, y tendrán como finalidad específica investigar las causas de los riesgos del trabajo, determinar las medidas para prevenirlos y vigilar para que, en el centro de trabajo, se cumplan las disposiciones de salud ocupacional.
 
@@ -6502,39 +5925,27 @@ El Consejo de Salud Ocupacional, en coordinación con el Instituto Nacional de S
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 288
-
 ARTICULO 289.- Todo centro de trabajo que se instale, amplíe, modifique, traslade o varíe instalaciones, con posteridad a la vigencia de la presente ley, deberá ajustarse a sus disposiciones, en cuanto a salud ocupacional.
 
 Los centros de trabajo que ya estuvieran operando deberán conformarse a ley, de acuerdo con lo que se establezca en el reglamento respectivo.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 289
-
 ARTICULO 290.- La licencia de construcción, reforma, traslado, o ampliación de un centro de trabajo deberá contar con la aprobación del Consejo de Salud Ocupacional.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 290
 
 ARTICULO 291.- Los equipos y elementos destinados a la protección personal del trabajador, a la seguridad en el trabajo y a la prevención de los riesgos del trabajo, podrán ser importados e internados exentos del pago de impuestos, tasas y sobretasas, siempre que su uso y características hayan sido aprobados y autorizados por el Consejo de Salud Ocupacional. El Poder Ejecutivo establecerá, por medio de decreto, el precio máximo de venta de estos artículos.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 291
-
 ARTICULO 292.- El Instituto Nacional de Seguros deberá llevar, permanentemente, un sistema de estadísticas sobre riesgos del trabajo, que asegure su comparabilidad con otras instituciones tanto nacionales como extranjeras.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 292
-
 ARTICULO 293.- Se prohíbe la introducción, venta o uso de bebidas alcohólicas, drogas, enervantes y estimulantes, en los centros de trabajo.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 293
 
 ARTICULO 294.- Son trabajos o centros de trabajos insalubres los que, por su naturaleza, pueden originar condiciones capaces de amenazar o dañar la salud de los trabajadores o vecinos, por causa de materiales empleados, elaborados o desprendidos, o por los residuos, sólidos, líquidos o gaseosos.
 
@@ -6544,13 +5955,9 @@ El Consejo de Salud Ocupacional determinará cuáles trabajos o centros de traba
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 294
-
 ARTICULO 295.- Si, por la índole del trabajo, los trabajadores deben dormir en los centros de trabajo o en instalaciones accesorias, el patrono deberá instalar locales específicos e higiénicos para tal efecto.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 295
 
 ARTICULO 296.- Si, por la índole del trabajo, los trabajadores deben comer en los centros donde prestan los servicios, el patrono deberá instalar locales que sirvan como comedor y los mantendrá en buenas condiciones de limpieza.
 
@@ -6558,13 +5965,9 @@ Además deberán reunir los requisitos de iluminación, ventilación y ubicació
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 296
-
 ARTICULO 297.- Las casas de habitación que el patrono suministre a los trabajadores dependientes de él, deberán llenar todos lo requisitos que se establezcan en el reglamento de la ley.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 297
 
 ARTICULO 298.- Todas las autoridades de inspección del Ministerio de Trabajo y Seguridad Social, del Ministerio de Salud y del Instituto Nacional de Seguros colaborarán a fin de obtener el cumplimiento exacto de las disposiciones de este Capítulo.
 
@@ -6572,15 +5975,11 @@ ARTICULO 298.- Todas las autoridades de inspección del Ministerio de Trabajo y 
 
 (El párrafo segundo fue derogado por el artículo 6º de la ley Nº 7360 del 4 de noviembre de 1993)
 
-Ficha Artículo 298
-
 ARTICULO 299.- Toda empresa, pública o privada, está obligada a permitir el acceso a sus instalaciones, a cualquier hora del día o de la noche en que se efectúe el trabajo, a los miembros del consejo o a los funcionarios de su dependencia, para el examen de las condiciones de salud ocupacional, la toma de muestras, mediciones, colocación de detectores y cualesquiera otras actividades similares.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
 (El párrafo segundo fue derogado por el artículo 6º de la ley Nº 7360 del 4 de noviembre de 1993)
-
-Ficha Artículo 299
 
 ARTICULO 300.- Toda empresa que ocupe, permanentemente, más de cincuenta trabajadores está obligada a mantener una oficina o departamento de salud ocupacional.
 
@@ -6588,13 +5987,9 @@ Reglamentariamente y en consulta con el Consejo de Salud Ocupacional, se estable
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 300
-
 ARTICULO 301.- Todas las dependencias públicas o instituciones del Estado están obligadas a prestar la colaboración que solicite el Consejo de Salud Ocupacional, para el mejor cumplimiento de sus funciones.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 301
 
 ARTICULO 302.- Para ser miembro del Consejo de Salud Ocupacional se requiere:
 
@@ -6604,15 +5999,11 @@ Ser técnico en salud ocupacional o tener conocimientos teóricos o prácticos s
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 302
-
 CAPITULO NOVENO
 
 Artículo 303.- Los reclamos por riesgos de trabajo se tramitarán ante el juzgado competente y según el procedimiento indicado en el título décimo de este Código.
 
 (Así reformado por el artículo 3° aparte a) de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 303
 
 Artículo 304.—Los derechos y las acciones para reclamar las prestaciones conforme este título prescribirán en un plazo de tres años, contado desde la fecha en que ocurrió el riesgo o de la fecha en que el trabajador o sus causahabientes estén en capacidad de gestionar su reconocimiento; y en caso de muerte, el plazo correrá a partir del deceso.
 
@@ -6624,8 +6015,6 @@ La prescripción no correrá para el trabajador no asegurado en el Instituto Nac
 
 (La Sala Constitucional mediante resolución N° 15674-06, de las 11:31 horas, del día 27-10-06, dispuso que no es inconstitucional la prescripción de dos años prevista por este artículo antes de la reforma dispuesta por Ley No. 8520 del 20 de junio del 2006, siempre y cuando se interprete el supuesto: "…en que el trabajador esté en capacidad de gestionar su reconocimiento", que, si el trabajador descubre posteriormente alguna secuela producto de un riesgo laboral, es a partir de ese momento que nuevamente se abre el plazo de los dos años.)
 
-Ficha Artículo 304
-
 ARTICULO 305.- Si el riesgo de trabajo fuere causado por dolo, negligencia o imprudencia, que constituya delito atribuible al patrono o falta inexcusable del mismo, el trabajador o sus causahabientes podrán recurrir, simultáneamente, ante los tribunales comunes y ante los de trabajo; en caso de que se satisfagan las prestaciones correspondientes en dinero, en virtud de lo expuesto en este Código, los tribunales comunes le rebajarán el monto de éstos, en el supuesto de que dictaren sentencia contra dicho patrono.
 
 Si las acciones previstas en el párrafo anterior se entablaran sólo ante los tribunales de trabajo, éstos podrán, de oficio, en conocimiento de los tribunales comunes lo que corresponda.
@@ -6633,8 +6022,6 @@ Si las acciones previstas en el párrafo anterior se entablaran sólo ante los t
 Si la víctima estuviere asegurada, el Instituto Nacional de Seguros pagará inmediatamente la respectiva indemnización al trabajador o a sus causahabientes, en los casos en que se refiere este artículo, pero si el patrono fuere condenado por los tribunales comunes deberá reintegrar a esa institución la suma o sumas que ésta haya pagado, junto con los intereses legales. Al efecto, la sentencia correspondiente servirá de título ejecutivo para el Instituto.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 305
 
 ARTICULO 306.- Si el riesgo del trabajo fuere causado por dolo, falta, negligencia o imprudencia, que constituya delito atribuible a terceros, el trabajador y sus causahabientes podrán reclamar a éstos, lo daños y perjuicios que correspondan, de acuerdo con las leyes de orden común ante los tribunales respectivos, simultáneamente y sin menoscabo de los derechos y acciones que pueden interponerse en virtud de las disposiciones de este Título.
 
@@ -6644,27 +6031,19 @@ Para los efectos de este artículo, se entiende por terceros a toda persona con 
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 306
-
 ARTICULO 307.- Si el patrono no hubiere asegurado al trabajador estará obligado a depositar, en el Instituto Nacional de Seguros el capital correspondiente a la suma de prestaciones debidas, las cuales se calcularán conforme a las bases actuariales que el Instituto utilice según este Título, además de lo que por cualquier otro concepto adeudare, dentro de los diez días siguientes a la notificación correspondiente, realizada por el Instituto asegurador. Vencido este término, el depósito del capital podrá exigirse por la vía ejecutiva.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 307
-
 ARTICULO 308.- Cuando el trabajador al que le haya ocurrido un riesgo de trabajo tuviere que recurrir a los Tribunales de Trabajo o a la junta médica calificadora de incapacidad para el trabajo por llamamiento de éstos, el patrono deberá conceder el permiso con goce de salario correspondiente, y el trabajador tendrá derecho a que se le reconozcan los gastos de traslado y de permanencia en que incurra y, si su estado lo exige, los de sus acompañantes.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 308
 
 CAPITULO DECIMO
 
 Artículo 309.- Las faltas e infracciones que disponen esta ley y sus reglamentos, y cuyas sanciones no estén expresamente contempladas en normas especiales, independientemente de la responsabilidad que acarreen al infractor, se sancionarán de acuerdo con lo dispuesto en el título sétimo de este Código.
 
 (Así reformado por el artículo 3° aparte a) de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 309
 
 Artículo 310.- Se impondrá al empleador o empleadora una multa de acuerdo con lo previsto en el artículo 398 de este Código, en los siguientes casos.
 
@@ -6692,69 +6071,39 @@ g) Cuando incurra en cualquier falta, infracción o violación de las disposicio
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 310
-
 Artículo 311.- Se impondrá una multa de acuerdo con lo señalado en el artículo 398 a la persona trabajadora de cualquier ministerio o institución, municipalidad u otro organismo integrante de la Administración Pública que autorice la celebración de actos, contratos o trabajos en contravención de las disposiciones de este título o de sus reglamentos.
 
 (Así reformado por el artículo 3° aparte a) de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 311
 
 ARTICULO 312.- La reincidencia específica, en un plazo de un año, en cuanto a faltas e infracciones a las disposiciones de este Título y sus reglamentos, se sancionará con la aplicación del doble de la multa que inicialmente se haya impuesto.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 312
-
 ARTICULO 313.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 313
-
 ARTICULO 314.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 314
 
 ARTICULO 315.- Los juzgados de trabajo impondrán las sanciones que corresponden, dentro de los límites de este Título, conforme a su prudente y discrecional arbitrio. Para esos efectos, tomarán en consideración factores tales como la gravedad de la falta, número de trabajadores directa o potencialmente afectados, daños causados, condiciones personales y antecedentes del inculpado y demás circunstancias que estimen oportuno ponderar, para las imposiciones de la sanción.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 315
-
 ARTICULO 316.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 316
 
 ARTICULO 317.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 317
-
 ARTICULO 318.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 318
 
 ARTICULO 319.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 319
-
 ARTICULO 320.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 320
 
 ARTICULO 321.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 321
-
 ARTICULO 322.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 322
 
 ARTICULO 323.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 323
-
 ARTICULO 324.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 324
 
 ARTICULO 325.- Las sanciones se aplicarán a quien resulte ser responsable de la falta o infracción. En el caso de que los responsables fueren varios, las sanciones se impondrán, separadamente, a cada infractor.
 
@@ -6762,31 +6111,19 @@ Si la falta o infracción hubiera sido cometida por una empresa, compañía, soc
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
 
-Ficha Artículo 325
-
 ARTICULO 326.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 326
 
 ARTICULO 327.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 327
-
 ARTICULO 328.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 328
-
 ARTICULO 329.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 329
 
 CAPITULO DECIMO PRIMERO
 
 ARTICULO 330.- La Caja Costarricense de Seguro Social y el Instituto Nacional de Seguros nombrarán, cada uno, dos funcionarios para que, dentro de una política de coordinación interinstitucional y para la mejor aplicación del presente Título en orden a los servicios médicos hospitalarios y de rehabilitación, estudien y propongan ante los respectivos órganos ejecutivos, soluciones a los problemas que se presenten y que afecten a los trabajadores y las dos entidades, en lo que a riesgos del trabajo se refiere.
 
 (Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)
-
-Ficha Artículo 330
 
 ARTICULO 331.- El sistema de tarifas que se aplicará al caso del Estado, instituciones públicas y municipalidades se basará en primas retrospectivas, fundamentado en el costo real que anualmente se determine para los grupos de empleados públicos asegurados.
 
@@ -6808,8 +6145,6 @@ Transitorio II.- Mientras no se cumpla la universalización de los seguros contr
 
 Transitorio III.- Para los efectos del Transitorio II, se considerará universalización el seguro cuando el mismo sea obligatorio y forzoso para una zona geográfica específica del país o para una actividad económica particular, según sea la programación que disponga el instituto, para cumplir con lo dispuesto en el Transitorio I de esta ley.
 
-Ficha Artículo 331
-
 TITULO QUINTO
 
 DE LAS ORGANIZACIONES SOCIALES
@@ -6826,25 +6161,17 @@ ARTICULO 332.- Declarase de interés público la constitución legal de las orga
 
 (La palabra "Cooperativa", fue suprimida del referido artículo 262 por el artículo 116 de la Ley de Asociaciones Cooperativas, N° 4179 de 22 de marzo de 1968)
 
-Ficha Artículo 332
-
 ARTICULO 333.- Queda absolutamente prohibido a toda organización social realizar cualquier actividad que no se concrete al fomento de sus intereses económico- sociales.
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo.2º, trasladó el original artículo 263 al presente)
-
-Ficha Artículo 333
 
 ARTICULO 334.- Las organizaciones sociales no podrán conceder privilegios ni ventajas especiales a sus fundadores y directores, salvo las que sean inherentes al desempeño de un cargo; invariablemente se regirán por los principios democráticos del predominio de las mayorías, del voto secreto y de un voto por persona, sin que pueda acordarse preferencia alguna en virtud del número de acciones, cuotas o capital que sus socios hayan aportado.
 
 (Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º, trasladó el original artículo 264 al presente)
 
-Ficha Artículo 334
-
 ARTICULO 335.- Los socios de las cooperativas no podrán sindicalizarse para defender sus intereses ante ellas, pero sí podrán formarse sindicatos de trabajadores dentro de las cooperativas cuando éstas actúen como patronos.
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo. 2°, trasladó el original artículo 265 al presente)
-
-Ficha Artículo 335
 
 ARTICULO 336.- Las organizaciones sociales que se constituyan legalmente estarán exentas de cubrir los impuestos nacionales o municipales que pesen sobre sus bienes y serán personas jurídicas capaces de ejercer derechos y contraer obligaciones.
 
@@ -6856,8 +6183,6 @@ No podrán utilizar las ventajas de la personalidad jurídica con ánimo de lucr
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º, trasladó el original artículo 266 al presente)
 
-Ficha Artículo 336
-
 ARTICULO 337.- Corresponderá al Ministerio de Trabajo y Seguridad Social llevar a cabo, por medio de la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social, la más estricta vigilancia sobre las organizaciones sociales, con el exclusivo propósito de que éstas funcionen ajustadas a las prescripciones de ley.
 
 Al efecto cumplirán las obligaciones y ejercerán el derecho de que habla el inciso f) del artículo 69.
@@ -6866,15 +6191,11 @@ Al efecto cumplirán las obligaciones y ejercerán el derecho de que habla el in
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo. 2º, trasladó el original 267 al presente)
 
-Ficha Artículo 337
-
 ARTICULO 338.- Las únicas penas que se impondrán a las organizaciones sociales son la de multa, siempre que de conformidad con el presente Código se hagan acreedoras a ella, y la de disolución, en los casos expresamente señalados en ese Título.
 
 No obstante, sus directores serán responsables conforme a las leyes de trabajo y a las de orden común de todas las infracciones o abusos que cometan en el desempeño de sus cargos.
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º, trasladó el original 268 al presente)
-
-Ficha Artículo 338
 
 CAPITULO SEGUNDO
 
@@ -6883,8 +6204,6 @@ De los Sindicatos
 ARTICULO 339.- Sindicato es toda asociación permanente de trabajadores o de patronos o de personas de profesión u oficio independiente, constituida exclusivamente par el estudio, mejoramiento y protección de sus respectivos intereses económicos y sociales, comunes.
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo. 2º , trasladó el original 269 al presente)
-
-Ficha Artículo 339
 
 ARTICULO 340.- Son actividades principales de los sindicatos:
 
@@ -6898,15 +6217,11 @@ En general, todas aquellas que no estén reñidas con sus fines esenciales ni co
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, trasladó el original 270 al presente)
 
-Ficha Artículo 340
-
 ARTICULO 341.- A nadie se puede obligar a formar parte de un sindicato o a no formar parte de él.
 
 El ejercicio de la facultad de libre separación no exonera a la persona saliente de cubrir las obligaciones de carácter económico que tenga pendientes con el sindicato.
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo .2º, trasladó el original 271 al presente)
-
-Ficha Artículo 341
 
 ARTICULO 342.- Los sindicatos son:
 
@@ -6924,8 +6239,6 @@ La Junta Directiva de todo Sindicato podrá estar integrada por personas que no 
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo.2º, trasladó el original 272 al presente)
 
-Ficha Artículo 342
-
 ARTICULO 343.- Se reconoce a los patronos y a los trabajadores el derecho de formar sindicatos sin autorización previa, pero dentro de los treinta días siguientes deberán iniciar los trámites a que se refiere el artículo siguiente:
 
 Sin embargo, no podrá constituirse ninguno con menos de doce miembros si se trata de un sindicato, ni con menos de cinco patronos de la misma actividad, cuando se trate de sindicatos patronales.
@@ -6933,8 +6246,6 @@ Sin embargo, no podrá constituirse ninguno con menos de doce miembros si se tra
 (Así reformado el párrafo anterior por el artículo 2º de la ley N° 7360 del 4 de noviembre de 1993)
 
 (Así reformado por la Ley sobre Riesgos del Trabajo Nº 6727 de 9 de marzo de 1982, artículo 2º, que reubicó el antiguo artículo 273 al presente)
-
-Ficha Artículo 343
 
 ARTICULO 344.- Para que se considere legalmente constituido un sindicato, en el pleno goce de su personería jurídica, es indispensable que se formule una solicitud suscrita por su presidente o secretario general y que se envíe a la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social, directamente o por medio de las autoridades de trabajo o políticas del lugar, junto con copias auténticas de su acta constitutiva y de sus estatutos. El acta constitutiva forzosamente expresará el número de miembros, la clase de sindicato y los nombres y apellidos de las personas que componen su directiva.
 
@@ -6947,8 +6258,6 @@ La certificación que extienda la mencionada Oficina tendrá fe pública y los p
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º, trasladó el original 274 al presente)
 
 (El artículo 3º de la ley N° 7360 del 4 de noviembre de 1993, corrió la antigua numeración del articulado. Por ello, el antiguo artículo 366 pasó a ser el actual 373)
-
-Ficha Artículo 344
 
 ARTICULO 345.- Los estatutos de un sindicato expresarán:
 
@@ -6998,8 +6307,6 @@ n) Las acciones permanentes dirigidas a garantizar y promover el libre ejercicio
 
 (Nota de Sinalevi: Mediante resolución de la Sala Constitucional N° 4630 del 02 de abril de 2014, se interpretó la ley N° 8901 del 18 de noviembre de 2010, "Porcentaje mínimo de mujeres que deben integrar las Directivas de Asociaciones, Sindicatos y Asociaciones Solidaritas", la cual reformó este numeral, en el sentido de que, los Órganos Directivos de las Asociaciones Civiles, Asociaciones Solidaritas, Asociaciones Comunales y Sindicatos, deben estar integrados respetando la paridad de género, de forma progresiva y siempre que ello sea posible conforme a la libertad ideológica, el derecho de asociación y según la conformación fáctica y proporcional que cada uno de los géneros lo permita en la asociación en cuestión.)
 
-Ficha Artículo 345
-
 ARTICULO 346.- Son atribuciones exclusivas de la Asamblea General:
 
 Nombren cada año a la Junta Directiva, cuyos miembros podrán ser reelectos.
@@ -7024,8 +6331,6 @@ Cualesquiera otras que expresamente le confieran los estatutos o este Código, o
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º, trasladó el original 276 al presente)
 
-Ficha Artículo 346
-
 ARTICULO 347.- La Junta Directiva tendrá la representación legal del sindicato y podrá delegarla en la presidencia o secretaría general; será responsable para con el sindicato y terceras personas en los mismos términos en que lo son los mandatarios en el Código Civil. Dicha responsabilidad será solidaria entre las personas integrantes de la Junta Directiva, a menos que alguno de ellos salve su voto, haciéndolo constar así en el libro de actas.
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º trasladó el original 277 al presente)
@@ -7034,13 +6339,9 @@ ARTICULO 347.- La Junta Directiva tendrá la representación legal del sindicato
 
 (Nota de Sinalevi: Mediante resolución de la Sala Constitucional N° 4630 del 02 de abril de 2014, se interpretó la ley N° 8901 del 18 de noviembre de 2010, "Porcentaje mínimo de mujeres que deben integrar las Directivas de Asociaciones, Sindicatos y Asociaciones Solidaritas", la cual reformó este numeral, en el sentido de que, los Órganos Directivos de las Asociaciones Civiles, Asociaciones Solidaritas, Asociaciones Comunales y Sindicatos, deben estar integrados respetando la paridad de género, de forma progresiva y siempre que ello sea posible conforme a la libertad ideológica, el derecho de asociación y según la conformación fáctica y proporcional que cada uno de los géneros lo permita en la asociación en cuestión.)
 
-Ficha Artículo 347
-
 ARTICULO 348.- Las obligaciones civiles contraídas por los directores de un sindicato obligan a éste, siempre que aquéllos obren dentro de sus facultades.
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º trasladó el original 278 al presente)
-
-Ficha Artículo 348
 
 ARTICULO 349.- Los sindicatos están obligados:
 
@@ -7062,8 +6363,6 @@ e. A iniciar dentro de los quince días siguientes a la celebración de la Asamb
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º, trasladó el original 279 al presente)
 
-Ficha Artículo 349
-
 ARTICULO 350.- A instancia del respectivo Ministerio los Tribunales de Trabajo ordenarán la disolución de los sindicatos, siempre que se les pruebe en juicio:
 
 (El nombre de la entidad fue así modificado por el artículo 1º de la ley Nº 3372 de 6 de agosto de 1964. )
@@ -7084,8 +6383,6 @@ En los tres últimos casos queda a salvo la acción que cualquier perjudicado en
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º, trasladó el original 280 al presente).
 
-Ficha Artículo 350
-
 ARTICULO 351.- El Ministerio de Trabajo y Seguridad Social también solicitará a los Tribunales de Trabajo la disolución de los sindicatos que, a su juicio, dejen de llenar los requisitos que para su constitución señalan los artículos 273(\*), párrafo segundo y 275(\*), inciso c).
 
 (Así reformado por el artículo 2º de la ley Nº 2561 de 11 de mayo de 1960, "Convenios OIT Nos. 29, 81, 87, 88, 89, 90, 92, 94, 95,96, 98, 99 y 100")
@@ -7093,8 +6390,6 @@ ARTICULO 351.- El Ministerio de Trabajo y Seguridad Social también solicitará 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º, trasladó el original 281 al presente, debido a la reforma introducida a éste Código por la Ley Sobre Riesgos del Trabajo, en la que se corrió la numeración de varios artículos)
 
 (La referencia a los artículos 273 y 275 debe entenderse: artículos 343 y 345 actuales)
-
-Ficha Artículo 351
 
 ARTICULO 352.- Los sindicatos podrán acordar su disolución:
 
@@ -7104,23 +6399,17 @@ b. Por el voto de las dos terceras partes de sus miembros, reunidos en Asamblea 
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º, trasladó el original 282 al presente)
 
-Ficha Artículo 352
-
 ARTICULO 353.- En todo caso de disolución la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social cancelará la respectiva inscripción por nota marginal y ordenará que se publique por tres veces consecutivas en el Diario Oficial un extracto de la resolución judicial, administrativa o de la Asamblea del sindicato, que así lo haya acordado.
 
 (El nombre de la Institución fue así reformado por la Ley No. 3372 del 6 de agosto de 1964 )
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º, trasladó el original 283 al presente)
 
-Ficha Artículo 353
-
 ARTICULO 354.- Serán absolutamente nulos los actos o contratos celebrados o ejecutados por el sindicato después de disuelto, salvo los que se refieran exclusivamente a su liquidación.
 
 Es entendido que aun después de disuelto un sindicato se reputará existente sólo en lo que afecte a su liquidación.
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º, trasladó el original 284 al presente)
-
-Ficha Artículo 354
 
 ARTICULO 355.- En todo caso de disolución corresponde al Ministerio de Trabajo y de Seguridad Social nombrar una Junta Liquidadora, integrada por tres personas honorables y competentes, una de las cuales actuará como Presidente y será el Jefe de la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social.
 
@@ -7130,19 +6419,13 @@ Los liquidadores, en conjunto, se reputarán mandatarios de la asociación; segu
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º, trasladó el original 285 al presente)
 
-Ficha Artículo 355
-
 ARTICULO 356.- Sea cual fuere la causa de la disolución de un sindicato, su activo líquido pasará a la Federación a que pertenezca y, en forma subsidiaria, se distribuirá en porciones iguales entre todos los de su misma clase existentes en el país.
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º, trasladó el original 286 al presente)
 
-Ficha Artículo 356
-
 ARTICULO 357.- Dos o más sindicatos podrán fusionarse entre sí, una vez que acuerden sus respectivas disoluciones y firmen uno nuevo.
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º trasladó el original 287 al presente)
-
-Ficha Artículo 357
 
 ARTICULO 358.- Dos o más sindicatos podrán formar federaciones y dos o más federaciones podrán formar confederaciones, que se regirán por las disposiciones de este capítulo, en lo que les sea aplicable, excepto en lo relacionado con el período legal de sus respectivas juntas directivas, el cual podrá ser hasta de dos años, con derecho de reelección para las personas integrantes. Las juntas directivas deben garantizar la representación paritaria de ambos géneros.
 
@@ -7156,13 +6439,9 @@ Los estatutos de las federaciones determinarán, además de lo dispuesto en el a
 
 (Nota de Sinalevi: Mediante resolución de la Sala Constitucional N° 4630 del 02 de abril de 2014, se interpretó la ley N° 8901 del 18 de noviembre de 2010, "Porcentaje mínimo de mujeres que deben integrar las Directivas de Asociaciones, Sindicatos y Asociaciones Solidaritas", la cual reformó este numeral, en el sentido de que, los Órganos Directivos de las Asociaciones Civiles, Asociaciones Solidaritas, Asociaciones Comunales y Sindicatos, deben estar integrados respetando la paridad de género, de forma progresiva y siempre que ello sea posible conforme a la libertad ideológica, el derecho de asociación y según la conformación fáctica y proporcional que cada uno de los géneros lo permita en la asociación en cuestión.)
 
-Ficha Artículo 358
-
 ARTICULO 359.- Todo sindicato afiliado puede retirarse de un federación o confederación en cualquier tiempo, cuando la mayoría de sus miembros así lo dispusiere. Será absolutamente nula la disposición en contrario que se adopte en los respectivos estatutos.
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º, trasladó el original 289 al presente)
-
-Ficha Artículo 359
 
 ARTICULO 360.- La Junta Directiva de todo sindicato, federación o confederación de sindicatos de trabajadores, tiene personería para representar judicial y extrajudicialmente a cada uno de sus afiliados en la defensa de sus intereses individuales de carácter económico- social, siempre que ellos expresamente lo soliciten. La Junta Directiva podrá delegar esa personería en cualquiera de sus miembros; y la delegación se comprobará con certificación del correspondiente acuerdo.
 
@@ -7170,23 +6449,17 @@ ARTICULO 360.- La Junta Directiva de todo sindicato, federación o confederació
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º, trasladó el original 290 al presente)
 
-Ficha Artículo 360
-
 ARTICULO 361.- El Ministerio de Trabajo y de Seguridad Social se encargará de fomentar el desarrollo del movimiento sindical en forma armónica y ordenada, por todos los medios legales que juzgue convenientes. Al efecto, dictará por medio de decretos ejecutivos todas las disposiciones que sean necesarias, en los casos ocurrentes, para garantizar la efectividad del derecho de sindicalización.
 
 (El nombre de la entidad fue así reformado por el artículo 1º la Ley No. 3372 del 6 de agosto de 1964 y también la ley Nº 5089 del 18 de octubre de 1972 modificó su nombre)
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º, trasladó el original 291 al presente)
 
-Ficha Artículo 361
-
 ARTICULO 362.- En caso de que un sindicato incumpla, después de percibido por una sola vez, las obligaciones de que hablan los artículos 273, párrafo primero, 275, inciso j) y 279, le será impuesta una multa de ochenta a ciento veinte colones.
 
 Igual pena se les aplicará, sin necesidad de advertencia previa, cada vez que infrinjan alguna disposición prohibitiva del presente Código, no sancionada en otra forma.
 
 (La Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982, artículo 2º, trasladó el original 292 al presente)
-
-Ficha Artículo 362
 
 CAPITULO TERCERO
 
@@ -7200,27 +6473,19 @@ Cualquier acto que de ellas se origine es absolutamente nulo e ineficaz y se san
 
 (Así adicionado por el artículo 3º de la ley N° 7360 del 4 de noviembre de 1993)
 
-Ficha Artículo 363
-
 ARTICULO 364.- Toda persona o sindicato con interés puede acudir, ante la Dirección Nacional de Inspección de Trabajo, a denunciar por escrito la comisión de prácticas laborales desleales; pero esas prácticas también podrán ser investigadas de oficio.
 
 (Así adicionado por el artículo 3º de la ley N° 7360 del 4 de noviembre de 1993)
 
-Ficha Artículo 364
-
 ARTICULO 365.- La Dirección Nacional de Inspección de Trabajo investigará, por los medios que estime conveniente, los hechos violatorios de que tenga conocimiento. Si determina que existe mérito para conocer sobre el fondo del asunto, convocará a las partes involucradas o, si los tienen, a sus representantes legales, a una audiencia en la que se recibirán todas las pruebas que se estimen necesarias.
 
 (Así adicionado por el artículo 3º de la ley N° 7360 del 4 de noviembre de 1993)
-
-Ficha Artículo 365
 
 ARTICULO 366.- Sin perjuicio del resultado de la audiencia indicada en el artículo anterior, si se constata la existencia de prácticas laborales desleales, se levantará un acta y el Director Nacional e Inspector General de Trabajo entablará la demanda judicial correspondiente, con prioridad respecto de cualquier otro asunto. Con el propósito de salvaguardar los derechos protegidos por esta Ley solicitará imponer las sanciones previstas en la legislación laboral vigente, sin perjuicio de cualquier otra medida judicial que pueda ordenarse.
 
 Si no hay mérito para conocer sobre el fondo del asunto o no se constata la existencia de prácticas laborales desleales, se ordenará archivar el expediente, mediante resolución fundada. Esta resolución tendrá los recursos ordinarios de revocatoria y de apelación; este último se interpondrá para ante el Ministro de Trabajo y Seguridad Social, quien agota la vía administrativa para todos los efectos.
 
 (Así adicionado por el artículo 3º de la ley N° 7360 del 4 de noviembre de 1993)
-
-Ficha Artículo 366
 
 ARTICULO 367.- Sin perjuicio de disposiciones más favorables, establecidas en virtud de convenciones colectivas de trabajo, las personas que se enumeran a continuación gozarán de estabilidad laboral, para garantizar la defensa del interés colectivo y la autonomía en el ejercicio de las funciones sindicales como mínimo y por los plazos que se indican:
 
@@ -7234,13 +6499,9 @@ ch) En los casos en que no exista sindicato en la empresa, los representantes li
 
 (Así adicionado por el artículo 3º de la ley N° 7360 del 4 de noviembre de 1993)
 
-Ficha Artículo 367
-
 ARTICULO 368.- Al despido sin justa causa de un trabajador amparado en virtud de la protección que establece la presente Ley, no le será aplicable lo dispuesto en el artículo 28 de este Código. El juez laboral competente declarará nulo e ineficaz ese despido y, consecuentemente, ordenará la reinstalación del trabajador y el pago de los salarios caídos, además de las sanciones que corresponda imponer al empleador, de acuerdo con este Código y sus leyes supletorias y conexas. Si el trabajador manifiesta expresamente su deseo de no ser reinstalado, se le deberá reconocer, además de los derechos laborales correspondientes a un despido sin justa causa, una indemnización equivalente a los salarios que le hubiesen correspondido durante el plazo de la protección no disfrutada, de conformidad con el artículo anterior.
 
 (Así adicionado por el artículo 3º de la ley N° 7360 del 4 de noviembre de 1993)
-
-Ficha Artículo 368
 
 ARTICULO 369.- Además de las mencionadas en el artículo 81 de este Código, también son causas justas, que facultan al empleador a dar por terminado el contrato de trabajo de los trabajadores protegidos en virtud de la presente Ley, las siguientes:
 
@@ -7258,15 +6519,11 @@ Incitar a destruir, a inutilizar o interrumpir instalaciones públicas o privada
 
 (Así adicionado por el artículo 3º de la ley N° 7360 del 4 de noviembre de 1993)
 
-Ficha Artículo 369
-
 ARTICULO 370.- Cuando en una empresa exista un sindicato al que estén afiliados, al menos la mitad más uno de sus trabajadores, al empleador le estará prohibida la negociación colectiva, cualquiera que sea su denominación, cuando esa negociación no sea con el sindicato.
 
 Los acuerdos que se tomen en contra de lo dispuesto en este artículo, no serán registrados ni homologados por el Ministerio de Trabajo y Seguridad Social ni podrán ser opuestos, a los sindicatos.
 
 (Así adicionado por el artículo 3º de la ley N° 7360 del 4 de noviembre de 1993)
-
-Ficha Artículo 370
 
 TÍTULO SEXTO
 
@@ -7300,13 +6557,9 @@ No se considerará pacífica ninguna huelga que conlleve bloqueos en vías públ
 
 (Así reformado por el artículo 1° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
 
-Ficha Artículo 371
-
 Artículo 372.-Los titulares del derecho de huelga son los trabajadores y las trabajadoras, quienes lo ejercerán por medio de sus organizaciones sindicales o de una coalición temporal, en las empresas, las instituciones, los establecimientos o los centros de trabajo donde no hubiera personas sindicalizadas o cuando su número fuera insuficiente para constituir una organización sindical.
 
 (Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 372
 
 Artículo 373- El derecho de huelga comprende la participación en las actividades preparatorias que no interfieran en el desenvolvimiento normal de las labores de la empresa o centro de trabajo, de convocatoria, de elección de su modalidad, de adhesión a una huelga ya convocada o la negativa a participar en ella, de participación en su desarrollo, de desconvocatoria, así como la decisión de dar por terminada la propia participación en la huelga.
 
@@ -7314,19 +6567,13 @@ Queda prohibido a los trabajadores que participan de la huelga ausentarse o sepa
 
 (Así reformado por el artículo 1° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
 
-Ficha Artículo 373
-
 Artículo 374.- En el caso de instituciones o empresas que tengan más de un establecimiento o centro de trabajo, el porcentaje de apoyo mínimo requerido, conforme al artículo 371, se contabilizará considerando a todas las personas trabajadoras de la empresa, institución o el respectivo centro de trabajo, según sea el caso.
 
 (Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 374
-
 ARTICULO 375. - No será permitida la huelga en los servicios públicos. Las diferencias que en éstos ocurran entre patronos y trabajadores, así como en todos los demás casos en que se prohíbe la huelga, se someterán obligatoriamente al conocimiento y resolución de los Tribunales de Trabajo.
 
 (La Sala Constitucional, mediante resolución N° 1696 del 23 de junio de 1992, declaró inconstitucional el presente artículo "…respecto de las administraciones públicas con régimen de empleo de naturaleza pública…". "…Igualmente, considera necesario la Sala hacer la aclaración de tener por excluidos de este régimen, a los obreros, trabajadores y empleados que no participan de la gestión pública de la administración, cuando los mismos sean contratados por el Estado conforme al ejercicio de su capacidad de Derecho Privado…" De acuerdo con el contenido de la sentencia, los procedimientos de resolución de los conflictos colectivos de carácter económico y social, no son aplicables del todo a las administraciones regidas por el derecho público de empleo, ni al resto de las administraciones, en tanto no se subsanen las omisiones referentes a la falta de un régimen administrativo laboral adecuado a nuestro texto constitucional, y no se cree una norma administrativa expresa que permita al Estado, someterse a los tribunales de arbitraje en aras de solucionar conflictos colectivos.)
-
-Ficha Artículo 375
 
 Artículo 375 bis- La huelga en servicios esenciales es manifiestamente ilegal, por lo que no requiere del trámite de calificación previsto en este Código. En este caso, dentro de las veinticuatro horas siguientes a la suspensión de labores, la parte patronal estará obligada a solicitar al Juzgado de Trabajo la emisión de una orden dirigida a los trabajadores para que se reincorporen inmediatamente a sus labores. Con la solicitud se aportará la prueba correspondiente para acreditar la condición de servicio esencial.
 
@@ -7343,8 +6590,6 @@ En cualquiera de los casos, la apelación deberá presentarse ante el mismo Juzg
 Bajo ninguna circunstancia podrán ampliarse los plazos establecidos en la presente norma.
 
 (Así adicionado por el artículo 2° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
-
-Ficha Artículo 375 BIS
 
 Artículo 376- Para los efectos del artículo anterior se entienden por servicios públicos esenciales aquellos cuya suspensión, discontinuidad o paralización pueda causar daño significativo a los derechos a la vida, la salud y la seguridad pública.
 
@@ -7372,8 +6617,6 @@ i) Servicio de comedores escolares, así como los servicios de protección, cuid
 
 (Así reformado por el artículo 1° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
 
-Ficha Artículo 376
-
 Artículo 376 bis- Para la calificación de un servicio público esencial es irrelevante el que sea prestado por instituciones, entes o personas públicas o privadas, físicas o jurídicas.
 
 El Estado garantizará la continuidad de la prestación de todo servicio público esencial.
@@ -7381,8 +6624,6 @@ El Estado garantizará la continuidad de la prestación de todo servicio públic
 Para la resolución de los conflictos laborales que se presenten tratándose de personas que brinden un servicio público esencial, agotada la conciliación, los trabajadores y patronos estarán obligados a acudir la resolución jurisdiccional del conflicto o al arbitramento, de conformidad con los artículos 375, 429, 456 a 458 y 707 de este Código.
 
 (Así adicionado por el artículo 2° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
-
-Ficha Artículo 376 BIS
 
 Artículo 376 ter- Los servicios de importancia trascendental son aquellos que, por su carácter estratégico para el desarrollo socioeconómico del país, su paralización o suspensión implican un perjuicio sensible a las condiciones de vida de toda o parte de la población.
 
@@ -7406,8 +6647,6 @@ La ejecución de la huelga en este tipo de servicios estará condicionada a la p
 
 (Así adicionado por el artículo 2° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
 
-Ficha Artículo 376 TER
-
 Artículo 376 quater- La huelga en servicios de importancia trascendental deberá garantizar su continuidad mediante el esquema de prestación de servicios mínimos de atención a las personas usuarias.
 
 La fijación de los servicios mínimos se definirá mediante acuerdo de las partes, sobre la base de criterios técnicos, considerando la extensión personal y territorial de la huelga, su duración, modalidad de ejecución, la entidad del servicio y cualquier otro factor relevante, conforme a los criterios de necesidad, razonabilidad y proporcionalidad.
@@ -7426,8 +6665,6 @@ El plazo máximo de una huelga en servicios de importancia transcendental es de 
 
 (Así adicionado por el artículo 2° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
 
-Ficha Artículo 376 QUATER
-
 Artículo 376 quinquies- Los servicios de educación pública son de carácter estratégico para la nación, por lo que la huelga en estos tendrá las regulaciones que se establecen en el presente artículo.
 
 Durante toda la duración de la huelga deberá mantenerse el personal necesario para que cada centro educativo permanezca abierto y en condiciones básicas de aseo y seguridad. En el caso de educación especial deberán asegurarse la atención y la asistencia adecuadas en consideración a la condición de discapacidad de las personas.
@@ -7441,8 +6678,6 @@ En atención al acuerdo general entre las partes o en su defecto a la resolució
 La huelga en los servicios de educación se podrá ejercer hasta por un plazo de veintiún días naturales consecutivos o de diez días naturales discontinuos; vencidos estos plazos los trabajadores deberán regresar a sus labores y, en caso de no existir un acuerdo entre las partes, estas deberán dirimir sus controversias de conformidad con los procedimientos de solución de conflictos señalados en el artículo 707.
 
 (Así adicionado por el artículo 2° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
-
-Ficha Artículo 376
 
 Artículo 377- Para declarar una huelga legal, las personas trabajadoras deben:
 
@@ -7458,8 +6693,6 @@ En toda huelga, sin excepción, se deberán cumplir los requisitos señalados en
 
 (Así reformado por el artículo 1° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
 
-Ficha Artículo 377
-
 Artículo 378- La huelga, cualquiera que sea su modalidad, sea que la convoque uno o más sindicatos o, en su caso, una coalición de personas trabajadoras, podrá ejecutarse intermitentemente, de manera gradual o de forma escalonada. En estos casos, los días y las horas de suspensión, así como la modalidad de la huelga, deben ser comunicados, por escrito, a la parte empleadora previamente a su inicio, directamente o por medio del Ministerio de Trabajo y Seguridad Social.
 
 En ningún caso se podrá reiterar una huelga por los mismos motivos de una realizada anteriormente.
@@ -7467,8 +6700,6 @@ En ningún caso se podrá reiterar una huelga por los mismos motivos de una real
 (Nota de Sinalevi. De acuerdo con la resolución de la Sala Constitucional N° 026385 del 20 de agosto de 2025, la Sala Constitucional, en relación con la reiteración de la huelga, regulada en el párrafo anterior, declaró que este "no es inconstitucional, siempre y cuando se interprete que la expresión "por los mismo motivos", no impide la realización de una nueva huelga cuando haya un cambio de circunstancias o un incumplimiento patronal.")
 
 (Así reformado por el artículo 1° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
-
-Ficha Artículo 378
 
 CAPITULO SEGUNDO
 
@@ -7488,13 +6719,9 @@ La amortización de los salarios sujetos a reembolso se efectuará en los plazos
 
 (Así reformado por el artículo 1° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
 
-Ficha Artículo 379
-
 Artículo 380.- La huelga legal suspende los contratos de trabajo vigentes en los establecimientos, negocios, departamentos o centros de trabajo en que esta se declare, por todo el tiempo que ella dure. En los casos en que la huelga no se haya declarado en la totalidad del centro, sino en uno de los departamentos, secciones o categoría de trabajadores específicos, la suspensión operará únicamente respecto a estos.
 
 (Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 380
 
 Artículo 381.- Para alcanzar el porcentaje de apoyo mínimo requerido, conforme a las disposiciones de este título, se seguirá el siguiente procedimiento:
 
@@ -7514,8 +6741,6 @@ Cualquier violación a este artículo configurará una práctica laboral desleal
 
 (Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 381
-
 Artículo 382.-
 
 Para la determinación del porcentaje mínimo de convocatoria y apoyo a la huelga, se debe excluir:
@@ -7526,19 +6751,13 @@ b) A quienes figuren como representantes patronales.
 
 (Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 382
-
 Artículo 383.- La parte o las partes empleadoras afectadas por la huelga podrán solicitar, ante la jurisdicción de trabajo, la declaratoria de ilegalidad del movimiento, cuando los trabajadores, las trabajadoras o sus organizaciones sindicales no se hubieran ajustado en el ejercicio del derecho de huelga a las previsiones y los requisitos establecidos en los artículos 371, 377 y 381 de este Código.
 
 (Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 383
-
 Artículo 384.- De la misma forma, será facultativo para los trabajadores, las trabajadoras o sus organizaciones sindicales solicitar la declaratoria de legalidad de la huelga, de previo a su iniciación. En ese último caso, no podrán iniciar la ejecución de la huelga sin que estuviera firme la declaratoria de huelga legal. Los trabajadores, las trabajadoras o el sindicato respectivo también podrán solicitar la calificación de la huelga con posterioridad a su ejecución, e incluso luego de su finalización, para efectos de lo establecido en el artículo 386.
 
 (Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 384
 
 Artículo 385- Firme la declaratoria de ilegalidad de la huelga, la parte empleadora podrá ponerle fin, sin responsabilidad patronal, a los contratos de trabajo de los huelguistas, si estos no se reintegraran al trabajo dentro de las veinticuatro horas siguientes a la notificación de la respectiva resolución; previo cumplimiento del debido proceso, en el caso de los trabajadores del sector público.
 
@@ -7548,13 +6767,9 @@ No obstante lo anterior, en los nuevos contratos que celebre el patrono no podr�
 
 (Así reformado por el artículo 1° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
 
-Ficha Artículo 385
-
 Artículo 386.- Si la huelga fuera declarada legal por los tribunales y se determinara además, en la misma resolución, que los motivos de la huelga son imputables al empleador o la empleadora, por incumplimiento grave del contrato colectivo de trabajo o el incumplimiento generalizado de los contratos de trabajo, del arreglo conciliatorio, de la convención colectiva o del laudo arbitral, por negativa a negociar una convención colectiva, a reconocer a la organización sindical, a reinstalar a los representantes de las personas trabajadoras a pesar de existir sentencia firme que así lo ordene, o por maltrato o violencia contra los trabajadores o las trabajadoras, condenará a aquel al pago de los salarios correspondientes a los días en que estos permanezcan en huelga. La liquidación respectiva se realizará por medio del proceso de ejecución de sentencia.
 
 (Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 386
 
 CAPÍTULO SEGUNDO
 
@@ -7566,31 +6781,21 @@ El paro comprenderá siempre el paro total de las empresas, los establecimientos
 
 (Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 387
-
 Artículo 388.- El paro será legal, si los empleadores o las empleadoras se ajustan a los requisitos previstos en el artículo 377 y dan luego a sus trabajadores un aviso con un mes de anticipación para el solo efecto de que estos puedan dar por terminados sus contratos, sin responsabilidad para ninguna de las partes, durante ese período.
 
 (Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 388
 
 Artículo 389.- La reanudación de los trabajos se hará de acuerdo con las normas que establece el artículo 77.
 
 (Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 389
-
 Artículo 390.- Son aplicables al paro las disposiciones del artículo 380.
 
 (Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 390
-
 Artículo 391.- Se tendrá también por paro ilegal todo acto malicioso del empleador o la empleadora que imposibilite a las personas trabajadoras el normal desempeño de sus labores.
 
 (Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 391
 
 Artículo 392.- Todo paro ilegal tiene los siguientes efectos:
 
@@ -7602,8 +6807,6 @@ c) Da lugar, en cada caso, a la imposición de una multa de veinte a veintitrés
 
 (Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 392
-
 CAPÍTULO TERCERO
 
 Disposiciones comunes
@@ -7611,8 +6814,6 @@ Disposiciones comunes
 Artículo 393.- Ni los paros ni las huelgas deben perjudicar de forma alguna a los trabajadores o las trabajadoras que estuvieran percibiendo salarios o indemnizaciones por accidentes, enfermedades, maternidad, vacaciones u otras causas análogas.
 
 (Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 393
 
 Artículo 394.- En caso de huelga o paro legalmente declarado, los tribunales de trabajo darán orden inmediata a las autoridades de policía para que se proteja debidamente a las personas y propiedades cubiertas por dicha declaratoria y se mantengan clausurados los establecimientos, negocios, departamentos o centros de trabajo.
 
@@ -7622,13 +6823,9 @@ En caso de huelga o paro ilegal, los tribunales competentes ordenarán a las aut
 
 (Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 394
-
 Artículo 395.- El derecho de las partes empleadoras al paro y el de las trabajadoras a la huelga son irrenunciables; pero será válida la cláusula, en virtud de la cual se comprometa a no ejercerlos temporalmente, mientras una de las partes no incumpla los términos de la convención o el instrumento colectivo.
 
 (Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 395
 
 TÍTULO SÉTIMO
 
@@ -7644,13 +6841,9 @@ Serán también sancionables los funcionarios públicos de la Contraloría Gener
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 396
-
 Artículo 397.- Los procesos que se originen en dichas faltas serán de conocimiento de los tribunales de trabajo, de acuerdo con las reglas de competencia y por el procedimiento que en este mismo Código se señalan.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 397
 
 Artículo 398.- Las personas transgresoras referidas en el artículo 399 de este Código serán sancionadas con multa, según la siguiente tabla:
 
@@ -7670,13 +6863,9 @@ La denominación de salario base utilizada en esta ley en todo su articulado, sa
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 398
-
 Artículo 399.- La responsabilidad de las personas físicas es subjetiva y la de las personas jurídicas es objetiva. Cuando la conducta la realice un representante patronal de una empleadora persona jurídica o grupo de interés económico, en los términos del artículo 5 de este Código, la sanción recaerá también sobre estos según corresponda, a quienes solidariamente se extienden los efectos económicos de la falta del representante.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 399
 
 Artículo 400.- Las infracciones a las normas prohibitivas de este Código o de las leyes de trabajo y seguridad social serán sancionadas a partir de la multa comprendida en el numeral 3 de la tabla de sanciones del artículo 398, o superiores establecidas por ley especial.
 
@@ -7684,27 +6873,19 @@ Cuando se trate de la negativa a otorgar informes, avisos, solicitudes, permisos
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 400
-
 Artículo 401.- Al juzgarse las faltas de trabajo se aplicará la sanción que corresponda en cada caso, tomando en cuenta la gravedad del hecho, sus consecuencias, el número de faltas cometidas y la cantidad de trabajadores o trabajadoras que han sufrido los efectos de la infracción.
 
 Podrá aminorarse la sanción, siempre y cuando el infractor se comprometa a reparar el daño de inmediato de forma integral.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 401
-
 Artículo 402.- Toda persona que de mala fe incite públicamente a que una huelga o un paro se efectúe contra las disposiciones de este título, será sancionada con una multa de cinco a diez salarios base.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 402
-
 Artículo 403.- Los individuos que participen en un conflicto colectivo, utilizando medios que alteren el carácter pacífico del movimiento, serán repelidos y expulsados del entorno donde este se desarrolla, por cualquier autoridad policial, y sancionados con una multa de cinco a diez salarios base.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 403
 
 TÍTULO OCTAVO
 
@@ -7716,37 +6897,25 @@ Artículo 404- Se prohíbe toda discriminación en el trabajo por razones de eda
 
 (Así reformado por el artículo 28 de la Ley de protección de las personas denunciantes y testigos de actos de corrupción contra represalias laborales, N° 10437 del 29 de enero de 2024)
 
-Ficha Artículo 404
-
 Artículo 405.- Todas las personas trabajadoras que desempeñen en iguales condiciones subjetivas y objetivas un trabajo igual gozarán de los mismos derechos, en cuanto a jornada laboral y remuneración, sin discriminación alguna.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 405
 
 Artículo 406.- Se prohíbe el despido de los trabajadores o las trabajadoras por las razones señaladas en el artículo 404.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 406
-
 Artículo 407.- Queda prohibido a las personas empleadoras discriminar por edad al solicitar un servicio o seleccionar a un trabajador o una trabajadora.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 407
 
 Artículo 408.- Todas las personas, sin discriminación alguna, gozarán de las mismas oportunidades para obtener empleo y deberán ser consideradas elegibles en el ramo de su especialidad, siempre y cuando reúnan los requisitos formales solicitados por la persona empleadora o que estén establecidos mediante ley o reglamento.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 408
-
 Artículo 409.- Toda discriminación de las contempladas en el presente título podrá ser hecha valer por las autoridades o la parte interesada ante los juzgados de trabajo, de la forma dispuesta en este Código. En estos casos, quien alegue la discriminación deberá señalar específicamente el sustento fáctico en el que funda su alegato y los términos de comparación que substancie su afirmación.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 409
 
 Artículo 410.- Los empleadores o las empleadoras a quienes se les compruebe haber cesado a personas trabajadoras, por cualquiera de los motivos de discriminación antes indicados, deberán reinstalarlas en su trabajo, con el pleno goce de sus derechos y las consecuencias previstas para la sentencia de reinstalación.
 
@@ -7755,8 +6924,6 @@ En cuanto a la Administración Pública y las demás instituciones de derecho p�
 Todo trabajador que en el ejercicio de sus funciones relativas a reclutamiento, selección, nombramiento, movimientos de personal o de cualquier otra forma incurra en discriminación en los términos de este título, incurrirá en falta grave para los efectos del artículo 81 de este Código.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 410
 
 TÍTULO NOVENO
 
@@ -7768,13 +6935,9 @@ Artículo 411.- El cómputo, la suspensión, la interrupción y los demás extre
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 411
-
 Artículo 412.- Los derechos provenientes de sentencia judicial prescribirán en el término de diez años, que se comenzará a contar desde el día de la firmeza de la sentencia.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 412
 
 Artículo 413.- Salvo disposición especial en contrario, todos los derechos y las acciones provenientes de contratos de trabajo prescribirán en el término de un año, contado desde la fecha de extinción de dichos contratos.
 
@@ -7792,41 +6955,29 @@ e) No correrá prescripción alguna mientras se encuentre laborando a las órden
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 413
-
 Artículo 414.- Sin perjuicio de lo que establezcan las disposiciones especiales sobre el plazo de prescripción, los derechos y las acciones de los empleadores o las empleadoras para despedir justificadamente a los trabajadores o las trabajadoras, o para disciplinar sus faltas, prescribirán en el término de un mes, que comenzará a correr desde que se dio la causa para la separación o sanción o, en su caso, desde que fueran conocidos los hechos causales.
 
 En caso de que la parte empleadora deba cumplir un procedimiento sancionador, la intención de sanción debe notificarse al empleado dentro de ese plazo y, a partir de ese momento, el mes comenzará a correr de nuevo en el momento en que la persona empleadora o el órgano competente, en su caso, esté en posibilidad de resolver, salvo que el procedimiento se paralice o detenga por culpa atribuible exclusivamente a la parte empleadora, situación en la cual la prescripción es aplicable, si la paralización o suspensión alcanza a cubrir ese plazo.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 414
-
 Artículo 415.- Cuando sea necesario seguir un procedimiento y consignar las sanciones disciplinarias en un acto escrito, la ejecución de las así impuestas caduca, para todo efecto, en un año desde la firmeza del acto.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 415
 
 Artículo 416.- Los derechos y las acciones de las personas trabajadoras, para dar por concluido con justa causa su contrato de trabajo, prescriben en el término de seis meses contado desde el momento en que el empleador o la empleadora dio motivo para la separación, o desde el momento en que dicha persona tuvo conocimiento del motivo.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 416
-
 Artículo 417.- Los derechos y las acciones de los empleadores o las empleadoras, para reclamar contra quienes se separen injustificadamente de sus puestos, caducarán de acuerdo con lo previsto en el artículo 32 de este Código.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 417
 
 Artículo 418.- Salvo disposición legal en contrario, todos los derechos y las acciones provenientes de este Código, de sus reglamentos, de sus leyes conexas, incluidas las de previsión social, que no se originen directamente en contratos de trabajo ni se relacionen con conflictos jurídicos entre personas empleadoras y trabajadoras, prescriben en un año.
 
 Ese plazo correrá, para las primeras, desde el acaecimiento del hecho respectivo o desde que tuvieron conocimiento y, para las segundas y las demás personas interesadas, desde el momento en que estén en posibilidad efectiva de reclamar sus derechos o de ejercitar las acciones correspondientes.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 418
 
 Artículo 419.- La acción para sancionar las faltas cometidas contra las leyes de trabajo y de previsión social prescribe en dos años, contados a partir del momento en que se cometan o desde el cese de la situación, cuando se trate de hechos continuados.
 
@@ -7837,8 +6988,6 @@ La prescripción se interrumpe también por cualquier gestión judicial o por ge
 La prescripción de la sanción impuesta en sentencia firme se regirá por lo dispuesto en el artículo 412.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 419
 
 TÍTULO DÉCIMO
 
@@ -7860,13 +7009,9 @@ Dentro de ese ámbito se incluyen el conocimiento de todas las prestaciones deri
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 420
-
 Artículo 421.- Además de los principios generales correspondientes a todo proceso, como son los de exclusividad y obligatoriedad de la función jurisdiccional, independencia de los órganos jurisdiccionales, contradicción o audiencia bilateral, publicidad, obligatoriedad de los procedimientos legales, de la necesaria motivación de las resoluciones judiciales y de preclusión, el proceso laboral se rige por los siguientes principios procesales básicos: la conciliación, las actuaciones prioritariamente orales, la sencillez, el informalismo, la oficiosidad relativa, así como por la celeridad, la concentración, la inmediación, la búsqueda de la verdad real, la libertad probatoria, la lealtad procesal y la gratuidad o el costo mínimo.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 421
 
 Artículo 422.- Al interpretarse las disposiciones de este título, deberá tenerse en cuenta que su finalidad última es permitir ordenadamente la aplicación de las normas sustanciales y los principios que las informan, incluidas la justicia y la equidad, cuando resulten aplicables. Las personas encargadas de los órganos de esta materia dirigirán el proceso de forma protagónica, impulsándolo oportunamente, buscando la verdad real dentro de los límites establecidos, dándole a esta primacía sobre las expresiones formales, tutelando la indisponibilidad de los derechos y aplicando, de forma adecuada, las reglas "pro operario" ("in dubio pro operario", norma más favorable y condición más beneficiosa), de modo que en la solución de los conflictos se cumplan los principios cristianos de justicia social y la desigualdad de la parte trabajadora no se exprese en el resultado del proceso.
 
@@ -7874,15 +7019,11 @@ El Poder Judicial adoptará las medidas necesarias para proporcionar a las perso
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 422
-
 Artículo 423.- En los procesos en los que sea parte el Estado, sus instituciones y órganos se aplicará lo dispuesto en el artículo anterior, siempre y cuando no se contravenga el principio de legalidad.
 
 Sin embargo, la regla de la primacía de la realidad y las normas no escritas del ordenamiento podrán ser invocadas como fuente de derecho, cuando ello sea posible, de acuerdo con la Ley N.° 6227, Ley General de la Administración Pública, de 2 de mayo de 1978.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 423
 
 Artículo 424.- El proceso es de iniciativa de la parte y, una vez promovido, los órganos de la jurisdicción deberán dictar, de oficio, con amplias facultades, todas las medidas dirigidas a su avance y finalización, sin necesidad de gestión de las partes.
 
@@ -7890,27 +7031,19 @@ En la tramitación de los procesos regulados por este Código, los tribunales de
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 424
-
 Artículo 425.- Además de las exenciones acordadas en el artículo 10 de este Código, en el proceso regulado en este título no se exigirán depósitos de dinero ni cauciones de ninguna clase, con las excepciones previstas expresamente en la ley. Las publicaciones que deban hacerse en el periódico oficial serán gratuitas.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 425
-
 Artículo 426.- Se consideran contrarias al sistema de administración de justicia laboral la utilización por parte de los juzgadores de formalidades exageradas, abusivas e innecesarias. Como tales formalidades, se tendrán el decreto excesivo de nulidades, la falta de aplicación del principio de saneamiento y conservación del proceso, cuando ello fuera procedente; la disposición reiterada de prevenciones que debieron haberse hecho en una sola resolución; el otorgamiento de traslados no previstos en la ley; darles preeminencia a las normas procesales sobre las de fondo o aplicar, inconducentemente, formalidades y en general cualquier práctica procesal abusiva.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 426
 
 Artículo 427.- Las partes, sus apoderados o apoderadas, representantes, abogados o abogadas, los auxiliares de la justicia y los terceros que tuvieran algún contacto con el proceso deberán ajustar su conducta a la buena fe, a la dignidad de la justicia y al respeto debido a los juzgadores y a los otros litigantes y demás participantes.
 
 Se consideran actos contrarios a la lealtad y cometidos en fraude procesal, las demandas, incidencias o excepciones abusivas o reiterativas, el ofrecimiento de pruebas falsas, innecesarias o inconducentes al objeto del debate, el abuso de las medidas precautorias y de cualquier mecanismo procesal, la colusión, el incumplimiento de órdenes dispuestas en el proceso, el empleo de cualquier táctica dilatoria y no cooperar con el sistema de administración de justicia en la evacuación de las pruebas necesarias para la averiguación de los hechos debatidos.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 427
 
 Artículo 428.- La inexistencia de normas procesales expresamente previstas para un caso o situación concreta se llenará mediante la aplicación analógica de las otras disposiciones de este mismo Código y sus principios, en cuanto resulten compatibles.
 
@@ -7919,8 +7052,6 @@ La legislación procesal civil y la procesal contencioso-administrativa, en los 
 En todo caso, si hubiera omisión acerca de la forma de proceder, los órganos de la jurisdicción laboral estarán autorizados para idear el procedimiento más conveniente, a fin de que pueda dictarse con prontitud la resolución que decida imparcialmente las pretensiones de las partes, con tal de que se les garantice a estas el debido proceso. En todo caso, se respetará la enunciación taxativa de los recursos hecha en este Código.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 428
 
 SECCIÓN II
 
@@ -7935,8 +7066,6 @@ Los tribunales de apelación conocerán en segunda instancia de las alzadas que 
 En los circuitos judiciales donde el volumen de casos lo amerite, la Corte Suprema de Justicia podrá encargar a un determinado despacho el conocimiento de los asuntos de seguridad social o de alguna otra especialidad, correspondientes al territorio que se señale.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 429
 
 SECCIÓN III
 
@@ -7961,8 +7090,6 @@ Artículo 430.- Los juzgados de trabajo conocerán en primera instancia de:
 8. Todos los demás asuntos que determine la ley.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 430
 
 Artículo 431.- Los órganos tienen limitada su competencia al territorio señalado para ejercerla, excepto los casos en que sea necesario su traslado a otro territorio para practicar actuaciones indelegables. Los gastos de traslado correrán por cuenta de la parte interesada, salvo cuando se trate de las personas trabajadoras, en cuyo caso serán cubiertos por el Estado.
 
@@ -7998,19 +7125,13 @@ En todos los casos en que dos o más órganos tengan competencia para conocer po
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 431
-
 Artículo 432.- Cuando se trate de derechos irrenunciables, los órganos de trabajo, al dictar sus sentencias, ajustarán los montos respectivos a lo que legalmente corresponda, aunque resulten superiores a lo indicado en la pretensión, cuando algún documento o medio probatorio lo sustente de forma indubitable. Respecto de los extremos renunciables, las estimaciones o las fijaciones hechas en la demanda regirán como límites que los órganos de trabajo no podrán sobrepasar.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 432
-
 Artículo 433.- La competencia de los órganos de la jurisdicción laboral se extiende a las pretensiones conexas, aunque consideradas en sí mismas sean de otra naturaleza, siempre y cuando se deriven de los mismos hechos o estén íntimamente vinculadas a la relación substancial que determina la competencia.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 433
 
 Artículo 434.- En materia de competencia internacional, son competentes los tribunales costarricenses:
 
@@ -8026,19 +7147,13 @@ En los supuestos de los tres incisos anteriores, se aplicará siempre a toda la 
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 434
-
 Artículo 435.- La competencia solo se puede delegar para la práctica de actos procesales con cuya realización no se viole el principio de inmediación y que se requieran como auxilio para la substanciación del proceso. Queda absolutamente prohibida, bajo pena de nulidad, la delegación para la recepción de pruebas y de cualquier otro acto propio de la audiencia. Los tribunales, sin embargo, podrán incorporar al proceso hasta en la audiencia, cuando ello sea necesario, elementos probatorios incluidos testimonios, a través de medios de comunicación electrónica, siempre y cuando quede garantizada la autenticidad del contenido de la comunicación y no se afecte el debido proceso.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 435
-
 Artículo 436.- La parte actora no podrá impugnar la competencia del órgano ante el que radicó la demanda, al cual quedará vinculada hasta el fenecimiento y ejecución, en su caso, con arreglo a derecho. En consecuencia, no podrá hacer variar esa competencia aunque posteriormente cambien las circunstancias de hecho existentes al momento de instaurarse el proceso.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 436
 
 Artículo 437.- La competencia por la materia es improrrogable. Únicamente podrá ser protestada por la parte interesada, al contestar la demanda o contrademanda.
 
@@ -8046,15 +7161,11 @@ La excepción de incompetencia será rechazada de plano, cuando las pretensiones
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 437
-
 Artículo 438.- Acerca de la excepción de incompetencia por la materia, cuando sea procedente su trámite, se dará traslado por tres días a la parte contraria; transcurrido ese término, el juzgado dentro de los tres días siguientes resolverá lo que corresponda.
 
 La incompetencia por la materia podrá decretarse de oficio por el tribunal de instancia hasta en la audiencia de saneamiento. Se prohíbe decretar incompetencias por esa razón después de cumplido ese acto.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 438
 
 Artículo 439.- En los dos supuestos del artículo anterior, lo resuelto será apelable para ante el órgano competente según la Ley N.° 7333, Ley Orgánica del Poder Judicial, de 5 de mayo de 1993, para resolver cuestiones de competencia entre tribunales de distintas materias. Será necesario fundamentar el recurso y al respecto, así como para el trámite de la impugnación, se estará a lo dispuesto para la apelación en los artículos 589 y 590 de este mismo Código.
 
@@ -8063,8 +7174,6 @@ El pronunciamiento de ese órgano no tendrá ulterior recurso y será vinculante
 Si el pronunciamiento del juzgado no fuera apelado, el órgano de la materia al que se le atribuye la competencia podrá promover el respectivo conflicto ante el órgano indicado en el párrafo primero de este artículo, dentro del plazo perentorio de cinco días, a partir del día siguiente a la fecha en que se reciba el expediente.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 439
 
 Artículo 440.- Salvo disposición expresa en contrario, es prohibido a los tribunales declarar de oficio la incompetencia por razón del territorio y la parte interesada solo podrá protestarla al contestar la demanda.
 
@@ -8075,8 +7184,6 @@ La resolución que se dicte será apelable solo cuando se declare la incompetenc
 Si lo resuelto por el juzgado no fuera recurrido, se considerará firme y vinculante para las partes y, en su caso, el órgano jurisdiccional nacional, en cuyo favor se haya establecido la competencia por razón de territorio, deberá asumir el conocimiento del proceso, sin que le sea posible disentir por la vía del conflicto.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 440
 
 Artículo 441.- La competencia subjetiva se regirá por lo dispuesto en la legislación procesal civil y la Ley N.° 7333, Ley Orgánica del Poder Judicial, de 5 de mayo de 1993; pero los jueces de trabajo, además de las causales indicadas en dicha legislación, estarán sujetos a inhibitoria en los procesos contra el Estado o sus instituciones, cuando:
 
@@ -8089,8 +7196,6 @@ c) Se encuentre en igual relación con la autoridad o con los funcionarios que h
 d) Cuando en el momento de dictarse el acto que origina el proceso hayan formado parte como titulares de la jerarquía del órgano, organización o empresa que lo dictó, o cuando formen parte de uno u otras, aunque no hayan participado en la decisión.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 441
 
 Artículo 442.- Las recusaciones deberán interponerse:
 
@@ -8108,8 +7213,6 @@ La recusación no suspende la ejecución de la sentencia o de lo resuelto antes 
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 442
-
 CAPÍTULO SEGUNDO
 
 Partes del proceso
@@ -8122,21 +7225,15 @@ Artículo 443.- Tienen capacidad para comparecer en juicio en defensa de sus der
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 443
-
 Artículo 444.- Los trabajadores y las trabajadoras gozan, a partir de los quince años, de plena capacidad para ejercer ante las autoridades administrativas y judiciales las pretensiones que sean de su interés y, en general, para la tutela de sus derechos laborales y de seguridad social.
 
 En procesos en los que se discuta cualquier violación a los derechos de las personas trabajadoras menores de quince años, incluyendo los establecidos en el capítulo VII de la Ley N.º 7739, Código de la Niñez y la Adolescencia, de 6 de enero de 1998, así como la prohibición establecida en el artículo 92 de ese cuerpo normativo, estas personas serán representadas por su padre o su madre o por quien las represente legalmente y, en su defecto, por el Patronato Nacional de la Infancia (PANI), que para ese efecto designará a una persona abogada.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 444
-
 Artículo 445.- Las personas declaradas en estado de interdicción, los incapaces naturales mayores de dieciocho años y los ausentes comparecerán por medio de sus representantes legítimos. Si no los tuvieran o el que ostentan se encuentra en opuesto interés, se nombrará para que los represente como curador, sin costo alguno, a una persona abogada de asistencia social.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 445
 
 Artículo 446.- Los sindicatos tendrán legitimación para la defensa de los intereses económicos y sociales que les son propios. Para ejercer derechos subjetivos de sus afiliados es indispensable el otorgamiento de poder suficiente.
 
@@ -8144,19 +7241,13 @@ Para demandar la tutela de derechos colectivos jurídicos no requieren poder alg
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 446
-
 Artículo 447.- Las personas jurídicas comparecerán en el proceso por medio de su representante legítimo.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 447
-
 Artículo 448.- En las demandas contra el Estado, por actuaciones de la Administración Central, de los Poderes del Estado, del Tribunal Supremo de Elecciones, de la Contraloría General de la República y de la Defensoría de los Habitantes de la República, en tanto ejerzan función administrativa, la representación y defensa corresponderá a la Procuraduría General de la República.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 448
 
 Artículo 449.- La representación y defensa de las entidades descentralizadas se regirá de acuerdo con lo que establezcan sus propias leyes. Cuando la designación de representantes con facultades suficientes para litigar se hace en el diario oficial, bastará con que los representantes invoquen la publicación como prueba de su personería y aseguren, bajo juramento, que la designación no ha sido modificada o dejada sin efecto.
 
@@ -8166,25 +7257,17 @@ Cuando una entidad dicte algún acto o disposición que, para su firmeza, requie
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 449
-
 Artículo 450.- Quienes actúen como demandados o coadyuvantes, a excepción de la Contraloría General de la República, en los casos en que puede intervenir en los procesos conforme a la ley, podrán litigar unidos bajo una misma representación y dirección, siempre que sus posiciones no sean contradictorias y no exista conflicto de intereses.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 450
 
 Artículo 451.- Las partes podrán comparecer por sí mismas o con patrocinio letrado, o hacerse representar por una persona con mandato especial judicial mediante poder constituido de acuerdo con las leyes comunes. Salvo pacto o disposición legal en contrario, el otorgamiento confiere al apoderado o apoderada la facultad de solucionar el proceso mediante conciliación, aunque expresamente no se haya estipulado.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 451
-
 Artículo 452.- El Patronato Nacional de la Infancia (PANI) será parte en los procesos en los cuales intervengan menores de edad o madres que demanden derechos relacionados con la maternidad.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 452
 
 SECCIÓN II
 
@@ -8193,8 +7276,6 @@ Beneficio de justicia gratuita
 Artículo 453.- El Patronato Nacional de la Infancia (PANI) suministrará asistencia legal gratuita a las personas trabajadoras menores de edad que necesiten ejercitar acciones en los tribunales de trabajo, así como a las madres para el reclamo de sus derechos laborales relacionados con la maternidad.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 453
 
 Artículo 454.- Las personas trabajadoras cuyo ingreso mensual último o actual no supere dos salarios base del cargo de auxiliar administrativo de conformidad con lo dispuesto en el artículo 6 de la Ley N.° 9289, Ley de Presupuesto Ordinario y Extraordinario de la República para el Ejercicio Económico del Año 2015, de 29 de noviembre de 2014, tendrán derecho a asistencia legal gratuita, costeada por el Estado, para la tutela de sus derechos en conflictos jurídicos individuales. Las modificaciones hechas administrativamente en ese salario no se tomarán en cuenta para estos efectos, hasta tanto no sean incorporadas en dicha ley. La limitación económica indicada en esta norma no rige para las madres y los menores de edad respecto de la asistencia especial del Estado a que tienen derecho ni para casos de discriminación, en violación de lo dispuesto en el título octavo de este Código.
 
@@ -8208,13 +7289,9 @@ b) El cincuenta por ciento (50%) restante será depositado en el Fondo de Apoyo 
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 454
-
 Artículo 455.- El Colegio de Abogados y cualquier otra organización gremial pueden constituir por su cuenta centros o redes de asistencia legal gratuita con fines de servicio social. La persona designada para atender un asunto asumirá el papel de directora profesional, con todas las responsabilidades que ello implica y, en ningún caso, sus honorarios correrán a cargo del Poder Judicial. Las organizaciones definirán a lo interno la forma de prestación del servicio, pudiendo convenirse con la organización el pago de los honorarios en montos menores a los fijados en las tarifas existentes o la prestación del servicio mediante el pago de un salario. En el caso de resultar victoriosa la parte patrocinada, las costas personales que se le impongan a la contraria le corresponderán de forma total, salvo pacto en contrario, al abogado o la abogada.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 455
 
 CAPÍTULO TERCERO
 
@@ -8226,13 +7303,9 @@ Extrajudicialmente, con la intervención de mediadores del Ministerio de Trabajo
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 456
-
 Artículo 457.- En toda conciliación deberán respetarse los derechos irrenunciables, indisponibles e indiscutibles de las personas trabajadoras.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 457
 
 Artículo 458.- La Administración Pública y las demás instituciones de derecho público podrán conciliar, sobre su conducta administrativa, la validez de sus actos o sus efectos, con independencia de la naturaleza pública o privada de esos actos.
 
@@ -8243,8 +7316,6 @@ Los representantes de las instituciones del Estado deberán estar acreditados co
 Cuando corresponda conciliar a la Procuraduría General de la República, se requerirá la autorización expresa del procurador general de la República o del procurador general adjunto, quienes deberán oír previamente al procurador asesor.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 458
 
 CAPÍTULO CUARTO
 
@@ -8261,8 +7332,6 @@ También, podrán solicitarle al órgano jurisdiccional que antes de la presenta
 Esta regla también es aplicable a los empleadores o las empleadoras, en lo que respecta a las acciones o demandas que pretendan deducir en los órganos jurisdiccionales, pero si se tratara de una contrademanda o de pretensiones acumuladas, la suspensión del proceso solo podrá acordarse por el indicado lapso de tres meses para intentar la conciliación, a solicitud de ambas partes.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 459
 
 SECCIÓN II
 
@@ -8284,13 +7353,9 @@ En caso de que se opte por el agotamiento, una vez agotada la vía administrativ
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 460
-
 Artículo 461.- Si la parte hubiera elegido el agotamiento de la vía administrativa, la falta de ese requisito no podrá exigirse de oficio y cualquier omisión al respecto se tendrá por subsanada, si la parte demandada no alega la excepción oportunamente. Esta debe interponerse siempre bajo pena de rechazo de plano, de forma fundada, indicándose y demostrándose en el mismo acto la razón concreta por la cual la discusión administrativa no puede tenerse por cerrada.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 461
 
 CAPÍTULO QUINTO
 
@@ -8310,23 +7375,17 @@ En todo caso, con las excepciones que resulten de esta ley, las firmas serán au
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 462
-
 Artículo 463.- No se exigirán copias de los escritos y documentos que se aporten al proceso. Los documentos originales, cuya pérdida puede causar perjuicio irreparable, serán certificados a costa de la parte interesada, quedarán en la caja del respectivo despacho y serán mostrados a la parte contraria, si esta los pidiera.
 
 El despacho brindará a las partes las facilidades para que en cualquier momento, durante la jornada laboral, puedan obtener por su cuenta copias de las piezas de los expedientes.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 463
-
 Artículo 464.- En todos los actos procesales será obligatorio el uso del idioma español. En los actos procesales en los cuales intervenga una persona que requiera el uso del idioma lesco o de idiomas indígenas será de carácter obligatorio su traducción, según sea el caso.
 
 Los documentos redactados en otro idioma y ofrecidos como prueba por la parte trabajadora deberán traducirse por cuenta del despacho. Los que ofrezca la parte empleadora en esas condiciones serán traducidos por su cuenta. Estas traducciones podrán ser realizadas por un notario público, bajo su responsabilidad, en caso de conocer el idioma, de conformidad con lo indicado en el Código Notarial. El notario no podrá ser a su vez el abogado de una de las partes. Cuando los declarantes no hablen español o no puedan comunicarse oralmente, la declaración se tomará con el auxilio de un intérprete a cargo de la parte proponente, si se trata de la empleadora o, por cuenta del despacho, cuando el proponente sea la trabajadora. Si en el respectivo circuito judicial se contara con el servicio de intérprete en el idioma específico, será este quien en cualquiera de los dos supuestos mencionados auxilie, como parte de sus funciones, al funcionario encargado de recibir la declaración.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 464
 
 Artículo 465.- Los representantes legales de toda persona jurídica, incluidas las organizaciones sociales, deberán demostrar su personería mediante el respectivo documento o invocando la publicación, en caso de que esté permitido hacerlo de ese modo. Si su comparecencia lo es como parte actora, la personería del representante debe comprobarse en el acto de la primera presentación y, si lo fuera como demandada, es suficiente que el actor en el escrito de demanda indique el nombre o la razón social, en cuyo caso el traslado se notificará válidamente en la sede social con la persona que ante la parte demandante fungió como representante, en los términos del artículo 5 de este Código o con quien en ese momento figure como encargado o atienda al público los intereses de la empresa.
 
@@ -8342,8 +7401,6 @@ No será necesario que en el proceso se compruebe la personería del Estado o en
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 465
-
 Artículo 466.- Todos los días y las horas son hábiles para realizar las actuaciones judiciales. Sin embargo, cuando en este Código se fijen términos o plazos en días para la realización de actuaciones judiciales, se entenderá que se trata de días ordinariamente hábiles según la ley.
 
 Las providencias y los autos deberán dictarse dentro del tercer día. La sentencia en la audiencia se dictará al final de esa actividad, salvo disposición expresa en contrario, y en los asuntos en que no se celebra audiencia se emitirá dentro de los cinco días siguientes a aquel en que queden listos los autos para dictarla.
@@ -8351,8 +7408,6 @@ Las providencias y los autos deberán dictarse dentro del tercer día. La senten
 Las personas que funjan como titulares de los órganos jurisdiccionales, las encargadas de la tramitación de los procesos y las que laboran como sus asistentes velarán por el cumplimiento de los plazos judiciales y porque todas las actividades dispuestas en el proceso se realicen con prontitud y corrección, de modo que el proceso alcance su fin de forma oportuna; lo anterior, sin perjuicio de las responsabilidades previstas en la Ley N.° 7333, Ley Orgánica del Poder Judicial, de 5 de mayo de 1993.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 466
 
 Artículo 467.- Las gestiones escritas se presentarán directamente en el despacho judicial al que van dirigidas o en el sitio previsto por la organización judicial para hacer esas presentaciones y sus efectos se producirán, en este último caso, el día y la hora de la presentación, con independencia de la jornada ordinaria de trabajo del despacho respectivo.
 
@@ -8362,21 +7417,15 @@ Las gestiones escritas presentadas equivocadamente en un despacho u oficina que 
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 467
-
 Artículo 468.- Cada proceso dará lugar a la formación, con foliación ordenada y numerada, de expedientes físicos, los cuales también podrán ordenarse de forma electrónica.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 468
 
 Artículo 469.- La práctica de las notificaciones y todo lo relativo a ese acto procesal se regirá por la ley especial de notificaciones, salvo que en este Código o en sus leyes conexas se disponga otra cosa. Sin embargo, los órganos de la justicia laboral podrán disponer, en casos de urgencia, formas rápidas de notificación, por medio del propio órgano o de medios de comunicación que garanticen la realización efectiva del acto.
 
 Las resoluciones que se dicten en las audiencias orales se notificarán de forma oral, en el mismo acto de dictarlas o en la oportunidad que se señale para hacerlo.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 469
 
 SECCIÓN II
 
@@ -8387,8 +7436,6 @@ Artículo 470.- Las actuaciones jurisdiccionales deberán cumplir las disposicio
 Los titulares de los órganos jurisdiccionales velarán por el cumplimiento de esas disposiciones, de tal manera que no se produzca, en ningún momento, denegación del acceso a la justicia o se afecte el derecho de defensa.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 470
 
 Artículo 471.- Procederá la nulidad:
 
@@ -8414,8 +7461,6 @@ Artículo 471.- Procederá la nulidad:
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 471
-
 Artículo 472.- La nulidad podrá decretarse a solicitud de parte. Si se pidiera antes de la audiencia, el órgano puede decretarla oyendo a la parte contraria por tres días.
 
 Si para valorar la solicitud hecha fuera necesaria la evacuación de pruebas y cuando la nulidad se pida durante la audiencia, se substanciará en esa actividad procesal.
@@ -8428,15 +7473,11 @@ La petición de nulidad que pueda alegarse después de concluido el proceso se t
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 472
-
 Artículo 473.- La nulidad de los actos viciados también podrá declararse de oficio mientras subsista la competencia del órgano, cuando el quebranto procesal sea evidente; salvo en los casos de las sentencias y los autos con carácter de sentencia.
 
 Si la nulidad viciara actuaciones de un órgano superior, el competente para decretarla será este último y lo que resuelva no tendrá ulterior recurso.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 473
 
 Artículo 474.- Los vicios procesales deberán ser corregidos, subsanados o saneados y la nulidad se decretará, únicamente, cuando la subsanación no sea posible; pero en tal caso se procurará siempre evitar la pérdida, repetición o destrucción innecesarias de etapas del proceso, los actos o las diligencias cumplidos y se conservarán todas las actuaciones que en sí mismas sean válidas, de modo que puedan ser aprovechadas, una vez que el proceso se ajuste a la normalidad.
 
@@ -8444,15 +7485,11 @@ En el supuesto indicado en el inciso 4) del artículo 471, la parte incapaz o in
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 474
-
 Artículo 475.- Las nulidades no reclamadas durante el proceso y en las oportunidades señaladas se tendrán como definitivamente consentidas y subsanadas. Únicamente en los supuestos de falta de capacidad de alguna de las partes, indebida o insuficiente representación, falta del emplazamiento y la defectuosa notificación de este último a quien perjudique el resultado del proceso, con efectiva indefensión, podrá hacerse valer el vicio después de la sentencia con autoridad de cosa juzgada. En estos supuestos, el derecho de pedir la nulidad caducará en el término de un año, a partir de la mayoridad de la parte, cuando hubiera figurado como tal siendo menor de edad, si al mismo tiempo ha debido conocer dicho resultado y, en los demás casos, a partir del momento en que la parte se halle en capacidad de ejercitar sus derechos, si al mismo tiempo es o ha sido conocedora de la sentencia o, en el caso contrario, desde el momento en que razonablemente deba considerarse que deba haber sabido de su existencia.
 
 Las solicitudes de nulidad, reiterativas de otras ya denegadas en otras fases del proceso, serán inatendibles y se rechazarán de plano, salvo las que fundamenten algún medio de impugnación admisible.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 475
 
 SECCIÓN III
 
@@ -8462,15 +7499,11 @@ Artículo 476.- La actividad probatoria en el proceso laboral tiene como objetiv
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 476
-
 Artículo 477.- En principio, la carga de la prueba de los hechos controvertidos, constitutivos e impeditivos le corresponde a quien los invoca en su favor.
 
 El concepto de carga debe entenderse como la obligación de la parte de ofrecer, allegar o presentar la probanza en el momento procesal oportuno.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 477
 
 Artículo 478.- En los conflictos derivados de los contratos de trabajo, le corresponde a la parte trabajadora la prueba de la prestación personal de los servicios y, a la parte empleadora, la demostración de los hechos impeditivos que invoque y de todos aquellos que tiene la obligación de mantener debidamente documentados o registrados.
 
@@ -8500,8 +7533,6 @@ En todo caso, le corresponderá al empleador o la empleadora probar su dicho, cu
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 478
-
 Artículo 479.- Puede ofrecerse todo medio probatorio que sirva a la convicción del tribunal, admisibles en derecho público y en derecho común, siempre que no esté expresamente prohibido ni sea contrario al orden público o a la moral. Particularmente, podrán ofrecerse los siguientes:
 
 1. Declaración de la parte.
@@ -8528,8 +7559,6 @@ Los testigos podrán ofrecerse sobre los hechos generales, hasta en un número m
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 479
-
 Artículo 480.- No requieren prueba las normas de derecho internacional o interno debidamente publicadas, los hechos notorios, los que se encuentren amparados por una presunción legal y los ya probados, admitidos o confesados. Si se invocara como fuente de una pretensión una norma convencional o reglamentaria interna de la parte demandada, su existencia debe acreditarse por quien la hace valer. De ser necesario, a solicitud de la parte interesada, se prevendrá a la empleadora en el traslado de la demanda a aportar un ejemplar de la respectiva normativa. El incumplimiento de la prevención se tendrá como un acto de deslealtad procesal y la existencia de la norma o disposición podrá reputarse como existente, en los términos en que fue invocada por la parte demandante.
 
 Las pruebas practicadas o evacuadas válidamente en un proceso podrán incorporarse en otro sin necesidad de ratificación, cuando sea imposible o innecesario, a criterio del tribunal, repetirlas. La ratificación de la declaración de testigos solo procederá cuando en el proceso anterior no han intervenido las mismas partes, en cuyo caso las partes podrán hacer las preguntas que estimen necesarias en el acto de la ratificación.
@@ -8537,8 +7566,6 @@ Las pruebas practicadas o evacuadas válidamente en un proceso podrán incorpora
 Los procesos administrativos se incorporarán como parte de los procesos jurisdiccionales que se interpongan por la misma causa y se tomarán como prueba, conjuntamente con los elementos de convicción en ellos incorporados, salvo que la impugnación involucre su invalidez y esta se estime procedente.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 480
 
 Artículo 481.- Las pruebas se valorarán respetando el resultado del contradictorio, con criterios lógicos, de la experiencia, la ciencia, el correcto entendimiento humano y las presunciones humanas o legales.
 
@@ -8548,39 +7575,27 @@ Si bien la apreciación debe llevarse a cabo de forma armónica en atención al 
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 481
-
 Artículo 482.- Cuando la parte dispone de los documentos en los que constan las pruebas de los hechos controvertidos debe suministrarlos al proceso, si es requerida para ello. Si no lo hace injustificadamente, su comportamiento puede tenerse como malicioso y considerarse que la documentación omitida le da razón a lo afirmado por la parte contraria.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 482
 
 Artículo 483.- En el supuesto de atribución específica de la carga procesal a los empleadores, señalados en el inciso final del artículo 478, los tribunales tendrán facultades suficientes para requerir todas las pruebas que el caso amerite y valorarán la verosimilitud de las aserciones de la demanda con prudencia, de modo que impidan cualquier abuso derivado de esa atribución.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 483
-
 Artículo 484.- Cuando deban aplicarse normas de derecho público deberán respetarse los requisitos de validez y prueba de los actos exigidos por el ordenamiento, así como los valores establecidos de forma particular para determinados elementos probatorios, presunciones y principios, establecidos como criterios de valoración o fuerza probatoria, o que resulten de aplicación de acuerdo con la respectiva doctrina.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 484
-
 Artículo 485.- Las fotocopias de documentos o textos, aunque no estén firmadas, podrán ser apreciadas como elementos probatorios, salvo que la parte a quien se oponen las haya impugnado y al mismo tiempo desvirtuado su contenido.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 485
 
 Artículo 486.- Los tribunales de trabajo podrán ordenar las pruebas complementarias que juzguen necesarias para resolver con acierto los casos sometidos a su conocimiento, incluyendo elementos probatorios nuevos o no propuestos por las partes, hasta antes de dictarse la sentencia. Sin embargo, en los casos que se refieran al pago de cuotas obrero-patronales o al cumplimiento de otras obligaciones con la seguridad social, los tribunales de trabajo deberán solicitar, de oficio, el informe respectivo a la Caja Costarricense de Seguro Social (CCSS).
 
 Las pruebas, una vez recibidas y de previo a cualquier resolución, deberán ser puestas a conocimiento de las partes. La misma regla se aplicará en relación con las pruebas anticipadas o irrepetibles, siempre y cuando estas hayan sido previamente ordenadas, comunicadas y dirigidas por el juez respectivo respetando los principios de inmediación y comunidad de la prueba.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 486
 
 SECCIÓN IV
 
@@ -8594,8 +7609,6 @@ La acumulación podrá ordenarse de oficio, sin recurso alguno, cuando los proce
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 487
-
 Artículo 488-
 
 Cuando el crédito laboral se pretenda ante una sucesión, concurso o persona jurídica disuelta pendiente de liquidación, se podrá iniciar o continuar un proceso judicial en los tribunales de trabajo competentes, con la participación del albacea, interventor, administrador concursal, liquidador o por el propio deudor, cuando proceda de acuerdo con la ley concursal vigente.
@@ -8607,8 +7620,6 @@ El órgano que conoce del proceso universal remitirá al tribunal laboral el pro
 Los créditos laborales no soportarán gastos de la masa, a menos que del producto de la liquidación no sobre lo suficiente para cubrirlos.
 
 (Así reformado por el artículo 74 de la ley N° 9957 del 14 de abril del 2021 "Ley Concursal de Costa Rica)
-
-Ficha Artículo 488
 
 SECCIÓN V
 
@@ -8622,21 +7633,15 @@ Con respecto a la tipología de las medidas, tanto cautelares como preparatorias
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 489
-
 Artículo 490.- Las medidas se ordenarán a solicitud de parte y de oficio únicamente en los casos expresamente previstos en la ley. Al ponerlas en práctica los tribunales actuarán diligentemente, de manera que no se frustre el fin perseguido y estos, además de las tipologías previstas en la ley común, podrán hacer uso de cualquier otra medida, si se considera necesaria para garantizar el eventual futuro derecho.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 490
 
 Artículo 491.- El embargo preventivo procederá sin necesidad de fianza, cuando haya evidencia de que el patrimonio del deudor corre peligro de desmejorarse durante la tramitación del proceso, como garantía de los eventuales derechos del trabajador o la trabajadora, tornándolo insuficiente. Con el propósito de comprobar "prima facie" la prestación personal del servicio y la veracidad del hecho o los hechos en que el pedimento se apoya, esa parte deberá ofrecer el testimonio de dos personas, así como cualquier otro elemento probatorio que juzgue importante. Las probanzas se sustanciarán sumariamente de forma escrita, aun sin asistencia de la parte contra quien se solicita la medida y, al valorarse la situación, los tribunales actuarán con prudencia, de manera tal que el embargo sea proporcionado y no se utilice de forma innecesaria o abusiva. La prueba testimonial evacuada solo tendrá eficacia para sustentar la medida del embargo.
 
 Si el embargo se solicitara como acto previo a la demanda, la presentación de esta última deberá hacerse a más tardar diez días después de practicado. Si no lo hiciera, de oficio o a solicitud de parte, se revocará la medida y se condenará al solicitante al pago de los daños y perjuicios en el tanto de un diez por ciento (10%) del monto del embargo. Estas consecuencias serán advertidas en la resolución inicial. Su fijación y cobro mediante la vía del apremio patrimonial se hará en el mismo proceso.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 491
 
 Artículo 492.- El arraigo se decretará sin más trámite ni garantía. Si se solicita como previo a la demanda, esta deberá presentarse dentro de los tres días siguientes a la notificación; de lo contrario, se levantará de oficio o a petición de parte y se condenará al peticionario al pago de los daños y perjuicios correspondientes. Se ejecutará de la misma forma indicada en la norma anterior.
 
@@ -8645,8 +7650,6 @@ El arraigo consistirá en la prevención del juez al demandado de que este debe 
 En caso de personas jurídicas o de la Administración Pública, el arraigo solo se decretará si no existe otro apoderado o representante con poder suficiente residente en el país.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 492
 
 Artículo 493.- En los procesos contra el Estado o cualquiera de sus instituciones u órganos, que sea de conocimiento de la jurisdicción laboral y que no versen sobre la violación de fueros especiales de tutela, cuya pretensión tenga como efecto la reinstalación al puesto de trabajo, podrá plantearse como medida cautelar la suspensión de los efectos del acto de despido o, en su caso, la reinstalación provisional de la persona trabajadora.
 
@@ -8658,8 +7661,6 @@ El órgano jurisdiccional, al pronunciarse sobre la solicitud, ponderará no sol
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 493
-
 Artículo 494.- La solicitud se sustanciará en proceso incidental. Si lo que se pide es la suspensión de los efectos del acto, al dársele curso a la articulación, se ordenará a la autoridad administrativa no ejecutar el acto hasta tanto no se resuelva la solicitud, apercibiéndola de que el incumplimiento la hará incurrir en el delito de desobediencia a la autoridad y en el pago de salarios caídos. La notificación se hará legítimamente por cualquier medio escrito, inclusive por la propia parte interesada, si comprueba al despacho el recibido de la comunicación.
 
 La reinstalación se regirá en lo pertinente por lo dispuesto en el capítulo que regula el procedimiento de ejecución.
@@ -8667,8 +7668,6 @@ La reinstalación se regirá en lo pertinente por lo dispuesto en el capítulo q
 En todo supuesto de violación de fueros especiales de tutela, la reinstalación precautoria se regirá por lo señalado en el procedimiento previsto para esos casos.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 494
 
 CAPÍTULO SEXTO
 
@@ -8706,15 +7705,11 @@ La parte puede proponer prueba pericial a su costa, aun en los casos en que, de 
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 495
-
 Artículo 496.- Cuando la demanda no cumpla los requisitos antes señalados, excepción hecha del que se refiere al agotamiento de la vía administrativa, el juzgado ordenará su subsanación dentro del plazo de cinco días; para ello, deberá indicar los requisitos omitidos o incompletos, bajo pena de ordenar la inadmisibilidad y el archivo del expediente. El archivo provocará el fenecimiento del asunto desde el punto de vista procesal y solo podrá readmitirse para su trámite subsanándose las omisiones o los defectos prevenidos, teniéndose la demanda como no puesta para todo efecto.
 
 También, ordenará a la parte integrar debidamente la litis, cuando esta se encuentre incompleta o incorrectamente planteada e indicará las omisiones en que hubiera incurrido sobre extremos irrenunciables, para que, si a bien lo tiene, los incorpore como parte de la demanda o contrademanda, hasta la fase preliminar de la audiencia. Sin embargo, cuando el defecto en la integración se origine en un litis consorcio pasivo necesario, la integración podrá ordenarse de oficio.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 496
 
 Artículo 497.- Presentada la demanda en debida forma, se dará traslado de esta por un plazo perentorio de diez días para su contestación. En esta se expondrá con claridad si se rechazan los hechos o si se admiten con variantes o rectificaciones, y se deberán ofrecer todas las pruebas de interés para la parte y hacer el respectivo señalamiento del lugar y la forma o medio para notificaciones. En cuanto a la aportación de las pruebas por la parte, se aplicará también lo dispuesto para la demanda, inclusive en lo que respecta a prueba pericial, en los casos en que debe designarse un perito oficial.
 
@@ -8724,8 +7719,6 @@ En los casos de demandas relacionadas con conflictos colectivos jurídicos, se e
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 497
-
 Artículo 498.- La contrademanda, cuando la hubiera, será trasladada a la parte reconvenida por diez días y su contestación se ajustará a lo dicho en el artículo anterior. Es suficiente la notificación de ese traslado a la parte reconvenida en el lugar o medio señalado para notificaciones.
 
 Al darse el traslado de la demanda y contrademanda, se prevendrá a la parte de que si no contesta en el término concedido o no responde de forma clara, se le tendrá por allanada en cuanto a los hechos no contestados o no respondidos según queda dicho, los que se tendrán por ciertos en sentencia, salvo que en el expediente existan elementos probatorios que los desvirtúen.
@@ -8734,13 +7727,9 @@ También, en ese mismo momento procesal se ordenarán las peritaciones a cargo d
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 498
-
 Artículo 499.- La presentación de la demanda, en sí misma considerada, así como el emplazamiento, debidamente notificado, producen la interrupción de la prescripción. El emplazamiento provoca, además, una situación de pendencia, durante la cual y hasta la firmeza de la sentencia producirá efectos interruptores de la prescripción de forma continuada.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 499
 
 Artículo 500.- En el mismo escrito de contestación de la demanda o la contrademanda deberán oponerse todas las defensas formales y de fondo, con indicación de los hechos impeditivos, las razones que sirven de fundamento a la oposición y ofrecerse los medios de prueba que le correspondan.
 
@@ -8750,19 +7739,13 @@ Se podrá justificar la falta de la entrega de la carta y alegar las conductas a
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 500
-
 Artículo 501.- Las pruebas de la contrademanda y réplica deben presentarse u ofrecerse en la misma forma establecida para la demanda y las relacionadas con las excepciones en el momento en que la parte deba referirse a ellas o, a más tardar, en la fase preliminar de la audiencia o en la audiencia preliminar, cuando la substanciación del proceso se lleve a cabo en dos audiencias.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 501
-
 Artículo 502.- Las partes no tienen obligación de indicar los fundamentos jurídicos de las proposiciones, pero deben plantearlas con claridad y precisión e indicar las razones que a su juicio las amparan.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 502
 
 Artículo 503.- Serán de previa resolución las siguientes excepciones:
 
@@ -8792,8 +7775,6 @@ La improcedencia de la vía escogida podrá apreciarse también de oficio, para 
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 503
-
 Artículo 504.- Si bien todas las excepciones materiales pueden oponerse hasta en la contestación de la demanda o contrademanda, las de transacción y prescripción podrán alegarse hasta en la fase preliminar de la audiencia en los procesos de única audiencia. En este caso, serán sustanciadas sumariamente en ese mismo acto.
 
 También podrán oponerse en esa misma oportunidad otras excepciones materiales, cuando los hechos en que se funden hubieran ocurrido con posterioridad a la contestación o hubieran llegado a conocimiento de la parte después del plazo para contestar.
@@ -8804,13 +7785,9 @@ Las excepciones materiales de cosa juzgada, transacción y las excepciones de ca
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 504
-
 Artículo 505.- Si alguna parte invocara, como fundamento de una excepción procesal, elementos de hecho sustanciales o viceversa, el error no será motivo para rechazar de plano la gestión y los tribunales le darán a la objeción el tratamiento correcto, según su naturaleza.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 505
 
 SECCIÓN II
 
@@ -8822,13 +7799,9 @@ Al emitir pronunciamiento, salvo el caso de allanamiento, se tomarán en cuenta 
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 506
-
 Artículo 507.- Cuando la certeza de los hechos de la demanda solo puede establecerse parcialmente o tal certeza está referida únicamente a los hechos de la contrademanda, las cuestiones inciertas se debatirán mediante audiencia. En esta última no se debatirá sobre los hechos admitidos o que deban tenerse por ciertos.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 507
 
 Artículo 508.- Podrá dictarse también sentencia anticipada, de oficio o mediante la interposición de la correspondiente excepción, declarando la improponibilidad de la demanda y su consiguiente archivo, cuando:
 
@@ -8840,13 +7813,9 @@ Artículo 508.- Podrá dictarse también sentencia anticipada, de oficio o media
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 508
-
 Artículo 509.- La prescripción y la caducidad autorizada expresamente por el ordenamiento sustantivo, de los derechos pretendidos en juicio, son declarables en sentencia anticipada.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 509
 
 Artículo 510.- La improponibilidad y la caducidad pueden declararse de oficio únicamente por el juzgado de instancia, pero de previo deberá oírse al respecto a las partes por tres días.
 
@@ -8854,13 +7823,9 @@ Si en alguno de los casos tratados en los dos artículos anteriores fuera necesa
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 510
-
 Artículo 511.-En los asuntos de puro derecho se dictará la sentencia dentro de los quince días posteriores a la contestación de la demanda o contrademanda o, en su caso, de las excepciones interpuestas, previo traslado para conclusiones.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 511
 
 SECCIÓN III
 
@@ -8870,13 +7835,9 @@ Artículo 512.- El proceso ordinario se sustanciará, como regla general, en una
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 512
-
 Artículo 513.- Si no se estuviera en un supuesto de sentencia anticipada, contestada la demanda o la reconvención en su caso, y no hubiera ninguna cuestión que requiera solución previa, en una sola resolución se pondrán esas contestaciones a conocimiento de la parte contraria y se señalará hora y fecha para la celebración de la audiencia, a más tardar dentro del mes siguiente. En esa misma resolución se emitirá pronunciamiento acerca de la admisibilidad de las pruebas a evacuarse en la audiencia y, en su caso, se fijarán los honorarios de los peritos no oficiales.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 513
 
 Artículo 514.- Las partes podrán solicitar, verbalmente al despacho judicial, la entrega de cédulas de citación para los testigos.
 
@@ -8888,13 +7849,9 @@ Si la parte se ofrece o hubiera sido ofrecida como declarante, deberá obligator
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 514
-
 Artículo 515- Queda prohibido a los patronos negar permiso a las personas trabajadoras para ausentarse del trabajo, cuando estas deban comparecer como testigos o actuar en alguna otra diligencia judicial, realizar alguna diligencia administrativa personal ante el Ministerio de Trabajo y Seguridad Social debidamente justificada o participar de algún proceso disciplinario de la Administración Pública. Tampoco podrán rebajarles sus salarios por tales motivos, siempre que las personas trabajadoras muestren, por anticipado, la respectiva orden de citación y, posteriormente, el comprobante de asistencia.
 
 (Así reformado por el artículo único de la Ley para facilitar las gestiones administrativas de las personas trabajadoras ante el Ministerio de Trabajo y Seguridad Social, N° 10771 del 4 de noviembre de 2025)
-
-Ficha Artículo 515
 
 Artículo 516.- Las pericias oficiales se harán sin costo alguno para las partes. Los honorarios de los peritos no oficiales, que se designen a petición de los litigantes, deberán ser cubiertos por la parte que los propone, dentro de los cinco días siguientes a la admisión de la probanza, bajo pena de tenerla como inevacuable de pleno derecho, si no se depositan oportunamente a la orden del despacho.
 
@@ -8905,8 +7862,6 @@ A excepción de los asuntos sobre seguridad social, en los cuales los dictámene
 El incumplimiento injustificado de las personas nombradas para hacer las peritaciones dará lugar a responsabilidad civil y laboral, reputándose la omisión como falta grave y motivo suficiente para excluirlas de los respectivos roles de peritos o iniciar el respectivo procedimiento disciplinario.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 516
 
 Artículo 517.- En la fase preliminar se realizarán las siguientes actuaciones:
 
@@ -8927,8 +7882,6 @@ Si las mismas probanzas están ligadas, además de la cuestión que se puede res
 7.- Se dará traslado sumarísimo sobre las pruebas allegadas al expediente y que se hubieran dispuesto al cursarse la demanda o la reconvención y, en su caso, se ordenarán las pruebas que el tribunal juzgue indispensables como complementarias o para mejor proveer, a indicación de las partes o de propia iniciativa, siempre y cuando versen sobre los hechos introducidos legalmente a debate en el proceso.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 517
 
 Artículo 518.- En la fase complementaria:
 
@@ -8964,43 +7917,29 @@ Cuando todas las partes se manifiesten satisfechas con la sentencia en su parte 
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 518
-
 Artículo 519.- A solicitud de parte o por decisión del juzgado, los procesos ordinarios de evidente complejidad podrán ventilarse en dos audiencias, en cuyo caso en la primera audiencia se cumplirán los actos de la fase preliminar del proceso en única audiencia y, en la segunda, los de la fase complementaria o de juicio. La decisión debe ser razonada.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 519
 
 Artículo 520.- Las mismas reglas se aplicarán en los procesos no ordinarios, cuando deba ventilarse alguna cuestión de forma contradictoria que requiera la recepción de pruebas cumpliendo el principio de inmediación.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 520
-
 Artículo 521.- Cuando el proceso deba ventilarse en dos audiencias, se procederá conforme a lo indicado en el artículo 513 y en la misma resolución que haga el señalamiento para la audiencia preliminar, el juzgado se pronunciará únicamente sobre la admisibilidad de las pruebas que deban evacuarse en esa audiencia.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 521
 
 Artículo 522.- Al concluirse la audiencia preliminar se emitirá pronunciamiento sobre las pruebas ofrecidas por las partes, respecto de las cuestiones de fondo debatidas; se fijarán los honorarios de los peritos no oficiales; se dará traslado sumarísimo sobre las pruebas allegadas al expediente que se hubieran dispuesto al cursarse la demanda o reconvención y, en su caso, se ordenarán las pruebas que el tribunal juzgue indispensables como complementarias o para mejor proveer, a indicación de las partes o por propia iniciativa, siempre y cuando versen sobre los hechos introducidos legalmente a debate en el proceso, y se hará señalamiento de la hora y fecha para la audiencia complementaria o de juicio, cuando así se requiera, la cual necesariamente deberá llevarse a cabo dentro del mes siguiente.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 522
-
 Artículo 523.- En la audiencia de juicio se dará traslado sumarísimo de las probanzas incorporadas al expediente, después de la audiencia preliminar.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 523
-
 Artículo 524.- Cuando se deniegue alguna prueba, el ofrecimiento podrá reintentarse en la audiencia respectiva y si se mantuviera la denegatoria esta podrá impugnarse en esa oportunidad, de la forma prevista en este Código, caso en el cual la apelación se tramitará de forma reservada.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 524
 
 SECCIÓN IV
 
@@ -9016,8 +7955,6 @@ La persona titular del órgano deberá asegurar, durante su celebración, el ple
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 525
-
 Artículo 526.- Las partes, o sus representantes debidamente acreditados en el caso de las personas jurídicas, deberán comparecer a las audiencias a que sean convocados. Podrá hacerlo, en su lugar, una persona con poder especial judicial; sin embargo, cuando la parte en persona o por medio del representante social deba comparecer como declarante, su asistencia es obligatoria, bajo pena de tener la incomparecencia como presunción de veracidad de los hechos o temas objeto de la declaración.
 
 La inasistencia de la parte que estuviera obligada a asistir podrá justificarse, a los efectos de reprogramar el acto de su declaración, solo por razones que realmente impidan la asistencia y siempre y cuando la justificación se haga antes de la hora y fecha señaladas, salvo que los hechos que la motivan se hayan dado el mismo día de la audiencia, caso en el cual deberá avisarlo de forma inmediata al despacho por cualquier vía y justificarlo el día siguiente.
@@ -9028,15 +7965,11 @@ No será válido invocar como justificantes actividades de interés personal o f
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 526
-
 Artículo 527.- La audiencia se celebrará si asiste por lo menos una de las partes o su representante legal, con el debido patrocinio letrado cuando se requiera. En tal caso, se desarrollarán todos los actos de la audiencia que sea posible llevar a cabo y en ella se recibirá la prueba de esa parte y los testimonios de las personas ofrecidas por la contraria que se presentaran.
 
 Si la parte demandada o reconvenida no asistiera a una audiencia preliminar o única, se tendrán como desistidas las excepciones o cuestiones formales de previa resolución deducidas por esa parte, propias de ser conocidas en la fase preliminar; pero, si versaran sobre defectos que impidan resolver válidamente el fondo, el juzgado dispondrá de oficio las correcciones o integraciones que sean necesarias.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 527
 
 Artículo 528.- Si se produjera la inasistencia de alguna de las partes o de todas a la audiencia única o de juicio, la sentencia se dictará apreciando los hechos a la luz de las pruebas recibidas o incorporadas, las cargas probatorias omitidas, el mérito de los autos y los criterios de valoración establecidos en este Código.
 
@@ -9044,13 +7977,9 @@ En estos casos, el órgano puede ordenar pruebas complementarias o para mejor pr
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 528
-
 Artículo 529.- En las audiencias se otorgará la palabra, por su orden, al actor, al demandado, a los terceros o coadyuvantes, o a sus respectivos representantes. Si alguna de las partes tuviera más de una abogada o un abogado, los intervinientes deberán distribuirse su actividad y el uso de la palabra, e informarlo anticipadamente al tribunal. Queda prohibida la participación conjunta en una actuación específica.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 529
 
 Artículo 530.- Las resoluciones de las cuestiones que deban conocerse o que se planteen dentro de la audiencia se dictarán oralmente y quedarán notificadas a las partes en ese mismo acto con la sola lectura, debiendo consignarse en el acta, al menos sucintamente, los fundamentos jurídicos y de hecho del pronunciamiento.
 
@@ -9062,19 +7991,13 @@ La alzada se tramitará únicamente en aquellos casos en que el pronunciamiento 
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 530
-
 Artículo 531.- Los traslados que se den en las audiencias serán sumarísimos, para ser evacuados de forma inmediata, de tal manera que no constituyan un obstáculo para el normal desarrollo de la actividad.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 531
-
 Artículo 532.- Los asistentes y las asistentes tienen el deber de permanecer en actitud respetuosa y en silencio, mientras no estén autorizados para exponer o responder las preguntas que se les formulen. Les queda absolutamente prohibido portar armas u objetos aptos para incomodar u ofender, mantener los teléfonos móviles encendidos y adoptar comportamientos intimidatorios, provocativos o de insinuación. Si la persona, no obstante de haber sido prevenida, continúa con el comportamiento indebido, podrá ser expulsada de la audiencia, lo cual dará lugar a que se le tenga como inasistente a partir de ese momento, para todo efecto.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 532
 
 Artículo 533.- Con motivo de la audiencia se levantará un acta, en la cual se dejará constancia de lo siguiente:
 
@@ -9098,8 +8021,6 @@ El acta será firmada por la persona que ha dirigido la audiencia, las partes y 
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 533
-
 Artículo 534.- A excepción de lo mencionado antes respecto del contenido de la conciliación, se prohíbe la transcripción literal o de forma extensa de los contenidos probatorios.
 
 Los tribunales deberán grabar las audiencias a través de medios tecnológicos que garanticen adecuadamente la conservación de sus contenidos y sirvan como ayuda de memoria en la redacción de la sentencia.
@@ -9107,8 +8028,6 @@ Los tribunales deberán grabar las audiencias a través de medios tecnológicos 
 Las grabaciones se mantendrán sin borrarse hasta un año después de ejecutada la sentencia firme y las partes podrán obtener copias o reproducciones a su costa.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 534
 
 Artículo 535.- Las audiencias se desarrollarán sin interrupción, durante las horas y los días que se requieran, salvo para:
 
@@ -9121,8 +8040,6 @@ Artículo 535.- Las audiencias se desarrollarán sin interrupción, durante las 
 4. Cuando, a juicio de quien dirige la audiencia, fuera absolutamente indispensable para garantizar el derecho de defensa de los litigantes.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 535
 
 Artículo 536.- Podrá posponerse la conclusión de una audiencia de juicio aun después del alegato de conclusiones o reprogramarse por una única vez y que la posposición no sea por más de diez días, cuando sea necesario recibir alguna probanza no evacuada en esa oportunidad o cuya trascendencia surja durante la audiencia, en ambos casos si se ordena para mejor proveer, o bien, cuando sea necesario para debatir adecuadamente sobre excepciones o cuestiones nuevas, legalmente alegadas en la audiencia, o para recibirles declaración a testigos desobedientes de la citación. En este caso, sin necesidad de petición de la parte, se ordenará la presentación de esos testigos mediante la Fuerza Pública.
 
@@ -9140,8 +8057,6 @@ Las actuaciones se dejarán constando en un acta, que se consignará y firmará 
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 536
-
 Artículo 537- El dictado de la sentencia, su documentación y notificación a las partes fuera de los plazos indicados en este Código, sin causa justificada, constituirá falta grave de servicio y dará lugar a las responsabilidades civiles y disciplinarias correspondientes.
 
 En caso de muerte, incapacidad o alguna otra situación fortuita o de fuerza mayor por la que deba sustituirse a la persona juzgadora, antes del dictado de la sentencia, el juzgado, con su nueva integración, deberá dictar sentencia con vista al registro audiovisual del juicio oral y público, para lo cual volverá a correr el plazo establecido en el inciso 4) del artículo 518.
@@ -9149,8 +8064,6 @@ En caso de muerte, incapacidad o alguna otra situación fortuita o de fuerza may
 De no existir o estar incompleto este registro, lo actuado y resuelto será nulo, por lo que el juicio oral y público deberá repetirse. Lo anterior, salvo en el caso de los actos y las actuaciones probatorias irreproductibles, que mantendrán su validez en la nueva audiencia.
 
 (Así reformado por el artículo único de la ley N° 9884 del 20 de agosto del 2020)
-
-Ficha Artículo 537
 
 SECCIÓN V
 
@@ -9180,8 +8093,6 @@ Artículo 538.- Las pretensiones correspondientes a la seguridad social se susta
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 538
-
 CAPÍTULO SÉTIMO
 
 Procesos especiales
@@ -9199,8 +8110,6 @@ Artículo 539.- Los procesos que versen exclusivamente sobre pretensiones, cuya 
 3. La sentencia tendrá recurso de apelación ante el Tribunal de Apelaciones y además podrá ser aclarada o adicionada a solicitud de parte o de oficio, en los términos previstos en este Código
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 539
 
 SECCIÓN II
 
@@ -9236,8 +8145,6 @@ También, podrán impugnarse en la vía sumarísima prevista en esta sección, l
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 540
-
 Artículo 541.- Las personas indicadas en el artículo anterior tendrán derecho a un debido proceso, previo al despido, el cual se regirá por las siguientes disposiciones:
 
 a) El debido proceso de las personas indicadas en los incisos 1), 2) y 8) del artículo anterior se regulará por el procedimiento administrativo de la dependencia competente conforme a la norma de tutela correspondiente, salvo el caso del inciso 8) en que no esté previsto un debido proceso.
@@ -9256,8 +8163,6 @@ f) Autorizado el despido por resolución firme, el empleador o la empleadora goz
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 541
-
 Artículo 542.- La solicitud de tutela se presentará ante el juzgado de trabajo competente, mientras subsistan las medidas o los efectos que provocan la violación contra la cual se reclama. La aplicación de tutela por violación del debido proceso, en el caso de despido, se regirá por el plazo de prescripción de seis meses.
 
 La firma del solicitante no requiere ser autenticada por la de un profesional o una profesional en derecho, si la persona interesada presenta personalmente el respectivo libelo; pero si fuera necesario debatir en audiencia, debe contarse con patrocinio letrado.
@@ -9265,8 +8170,6 @@ La firma del solicitante no requiere ser autenticada por la de un profesional o 
 La petición deberá cumplir, en lo pertinente, los requisitos señalados para la demanda, excepto el que se refiere al agotamiento de la vía administrativa, e incluir el nombre de la persona, la institución, el órgano, el departamento o la oficina a la que se atribuye la arbitrariedad.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 542
 
 Artículo 543.- El juzgado substanciará el procedimiento sin pérdida de tiempo, posponiendo cualquier asunto de diversa naturaleza que se tramite en el despacho. A más tardar dentro de las veinticuatro horas siguientes al recibo de la solicitud, la autoridad judicial le dará curso, pidiéndole a la institución, la autoridad o a los órganos públicos o a la persona accionada un informe detallado acerca de los hechos que motivan la acción, el cual deberá rendirse bajo juramento dentro de los cinco días siguientes a la notificación, acompañado de copia de los documentos que sean de interés para la parte y de una copia certificada del expediente administrativo, en el caso de las relaciones de empleo público o del expediente del debido proceso en su caso, sin costo alguno para la parte demandante.
 
@@ -9284,8 +8187,6 @@ Las notificaciones se harán por los medios autorizados por la ley o por la prop
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 543
-
 Artículo 544.- Si no se respondiera dentro del término señalado y al mismo tiempo no se produce oposición de la parte demandada, o bien, si no se aporta la certificación del expediente del debido proceso cuando este haya sido necesario, se declarará con lugar la acción, si el caso, de acuerdo con los autos, no amerita una solución diferente según el ordenamiento.
 
 En el caso contrario, el informe rendido y cualquier respuesta se pondrán a conocimiento por tres días a la parte promotora del proceso.
@@ -9293,8 +8194,6 @@ En el caso contrario, el informe rendido y cualquier respuesta se pondrán a con
 Si fuera necesario evacuar pruebas no documentales, su substanciación se llevará a cabo en audiencia, la cual se señalará de forma prioritaria a los asuntos de ordinario conocimiento del despacho. En tal supuesto, la sentencia se dictará en la oportunidad prevista para la substanciación del proceso en audiencia.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 544
 
 Artículo 545- La competencia del órgano jurisdiccional se limitará para estimar la pretensión de tutela, a la comprobación del quebranto de la protección, el procedimiento o los aspectos formales garantizados por el fuero y, si la sentencia resultara favorable a la parte accionante, se decretará la nulidad que corresponda y se le repondrá a la situación previa al acto que dio origen a la acción, y condenará a la parte empleadora a pagar los daños y perjuicios causados. Si los efectos del acto no se hubieran suspendido, se ordenará la respectiva reinstalación, con el pago de los salarios caídos.
 
@@ -9306,8 +8205,6 @@ La sentencia estimatoria en estos casos no prejuzga sobre el contenido sustancia
 
 (Así reformado por el artículo 28 de la Ley de protección de las personas denunciantes y testigos de actos de corrupción contra represalias laborales, N° 10437 del 29 de enero de 2024)
 
-Ficha Artículo 545
-
 Artículo 546.- Si la pretensión deducida no corresponde a este procedimiento especial, se orientará la tramitación de la forma que proceda.
 
 Cuando se presente alguna pretensión de tutela correspondiente a este procedimiento, de forma acumulada con otra u otras cuyo trámite deba realizarse en la vía ordinaria, será desacumulada y tramitada según lo previsto en esta sección, sin perjuicio del curso de las otras pretensiones.
@@ -9316,13 +8213,9 @@ La tutela, una vez otorgada en sentencia firme, producirá la conclusión del pr
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 546
-
 Artículo 547.- El incumplimiento de los plazos o del trámite prioritario establecidos en esta sección se considerará falta de servicio de los funcionarios responsables y será sancionado disciplinariamente.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 547
 
 SECCIÓN III
 
@@ -9331,8 +8224,6 @@ Distribución de prestaciones de personas trabajadoras fallecidas
 Artículo 548.- La distribución de las prestaciones laborales a que se refiere el inciso a) del artículo 85 de este Código se regirá por lo dispuesto en esta sección. También se dirimirá en este proceso, a favor de los sucesores o beneficiarios indicados en esa norma, en el mismo orden que en ella se señala, la adjudicación de los montos de dinero por salarios, compensación por vacaciones no disfrutadas y aguinaldo, así como cualquier otro extremo derivado de la relación de trabajo, incluidos los ahorros obligatorios y depósitos en cuentas de intermediarios financieros provenientes del contrato de trabajo, que por ley no tenga un beneficiario distinto, adeudados a la persona trabajadora fallecida. Igual regla se aplicará a los montos adeudados a las personas pensionadas o jubiladas fallecidas.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 548
 
 Artículo 549.- El proceso puede ser promovido por cualquiera que tenga interés, ante el juzgado de trabajo competente. La solicitud deberá contener:
 
@@ -9343,8 +8234,6 @@ Artículo 549.- El proceso puede ser promovido por cualquiera que tenga interés
 3. Prueba del fallecimiento y del parentesco que sea de interés acreditar.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 549
 
 Artículo 550.- Presentada en forma la solicitud, se abrirá de inmediato el procedimiento y se dispondrá:
 
@@ -9360,21 +8249,15 @@ Artículo 550.- Presentada en forma la solicitud, se abrirá de inmediato el pro
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 550
-
 Artículo 551.- Transcurrido el término del emplazamiento, se hará de inmediato la declaratoria de las personas a quienes corresponde como sucesoras el patrimonio a distribuir y se dispondrá la adjudicación y entrega de la forma establecida en la ley.
 
 Si surgiera contención sobre el derecho de participación, la cuestión se dirimirá en el mismo expediente, aunque involucre la aplicación de normas e institutos propios del derecho de familia. El escrito de demanda de mejor derecho o de oposición deberá reunir los requisitos de la demanda ordinaria, inclusive el que se refiere al ofrecimiento de las pruebas. Figurarán como contradictoras las personas cuyo derecho se pretende afectar, a quienes se trasladará la demanda por cinco días. El conflicto se juzgará sumariamente en audiencia oral y se deberá dictar la sentencia en la misma forma prevista para el proceso ordinario.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 551
-
 Artículo 552.- Quienes tengan interés en la distribución no están legitimados para gestionar o demandar en otras vías el pago directo de las prestaciones a distribuir, pero sí para que se depositen judicialmente a la orden del juzgado.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 552
 
 SECCIÓN IV
 
@@ -9386,8 +8269,6 @@ Respecto de la solicitud, se dará traslado por tres días a quien se pretenda a
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 553
-
 SECCIÓN V
 
 Procedimiento para la restitución de trabajadores que sufrieron
@@ -9398,37 +8279,25 @@ Artículo 554.- Las personas trabajadoras que se encuentren en alguno de los sup
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 554
-
 Artículo 555.- El escrito inicial deberá cumplir los requisitos básicos de toda demanda y con él deberá acompañarse u ofrecerse la prueba relativa a la relación de empleo, la orden de alta expedida por el ente asegurador y la copia del dictamen médico en el que se especifique claramente la situación real de la persona en cuanto a su estado de salud y el medio que se recomiende para él, según su capacidad laboral.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 555
 
 Artículo 556.- Presentada en debida forma la solicitud, de inmediato se le ordenará a la parte empleadora, de acuerdo con la prestación deducida, reponer a la persona a su puesto de trabajo, reubicarlo en los términos de la recomendación médica o pagarle las prestaciones legales, lo que deberá hacer dentro del término de ocho días. En la misma resolución se advertirá a esa parte que dentro de ese mismo lapso puede objetar la pretensión y ofrecer, en tal caso, las pruebas que sean de su interés.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 556
-
 Artículo 557.- Si dentro del plazo indicado no mediara oposición, se tendrá por firme lo ordenado y será ejecutable en la vía de ejecución sentencia, y concluirá de ese modo el proceso. En el supuesto contrario, una vez contestado el traslado, el juzgado resolverá lo que corresponda dentro de los tres días siguientes, salvo que deba recabarse alguna probanza, pues entonces la cuestión se substanciará en audiencia oral que deberá programarse como máximo treinta días después de la contestación y el juzgado podrá disponer en la sentencia que se dicte la reinstalación, la reubicación o el pago de prestaciones, según proceda de acuerdo con la situación de hecho comprobada.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 557
 
 Artículo 558.- Si habiendo mediado oposición de la parte empleadora a la solicitud de reinstalación o reubicación y alguna de estas se considera procedente en sentencia, esa parte deberá pagarle a la persona trabajadora salarios caídos completos desde el día en que cesó la incapacidad y, a título de daños y perjuicios y como indemnización fija, un mes de salario adicional.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 558
-
 Artículo 559.- Las personas discapacitadas legitimadas para solicitar reinstalación a sus puestos de trabajo, conforme lo que establece la Ley N.º 7600, Igualdad de Oportunidades para las Personas con Discapacidad, de 2 de mayo de 1996, y su reglamento, las indicadas en el inciso a) del artículo 392 de este Código, y cualesquiera otras personas que gocen de estabilidad en el empleo por norma especial, instrumento colectivo o resolución administrativa que así lo declare, podrán ejercer sus derechos en este procedimiento especial. Al respecto se aplicarán las normas anteriores, en lo que resulte pertinente.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 559
 
 CAPÍTULO OCTAVO
 
@@ -9450,8 +8319,6 @@ Las sentencias de segunda instancia y de casación contendrán un breve resumen 
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 560
-
 Artículo 561.- Queda prohibido declarar en sentencia la procedencia de algún extremo, condicionándolo a la demostración posterior del supuesto de hecho que lo ampara.
 
 El juzgado podrá establecer que la sentencia será ineficaz o decretar posteriormente esa ineficacia, en la parte de la condena cubierta o satisfecha con anterioridad a su dictado, si ello llega a demostrarse.
@@ -9459,8 +8326,6 @@ El juzgado podrá establecer que la sentencia será ineficaz o decretar posterio
 En todo pronunciamiento sobre extremos económicos o resolubles en dinero deberá establecerse de una vez el monto exacto de las cantidades, incluido el monto de las costas, de los intereses y adecuaciones que correspondan hasta ese momento. Solo excepcionalmente, cuando no se cuente en el momento del fallo con los datos necesarios para hacer la fijación, podrá hacerse una condena en abstracto, y se indicarán las bases para hacer la liquidación posteriormente.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 561
 
 SECCIÓN II
 
@@ -9478,8 +8343,6 @@ En los asuntos inestimables en que hubiera trascendencia económica se hará la 
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 562
-
 Artículo 563.- No obstante, se podrá eximir al vencido del pago de las costas personales y aun de las procesales, cuando:
 
 1. Se haya litigado con evidente buena fe.
@@ -9496,13 +8359,9 @@ La exoneración de costas será imperativa, si alguna norma especial así lo dis
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 563
-
 Artículo 564.- El contrato de cuota litis en materia laboral se regirá por las disposiciones del procedimiento civil. Sin embargo, tratándose de la parte trabajadora, los honorarios que deba pagar a su abogado o abogada no podrán ser superiores en ningún caso al veinticinco por ciento (25%) del beneficio económico que se adquiera en la sentencia.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 564
 
 SECCIÓN III
 
@@ -9518,27 +8377,19 @@ El cálculo de intereses se hará sobre los montos condenados o resultantes desp
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 565
-
 Artículo 566.- En toda sentencia que disponga la reinstalación con salarios caídos, el pago de estos no podrá ser superior al importe de veinticuatro veces el salario mensual total de la parte trabajadora al momento de la firmeza del fallo, salvo disposición especial que establezca otra cosa, sin que en ningún momento pueda ser inferior al mínimo legal. Esta fijación no admite adecuaciones o indexaciones.
 
 También, la parte demandada deberá cubrirle a la victoriosa, desde la firmeza de la sentencia, el salario que le corresponda de acuerdo con el contrato de trabajo y los derechos derivados de la antigüedad acumulada, en la cual se incluirá el lapso comprendido entre el despido y dicha firmeza, y en el futuro el cumplimiento de las obligaciones salariales ordinarias y extraordinarias deberá ajustarse a las prestaciones correspondientes a una relación inalterada. Igual regla se aplicará al disfrute de vacaciones y cualquier otro derecho derivado del contrato de trabajo o de la ley.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 566
-
 Artículo 567.- Cuando en sentencia firme se condene a la parte demandada a pagar salarios adeudados, además del pago al trabajador del salario que le corresponda, de acuerdo con el contrato de trabajo y a los derechos derivados de la antigüedad acumulada, deberá pagarle a la Caja Costarricense de Seguro Social (CCSS) las cuotas obrero-patronales y demás obligaciones adeudadas a la seguridad social correspondientes al período laborado, aun cuando dicha institución no haya sido parte en el proceso.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 567
-
 Artículo 568.- El pago de los salarios caídos solo será procedente cuando no exista impedimento legal en virtud de haber ocupado la persona un cargo que lo impida. En tal caso solo procederá la diferencia, si el salario que hubiera estado recibiendo fuera inferior.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 568
 
 SECCIÓN IV
 
@@ -9547,8 +8398,6 @@ Efectos
 Artículo 569.- Las sentencias del ordinario laboral, incluidas las anticipadas y las dictadas en los procesos especiales sobre seguridad social, protección de fueros especiales, restitución o reubicación de trabajadores o trabajadoras en caso de riesgo de trabajo, así como en contenciones surgidas en el proceso de distribución de prestaciones de personas fallecidas regulado en este Código, producirán los efectos de la cosa juzgada material. Las demás sentencias, salvo disposición en contrario en la ley, producirán únicamente cosa juzgada formal.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 569
 
 CAPÍTULO NOVENO
 
@@ -9570,8 +8419,6 @@ En todos estos casos, excepto en los acuerdos conciliatorios, la terminación de
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 570
-
 CAPÍTULO DÉCIMO
 
 Procedimiento de ejecución
@@ -9590,15 +8437,11 @@ Cuando en virtud de sentencia firme se declare el incumplimiento de una convenci
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 571
-
 Artículo 572.- El cumplimiento patrimonial forzoso se llevará a cabo de acuerdo con las disposiciones de la legislación procesal civil, o de las disposiciones del proceso contencioso-administrativo en el caso de ejecuciones contra el Estado o sus instituciones.
 
 La práctica material del embargo, cuando sea necesaria, la realizará con carácter de oficial público y como parte de sus tareas o funciones, sin cobro alguno de honorarios, un asistente judicial del despacho.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 572
 
 Artículo 573.- La parte demandada tendrá obligación de ejecutar la sentencia o resolución interlocutoria que ordene la reinstalación de una persona trabajadora a su puesto, de forma inmediata, sin perjuicio de lo que se resuelva en definitiva, readmitiéndola y restituyéndola en todos los derechos adquiridos y demás extremos que resulten de la sentencia o resolución o del ordenamiento.
 
@@ -9606,21 +8449,15 @@ En el caso de que se haya dado una reestructuración de plazas, cuando fuera imp
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 573
-
 Artículo 574.- Si la reinstalación no se pudiera realizar por obstáculo de la parte patronal o si la parte interesada así lo prefiriera, podrá presentarse al respectivo centro de trabajo dentro de los ocho días siguientes a la notificación de la sentencia o resolución a reasumir sus labores, en compañía de un notario público o de la autoridad administrativa de trabajo de la jurisdicción, o bien, solicitar al juzgado, en forma escrita o verbal, la presencia del asistente judicial del despacho. Las autoridades administrativas y judiciales deberán actuar de forma inmediata, dejando de lado cualquier otra ocupación. El incumplimiento de este deber se considerará falta grave para efectos disciplinarios. En todos los casos se levantará acta y se dejará constancia de lo sucedido.
 
 Solo en casos muy calificados, cuando el centro de trabajo se encuentre en lugares alejados y de difícil acceso, se comisionará a la autoridad de policía para que constate la presentación, en cuyo caso deberá instruírsele acerca de la forma de levantar el acta. La autoridad judicial dispondrá cualquier otra medida que juzgue razonable para la ejecución de lo dispuesto.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 574
-
 Artículo 575.- La parte trabajadora podrá solicitar la postergación de la reinstalación, si ello fuera necesario para permitir el preaviso de la conclusión de otra relación laboral contraída, caso en el cual se indicará al juzgado el día que reasumirá sus funciones, lo que no podrá exceder de un mes y quince días a partir de la notificación de la sentencia o resolución que ordene la reinstalación.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 575
 
 Artículo 576.- La obligación de pagar los salarios caídos se mantendrá por todo el tiempo que la reinstalación no se cumpla por culpa de la parte empleadora. En este caso deberán pagarse, además, los daños y perjuicios que se causen con el incumplimiento.
 
@@ -9634,15 +8471,11 @@ Si la parte trabajadora se viera imposibilitada de manera absoluta para reinstal
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 576
-
 Artículo 577.- La negativa a la reinstalación será sancionada con la multa establecida en el inciso 6) del artículo 398. En el caso de servidores públicos, la negativa constituirá falta grave, justificativa del despido o remoción del funcionario que incumplió la orden.
 
 Tratándose de representantes de las personas trabajadoras que no hayan sido reinstaladas, se ordenará al empleador o empleadora abstenerse de limitar la labor de representación que venía desarrollando en el seno de la empresa, así como todas sus funciones protegidas por la legislación nacional y se advertirá al empleador o empleadora que, de impedir u oponer algún obstáculo a dicho ejercicio, su conducta, además de lo dispuesto en el párrafo anterior, dará derecho a la declaratoria de huelga legal, siempre y cuando se cumplan los requisitos exigidos para tal efecto.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 577
 
 CAPÍTULO UNDÉCIMO
 
@@ -9660,13 +8493,9 @@ Las demás resoluciones escritas pueden también ser aclaradas o adicionadas de 
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 578
-
 Artículo 579.- Los errores materiales y las imperfecciones resultantes en el devenir del proceso que no impliquen nulidad podrán ser corregidos en cualquier momento, siempre y cuando sea necesario para orientar el curso normal del procedimiento o ejecutar el respectivo pronunciamiento y que la corrección no implique una modificación substancial de lo ya resuelto.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 579
 
 SECCIÓN II
 
@@ -9676,19 +8505,13 @@ Artículo 580.- Contra las providencias escritas no cabrá recurso alguno, pero 
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 580
-
 Artículo 581.- Los autos escritos admiten el recurso de revocatoria, cuyo plazo de presentación se fija en tres días. Con igual término contará el órgano para resolver el recurso.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 581
-
 Artículo 582.- Las observaciones de las partes a las providencias adoptadas en las audiencias y la solicitud de revocatoria de los autos dictados en esa misma actividad procesal deberán hacerse de forma oral e inmediata, antes de pasarse a una etapa o fase posterior, y el órgano las resolverá y comunicará en ese mismo momento y forma, salvo que sea necesario suspender la audiencia para el estudio de la cuestión, según quedó dispuesto.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 582
 
 Artículo 583.- Además de los pronunciamientos expresamente señalados por este Código, únicamente son apelables las resoluciones que:
 
@@ -9724,13 +8547,9 @@ Artículo 583.- Además de los pronunciamientos expresamente señalados por este
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 583
-
 Artículo 584.- Las apelaciones contra las resoluciones interlocutorias escritas se formularán de esa misma manera ante el órgano que dictó el pronunciamiento, dentro de tres días, y las que procedan contra las orales dictadas en audiencia deberán interponerse en el mismo acto de la notificación y deberá dejarse constancia de su interposición y motivación en el acta.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 584
 
 Artículo 585.- Las apelaciones admisibles contra autos y sentencias interlocutorias, que impidan el curso del procedimiento, se tramitarán de forma inmediata. Cuando versen sobre autos denegatorios de prueba o resoluciones producidas en la audiencia cuyo efecto directo no sea el de la paralización o terminación del proceso, la interposición del recurso no impedirá la continuación de la actividad y el dictado de la sentencia, y se tendrá por interpuesto con efectos diferidos y condicionado a que el pronunciamiento final sea recurrido de forma legal y oportuna. En tal caso, la apelación solo se tomará en cuenta si:
 
@@ -9742,15 +8561,11 @@ Artículo 585.- Las apelaciones admisibles contra autos y sentencias interlocuto
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 585
-
 Artículo 586.- Procede el recurso para ante el órgano de casación contra la sentencia del proceso ordinario y también, salvo disposición expresa en contrario, contra los demás pronunciamientos con autoridad de cosa juzgada material, por razones procesales y sustantivas, siempre y cuando en el proceso en que se dicten sea inestimable o, en caso contrario, de una cuantía determinada exclusivamente por el valor de las pretensiones no accesorias, que sea superior al monto fijado por la Corte Suprema de Justicia para la procedencia del recurso de casación, según la competencia otorgada al efecto por la Ley N.° 7333, Ley Orgánica del Poder Judicial, de 5 de mayo de 1993. En los demás casos, así como en los procesos por riesgos de trabajo, cualquiera sea su cuantía, la sentencia admite únicamente el recurso de apelación para ante el tribunal de apelaciones competente.
 
 Los recursos de casación y de apelación deberán ser presentados ante el juzgado; el primero dentro de diez días y el segundo dentro de tres días, a partir de la notificación de la sentencia.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 586
 
 Artículo 587.- Por razones procesales será admisible cuando se invoque:
 
@@ -9770,21 +8585,15 @@ Artículo 587.- Por razones procesales será admisible cuando se invoque:
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 587
-
 Artículo 588.- Podrá alegarse, como base del recurso de casación por el fondo, toda violación sustancial del ordenamiento jurídico, tanto la directa como la resultante de una incorrecta o ilegítima aplicación del régimen probatorio. El órgano de casación también podrá hacer una valoración de las pruebas de forma integral; para ello, la audiencia debe ser grabada en audio y/o video.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 588
 
 Artículo 589.- No podrán ser objeto de apelación o casación cuestiones que no hayan sido propuestas ni debatidas oportunamente por los litigantes y la sentencia que se dicte no podrá abrazar otros puntos distintos de los planteados en el recurso, salvo las nulidades, correcciones o reposiciones que procedan por iniciativa del órgano.
 
 Se prohíbe la reforma en perjuicio.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 589
 
 SECCIÓN III
 
@@ -9802,8 +8611,6 @@ Los motivos del recurso no podrán modificarse o ampliarse y delimitarán el deb
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 590
-
 Artículo 591.- En la apelación no reservada y en la casación, interpuesto el recurso en tiempo, se emplazará a la parte o partes recurridas para que presenten dentro de tres días ante el mismo juzgado la expresión de sus agravios en relación con los motivos argumentados. Cuando el órgano superior se halle ubicado en una circunscripción territorial diferente, en la misma resolución prevendrá a todas las partes que atienden notificaciones en un lugar determinado y no por un medio electrónico de comunicación, hacer el respectivo señalamiento para recibir esas notificaciones en el tribunal que conoce del recurso y les hará las advertencias correspondientes, en el caso de que no lo hagan.
 
 El señalamiento de medios electrónicos valdrá para todas las instancias.
@@ -9814,8 +8621,6 @@ El recurso extemporáneo será rechazado de plano por el juzgado.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 591
-
 Artículo 592.- El tribunal se pronunciará sobre la apelación dentro de los quince días posteriores al recibo de los autos.
 
 En primer término revisará la procedencia formal del recurso, el procedimiento y las cuestiones de nulidad propuestas y podrá acordar nulidades únicamente en el caso de que los defectos constituyan vicios esenciales al debido proceso. En todos los casos dispondrá las correcciones que sean necesarias y conservará todas las actuaciones no afectadas por el vicio o que sea posible subsanar.
@@ -9823,8 +8628,6 @@ En primer término revisará la procedencia formal del recurso, el procedimiento
 Enseguida, si no fuera del caso declarar la inadmisibilidad de la alzada o alguna nulidad, reposición o corrección de trámites, emitirá el pronunciamiento correspondiente a los demás agravios del recurso.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 592
 
 Artículo 593.- Recibido el expediente por el órgano de casación, si no fuera del caso declarar la inadmisibilidad del recurso, se dictará sentencia dentro del mes siguiente. Cuando se ordene alguna prueba documental, una vez recibidas las piezas probatorias, se le dará traslado de ellas a la parte interesada por tres días.
 
@@ -9834,13 +8637,9 @@ Lo dispuesto en esta norma será aplicable en lo pertinente en el trámite del r
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 593
-
 Artículo 594.- Ante el órgano de casación solo podrán presentarse u ordenarse para mejor proveer pruebas documentales y técnicas que puedan ser de influencia decisiva, según calificación discrecional del órgano. Las últimas se evacuarán con prontitud y el costo de las peritaciones no oficiales deberá cubrirlo la parte que ha solicitado la probanza. Tales probanzas serán trasladadas a las partes por tres días.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 594
 
 Artículo 595.- Al dictarse sentencia se procederá de la siguiente manera:
 
@@ -9854,25 +8653,17 @@ La nulidad de la sentencia solo se decretará cuando no sea posible corregir el 
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 595
-
 Artículo 596.- Tanto en el caso de la apelación como en el de casación, si resultara procedente el recurso por el fondo, al emitirse el pronunciamiento que corresponda, deberán atenderse las defensas de la parte contraria al recurrente, así como sus impugnaciones reservadas con efectos eventuales, omitidas o preteridas en la resolución recurrida, cuando por haber resultado victoriosa esa parte no hubiera podido interponerlas o reiterarlas en el recurso de casación.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 596
 
 Artículo 597.- Los órganos de alzada y de casación, al conocer de los agravios esgrimidos en los recursos, se ajustarán a la materialidad de los elementos probatorios incorporados al expediente y, racionalmente, a los límites del principio de inmediación.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 597
-
 Artículo 598.- En cualquier caso en que se anule una sentencia, la audiencia se repetirá siempre con la intervención de otra persona como juzgadora.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 598
 
 Artículo 599.- Los efectos de la apelación, la apelación adhesiva y la apelación por inadmisión se regirán por lo dispuesto en la legislación procesal civil.
 
@@ -9881,8 +8672,6 @@ El recurso de casación producirá efectos suspensivos.
 Las reglas de la apelación por inadmisión se aplicarán, con la modificación pertinente, al recurso de casación. Contra lo resuelto por el tribunal de apelación o el órgano de casación no cabe ulterior recurso.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 599
 
 SECCIÓN IV
 
@@ -9896,8 +8685,6 @@ La sentencia que se dicte no afectará situaciones jurídicas derivadas de la se
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 600
-
 SECCIÓN V
 
 Revisión
@@ -9905,8 +8692,6 @@ Revisión
 Artículo 601.- Contra las resoluciones de los tribunales de trabajo es procedente la revisión, con base en las causales establecidas en la legislación procesal civil, a la cual se ajustará la respectiva tramitación y la audiencia se llevará a cabo, cuando sea necesario reproducirla, de la forma prevista para el supuesto de la nulidad de la sentencia.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 601
 
 CAPÍTULO DUODÉCIMO
 
@@ -9918,13 +8703,9 @@ Artículo 602.- Podrán someterse a arbitraje todas las controversias jurídicas
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 602
-
 Artículo 603.- En cualquier caso, será absolutamente nulo el compromiso arbitral establecido en contrato de trabajo individual o en un convenio accesorio a este y que haya sido suscrito como condición para la constitución de la relación laboral o para evitar su extinción. Asimismo, será absolutamente nulo el compromiso arbitral que verse sobre derechos indisponibles. Se consideran indisponibles, entre otros que resulten de esa naturaleza, según el ordenamiento, las prestaciones e indemnizaciones de seguridad social en beneficio de los trabajadores y las trabajadoras, de sus familiares y de las demás personas que conforme a la legislación civil tienen el carácter de herederos, salvo que se trate de prestaciones superiores a las previstas en las disposiciones indicadas, nacidas de acuerdo, de contrato, de los usos o de la costumbre.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 603
 
 Artículo 604.- Las sentencias arbitrales solo producirán efectos vinculantes para las partes si se dictan en el marco de procesos arbitrales seguidos, de acuerdo con la normativa de este capítulo. Tales procesos deberán tramitarse y fallarse de conformidad con los principios propios del derecho de trabajo, tanto en materia de derecho de fondo, como en cuanto a los principios del derecho procesal, salvo que se trate de relaciones de empleo público, pues entonces se aplicarán los principios del derecho de trabajo en cuanto sean compatibles con los principios y fuentes del derecho de la función pública.
 
@@ -9932,23 +8713,17 @@ Una vez suscrito el compromiso a que se refiere este capítulo, el tribunal arbi
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 604
-
 Artículo 605.- El arbitraje deberá ser de derecho y el tribunal deberá estar integrado, exclusivamente, por profesionales en derecho y resolverá las controversias con estricto apego a la ley aplicable.
 
 El tribunal puede ser, a elección de las partes, unipersonal o colegiado y será escogido de una lista de por lo menos veinte personas que mantendrá el Ministerio de Trabajo y Seguridad Social. En el caso del arbitraje unipersonal, la escogencia la hará, salvo acuerdo de ambas partes, la autoridad competente del Ministerio de Trabajo y Seguridad Social o del respectivo centro de arbitraje y, en el caso de tribunal colegiado, cada una de las partes designará de dicha lista a una persona y los dos designados escogerán a una tercera, quien presidirá el tribunal.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 605
-
 Artículo 606.- Para ser árbitro o árbitra deben reunirse los requisitos establecidos en la Ley N.° 7727, Ley sobre Resolución Alterna de Conflictos y Promoción de la Paz Social, RAC, de 9 de diciembre de 1997, y sus reformas.
 
 La integración de la lista indicada en el artículo anterior se hará mediante concurso público. La designación tendrá una vigencia de cinco años y los integrantes podrán ser excluidos si se niegan injustificadamente a servir en algún caso concreto.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 606
 
 Artículo 607.- La solicitud se presentará directamente ante el Departamento de Relaciones de Trabajo de la Dirección de Asuntos Laborales del Ministerio de Trabajo y Seguridad Social o a la respectiva dependencia regional de este Ministerio, competente por razón del territorio, que funcionará como centro de arbitraje, sin perjuicio de lo que se establezca reglamentariamente, y contendrá lo siguiente:
 
@@ -9974,8 +8749,6 @@ Mientras no se cumplan todos esos requisitos, no se le dará curso a la solicitu
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 607
-
 Artículo 608.- Los honorarios de los árbitros o las árbitras, salvo pacto en contrario, serán cubiertos por las partes de forma igualitaria.
 
 La fijación de esos honorarios se regirá conforme a la siguiente tabla:
@@ -9992,15 +8765,11 @@ La Corte Suprema de Justicia podrá actualizar, al menos cada cinco años, la es
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 608
-
 Artículo 609.- Si la parte actora o quien o quienes soliciten el arbitraje no cumplen con alguna prevención anterior al traslado de la demanda o con el depósito de los honorarios del arbitraje, el proceso se dará por terminado y se tendrá por no interpuesto para todo efecto, mediante resolución que dictará el centro de arbitraje.
 
 Cuando la parte demandada no conteste o no deposite los honorarios que le corresponden, la persona propuesta por la otra parte actuará como única integrante del órgano arbitral y el procedimiento se desarrollará con intervención de la parte requirente, si a su vez hubiera cumplido con esa carga, caso en el cual se recibirán únicamente sus pruebas. La contraparte podrá apersonarse al proceso en cualquier momento y tomar el proceso en el estado en que se hallen, y ejercer los derechos procesales que puedan hacerse valer en el momento del apersonamiento.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 609
 
 Artículo 610.- El proceso se substanciará por el sistema de audiencias orales dispuesto en el presente Código y en cuanto a la carga de la prueba se estará a lo dispuesto en este ordenamiento procesal.
 
@@ -10012,27 +8781,19 @@ Si se comprobara la violación de derechos indisponibles, la Sala hará, en la m
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 610
-
 Artículo 611.- La sentencia arbitral, una vez firme, tendrá valor de cosa juzgada material, no requiere protocolización y será ejecutable en la forma prevista en el procedimiento de ejecución.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 611
-
 Artículo 612.- Lo relacionado con la contestación de la parte demandada y todas las demás cuestiones del proceso arbitral se regirán por las disposiciones de la Ley N.° 7727, Ley sobre Resolución Alterna de Conflictos y Promoción de la Paz Social, RAC, de 9 de diciembre de 1997, y sus reformas, en cuanto no contraríen lo dispuesto en este capítulo y, en general, los principios y las normas del derecho de trabajo. El funcionamiento de los centros de arbitraje a que se refiere este capítulo se regirá por lo que se establezca reglamentariamente.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 612
 
 Artículo 613.- Se faculta al Colegio de Abogados para que organice centros de arbitraje laboral, siempre y cuando sea sin costo alguno para los trabajadores y las trabajadoras que se hallen en condiciones de recibir asistencia legal gratuita, según lo previsto en la sección segunda, capítulo segundo de este título. Tales centros tendrán listas propias de árbitros y árbitras, y se regirán en todo lo demás por lo dispuesto en este capítulo.
 
 El funcionamiento de los centros de arbitraje, en general, se establecerá por reglamento.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 613
 
 CAPÍTULO DECIMOTERCERO
 
@@ -10048,8 +8809,6 @@ Artículo 614.- Son medios de solución de los conflictos económicos y sociales
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 614
-
 SECCIÓN II
 
 Arreglo directo
@@ -10060,13 +8819,9 @@ Cada vez que se forme uno de los consejos o comités a que se refiere el párraf
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 615
-
 Artículo 616.- Durante el proceso de negociación de una convención colectiva de trabajo o una vez iniciado el procedimiento de conciliación o arbitraje, y durante la ejecución de una huelga legal, solo podrá suscribirse un arreglo directo con la organización o el comité responsable de la negociación o del conflicto.
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 616
 
 Artículo 617.- Cuando las negociaciones entre patronos y trabajadores conduzcan a un arreglo, se levantará acta de lo acordado y se enviará copia auténtica al Departamento de Relaciones de Trabajo del Ministerio de Trabajo y Seguridad Social, dentro de las veinticuatro horas posteriores a la firma. La remisión la harán los patronos y, en su defecto, los trabajadores, sea directamente o por medio de autoridad política o de trabajo local.
 
@@ -10075,8 +8830,6 @@ La Inspección General de Trabajo velará por que estos acuerdos no contraríen 
 (Así adicionado por el artículo 4º de la ley No.7360 del 4 de noviembre de 1993)
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 617
 
 SECCIÓN III
 
@@ -10090,8 +8843,6 @@ Esta delegación estará legitimada para plantear el conflicto judicialmente o a
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 618
-
 Artículo 619.- Los delegados suscribirán por duplicado un pliego de peticiones de orden económico-social, cuya copia entregarán al respectivo órgano conciliador competente, directamente o por medio de cualquier autoridad administrativa local. Esta última queda obligada, bajo pena de destitución, a hacer el envío correspondiente con la mayor rapidez posible.
 
 El funcionario que reciba el pliego de manos de los delegados, les dará certificación de la hora exacta en que se le hizo la entrega.
@@ -10104,8 +8855,6 @@ En ese mismo pliego indicarán el nombre de una persona, la cual debe reunir los
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 619
-
 Artículo 620.- Desde el momento de la entrega del pliego de peticiones, se entenderá planteado el conflicto para el solo efecto de que ninguna de las partes pueda tomar la menor represalia contra la otra, ni impedirle el ejercicio de sus derechos. Quien infrinja esta disposición será sancionado de acuerdo con lo dispuesto en este título, según la importancia de las represalias tomadas y el número de las personas afectadas por estas, y satisfacer los daños y perjuicios que cause.
 
 A partir del momento a que se refiere este artículo, toda terminación de contratos de trabajo debe ser autorizada por el órgano que conoce del conflicto, según el procedimiento previsto en este mismo Código para otorgar autorizaciones.
@@ -10116,8 +8865,6 @@ Lo dispuesto en este artículo será aplicable durante la conciliación, el arbi
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 620
-
 Artículo 621.- El pliego que se presente expondrá claramente en qué consisten las peticiones y a quién o a quiénes se dirigen, cuáles son las quejas, el número de personas trabajadoras o de empleadoras que las apoyan, la situación exacta de los lugares de trabajo donde ha surgido la controversia, la cantidad de trabajadores que en estos prestan servicios, el nombre y el apellido de los delegados y la fecha.
 
 En el mismo pliego de peticiones los interesados señalarán para notificaciones de la forma establecida en la legislación sobre notificaciones.
@@ -10125,8 +8872,6 @@ En el mismo pliego de peticiones los interesados señalarán para notificaciones
 (Así adicionado por el artículo único de la ley N° 8107 de 18 de julio del 2001)
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 621
 
 Artículo 622.- El órgano conciliador, de forma inmediata, excluirá las cuestiones constitutivas de conflictos jurídicos que según este Código no se puedan tratar en esta vía y notificará a la otra parte, por todos los medios a su alcance, que debe nombrar, dentro de tres días, una delegación de la forma prevista en la primera norma de esta sección, así como la persona que propone como conciliadora. Asimismo, en la resolución inicial le advertirá que debe cumplir lo dispuesto en el párrafo segundo del artículo anterior.
 
@@ -10138,15 +8883,11 @@ En el caso de que el órgano conciliador estime que el pliego contiene algún de
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 622
-
 Artículo 623.- El empleador, la empleadora o su representante legal con facultades suficientes para obligarlo pueden actuar personalmente y no por medio de delegados, lo cual deberá hacerlo saber al órgano conciliador.
 
 (Así adicionado por el artículo único de la ley N° 8107 de 18 de julio del 2001)
 
 (Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 623
 
 Artículo 624.- El tribunal de conciliación estará integrado por los conciliadores propuestos por las partes y será presidido por la persona titular del respectivo despacho, por el funcionario competente del Departamento de Relaciones de Trabajo del Ministerio de Trabajo y Seguridad Social o por el conciliador privado seleccionado por las partes. Durante el período de conciliación no habrá recurso alguno contra las resoluciones del órgano conciliador, ni se admitirán recusaciones, excepciones dilatorias o incidentes de ninguna clase, y cada una de las partes podrá designar hasta tres asesores, para que les ayuden a cumplir mejor su cometido, pero su presencia no será requisito para realizar válidamente la conciliación.
 
@@ -10250,15 +8991,11 @@ Con anticipación a la fecha de vigencia, el Poder Ejecutivo dictará todas las 
 
 Casa Presidencial. San José, a los veintisiete días del mes de agosto de mil novecientos cuarenta y tres.
 
-Ficha Artículo 624
-
 Artículo 625.- El órgano conciliador convocará a los interesados o las delegaciones a una comparecencia, que se verificará en un plazo de ocho a quince días, según la complejidad del pliego, con absoluta preferencia a cualquier otro asunto.
 
 Dicho órgano podrá constituirse en el lugar del conflicto, si lo considera necesario.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 625
 
 Artículo 626.- Antes de la hora señalada para la comparecencia, el órgano conciliador oirá separadamente a los interesados o delegados de cada parte, y estos responderán con precisión y amplitud a todas las preguntas que se les hagan.
 
@@ -10266,15 +9003,11 @@ Una vez que hayan determinado bien las pretensiones de las partes, en un acta la
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 626
-
 Artículo 627.- Es obligación de los interesados o delegados asistir a las convocatorias que realice el órgano. La parte empleadora tiene el deber de presentar a los delegados que haya designado. Cuando no se presenten todos los delegados de alguna de las partes, la actividad podrá realizarse válidamente con el número que se haya presentado, siempre y cuando ambas partes tengan delegados o haya representación de la empleadora cuando no actúe por medio de delegados.
 
 Si la conciliación no se pudiera llevar a cabo por ausencia injustificada de los delegados o del empleador, empleadora o de su representante en su caso u omisión en el nombramiento de las personas que debe designar como conciliadoras en el plazo indicado en el artículo 622, el conciliador levantará un acta en la cual dejará constancia de la razón por la cual no se llevó a cabo la actividad y dará por terminada su actuación, y se tendrá, para todos los efectos, por agotada la etapa de la conciliación.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 627
 
 Artículo 628.- La omisión en el nombramiento de personas conciliadoras en los plazos establecidos en este Código, la inasistencia injustificada a la diligencia de conciliación y cualquier otra conducta tendiente a obstaculizarla constituirá una infracción punible con multa de cinco a ocho salarios base mensuales. Para establecerla se tomará en cuenta la condición de la persona de empleadora o de trabajadora y se aplicará lo dispuesto en los títulos sétimo y el presente.
 
@@ -10284,33 +9017,23 @@ Se absolverá a los denunciados y se ordenará el archivo del expediente, cuando
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 628
-
 Artículo 629.- Si hubiera arreglo se dará por terminado el conflicto y las partes quedarán obligadas a firmar y cumplir el convenio que se redacte, dentro del término que fije el órgano. La parte que se niegue a firmar el convenio será sancionada con una multa que se fijará con base en la escala mayor de la tabla contenida en el artículo 398; para fijar la multa se tomará en cuenta la situación económica derivada de la condición de las partes como empleadoras o trabajadoras.
 
 Queda a salvo el derecho de la parte que ha respetado el arreglo conciliatorio para declararse en huelga o en paro, según corresponda, sin acudir nuevamente a la conciliación, siempre que lo haga por las mismas causas que dieron origen a la inconformidad. Dicha parte también podrá optar por pedir a los tribunales de trabajo la ejecución del acuerdo a costa de quien ha incumplido o el pago de los daños y perjuicios que prudencialmente estos determinen.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 629
-
 Artículo 630.- Una vez agotados los procedimientos de conciliación, sin que los delegados hayan aceptado el arreglo o convenido en someter la disputa a arbitraje, el órgano levantará un informe cuya copia remitirá al Departamento de Relaciones de Trabajo del Ministerio de Trabajo y Seguridad Social o este, en su caso, conservará. Este informe contendrá la enumeración precisa de las causas del conflicto y de las recomendaciones que se hicieron a las partes para resolverlo; además, determinará cuál de estas aceptó el arreglo o si las dos lo rechazaron, y lo mismo respecto del arbitraje propuesto o insinuado.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 630
 
 Artículo 631.- El informe señalado en el artículo anterior o, en su caso, el arreglo conciliatorio será firmado por el conciliador o los conciliadores y todos los demás comparecientes.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 631
-
 Artículo 632.- Si los delegados convinieran en someter la cuestión a arbitraje, todos los documentos, pruebas y actas que se hayan aportado o levantado durante la conciliación servirán de base para el juicio correspondiente. Si hubiera un arreglo conciliatorio parcial, el sometimiento al arbitraje procederá únicamente sobre los puntos no convenidos en el proceso de conciliación, por lo que el laudo incorporará como parte integral el arreglo conciliatorio.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 632
 
 Artículo 633.- En ningún caso los procedimientos de conciliación podrán durar más de veinte días hábiles, contados a partir del momento en que haya quedado legalmente constituido el órgano de conciliación.
 
@@ -10318,13 +9041,9 @@ No obstante lo anterior, dicho órgano podrá ampliar este plazo hasta por el ti
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 633
-
 Artículo 634.- En caso de que no hubiera arreglo ni compromiso de ir al arbitraje, el órgano dará por formalmente concluido el procedimiento y los trabajadores y las trabajadoras gozarán de un plazo de veinte días para declarar la huelga. Este término correrá a partir del día siguiente a aquel en que quede notificada la resolución final del procedimiento de calificación, cuando ellos hayan solicitado la calificación previa. Igual regla rige para los empleadores o las empleadoras, pero el plazo se comenzará a contar desde el vencimiento del mes a que se refiere el artículo 388.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 634
 
 SECCIÓN IV
 
@@ -10338,8 +9057,6 @@ Valdrá para el arbitraje el señalamiento de medio o lugar para notificaciones 
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 635
-
 Artículo 636.- Dentro de los ocho días siguientes a la terminación de la conciliación, cada una de las partes designará a una persona como árbitro o árbitra.
 
 El arbitramento deberá ser de derecho en los asuntos en que intervengan las administraciones públicas.
@@ -10348,15 +9065,11 @@ Las reglas del párrafo anterior y las siguientes de esta sección se aplicarán
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 636
-
 Artículo 637.- El tribunal de arbitraje estará constituido por las dos personas propuestas al efecto por las partes interesadas y por la persona titular del juzgado de trabajo, funcionario administrativo competente o del centro de arbitraje elegido, en su caso, quien lo presidirá. Recibida la comunicación, se dará traslado a los delegados o a la parte acerca de la integración del tribunal por tres días, para que formulen las recusaciones y excepciones dilatorias que crean de su derecho. Transcurrido ese término, no podrá abrirse más discusión sobre dichos extremos, ni aun cuando se trate de incompetencia por razones de jurisdicción. Quedan a salvo las recusaciones que se interpongan en segunda instancia.
 
 Antes de que venza la referida audiencia, los miembros del tribunal que tengan motivo de impedimento o causal de excusa y conozcan uno u otra harán forzosamente la manifestación escrita correspondiente, bajo pena de destitución si no la hicieran o la hicieran con posterioridad.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 637
 
 Artículo 638.- El proceso se substanciará por el sistema de audiencias orales, de acuerdo con lo dispuesto en este mismo Código.
 
@@ -10366,13 +9079,9 @@ Los honorarios de estos últimos los cubrirá el Poder Judicial o el Ministerio 
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 638
-
 Artículo 639.- Si alguna de las partes no hiciera oportunamente la designación de la persona que arbitrará o no depositara los honorarios que se hubieran fijado para la persona por ella propuesta, cuando le corresponda asumirlos, la persona titular del juzgado de trabajo se constituirá de pleno derecho, sin necesidad de resolución expresa, en árbitro o árbitra unipersonal.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 639
 
 Artículo 640.- La sentencia resolverá por separado las peticiones de derecho, de las que importen reivindicaciones económico-sociales que la ley no imponga o determine y que estén entregadas a la voluntad de las partes en conflicto. En cuanto a estas últimas, el tribunal de arbitraje podrá resolver con entera libertad y en conciencia, negando o accediendo, total o parcialmente, lo pedido o inclusive modificando su formulación.
 
@@ -10382,8 +9091,6 @@ Se dejará constancia por separado en el fallo de las causas principales que han
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 640
-
 Artículo 641.- El fallo arbitral judicial podrá ser recurrido por las partes ante el tribunal de apelaciones del Segundo Circuito Judicial de San José (Goicoechea), con invocación, de forma puntual, de los agravios que este último órgano debe resolver. Se autoriza a la Corte Suprema de Justicia para que varíe esta atribución de competencia, cuando las circunstancias lo ameriten.
 
 El tribunal dictará sentencia definitiva dentro de los quince días siguientes al recibo de los autos, salvo que ordene alguna prueba para mejor proveer, la cual deberá evacuarse antes de doce días.
@@ -10391,8 +9098,6 @@ El tribunal dictará sentencia definitiva dentro de los quince días siguientes 
 La sentencia extrajudicial tendrá los recursos que determine la Ley N.° 7727, Ley sobre Resolución Alterna de Conflictos y Promoción de la Paz Social, RAC, de 9 de diciembre de 1977, y sus reformas, que serán conocidos por la sala de casación en materia laboral.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 641
 
 Artículo 642.- La sentencia arbitral será obligatoria para las partes por el plazo que ella determine, el cual no podrá ser inferior de dos años.
 
@@ -10402,15 +9107,11 @@ La parte que se niegue a cumplir o que incumpla los términos de un fallo arbitr
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 642
-
 Artículo 643.- Mientras no haya incumplimiento del fallo arbitral no podrán plantearse los procedimientos de solución de conflictos económicos y sociales a que se refiere este Código sobre las materias que dieron origen al juicio, a menos que el alza del costo de la vida, la baja del valor del colón u otros factores análogos, que los tribunales de trabajo apreciarán en cada oportunidad, alteren sensiblemente las condiciones económico sociales vigentes en el momento de dictar la sentencia.
 
 De todo fallo arbitral firme se enviará copia certificada a la Inspección General de Trabajo.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 643
 
 SECCIÓN V
 
@@ -10426,31 +9127,21 @@ En cualquiera de los supuestos antes indicados, la parte interesada tendrá quin
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 644
-
 Artículo 645.- Se tendrá como base el pliego de peticiones presentado para la discusión, del cual deberá acompañarse una copia con la solicitud inicial. Además, en esa misma petición se indicará el nombre de la persona que fungirá como conciliadora o árbitra de la parte, según sea el caso, y de sus delegados o delegadas y se señalará lugar o medio para notificaciones. En todo lo demás que resulte pertinente se aplicará lo dispuesto en este capítulo.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 645
 
 Artículo 646.- El respectivo órgano pondrá la solicitud a conocimiento de la otra parte interesada y le prevendrá que dentro de tres días indique el nombre de la persona que actuará como su conciliadora o árbitra y de los delegados o delegadas, así como señalar lugar o medio para notificaciones.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 646
-
 Artículo 647.- Se aplicarán en lo pertinente las disposiciones de la sección anterior, inclusive en cuanto a los efectos de la omisión de nombrar la persona que arbitrará o de depositar los honorarios fijados.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 647
-
 Artículo 648.- Si la desavenencia fuera solo parcial, lo que se acuerde ante el órgano conciliador o resuelva el órgano arbitral se considerará como parte de la convención, la cual entrará en vigencia según lo establecido en ella, o bien, conforme a lo dispuesto en el arreglo conciliatorio o laudo arbitral, según sea el caso.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 648
 
 SECCIÓN VI
 
@@ -10462,8 +9153,6 @@ Artículo 649.- Las personas que propongan los interesados como conciliadoras o 
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 649
-
 Artículo 650.- Las personas indicadas en el artículo anterior devengarán, por cada sesión que celebren, una dieta calculada de acuerdo con el salario base de juez conciliador. Los honorarios del arbitraje y la conciliación a cargo de la parte trabajadora los cubrirá el Estado. La parte empleadora asumirá el costo de los que proponga. En uno y otro caso, los emolumentos deberán depositarse dentro de los tres días siguientes a la fecha en que se le notifique la respectiva prevención, salvo que el interesado releve, dentro de ese mismo término, de forma expresa, a la parte del depósito, lo cual hará bajo su responsabilidad.
 
 La fijación la hará el órgano respectivo de forma prudencial, una vez recibidas las respectivas comunicaciones, calculando, moderada y prudencialmente, el tiempo que consumirán las audiencias necesarias para la substanciación del proceso.
@@ -10474,21 +9163,15 @@ Quienes funjan como árbitros o árbitras no deberán rendir caución y, una vez
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 650
-
 Artículo 651.- Los órganos de conciliación y de arbitraje tienen la más amplia facultad para obtener de las partes todos los datos e informes necesarios para el desempeño de su cometido, los que no podrán divulgar sin previa autorización de quien los haya dado. La infracción a esta disposición será sancionada de acuerdo con lo dispuesto en el libro de las contravenciones del Código Penal (divulgación de documentos secretos que no afecten la seguridad nacional).
 
 Cada litigante queda obligado, bajo el apercibimiento de tener por ciertas y eficaces las afirmaciones correspondientes de la otra parte, a facilitar por todos los medios a su alcance la realización de estas investigaciones.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 651
-
 Artículo 652.- También, los miembros de esos órganos podrán visitar y examinar los lugares de trabajo, exigir de todas las autoridades, comisiones técnicas, instituciones y personas, la contestación de los cuestionarios o preguntas que crean conveniente formularles para el mejor esclarecimiento de las causas del conflicto. El entorpecimiento o la negativa de ayuda podrá ser sancionada según lo dispuesto en el libro de las contravenciones del Código Penal (falta de ayuda a la autoridad).
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 652
 
 Artículo 653.- Toda diligencia que practiquen los órganos de conciliación y arbitraje se extenderá por escrito en el acto mismo de llevarse a cabo y será firmada, previa lectura, por sus miembros y las personas que han intervenido en ella, y deberán mencionarse el lugar, la hora y el día de la práctica, el nombre de las personas que asistieron y demás indicaciones pertinentes.
 
@@ -10496,19 +9179,13 @@ Se anotarán las observaciones de los asistentes sobre la exactitud de lo consig
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 653
-
 Artículo 654.- Quienes presidan o coordinen los órganos de conciliación y de arbitraje tendrán facultades para notificar y citar a las partes o a los delegados de estas por medio de las autoridades judiciales, de policía o de trabajo, de telegramas y cualquier otra forma que las circunstancias y su buen criterio les indique como segura. Estas diligencias no estarán sujetas a más formalidad que la constancia que se pondrá en autos de haber sido realizadas y, salvo prueba fehaciente en contrario, se tendrán por auténticas.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 654
-
 Artículo 655.- Los órganos de conciliación y de arbitraje apreciarán las pruebas que ordenen según las reglas dispuestas en este mismo Código.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 655
 
 Artículo 656.- Las deliberaciones de los conciliadores y de los tribunales de arbitraje serán secretas. La presidencia hará señalamiento para recibir las votaciones. El voto de quien preside se tendrá como doble en los casos en que no hubiera mayoría de votos conformes.
 
@@ -10516,19 +9193,13 @@ La redacción de todas las resoluciones corresponderá siempre, en el caso de ó
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 656
-
 Artículo 657.- En los procesos a que se refiere este capítulo, cada una de las partes asumirá todos los gastos legales que demande su tramitación, excepto en el arbitraje, si en el laudo se establece lo contrario.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 657
-
 Artículo 658.- Se autoriza el funcionamiento de centros privados de conciliación laboral, los cuales deberán ser autorizados por el Ministerio de Trabajo y Seguridad Social, por medio de la reglamentación que al efecto se dicte.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 658
 
 CAPÍTULO DECIMOCUARTO
 
@@ -10538,13 +9209,9 @@ Artículo 659.- Podrá ser objeto de calificación, para establecer su legalidad
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 659
-
 Artículo 660.- Podrá pedir la calificación el sindicato o los sindicatos, la coalición de trabajadores o el patrono o los patronos directamente involucrados en la huelga.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 660
 
 Artículo 661- La calificación podrá solicitarse en cualquier tiempo mientras subsista la huelga o el paro, salvo lo dispuesto en el artículo 384. En el caso de servicios públicos, la calificación podrá solicitarse hasta tres días después de su finalización.
 
@@ -10556,8 +9223,6 @@ Sin perjuicio de lo dispuesto en el artículo 668, solo podrá intentarse un ún
 
 (Así reformado por el artículo 1° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
 
-Ficha Artículo 661
-
 Artículo 661 bis- Declarada la legalidad de la huelga en servicios públicos no esenciales y transcurridos ocho días naturales a partir de la firmeza de dicha declaratoria sin que las partes hayan alcanzado una solución al conflicto, o al menos un acuerdo para deponerla mientras continúan las negociaciones, la parte patronal podrá solicitar al juez la suspensión de la huelga, cuando compruebe de manera fehaciente que esta está causando graves daños de difícil o imposible reparación a la ciudadanía.
 
 Presentada la gestión, el juez concederá audiencia a la contraparte dentro del plazo máximo de cuarenta y ocho horas, plazo en el cual deberán presentar sus alegatos. Recibidos los alegatos de las partes, el juez resolverá la solicitud en un plazo máximo de veinticuatro horas.
@@ -10567,8 +9232,6 @@ Contra el resultado cabrá recurso de apelación, la cual se tramitará conforme
 De acogerse la suspensión de la huelga, se procederá al arbitraje obligatorio.
 
 (Así adicionado por el artículo 2° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
-
-Ficha Artículo 661 BIS
 
 Artículo 662.- En la solicitud inicial se indicará lo siguiente:
 
@@ -10583,8 +9246,6 @@ Artículo 662.- En la solicitud inicial se indicará lo siguiente:
 5. Señalamiento de lugar o medio para notificaciones.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 662
 
 Artículo 663- Presentada la solicitud de calificación de huelga, el juez de trabajo correspondiente tendrá un plazo improrrogable de veinticuatro horas para resolver la solicitud. Si la solicitud no estuviera en forma, se prevendrá la subsanación en un plazo de veinticuatro horas, bajo el apercibimiento de declarar la inadmisibilidad de la gestión. Una vez recibida la solicitud en forma, el juez dictará, en el plazo de veinticuatro horas, una resolución con el siguiente contenido:
 
@@ -10632,8 +9293,6 @@ Bajo ninguna circunstancia se podrán ampliar los plazos establecidos en la pres
 
 (Así reformado por el artículo 1° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
 
-Ficha Artículo 663
-
 Artículo 664- Las pruebas deben referirse únicamente a los requisitos legales necesarios para la calificación y a los hechos relacionados con ellos, y deberán rendirse en la audiencia complementaria indicada en el artículo anterior.
 
 En el caso de la calificación previa, la constatación del apoyo se hará mediante la certificación del resultado de la asamblea general del sindicato o los sindicatos respectivos, o bien, por medio de las actas de votación, en cuyo caso se seguirá el procedimiento que al efecto determine el Ministerio de Trabajo y Seguridad Social vía reglamentaria.
@@ -10648,19 +9307,13 @@ Para efectos de la constatación del apoyo se tendrán como trabajadores o traba
 
 (Así reformado por el artículo 1° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
 
-Ficha Artículo 664
-
 Artículo 664 bis- En los servicios de importancia transcendental, así como en el caso del artículo 376 quinquies, la constatación por medio de inspección ocular que realice el juez de trabajo, del incumplimiento del plan de servicios mínimos acordado entre las partes o determinado por el juez de trabajo, determinará por si sola la ilegalidad del movimiento.
 
 (Así adicionado por el artículo 2° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
 
-Ficha Artículo 664 BIS
-
 Artículo 665.- Las autoridades policiales y del Ministerio de Trabajo y Seguridad Social tendrán obligación de colaborar con los órganos jurisdiccionales, cuando estos así lo soliciten.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 665
 
 Artículo 666- El órgano jurisdiccional solo admitirá las pruebas que sean estrictamente necesarias y rechazará las que resulten repetidas, abundantes o impertinentes, así como toda probanza que no conduzca a la comprobación de los requisitos para la legalidad del movimiento.
 
@@ -10672,15 +9325,11 @@ El incumplimiento de los plazos indicados o de los deberes señalados en este ca
 
 (Así reformado por el artículo 1° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
 
-Ficha Artículo 666
-
 Artículo 667- Cuando no hubiera prueba que deba recibirse en audiencia, se prescindirá de la audiencia complementaria indicada en el artículo 663 y se procederá al dictado de la sentencia en el plazo improrrogable de cuarenta y ocho horas a la substanciación de los autos.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
 (Así reformado por el artículo 1° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
-
-Ficha Artículo 667
 
 Artículo 668- Durante la tramitación del proceso no será admisible ninguna apelación. Únicamente la sentencia de calificación del movimiento será recurrible en los términos señalados en el artículo 663.
 
@@ -10691,8 +9340,6 @@ Lo fallado hace estado sobre la legalidad del movimiento o hechos discutidos en 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
 (Así reformado por el artículo 1° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
-
-Ficha Artículo 668
 
 CAPÍTULO DECIMOQUINTO
 
@@ -10714,8 +9361,6 @@ El acusador se tendrá como parte en el proceso, para todos los efectos.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 669
-
 Artículo 670.- La acusación deberá presentarse de forma escrita, ante el órgano jurisdiccional competente y cumplirá los siguientes requisitos:
 
 1. El nombre completo del acusador, el número de documento de identidad y el domicilio. Si se tratara de un representante, deberá indicar el carácter en que comparece y presentar el documento que lo acredite.
@@ -10730,13 +9375,9 @@ Artículo 670.- La acusación deberá presentarse de forma escrita, ante el órg
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 670
-
 Artículo 671.- Si la acusación no estuviera en forma se prevendrá la subsanación que corresponda y se le dará al asunto el mismo tratamiento previsto para esos casos en el proceso ordinario.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 671
 
 Artículo 672.- Si la acusación estuviera en forma, el juzgado dictará una resolución con el siguiente contenido:
 
@@ -10756,15 +9397,11 @@ Cuando la parte acusada no provee su defensa, esta le será suministrada por la 
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 672
-
 Artículo 673.- En la primera fase de la audiencia se procurará una solución conciliada, procurando el acuerdo entre las partes. Tal solución solo será promovida cuando el posible arreglo no implique una infracción a las disposiciones de trabajo y de previsión social, y los acuerdos solo serán válidos y homologables si no son contrarios a derechos irrenunciables de las partes o en cualquier otra forma violatorios de dichas disposiciones.
 
 En cuanto a los efectos y la ejecución del acuerdo, se estará a lo dispuesto en este título. Los hechos que sirvieron de sustento a la acusación no podrán invocarse nuevamente como causa de infracción.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 673
 
 Artículo 674.- Cuando el intento de conciliación fracase así como en los casos en que no procede ese trámite conforme a lo dispuesto en el artículo 667, se continuará con la segunda fase de la audiencia.
 
@@ -10776,19 +9413,13 @@ Se podrá prorrogar la audiencia, según lo previsto en ese mismo proceso, para 
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 674
-
 Artículo 675.- Cuando el presunto infractor no se presente voluntariamente a la audiencia se recibirán las pruebas ofrecidas en la acusación y se dictará sentencia sin más trámite.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 675
-
 Artículo 676.- Las organizaciones sociales y, en general, las personas jurídicas a cuyo nombre se realizó la actuación reputada como infractora de las leyes de trabajo y seguridad social serán citadas, por medio de sus representantes, como responsables directas de las faltas y eventuales responsables solidarias de las resultas económicas del proceso, en los términos señalados en el artículo 399.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 676
 
 Artículo 677.- La sentencia condenatoria ineludiblemente contendrá:
 
@@ -10804,8 +9435,6 @@ Artículo 677.- La sentencia condenatoria ineludiblemente contendrá:
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 677
-
 Artículo 678.- En este procedimiento solo serán apelables las resoluciones que ordenen el rechazo de plano o el archivo del expediente y las que denieguen pruebas o nulidades pedidas, pero en estos dos últimos supuestos se tendrán como reservadas y solo serán tomadas en cuenta según está previsto en este Código.
 
 La sentencia produce cosa juzgada material y será recurrible para ante el tribunal de apelaciones de trabajo.
@@ -10813,8 +9442,6 @@ La sentencia produce cosa juzgada material y será recurrible para ante el tribu
 En materia de medios de impugnación y recursos se estará en un todo a lo dispuesto en este Código, pero la sentencia del juzgado será revisada integralmente por el órgano de apelación, a cuyo efecto las partes podrán ofrecer las pruebas de su interés, cuya admisibilidad valorará el tribunal, las cuales se restringirán a los temas que son materia o contenido de agravios invocados en el recurso. Cuando proceda se evacuarán en audiencia. La sentencia de segunda instancia se dictará en la misma forma y los términos previstos para la sentencia del proceso ordinario.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 678
 
 Artículo 679.- Las multas se cancelarán en uno de los bancos del Sistema Bancario Nacional, a la orden del Ministerio de Trabajo y Seguridad Social, en una cuenta que el banco indicará al efecto. Dicho monto se incluirá en el presupuesto nacional de la República, para que se gire a favor de dicho Ministerio el que, a su vez, lo distribuirá en la siguiente forma:
 
@@ -10826,21 +9453,15 @@ Si la multa no fuera pagada oportunamente, la Dirección Nacional de Inspección
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 679
-
 Artículo 680.- La revisión de las sentencias condenatorias por infracciones a las leyes de trabajo y seguridad social se regirá, en lo pertinente, por lo que al respecto dispone el artículo 601.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 680
 
 Artículo 681.- De toda sentencia firme que se dicte en materia de faltas o infracciones reguladas en este título se remitirá, obligatoriamente, por medios electrónicos y en un plazo de quince días, copia literal a la Inspección General de Trabajo y también a la respectiva institución de seguridad social, cuando verse sobre infracciones a las leyes sobre los seguros que administra, salvo que haya figurado como parte en el proceso.
 
 En cuanto sean compatibles, supletoriamente se aplicarán las disposiciones establecidas sobre infracciones y sanciones administrativas en la Ley N.° 4755, Código de Normas y Procedimientos Tributarios, de 3 de mayo de 1971, la Ley N.° 6227, Ley General de la Administración Pública, de 2 de mayo de 1978, y en la Ley N.° 8508, Código Procesal Contencioso-Administrativo, de 28 de abril de 2006.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 681
 
 TÍTULO UNDÉCIMO
 
@@ -10857,8 +9478,6 @@ Artículo 682.- Trabajadora del Estado, de sus instituciones u órganos, es toda
 Los servidores de naturaleza pública se rigen por las normas estatutarias correspondientes, leyes especiales y normas reglamentarias aplicables y por este Código, en todo lo no contemplado en esas otras disposiciones. Las relaciones con las personas trabajadoras en régimen privado se regirán por el derecho laboral común y disposiciones conexas, salvo que la ley disponga otra cosa. También, podrán aplicarse conciliaciones, convenciones colectivas y laudos, siempre y cuando se concluyan o dicten con respeto a lo dispuesto en este Código y las limitaciones que resulten de este título.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 682
 
 Artículo 683.- El concepto del artículo anterior comprende, en cuanto al pago de prestaciones que prevén los artículos 28, 29 y 31, en su caso, a todos los servidores públicos, con las excepciones que resulten de este Código y de leyes o disposiciones especiales.
 
@@ -10886,13 +9505,9 @@ En particular se excluyen de dicho pago:
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 683
-
 Artículo 684.- Las personas exceptuadas en el artículo anterior no se regirán por las disposiciones de este Código, sino únicamente por las que establezcan leyes, decretos o acuerdos especiales. Sin embargo, a excepción de las personas que ocupen cargos de elección popular, tendrán derecho al pago de cesantía si se jubilaran o pensionaran, o fallecieran en el cargo con derecho jubilatorio, sin perjuicio de lo que dispongan leyes especiales. El pago de la cesantía procederá, en estos casos, cuando el beneficio de pensión se adquiere por primera vez.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 684
 
 Artículo 685.- En el caso de haber causa justificada para el despido, los servidores indicados en el artículo inicial de este título no tendrán derecho a las indemnizaciones señaladas, con las excepciones que admitan leyes especiales, reglamentos autónomos de trabajo o acuerdos colectivos concluidos conforme a lo dispuesto en este Código. La causa justificada se calificará y determinará de conformidad con los artículos 81 y 369 de este Código y de acuerdo con lo que sobre el particular dispongan las leyes, relativas a las dependencias del Estado en que laboren dichos servidores, y los reglamentos u otras normas cuando establezcan condiciones más beneficiosas para las personas trabajadoras.
 
@@ -10902,21 +9517,15 @@ Los procesos disciplinarios pendientes contra un servidor público que renuncie 
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 685
-
 Artículo 686.- Los servidores públicos que reciban auxilio de cesantía no podrán ocupar cargos remunerados en ninguna dependencia del Estado, durante un tiempo igual al representado por la suma recibida por dicho concepto o bajo otro título, por indemnización, reconocimiento de antigüedad o cualquier otra prestación similar pagada por la parte empleadora que se origine en la terminación de la relación de servicio, a excepción de los fondos de capitalización laboral. Si dentro de ese lapso llegaran a aceptar algún cargo quedarán obligados a reintegrar al Tesoro Público las sumas recibidas y deducirán aquellas que representen los salarios que hubieran devengado durante el tiempo en que permanecieron cesantes.
 
 La Procuraduría General de la República, cuando se trate del Estado, o el representante legal de los demás entes públicos, con personalidad jurídica y capacidad de derecho público y privado que pagó, procederá al cobro de las sumas que deban reintegrarse, por contravención a la prohibición establecida en el párrafo anterior, con fundamento en certificaciones extendidas por las oficinas correspondientes. Tales certificaciones tendrán el carácter de título ejecutivo por el monto resultante de la liquidación que haga la administración.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 686
-
 Artículo 687.- Las personas trabajadoras a que se refiere el artículo inicial de este título, que no tengan derecho de estabilidad en sus puestos de trabajo, solo podrán ser despedidas sin justa causa, expidiéndoles simultáneamente la orden de pago de las prestaciones que les corresponda. El acuerdo de despido y la orden de pago deberán publicarse en la misma fecha en el diario oficial La Gaceta.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 687
 
 CAPÍTULO SEGUNDO
 
@@ -10932,8 +9541,6 @@ Artículo 688.- Serán válidos las conciliaciones y los laudos arbitrales para 
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 688
-
 Artículo 689.- Todas las personas trabajadoras de dicho sector tienen derecho a una solución negociada o arbitrada, salvo:
 
 1. Las excepcionadas en el artículo 683 de este Código.
@@ -10943,8 +9550,6 @@ Artículo 689.- Todas las personas trabajadoras de dicho sector tienen derecho a
 3. El personal indicado en los artículos 3, 4 y 5 del Estatuto de Servicio Civil, con la salvedad de las personas que ocupan puestos de forma interina, los maestros de enseñanza primaria interinos o aspirantes y los profesores de segunda enseñanza interinos o aspirantes y los pagados por servicios o fondos especiales contemplados en la relación de puestos de la ley de presupuesto, contratados por obra determinada, quienes sí podrán derivar derechos de las convenciones colectivas a que se refiere esta ley.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 689
 
 Artículo 690.- Con las limitaciones a que se hará referencia, pueden ser objeto de solución en la forma dicha, las siguientes materias:
 
@@ -10976,8 +9581,6 @@ m) Otras materias, beneficios o incentivos suplementarios de negociación colect
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 690
-
 SECCIÓN II
 
 Requisitos de validez
@@ -10988,27 +9591,19 @@ Queda también expresamente prohibido hacer ajustes técnicos en aplicación de 
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 691
-
 Artículo 692.- Asimismo, queda absolutamente prohibido dispensar o excepcionar leyes o reglamentos vigentes, debidamente promulgados, por medio de los mecanismos de solución.
 
 Es entendido que cuando se trate de erogaciones que afecten el presupuesto nacional o el de una institución o empresa en particular, las decisiones que se emitan por las jerarquías y los órganos arbitrales deben sujetarse no solo a las restricciones que resultan de esta normativa, sino también a las normas constitucionales en materia de aprobación de presupuestos públicos, las que en caso de haber sido irrespetadas implicarán la nulidad absoluta de lo dispuesto.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 692
-
 Artículo 693.- El arbitraje no será de conciencia sino de derecho y los respectivos tribunales arbitrales deberán estar integrados por profesionales en derecho, exclusivamente, y ubicados en sede judicial.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 693
-
 Artículo 694.- No podrá formar parte de las delegaciones que intervengan en representación de la empleadora ninguna persona que pueda recibir real o potencialmente algún beneficio de la convención colectiva que se firme. Igualmente, existirá impedimento si el resultado pudiera beneficiar a su cónyuge, compañero, compañera o conviviente o a sus parientes, según lo indicado en el párrafo segundo del artículo 48 de la Ley N.° 8422, Ley contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública, de 6 de octubre de 2004.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 694
 
 Artículo 695.- Las convenciones y los acuerdos que se adopten en una negociación colectiva de cualquier tipo, con servidores en régimen de empleo público, quedarán sujetos, para su validez y eficacia, a la aprobación del órgano jerárquico de la institución o empresa con competencia para obligarla, previa constatación de los límites y requisitos de validez.
 
@@ -11019,8 +9614,6 @@ La no aprobación del acuerdo por la Administración no constituye una infracci�
 Tratándose de normas que por su naturaleza o su afectación del principio de legalidad presupuestario requieran aprobación legislativa o reglamentaria, su eficacia quedará condicionada a la inclusión en la ley de presupuesto o en los reglamentos respectivos, lo mismo que a la aprobación por parte de la Contraloría General de la República, cuando afecte los presupuestos de las instituciones, cuyos presupuestos ordinarios y extraordinarios o modificaciones presupuestarias requieran aprobación de esta última entidad. En todo caso, los acuerdos logrados por medio de la Comisión Negociadora de Salarios del Sector Público serán vinculantes para las partes y al efecto las administraciones emitirán los actos administrativos necesarios para hacerlos efectivos en todo el sector público centralizado y descentralizado.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 695
 
 CAPÍTULO TERCERO
 
@@ -11036,15 +9629,11 @@ Si no hubiera acuerdo entre ellos, para negociar en forma conjunta, la convenci�
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 696
-
 Artículo 697.- En el caso de convenciones colectivas que vayan a regir en más de una empresa o institución, podrán participar de la negociación todos aquellos sindicatos con afiliación en al menos una de las empresas o instituciones del sector, ya sea que se trate de sindicatos gremiales, industriales o de empresa, siempre y cuando alcancen una filiación debidamente certificada por el Ministerio de Trabajo y Seguridad Social de al menos un veinte por ciento (20%) del total de sindicalizados de alguna de las empresas o instituciones del sector comprendido en la negociación.
 
 El número de negociadores será acreditado ante la institución o las empresas que participen de la negociación en proporción a la afiliación sindical total que tengan los sindicatos del sector en su conjunto, se asignará en la mesa negociadora una persona como representante sindical por cada mil trabajadores o trabajadoras afiliados en el sector, en cuyo caso tendrá derecho a contar al menos con un representante sindical. Las decisiones de la representación de los trabajadores y trabajadoras se tomarán bajo el criterio de un voto por cada representante sindical y atenderán a la voluntad de la mayoría simple de los votos escrutados en cada votación que sea necesaria.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 697
 
 Artículo 698.- Las empresas, instituciones o dependencias del Estado que se dispongan a negociar y suscribir una convención colectiva deberán acreditar una delegación del más alto nivel, escogida por el órgano de mayor jerarquía. A tal efecto, las empresas, instituciones y dependencias podrán incluso, si lo consideran necesario, contratar personal profesional externo para integrar o asesorar las delegaciones que aquí se mencionan.
 
@@ -11052,13 +9641,9 @@ En el caso de negociaciones por sector, en que intervengan varias instituciones 
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 698
-
 Artículo 699.- En caso de conflicto en la determinación de la organización u organizaciones sindicales legitimadas para negociar y suscribir una convención colectiva, el jerarca de las instituciones o cualquiera de las organizaciones sindicales involucradas podrá solicitar, al Ministerio de Trabajo y Seguridad Social, hacer la designación correspondiente, con arreglo a lo dispuesto en el artículo 56 y las disposiciones de este capítulo.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 699
 
 SECCIÓN II
 
@@ -11072,35 +9657,25 @@ En el caso de convenciones colectivas por sector, que involucren a más de una i
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 700
-
 Artículo 701.- Cuando existan varias organizaciones sindicales en la mesa de negociación y cada una de ellas haya remitido su propio proyecto de convención colectiva, se les solicitará elaborar un proyecto unitario previo a la negociación. Si en un plazo de un mes natural, contado a partir de la prevención que les hará el jerarca de la respectiva institución o empresa, no hubieran cumplido el requisito aquí establecido, se tendrá como proyecto a negociar aquel que haya presentado el sindicato mayoritario, si la negociación es en una sola empresa o negociación, o el proyecto que respalde la mayoría de representantes sindicales, si se tratara de una negociación por sector.
 
 Es entendido que cualquiera de las partes que intervengan en la negociación, o ambas en conjunto, podrán solicitar la intervención, como buen componedor, de uno o varios funcionarios del Ministerio de Trabajo y Seguridad Social, sin que la solicitud que se haga a dicho Ministerio sea obligatoria para este cuando carezca de recursos suficientes para atender la negociación.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 701
-
 Artículo 702.- La negociación abarcará todos los aspectos y extremos del proyecto que se haya formulado a la administración o administraciones y deberá levantarse un acta de cada sesión de trabajo, la cual firmarán los representantes de ambas partes.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 702
-
 Artículo 703.- Además de las actas individuales de cada sesión, al final del proceso negociador se levantará un acta de cierre en la que se recogerá el texto completo de las cláusulas que fueron negociadas y donde se indicará cuáles cláusulas del proyecto fueron desechadas o no pudieron negociarse por falta de acuerdo acerca de ellas.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 703
 
 Artículo 704- Lo convenido en forma definitiva en la mesa negociadora, una vez aprobado por la Administración, será válido entre las partes y tendrá una vigencia de uno a tres años, según ellas mismas lo determinen. La aprobación por parte de la Administración deberá efectuarse en un plazo máximo de tres meses. Si dicha aprobación no se produce en ese plazo, la negociación se entenderá por definitivamente aprobada por la Administración y una copia de lo negociado en firme se enviará, por cualquiera de las partes, a la Dirección General de Asuntos Laborales del Ministerio de Trabajo y Seguridad Social, para su depósito; además, deberá ser publicado en el diario oficial La Gaceta, sin costo alguno para las partes. Podrá señalarse la vigencia de cada norma en forma individual o de la convención colectiva, en forma integral.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
 (Así reformado por el artículo 49 sub inciso c) de la Ley Marco de Empleo Público, N° 10159 del 8 de marzo de 2022)
-
-Ficha Artículo 704
 
 CAPÍTULO CUARTO
 
@@ -11116,13 +9691,9 @@ c) Si no hubiera arreglo y no se estuviera en el caso de avenimiento entre las p
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 705
-
 Artículo 706.- Es potestativo para la Administración y sus servidores someter la solución de los conflictos económicos y sociales a arbitraje, en cuyo caso se estará a lo dispuesto en este mismo Código, con las excepciones y limitaciones que se establecen en este capítulo.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 706
 
 Artículo 707- Cuando exista impedimento para acudir a la huelga, por tratarse de servicios esenciales, fracasada la conciliación, deberá someterse la solución del conflicto económico y social a arbitraje, en la forma, los términos y las condiciones indicados en esta normativa. El arbitraje obligatorio también se aplicará cuando se alcance el plazo máximo de huelga en servicios de importancia trascendental.
 
@@ -11144,25 +9715,17 @@ El arbitraje obligatorio será un arbitraje de derecho. En caso de que alguno de
 
 (Así reformado por el artículo 1° de la Ley para brindar seguridad jurídica sobre la huelga y sus procedimientos, N° 9808 del 21 de enero del 2020)
 
-Ficha Artículo 707
-
 Artículo 708.- Durante la huelga declarada pueden realizarse arreglos o convenios tendientes a la solución del conflicto en forma directa, los cuales deben respetar el ordenamiento en la forma indicada en este título.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 708
 
 Artículo 709.- Es aplicable en el sector público, en relación con sus servidores, en régimen privado y público de empleo, el arbitramento obligatorio en el supuesto de la huelga legal agotada.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 709
-
 Artículo 710.- Todo movimiento de huelga en el sector público debe ejecutarse con respeto de lo dispuesto en los capítulos primero y tercero del título sexto del Código de Trabajo.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 710
 
 CAPÍTULO QUINTO
 
@@ -11176,16 +9739,10 @@ Tratándose de la administración descentralizada deberán incluirse las modific
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 711
-
 Artículo 712.- Conforme a lo dispuesto en el artículo anterior y sin perjuicio de las reservas específicas que allí se formulan, las normas de una convención colectiva válida y eficaz serán de acatamiento obligatorio para las partes que la suscriban y para todos los trabajadores actuales y futuros de la institución, empresa o centro de trabajo, y podrá exigirse judicialmente su cumplimiento o, en su caso, el pago de las indemnizaciones de daños y perjuicios por su incumplimiento, tanto a favor de las personas trabajadoras afectadas, como de las organizaciones sindicales perjudicadas, según se trate.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
 
-Ficha Artículo 712
-
 Artículo 713.- Lo dispuesto en una convención colectiva firmada con arreglo a las normas de este título solamente podrá ser anulado cuando en vía judicial se declare una nulidad evidente y manifiesta, de acuerdo con la Ley N.° 6227, Ley General de la Administración Pública, de 2 de mayo de 1978, o por medio del proceso de lesividad, atendido a cuestiones de forma en la formación de la voluntad de las partes o cuando se hubieran violado normas legales o reglamentarias de carácter prohibitivo.
 
 (Así adicionado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, "Reforma Procesal Laboral".)
-
-Ficha Artículo 713

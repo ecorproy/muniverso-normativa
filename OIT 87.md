@@ -1,8 +1,13 @@
+---
+numero: "Convenio OIT 87"
+nombre: "Convenio sobre la libertad sindical y la protección del derecho de sindicación, 1948"
+materia: "internacional"
+version_sinalevi: ""
+ultima_reforma: ""
+enlace: ""
+---
+
 C087 - Convenio sobre la libertad sindical y la protección del derecho de sindicación, 1948 (núm. 87) 
-
-Visualizar en: Inglés - Francés - árabe - alemán - neerlandés - portugués - ruso - vietnamita - chino 
-
-Ir al artículo : 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
 
 Preámbulo 
 
@@ -184,7 +189,4 @@ See also
 
 Ratificaciones por país 
 
-Sumisiones a las autoridades competentes por país 
-
-© Copyright and permissions 1996-2024 International Labour Organization (ILO) | Privacy policy | Disclaimer 
-
+Sumisiones a las autoridades competentes por país

@@ -1,3 +1,12 @@
+---
+numero: "Ley 7948"
+nombre: "Convención Interamericana para la eliminación de todas las formas de discriminación contra las personas con discapacidad"
+materia: "internacional"
+version_sinalevi: "2 de 2"
+ultima_reforma: ""
+enlace: ""
+---
+
 Tratados Internacionales 7948
 
 Convención Interamericana para la eliminación de todas las formas de discriminación contra las personas con discapacidad
@@ -58,13 +67,9 @@ a) El término "discriminación contra las personas con discapacidad" ignifica t
 
 b) No constituye discriminación la distinción o preferencia adoptada por un Estado parte a fin de promover la integración social o el desarrollo personal de las personas con discapacidad, siempre que la distinción o preferencia no limite en sí misma el derecho a la igualdad de las personas con discapacidad y que los individuos con discapacidad no se vean obligados a aceptar tal distinción o preferencia. En los casos en que la legislación interna prevea la figura de la declaratoria de interdicción, cuando sea necesaria y apropiada para su bienestar, ésta no constituirá discriminación.
 
-Ficha Artículo 1
-
 ARTÍCULO II
 
 Los objetivos de la presente Convención son la prevención y eliminación de todas las formas de discriminación contra las personas con discapacidad y propiciar su plena integración en la sociedad.
-
-Ficha Artículo 2
 
 ARTÍCULO III
 
@@ -88,8 +93,6 @@ b) La detección temprana e intervención, tratamiento, rehabilitación, educaci
 
 c) La sensibilización de la población, a través de campañas de educación encaminadas a eliminar prejuicios, estereotipos y otras actitudes que atentan contra el derecho de las personas a ser iguales, propiciando de esta forma el respeto y la convivencia con las personas con discapacidad.
 
-Ficha Artículo 3
-
 ARTÍCULO IV
 
 Para lograr los objetivos de esta Convención, los Estados parte se comprometen a:
@@ -102,15 +105,11 @@ a) la investigación científica y tecnológica relacionada con la prevención d
 
 b) el desarrollo de medios y recursos diseñados para facilitar o promover la vida independiente, autosuficiencia e integración total, en condiciones de igualdad, a la sociedad de las personas con discapacidad.
 
-Ficha Artículo 4
-
 ARTÍCULO V
 
 1.- Los Estados parte promoverán, en la medida en que sea compatible con sus respectivas legislaciones nacionales, la participación de representantes de organizaciones de personas con discapacidad, organizaciones no gubernamentales que trabajan en este campo o, si no existieren dichas organizaciones, personas con discapacidad, en la elaboración, ejecución y evaluación de medidas y políticas para aplicar la presente Convención.
 
 2.- Los Estados parte crearán canales de comunicación eficaces que permitan difundir entre las organizaciones públicas y privadas que trabajan con las personas con discapacidad los avances normativos y jurídicos que se logren para la eliminación de la discriminación contra las personas con discapacidad.
-
-Ficha Artículo 5
 
 ARTÍCULO VI
 
@@ -128,13 +127,9 @@ ARTÍCULO VI
 
 7.- El Secretario General brindará al Comité el apoyo que requiera para el cumplimiento de sus funciones.
 
-Ficha Artículo 6
-
 ARTÍCULO VII
 
 No se interpretará que disposición alguna de la presente Convención restrinja o permita que los Estados parte limiten el disfrute de los derechos de las personas con discapacidad reconocidos por el derecho internacional consuetudinario o los instrumentos internacionales por los cuales un Estado parte está obligado.
-
-Ficha Artículo 7
 
 ARTÍCULO VIII
 
@@ -144,13 +139,9 @@ ARTÍCULO VIII
 
 3.- La presente Convención entrará en vigor para los Estados ratificantes el trigésimo día a partir de la fecha en que se haya depositado el sexto instrumento de ratificación de un Estado miembro de la Organización de los Estados Americanos.
 
-Ficha Artículo 8
-
 ARTÍCULO IX
 
 Después de su entrada en vigor, la presente Convención estará abierta a la adhesión de todos los Estados que no la hayan firmado.
-
-Ficha Artículo 9
 
 ARTÍCULO X
 
@@ -158,27 +149,19 @@ ARTÍCULO X
 
 2.- Para cada Estado que ratifique o adhiera a la Convención después de que se haya depositado el sexto instrumento de ratificación, la Convención entrará en vigor el trigésimo día a partir de la fecha en que tal Estado haya depositado su instrumento de ratificación o de adhesión.
 
-Ficha Artículo 10
-
 ARTÍCULO XI
 
 1.- Cualquier Estado parte podrá formular propuestas de enmienda a esta Convención. Dichas propuestas serán presentadas a la Secretaría General de la OEA para su distribución a los Estados parte.
 
 2.- Las enmiendas entrarán en vigor para los Estados ratificantes de las mismas en la fecha en que dos tercios de los Estados parte hayan depositado el respectivo instrumento de ratificación. En cuanto al resto de los Estados parte, entrarán en vigor en la fecha en que depositen sus respectivos instrumentos de ratificación.
 
-Ficha Artículo 11
-
 ARTÍCULO XII
 
 Los Estados podrán formular reservas a la presente Convención al momento de ratificarla o adherirse a ella, siempre que no sean incompatibles con el objeto y propósito de la Convención y versen sobre una o más disposiciones específicas.
 
-Ficha Artículo 12
-
 ARTÍCULO XIII
 
 La presente Convención permanecerá en vigor indefinidamente, pero cualquiera de los Estados parte podrá denunciarla. El instrumento de denuncia será depositado en la Secretaría General de la Organización de los Estados Americanos. Transcurrido un año, contado a partir de la fecha de depósito del instrumento de denuncia, la Convención cesará en sus efectos para el Estado denunciante, y permanecerá en vigor para los demás Estados parte. Dicha denuncia no eximirá al Estado parte de las obligaciones que le impone la presente Convención con respecto a toda acción u omisión ocurrida antes de la fecha en que haya surtido efecto la denuncia.
-
-Ficha Artículo 13
 
 ARTÍCULO XIV
 
@@ -209,5 +192,3 @@ FOR THE COMMONWEALTH OF DOMINICA:
 PELA COMMONWEALTH DA DOMINICA: (firma ilegible)
 
 POUR LE COMMONWEALTH DE LA DOMINIQUE:"
-
-Ficha Artículo 14

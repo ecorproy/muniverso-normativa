@@ -1,3 +1,12 @@
+---
+numero: "Ley 9394"
+nombre: "Convención Interamericana sobre la Protección de los Derechos Humanos de las Personas Mayores"
+materia: "internacional"
+version_sinalevi: "1 de 1"
+ultima_reforma: ""
+enlace: ""
+---
+
 Tratados Internacionales 9394
 
 Convención Interamericana sobre la Protección de los Derechos Humanos de las Personas Mayores
@@ -70,8 +79,6 @@ Los Estados Parte solo podrán establecer restricciones y limitaciones al goce y
 
 Las disposiciones de la presente Convención se aplicarán a todas las partes de los Estados federales sin limitaciones ni excepciones.
 
-Ficha Artículo 1
-
 Artículo 2
 
 Definiciones
@@ -107,8 +114,6 @@ Implica una atención primordial al control del dolor, de otros síntomas y de l
 "Unidad doméstica u hogar": El grupo de personas que viven en una misma vivienda, comparten las comidas principales y atienden en común las necesidades básicas, sin que sea necesario que existan lazos de parentesco entre ellos.
 
 "Vejez: Construcción social de la última etapa del curso de vida.
-
-Ficha Artículo 2
 
 CAPÍTULO II
 
@@ -148,8 +153,6 @@ n) La protección judicial efectiva.
 
 o) La responsabilidad del Estado y participación de la familia y de la comunidad en la integración activa, plena y productiva de la persona mayor dentro de la sociedad, así como en su cuidado y atención, de acuerdo con su legislación interna.
 
-Ficha Artículo 3
-
 CAPÍTULO III
 
 DEBERES GENERALES DE LOS ESTADOS PARTE
@@ -176,8 +179,6 @@ f) Promoverán la más amplia participación de la sociedad civil y de otros act
 
 g) Promoverán la recopilación de información adecuada, incluidos datos estadísticos y de investigación, que le permitan formular y aplicar políticas, a fin de dar efecto a la presente Convención.
 
-Ficha Artículo 4
-
 CAPÍTULO IV
 
 DERECHOS PROTEGIDOS
@@ -190,8 +191,6 @@ Queda prohibida por la presente Convención la discriminación por edad en la ve
 
 Los Estados Parte desarrollarán enfoques específicos en sus políticas, planes y legislaciones sobre envejecimiento y vejez, en relación con la persona mayor en condición de vulnerabilidad y aquellas que son víctimas de discriminación múltiple, incluidas las mujeres, las personas con discapacidad, las personas de diversas orientaciones sexuales e identidades de género, las personas migrantes, las personas en situación de pobreza o marginación social, los afrodescendientes y las personas pertenecientes a pueblos indígenas, las personas sin hogar, las personas privadas de libertad, las personas pertenecientes a pueblos tradicionales, las personas pertenecientes a grupos étnicos, raciales, nacionales, lingüísticos, religiosos y rurales, entre otros.
 
-Ficha Artículo 5
-
 Artículo 6
 
 Derecho a la vida y a la dignidad en la vejez
@@ -199,8 +198,6 @@ Derecho a la vida y a la dignidad en la vejez
 Los Estados Parte adoptarán todas las medidas necesarias para garantizar a la persona mayor el goce efectivo del derecho a la vida y el derecho a vivir con dignidad en la vejez hasta el fin de sus días, en igualdad de condiciones con otros sectores de la población.
 
 Los Estados Parte tomarán medidas para que las instituciones públicas y privadas ofrezcan a la persona mayor un acceso no discriminatorio a cuidados integrales, incluidos los cuidados paliativos, eviten el aislamiento y manejen apropiadamente los problemas relacionados con el miedo a la muerte de los enfermos terminales, el dolor, y eviten el sufrimiento innecesario y las intervenciones fútiles e inútiles, de conformidad con el derecho de la persona mayor a expresar el consentimiento informado.
-
-Ficha Artículo 6
 
 Artículo 7
 
@@ -216,8 +213,6 @@ b) Que la persona mayor tenga la oportunidad de elegir su lugar de residencia y 
 
 c) Que la persona mayor tenga acceso progresivamente a una variedad de servicios de asistencia domiciliaria, residencial y otros servicios de apoyo de la comunidad, incluida la asistencia personal que sea necesaria para facilitar su existencia y su inclusión en la comunidad, y para evitar su aislamiento o separación de esta.
 
-Ficha Artículo 7
-
 Artículo 8
 
 Derecho a la participación e integración comunitaria
@@ -231,8 +226,6 @@ a) Crearán y fortalecerán mecanismos de participación e inclusión social de 
 b) Promoverán la participación de la persona mayor en actividades intergeneracionales para fortalecer la solidaridad y el apoyo mutuo como elementos claves del desarrollo social.
 
 c) Asegurarán que las instalaciones y los servicios comunitarios para la población en general estén a disposición, en igualdad de condiciones, de la persona mayor y tengan en cuenta sus necesidades.
-
-Ficha Artículo 8
 
 Artículo 9
 
@@ -264,8 +257,6 @@ h) Promover mecanismos adecuados y eficaces de denuncia en casos de violencia co
 
 i) Promover activamente la eliminación de todas las practicas que generan violencia y que afectan la dignidad e integridad de la mujer mayor.
 
-Ficha Artículo 9
-
 Artículo 10
 
 Derecho a no ser sometido a tortura ni a penas o tratos
@@ -275,8 +266,6 @@ crueles, inhumanos o degradantes
 La persona mayor tiene derecho a no ser sometida a tortura y otros tratos o penas crueles, inhumanos o degradantes.
 
 Los Estados Parte tomarán todas las medidas de carácter legislativo, administrativo o de otra índole para prevenir, investigar, sancionar y erradicar todo tipo de tortura u otros tratos o penas crueles, inhumanos o degradantes hacia la persona mayor.
-
-Ficha Artículo 10
 
 Artículo 11
 
@@ -295,8 +284,6 @@ En los casos de emergencia médica que pongan en riesgo la vida y cuando no resu
 La persona mayor tiene derecho a aceptar. negarse a recibir o interrumpir voluntariamente tratamientos médicos o quirúrgicos. incluidos los de la medicina tradicional, alternativa y complementaria. investigación, experimentos médicos o científicos. ya sean de carácter físico o psíquico, y a recibir información clara y oportuna sobre las posibles consecuencias y los riesgos de dicha decisión.
 
 Los Estados Parte establecerán también un proceso a través del cual la persona mayor pueda manifestar de manera expresa su voluntad anticipada e instrucciones respecto de las intervenciones en materia de atención de la salud, incluidos los cuidados paliativos. En estos casos, esta voluntad anticipada podré ser expresada, modificada o ampliada en cualquier momento saja por la persona mayor, a través de instrumentos jurídicamente vinculantes, de conformidad con la legislación nacional.
-
-Ficha Artículo 11
 
 Artículo 12
 
@@ -328,8 +315,6 @@ d) Establecer la legislación necesaria, conforme a los mecanismos nacionales, p
 
 e) Adoptar medidas adecuadas, cuando corresponda, para que la persona mayor que se encuentre recibiendo servicios de cuidado a largo plazo cuente con servicios de cuidados paliativos que abarquen al paciente, su entorno y su familia.
 
-Ficha Artículo 12
-
 Articulo 13
 
 Derecho a la libertad personal
@@ -342,8 +327,6 @@ Los Estados Parte garantizarán que cualquier medida de privación o restricció
 
 Los Estados Parte garantizarán el acceso de la persona mayor privada de libertad a programas especiales y atención integral, incluidos los mecanismos de rehabilitación para su re inserción en la sociedad y, según corresponda, promoverán medidas alternativas respecto a la privación de libertad, de acuerdo con sus ordenamientos jurídicos internos.
 
-Ficha Artículo 13
-
 Artículo 14
 
 Derecho a la libertad de expresión y de opinión y al acceso a la información
@@ -352,8 +335,6 @@ La persona mayor tiene derecho a la libertad de expresión y opinión y al acces
 
 Los Estados Parte adoptarán medidas destinadas a garantizar a la persona mayor el ejercicio efectivo de dichos derechos.
 
-Ficha Artículo 14
-
 Articulo 15
 
 Derecho a la nacionalidad ya la libertad de circulación
@@ -361,8 +342,6 @@ Derecho a la nacionalidad ya la libertad de circulación
 La persona mayor tiene derecho a la libertad de circulación a la libertad para elegir su residencia y a poseer una nacionalidad en igualdad de condiciones con los demás sectores de la población, sin discriminación por razones de edad.
 
 Los Estados Parte adoptarán medidas destinadas a garantizar a la persona mayor el ejercicio efectivo de dichos derechos.
-
-Ficha Artículo 15
 
 Artículo 16
 
@@ -373,8 +352,6 @@ La persona mayor tiene derecho a la privacidad y a la intimidad y a no ser objet
 La persona mayor tiene derecho a no ser objeto de agresiones contra su dignidad, honor y reputación, y a la privacidad en los actos de higiene o en las actividades que desarrolle, independientemente del ámbito en el que se desenvuelva .
 
 Los Estados Parte adoptarán las medidas necesarias para garantizar estos derechos, particularmente a la persona mayor que recibe servicios de cuidado a largo plazo.
-
-Ficha Artículo 16
 
 Artículo 17
 
@@ -387,8 +364,6 @@ Los Estados Parte promoverán progresivamente, dentro de los recursos disponible
 Los Estados Parte buscarán facilitar, mediante convenios institucionales. acuerdos bilaterales u otros mecanismos hemisféricos, el reconocimiento de prestaciones, aportes realizados a la seguridad social o derechos de pensión de la persona mayor migrante.
 
 Todo lo dispuesto en este artículo será de conformidad con la legislación nacional.
-
-Ficha Artículo 17
 
 Artículo 18
 
@@ -407,8 +382,6 @@ Los Estados Parte promoverán programas y medidas que faciliten una transición 
 Los Estados Parte promoverán políticas laborales dirigidas a propiciar que las condiciones. el ambiente de trabajo, horarios y la organización de las tareas sean adecuadas a las necesidades y características de la persona mayor.
 
 Los Estados Parte alentarán el diseño de programas para la capacitación y certificación de conocimiento y saberes para promover el acceso de la persona mayor a mercados laborales más inclusivos.
-
-Ficha Artículo 18
 
 Artículo 19
 
@@ -448,8 +421,6 @@ n) Garantizar a la persona mayor el acceso a la información contenida en sus ex
 
 o) Promover y garantizar progresivamente, y de acuerdo con sus capacidades, el acompañamiento y la capacitación a personas que ejerzan tareas de cuidado de la persona mayor, incluyendo familiares, con el fin de procurar su salud y bienestar.
 
-Ficha Artículo 19
-
 Articulo 20
 
 Derecho a la educación
@@ -470,8 +441,6 @@ e) Diseñar e implementar políticas activas para erradicar el analfabetismo de 
 
 f) Fomentar y facilitar la participación activa de la persona mayor en actividades educativas, tanto formales como no formales.
 
-Ficha Artículo 20
-
 Artículo 21
 
 Derecho a la cultura
@@ -488,8 +457,6 @@ Los Estados Parte impulsarán la participación de las organizaciones de persona
 
 Los Estados Parte incentivarán, mediante acciones de reconocimiento y estimulo, los aportes de la persona mayor a las diferentes expresiones artísticas y culturales.
 
-Ficha Artículo 21
-
 Artículo 22
 
 Derecho a la recreación, al esparcimiento y al deporte
@@ -499,8 +466,6 @@ La persona mayor tiene derecho a la recreación, la actividad física, el esparc
 Los Estados Parte promoverán el desarrollo de servicios y programas de recreación, incluido el turismo, así como actividades de esparcimiento y deportivas que tengan en cuenta los intereses y las necesidades de la persona mayor, en particular de aquella que recibe servicios de cuidado a largo plazo, con el objeto de mejorar su salud y calidad de vida en todas sus dimensiones y promover su autorrealización, independencia, autonomía e inclusión en la comunidad.
 
 La persona mayor podrá participar en el establecimiento, gestión y evaluación de dichos servicios, programas o actividades.
-
-Ficha Artículo 22
 
 Artículo 23
 
@@ -513,8 +478,6 @@ Ninguna persona mayor puede ser privada de sus bienes, excepto mediante el pago 
 Los Estados Parte adoptarán todas las medidas necesarias para garantizarle a la persona mayor el ejercicio del derecho a la propiedad, incluida la libre disposición de sus bienes, y para prevenir el abuso y la enajenación ilegal de su propiedad.
 
 Los Estados Parte se comprometen a adoptar medidas para eliminar toda practica administrativa o financiera que discrimine a la persona mayor, principalmente a las mujeres mayores y a los grupos en situación de vulnerabilidad respecto del ejercicio de su derecho a la propiedad.
-
-Ficha Artículo 23
 
 Articulo 24
 
@@ -534,8 +497,6 @@ Los Estados Parte promoverán el establecimiento de procedimientos expeditos de 
 
 Los Estados Parte deberán promover programas para la prevención de accidentes en el entorno y el hogar de la persona mayor.
 
-Ficha Artículo 24
-
 Artículo 25
 
 Derecho a un medio ambiente sano
@@ -545,8 +506,6 @@ La persona mayor tiene derecho a vivir en un medio ambiente sano y a contar con 
 a) Fomentar el desarrollo pleno de la persona mayor en armonía con la naturaleza.
 
 b) Garantizar el acceso de la persona mayor en condiciones de igualdad a servicios públicos básicos de agua potable y saneamiento. entre otros.
-
-Ficha Artículo 25
 
 Artículo 26
 
@@ -578,8 +537,6 @@ g) Promover iniciativas en los servicios de transporte público o de uso públic
 
 h) Dotar a los edificios y otras instalaciones abiertas al público de señalización en formatos de fácil lectura. comprensión y adecuados para la persona mayor.
 
-Ficha Artículo 26
-
 Artículo 27
 
 Derechos políticos
@@ -598,8 +555,6 @@ c) Garantizar la libre expresión de !a voluntad de la persona mayor como electo
 
 d) Crear y fortalecer mecanismos de participación ciudadana con el objeto de incorporar en los procesos de toma de decisión en todos los niveles de Gobierno las opiniones, aportes y demandas de la persona mayor y de sus agrupaciones y asociaciones.
 
-Ficha Artículo 27
-
 Articulo 28
 
 Derecho de reunión y de asociación
@@ -612,8 +567,6 @@ a) Facilitar la creación y el reconocimiento legal de dichas agrupaciones o aso
 
 b) Fortalecer las asociaciones de personas mayores y el desarrollo de liderazgos positivos que faciliten el logro de sus objetivos y la difusión de los derechos enunciados en la presente Convención.
 
-Ficha Artículo 28
-
 Artículo 29
 
 Situaciones de riesgo y emergencias humanitarias
@@ -623,8 +576,6 @@ Los Estados Parte tomarán todas las medidas específicas que sean necesarias pa
 Los Estados Parte adoptarán medidas de atención específicas a las necesidades de la persona mayor en la preparación, prevención, reconstrucción y recuperación en situaciones de emergencias, desastres o conflictos.
 
 Los Estados Parte propiciarán que la persona mayor interesada participe en los protocolos de protección civil en caso de desastres naturales.
-
-Ficha Artículo 29
 
 Artículo 30
 
@@ -639,8 +590,6 @@ Los Estados Parte adoptarán las medidas pertinentes para proporcionar acceso a 
 Los Estados Parte asegurarán que en todas las medidas relativas al ejercicio de la capacidad jurídica se proporcionen salvaguardias adecuadas y efectivas para impedir los abusos de conformidad con el derecho internacional en materia de derechos humanos. Esas salvaguardias asegurarán que las medidas relativas al ejercicio de la capacidad jurídica respeten los derechos, la voluntad y las preferencias de la persona mayor. que no haya conflicto de intereses ni influencia indebida, que sean proporcionales y adaptadas a las circunstancias de la persona mayor, que se apliquen en el plazo más corto posible y que estén sujetas a exámenes periódicos por parte de una autoridad o un órgano judicial competente, independiente e imparcial. Las salvaguardias serán proporcionales al grado en que dichas medidas afecten a los derechos e intereses de la persona mayor.
 
 Sin perjuicio de lo dispuesto en el presente artículo, los Estados Parte tomarán todas las medidas que sean pertinentes y efectivas para garantizar el derecho de la persona mayor, en igualdad de condiciones con las demás. a ser propietaria y heredar bienes. controlar sus propios asuntos económicos y tener acceso en igualdad de condiciones a préstamos bancarios, hipotecas y otras modalidades de crédito financiero, y velarán por que la persona mayor no sea privada de sus bienes de manera arbitraria.
-
-Ficha Artículo 30
 
 Articulo 31
 
@@ -660,8 +609,6 @@ a) Mecanismos alternativos de solución de controversias.
 
 b) Capacitación del personal relacionado con la administración de justicia. incluido el personal policial y penitenciario, sobre la protección de los derechos de la persona mayor.
 
-Ficha Artículo 31
-
 CAPÍTULO V
 
 TOMA DE CONCIENCIA
@@ -680,8 +627,6 @@ d) Promover la inclusión de contenidos que propicien la compresión y aceptaci�
 
 e) Promover el reconocimiento de la experiencia, la sabiduría, la productividad y la contribución al desarrollo que la persona mayor brinda a la sociedad en su conjunto.
 
-Ficha Artículo 32
-
 CAPÍTULO VI
 
 MECANISMO DE SEGUIMIENTO DE LA CONVENCIÓN
@@ -697,8 +642,6 @@ Con el fin de dar seguimiento a los compromisos adquiridos y promover la efectiv
 El Mecanismo de Seguimiento quedará constituido cuando se haya recibido el décimo instrumento de ratificación o adhesión.
 
 Las funciones de la secretaria del Mecanismo de Seguimiento serán ejercidas por la Secretaria General de la Organización de los Estados Americanos.
-
-Ficha Artículo 33
 
 Artículo 34
 
@@ -722,8 +665,6 @@ El Secretario General de la Organización de los Estados Americanos convocará l
 
 Las reuniones ulteriores serán convocadas por el Secretario General de la Organización de los Estados Americanos a solicitud de cualquier Estado Parte, con la aprobación de dos tercios de los mismos. En ellas podrán participar como observadores los demás Estados Miembros de la Organización.
 
-Ficha Artículo 34
-
 Articulo 35
 
 Comité de Expertos
@@ -742,8 +683,6 @@ El Secretario General de la Organización de los Estados Americanos convocara la
 
 El Comité de Expertos tendrá su sede en la Organización de los Estados Americanos.
 
-Ficha Artículo 35
-
 Articulo 36
 
 Sistema de peticiones individuales
@@ -757,8 +696,6 @@ Asimismo, todo Estado Parte puede, en el momento del depósito de su instrumento
 Los Estados Parte podrán formular consultas a la Comisión en cuestiones relacionadas con la efectiva aplicación de la presente Convención. Asimismo, podrán solicitar a la Comisión asesoramiento y cooperación técnica para asegurar la aplicación efectiva de cualquiera de las disposiciones de la presente Convención. La Comisión, dentro de sus posibilidades, les brindará asesoramiento y asistencia cuando le sean solicitados.
 
 Todo Estado Parte puede, en el momento del depósito de su instrumento de ratificación o de adhesión a la presente Convención, o en cualquier momento posterior, declarar que reconoce como obligatoria y de pleno derecho y sin acuerdo especial la competencia de la Corte Interamericana de Derechos Humanos sobre todos los casos relativos a la interpretación o aplicación de la presente Convención. En dicho caso, se aplicaran todas las normas de procedimiento pertinentes contenidas en la Convención Americana sobre Derechos Humanos.
-
-Ficha Artículo 36
 
 CAPÍTULO VII
 
@@ -778,15 +715,11 @@ La presente Convención entrará en vigor el trigésimo día a partir de la fech
 
 Para cada Estado que ratifique o se adhiera a la presente Convención después de que haya sido depositado el segundo instrumento de ratificación o adhesión, la Convención entrara en vigor el trigésimo día a partir de la fecha en que tal Estado haya depositado el instrumento correspondiente.
 
-Ficha Artículo 37
-
 Articulo 38
 
 Reservas
 
 Los Estados Parte podrán formular reservas a la Convención en el momento de su firma, ratificación o adhesión, siempre que no sean incompatibles con el objeto y fin de la Convención y versen sobre una o más de sus disposiciones específicas.
-
-Ficha Artículo 38
 
 Articulo 39
 
@@ -794,15 +727,11 @@ Denuncia
 
 La Convención permanecerá en vigor indefinidamente, pero cualquiera de los Estados Parte podrá denunciarla mediante notificación escrita dirigida al Secretario General de la Organización de los Estados Americanos. Transcurrido un año contado a partir de la fecha de depósito del instrumento de denuncia, la Convención cesara en sus efectos para dicho Estado, permaneciendo en vigor para los demás Estados Parte. La denuncia no eximirá al Estado Parte de las obligaciones impuestas por la presente Convención con respecto a toda acción u omisión ocurrida antes de la fecha en que la denuncia haya entrado en vigor.
 
-Ficha Artículo 39
-
 Artículo 40
 
 Depósito
 
 El instrumento original de la Convención. cuyos textos en español, francés, inglés y portugués son igualmente auténticos, será depositado en la Secretaria General de la Organización de los Estados Americanos. la que enviará copia certificada de su texto para su registro y publicación a la Secretaría de las Naciones Unidas. de conformidad con el artículo 102 de la Carta de las Naciones Unidas.
-
-Ficha Artículo 40
 
 Artículo 41
 
@@ -815,5 +744,3 @@ Las enmiendas entrarán en vigor para los Estados ratificantes de las mismas en 
 Rige a partir de su publicación.
 
 Dado en la ciudad de San José, a los ocho días del mes de setiembre del año dos mil dieciséis.
-
-Ficha Artículo 41

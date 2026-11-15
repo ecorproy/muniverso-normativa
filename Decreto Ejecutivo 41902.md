@@ -1,3 +1,12 @@
+---
+numero: "Decreto Ejecutivo 41902"
+nombre: "Reglamento a los artículos 133 y 139 del Código de la Niñez y la Adolescencia"
+materia: "familia"
+version_sinalevi: "1 de 1"
+ultima_reforma: ""
+enlace: ""
+---
+
 Decreto Ejecutivo 41902
 
 Reglamento a los artículos 133 y 139 del Código de la Niñez y la Adolescencia
@@ -54,15 +63,11 @@ Disposiciones generales
 
 Artículo 1.- Proceso Especial de Protección en Sede Administrativa. El Proceso Especial de Protección en Sede Administrativa inicia una vez conocido el hecho o recibida la denuncia, con respecto a situaciones violatorias de derechos, en el marco de la Sección Primera, Capítulo 11, Título 111 del Código de la Niñez y de la Adolescencia, Ley N°7739 del 6 de enero de 1998 y sus reformas.
 
-Ficha Artículo 1
-
 Artículo 2.- Órgano competente
 
 La Oficina Local del Patronato Nacional de la Infancia es el órgano competente para llevar a cabo el Proceso Especial de Protección en Sede Administrativa. El Representante Legal de la Oficina Local será el Órgano Director del Proceso, por ende, es el funcionario responsable de garantizar la tramitación de este, en aplicación de los principios que resguardan el Debido Proceso.
 
 Deberá realizar la investigación correspondiente, en aplicación de los lineamientos establecidos en los modelos de gestión y protocolos vigentes en la institución, y de conformidad con las intervenciones que los profesionales en Psicología y/o Trabajo Social realicen.
-
-Ficha Artículo 2
 
 Artículo 3.- Garantías del proceso administrativo
 
@@ -72,8 +77,6 @@ Para estos efectos, el Representante Legal deberá tramitar el proceso tomando e
 
 garantías contempladas en los artículos 112, 113 y 114 del Código de la Niñez y la Adolescencia.
 
-Ficha Artículo 3
-
 Capítulo II
 
 Del procedimiento
@@ -81,8 +84,6 @@ Del procedimiento
 Artículo 4.- Medidas de protección
 
 Las medidas de protección que podrán adoptarse dentro del Proceso Especial de Protección en Sede Administrativa corresponden a las dispuestas en los artículos 130, 131, 135, 136, 137 y 138 del Código de la Niñez y la Adolescencia, atendiendo a las causas y condiciones que establece la ley para su dictado, y con la finalidad de proteger y garantizar los derechos de las personas menores de edad.
-
-Ficha Artículo 4
 
 Artículo 5.- De la comunicación del procedimiento a las partes
 
@@ -108,8 +109,6 @@ f. El derecho a recurrir las resoluciones dictadas en el procedimiento, ejercien
 
 3\. El Representante Legal podrá comunicar estos aspectos mediante resolución interlocutoria inicial o, si la urgencia y necesidad del caso concreto lo ameritan, en el mismo acto en que se dicta la medida de protección a favor de la persona menor de edad, al ordenar cualquier disposición atinente a los asuntos que por competencias y atribuciones legales corresponden al Patronato Nacional de la Infancia, siempre en atención de las garantías del debido proceso y el derecho de defensa, y respetando el derecho de audiencia que asiste a las partes en el procedimiento.
 
-Ficha Artículo 5
-
 Artículo 6.- Audiencia a las partes
 
 1\. Se deberá otorgar audiencia a las partes para que el Representante Legal reciba los alegatos y evacúe la prueba correspondiente, a efectos de ponderar dichos elementos al dictar la medida de protección.
@@ -128,8 +127,6 @@ disposiciones de los artículos 270 y 313 de la Ley General de la Administració
 
 N° 6227 y sus reformas.
 
-Ficha Artículo 6
-
 Artículo 7.- Participación de la persona menor de edad
 
 1\. El Representante Legal, como Órgano Director, deberá constatar que la Persona Menor de Edad tenga una participación directa en el procedimiento, garantizándole su derecho fundamental a que su opinión sea escuchada y tenida en consideración en la decisión administrativa.
@@ -146,8 +143,6 @@ b. Se sienta segura al brindar su declaración, y se haga acompañar por una per
 
 c. Observe respeto de sus garantías y derechos dentro del proceso, conforme a lo establecido en el artículo 107 del Código de la Niñez y la Adolescencia.
 
-Ficha Artículo 7
-
 Artículo 8.- Medidas de protección en caso de emergencia
 
 1\. Tratándose de casos de emergencia, en los cuales exista una apariencia de buen derecho y un peligro en la demora, valorando la urgencia del caso y con la finalidad de resguardar el interés superior de la persona menor de edad, el Representante Legal tendrá la potestad de dictar una medida de protección cautelar mediante decisión fundada.
@@ -158,8 +153,6 @@ a. Una vez dictada, deberá otorgarse audiencia a las partes, en los términos d
 
 b. Habiéndose garantizado el derecho de las partes a ser escuchadas y a evacuar la prueba presentada, el Representante Legal podrá mantener, modificar o revocar la Medida de Protección cautelar dictada, de acuerdo a una valoración casuística y en respeto de las garantías del proceso. Dicha decisión se tomará en acato de las disposiciones del artículo 138 del Código de la Niñez y la Adolescencia, y de acuerdo a lo que mejor convenga a los intereses y derechos fundamentales de la Persona Menor de Edad, según los criterios y principios protectores de la materia de Niñez y Adolescencia.
 
-Ficha Artículo 8
-
 Artículo 9.- De las notificaciones
 
 l. Todo lo resuelto deberá ser comunicado a las partes mediante su debida notificación, para que ejerzan los derechos que les correspondan.
@@ -167,8 +160,6 @@ l. Todo lo resuelto deberá ser comunicado a las partes mediante su debida notif
 2\. En aquellos casos en los cuales las partes no hayan señalado medio para escuchar notificaciones, el Representante Legal procederá a realizar la notificación de forma personal ya sea en el domicilio, en el lugar de trabajo o en la Oficina Local.
 
 3\. En caso de resultar imposible realizar la notificación de esa forma, ésta deberá realizarse mediante la publicación de un edicto en el Diario Oficial La Gaceta. Lo anterior, teniendo en cuenta que, por la especificidad de la materia de Niñez y Adolescencia, y la naturaleza de los procesos y asuntos que conoce la Institución, no procede la notificación automática en la Sede Administrativa.
-
-Ficha Artículo 9
 
 Capítulo III
 
@@ -186,8 +177,6 @@ l. En caso de que sea presentado un recurso de revocatoria contra lo resuelto, e
 
 3\. Presentados los agravios, deberá aplicarse el procedimiento definido en la Sección II del Capítulo 111, sobre el recurso de apelación.
 
-Ficha Artículo 10
-
 Sección II
 
 Recurso de apelación
@@ -199,8 +188,6 @@ l. De acuerdo al artículo 139 del Código de la Niñez y la Adolescencia, contr
 2\. En toda resolución emitida por el Representante Legal deberá indicarse expresamente la posibilidad de presentar un recurso de apelación contra lo resuelto, indicando que el plazo para estos efectos es de cuarenta y ocho horas. Este plazo será contabilizado como dos días hábiles siguientes al de la notificación, de conformidad a lo establecido por el artículo 30.5 del Código Procesal Civil, Ley N°9342.
 
 3\. El recurso de apelación podrá ser presentado de forma verbal o por escrito. En caso de que la parte decida interponer el recurso de forma verbal, deberá hacerlo ante la Oficina Local que conoce el proceso, la cual deberá ser consignada mediante un acta de manifestación, de acuerdo a las disposiciones de los artículos 270 y 313 de la Ley General de la Administración Pública.
-
-Ficha Artículo 11
 
 Artículo 12.- Cuestiones previas a cargo del Representante Legal
 
@@ -214,8 +201,6 @@ b. Ordenará las valoraciones psicológicas o sociales que considere necesarias 
 
 3\. El Representante Legal evacuará la prueba testimonial y solicitará a los profesionales en Trabajo Social y/o Psicología de la Oficina Local que realicen las valoraciones de rigor, todo dentro de un plazo discrecional que definirá y que no podrá sobrepasar el plazo de quince días naturales.
 
-Ficha Artículo 12
-
 Artículo 13.- Traslado del expediente administrativo
 
 l. Una vez transcurrido el emplazamiento de los tres días hábiles, y resueltas todas las cuestiones previas, el Representante Legal procederá con el envío inmediato del expediente ante la Presidencia Ejecutiva, en aras de no dilatar la tramitación del Proceso Especial de Protección en Sede Administrativa.
@@ -224,15 +209,11 @@ l. Una vez transcurrido el emplazamiento de los tres días hábiles, y resueltas
 
 3\. El Representante Legal deberá constatar que el expediente se encuentre en adecuado estado de conservación y que se cuente con la foliatura debida.
 
-Ficha Artículo 13
-
 Artículo 14.- Conocimiento del recurso por la Presidencia Ejecutiva
 
 Recibido el expediente administrativo institucional por parte de la Presidencia Ejecutiva, este Órgano de Segunda Instancia procederá con el estudio y análisis casuístico, a efecto de resolver el Recurso de Apelación en el plazo de quince días, salvo que hubiera solicitado prueba para mejor resolver o prevenido a la Oficina Local. En este caso, el término empezará a correr una vez evacuada o prescindida la prueba y resuelta la prevención, sin necesidad de resolución que así lo indique.
 
 Una vez resuelto el Recurso de Apelación y notificadas todas las partes intervinientes en el proceso, se dispondrá la devolución del expediente administrativo institucional a la Oficina Local correspondiente, para que continúe con la tramitación debida.
-
-Ficha Artículo 14
 
 Artículo 15.- Prevención a la Oficina Local
 
@@ -252,8 +233,6 @@ e. Enderezar el procedimiento con respecto a cualquier otra irregularidad que vi
 
 3\. Una vez que la Oficina Local haya dado cumplimiento a lo solicitado, y se haya recibido nuevamente el expediente por parte de la Presidencia Ejecutiva, ésta procederá en el plazo de quince días con el dictado de la resolución que resolverá de forma definitiva el Recurso de Apelación presentado.
 
-Ficha Artículo 15
-
 Artículo 16.- Prueba para mejor resolver
 
 1\. Ante situaciones de alta complejidad, por considerarse conveniente a los derechos e Interés Superior de la Persona Menor de Edad, de previo al dictado de la resolución final., la Presidencia Ejecutiva podrá disponer una audiencia escrita u oral, con la finalidad de escuchar de viva voz a la Persona Menor de Edad, o bien a una o a todas las partes intervinientes.
@@ -262,24 +241,16 @@ Artículo 16.- Prueba para mejor resolver
 
 3\. Una vez realizada la audiencia se procederá con el dictado de la resolución que resolverá de forma definitiva el Recurso de Apelación presentado.
 
-Ficha Artículo 16
-
 Artículo 17.- Agotamiento de la vía administrativa
 
 Contra la resolución que resuelva el recurso de apelación interpuesto, dictada por la Presidencia Ejecutiva, no procede recurso alguno, conforme lo dispuesto por el numeral 139 del Código de la Niñez y la Adolescencia.
 
-Ficha Artículo 17
-
 Artículo 18.- Derogaciones
 
 Deróguese el Manual para la Regulación de la Doble Instancia y el Acceso a la Justicia Administrativa del Patronato Nacional de la Infancia, publicado en La Gaceta N °101 del 26 de mayo del año 2010.
-
-Ficha Artículo 18
 
 Artículo 19.- Vigencia
 
 Rige a partir de su publicación en el Diario Oficial La Gaceta.
 
 Dado en la Presidencia de la República, San José, a los seis días del mes de agosto del año dos mil diecinueve.
-
-Ficha Artículo 19

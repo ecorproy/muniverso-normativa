@@ -1,3 +1,12 @@
+---
+numero: "Decreto Ejecutivo 43808"
+nombre: "Reglamento a la Ley General de Contratación Pública"
+materia: "administrativo"
+version_sinalevi: "5 de 5"
+ultima_reforma: ""
+enlace: ""
+---
+
 Decreto Ejecutivo 43808
 
 Reglamento a la Ley General de Contratación Pública
@@ -62,8 +71,6 @@ Al momento en que se publiquen los umbrales de contratación por parte de la Con
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
 
-Ficha Artículo 1
-
 Artículo 2. Exclusiones de la aplicación de la Ley General de Contratación Pública. La Ley excluye de su alcance las siguientes actividades:
 
 a) Actividad ordinaria de la Administración. Entendida como la actividad o servicio que constituye la prestación última o final de la Administración que realiza frente al usuario o destinatario final, actividad o servicio que deben estar definidos previamente en la respectiva ley de cada entidad o que regula su actividad, como parte de su competencia y de la razón de su creación. La contratación de los medios necesarios para el ejercicio de la actividad ordinaria debe realizarse observando los procedimientos establecidos en la Ley General de Contratación Pública y este Reglamento.
@@ -96,8 +103,6 @@ j) La actividad contractual de los sujetos beneficiarios de los incisos c) y d) 
 
 (Así adicionado el inciso anterior por el artículo 1° de la ley N° 45782 del 8 de abril de 2026)
 
-Ficha Artículo 2
-
 SECCIÓN II
 
 EXCEPCIONES DE LOS PROCEDIMIENTOS ORDINARIOS
@@ -105,8 +110,6 @@ EXCEPCIONES DE LOS PROCEDIMIENTOS ORDINARIOS
 Artículo 3. Excepciones de los procedimientos ordinarios. Se exceptúa de la aplicación de los procedimientos ordinarios, únicamente la actividad contractual establecida en el artículo 3 de la Ley General de Contratación Pública. Para la ejecución de los procesos de excepción, en el expediente electrónico que se conforme, deberán quedar acreditados todos los documentos que justifican y sustentan el trámite de excepción, conforme cada uno de los casos en que se aplique y que se enuncian en los siguientes artículos.
 
 Por reglamento no podrán crearse nuevas excepciones ni ampliarse las reguladas en la Ley General de Contratación Pública. En virtud del principio constitucional de licitación, la aplicación de las excepciones a los procedimientos de concurso será restrictiva. En caso de duda, siempre se favorecerá el concurso, no la excepción.
-
-Ficha Artículo 3
 
 Artículo 4. Requerimientos generales para el uso de las excepciones. Para el uso de excepciones las Administraciones deberán tramitarlas a través del sistema digital unificado y cumplir con los siguientes requerimientos:
 
@@ -120,11 +123,7 @@ d) Monto total por contratar, con desglose de impuestos o tasas aplicables, si c
 
 Conforme lo establece el artículo 4 de la Ley General de Contratación Pública, el registro del uso de las excepciones deberá constar en el sistema digital unificado, en un módulo de fácil acceso y bajo el formato de datos abiertos, de tal forma que permita obtener la información respecto de la cantidad de excepciones utilizadas por tipo de institución, excepción, indicación del objeto, el monto y el contratista para cada caso.
 
-Ficha Artículo 4
-
 Artículo 5. Acuerdos internacionales aprobados por la Asamblea Legislativa. Se exceptúa de la aplicación de los procedimientos ordinarios, la actividad contractual sometida a un procedimiento especial de contratación, en virtud de acuerdos internacionales aprobados por la Asamblea Legislativa, que así lo dispongan, no referidos a empréstitos públicos. Si en el acuerdo internacional no se establece un procedimiento especial de contratación, se deberán aplicar los procedimientos ordinarios establecidos en la Ley General de Contratación Pública. En ese caso, para el régimen recursivo aplicará lo dispuesto en el artículo 92 de la citada Ley.
-
-Ficha Artículo 5
 
 Artículo 6. Contratación entre entes de derecho público. Se exceptúa de la aplicación de los procedimientos ordinarios, la actividad contractual desarrollada entre si por entes de derecho público, siempre que se cumplan los siguientes requisitos:
 
@@ -158,8 +157,6 @@ En caso de duda sobre la aplicación de esta excepción, la entidad respectiva d
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 44745 del 9 de octubre de 2024)
 
-Ficha Artículo 6
-
 Artículo 7. Proveedor único. Se exceptúa la aplicación de los procedimientos ordinarios cuando se determine que existe un proveedor único. La aplicación de esta excepción deberá estar precedida de las siguientes actuaciones:
 
 a) La verificación en el sistema digital unificado que únicamente existe un proveedor idóneo para atender la necesidad. Esta verificación deberá constar en un acto suscrito por el personal idóneo y calificado que la llevó a cabo y deberá ser agregado al estudio de mercado señalado en el inciso b) del presente artículo.
@@ -173,8 +170,6 @@ Dentro de esta excepción se encuentra comprendida la adquisición de artículos
 d) En caso de contrataciones de oferente único sujetas a prórrogas, de previo a convenir una de ellas, la Administración deberá verificar si han surgido nuevas opciones idóneas mediante un estudio de mercado, según los términos indicados, en cuyo caso, de haberlas no podrá aplicarse la excepción y deberá realizarse el procedimiento correspondiente salvo que la Administración acredite mediante resolución debidamente motivada las razones de interés público que ameriten prorrogar el contrato por una única vez, lo cual deberá constar en el expediente electrónico.
 
 e) Acreditar financieramente la razonabilidad del precio, conforme a las disposiciones de este Reglamento.
-
-Ficha Artículo 7
 
 Artículo 8. Patrocinio. Se exceptúa de los procedimientos ordinarios el patrocinio, definido como el contrato entre la Administración y una persona física o jurídica, con el fin de que la primera otorgue o reciba apoyo económico, logístico o en especie para la realización de actividades culturales, deportivas, científicas o de interés de la Administración, cuya finalidad es la obtención de un beneficio de proyección o posicionamiento esencialmente de la imagen institucional en medios de comunicación o en un evento de interés para un determinado público.
 
@@ -190,11 +185,7 @@ Cuando tanto el otorgante como el receptor del patrocinio pertenezcan a la Admin
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
 
-Ficha Artículo 8
-
 Artículo 9. Medios de comunicación social. Se exceptúa de los procedimientos ordinarios la contratación de medios de comunicación social. Esta excepción aplicará únicamente para la difusión de mensajes relacionados con la gestión institucional, directamente vinculados con avisos al público en relación con el servicio que presta la entidad. En esos casos, se deberá realizar un plan en el cual se definan las pautas generales a seguir para la selección de los medios, atendiendo al público meta, necesidades institucionales y costos. La contratación de agencias de publicidad deberá realizarse mediante los procedimientos ordinarios previstos en la Ley General de Contratación Pública y observando los parámetros de racionalidad y equidad.
-
-Ficha Artículo 9
 
 Artículo 10. Servicios de capacitación abierta. Se exceptúan de los procedimientos ordinarios los servicios de capacitación abierta, entendida ésta como aquella en la que se hace invitación al público en general y no es programada en atención a las necesidades puntuales de una Administración y en la cual se justifique su necesidad en función del cumplimiento de los fines institucionales. La decisión que se llegue a adoptar deberá contener los motivos que acrediten a la opción elegida como la mejor para satisfacer la necesidad de la Administración.
 
@@ -204,11 +195,7 @@ Las otras necesidades de capacitación específica y programadas de cada entidad
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
 
-Ficha Artículo 10
-
 Artículo 11. Contratación de numerario. Se exceptúa de los procedimientos ordinarios la contratación de numerario que realiza el Banco Central de Costa Rica, actividad regida por la normativa que esa entidad emite al efecto.
-
-Ficha Artículo 11
 
 Artículo 12. Compra con Fondos de Caja Chica. Se exceptúan de los procedimientos ordinarios las compras realizadas que sean para gastos menores, indispensables e impostergables, siempre que no excedan el diez por ciento (10%) del monto previsto para la licitación reducida correspondiente al régimen ordinario, para la adquisición de bienes y servicios, regulado en el artículo 36 de la Ley General de Contratación Pública.
 
@@ -230,8 +217,6 @@ Las instituciones públicas que realicen compras por Caja Chica deberán estable
 
 Los Fondos de Caja Chica no deberán utilizarse para realizar operaciones distintas a las que se destinan esos recursos.
 
-Ficha Artículo 12
-
 Artículo 13. Alianzas estratégicas. Se exceptúan de los procedimientos ordinarios las alianzas estratégicas autorizadas por ley.
 
 La alianza estratégica consiste en un tipo de asociación autorizada por ley para ciertas entidades, que de acuerdo a sus facultades legales operan dentro de mercados en competencia en la que la Administración se une a una o a varias empresas públicas o privadas con las que comparte mercados afines a sus competencias legales, sin que se genere una nueva persona jurídica. La alianza se constituye para la realización de un proyecto común, con el propósito de lograr ventajas competitivas o posicionamiento comercial que no se alcanzarían individualmente a corto plazo, debiendo imperar entre los participantes una relación de confianza y una distribución de riesgos y resultados previamente establecidas, todo lo cual deberá constar en acto motivado sustentado en estudios técnicos. En todo caso, el beneficio esperado debe ser mayor que el riesgo asumido.
@@ -252,8 +237,6 @@ Una vez concluida la alianza, la Administración deberá evaluar los resultados 
 
 Las alianzas estratégicas no podrán utilizarse como un mecanismo para la contratación de terceros sin atender los procedimientos establecidos en la Ley General de Contratación Pública, todo lo cual la tornará irregular, en caso de que así se proceda.
 
-Ficha Artículo 13
-
 Artículo 14. Bienes o servicios artísticos, culturales e intelectuales. Se exceptúa de los procedimientos ordinarios la contratación de bienes o servicios artísticos, culturales e intelectuales que por su naturaleza intuitu personae y/o especialidad, sean incompatibles con los procedimientos ordinarios establecidos en la Ley General de Contratación Pública o su contratación no sea posible llevarla a cabo mediante un registro precalificado de oferentes. Esta excepción podrá utilizarse siempre y cuando medie un acto motivado y suscrito por el jerarca institucional o quien éste delegue.
 
 En todos los casos, deberá acreditarse que el precio resulta razonable.
@@ -261,8 +244,6 @@ En todos los casos, deberá acreditarse que el precio resulta razonable.
 Cuando la obra no haya sido creada, se podrá utilizar la modalidad de certamen, en el cual el procedimiento de selección será el juicio crítico de expertos reconocidos en una comisión de no menos de tres integrantes y no más de cinco. En estos casos, las credenciales de los jueces deberán constar en el expediente administrativo.
 
 Se deberá acreditar en el expediente que se trata de una contratación de carácter personalísimo y que el objeto no puede ser solventado por medio de una contratación a través de un registro precalificado.
-
-Ficha Artículo 14
 
 Artículo 15. Reparaciones indeterminadas. Se exceptúan de los procedimientos ordinarios aquellas contrataciones relacionadas con reparaciones indeterminadas, siempre que para definir el alcance de la reparación sea indispensable el desarme de la maquinaria, los equipos o los vehículos.
 
@@ -278,8 +259,6 @@ La Administración debe verificar que el precio sea razonable y realizar una efe
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
 
-Ficha Artículo 15
-
 SECCIÓN III
 
 APLICACIÓN DE INSTRUMENTOS INTERNACIONALES EN COMPRAS PÚBLICAS
@@ -287,8 +266,6 @@ APLICACIÓN DE INSTRUMENTOS INTERNACIONALES EN COMPRAS PÚBLICAS
 Artículo 16. Utilización de instrumentos internacionales en las Compras Públicas. Conforme lo dispuesto en el artículo 9 de la Ley General de Contratación Pública, el sistema digital unificado pondrá a disposición la información que de acuerdo con el capítulo de compras públicas de un instrumento internacional vigente en Costa Rica facilite a las Administraciones identificar las contrataciones cubiertas; para ello, la Dirección de Aplicación de Acuerdos Comerciales Internacionales del Ministerio de Comercio Exterior deberá proporcionar a la Dirección de Contratación Pública la información de los tratados internacionales de libre comercio vigentes, y los aspectos específicos de aplicación en materia de compras públicas contenida en cada uno de ellos; igualmente deberá comunicar a la Dirección de Contratación Pública, de forma oportuna, cualquier actualización de dicha información.
 
 La Dirección de Contratación Pública junto con el Ministerio de Comercio Exterior coordinarán la capacitación a los funcionarios encargados de los procedimientos de contratación, para la debida aplicación de los capítulos de compras públicas previstos en los instrumentos internacionales vigentes o próximos a entrar en vigor, en función de la novedad o complejidad de las regulaciones dispuestas de los cuales deberá informar a la Dirección de Contratación Pública.
-
-Ficha Artículo 16
 
 CAPÍTULO II
 
@@ -326,8 +303,6 @@ j) Mantener la objetividad e imparcialidad en todos aquellos asuntos que lleguen
 
 La inobservancia al deber de probidad de los funcionarios serán objeto de responsabilidad de éstos, de conformidad con las regulaciones de la Ley General de Contratación Pública y demás normas del ordenamiento jurídico que resulten aplicables.
 
-Ficha Artículo 17
-
 Artículo 18. Formas de pago. La Administración podrá utilizar cualquier medio de pago con la condición de que resulte seguro para ambas partes, incluidos los medios electrónicos.
 
 La Administración detallará en el pliego de condiciones los medios de pago que utilizará para cancelar sus obligaciones, a fin de que éstos sean conocidos por los potenciales oferentes.
@@ -350,8 +325,6 @@ Para todas las formas de pago la Administración deberá aplicar los principios 
 
 En el caso de una devolución de un pago realizado en moneda extranjera, para su reintegro se deberá utilizar el tipo de cambio de referencia para la venta del Banco Central de Costa Rica del día en que se realizó la transacción de pago.
 
-Ficha Artículo 18
-
 Artículo 19. Plazo para el pago y reconocimiento de intereses. La Administración indicará en el pliego de condiciones el plazo máximo para pagar, el cual en ningún caso podrá ser superior a treinta días naturales, salvo las excepciones establecidas por el bloque de legalidad o aquellas autorizadas por la Tesorería Nacional, para la Administración Central, previa justificación razonada. Los pagos que realice la Tesorería Nacional, estarán sujetos a la situación fiscal del país y a la disponibilidad de recursos del Tesoro Público, respetando los calendarios de pagos establecidos por la Tesorería Nacional.
 
 El plazo indicado en el párrafo anterior, correrá a partir de la presentación de la factura, previa recepción del bien o servicio a satisfacción por parte de la Administración y el cumplimiento del visado del gasto.
@@ -363,8 +336,6 @@ El reclamo de intereses prescribirá en un año, conforme a las regulaciones del
 Para operaciones en dólares de los Estados Unidos de América, los intereses serán cancelados aplicando la tasa de interés internacional referenciado por el Banco Central de Costa Rica.
 
 La Administración Activa es responsable de realizar la previsión presupuestaria para el reconocimiento de estos intereses.
-
-Ficha Artículo 19
 
 Artículo 20. Pago anticipado. El pago al contratista procede una vez recibido a satisfacción el bien, obra o servicio. No obstante, podrán convenirse pagos por anticipado, cuando así lo establezca el pliego de condiciones, en cuyo caso la Administración Pública de conformidad con su disponibilidad financiera y presupuestaria podrá otorgar pagos anticipados entre un veinte por ciento (20%) y un cuarenta por ciento (40%) del monto total de la contratación, estimado de acuerdo al artículo 35 de la Ley General de Contratación Pública.
 
@@ -388,11 +359,7 @@ En todo caso, la Administración dará seguimiento a la contratación y adoptar�
 
 Cuando la terminación del contrato se da por los supuestos descritos en el artículo 110 de la Ley General de Contratación Pública, y existan amortizaciones pendientes del pago anticipado, el contratista deberá saldar el pago de manera inmediata, en caso contrario la Administración deberá ejecutar la garantía colateral rendida como garantía del anticipo.
 
-Ficha Artículo 20
-
 Artículo 21. Adelantos de Pagos. La Administración podrá convenir, de manera motivada adelantos de pago cuando ello obedezca a una costumbre o uso derivado de la práctica comercial del tipo contractual utilizado, lo cual debe estar debidamente comprobado; o bien, sea una consecuencia del medio de pago utilizado o las condiciones de mercado así lo exijan, como en el caso de suscripciones periódicas o el pago de arrendamiento de bienes inmuebles, o por concepto de materiales depositados en el sitio de la obra, los cuales deberán ser debidamente guardados y custodiados, aplicando para ello todas las medidas de control interno que resulten necesarias, a fin de asegurar esos bienes propiedad de la Administración.
-
-Ficha Artículo 21
 
 Artículo 22. Bienes como parte del pago. La Administración podrá ofrecer como parte del pago, bienes muebles de su propiedad, siempre que sean de libre disposición, hayan superado su vida útil y sean afines al objeto que se pretende adquirir.
 
@@ -410,8 +377,6 @@ Si los bienes al momento de la entrega presenten una desmejora significativa en 
 
 Durante el plazo en que se realicen los ajustes a los bienes que serán entregados como parte de pago se interrumpirá el plazo para la formalización de su traspaso.
 
-Ficha Artículo 22
-
 Artículo 23. Obligación de atención y cumplimiento. Las gestiones o consultas que formule el contratista, que sean necesarias para la continuidad de la ejecución del contrato, deberán ser resueltas y comunicadas por la Administración dentro de un plazo máximo de diez días hábiles, contado a partir del recibo de la solicitud, salvo plazo distinto debidamente justificado y contemplado en el pliego de condiciones, en el contrato o mediante resolución debidamente fundamentada. Las restantes peticiones que formule el contratista serán resueltas y comunicadas en un plazo máximo de treinta días hábiles, contado a partir del recibo de la solicitud. La inobservancia de los plazos anteriores originará responsabilidad administrativa del funcionario incumpliente, según lo dispuesto en el artículo 125 inciso q) de la Ley General de Contratación Pública.
 
 La Administración está obligada a cumplir con todos los compromisos adquiridos válidamente en la contratación pública y a realizar las gestiones pertinentes de forma oportuna para que el contratista ejecute, en forma idónea, el objeto pactado. Cuando en el pliego de condiciones o en el contrato la Administración se comprometa a entregar insumos al contratista, necesarios para la ejecución de la prestación acordada, deberá ponerlos a disposición del contratista en el plazo pactado y en caso de omisión, dentro del plazo de diez días hábiles dispuesto en el párrafo anterior.
@@ -419,8 +384,6 @@ La Administración está obligada a cumplir con todos los compromisos adquiridos
 En contrataciones que se prolonguen en el tiempo y la Administración haya adquirido el compromiso de poner a disposición del contratista insumos necesarios para la ejecución, se deberá incluir en el pliego de condiciones o en el contrato, un cronograma con las actividades necesarias para elaborar dichos insumos, así como el detalle de los funcionarios responsables.
 
 El silencio de la Administración se entenderá como aceptación de la petición, cuando se trate de una autorización admisible en derecho y se haya cumplido con todos los requisitos.
-
-Ficha Artículo 23
 
 SECCIÓN II
 
@@ -442,8 +405,6 @@ d) Ajustar las prácticas a los más altos estándares de las disposiciones, ét
 
 Las actuaciones que se configuren como actos de corrupción ejecutadas por sujetos distintos a la Administración, serán objeto de responsabilidad de éstos, de conformidad con las regulaciones de la Ley General de Contratación Pública, este Reglamento y demás normas del ordenamiento jurídico que resulten aplicables.
 
-Ficha Artículo 24
-
 CAPÍTULO III
 
 CONTRATACIÓN PÚBLICA ELECTRÓNICA
@@ -464,13 +425,9 @@ Lo relativo al uso del sistema digital unificado y las condiciones para la imple
 
 La Dirección de Contratación Pública es la encargada de administrar el sistema digital unificado emitiendo los lineamientos y regulaciones para ello, correspondiéndole a la Dirección de Tecnologías de Información y Comunicación en su calidad de órgano técnico del Ministerio de Hacienda y en coordinación con la Dirección de Contratación Pública, velar por la implementación y operación del sistema digital unificado de tal manera que permita garantizar la eficiencia, disponibilidad y continuidad de los servicios de compra pública, lo anterior por medio de la administración conjunta del contrato sobre el suministro de software integral de acuerdo con el modelo de gestión de uso del sistema o cualquier otro esquema de suministro propio del Ministerio de Hacienda o a través de un tercero.
 
-Ficha Artículo 25
-
 Artículo 26. Horario habilitado para el uso del sistema. Todos los días y horas se consideran habilitados para las actuaciones en el sistema digital unificado. En caso de interrupción del funcionamiento del sistema digital unificado, sea por mantenimiento, por alguna falla debidamente documentada, o bien por razones de caso fortuito o fuerzo mayor, la Dirección de Contratación Pública podrá mediante acto motivado declarar la suspensión del cómputo de los plazos de los procedimientos de contratación. Dicha suspensión se aplicará a todos los usuarios del sistema a partir de la comunicación que al efecto realizará lo Dirección.
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 44745 del 9 de octubre de 2024)
-
-Ficha Artículo 26
 
 Artículo 27. Excepción de uso del sistema digital unificado. La promoción de procedimientos de contratación fuera del sistema digital unificado acarreará su nulidad absoluta, la cual deberá ser declarada por la Administración de oficio o a instancia de parte, o bien por la Contraloría General de la República al conocer sobre recursos propios de su competencia. En ese supuesto se procederá con la declaratoria simple de nulidad absoluta del procedimiento de conformidad con el artículo 174 de la Ley General de la Administración Pública, salvo que la Administración activa determine la existencia de un acto final en firme declarativo de derechos, en cuyo caso deberá atenderse el procedimiento dispuesto en el artículo 173 de la Ley General de la Administración Pública.
 
@@ -492,8 +449,6 @@ v. La definición de si la solicitud de excepción requerida por la Administraci
 
 Una vez recibida la información indicada anteriormente, la Dirección de Contratación Pública deberá emitir mediante acto motivado la autorización respectiva dentro del plazo de un mes calendario. En dicho acto la Dirección de Contratación Pública hará indicación del plazo si correspondiere, así como, la indicación del procedimiento de la contratación sobre el que habilita la exclusión. Transcurrido este plazo de la habilitación de exclusión, la Administración deberá incluir la información correspondiente al procedimiento en el módulo habilitado para el efecto en el sistema digital unificado.
 
-Ficha Artículo 27
-
 Artículo 28. Expediente electrónico y conservación de la información. En cada procedimiento de contratación pública que se realice en el sistema digital unificado, el expediente será electrónico y contendrá todos los documentos que se generen en el trámite del procedimiento, la ejecución del contrato y su finiquito. El expediente electrónico estará referenciado mediante un índice de asientos consecutivos que genera el mismo sistema.
 
 Cada documento agregado por la Administración al expediente deberá estar numerado y ordenado cronológicamente. No se deberán incorporar documentos duplicados.
@@ -502,17 +457,11 @@ Todo interesado tendrá libre acceso al expediente electrónico del procedimient
 
 Posterior a la ejecución total del respectivo contrato y por un plazo de cinco años, deberá conservarse en el sistema digital unificado el expediente electrónico en línea, para que pueda ser consultado por cualquier interesado. Una vez transcurrido este plazo, el expediente pasará a un archivo electrónico donde permanecerá en estado pasivo y bajo custodia del prestador del servicio del sistema digital unificado por un periodo igual. Después de diez años, el expediente se trasladará a la Administración usuaria para que esta disponga de él según lo establecido por la Dirección General del Archivo Nacional, previa coordinación entre la Administración usuaria y el prestador del servicio del sistema digital unificado. La Dirección de Contratación Pública fiscalizará que el resguardo, custodia e integridad de la información sea de conformidad con las políticas de las Tecnologías de la Información (TI).
 
-Ficha Artículo 28
-
 Artículo 29. Incorporación de documentos. Todos los documentos que se adjunten al expediente electrónico de la contratación, a los formularios y/o documentos electrónicos disponibles en el sistema digital unificado, deben ser digitales e incorporados en el módulo que corresponda.
 
 En los casos en los que el documento no esté disponible en formato electrónico, deberá digitalizarse e incluirse como archivo en formato PDF o según lo disponga el pliego de condiciones de la contratación respectiva, en el módulo que corresponda.
 
-Ficha Artículo 29
-
 Artículo 30. De la información confidencial en el sistema digital unificado. En el supuesto que un participante considere que la información aportada para un procedimiento de contratación es de carácter confidencial, deberá indicarlo en el sistema digital unificado con sus motivos y sustento jurídico con la finalidad de cumplir lo preceptuado en el artículo 15 de la Ley General de Contratación Pública, salvo solicitud de la Contraloría General de República, la Procuraduría General de la República o cualquier autoridad judicial que por sus competencias, requieran a la Administración contratante la visualización de dicha información.
-
-Ficha Artículo 30
 
 Artículo 31. Información del Registro Electrónico Oficial de Proveedores y Subcontratistas. Para inscribirse en el Registro electrónico oficial de proveedores y subcontratistas del sistema digital unificado, los interesados deben registrar de manera obligatoria los siguientes datos:
 
@@ -525,8 +474,6 @@ b) Domicilio electrónico permanente. Corresponde a la dirección de correo elec
 c) Bienes obras o servicios ofrecidos. El oferente deberá señalar: i) Actividad a la que se dedica; ii) Obras, bienes y/o servicios que ofrece según el código de clasificación; iii) Indicar si es proveedor o subcontratista; si está registrado como PYMES debe señalar el número de registro y su categoría, así como el país de origen del bien, obra y/o servicio que ofrece y; iv) La zona geográfica para la cual ofrece sus bienes, obras y/o servicios.
 
 Además de la información antes detallada, el proveedor podrá incluir en el sistema digital unificado, su sitio web, número telefónico del centro de servicio, métodos de producción, normas universales de calidad, distribución de planta, manejo sustentable de bienes, obras y/o servicios, y cualquier otro aspecto o dato que por interés de la Administración se considere importante incorporar a ese registro.
-
-Ficha Artículo 31
 
 Artículo 32. Requisitos para integrar el Registro Electrónico Oficial de Proveedores y Subcontratistas. Para realizar la inscripción en el Registro electrónico de proveedores oficiales y subcontratistas del sistema digital unificado, los interesados deberán cumplir con los siguientes requisitos:
 
@@ -568,15 +515,11 @@ Se exceptúa del requisito indicado en el inciso d) y de la validación de la vi
 
 Una vez completada la información requerida y después de realizadas las validaciones automáticas, el interesado recibirá a nivel del sistema el resultado de su solicitud. En caso de que el resultado sea exitoso, será incorporado automáticamente al Registro electrónico oficial de proveedores y subcontratistas; caso contrario, su solicitud quedará pendiente hasta que el proveedor o subcontratista subsane los aspectos en los que el sistema digital unificado haya detectado errores. De no subsanarse los defectos en un plazo de cinco días hábiles posteriores al recibo del resultado de su solicitud, el sistema automáticamente generará su rechazo. Lo anterior no impedirá que el proveedor o subcontratista pueda iniciar nuevamente los trámites de su inscripción.
 
-Ficha Artículo 32
-
 Artículo 33. Obligación de actualización. Los proveedores y subcontratistas registrados, están obligados a mantener actualizada la información que hayan aportado al momento de solicitar su inscripción en el Registro Electrónico Oficial de Proveedores y Subcontratistas para cada proceso de contratación en el que quieran participar.
 
 Además, de generarse cualquier variación en los términos consignados en las declaraciones juradas que constan en ese Registro deberán rendir oportunamente una nueva que deberá constar en el sistema digital unificado.
 
 No obstante, aún y cuando no se presente alguna variación en la información aportada al momento del registro, el proveedor deberá actualizar cada veinticuatro meses la información suministrada en ese registro, incluyendo los nuevos documentos vigentes al momento de realizarla, lo anterior con el fin de mantener al día la información del Registro Electrónico Oficial de Proveedores y Subcontratistas.
-
-Ficha Artículo 33
 
 Artículo 34. Causales para declarar inactivo a un proveedor o subcontratista registrado. La Dirección de Contratación Pública, declarará inactivo a un proveedor o subcontratista registrado, cuando constate alguna de las siguientes circunstancias:
 
@@ -586,8 +529,6 @@ b) La manifestación expresa del proveedor o subcontratista inscrito de no perma
 
 c) Los que hayan sido sancionados con pena de inhabilitación para participar en procedimientos de contratación pública con las instituciones usuarias durante el tiempo que subsista la sanción.
 
-Ficha Artículo 34
-
 Artículo 35. Registro de poderes. Previo a inscribirse en el Registro Electrónico Oficial de Proveedores y Subcontratistas del sistema digital unificado los proveedores y subcontratistas deberán registrar en el Sistema Electrónico de Reconocimiento (SER) los datos de sus representantes y apoderados; debiendo mantener actualizada dicha información.
 
 Asimismo, deberán incorporar electrónicamente en el Sistema Electrónico de Reconocimiento los poderes no inscribibles en el Registro Nacional, a efecto de que los apoderados especiales puedan realizar los actos dentro de los procedimientos de contratación pública que se tramiten por medio del sistema digital unificado.
@@ -595,8 +536,6 @@ Asimismo, deberán incorporar electrónicamente en el Sistema Electrónico de Re
 Es responsabilidad del proveedor incluir el poder especial en el Sistema Electrónico de Reconocimiento en formato PDF.
 
 La Administración contratante será responsable de verificar en el Sistema Electrónico de Reconocimiento cuando corresponda, la incorporación del poder otorgado y la demás información que acredita al proveedor y que consta en dicho registro.
-
-Ficha Artículo 35
 
 Artículo 36. Notificación en el sistema digital unificado. Trotándose de la notificación al domicilio electrónico permanente y/o al medio subsidiario, el proveedor o subcontratista quedará notificado el mismo día de la comunicación, siempre y cuando ésta se realice en día y hora hábil de conformidad con el horario oficial de lo Administración. Las actuaciones presentadas en días inhábiles se entenderán por interpuestos en el siguiente día hábil.
 
@@ -606,15 +545,9 @@ Siguiendo al efecto lo dispuesto en el artículo 26 de este Reglamento, en coso 
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 44745 del 9 de octubre de 2024)
 
-Ficha Artículo 36
-
 Artículo 37. Normativa aplicable en materia de notificaciones. En materia de notificaciones, se deberá acatar lo dispuesto en la Ley General de Contratación Pública y este Reglamento. En caso de no existir regulación expresa, aplicará lo dispuesto en la Ley de Notificaciones Judiciales, Ley Nº8687 del 04 de diciembre de 2008, o en su defecto la Ley General de Administración Pública, en lo que resulte aplicable.
 
-Ficha Artículo 37
-
 Artículo 38. Comprobante de acuse de recibo en el sistema digital unificado. Cada vez que una institución usuaria, un proveedor o subcontratista registrado envíe un documento por medio del sistema digital unificado, el mismo sistema emitirá un acuse de recibo electrónico que permitirá acreditar la fecha y la hora de la recepción, el cual podrá ser visto en el módulo correspondiente.
-
-Ficha Artículo 38
 
 Artículo 39. Registro de documentos y actos en el sistema digital unificado. Para efectos de brindar mayor seguridad en los actos que así lo requieran por su naturaleza, la recepción de estos documentos que se indican a continuación se hará con la fecha y la hora oficial mediante el certificado de estampado de tiempo. Dichos actos son los siguientes:
 
@@ -636,29 +569,19 @@ La Dirección de Contratación Pública mediante Lineamientos podrá incluir nue
 
 Para los actos no mencionados en este artículo, su recepción y comunicación se registrará de acuerdo con la hora y la fecha del sistema digital unificado.
 
-Ficha Artículo 39
-
 Artículo 40. Mecanismos de identificación. Por medio del uso de la firma digital certificada o del mecanismo electrónico a través del cual se acredite la identidad del firmante y la integridad del mensaje que establezca la Dirección de Contratación Pública, el sistema digital unificado garantizará la vinculación jurídica de la firma del emisor con el documento electrónico e identificará a su receptor, de manera tal que se certifique la no alteración y la conservación del contenido original de cada documento que se reciba y se envíe por medio del sistema.
-
-Ficha Artículo 40
 
 Artículo 41. Gestión de la aplicación del modelo tarifario. El Ministerio de Hacienda deberá tomar las previsiones necesarias, estableciendo el mecanismo para el pago de una tarifa por parte de las entidades usuarias del sistema, con el fin de garantizar la operatividad del mismo y su sostenibilidad, que le permitan atender en tiempo y forma la totalidad de los costos asociados con la prestación del servicio, incluyendo la administración del sistema.
 
 En caso de tercerización del sistema, el pago por parte de cada una de las instituciones usuarias de éste, se realizará directamente al operador y el porcentaje correspondiente al costo de administración, se depositará en la caja única del estado, todo de conformidad con lo establecido en el Reglamento de cobro de tarifas.
 
-Ficha Artículo 41
-
 Artículo 42. Elementos para considerar en la definición de la tarifa para el cobro del uso del sistema digital unificado. La tarifa que se aplicará a la Administración por el uso del sistema digital unificado será definida en el Reglamento del Modelo tarifario para el uso del sistema digital unificado con base en la estructura de costos incurridos para la provisión del servicio, entre otros aspectos, sin perjuicio de valorar la inclusión de un porcentaje por administración, para el desarrollo, mejoras del sistema u otros requerimientos. El monto de la tarifa deberá contemplar todas las obligaciones contractuales que pudieran derivarse de la relación contractual por la prestación del servicio.
 
 En caso de que el sistema digital unificado sea operado por un tercero, existirá un único contrato entre el Ministerio de Hacienda y la empresa proveedora del servicio.
 
-Ficha Artículo 42
-
 Artículo 43. Catálogo de Obras, Bienes y Servicios. El sistema digital unificado deberá contar con un catálogo de obras, bienes y servicios utilizando estándares internacionales, vinculado con los requerimientos técnicos indispensables en la promoción de procedimientos de contratación, de conformidad con lo establecido en el artículo 17 de la Ley General de Contratación Pública.
 
 La Dirección de Contratación Pública elaborará y supervisará las políticas en el uso del catálogo electrónico para la asignación de códigos creados por el operador del sistema, a fin de estandarizar los criterios y atributos que caracterizan los bienes, obras y servicios conforme a los lineamientos emitidos por esa Dirección.
-
-Ficha Artículo 43
 
 Artículo 44. Razonabilidad del Precio. En la etapa de planificación, la Administración determinará la razonabilidad del precio del bien, obra o servicio con base en el sondeo o estudio de mercado sustentados en información proveniente del banco de precios, cuando exista, de fuentes confiables y metodologías debidamente justificadas, utilizando datos relevantes vinculados con el objeto contractual, realizando una investigación exploratoria del mercado (oferta y demanda) incluyendo información histórica disponible, gestionando información mediante diversos mecanismos de consulta y en general todo aquel material y otros medios complementarios que permitan una mejor comprensión del bien o servicio por adquirir, debiendo considerar la cuantía y complejidad del objeto.
 
@@ -684,11 +607,7 @@ d) La Administración deberá emitir un acto motivado para justificar la razonab
 
 (Así reformado por el artículo 1° del decreto ejecutivo N°45782 del 8 de abril de 2026)
 
-Ficha Artículo 44
-
 Artículo 45. Operatividad del uso del sistema digital unificado. Los lineamientos para garantizar la operatividad del uso del sistema digital unificado, serán emitidos por la Dirección de Contratación Pública con apego a los principios previstos en los artículos 16 y 19 de la Ley General de Contratación Pública.
-
-Ficha Artículo 45
 
 CAPITULO IV
 
@@ -714,11 +633,7 @@ La Autoridad de Contratación Pública deberá impulsar las estrategias y normas
 
 La implementación de las variables ambientales, sociales, económicas e innovadoras en la contratación pública deberá hacerse bajo reglas de transparencia, integridad, objetividad y proporcionalidad que aseguren el cumplimiento de los objetivos perseguidos. La aplicación de los criterios regulados en este artículo supone el cumplimiento de los análisis de mercado regulado en el artículo 56 de este Reglamento.
 
-Ficha Artículo 46
-
 Artículo 47. Aplicación del principio de valor por el dinero en la compra pública estratégica De conformidad con lo establecido en el artículo 8 de la Ley General de Contratación Pública toda contratación pública incluidas las compras públicas estratégicas debe estar orientada a maximizar el valor de los recursos públicos que se invierten y a promover la actuación bajo el enfoque de gestión por resultados en las contrataciones, tomando en consideración el principio de sostenibilidad social y ambiental, de tal forma que se realicen en forma oportuna y bajo las mejores condiciones de precio y calidad, durante todo el ciclo de vida.
-
-Ficha Artículo 47
 
 Artículo 48. Política pública en materia de contratación pública estratégica. El Plan Nacional de Compra Pública, incorporará entre otros aspectos, la orientación de política pública en materia de contratación pública estratégica, de modo que tanto la Autoridad de Contratación Pública como la Dirección de Contratación Pública, deberán atender los objetivos en esta materia según los procedimientos definidos en este capítulo. El plazo previsto para la vigencia del Plan Nacional de Compra Pública, aplicará a los objetivos de contratación pública estratégica, sin perjuicio de los ajustes derivados de la evaluación y monitoreo.
 
@@ -726,17 +641,11 @@ Las metas y estrategias nacionales acordadas en materia de objetivos de desarrol
 
 Con fundamento en lo dispuesto por los artículos 20 y 128 inciso a) de la Ley General de Contratación Pública, estos objetivos, metas y lineamientos, serán vinculantes para todo el sector público, sea central o descentralizado.
 
-Ficha Artículo 48
-
 Artículo 49. Fase de prediseño de la política pública. Durante la fase de diseño del Plan Nacional de Compra Pública, conforme a lo previsto en el artículo 128, inciso c) de la Ley General de Contratación Pública, se hará una identificación y diagnóstico de la situación actual, problemas y posibles alternativas en los temas de contratación pública estratégica bajo las prioridades definidas en el artículo 20 de la Ley General de Contratación Pública y 46 de este Reglamento. En dicha etapa se invitará a participar a todas las partes interesadas en la materia y de la sociedad civil, tanto del sector público como privado, de forma que se genere una propuesta que atienda las prioridades identificadas por los diferentes sectores.
-
-Ficha Artículo 49
 
 Artículo 50. Fase de diseño, implementación y gestión de la política pública. En la fase de gestión e implementación en el Plan Nacional de Compra Pública, la Autoridad de Contratación Pública valorará las propuestas, alternativas y enfoques definidos por las partes interesadas durante la fase de prediseño y se articularán métricas, indicadores, metas, presupuestos, plazos y modelos de análisis de datos que permitan estructurar alternativas o propuestas identificadas por las partes interesadas como objetivos de política pública, así como la emisión del Plan de Acción y lineamientos que corresponderá emitir a la Dirección de Contratación Pública.
 
 Se definirán indicadores de medición y plazos para la atención de metas derivadas del análisis conjunto con las partes interesadas para la formulación técnica por parte de la Dirección de Contratación Pública del Plan Nacional de Compra Pública y su posterior aprobación por la Autoridad de Contratación Pública, para lo cual existirá obligada colaboración del Ministerio de Planificación Nacional y Política Económica (MIDEPLAN) de acuerdo con las competencias del marco jurídico de planificación y evaluación de acciones públicas respectivas y cualquier otra instancia que se determine que ejerce competencias relacionadas con la etapa de construcción técnica de esos criterios.
-
-Ficha Artículo 50
 
 Artículo 51. Fase de evaluación y monitoreo. La fase de evaluación resulta transversal a todo el proceso de formulación del Plan Nacional de Compra Pública en materia de contratación pública estratégica, de forma que se aplicará tanto a la fase de diseño, como a la de implementación y gestión del Plan Nacional y de su Plan de Acción.
 
@@ -748,19 +657,11 @@ La verificación de incumplimientos totales o parciales de los plazos e indicado
 
 Los resultados de la evaluación y seguimiento deberán ponerse a disposición de todas las partes interesadas, instancias de control y fiscalización, así como de la sociedad civil, por los medios que disponga el Ministerio de Hacienda.
 
-Ficha Artículo 51
-
 Artículo 52. Profesionalización para la consecución de los objetivos de compra pública estratégica. La estrategia de profesionalización que se defina oportunamente en cumplimiento de lo dispuesto por el artículo 132 de la Ley General de Contratación Pública, deberá incorporar los objetivos de política pública, indicadores, estrategia y lineamientos en materia de contratación pública estratégica, así como generar el conocimiento de herramientas operativas necesarias para su debida implementación.
-
-Ficha Artículo 52
 
 Artículo 53. Convenios para la implementación de los objetivos de contratación pública estratégica. Dentro de las estrategias y propuestas que se valoren para el Plan de Acción en la materia, se podrá incluir la generación de convenios entre la Dirección de Contratación Pública y organizaciones públicas, privadas o sujetos de derecho internacional público para articular la implementación de alternativas, propuestas y proyectos que coadyuven a la consecución de lo definido en el artículo 20 de la Ley General de Contratación Pública y 46 de este Reglamento.
 
-Ficha Artículo 53
-
 Artículo 54. Mecanismos de coordinación y colaboración para la implementación de los objetivos de contratación pública estratégica. El Plan de Acción en materia de contratación pública estratégica podrá definir mecanismos de coordinación y colaboración con el Sistema Bancario Nacional e Internacional, incluidos los organismos multilaterales de financiamiento además de otras instancias públicas o privadas que tengan competencias vinculadas al diseño, gestión y evaluación de objetivos de compra pública estratégica; para la generación de facilidades y la implementación de las propuestas definidas en esta materia dentro del Plan Nacional de Compra Pública.
-
-Ficha Artículo 54
 
 Artículo 55. Incorporación de criterios de compra pública estratégico en los pliegos de condiciones. Las entidades contratantes deberán promover en los pliegos de condiciones, con base en las posibilidades del mercado y lo documentación técnico elaborada al efecto, así como, lo fundamentado en la decisión inicial, lo inclusión de criterios sociales, económicos, ambientales, culturales, de calidad y de innovación; siempre que resulten atinentes y aplicables, atendiendo o las particularidades del objeto contractual de acuerdo con el ciclo de vida y de las condiciones del mercado, así como a los objetivos que sean definidos en el Plan Nacional de Compra Pública y su Plan de Acción. La inclusión de criterios de contratación pública estratégica para la evaluación de ofertas deberá respetar lo establecido en el artículo 58 de este Reglamento.
 
@@ -774,8 +675,6 @@ Los criterios estratégicos en la compra pública innovadora no estarán sujetos
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 44745 del 9 de octubre de 2024)
 
-Ficha Artículo 55
-
 Artículo 56. Incorporación de criterios bajo lectura de mercado. Para la aplicación de criterios de contratación estratégica, a efectos de no limitar injustificadamente la participación y afectar la libre concurrencia, se requiere que la Administración se apoye en un sondeo o estudio de mercado, realizando una investigación mediante un proceso sistemático por el cual se recopila, analiza y evalúa información técnica, científica y comercial proveniente de diversas fuentes, con el fin de identificar su avance en el mercado, las tendencias de desarrollo y la existencia de posibles soluciones que puedan atender la necesidad identificada, pudiendo realizar para ello, diálogos técnicos con la oferta u otros actores relacionados. La Administración podrá utilizar los análisis que haya elaborado la Dirección de Contratación Pública, otras administraciones o bien efectuar los propios.
 
 Se habilitará el sistema digital unificado con el fin de que la Administración pueda poner a disposición dichos estudios, de tal forma que sean utilizados por otras instituciones, siempre que no haya transcurrido un plazo mayor de doce meses desde su emisión. La Administración que los utilice deberá verificar que las condiciones de mercado no hayan variado, pudiendo de manera justificada y con base en criterios técnicos, acreditar una vigencia superior, sin que en ningún caso los estudios excedan los dos años desde su fecha de emisión.
@@ -786,23 +685,15 @@ La omisión del sondeo o estudio de mercado que respalde la inclusión de criter
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
 
-Ficha Artículo 56
-
 Artículo 57. Criterios de vinculación al objeto contractual. La aplicación de criterios sociales, económicos, ambientales, culturales, de calidad e innovación de la contratación pública estratégica deberá asociarse con el objeto contractual, salvo que en el Plan de Acción o en los lineamientos respectivos para ejecutar el Plan Nacional de Compra Pública se requieran otras posibilidades para el mejor cumplimiento de los objetivos de contratación pública estratégica.
-
-Ficha Artículo 57
 
 Artículo 58. Criterios objetivos y bajo normas técnicas. La inclusión de consideraciones de contratación pública estratégica debe hacerse de forma objetiva, verificable y atinente, de manera que frente a una determinada necesidad pública se haya incorporado un criterio de admisibilidad o evaluación debidamente fundamentado, el cual deberá ser susceptible de verificación, mediante una muestra, una prueba específica hecha por un laboratorio, una certificación, un sistema de reconocimiento, un sello, una declaración del fabricante, o cualquier otro tipo de evaluación de la conformidad que permita constatar el criterio. La utilización de normas técnicas internacionales o nacionales emitidas por un tercero imparcial de orden técnico deberá prevalecer como mecanismo de verificación, siempre que sea factible.
 
 Asimismo, deberán considerarse también los mecanismos y estándares de calidad de los procedimientos de contratación establecidos por la Dirección de Contratación Pública, según dispone el artículo 129 inciso i) de la Ley General de Contratación Pública. En todo caso, para la aplicación de estos criterios se deberá respetar las regulaciones de la Ley del Sistema Nacional para la Calidad, Ley Nº8279 de 02 de mayo de 2002.
 
-Ficha Artículo 58
-
 Artículo 59. Obligación de verificación de la Administración. La Administración deberá disponer de mecanismos de verificación, seguimiento y fiscalización de los criterios de contratación estratégica incorporados al pliego de condiciones, para lo cual deberá contar con los recursos y el personal propio o de otra institución con el conocimiento técnico necesario para verificar el cumplimiento durante las fases de selección, adjudicación, formalización y ejecución contractual.
 
 El incumplimiento durante la fase de ejecución contractual de los parámetros de admisibilidad o evaluación, dará lugar a la aplicación de sanciones pecuniarias que disponga el pliego de condiciones y la eventual resolución contractual, independientemente del estado satisfactorio con que puedan contar los suministros, servicios u obras contratadas, aplicando los límites establecidos en el artículo 46 de la Ley General de Contratación Pública.
-
-Ficha Artículo 59
 
 Artículo 59 bis. Criterios de innovación en Contratación Pública Estratégica. La inclusión de criterios de innovación en la contratación pública estratégica requiere que la Administración establezca mecanismos para que, en su determinación como factores de admisibilidad o de evaluación, se utilicen los últimos criterios de actualización tecnológica o científica. Esta fijación deberá hacerse conforme la mejor consecución de los objetivos definidos en el Plan Nacional de Inversión Pública, el Plan Nacional de Compra Pública y a las políticas de innovación y transformación tecnológica o científica definidas por las entidades públicas competentes.
 
@@ -810,15 +701,11 @@ Cuando se defina la inclusión de estos criterios tecnológicos, científicos y 
 
 (Así adicionado por el artículo 41 del Reglamento de compra pública innovadora, aprobado mediante decreto ejecutivo N° 45763 del 9 de marzo de 2026)
 
-Ficha Artículo 59 BIS
-
 Artículo 59 ter. Utilización de mejores tecnologías. La Administración contratante deberá seleccionar, de manera fundamentada, las tecnologías y metodologías publicadas por la Autoridad de Contratación Pública, e incorporarlas como requisitos técnicos en los pliegos de condiciones correspondientes al procedimiento de licitación mayor. Esta selección deberá formalizarse mediante un acto motivado, en el cual se justifique su pertinencia, considerando la disponibilidad presupuestaria y las necesidades específicas de la institución, conforme a lo establecido en el artículo 22 bis de la Ley General de Contratación Pública.
 
 Para determinar la tecnología y metodología más adecuada al objeto contractual, la Administración deberá considerar criterios técnicos objetivos, alineados con los principios de eficiencia, eficacia, sostenibilidad y transparencia. Estos criterios deberán estar en concordancia con el principio de economía establecido en la Ley de la Administración Financiera de la República y Presupuestos Públicos, Ley Nº 8131 de 18 de setiembre de 2001, que exige la utilización óptima de los recursos públicos.
 
 (Así adicionado por el artículo 3° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
-
-Ficha Artículo 59 TER
 
 SECCIÓN II
 
@@ -828,51 +715,27 @@ Artículo 60. Compra pública innovadora. Para la compra pública innovadora se 
 
 (Así reformado por el artículo 42 del Reglamento de compra pública innovadora, aprobado mediante decreto ejecutivo N° 45763 del 9 de marzo de 2026)
 
-Ficha Artículo 60
-
 Artículo 61. Parámetros de innovación. (Derogado por el artículo 43 del Reglamento de compra pública innovadora, aprobado mediante decreto ejecutivo N° 45763 del 9 de marzo de 2026)
-
-Ficha Artículo 61
 
 Artículo 62. Tipos de compra pública innovadora. (Derogado por el artículo 43 del Reglamento de compra pública innovadora, aprobado mediante decreto ejecutivo N° 45763 del 9 de marzo de 2026)
 
-Ficha Artículo 62
-
 Artículo 63. Incentivos para la innovación. (Derogado por el artículo 43 del Reglamento de compra pública innovadora, aprobado mediante decreto ejecutivo N° 45763 del 9 de marzo de 2026)
-
-Ficha Artículo 63
 
 Artículo 64. Aspectos previos a la promoción del procedimiento. (Derogado por el artículo 43 del Reglamento de compra pública innovadora, aprobado mediante decreto ejecutivo N° 45763 del 9 de marzo de 2026)
 
-Ficha Artículo 64
-
 Artículo 65. Pliego de condiciones de la compra innovadora. (Derogado por el artículo 43 del Reglamento de compra pública innovadora, aprobado mediante decreto ejecutivo N° 45763 del 9 de marzo de 2026)
-
-Ficha Artículo 65
 
 Artículo 66. Procedimiento compra pública innovadora pre-comercial. (Derogado por el artículo 43 del Reglamento de compra pública innovadora, aprobado mediante decreto ejecutivo N° 45763 del 9 de marzo de 2026)
 
-Ficha Artículo 66
-
 Artículo 67. Procedimiento compra pública innovadora integrada. (Derogado por el artículo 43 del Reglamento de compra pública innovadora, aprobado mediante decreto ejecutivo N° 45763 del 9 de marzo de 2026)
-
-Ficha Artículo 67
 
 Artículo 68. Criterios de evaluación de la compra pública innovadora. (Derogado por el artículo 43 del Reglamento de compra pública innovadora, aprobado mediante decreto ejecutivo N° 45763 del 9 de marzo de 2026)
 
-Ficha Artículo 68
-
 Artículo 69. Propiedad intelectual e industrial en la compra pública innovadora (Derogado por el artículo 43 del Reglamento de compra pública innovadora, aprobado mediante decreto ejecutivo N° 45763 del 9 de marzo de 2026)
-
-Ficha Artículo 69
 
 Artículo 70. Requisitos para el desarrollo de proyectos de investigación y/o de innovación tecnológica por esquema de asociación público privada. (Derogado por el artículo 43 del Reglamento de compra pública innovadora, aprobado mediante decreto ejecutivo N° 45763 del 9 de marzo de 2026)
 
-Ficha Artículo 70
-
 Artículo 71. Presentación de propuestas novedosas por agentes económicos. (Derogado por el artículo 43 del Reglamento de compra pública innovadora, aprobado mediante decreto ejecutivo N° 45763 del 9 de marzo de 2026)
-
-Ficha Artículo 71
 
 SECCIÓN III
 
@@ -886,8 +749,6 @@ El Ministerio de Economía, Industria y Comercio podrá colaborar con la Adminis
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
 
-Ficha Artículo 72
-
 Artículo 73. Estrategias para promover la participación de las PYMES. En los procedimientos de contratación pública se promoverá la participación de las PYMES, para lo cual la Autoridad de Contratación Pública deberá coordinar con el Ministerio de Economía, Industria y Comercio la definición de estrategias e indicadores en el Plan Nacional de Compra Pública.
 
 Para el fomento de la participación de las PYMES en las contrataciones, la Autoridad de Contratación Pública podrá propiciar el desarrollo regional, la innovación, la inclusión, la sostenibilidad así como la promoción de PYMES, mediante instrumentos de política pública que aseguren mejores condiciones de competencia en el mercado; en apego al valor público de las compras, de conformidad con lo establecido en los artículos 20, 21, 23 y 128 inciso iii) de la Ley General de Contratación Pública, lo cual se deberá armonizar con los objetivos e indicadores definidos en el Plan Nacional de Compra Pública. Asimismo, el Plan podrá reservar determinados objetos para que sean concursados entre PYMES de forma exclusiva, conforme lo establece la Ley General de Contratación Pública.
@@ -895,8 +756,6 @@ Para el fomento de la participación de las PYMES en las contrataciones, la Auto
 La Autoridad definirá, en coordinación con el Ministerio de Economía, Industria y Comercio, la aplicación del criterio de desarrollo regional para asignar un puntaje en el sistema de calificación de ofertas de hasta un diez por ciento ( 10%) para las PYMES de la región que se pretende desarrollar; para lo cual deberán identificar cuáles regiones deben priorizarse y en función de qué objetos contractuales según cada una de ellas, de forma que permitan la generación de empleo. El funcionario competente que se separe de la aplicación de este criterio regional deberá considerar dicho estudio en el acto motivado que emita, así como los análisis de mercado y del objeto de la contratación respectivo.
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
-
-Ficha Artículo 73
 
 Artículo 74. Verificación de Condición PYME. En aplicación del artículo 23 de la Ley General de Contratación Pública, la entidad contratante verificará la condición PYME por los medios que el Ministerio de Economía, Industria y Comercio disponga al efecto.
 
@@ -906,23 +765,15 @@ En lo que respecta a la generación de empleo local, la PYME que opte por el ben
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
 
-Ficha Artículo 74
-
 Artículo 75. Compra pública consolidada para impulsar la participación de las PYMES. Las modalidades de compra pública consolidada como los convenios marco o los sistemas dinámicos de adquisiciones, podrán utilizarse para favorecer la participación de las PYMES en la contratación pública. De igual forma, se podrá promover compras consolidadas exclusivas para PYMES, en tanto las condiciones del mercado lo permitan y así resulte acreditado por la Dirección de Contratación Pública en coordinación con el Ministerio de Economía, Industria y Comercio.
 
 Para estos efectos, la Autoridad de Contratación Pública también podrá implementar criterios de regionalización atendiendo a los lineamientos que al efecto le proporcione el Ministerio de Economía, Industria y Comercio, los cuales deberán ser considerados por la Dirección de Contratación Pública al diseñar los convenios marco que garanticen la inclusión de PYMES por zonas y objetos específicos, como puede ser el caso de micros, pequeños y medianos productores agrícolas.
-
-Ficha Artículo 75
 
 Artículo 76. Utilización del sistema digital unificado para fomentar la contratación de las PYMES. El sistema digital unificado deberá tener disponible la conectividad electrónica con el registro de proveedores del Sistema de Información Empresarial Costarricense regulado en la Ley Orgánica del Ministerio de Economía, Industria y Comercio, Ley N°6054 de 14 de junio de 1977, con la finalidad de que se pueda sincronizar información relevante para fomentar la participación de las PYMES en la contratación pública.
 
 El sistema digital unificado, deberá además facilitar la disposición de datos para el monitoreo de la implementación de medidas dispuestas para la promoción de las PYMES en el Plan Nacional de Compra Pública.
 
-Ficha Artículo 76
-
 Artículo 77. Consorcios de PYMES. Las PYMES podrán participar bajo los consorcios previstos en el artículo 48 de la Ley General de Contratación Pública, así como también podrán utilizar la figura de los consorcios PYME regulados en la Ley para el Fomento de la Competitividad de la PYME mediante el desarrollo de consorcios, Ley N°9576 de 22 de julio de 2018, en cuyo caso, gozará de los mismos beneficios establecidos al amparo de la Ley de Fortalecimiento de las Pequeñas y Medianas Empresas, Ley N°8262 de 2 de mayo de 2002 y este capítulo.
-
-Ficha Artículo 77
 
 Artículo 78. Grupos económicos. No se permitirá que los oferentes de grupos económicos utilicen la figura de PYME para obtener los beneficios para ese tipo de empresas dispuesto en este capítulo y en leyes especiales.
 
@@ -936,13 +787,9 @@ Una vez que se cuente con la resolución de la autoridad competente, emitida de 
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
 
-Ficha Artículo 78
-
 Artículo 79. Garantías rendidas por PYMES. Las garantías de cumplimiento y colaterales presentadas por las PYMES que han demostrado su condición a la Administración según lo dispuesto en la Ley de Fortalecimiento de las Pequeñas y Medianas Empresas, Ley N°8262 y sus reglamentos; podrán ser otorgadas a través del Fondo Especial para el Desarrollo de la Micro, Pequeña y Mediana Empresa (FODEMIPYME) o por los instrumentos financieros creados al amparo de la Ley del Sistema Nacional de Banca para el Desarrollo, Ley N°8634 de 23 de abril de 2008, siempre y cuando las PYMES solicitantes cumplan con todos los requisitos y las condiciones de la normativa vigente.
 
 Las garantías podrán, además, ser rendidas en cualquiera de las formas admitidas en el presente Reglamento.
-
-Ficha Artículo 79
 
 TÍTULO II
 
@@ -976,8 +823,6 @@ El Programa de Adquisiciones podrá ser modificado cuando surja una necesidad ad
 
 Todas las instituciones públicas deberán divulgar el respectivo programa de adquisiciones y sus eventuales modificaciones a través del sistema digital unificado.
 
-Ficha Artículo 80
-
 Artículo 81. Alertas Tempranas. Se faculta a la Administración para el empleo de alertas tempranas mediante las cuales la Administración comunicará la intención de efectuar un procedimiento de compra, con antelación a la publicación del pliego de condiciones, con el propósito de alertar a los posibles oferentes sobre aspectos relevantes de necesaria consideración para ofertar y permitirles una preparación previa al momento de la promoción del concurso.
 
 Dentro de los avisos, se podrán poner a disposición de los interesados: estudios, diseños u otra información relevante para los potenciales oferentes.
@@ -985,8 +830,6 @@ Dentro de los avisos, se podrán poner a disposición de los interesados: estudi
 Las alertas tempranas y los documentos asociados se comunicarán en el sistema digital unificado a todos los proveedores registrados para la categoría de bien, obra o servicio que se pretende contratar y, a su vez, el aviso debe quedar disponible para consulta general.
 
 Las alertas tempranas se podrán comunicar en cualquier momento antes de la publicación del pliego de condiciones y no implican una obligación de promover el procedimiento.
-
-Ficha Artículo 81
 
 Artículo 82. Prevalencia de la economía de escala. En cada institución pública la proveeduría deberá consolidar los requerimientos institucionales de las obras menores, entendidas como aquellas que no afectan la estructura principal del edificio, ni sus elementos estructurales básicos y que son de bajo costo, cuyo monto no exceda el umbral de contratación de la licitación menor de conformidad con el artículo 36 de la Ley General de Contratación Pública, los bienes y servicios comunes, con el fin de obtener los mejores precios al adquirir una mayor cantidad de éstos. Cuando exista desconcentración, deberá consolidar dichos requerimientos de las unidades desconcentradas de la institución. Esta misma regla le aplicará a las Instituciones que cuenten con sociedades o empresas subsidiarias.
 
@@ -1020,8 +863,6 @@ Cuando se trate de convenios marco, exclusivos para PYMES de una región del pa�
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
 
-Ficha Artículo 82
-
 Artículo 83. Prohibición de fragmentación y separación por funcionalidad. La Administración no podrá fragmentar sus operaciones respecto a necesidades previsibles con el propósito de evadir el procedimiento de contratación que corresponde. Todas aquellas contrataciones que pudieran reportar economías de escala deberán efectuarse en forma centralizada, para lo cual deberá existir la planificación de las compras respectivas, si así resulta más conveniente para el interés público.
 
 La fragmentación se reputa ilícita cuando, contándose en un mismo momento dentro del presupuesto aprobado con los recursos necesarios y habiéndose planificado las necesidades administrativas concretas, se realiza más de una contratación para el mismo objeto, con la finalidad de evadir un procedimiento más complejo. En tal caso, el funcionario o funcionarios encargados de realizar las agrupaciones o de consolidar los requerimientos de consumo para aprovechar la economía de escala, que incurran en una fragmentación ilícita, se harán acreedores de la sanción prevista en el artículo 125, inciso w) de la Ley General de Contratación Pública.
@@ -1042,15 +883,9 @@ d) Los casos en que a pesar de que se conoce la necesidad integral, se promueven
 
 e) La adquisición de bienes y servicios para atender, proyectos o servicios regionalizados, siempre y cuando la adquisición no comprometa la obtención de economías de escala. En caso de que la Administración aplique esta excepción deberá motivar su decisión.
 
-Ficha Artículo 83
-
 Artículo 84. Promoción de la competencia. Para cumplir con el fin de propiciar la mayor competencia en los pliegos de condiciones solo podrán consignarse requisitos que resulten técnicamente procedentes, de manera que cualquier barrera de ingreso injustificada podrá ser objetada mediante el recurso de objeción al pliego de condiciones, sin perjuicio de que los afectados puedan acudir a las autoridades de la competencia conforme a lo previsto en la Ley de Promoción de la Competencia y Defensa Efectiva del Consumidor, Ley N°7472 de 20 de diciembre de 1994 y en la Ley de Fortalecimiento de las Autoridades de Competencia de Costa Rica, Ley N°9736 de 5 de setiembre de 2019.
 
-Ficha Artículo 84
-
 Artículo 85. Sondeo, estudio de mercado y precio de referencia. Previo a la estimación de la contratación, la Administración deberá realizar un sondeo o estudio de mercado a fin de determinar los precios de referencia conforme a lo previsto en el artículo 44 del presente Reglamento y podrá considerar las guías que emitirá al efecto la Dirección de Contratación Pública.
-
-Ficha Artículo 85
 
 Artículo 86. Decisión inicial. La decisión administrativa que da inicio al procedimiento de contratación será emitida por la jefatura de la unidad solicitante o por el titular subordinado competente, de conformidad con las disposiciones internas de cada institución, salvo que el objeto contractual sea de obra pública que deba tramitarse mediante licitación mayor en cuyo caso, la decisión inicial deberá ser suscrita conjuntamente por el jefe de la unidad solicitante y por el jerarca quien podrá delegar tal actuación.
 
@@ -1078,13 +913,9 @@ El funcionario competente valorará el cumplimiento de los anteriores requisitos
 
 Para la decisión inicial de obra pública, se deberá contemplar además de lo indicado anteriormente, lo establecido en el artículo 172 de este Reglamento.
 
-Ficha Artículo 86
-
 Artículo 87. Contenido presupuestario. Previo a promover el concurso, la Administración debe acreditar que cuenta con los recursos presupuestarios suficientes para enfrentar la erogación respectiva. Para las contrataciones que se ejecuten durante el mismo ejercicio económico, bastará con acreditar el contenido presupuestario disponible. En las contrataciones con vigencias plurianuales, se deberá indicar en la decisión inicial, que se garantiza el pago de las obligaciones anuales correspondientes a cada ejercicio económico, para lo cual la Administración deberá adoptar las medidas que correspondan.
 
 La Administración deberá adoptar y poner en práctica los controles internos necesarios a fin de que se cumpla con lo establecido en el artículo 38 de la Ley General de Contratación Pública, lo dispuesto en este artículo, así como la normativa y las directrices presupuestarias emitidas por las autoridades competentes sobre esta materia.
-
-Ficha Artículo 87
 
 SECCIÓN II
 
@@ -1096,8 +927,6 @@ Deberá constituir un cuerpo de especificaciones técnicas, claras, suficientes,
 
 En aquellas contrataciones de excepción a los procedimientos ordinarios de contratación, la Administración, facultativamente podrá elaborar un pliego de condiciones con los elementos esenciales atendiendo al objeto contractual.
 
-Ficha Artículo 88
-
 Artículo 89. Audiencias previas al pliego de condiciones. De previo a la etapa de determinación del contenido del pliego de condiciones, se podrán realizar audiencias abiertas, presenciales o virtuales a fin de que potenciales oferentes o terceros interesados formulen observaciones o propuestas tendientes a la mejor elaboración del pliego de condiciones.
 
 Con al menos cinco días hábiles de antelación a la realización de la audiencia, deberá hacerse invitación en el sistema digital unificado con indicación del objetivo de su realización, hora, fecha y lugar o medio electrónico en que se llevará a cabo. La Administración deberá tener definida la necesidad que se pretende satisfacer con el objeto a licitar, siendo permitido que los alcances, características y la propia determinación última del objeto deriven de las audiencias previas. La convocatoria a la audiencia deberá incluir una breve referencia de la necesidad que la Administración pretende satisfacer a través de la contratación.
@@ -1105,8 +934,6 @@ Con al menos cinco días hábiles de antelación a la realización de la audienc
 De la audiencia y de las sugerencias recibidas, la Administración deberá elaborar un acta o acreditar lo actuado según corresponda, lo cual formará parte del expediente de la contratación en el sistema digital unificado. Tanto la Administración como los participantes deberán realizar las denuncias que corresponda ante las autoridades competentes en caso de que detecten prácticas colusorias o que atenten contra la libre concurrencia.
 
 Todas las actuaciones que se efectúen con ocasión de las audiencias previas al pliego de condiciones deberán ajustarse al principio de transparencia. Para la validez de la audiencia, no será necesaria la presencia de todos los invitados.
-
-Ficha Artículo 89
 
 Artículo 90. Contenido del pliego de condiciones. El pliego de condiciones y sus anexos estarán a disposición de cualquier interesado en el sistema digital unificado, al menos desde el día siguiente en que se curse la última invitación y deberá contener, como mínimo:
 
@@ -1174,21 +1001,15 @@ La Administración podrá incorporar en el pliego de condiciones un mecanismo de
 
 (Eliminado este párrafo por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
 
-Ficha Artículo 90
-
 Artículo 91. Condiciones invariables. En el pliego de condiciones, se deberá identificar con claridad aquellos requisitos cuyas condiciones son invariables, cuando corresponda. Dentro de estas condiciones invariables y según el objeto de que se trate, se podrán establecer aspectos tales como, capacidad financiera, especificaciones técnicas y experiencia que deba reunir el personal técnico en la fase de ejecución.
 
 Las condiciones invariables deben orientarse a la selección de la oferta más conveniente a los intereses de la Administración. El incumplimiento de esas condiciones hará inelegible a la oferta.
 
 El oferente, estará obligado a describir de forma completa a partir del pliego de condiciones, las características del objeto, bien o servicio que cotiza, sin necesidad de reiterar la aceptación de las cláusulas invariables o condiciones obligatorias, cuyo cumplimiento se presume.
 
-Ficha Artículo 91
-
 Artículo 92. Publicación y contenido de la invitación al concurso. La invitación a participar, se publicará en el sistema digital unificado, sin perjuicio de que adicionalmente se empleen otros medios para dar una mayor divulgación al concurso.
 
 En todo caso la publicación deberá contener, la identificación de la Administración contratante; la indicación del tipo y número del concurso y una breve descripción del objeto contractual; la hora y fecha límite para la recepción de ofertas.
-
-Ficha Artículo 92
 
 Artículo 93. Modificaciones, prórrogas y aclaraciones. Una vez publicado el aviso para concursar y hasta antes de la apertura de las ofertas, la Administración dispondrá únicamente de dos oportunidades para modificar de oficio el pliego de condiciones o para prorrogar el plazo de recepción de ofertas, todo conforme al artículo 40 de la Ley General de Contratación Pública.
 
@@ -1206,11 +1027,7 @@ Las que sean presentadas fuera de ese plazo podrán ser atendidas, pero no imped
 
 Cuando se trate de aclaraciones acordadas de oficio que no impliquen modificación, es deber de la Administración incorporarlas de inmediato al expediente electrónico y darles una adecuada difusión en el sistema digital unificado dentro de las veinticuatro horas siguientes.
 
-Ficha Artículo 93
-
 Artículo 94. Experiencia. Cuando la Administración solicite acreditar la experiencia, se aceptará en el tanto haya sido positiva, entendida ésta, como los bienes, obras o servicios recibidos a entera satisfacción, debiendo indicarse en el pliego de condiciones la forma idónea de acreditarla. Igual regla se seguirá cuando se trate de experiencia obtenida en el extranjero.
-
-Ficha Artículo 94
 
 Artículo 95. Muestras. La solicitud de muestras deberá ajustarse a criterios de razonabilidad y proporcionalidad y se solicitarán, en la medida que se estimen indispensables, para verificar la calidad de los bienes y el cumplimiento de las especificaciones del pliego de condiciones y asegurar el cumplimiento de la finalidad propuesta.
 
@@ -1224,8 +1041,6 @@ Si la muestra cumple con las condiciones de admisibilidad, la Administración de
 
 Las muestras que no se hubieren inutilizado o destruido, por las pruebas a que fueren sometidas, se devolverán en el plazo indicado en el pliego de condiciones, o en su defecto dentro de los diez días hábiles siguientes a la firmeza del acto de adjudicación; vencido ese plazo la Administración dispondrá libremente de ellas. Las muestras presentadas por la parte adjudicataria, se devolverán una vez que se hayan recibido a satisfacción los bienes, esto a fin de poder cotejar el objeto entregado con las muestras ofrecidas.
 
-Ficha Artículo 95
-
 Artículo 96. Sistema de evaluación. En atención al principio del valor por el dinero, mediante el establecimiento de cláusulas de admisibilidad y de factores de evaluación se deberá asegurar la adquisición del mejor bien, obra o servicio, al menor precio conforme a lo previsto en el artículo 40 de la Ley General de Contratación Pública.
 
 La oferto más conveniente será aquella que cumpla las condiciones de admisibilidad y obtengo la mejor evaluación, las condiciones de admisibilidad deberán asegurar la calidad y funcionalidad del objeto contractual.
@@ -1237,8 +1052,6 @@ El sistema de evaluación no podrá realizar asignaciones rígidas de porcentaje
 La Administración deberá utilizar la evaluación automatizada cuando no se incorporen elementos de evaluación distintos al precio, salvo que la Administración razonadamente determine que no resulta conveniente su aplicación. Mediante esta evaluación el sistema digital unificado ordenará en forma automatizada las ofertas, de manera que la Administración revisará inicialmente la admisibilidad de las tres ofertas que queden como potencialmente mejor puntuadas.
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 44745 del 9 de octubre de 2024)
-
-Ficha Artículo 96
 
 Artículo 97. Desempate. Cuando dos o más ofertas obtengan la misma puntuación una vez aplicado el sistema de evaluación, la Administración deberá revisar si las mismas cumplen con la condición de Pyme, en cuyo caso, deberá otorgar una puntuación adicional a las ofertas con dicha condición, según el siguiente detalle:
 
@@ -1254,8 +1067,6 @@ En caso de que persista el empate, la Administración convocará a los oferentes
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
 
-Ficha Artículo 97
-
 Artículo 98. Precio. El precio deberá ser cierto y definitivo. En caso de divergencia entre el precio cotizado en números y letras, prevalecerá este último, salvo el caso de errores materiales evidentes, en cuyo caso prevalecerá el valor real.
 
 El pliego de condiciones podrá establecer un porcentaje de utilidad mínimo o máximo, previo acto motivado emitido por la unidad técnica solicitante de la obra, bien o servicio o la unidad técnica competente.
@@ -1267,8 +1078,6 @@ Los oferentes podrán cotizar en cualquier moneda de curso legal en Costa Rica. 
 El pago podrá realizarse en la moneda fijada en la contratación o bien en colones costarricenses, salvo lo dispuesto en el artículo 49 de la Ley Orgánica del Banco Central de Costa Rica. Para ese efecto se utilizará el tipo de cambio de referencia para la venta, calculado por el Banco Central de Costa Rica, vigente al momento de la confección del cheque o medio de pago seleccionado. La Administración deberá comunicar al contratista dentro de los cinco días hábiles posteriores a su confección, que el medio de pago acordado se encuentra a su disposición.
 
 Si en el pliego de condiciones se pide un desglose de los tributos que afectan la propuesta y ésta no lo indica, se presume que el monto total cotizado los contempla, incluyendo tasas, sobretasas, aranceles de importación y demás impuestos del mercado local todo conforme a lo previsto en el artículo 41 de la Ley General de Contratación Pública.
-
-Ficha Artículo 98
 
 Artículo 99. Mejora de precios. En todos los procedimientos regidos por la Ley General de Contratación Pública, es posible mejorar los precios que fueron indicados desde la oferta cuando así se establezca en el pliego de condiciones. Dicha facultad la podrán ejercer todos los oferentes que hayan presentado su oferta económica, una vez realizados los estudios de razonabilidad sobre los precios originalmente ofertados.
 
@@ -1286,17 +1095,11 @@ El sistema digital unificado no permitirá la incorporación de descuentos ni mo
 
 Siempre que en el pliego de condiciones se haya considerado una fase de mejora de precios, la Administración podrá convocar, a través del sistema digital unificado, a los proveedores para ello.
 
-Ficha Artículo 99
-
 Artículo 100. Precio para efectos de comparación. El oferente que resulte elegible, en razón de cumplir con las condiciones de admisibilidad, será comparado con el banco de precios del sistema digital unificado o con el precio del mercado para el análisis de la razonabilidad del precio conforme a lo previsto en el artículo 44 de este Reglamento. Quien hubiera ofrecido descuentos con su oferta, les serán aplicados a su precio al momento mismo de efectuar la comparación.
 
 El descuento no podrá ser superior al porcentaje de la utilidad declarado en el precio original, conforme al artículo 41 de la Ley General de Contratación Pública.
 
-Ficha Artículo 100
-
 Artículo 101. Línea de crédito en caso de duda sobre la razonabilidad del precio. En el supuesto de que la Administración presente dudas acerca de la razonabilidad del precio cotizado en la oferta, en el caso específico que dude sobre su ruinosidad y ese sea el único factor determinante para seleccionar al contratista, podrá adjudicar la contratación siempre y cuando el oferente presente, de previo a la adjudicación, una línea de crédito o garantía que asegure que cuenta con medios para cumplir con el bien, la obra o el servicio, sin que la Administración cancele un mayor precio que el cotizado, conforme a lo previsto en el artículo 41 de la Ley General de Contratación Pública.
-
-Ficha Artículo 101
 
 Artículo 102. Desglose del precio. Conforme al artículo 42 de la Ley General de Contratación Pública, en los contratos de obra pública y servicios, así como para cualquier otro objeto contractual según se establezca en el pliego de condiciones, el oferente deberá presentar la estructura de precio tanto en valores absolutos como porcentuales, y de presentarse discrepancias entre los valores absolutos y los porcentuales prevalecerán los primeros. Los valores absolutos deberán ser concordantes con la o las monedas con que se presenta el precio de oferta.
 
@@ -1305,8 +1108,6 @@ En los contratos en los que procede la aplicación del reajuste o revisión de p
 En caso de que no exista un índice oficial para determinado costo directo, el oferente deberá advertirlo así en la oferta y aportar la documentación pertinente a efectos de que las partes puedan aplicar el método contemplado en los artículos 107, 108 o 109 del presente Reglamento, según corresponda. Sino existe un índice oficial para determinado costo indirecto, el oferente deberá advertirlo así en la oferta y podrá proponer un índice oficial general de precios para el reajuste o revisión de dicho costo.
 
 La Administración deberá establecer el formato para la presentación de la estructura del precio de la oferta en el pliego de condiciones, tomando en consideración en una obra pública la modalidad de cotización y tipo de contrato. Esta estructura estará compuesta por el desglose del precio de oferta, tanto en valores absolutos como porcentuales, con el detalle de al menos los siguientes componentes: los costos directos, los costos indirectos, la utilidad y los imprevistos.
-
-Ficha Artículo 102
 
 Artículo 103. Sobre el presupuesto detallado. El presupuesto detallado de la obra, bien o servicio contratado deberá ser presentado únicamente por el adjudicatario dentro del plazo de ocho días hábiles posteriores a la firmeza de la adjudicación y antes de la suscripción del contrato. Lo anterior, aplica para cualquier modalidad de cotización y tipo de contrato.
 
@@ -1320,13 +1121,9 @@ El presupuesto detallado corresponde a la memoria de cálculo efectuada y que su
 
 El presupuesto detallado desglosará los componentes de cada actividad o unidad de la obra, unidad del bien, o unidad de servicio, según corresponda, indicando al menos sus costos directos, que considere como mínimo los recursos de materiales, mano de obra con el detalle de cargas sociales, equipos y maquinaria e identificación de los subcontratos, sus costos indirectos, su utilidad e imprevistos.
 
-Ficha Artículo 103
-
 Artículo 104. Precios unitarios y totales. La Administración podrá solicitar en el pliego de condiciones a los oferentes que coticen precios unitarios y totales. Si la sumatoria de los precios unitarios excede el precio total, la oferta se comparará con el mayor precio.
 
 Cuando se soliciten precios unitarios, la Administración deberá advertir en el pliego de condiciones que se reserva la posibilidad de adjudicación parcial de una misma línea. En caso que no hubiere sido advertido, la Administración consultará al oferente si acepta la adjudicación de una menor cantidad manteniendo el precio unitario. En caso de no aceptación por el oferente, la Administración deberá declarar infructuosa la línea o líneas correspondientes.
-
-Ficha Artículo 104
 
 Artículo 105. Descuentos. El oferente podrá ofrecer descuentos globales a sus precios, o bien a los precios unitarios, en razón de un mayor número de líneas que se llegaran a adjudicar, o por pronto pago, pudiendo la Administración, promover estos últimos como parte de su política de pago.
 
@@ -1337,8 +1134,6 @@ El oferente podrá incorporar en su propuesta descuentos en razón de la eventua
 Salvo lo dispuesto en el artículo 99 de este Reglamento, los descuentos que se ofrezcan con posterioridad a la apertura de ofertas, no serán tomados en cuenta al momento de comparar los precios, pero sí para efectos de pago, en la fase de ejecución contractual.
 
 La Administración podrá aprovechar el descuento ofrecido, lo cual deberá estar sujeto a la disponibilidad presupuestaria y a la necesidad institucional.
-
-Ficha Artículo 105
 
 Artículo 106. Precio inaceptable. Se estimarán inaceptables y no formarán parte de las ofertas elegibles aquellas que contengan precios con las siguientes características:
 
@@ -1358,8 +1153,6 @@ En el caso del inciso d), anexará en el expediente de la contratación y en el 
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
 
-Ficha Artículo 106
-
 Artículo 107. Derecho al mantenimiento del equilibrio económico de los costos directos e indirectos del contrato. En los contratos que se realicen al amparo de la Ley General de Contratación Pública, tanto la Administración como el contratista, tendrán derecho al mantenimiento del equilibrio económico de los costos directos e indirectos del contrato.
 
 Bajo ningún supuesto, serán objeto de reajuste ni revisión la utilidad ni el rubro de imprevistos.
@@ -1371,8 +1164,6 @@ Para efectos de reajustes y revisiones de precios la Administración utilizará 
 Excepcionalmente, en caso de que no exista un índice oficial del país de origen de determinado costo directo o indirecto, las partes podrán demostrar las variaciones de ese costo, mediante el método analítico-documental. Esto tomando en consideración la diferencia en el precio del insumo o servicio entre el día de la compra y el día de la presentación de la oferta, ello con base en documentación probatoria válida y pertinente.
 
 Los reajustes o revisión de precios, así como las resoluciones de reclamos de las partes por desequilibrios económicos del contrato, deberán formar parte del finiquito del contrato, conforme a lo previsto en el artículo 111, de la Ley General de Contratación Pública y el presente artículo y los artículos108 y 109 de este Reglamento.
-
-Ficha Artículo 107
 
 Artículo 108. Derecho al mantenimiento del equilibrio económico de los costos directos e indirectos del contrato de obra pública. En los contratos de obra pública la Administración reajustará los precios, aumentándolos o disminuyéndolos según se demuestre la variación de los costos directos e indirectos estrictamente relacionados con la obra, por circunstancias ajenas a la responsabilidad de las partes.
 
@@ -1396,8 +1187,6 @@ Para aplicar el reajuste, el contratista deberá presentar el presupuesto detall
 
 En el caso de que no exista ningún índice oficial de precios del país de origen de determinado costo directo o indirecto, las partes podrán demostrar las variaciones de ese costo, mediante el método analítico y documental, esto tomando en consideración la diferencia en el precio del insumo o servicio entre el día de oferta y el día de compra, ello con base en documentación probatoria válida y pertinente.
 
-Ficha Artículo 108
-
 Artículo 109. Derecho al mantenimiento del equilibrio económico de los costos directos e indirectos en contratos de suministro de bienes y servicios. En las contrataciones de suministro de bienes y servicios, cuando se demuestren variaciones en los precios de los costos directos e indirectos, estrictamente relacionados con el objeto del contrato, la Administración revisará los precios, aumentándolos o disminuyéndolos según varíen los costos directos e indirectos, a efecto de mantener el equilibrio económico del contrato. En estos casos, no serán objeto de revisión la utilidad ni el rubro de imprevistos.
 
 En contratos de suministro de bienes y servicios, la revisión de precios se determinará con base en los índices oficiales de precios del mes de presentación de las ofertas y los índices oficiales de precios correspondientes al mes de las entregas recibidas de conformidad con las fechas programas y acordadas por las partes siempre y cuando el bien o servicio cumpla en tales fechas con las condiciones contractuales.
@@ -1407,8 +1196,6 @@ Si las entregas de los suministros de bienes y servicios se atrasan por causa de
 En caso que las entregas de bienes o servicios se adelanten en relación con las fechas programadas y acordadas por las partes, el precio se revisará con base en los índices de precios del mes en que efectivamente se efectuaron.
 
 En caso de que no exista un índice oficial del país de origen de determinado costo directo o indirecto, las partes podrán demostrar las variaciones de ese costo, mediante el método analítico-documental. Esto tomando en consideración la diferencia en el precio del insumo o servicio entre el día de la compra y el día de la oferta, ello con base en documentación probatoria válida y pertinente.
-
-Ficha Artículo 109
 
 Artículo 110. Garantía de cumplimiento. La garantía de cumplimiento respalda la correcta ejecución del contrato, conforme la normativa vigente y será exigible en todos los contratos producto de licitación mayor o licitación menor, la cual se establecerá entre un cinco por ciento (5%) y un diez por ciento (10%) del monto de la adjudicación, conforme lo defina el pliego de condiciones.
 
@@ -1430,8 +1217,6 @@ Si el objeto contractual aumenta o disminuye, la Administración deberá preveni
 
 Es una obligación del contratista mantener vigente la garantía de cumplimiento mientras no se haya recibido el objeto del contrato o el contrato se encuentre aún en ejecución. Si un día hábil antes del vencimiento de la garantía, el contratista no ha prorrogado su vigencia, la Administración deberá hacerla efectiva en forma preventiva y mantener el dinero en una cuenta bajo su custodia, el cual servirá como medio resarcitorio en caso de incumplimiento. En este caso, el contratista podrá presentar una nueva garantía sustitutiva del dinero.
 
-Ficha Artículo 110
-
 Artículo 111. Forma de rendir la garantía de cumplimiento. La garantía de cumplimiento, deberá ser rendida electrónicamente a través del sistema digital unificado.
 
 Las garantías de cumplimiento también podrán ser extendidas por bancos internacionales de primer orden, según reconocimiento que haga el Banco Central de Costa Rica, cuando cuenten con un corresponsal autorizado en el país, siempre que sean emitidas conforme la legislación costarricense y sean ejecutables en caso de ser necesario.
@@ -1442,15 +1227,11 @@ No se reconocerán intereses por las garantías mantenidas en depósito por la A
 
 Las garantías de cumplimiento pueden rendirse en cualquier moneda extranjera o bien en su equivalente en moneda nacional, al tipo de cambio de referencia para la venta, calculado por el Banco Central de Costa Rica, vigente al día anterior de la suscripción del contrato. El contratista está obligado a mantener actualizado el monto de la garantía, por las variaciones de tipo de cambio que le puedan afectar.
 
-Ficha Artículo 111
-
 Artículo 112. Sustitución de garantía de cumplimiento y retenciones. Las garantías de cumplimiento podrán ser sustituidas en cualquier momento, a solicitud del contratista, previa aceptación de la Administración, siempre que con ello no desmejore los términos de la garantía original.
 
 A solicitud del contratista y previa autorización de la Administración, cuando lo estime conveniente, se podrán sustituir las retenciones por una garantía adicional. La Administración podrá solicitar la sustitución de garantías que presenten riesgos financieros de no pago, como cuando su emisor esté intervenido.
 
 La Administración deberá solicitar la sustitución de la garantía en forma inmediata cuando ésta haya sido ejecutada y continúe la ejecución contractual de modo que satisfaga el monto y plazo según las condiciones contractuales.
-
-Ficha Artículo 112
 
 Artículo 113. Devolución de las garantías de cumplimiento y retenciones. La Administración tiene la facultad de devolver parcialmente la garantía de cumplimiento, a solicitud del contratista, en proporción a la parte ya ejecutada cuando sean factibles entregas parciales del objeto contratado. Esta situación deberá advertirse en el respectivo pliego de condiciones, sin perjuicio de una valoración particular en la fase de ejecución contractual, mediante acto motivado.
 
@@ -1458,19 +1239,13 @@ La garantía de cumplimiento será devuelta a solicitud del interesado, dentro d
 
 Para el caso de otras garantías o retenciones serán devueltas, dentro del plazo de veinte días hábiles siguientes a la fecha en que la Administración haya recibido de forma definitiva y a satisfacción el objeto contractual o conforme lo establezca la Administración en el pliego respectivo.
 
-Ficha Artículo 113
-
 Artículo 114. Vigencia de la garantía de cumplimiento. La Administración establecerá en el pliego de condiciones la vigencia mínima de la garantía de cumplimiento. En caso de omisión en el pliego de condiciones, la garantía regirá hasta por dos meses adicionales a la fecha probable de la recepción definitiva del objeto contractual o terminación del plazo de la contratación.
-
-Ficha Artículo 114
 
 Artículo 115. Otras garantías y retenciones. La Administración podrá incorporar en el pliego de condiciones cláusulas de retención porcentual de las sumas pagadas, cuando ello resulte conveniente para asegurar una correcta ejecución contractual. El monto máximo de esas retenciones será de un cinco por ciento (5%) del total facturado.
 
 Cuando existan adelantos de pago y ello resulte viable, la Administración podrá solicitar una garantía colateral por todo el monto que se vaya a girar, la cual deberá ser rendida electrónicamente mediante el sistema digital unificado, ello independientemente del medio utilizado por el contratista para amparar dicha garantía y aceptado por la entidad garante. Para rendir este tipo de garantías las entidades garantes deberán admitir además de los otros medios señalados en el artículo 111 de este Reglamento, las fianzas, avales, hipotecas, prendas, entre otros.
 
 En lo pertinente, las regulaciones de la garantía de cumplimiento les serán aplicables a estas otras garantías.
-
-Ficha Artículo 115
 
 Artículo 116. Sanciones económicas y procedimiento de ejecución. Conforme al artículo 46 de la Ley General de Contratación Pública, la Administración podrá establecer en el pliego de condiciones, el pago de multas por defectos en la ejecución del contrato o cláusulas penales, según corresponda, considerando para ello, aspectos tales como, el monto, plazo, riesgo, repercusiones de un eventual incumplimiento para el servicio que se brinde o para el interés público y la posibilidad de incumplimientos parciales o por líneas.
 
@@ -1481,8 +1256,6 @@ En caso de que el objeto esté compuesto por líneas distintas, el monto máximo
 Los incumplimientos que originen el cobro de la multa y la cláusula penal deberán estar detallados en el pliego de condiciones, en forma motivada. Una vez en firme el pliego, se entenderá que el monto de la multa o de la cláusula penal es definitivo por lo que no se admitirán reclamos posteriores.
 
 La cláusula penal procede por ejecución tardía o prematura de las obligaciones contractuales.
-
-Ficha Artículo 116
 
 Artículo 117. Aplicación de multas y cláusulas penales. Conforme al artículo 47 de la Ley General de Contratación Pública, para ejecutar las multas y cláusula penal la Administración deberá emitir un acto motivado, con indicación de la prueba que lo sustente. En contra de esa decisión, el afectado podrá interponer los recursos de revocatoria y apelación, los cuales deberán presentarse dentro de los tres días hábiles siguientes a la notificación del acto. La resolución de dichos recursos agotan la vía administrativa.
 
@@ -1496,8 +1269,6 @@ El cobro por concepto de multas o cláusula penal no podrá superar el veinticin
 
 La omisión de cobro ocasionará responsabilidad civil y administrativa del funcionario omiso, conforme a lo previsto en el artículo 125, inciso k) de la Ley General de Contratación Pública.
 
-Ficha Artículo 117
-
 SECCIÓN III
 
 OFERTA
@@ -1508,25 +1279,17 @@ La literatura técnica y demás documentación que le dé soporte a la propuesta
 
 Si durante el período de formulación de ofertas, el oferente llegara a advertir incompletez del objeto o bien dificultades en el desempeño o funcionalidad del bien o servicio, deberá indicarlo por escrito a la Administración, en el plazo dispuesto para recibir aclaraciones. Caso contrario, no podrá invocar esa circunstancia como eximente de responsabilidad en fase de ejecución contractual o de fiscalización.
 
-Ficha Artículo 118
-
 Artículo 119. Presentación. La oferta deberá presentarse en el sistema digital unificado, firmada digitalmente por quien tenga poder suficiente para ello, dentro del plazo previsto para tal efecto en el pliego de condiciones. La oferta estará encriptada e inaccesible hasta la hora y la fecha señaladas en el pliego de condiciones para la apertura de ofertas, garantizándose en el sistema digital unificado la confidencialidad.
 
 Con el solo sometimiento de la oferta en tiempo, se entiende aceptado el plazo de vigencia de la oferta establecido en el pliego de condiciones y durante las diferentes etapas del procedimiento. Si hubiera alguna inconsistencia, la Administración hará la prevención durante la fase de subsanación de las ofertas.
 
 La oferta participará únicamente en el concurso para el que fue presentada, asumiendo el oferente las consecuencias que se puedan generar por su falta de cuidado o cualquier error imputable a él en el momento de ingresar su oferta y la documentación complementaria en el sistema digital unificado.
 
-Ficha Artículo 119
-
 Artículo 120. Apertura de ofertas. La apertura de las ofertas se realizará en la hora y fecha señalada al efecto. Una vez que se realice la apertura, las ofertas serán desencriptadas, estarán disponibles para todos los interesados y el sistema digital unificado registrará y generará un acta electrónica de apertura de las ofertas recibidas, la cual se podrá visualizar en la sección correspondiente del respectivo expediente electrónico.
 
 Los oferentes podrán efectuar observaciones únicamente a través del sistema digital unificado dentro del plazo establecido en el pliego de condiciones y a falta de indicación en el día hábil siguiente al día de apertura de las ofertas. En caso de que se presenten observaciones, éstas se consignarán en el expediente electrónico y serán valoradas por la Administración.
 
-Ficha Artículo 120
-
 Artículo 121. Jurisdicción. Los contratos a ejecutar en el país, cuyas propuestas provengan de persona física o jurídica extranjera deberán someterse a la jurisdicción y tribunales nacionales para todas las incidencias que de modo directo o indirecto puedan surgir del contrato, con renuncia expresa a su jurisdicción.
-
-Ficha Artículo 121
 
 Artículo 122. Información y documentos a aportar. El oferente deberá aportar, mediante el sistema digital unificado, toda la documentación requerida por la Administración en el pliego de condiciones.
 
@@ -1536,8 +1299,6 @@ La Administración contratante verificará el estado de las obligaciones del ofe
 
 En caso de que el oferente no se encuentre inscrito ante la Caja Costarricense de Seguro Social (CCSS) y del objeto licitado se derive tal obligación, la Administración le solicitará justificación, la que, en caso de resultar insatisfactoria de acuerdo con los lineamientos establecidos por la CCSS, provocará la exclusión del concurso y la denuncia ante las autoridades correspondientes de cobro de esa institución.
 
-Ficha Artículo 122
-
 Artículo 123. Integridad de la oferta. El oferente está obligado a cotizar todo el objeto, salvo que se trate de líneas independientes entre sí, en cuyo caso podrá cotizar las de su interés, sin que sea necesario que el pliego de condiciones lo autorice. No se admitirá la cotización parcial de una línea.
 
 La sola presentación de la oferta, se entenderá como una manifestación inequívoca de la voluntad del oferente de contratar con pleno sometimiento al pliego de condiciones, disposiciones legales y reglamentarias vigentes. La sumisión operará de pleno derecho e implicará la incorporación dentro del contenido de la relación contractual de las normas constitucionales, de la Ley de General de Contratación Pública, este Reglamento y del ordenamiento jurídico en general.
@@ -1546,13 +1307,9 @@ La oferta estará compuesta por las partes y documentos que sean necesarios, de 
 
 El contratista estará obligado a cumplir con el objeto íntegro, sin cobrar ninguna suma adicional.
 
-Ficha Artículo 123
-
 Artículo 124. Entrega inmediata. Cuando un oferente ofrezca plazo de entrega inmediata se entenderá que corresponde al consignado en el pliego de condiciones o en su defecto a un día hábil, posterior a la entrega o notificación del pedido u orden de compra.
 
 Esta regla aplicará para efectos de elegibilidad y comparación de ofertas, así como para cómputo de plazos de entrega en fase de ejecución contractual.
-
-Ficha Artículo 124
 
 Artículo 125. Tipos de ofertas. Las ofertas presentadas en los procedimientos de contratación podrán ser las siguientes:
 
@@ -1564,13 +1321,9 @@ c) Ofertas en conjunto: En el pliego de condiciones la Administración podrá ha
 
 d) Ofertas en consorcio: Dos o más oferentes podrán participar presentando una oferta en consorcio, sin que ello implique crear una persona jurídica diferente, con el objetivo de cumplir y fortalecer los requisitos dispuestos por la Administración en el pliego de condiciones. Las obligaciones que asume cada uno de los miembros que conforman el consorcio, deberán quedar plasmados en el respectivo acuerdo consorcial. La responsabilidad derivada de la participación consorcial es solidaria. Para efecto de los procedimientos será suficiente que una sola de las empresas consorciadas haya sido invitada, para que el grupo pueda participar. Además de lo anterior, se podrá exigir en el pliego de condiciones, los requisitos de capacidad y solvencia técnica y financiera para cada uno de los miembros del consorcio, sin perjuicio de que para cumplir ciertos requisitos se admita la sumatoria de elementos. Para esto se deberá indicar con toda precisión cuáles requisitos deben ser cumplidos por todos y cada uno de los integrantes y cuáles por el consorcio.
 
-Ficha Artículo 125
-
 Artículo 126. Participación única en cada procedimiento de contratación. Una persona física o jurídica únicamente podrá figurar para un mismo concurso en una única oferta ya sea como subcontratista, oferente individual o participar de forma conjunta o consorciada. La condición anterior también resultará aplicable a las personas físicas o jurídicas que conformen un mismo grupo de interés económico en los términos establecidos en el artículo 49 de la Ley General de Contratación Pública.
 
 Lo anterior a excepción de lo establecido en el artículo 133 de este Reglamento.
-
-Ficha Artículo 126
 
 Artículo 127. Experiencia en consorcios. En proyectos de cierto volumen o en los cuales resulte importante valorar experiencia, la Administración deberá señalar en el pliego de condiciones las reglas conforme las cuales evaluará la experiencia obtenida en proyectos en los que se haya participado bajo la forma consorciada, a fin de evitar que por una escasa participación se pretenda derivar experiencia por todo el proyecto.
 
@@ -1580,13 +1333,9 @@ En el caso de que el pliego de condiciones sea omiso, la oferta consorcial deber
 
 Si en la oferta no se identifican los integrantes del consorcio que cumplen esas condiciones, la oferta no podrá ser elegible.
 
-Ficha Artículo 127
-
 Artículo 128. Responsabilidad en consorcios. Los integrantes del consorcio responderán frente a la Administración de manera solidaria, como si fuesen una única contraparte. En caso de adjudicación, la formalización contractual será firmada digitalmente por todos los consorciados, salvo que se haya conferido poder suficiente a determinada persona, sin perjuicio de que también comparezca una sociedad constituida al efecto, cuando ello haya sido requerido en el pliego de condiciones o las partes así lo hayan solicitado en su oferta.
 
 En aquellos casos en que se constituya una sociedad anónima esta responderá de manera solidaria, junto con los integrantes del consorcio, frente a la Administración contratante.
-
-Ficha Artículo 128
 
 Artículo 129. Acuerdo consorcial. El acuerdo consorcial es un documento privado, que no requiere fecha cierta, ni otras formalidades, a menos que la Administración así lo haya previsto en el pliego de condiciones.
 
@@ -1602,23 +1351,15 @@ d) Plazo del acuerdo que deberá cubrir la totalidad del plazo contractual.
 
 Deberá aportarse en el sistema digital unificado el documento original en caso de haberse suscrito de manera digital, o copia certificada del acuerdo si éste fue emitido de forma física.
 
-Ficha Artículo 129
-
 Artículo 130. Constitución de sociedad en consorcios. En los casos en los cuales los consorciados constituyan una sociedad anónima, su objeto social debe estar referido únicamente al bien, obra o servicio establecido por la Administración en el pliego de condiciones. El plazo social será similar al de ejecución contractual y deberá tener un capital social conforme lo solicite la Administración.
 
 Durante la etapa de ejecución contractual, los adjudicatarios deberán mantener el cincuenta y uno por ciento (51%) de las acciones de esa sociedad, pudiendo disponerse libremente del restante cuarenta y nueve por cierto (49%). Esto sin perjuicio de que en el pliego de condiciones se hayan estipulado reglas sobre la composición accionaria, en función de las obligaciones asumidas por cada uno de los consorciados. Para tales efectos, el contratista deberá informar a la Administración sobre los cambios que se realicen en la distribución de acciones de la sociedad.
 
 La formalización contractual será suscrita por el representante legal de la sociedad anónima que se conforme para tales efectos.
 
-Ficha Artículo 130
-
 Artículo 131. Cambios de participación en el consorcio. La Administración podrá fijar en el pliego de condiciones, reglas para que los encargados de ejecutar ciertas partes del objeto mantengan determinada participación en el acuerdo consorcial o en el capital social de la persona jurídica, en los casos en que se llegue a constituir, cuando así se solicite, por el tiempo que se estime necesario.
 
-Ficha Artículo 131
-
 Artículo 132. Conformación de los grupos de interés económico. Un grupo de interés económico estará conformado por el conjunto de dos o más personas que mantengan cualquiera de las relaciones financieras, administrativas o patrimoniales significativas entre sí, conforme a los Lineamientos Generales para la aplicación del Reglamento para la calificación de deudores emitidos por la Superintendencia General de Entidades Financieras (SUGEF).
-
-Ficha Artículo 132
 
 Artículo 133. Subcontratación. La subcontratación es el contrato por el que el contratista encomienda a un tercero la realización de una parte esencial del objeto del contrato, con organización de medios y riesgos a cargo del subcontratista. La subcontratación no relevará al contratista de su responsabilidad integral por el objeto contratado, debiendo éste también cumplir con todas las obligaciones contraídas con los subcontratistas.
 
@@ -1640,8 +1381,6 @@ La Administración podrá asignar un puntaje razonable adicional, conforme a lo 
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
 
-Ficha Artículo 133
-
 Artículo 134. Subsanación y plazo de caducidad para efectuarla. Podrán ser susceptibles de subsanación los defectos que contenga una oferta, siempre y cuando con ello no se otorgue una ventaja indebida.
 
 La Administración realizará el análisis legal, técnico y financiero de las ofertas recibidas, conforme al principio de calificación única. Dentro del plazo establecido en el cronograma de la contratación, emitirá una única prevención que consolidará todos los aspectos a subsanar o a aclarar por parte de los oferentes. Excepcionalmente, cuando resulte imprescindible para el adecuado análisis de las ofertas, la Administración podrá realizar una segunda solicitud de subsanación o aclaración.
@@ -1659,8 +1398,6 @@ La Administración procederá, mediante acto motivado, a descalificar la oferta 
 No será parte de la subsanación aquellas omisiones relacionadas con aspectos exigidos en el pliego de condiciones, que no requieren una manifestación expresa del oferente para conocer los alcances puntuales de su propuesta, en cuyo caso se entenderá que acepta las condiciones.
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
-
-Ficha Artículo 134
 
 Artículo 135. Aspectos subsanables. Serán subsanables, entre otros elementos, los siguientes:
 
@@ -1684,17 +1421,11 @@ g) La omisión del desglose de la estructura de precios, siempre que no implique
 
 h) Cualquier otro requisito de admisibilidad que sea requerido por la Administración, para la aclaración de algunos aspectos de la propuesta siempre que no confiera una ventaja indebida frente a los restantes oferentes, tal como, la información técnica o complementaria y los manuales de uso expedidos por el fabricante cuando así haya sido permitido en el pliego de condiciones.
 
-Ficha Artículo 135
-
 Artículo 136. Estudio de admisibilidad de ofertas. Para facilitar el estudio de admisibilidad de ofertas, el órgano competente confeccionará un cuadro comparativo de análisis de las ofertas según su ajuste a las especificaciones del pliego de condiciones y de sus características más importantes, el cual formará parte del expediente electrónico respectivo.
 
 Si una oferta presenta dos manifestaciones contradictorias entre sí, se considerará la que se ajuste al pliego de condiciones; en el caso de que ambas manifestaciones se ajusten al pliego, se escogerá en la evaluación la que favorezca más a la Administración.
 
-Ficha Artículo 136
-
 Artículo 137. Ofertas elegibles y su calificación. Al sistema de calificación solamente podrán ser sometidas aquellas ofertas que sean elegibles. De éstas, la que obtenga la mayor calificación será considerada la más conveniente, salvo que la Administración decida incluir un sistema de valoración en dos fases, en cuyo caso, se estará a las reglas específicas de ese concurso.
-
-Ficha Artículo 137
 
 SECCIÓN IV
 
@@ -1705,8 +1436,6 @@ CONTRATACIÓN.
 Artículo 138. Detección de prácticas colusorias o cualquier otro tipo de práctica anticompetitiva en los procedimientos de contratación. Conforme a lo previsto en el artículo 14, inciso h) de la Ley General de Contratación Pública, las Proveedurías Institucionales de las entidades promoventes, así como cualquier otra dependencia, tendrán la obligación de informar a la Comisión para Promover la Competencia cuando se tenga indicios de actuaciones ligadas a posibles acuerdos colusorios y a cualquier otro tipo de práctica monopolística o anti-competitiva en procedimientos de contratación pública, con el fin de que proceda de conformidad con la Ley de Promoción de la Competencia y Defensa Efectiva del Consumidor, Ley Nº7472, de 20 de diciembre de 1994, y a la Ley de Fortalecimiento de las Autoridades de Competencias de Costa Rica, Ley Nº 9736 de 5 de setiembre de 2019. Asimismo dicha información deberá ser remitida a la Dirección de Contratación Pública.
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
-
-Ficha Artículo 138
 
 SECCIÓN V
 
@@ -1730,8 +1459,6 @@ Cuando se haya invocado motivos de interés público para declarar desierto el c
 
 La declaratoria de infructuoso, de desierto o readjudicación deberá ser dictada por el mismo funcionario u órgano que tiene la competencia para adjudicar, según lo establecido en la Ley General de Contratación Pública.
 
-Ficha Artículo 139
-
 Artículo 140. Plazo para dictar el acto final y caducidad del procedimiento. El plazo para dictar el acto final será el dispuesto en el pliego de condiciones, que en ningún caso podrá ser superior al doble del plazo fijado en el pliego de condiciones para la recepción de ofertas. Únicamente en casos excepcionales y mediante acto debidamente motivado, se podrá prorrogar hasta por un plazo igual al de recibir ofertas, acto que será suscrito por el superior jerárquico o por quien éste delegue para dictar el acto final e incorporarlo en el sistema digital unificado.
 
 (Así reformado el párrafo anterior por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
@@ -1742,17 +1469,11 @@ Si transcurrido el plazo de seis meses contados a partir del vencimiento del pla
 
 Si la Administración revoca el acto originalmente dictado por acto motivado, dispondrá de un plazo máximo de diez días hábiles en la licitación mayor, máximo de cinco días hábiles en la licitación menor y máximo de tres días hábiles en la licitación reducida, para dictar un nuevo acto, conforme a lo previsto en el artículo 51 de la Ley General de Contratación Pública. Dichos plazos serán prorrogables de manera excepcional y por acto motivado, por otro tanto.
 
-Ficha Artículo 140
-
 Artículo 141. Plazo para comunicar el acto final. El acto final será comunicado por medio del sistema digital unificado al día hábil siguiente a su dictado.
 
 Cuando por caso fortuito o fuerza mayor debidamente acreditados, no sea posible realizarlo mediante el sistema digital unificado, la Administración deberá notificar el acto final a los participantes por el medio electrónico señalado en ese mismo plazo.
 
-Ficha Artículo 141
-
 Artículo 142. Revocación del acto no firme. Tomado el acuerdo de adjudicación o el que declara desierto o infructuoso el concurso, este podrá ser revocado por la Administración interesada, por razones de oportunidad o legalidad, mediante resolución debidamente motivada aún y cuando sea recurrido. Dicha revocación solo procederá, de previo al vencimiento del plazo otorgado para la audiencia inicial en los términos establecidos en artículo 51 de la Ley General de Contratación Pública. Contra la resolución de revocación del acto no firme no cabrá recurso alguno y se procederá con el archivo de la gestión.
-
-Ficha Artículo 142
 
 CAPÍTULO II
 
@@ -1764,17 +1485,11 @@ LICITACIÓN MAYOR
 
 Artículo 143. Definición. La licitación mayor es el procedimiento ordinario de carácter concursal, que procede, entre otros, en los casos previstos en el artículo 36 de la Ley General de Contratación Pública, en atención al monto del presupuesto ordinario para respaldar las necesidades de bienes, servicios obra pública de la Administración promovente del concurso y a la estimación del negocio. Esta licitación será aplicable en los supuestos establecidos en el artículo 55 de la Ley General de Contratación Pública y deberá cumplirse con los requisitos mínimos establecidos en el artículo 56 de la misma Ley.
 
-Ficha Artículo 143
-
 Artículo 144. Invitación. La invitación a participar, las modificaciones al pliego de condiciones y el acto de adjudicación, así como los demás actos propios del procedimiento, se publicarán en el sistema digital unificado.
-
-Ficha Artículo 144
 
 Artículo 145. Recepción de ofertas. Para la recepción de ofertas deberá cumplirse con un plazo mínimo de quince días hábiles, contado desde el día siguiente de la comunicación del aviso a participar en el sistema digital unificado, hasta el día y hora de la apertura de las ofertas, inclusive.
 
 Antes de recibir ofertas, por razones de interés público o institucional, la Administración podrá dejar sin efecto el respectivo concurso dejando constancia de su decisión mediante una resolución motivada.
-
-Ficha Artículo 145
 
 Artículo 146. Licitación mayor con financiamiento. En caso de una licitación mayor con financiamiento se deberá acreditar la disponibilidad de contenido presupuestario, así como la estimación de recursos suficientes y posibles de ejecutar, para enfrentar los pagos por amortización e intereses durante todo el periodo del contrato, así como los gastos conexos derivados del financiamiento, respetando el bloque de legalidad aplicable.
 
@@ -1784,8 +1499,6 @@ Cuando la Administración requiera utilizar la figura de licitación con financi
 
 (\*)(Así modificada su denominación por el artículo 4 de la Ley de Fortalecimiento de la gestión de la deuda pública, N° 10524 del 18 de setiembre del 2024. Anteriormente indicaba "Dirección de Crédito Público")
 
-Ficha Artículo 146
-
 Artículo 147. Aspectos a considerar para la Licitación mayor con financiamiento. Cuando el financiamiento provenga del oferente o de un tercero, a través suyo, la información contendrá al menos los siguientes aspectos, monto total, plazo, tasa de interés, gastos de formalización y comisiones. En estos casos, la Administración deberá prever en el pliego de condiciones, las reglas para comparar no sólo la tasa de interés y forma de pago del préstamo, sino también los costos asociados de éste, tales como, gastos de formalización y comisiones.
 
 La falta de información de las condiciones del eventual préstamo no será subsanable, a menos que los valores estén consignados en la oferta y la documentación posterior se presente a título probatorio.
@@ -1793,8 +1506,6 @@ La falta de información de las condiciones del eventual préstamo no será subs
 La propuesta de financiamiento proveniente de un tercero, deberá estar suscrita por persona autorizada para ello y contar con una vigencia similar a la estipulada para la oferta.
 
 En caso de que la Administración adjudique la propuesta con financiamiento de un tercero, ello se indicará en el acuerdo de adjudicación, sin perjuicio de la formalización posterior del crédito.
-
-Ficha Artículo 147
 
 Artículo 148. Licitación mayor con precalificación. La Administración con ocasión de una licitación mayor, se encuentra facultada a promover una etapa de precalificación para seleccionar de manera previa a los participantes para uno o varios concursos según convenga el interés público e institucional, para lo cual deberá cursar invitación en el sistema digital unificado e indicar en el pliego de condiciones los factores de admisibilidad y/o evaluación que considerará para dicha selección previa, conforme a las siguientes modalidades:
 
@@ -1812,8 +1523,6 @@ Firme el acto de selección de ofertas precalificadas, la Administración podrá
 
 En la fase recursiva que pueda corresponder aplicará el principio de preclusión procesal, por lo que en la segunda fase no podrán alegarse aspectos en contra de las empresas precalificadas que ya eran conocidos por las partes desde la etapa inicial.
 
-Ficha Artículo 148
-
 Artículo 149. Precalificación abierta. Como parte de una licitación mayor, la Administración podrá emplear modalidades de precalificación abierta, en el tanto todos los precalificados puedan prestar el bien o servicio de manera simultánea, cuando ello resulte más conveniente al interés público, por las particularidades que presenta el objeto contractual. La posibilidad de precalificarse en estos casos deberá permanecer abierta incluso durante toda la vigencia de la precalificación. Para ello, la Administración deberá regular en el pliego de condiciones la forma en que operará la precalificación, indicando:
 
 a) Si el número máximo de oferentes precalificados es ilimitado o bien, si existe un número máximo de oferentes precalificados a ser completado. En este último supuesto, al alcanzarse la cantidad determinada se cierran las posibilidades de precalificar oferentes adicionales. Para conformar la precalificación la Administración deberá cursar invitación a todos los proveedores inscritos en el Registro electrónico oficial de Proveedores que ofrecen el objeto contractual requerido, procurando que las listas de precalificados sean integradas por al menos tres oferentes, salvo que se acredite que no existe en el mercado la posibilidad de alcanzar el mínimo aquí establecido.
@@ -1823,8 +1532,6 @@ b) La forma en la que operará la prestación simultánea del bien o servicio y 
 c) La posibilidad de introducir requisitos adicionales durante la vigencia de la precalificación, a ser cumplidos por todos los oferentes que pretendan permanecer precalificados. En este supuesto, se deberá de comunicar con suficiente antelación el requerimiento, respetando los plazos que exige el tipo de procedimiento. La introducción de requisitos adicionales será susceptible de ser impugnada por los oferentes mediante el recurso de objeción.
 
 Esta modalidad se podrá emplear para la contratación de profesionales, en tanto exista regulación de tarifas establecidas en aranceles para el pago de los honorarios.
-
-Ficha Artículo 149
 
 Artículo 150. Licitación mayor por etapas. En los casos de seguridades calificadas, cuando mediante acto motivado se acredite que no resulta conveniente revelar las especificaciones técnicas del objeto contractual, se podrá realizar una licitación mayor en dos fases.
 
@@ -1838,8 +1545,6 @@ La Administración adjudicará la licitación en favor de quien cotice el menor 
 
 El acto final de esta segunda fase tendrá recurso de apelación según lo estipulado en el artículo 97 y siguientes de la Ley General de Contratación Pública.
 
-Ficha Artículo 150
-
 SECCIÓN II
 
 LICITACIÓN MENOR
@@ -1852,15 +1557,11 @@ Cuando lo Caja Costarricense de Seguro Social utilice la licitación menor bajo 
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 44745 del 9 de octubre del 2024)
 
-Ficha Artículo 151
-
 Artículo 152. Invitación. La invitación a participar, las modificaciones al pliego de condiciones y el acto de adjudicación, así como los demás actos propios del procedimiento, se publicarán en el sistema digital unificado.
 
 La Administración invitará mediante el sistema digital unificado a todos los proveedores del bien o servicio inscritos en el Registro Electrónico Oficial de Proveedores de ese sistema.
 
 En los casos en los que se utilice un registro precalificado, podrán participar solamente las empresas que cumplan esa precalificación, antes de la apertura de las ofertas, independientemente de si han sido invitadas o no.
-
-Ficha Artículo 152
 
 Artículo 153. Recepción de ofertas. Para la recepción de ofertas el plazo será entre cinco y quince días hábiles según la complejidad del objeto contractual, contabilizados a partir del día siguiente a la comunicación de la invitación a participar y hasta el día fijado para la apertura de ofertas, inclusive.
 
@@ -1868,15 +1569,11 @@ Antes de recibir ofertas, por razones de interés público o institucional, la A
 
 Si la contratación está cubierta por el monto del umbral de un instrumento comercial internacional vigente, deberá respetarse lo dispuesto en cuanto al plazo mínimo, según lo previsto en el artículo 9 de la Ley General de Contratación Pública.
 
-Ficha Artículo 153
-
 SECCIÓN III
 
 LICITACIÓN REDUCIDA
 
 Artículo 154. Definición. La licitación reducida es el procedimiento ordinario de carácter concursal, que procede en los supuestos previstos en el artículo 62 de la Ley General de Contratación Pública. En su tramitación se deberán cumplir con los requisitos previstos en el artículo 63 de la misma Ley.
-
-Ficha Artículo 154
 
 Artículo 155. Invitación. La invitación a participar, las modificaciones al pliego de condiciones y el acto de adjudicación, así como los demás actos propios del procedimiento, se comunicarán en el sistema digital unificado.
 
@@ -1884,15 +1581,11 @@ La Administración invitará mediante el sistema digital unificado a un mínimo 
 
 En los casos en los que se utilice un registro precalificado, podrán participar solamente las empresas que cumplan esa precalificación, antes de la apertura de las ofertas, independientemente de si han sido invitadas o no.
 
-Ficha Artículo 155
-
 Artículo 156. Recepción de ofertas. Para la recepción de ofertas el plazo será entre tres y cinco días hábiles según la complejidad del objeto contractual, contabilizados a partir del día siguiente a la comunicación de la invitación a participar y hasta el día fijado para la apertura de ofertas, inclusive.
 
 Antes de recibir ofertas, por razones de interés público o institucional, la Administración, podrá dejar sin efecto el respectivo concurso dejando constancia de su decisión mediante una resolución motivada.
 
 Si la contratación está cubierta por el monto del umbral de un instrumento comercial internacional vigente, deberá respetarse lo dispuesto en cuanto al plazo mínimo según lo previsto en el artículo 9 de la Ley General de Contratación Pública.
-
-Ficha Artículo 156
 
 CAPÍTULO III
 
@@ -1903,8 +1596,6 @@ SECCIÓN I
 REMATE
 
 Artículo 157. Definición. El remate es el procedimiento extraordinario de carácter concursal, al que puede recurrir la Administración para vender o arrendar bienes muebles o inmuebles, cuando ello se constituya en el medio más apropiado para satisfacer el interés público, conforme a lo previsto en el artículo 64 de la Ley General de Contratación Pública.
-
-Ficha Artículo 157
 
 Artículo 158. Aspectos a considerar en el remate. El remate se deberá tramitar de la siguiente manera:
 
@@ -1930,11 +1621,7 @@ i) Cuando se trate de bienes sujetos a inscripción en el Registro Nacional y ca
 
 Contra este tipo de procedimiento no cabe recurso alguno.
 
-Ficha Artículo 158
-
 Artículo 159. Enajenación de bienes inmuebles. Los bienes inmuebles afectos a un fin público, no podrán ser enajenados por la Administración; pero podrán ser desafectados por el mismo procedimiento utilizado para establecer su destino actual. Si no consta el procedimiento utilizado para la afectación, se requerirá la autorización expresa de la Asamblea Legislativa para su desafectación.
-
-Ficha Artículo 159
 
 SECCIÓN II
 
@@ -1944,15 +1631,11 @@ Artículo 160. Subasta Inversa electrónica. Es un procedimiento extraordinario 
 
 Conforme al artículo 65 de la Ley General de Contratación Pública, este procedimiento podrá utilizarse formulando los requerimientos según la demanda que la Administración requiera.
 
-Ficha Artículo 160
-
 Artículo 161. Registro precalificado de la subasta inversa electrónica. Para utilizar el procedimiento extraordinario de subasta inversa electrónica, la Administración deberá conformar un registro precalificado de proveedores de servicios, bienes y tecnologías cuya fabricación responda a reglas estandarizadas y sean de uso común.
 
 La Dirección de Contratación Pública o la institución con la que se coordine por conveniencia en razón del objeto, podrá conformar un registro precalificado de la subasta inversa electrónica a efectos de aprovechar economías de escala cuando esto sea conveniente para el interés público.
 
 El registro estará conformado por aquellos potenciales oferentes que reúnan los requisitos técnicos, legales, financieros y de experiencia que fije la Administración. La incorporación al registro se mantendrá abierta a fin de que en cualquier momento puedan ingresar potenciales oferentes siempre que cumplan con los requisitos de preselección.
-
-Ficha Artículo 161
 
 Artículo 162. Trámite de subasta inversa electrónica. La Administración cursará la invitación a participar a través del sistema digital unificado, sin perjuicio de invitación facultativa en un diario de circulación nacional y elaborará un pliego de condiciones detallando los bienes o servicios que se pretenden adquirir, su naturaleza y principales características, hora y fecha de la subasta, precio base de la subasta, cantidad de pujas permitidas, plazo de entrega de los bienes y servicios, monto de la garantía de cumplimiento y demás información que se estime pertinente.
 
@@ -1971,8 +1654,6 @@ La subasta deberá realizarse dentro de los cinco días hábiles siguientes a la
 Dentro de los cinco días hábiles siguientes a la emisión del acto final, podrá interponerse recurso de revocatoria ante la Administración, debiendo resolverse según las regulaciones del recurso de revocatoria establecido en el artículo 99 de la Ley General de Contratación Pública.
 
 De todo lo actuado, deberá dejarse constancia en el expediente electrónico de la contratación.
-
-Ficha Artículo 162
 
 Artículo 163. Acta electrónica de la subasta. En el acta de la subasta inversa electrónica deberá constar al menos los siguientes aspectos:
 
@@ -1998,15 +1679,9 @@ j) Cualquier otra información que se estime pertinente por parte de la Administ
 
 El acta deberá de constar en el expediente electrónico de la contratación, en el sistema digital unificado.
 
-Ficha Artículo 163
-
 Artículo 164. Cierre de la subasta. La Administración deberá establecer en la invitación a participar y habilitará en el sistema digital unificado, la fecha y hora concreta del cierre de la subasta.
 
-Ficha Artículo 164
-
 Artículo 165. Emisión del acto final, rendición de garantía de cumplimiento y recepción de bienes y servicios. La Administración, a través del funcionario competente según la estructura interna de cada institución, deberá emitir el acto final en un plazo máximo de diez días hábiles siguientes al cierre de la subasta en el sistema digital unificado. Una vez firme dicho acto, se requerirá al adjudicatario la rendición de la garantía de cumplimiento, para lo cual tendrá un plazo máximo de tres días hábiles. Si la garantía de cumplimiento se encuentra conforme, la Administración dictará la respectiva orden de inicio, debiendo el adjudicatario hacer la entrega del bien o el servicio subastado en el plazo establecido en el pliego de condiciones; de no cumplir con dicho plazo perderá la garantía de cumplimiento que será a favor de la Administración, pudiendo la Administración adjudicar a la segunda mejor opción en precio.
-
-Ficha Artículo 165
 
 CAPÍTULO IV
 
@@ -2036,8 +1711,6 @@ Estas contrataciones se tramitarán en et sistema digital unificado dentro del m
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 44745 del 9 de octubre de 2024)
 
-Ficha Artículo 166
-
 SECCIÓN II
 
 BIENES INMUEBLES
@@ -2059,8 +1732,6 @@ Para efectos de las mejoras que introduzca la Administración en el bien arrenda
 De no cumplir con lo indicado en los incisos anteriores, deberá promoverse el procedimiento ordinario que corresponda según su monto.
 
 La Administración podrá pactar la adquisición o el arrendamiento de inmuebles por construir o en proceso de construcción, cuando ello convenga a sus intereses institucionales o comerciales, cumpliendo en tal caso lo establecido en los requisitos anteriores.
-
-Ficha Artículo 167
 
 SECCIÓN III
 
@@ -2084,8 +1755,6 @@ En el caso del Instituto Nacional de Seguros (INS) y sus sociedades anónimas en
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 44745 del 9 de octubre de 2024)
 
-Ficha Artículo 168
-
 Artículo 169. Contratación abierta de servicios para instituciones y empresas en competencia. La contratación regulada en el artículo 69 de la Ley General de Contratación Pública, regirá únicamente para la contratación de servicios para atender necesidades esenciales para cumplir con la prestación última del servicio en competencia.
 
 Cada entidad en competencia deberá contar con un registro abierto de proveedores estableciéndose los requisitos que deben cumplir los interesados en formar parte de él y que aseguren la adecuada prestación del servicio y sin que se imponga ningún tipo de barrera de ingreso injustificada. Las bases para ingresar al registro deberán definir en forma clara la asignación de servicios, ya sea por rol, zona u otro parámetro, así como el pago, ya sea por comisión o según los aranceles establecidos por el Colegio respectivo, entre otros.
@@ -2093,8 +1762,6 @@ Cada entidad en competencia deberá contar con un registro abierto de proveedore
 Los requisitos generales deberán constar en el sistema digital unificado.
 
 Los oferentes deberán, en todo caso, estar inscritos en el Registro Electrónico Oficial de Proveedores del sistema digital unificado, conforme lo establece el artículo 32 de esteReglamento.
-
-Ficha Artículo 169
 
 Artículo 170. Contratación de tecnología para instituciones y empresas en competencia. Las instituciones y sus empresas o sociedades anónimas en competencia señaladas en el artículo 68 de la Ley General de Contratación Pública y cualquier otra institución en competencia que determine el legislador, podrán utilizar el procedimiento especial regulado en el artículo 68 de la Ley General de Contratación Público, cuando contraten, la adquisición, el mantenimiento y lo actualización o el arrendamiento de equipos tecnológicos para la informática, hardware y software y desarrollos de sistemas informáticos, siempre que estas contrataciones tengan relación directa o indirecta con la prestación de los servicios en competencia definidos así por la ley que rige a cada empresa o institución, con sujeción a tos siguientes términos:
 
@@ -2108,8 +1775,6 @@ En los contratos que se suscriban al amparo del artículo 70 de la Ley General d
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 44745 del 9 de octubre de 2024)
 
-Ficha Artículo 170
-
 TÍTULO III
 
 TIPOS Y MODALIDADES DE CONTRATO
@@ -2119,8 +1784,6 @@ CAPÍTULO I
 CONTRATO DE OBRA PÚBLICA
 
 Artículo 171. Generalidades. La contratación de obras públicas se hará mediante los procedimientos de licitación mayor, menor y reducida según corresponda a los umbrales establecidos en el artículo 36 de la Ley General de Contratación Pública.
-
-Ficha Artículo 171
 
 Artículo 172. Contratos de obra pública. El contrato de obra pública abarca la construcción integral de una obra nueva, así como la ampliación, la remodelación, la reparación, reconstrucción o los trabajos de conservación, rehabilitación y mantenimiento de una obra pública ya existente; todo lo anterior, en cumplimiento del interés público.
 
@@ -2156,21 +1819,15 @@ j) En caso de que un proyecto de obra pública nueva alcance el límite de la li
 
 k) Toda obra pública que se promueva deberá planificar su mantenimiento y operación, con el fin de contar con las condiciones y recursos que aseguren los beneficios a lo largo de su vida útil. Para ello, se deberá elaborar los planes de gestión y administración de activos respectivos.
 
-Ficha Artículo 172
-
 Artículo 173. Calificación del personal técnico del contratista. En el pliego de condiciones la Administración deberá indicar los requisitos de experiencia y calificación profesional mínimos y obligatorios que deberá reunir el personal profesional que el contratista destaque durante la ejecución del contrato.
 
 Tales requisitos deberán ser cumplidos por quien haya resultado adjudicatario, de modo que en la oferta únicamente se deberá indicar, a modo de referencia, un listado de posibles profesionales que reúnan los requisitos dichos y a quienes se contrataría si la oferta resultara adjudicada. Para ello, previo a emitirse la orden de inicio, el contratista deberá acreditar cuáles de los profesionales incluidos de la lista presentada en la oferta, se destacarán durante la ejecución del contrato. En ningún momento, el contratista podrá desmejorar los requisitos de los profesionales establecidos en el pliego de condiciones y en el contrato, bajo pena de incurrir en un incumplimiento grave. En caso de que el administrador del contrato, detecte personal profesional menos calificado, documentará la falta y ordenará su inmediata sustitución y aplicará la multa prevista para tal efecto. La sustitución se deberá hacer en el plazo máximo de los tres días hábiles siguientes al recibo de la orden.
-
-Ficha Artículo 173
 
 Artículo 174.Elección de la modalidad de cotización o de pago y tipo de contrato. La elección de la modalidad de cotización o de pago y el tipo de contrato que la Administración decida llevar a cabo estará en función de un acto motivado, que formará parte de la decisión inicial, el cual hará referencia a los estudios jurídicos, técnicos, financieros y de gestión, que sustentan dicha elección en función de la distribución de riesgos entre la Administración y el contratista, según la parte que mejor pueda administrarlos, controlarlos y mitigarlos, así como de la complejidad de la obra, de la satisfacción efectiva del interés público, de las consideraciones de valor por el dinero y de las disposiciones que se establecen en los artículos 71, 72 y 73 de la Ley General de Contratación Pública y en este capítulo.
 
 La Administración deberá entregar la información suficiente y pertinente que el oferente requiera para preparar su propuesta, información que estará asociada a la modalidad de pago y tipo de contrato elegido por la Administración.
 
 La Administración contratante podrá promover el uso de modelos estándar de contratos, con las mejores prácticas reconocidas internacionalmente en gestión de contratos, con el fin de incrementar la calidad y productividad de las obras, que sean acordes a la modalidad de cotización o de pago y tipos de contratos de obra pública que se encuentran regulados en este Reglamento.
-
-Ficha Artículo 174
 
 Artículo 175. Modalidad de cotización o de pago en el contrato de obra pública. La modalidad de cotización o de pago empleada en el contrato de obra pública deberá estar debidamente motivada desde la decisión inicial e incorporada en el pliego de condiciones, debiendo guardar correspondencia con la distribución de riesgos asumida por la Administración contratante y el contratista, conforme al tipo de contrato regulado en el artículo 176 de este Reglamento todo lo cual deberá sustentarse en el análisis jurídico, técnico, financiero y de gestión que deberá estar acreditado en el expediente de la contratación. Entre dichas modalidades se podrán emplear:
 
@@ -2181,8 +1838,6 @@ a) La cotización a precios unitarios. Implica una menor asignación de riesgos 
 b) La cotización a suma alzada. Implica una mayor asignación de riesgos al contratista, dado que el precio es fijo para la realización de toda la obra durante el plazo pactado, independientemente de las cantidades finalmente ejecutadas, los costos y plazos reales. La obligación de la Administración es cancelar el precio global convenido a cambio de la entrega de la obra conforme a lo dispuesto en el pliego de condiciones y el contrato. El contratista deberá presentar los desgloses por entregables principales, tanto en los aspectos técnicos como económicos, con el propósito de efectuar el pago en función de los avances, hitos, entregables terminados o de estándares o niveles de servicio pactados. Lo anterior, en razón de que el contrato de obra pública desarrollado bajo esta modalidad, no será susceptible de modificación de monto y/o plazo, en el tanto la Administración cumpla las condiciones del pliego y el contrato. Por su propia naturaleza, el precio debe incluir las variaciones de los costos directos e indirectos durante el plazo contractual de la obra.
 
 c) La cotización costo más porcentaje (o por administración). Esta modalidad debe ser de uso excepcional por parte de la Administración y deberá sustentarse siempre en un análisis de costo beneficio mediante el cual quede demostrado fehacientemente la necesidad de acudir a ella en lugar de otras modalidades. Además, debe quedar acreditada la valoración y justificación por parte de la Administración, de que la aplicación de esta excepción representa una optimización en el uso de los recursos, de forma que no suponga un incumplimiento a su deber de planificar ni a su responsabilidad de definir el alcance del objeto contractual. La Administración pagará al contratista sobre la base de un porcentaje del costo directo de la obra, comprobado mediante facturas, planilla pagada y el porcentaje pactado. Esta modalidad de pago no podrá ser empleada en contratos de obra nueva, ni en el contrato en el que sea posible la determinación del objeto contractual.
-
-Ficha Artículo 175
 
 Artículo 176. Tipos de contrato de obra pública. Para cualquier tipo de contratación se requiere determinar la viabilidad del proyecto en atención a la necesidad pública que le dio origen, de acuerdo con los estudios formulación y evaluación de la fase de Pre-inversión que le permitan definir el alcance de la obra a ser contratada y los resultados esperados al recibir el proyecto, entre otros.
 
@@ -2206,13 +1861,9 @@ f) De igual manera se podrán ejecutar contratos de la combinación de los tipos
 
 Conforme a lo previsto en el artículo 71 de la Ley General de Contratación Pública, los tipos de contratos y modalidades de cotización o de pago de obra pública son los regulados en el presente artículo.
 
-Ficha Artículo 176
-
 Artículo 177. Separación por unidades funcionales. Cuando resulte más conveniente y sea técnicamente procedente, la Administración podrá licitar segmentos de obra pública de punto a punto que se constituyan como unidades funcionales o soluciones que puedan funcionar por sí mismas.
 
 A fin de propiciar la mayor participación de empresas, la Administración determinará en sus proyectos de obra pública la posibilidad de adjudicar por unidades funcionales.
-
-Ficha Artículo 177
 
 Artículo 178. Ciclo de vida del proyecto. El ciclo de vida constituye el proceso de maduración y desarrollo que experimenta todo proyecto de inversión, desde la expresión de una idea hasta la operación del proyecto, en la cual se materializan los beneficios esperados. El ciclo de vida de un proyecto de inversión está conformado por tres fases las cuales son Pre-Inversión, Inversión Y Post-Inversión (operación y mantenimiento).
 
@@ -2220,29 +1871,21 @@ Cuando se trate de un proyecto de obra pública nueva se requiere determinar la 
 
 (\*)(Así modificada su denominación por el artículo 4 de la Ley de Fortalecimiento de la gestión de la deuda pública, N° 10524 del 18 de setiembre del 2024. Anteriormente indicaba "Dirección de Crédito Público")
 
-Ficha Artículo 178
-
 Artículo 179. Aprobación de etapas de la fase de Pre-inversión. En la fase de Preinversión se determinará la viabilidad del proyecto. Para ello, la Administración deberá designar el responsable de la formulación y evaluación del proyecto, a fin de garantizar que cumpla con las etapas y estudios de la fase de Pre-inversión.
 
 Únicamente se podrán asignar fondos públicos e iniciar la fase de inversión, de aquellos proyectos de obra pública que hayan concluido su fase de Pre- inversión, demuestren su viabilidad y cuenten con la decisión del jerarca o quien éste delegue para iniciar dicha fase. No podrá acordarse la decisión inicial, sino se cuenta en el expediente del proyecto con las aprobaciones del responsable designado del cumplimiento de las etapas y estudios de la fase de Pre-inversión y planificación del proyecto, que acredite que dicha fase y planificación fue realizada de forma completa y satisfactoria.
 
 En el caso de que la inscripción en el Banco de Proyectos de Inversión Pública (BPIP) o la declaratoria de viabilidad dada por MIDEPLAN no resulte aplicable a alguna Administración por disposición de ley, deberán sujetarse a lo dispuesto en la ley especial, así como en la normativa interna y observar las buenas prácticas en formulación y evaluación de proyectos.
 
-Ficha Artículo 179
-
 Artículo 180. Aplicación de buenas prácticas en gestión de proyectos. El contratista a cargo de la ejecución del proyecto de obra pública, así como quienes ejecuten su fiscalización y control, deberán usar y aplicar las buenas prácticas en gestión de proyectos reconocidas internacionalmente, la cual se tendrá como una cláusula incorporada en el pliego de condiciones y en los respectivos contratos, donde deberá indicarse expresamente cuáles buenas prácticas serán exigibles. Lo anterior, con el fin de garantizar la eficacia y la eficiencia en la gestión de la obra pública.
 
 La aplicación de buenas prácticas en gestión de proyectos en contratos de obra pública, tendrá como fin gestionar y controlar el alcance, el cronograma, el costo, la calidad, los recursos, los cambios, las comunicaciones, los riesgos, las adquisiciones, los reclamos, las partes interesadas, la seguridad y la salud ocupacional, el ambiente, los resultados, entre otras, las cuales deberán ser definidas en un plan para la dirección de proyecto, considerando para ello las condiciones particulares de cada proyecto, la inversión, los riesgos y el valor público comprometido.
-
-Ficha Artículo 180
 
 Artículo 181. Expropiaciones y Unidades Funcionales de proyectos de obra pública. De requerirse expropiaciones para la realización de un proyecto de obra pública, la Administración deberá contar con la disponibilidad física de los terrenos de previo a emitir la orden de inicio de la ejecución del proyecto. En caso de contrataciones de tipo diseño y construcción y llave en mano, se deberá incluir en el pliego de condiciones el tiempo de gestión de expropiaciones.
 
 Cuando se trate de proyectos de obra pública se deberá coordinar el tiempo de gestión de expropiaciones con los departamentos competentes para sustentar dicho plazo.
 
 En casos excepcionales, cuando el proyecto pueda realizarse por unidades funcionales, según lo previsto en la decisión inicial, se podrá dar la orden de inicio de la ejecución del proyecto sin contar con la totalidad de las expropiaciones y para ello la Administración deberá contar con un plan de adquisición que considere y no afecte la ruta crítica del proyecto que, en ningún caso, deberá impactar negativamente el avance de la obra, ni el programa de trabajo del contratista y así deberá advertirlo en el pliego de condiciones.
-
-Ficha Artículo 181
 
 Artículo 182. Reubicación de servicios y trámites. La Administración deberá determinar, de forma razonada, cómo atender la reubicación de los servicios, de conformidad con las coordinaciones que oportunamente deberá realizar la Administración licitante con los prestadores de los servicios. En caso de que se decida que la reubicación del servicio esté a cargo del contratista y supervisada por la institución prestadora del servicio, así se establecerá en la decisión inicial y en el pliego de condiciones.
 
@@ -2254,15 +1897,11 @@ Las instituciones prestadoras de servicios públicos darán prioridad a las reub
 
 Cuando la entidad prestadora del servicio no atienda la solicitud en un plazo de diez días hábiles a partir de su presentación, la Administración o, en su caso, el contratista, elevará la gestión de queja al jerarca administrativo, de conformidad con lo que se establece en la Ley General de la Administración Pública, a fin de que se ordene cumplir con lo establecido en el artículo 73 de la Ley General de Contratación Pública.
 
-Ficha Artículo 182
-
 Artículo 183. Obtención de permisos. La Administración establecerá en el pliego de condiciones, los permisos que deberán ser gestionados con la debida diligencia por aquella parte que mejor pueda administrarlos, controlarlos y mitigarlos. Para tal fin, se deberá realizar de forma oportuna y coordinada, antes de dar la orden de inicio de la construcción de la obra, todos los trámites necesarios, con el propósito de mitigar los riesgos e impactosnegativos durante la ejecución del contrato.
 
 La Administración podrá solicitar al contratista la gestión del trámite de obtención de permisos que impacten la ejecución del contrato. En este caso, la Administración deberá suministrarle al contratista la información pertinente, según se establezca en el pliego de condiciones.
 
 Las municipalidades y demás instituciones competentes darán trámite preferencial y prioritario a la tramitación de esos permisos. En caso de que no se atienda la solicitud por parte de las instituciones competentes en un plazo de diez días hábiles a partir de su presentación, la Administración o el contratista, según el caso, elevará la gestión de queja al jerarca administrativo a fin de que éste ordene cumplir con lo establecido en el artículo 73 de la Ley General de Contratación Pública.
-
-Ficha Artículo 183
 
 Artículo 184. Modificación unilateral ordinaria del contrato de obra pública. La Administración podrá modificar unilateralmente sus contratos de obra pública para adaptar la prestación objeto del contrato, siempre que con ello se logre conseguir una mejor satisfacción del interés público, ya sea aumentando o disminuyendo sin superar el veinte por ciento (20%) del monto y del plazo del contrato original. Dicho porcentaje no podrá ser superado en condiciones normales bajo ningún concepto.
 
@@ -2284,8 +1923,6 @@ g) No podrán ser incrementados aspectos que cambien sustancialmente el objeto n
 
 h) En caso de modificación contractual la Administración deberá revisar el monto de la garantía de cumplimiento a efecto de disponer al contratista el ajuste correspondiente.
 
-Ficha Artículo 184
-
 Artículo 185. Modificación excepcional de contratos de obra pública. Los contratos de obra pública podrán ser modificados excepcionalmente, hasta en un cincuenta por ciento (50%) en cuanto monto y plazo del contrato original, sujeto a las siguientes condiciones:
 
 a) La modificación excepcional de hasta un máximo del cincuenta por ciento (50%), en cuanto monto y plazo del contrato original constituye el tope máximo de modificación contractual prevista en el artículo 101 de la Ley General de Contratación Pública, de modo que dicho porcentaje incluye el veinte por ciento (20%) de modificación unilateral ordinario previsto en el artículo anterior.
@@ -2299,8 +1936,6 @@ d) En el caso de que se califiquen de excepcionales circunstancias que técnicam
 e) La modificación excepcional en el caso del contrato de obra pública deberá ser autorizada, previamente, por el máximo jerarca. Dicha autorización no podrá ser delegada conforme con lo dispuesto en el artículo 101 de la Ley General de Contratación Pública.
 
 f) En lo pertinente, serán aplicadas las disposiciones del artículo anterior.
-
-Ficha Artículo 185
 
 Artículo 186. Fiscalización y control de la obra pública. La Administración fiscalizará todo el proceso de ejecución de la obra, según corresponda al tipo de contratación. Para ello deberá disponer del recurso humano calificado, propio o contratado ad hoc, que asegure la calidad del diseño y la obra, la correcta ejecución del objeto contractual y la observancia de buenas prácticas en gestión de proyectos.
 
@@ -2326,15 +1961,11 @@ En licitaciones mayores de obra pública, de conformidad con lo previsto en el a
 
 Cuando se contraten servicios de consultoría en proyectos de obra que hayan sido declarados de interés público y se encuentren inscritos en el Banco de Proyectos de Inversión Pública (BPIP) del Ministerio de Planificación Nacional y Política Económica (MIDEPLAN), la Administración podrá contratar los servicios de fiscalización contractual, de acuerdo con el logro de resultados ciertos que serán definidos previamente en el pliego de condiciones, pudiendo realizarse dicha contratación con base en lo previsto en el artículo 62, inciso b) de la Ley General de Contratación Pública. En todo caso, de requerirse la contratación de unidades ejecutoras, éstas siempre estarán sujetas a la consecución de objetivos del proyecto en un plazo determinado y los respectivos honorarios se fijarán conforme al cumplimiento de esos objetivos.
 
-Ficha Artículo 186
-
 Artículo 187. Responsabilidad del contratista. El contratista es responsable del correcto análisis de la interpretación de las condiciones dispuestas en el pliego de condiciones y adoptadas en el respectivo contrato, para su correcta ejecución y la del proyecto, así como para la observancia de buenas prácticas de construcción, administración y gestión de proyectos, responderá por los defectos que puedan producirse durante la ejecución hasta la recepción final. En virtud de lo anterior y en atención al principio de buena fe, cualquier defecto o error en el proyecto o en los planos que no hayan sido advertido durante el proceso de la contratación, el contratista deberá comunicarlo al fiscalizador de la obra destacado por parte de la Administración, antes de iniciar la actividad específica que vaya a desarrollar. Si el contratista omite tal comunicación deberá asumir las medidas correctivas ante defectos comprobados por la Administración.
 
 La recepción definitiva de la obra pública no exime de responsabilidad al contratista por incumplimientos o vicios ocultos de la obra, de conformidad con el artículo 107 de la Ley General de Contratación Pública.
 
 El contratista deberá garantizar durante la ejecución del proyecto la calidad de la totalidad del objeto contractual. Para tales efectos deberá realizar las verificaciones, ensayos y controles necesarios para el debido control de calidad (autocontrol) de los diseños, materiales y equipos, procesos constructivos u otros, según corresponda, que le permitan enmendar oportunamente y durante la ejecución, cualquier deficiencia que se detecte para dar cumplimiento a los planos, las especificaciones técnicas, las condiciones contenidas en el pliego y pactadas en el contrato.
-
-Ficha Artículo 187
 
 Artículo 188. Recepción provisional de obras públicas. Una vez concluida la obra, el contratista dará aviso formal por escrito al fiscalizador de la obra por parte de la Administración para que establezca la fecha y hora para la recepción provisional, el cual dispondrá de quince días hábiles para ello, salvo disposición en contrario en el pliego de condiciones.
 
@@ -2352,8 +1983,6 @@ Lo anterior, sin perjuicio de las responsabilidades que puedan caber para el con
 
 Si procede el rechazo de la obra por la gravedad del incumplimiento, esa diferencia podrá ser sometida a la resolución de un comité de expertos ad hoc, si ese mecanismo no hubiera sido incorporado en el contrato. En el caso de que el contrato prevea un comité de expertos permanente la resolución de esa controversia será sometida al respectivo comité conforme al artículo 117 de la Ley General de Contratación Pública.
 
-Ficha Artículo 188
-
 Artículo 189. Recepción definitiva de obras públicas. La Administración dispondrá de un plazo de dos meses, contado a partir de la recepción provisional a satisfacción o bajo protesta, para efectuar la recepción definitiva, salvo que el pliego de condiciones contemple un plazo diferente. Sólo podrá recibirse definitivamente la obra después de contar con las verificaciones y estudios técnicos que acrediten el cumplimiento de los términos de la contratación, incluyendo la verificación de los parámetros de calidad establecidos en la decisión inicial, en el diseño, planos finales, especificaciones técnicas, en el pliego de condiciones y en el contrato. Lo anterior, formará parte del expediente electrónico e igualmente el acta de recepción definitiva deberá ser suscrita por el fiscalizador de la obra por parte de la Administración y el contratista, en la que se consignará la subsanación de los pequeños detalles de acabado o la corrección de defectos menores señalados en el acta de recepción provisional bajo protesta, según corresponda, y que en consecuencia su recibo es a plena satisfacción de la Administración. El acta deberá emitirse dentro del plazo de quince días hábiles siguientes a la recepción definitiva.
 
 La recepción definitiva de la obra pública no exime de responsabilidad al contratista por incumplimientos o vicios ocultos de la obra, en los plazos establecidos en el artículo 107 de la Ley General de Contratación Pública.
@@ -2361,8 +1990,6 @@ La recepción definitiva de la obra pública no exime de responsabilidad al cont
 En el caso de la recepción provisional y definitiva de los proyectos de obra pública promovidos por el Estado y sus instituciones, en los que se hayan suscrito convenios con la Universidad de Costa Rica, a fin de que el Laboratorio Nacional de Materiales y Modelos Estructurales (LANAMME) efectúe pruebas aleatorias y controles receptivos en la obra u otros controles definidos en el pliego de condiciones y adoptadas en el respectivo contrato, se deberá contar con un criterio favorable de ese Laboratorio de las verificaciones efectuadas como insumo para la toma de decisiones por parte del fiscalizador de la obra para las respectivas recepciones, quien para apartarse de ese criterio deberá motivar su discrepancia técnica y remitir copia de ello al Laboratorio designado. El fiscalizador no podrá apartarse del criterio del Laboratorio, sin que medie un acto motivado donde acredite porqué lleva razón conforme a los fundamentos técnicos y legales de su criterio. Esa decisión se deberá informar al LANAMME.
 
 De permanecer las discrepancias, las controversias entre el fiscalizador y el Laboratorio, el jerarca o en quien él delegue procederá a resolver lo que corresponda.
-
-Ficha Artículo 189
 
 Artículo 190. Finiquito de los contratos de obra pública. La finalización de las obligaciones contractuales se formalizará mediante el documento de finiquito contractual.
 
@@ -2398,29 +2025,19 @@ No podrán realizarse finiquitos de los contratos bajo protesta ni incorporarse 
 
 El finiquito deberá formar parte del expediente electrónico de la contratación.
 
-Ficha Artículo 190
-
 CAPÍTULO II
 
 CONTRATO DE SUMINISTRO
 
 Artículo 191. Elección de la modalidad de contrato. Para la adquisición de suministros, la Administración podrá solventar la necesidad que se pretende utilizando para ello el tipo de modalidad de contratación que determine como idónea.
 
-Ficha Artículo 191
-
 Artículo 192. Modalidades de contratos de suministros. Entre las modalidades quepuede utilizar la Administración en la contratación de suministros, se encuentran la contratación por cantidad definida, por consignación y según demanda.
 
-Ficha Artículo 192
-
 Artículo 193. Contratación de suministros por cantidad definida. En esta modalidad de contratación la Administración adquiere una cantidad específica, previamente definida, de bienes muebles ya sea en una única o varias entregas parciales. El oferente presentará su cotización considerando la cantidad total definida y su costo unitario.
-
-Ficha Artículo 193
 
 Artículo 194. Contratación de suministros por consignación. En esta modalidad de contratación, la Administración requiere la entrega de una serie de objetos o un lote inicial de productos, cuyo consumo se realiza según sus necesidades, no fijándose una cantidad específica de bienes a adquirir y existiendo por parte del contratista un compromiso de restituir los componentes o elementos consumidos. La Administración cancelará al contratista únicamente los insumos efectivamente utilizados. El oferente presentará su cotización sobre el costo total del lote inicial, detallando el costo unitario de cada uno de los componentes, cuando así corresponda.
 
 La Administración podrá incluir en los pliegos de condiciones mecanismos que le permitan variar los precios originalmente contratados conforme a lo previsto en el artículo 43 de la Ley General de Contratación Pública y lo dispuesto en este Reglamento.
-
-Ficha Artículo 194
 
 Artículo 195. Contratación de suministros, entrega según demanda. En esta modalidad de contratación, la Administración adquiere determinados bienes, según sus necesidades sin que exista obligación alguna de adquirir una cantidad determinada.
 
@@ -2430,23 +2047,15 @@ El oferente presentará su cotización sobre la base de precios unitarios formul
 
 La Administración podrá celebrar contratos bajo la modalidad de entrega según demanda, al amparo de una licitación menor o reducida en el tanto su consumo total, incluyendo prórrogas, no supere el umbral establecido para el procedimiento de licitación menor o reducida y así lo indique en la decisión inicial y en el pliego de condiciones. En caso de duda sobre el consumo, deberá optarse por el procedimiento más formal.
 
-Ficha Artículo 195
-
 Artículo 196. Aprobación de etapas. La Administración deberá designar al responsable de verificar el cumplimiento de cada una de las etapas definidas en la decisión inicial y su respectivo cronograma para la obtención del suministro, aprobando o improbando la etapa, a fin de decidir continuar o no con la etapa siguiente. La aprobación deberá realizarse por escrito y con el detalle de cada una de las actividades y verificaciones realizadas.
 
 No podrá iniciarse con el procedimiento de contratación si no se cuenta con la aprobación del responsable designado para la etapa de planificación, en la que se indique que esta fue realizada de forma completa y satisfactoria.
 
-Ficha Artículo 196
-
 Artículo 197. Periodicidad de las entregas. Cuando resulte procedente, dependiendo del objeto del contrato y cuando se trate de entregas sucesivas, la Administración deberá indicar en el pliego de condiciones la periodicidad de las entregas.
-
-Ficha Artículo 197
 
 Artículo 198. Inspección y garantía sobre los bienes entregados. La Administración tiene la facultad de inspeccionar y de ser informada del proceso de fabricación o elaboración del producto, pudiendo ordenar o realizar por sí misma análisis, ensayos y pruebas de los materiales que se vayan a emplear, establecer sistemas de control de calidad y dictar cuantas disposiciones considere oportunas para el estricto cumplimiento de lo convenido, dentro de los principios de razonabilidad, proporcionalidad y realidad del mercado.
 
 Atendiendo a las particularidades del objeto, la Administración dispondrá de un mes contado a partir de la entrega de los bienes para realizar la devolución de los bienes defectuosos o, en su defecto, en el plazo que se establezca en el pliego de condiciones.
-
-Ficha Artículo 198
 
 CAPÍTULO III
 
@@ -2456,8 +2065,6 @@ Artículo 199. Donación de bienes patrimoniales entre instituciones de la Admin
 
 Cuando el bien pase entre instituciones de la Administración Central procederá el traslado o la reasignación de bienes, mediante acto motivado, en virtud de que no se modifica cuantitativa ni cualitativamente el patrimonio del Estado, conforme a lo establecido en el Reglamento para el Registro y Control de Bienes de la Administración Central y sus reformas.
 
-Ficha Artículo 199
-
 Artículo 200. Donación de bienes muebles patrimoniales entre instituciones de la Administración Pública. La donación de bienes muebles patrimoniales entre instituciones de la Administración Pública es posible en el tanto la donación tenga por objeto la satisfacción del interés público.
 
 Para la donación de bienes muebles patrimoniales la decisión de donar deberá ser adoptada por el máximo jerarca o por quien éste delegue.
@@ -2466,15 +2073,11 @@ La donación se instrumentará mediante acuerdo de donar de la institución dona
 
 Los bienes muebles inscribibles serán donados con las formalidades legales respectivas. En esos casos, el documento traslativo de dominio, así como los gastos en que se incurrieran por dicha donación, si lo hubiera, serán a cargo de la institución donataria, salvo acuerdo en contrario.
 
-Ficha Artículo 200
-
 Artículo 201. Donación de bienes inmuebles patrimoniales entre instituciones de la Administración Pública. Para proceder con la donación de bienes inmuebles patrimoniales deberá mediar resolución motivada por parte del máximo jerarca de la institución que dona, sin que éste pueda delegar tal actuación; así como un acuerdo de aceptación tomado por el máximo jerarca de la institución beneficiaria de la donación conforme lo establecido por el artículo 75 de la Ley General de Contratación Pública. En el caso de entidades descentralizadas, el acuerdo de donación o de aceptación, será acordado por sus respectivas Juntas Directivas y en el caso de las Municipalidades, por el Concejo Municipal.
 
 En todos los casos deberá constar el avalúo elaborado por el órgano especializado de la Administración respectiva o, en su defecto, de la Dirección General de Tributación u otra entidad pública, siempre que sea emitido por personal profesional competente en la materia.
 
 Si el bien inmueble que se pretende donar está afecto por ley a un fin público específico se requerirá de una ley especial que lo desafecte en forma previa a adoptar el acuerdo de donación.
-
-Ficha Artículo 201
 
 Artículo 202. Donación de bienes muebles e inmuebles patrimoniales en desuso o mal estado entre instituciones de la Administración Pública o a entidades privadas. Todos los bienes muebles declarados por la Administración en desuso o en mal estado podrán ser objeto de donación, ya sea a entidades públicas o privadas. En el caso de entidades privadas éstas deben haber sido declaradas de interés público, de interés social o sin fines de lucro, debiendo existir acto motivado para ello; de conformidad con la normativa interna de cada entidad y en el caso de la Administración Central, conforme lo dispone el Reglamento para el Registro y Control de Bienes de la Administración Central y sus reformas.
 
@@ -2485,8 +2088,6 @@ Asimismo, los bienes pueden estar en mal estado e inservible para ser utilizado 
 La decisión de donar deberá ser adoptada por el máximo jerarca o por quien éste delegue y se instrumentará mediante el acuerdo de la institución donante y el acuerdo de aceptación de la institución o asociación donataria. Para bienes inmuebles, tal decisión no podrá ser delegada.
 
 Se deberá contar con el avalúo elaborado por el órgano especializado de la Administración respectiva o, en su defecto, del avalúo de la Dirección General de Tributación u otra entidad pública de acuerdo con el valor real del mercado de los bienes.
-
-Ficha Artículo 202
 
 CAPÍTULO IV
 
@@ -2508,25 +2109,17 @@ El arrendador corre con los riesgos del bien tales como deterioro, destrucción 
 
 Cada Administración será responsable de clasificar el arrendamiento como operativo de acuerdo con los lineamientos en materia de registros contables o financieros que emita la Dirección General de Contabilidad Nacional o el Consejo Nacional de Supervisión del Sistema Financiero (CONASSIFF) según el marco jurídico aplicable a quien promueva la licitación.
 
-Ficha Artículo 203
-
 Artículo 204. Contrato de arrendamiento financiero. El contrato de arrendamiento financiero es un contrato de financiación de proyectos y en su caso, de activos, mediante el cual se transfieren sustancialmente todos los riesgos y beneficios inherentes a la propiedad del activo y la Administración como arrendataria se obliga a pagar una contraprestación periódica denominada cuota de arrendamiento financiero, la cual puede establecerse como un monto fijo, o excepcionalmente un monto variable o reajustable, cuando así sea definido en el contrato inicial, todo conforme a lo establecido en el artículo 77 de la Ley General de Contratación Pública. Se entenderá que la cuota es variable o reajustable cuando su pago dependa de un índice o de una tasa adoptada o emitida por el Banco Central de Costa Rica. En los casos de cuota reajustable o variable, deberá adoptarse un acto motivado que autorice su aplicación por el superior jerárquico o en quien éste delegue.
 
 Para emplear el arrendamiento financiero la Administración deberá justificar la conveniencia y oportunidad de su utilización frente a otras posibles opciones para satisfacer su necesidad, todo lo cual deberá quedar debidamente acreditado en el expediente electrónico respectivo.
 
 Cada Administración será responsable de clasificar el arrendamiento como financiero de acuerdo con los lineamientos en materia de registros contables o financieros que emita la Dirección General de Contabilidad Nacional o el Consejo Nacional de Supervisión del Sistema Financiero (CONASSIFF) según el marco jurídico aplicable a quien promueva la licitación.
 
-Ficha Artículo 204
-
 Artículo 205. Objeto del contrato de arrendamiento financiero. El objeto de la contratación deberá corresponder a un arrendamiento financiero, de acuerdo con su esencia y realidad financiera, según el principio de realidad y no solamente en consideración a su calificación y forma legal, conforme a las normas de contabilidad que apliquen a la institución respectiva.
-
-Ficha Artículo 205
 
 Artículo 206. Requerimientos mínimos del contrato de arrendamiento financiero. Todo contrato de arrendamiento financiero deberá contar como mínimo con el plazo contractual, los seguros correspondientes, la cuota, el mantenimiento de las obras, cuando corresponda, tratamiento tributario entre otros, así como los derechos y obligaciones ante la terminación anticipada del contrato.
 
 En su oferta el arrendador deberá incluir el desglose de la cuota en sus diferentes componentes, tales como amortización del valor del activo, intereses, costos ejecutorios y servicios incluidos en el arrendamiento, así como las condiciones de la opción de compra.
-
-Ficha Artículo 206
 
 Artículo 207. Aplicación de la normativa contable en que se basa el tratamiento contable de los arrendamientos financieros en instituciones del sector no financiero. Le corresponde a la Contabilidad Nacional como órgano rector del subsistema de Contabilidad Pública, conforme a lo estipulado en la Ley de la Administración Financiera de la República y Presupuestos Públicos, establecer procedimientos contables que respondan a normas y principios de aceptación general en el ámbito gubernamental, según el ámbito de cobertura establecido en el ordenamiento jurídico. Dentro de este marco, se define la siguiente metodología contable por aplicar a los arrendamientos financieros:
 
@@ -2540,8 +2133,6 @@ c) Las empresas y entidades que conforman el sector financiero costarricense se 
 
 Las instituciones que aplican las Normas Internacionales de Información Financiera (NIIF o aquellas que las sustituyan), en su calidad de arrendatarios sólo podrán utilizar la figura del arrendamiento financiero, con las salvedades que establezcan las normas de contabilidad vigentes. En caso de duda, sobre la última norma vigente deberá consultarse a la Dirección General de Contabilidad Nacional del Ministerio de Hacienda, cuando corresponda de acuerdo con la normativa.
 
-Ficha Artículo 207
-
 Artículo 208. Aprobaciones. Para la utilización de la figura del arrendamiento financiero la Autoridad Presupuestaria deberá autorizar la contratación, previa recomendación de la Dirección General de Gestión de Deuda Pública (\*), así como la autorización del Ministerio de Planificación Nacional y Política Económica y el dictamen favorable del Banco Central de Costa Rica, cuando conforme al ordenamiento jurídico corresponda.
 
 (\*)(Así modificada su denominación por el artículo 4 de la Ley de Fortalecimiento de la gestión de la deuda pública, N° 10524 del 18 de setiembre del 2024. Anteriormente indicaba "Dirección de Crédito Público")
@@ -2549,8 +2140,6 @@ Artículo 208. Aprobaciones. Para la utilización de la figura del arrendamiento
 Las solicitudes de autorizaciones deberán resolverse en forma célere. En caso de solicitar información adicional, se hará por una única vez.
 
 Cuando los entes contables lo consideren oportuno, podrán recurrir a la Dirección General de Contabilidad Nacional, por medio de consulta técnica, conforme lo dispuesto en el artículo 207 de este Reglamento.
-
-Ficha Artículo 208
 
 Artículo 209. Estructuración del arrendamiento. Cuando corresponda conforme al ordenamiento jurídico, una vez que se cuenten con las respectivas autorizaciones del endeudamiento la Administración solicitante, deberá realizar la estructuración del arrendamiento y posteriormente presentar para aval de la Dirección General de Gestión de Deuda Pública (\*) del Ministerio de Hacienda con la siguiente información:
 
@@ -2568,15 +2157,9 @@ La Dirección General de Gestión de Deuda Pública (\*) emitirá el respectivo 
 
 (\*)(Así modificada su denominación por el artículo 4 de la Ley de Fortalecimiento de la gestión de la deuda pública, N° 10524 del 18 de setiembre del 2024. Anteriormente indicaba "Dirección de Crédito Público")
 
-Ficha Artículo 209
-
 Artículo 210. Criterio de escogencia del arrendador. Para la selección final del arrendador la Administración deberá considerar entre las ofertas elegibles como costo comparativo, el determinado con base en la sumatoria de flujos de las cuotas del arrendamiento más la opción de compra traídos a valor presente a una tasa de descuento definida por la Administración para cada procedimiento de compra, todo lo cual deberá estar incorporado en el pliego de condiciones respectivo.
 
-Ficha Artículo 210
-
 Artículo 211. Plazo. El plazo del contrato de arrendamiento financiero debe ser fijo, no disponible y ser suficiente para que con el pago de la cuota periódica se logre la amortización de la inversión e intereses, de los gastos que resulten aplicables y el rendimiento del capital, sin perjuicio de que se defina y ejecute una opción de compra.
-
-Ficha Artículo 211
 
 CAPÍTULO V
 
@@ -2588,25 +2171,17 @@ La Administración podrá realizar este tipo de contratación cuando requiera se
 
 El contratista deberá cumplir con lo pactado utilizando para ello el recurso humano y todo aquel recurso que según el pliego de condiciones está obligado a suministrar.
 
-Ficha Artículo 212
-
 Artículo 213. Selección del contratista. En el pliego de condiciones la Administración deberá definir con claridad, entre otros aspectos, el plazo de la contratación, el cual no podrá ser superior a cuatro años; las reglas sobre la eventual exclusividad; la metodología de ejecución del contrato; cumplir con las obligaciones de la seguridad durante toda la fase de ejecución contractual y demás asuntos pertinentes.
 
 En el pliego se considerarán los mecanismos que permitan variar los precios originalmente cotizados, conforme a lo previsto en el artículo 43 de la Ley General de Contratación Pública y 109 de este Reglamento.
 
 En atención al principio de valor por el dinero y conforme a lo regulado en los artículos 8 y 40 de la Ley General de Contratación Pública, en el pliego de condiciones los requisitos de experiencia y demás elementos que aseguren la calidad del servicio que debe cumplir el contratista se establecerán como condiciones de admisibilidad, sin que puedan fijarse barreras de ingreso injustificadas.
 
-Ficha Artículo 213
-
 Artículo 214. Pago en contrato de servicios. En este tipo de contrataciones deberá remunerarse al contratista conforme a las respectivas tarifas, cuando los servicios se encuentren regulados por aranceles obligatorios. En caso contrario, en el pliego de condiciones la Administración solicitará que la oferta contenga la estructura del precio y únicamente a quien resulte adjudicatario se le requerirá el presupuesto detallado de la oferta, con el nivel de desagregación indicado en el pliego, conforme al artículo 42 de la Ley General de Contratación Pública.
 
 Cuando las condiciones del mercado, así como la alta y frecuente demanda de servicios lo recomienden, se podrá pactar el compromiso de suplir los servicios, según las necesidades puntuales que se presenten durante un período determinado. Las cotizaciones se harán sobre la base de precios unitarios formulados con fundamento en una proyección de los costos y eventuales demandas del servicio.
 
-Ficha Artículo 214
-
 Artículo 215. Información necesaria para la ejecución del objeto contractual. En caso de que la Administración deba entregar insumos necesarios para que el contratista cumpla con la prestación objeto del contrato, deberá cumplir en los plazos pactados contractualmente. A falta de especificación, aplicará lo previsto en el artículo 12, párrafo primero, de la Ley General de Contratación Pública, de manera que la Administración deberá cumplir con sus obligaciones en el plazo de diez días hábiles contados a partir del recibo de la solicitud.
-
-Ficha Artículo 215
 
 CAPÍTULO VI
 
@@ -2618,13 +2193,9 @@ Los fideicomisos públicos podrán ser de administración, de desarrollo de obra
 
 La constitución de un fideicomiso de administración deberá estar autorizada por ley, conforme a lo previsto por el artículo 79 de la Ley General de Contratación Pública.
 
-Ficha Artículo 216
-
 Artículo 217. Partes del contrato de fideicomiso público. La Administración será la fideicomitente y el fiduciario será un banco del Sistema Bancario Nacional o un organismo público internacional, seleccionado mediante un concurso entre dichas entidades.
 
 Los fideicomisarios serán los sujetos beneficiarios de los resultados conseguidos por el fideicomiso. No se consideran fideicomisarios los proveedores del financiamiento que pudiera requerir el fideicomiso, aunque sí tendrán la condición de acreedores principales, con la primera opción en la prelación de pagos.
-
-Ficha Artículo 217
 
 Artículo 218. Relación entre el fideicomitente y el fiduciario. El fiduciario deberá emplear en su desempeño el cuidado de un gestor profesional de negocios ajenos, según los fines que haya establecido el fideicomitente.
 
@@ -2636,8 +2207,6 @@ La Administración fideicomitente deberá participar en la ejecución del proyec
 
 El fideicomitente deberá elaborar procedimientos de control para cada etapa del ciclo de vida del fideicomiso, considerando el finiquito anticipado o final del contrato (propiedad de activos, estado y calidad de las obras, reglamentación de los activos financieros, liquidación parcial o total del patrimonio, entre otros). Además, deberá establecer en dichos procedimientos, los informes de avance requeridos según su finalidad y su periodicidad durante la ejecución del fideicomiso; así como consignar la documentación de respaldo que debe disponer en el expediente del fideicomiso.
 
-Ficha Artículo 218
-
 Artículo 219. Selección de fiduciario. De previo a la elección del fiduciario se deberá contar con un plan del negocio que asegure su viabilidad y que permita determinar cuáles deberían ser las características del fiduciario para el cumplimiento de los objetivos previstos.
 
 El fiduciario será seleccionado mediante un concurso entre las entidades señaladas en el artículo 79 de la Ley General de Contratación Pública, para ello la Administración fideicomitente preparará un pliego de condiciones que contenga con toda claridad el proyecto que pretenda ejecutar y los fines propuestos, los elementos esenciales del objeto del contrato de fideicomiso y el plazo. Entre los elementos que la Administración fideicomitente debe considerar para la preselección del fiduciario están: análisis comparativo considerando costo-beneficio, análisis de experiencia sobre la finalidad del fideicomiso, la capacidad gerencial operativa y estructural del fiduciario, razonabilidad de la comisión de fiducia, la experiencia en contratos de fideicomisos y la propuesta técnica con el esquema de organización administrativa y técnica ofrecida para el cumplimiento de los fines del fideicomiso, en las diferentes etapas de ejecución del proyecto. En el caso de que se requiera una Unidad Administradora externa deberá aportarse una carta de compromiso de su participación con indicación expresa del nombre de los profesionales ofrecidos y su perfil. En caso de ser elegido, durante la fase de ejecución, las calidades del personal profesional no podrán en ningún caso ser desmejoradas por el fiduciario, caso contrario se aplicará el régimen sancionatorio establecido en la Ley General de Contratación Pública.
@@ -2646,11 +2215,7 @@ Los invitados presentarán sus atestados, a fin de que la Administración determ
 
 La Administración invitará a los preseleccionados a presentar su oferta económica. La Administración considerará todos los costos proyectados para la ejecución del contrato.
 
-Ficha Artículo 219
-
 Artículo 220. Comisión de la fiducia. Conforme a lo previsto en el penúltimo párrafo del artículo 79 de la Ley General de Contratación Pública, la comisión de la fiducia deberá corresponder a los siguientes parámetros: el monto monetario que el fiduciario cobra a la fideicomitente por la prestación de sus servicios profesionales, en función del tipo de fideicomiso, el riesgo, la complejidad y el volumen de operaciones a ejecutar para dar cumplimiento a los fines para los cuales se va a suscribir el contrato de fideicomiso. Para determinar la razonabilidad del costo de la fiducia, se considerarán todos los costos proyectados para la ejecución del contrato, en relación con las ofertas recibidas.
-
-Ficha Artículo 220
 
 Artículo 221. Administración de conflictos de interés. Conforme a lo previsto en el artículo 80 de la Ley General de Contratación Pública, si el Fideicomiso requiere de un financiamiento mediante un contrato de crédito, deberá hacerse concurso entre los potenciales acreedores, en el que podrá participar el banco fiduciario, siempre y cuando lo haga en condiciones de igualdad y no reciba trato diferenciado alguno. La transgresión a esos límites impedirá contratar el crédito con el banco fiduciario.
 
@@ -2662,8 +2227,6 @@ En caso de que se presenten gestiones de cobro por parte del mismo banco fiducia
 
 Se debe incluir en la cláusula del contrato de crédito la unidad imparcial ante un eventual cobro administrativo o judicial en caso de ser la misma entidad financiera.
 
-Ficha Artículo 221
-
 Artículo 222. Constitución de fideicomisos que requieran financiamiento. Cuando la Administración constituya fideicomisos, deberá realizar un informe de estructuración financiera que permita identificar cuál es la vía de obtención de fondos o fuente de financiamiento más conveniente, pudiendo acudir a créditos bancarios, colocaciones en el mercado de valores, o cualquier otra figura de financiamiento habilitada en el ordenamiento jurídico costarricense. Asimismo, deberá definir la fuente de pago o los flujos necesarios para cubrir el servicio de la deuda.
 
 Además, deberá tomar en cuenta en su estructuración, las prácticas internacionales estandarizadas en materia contable correspondiente al registro de activos, manejo y consolidación de estados financieros, así como evaluación de proyectos, arrendamientos, normas de supervisión financiera y tributaria, mecanismos de cobertura de riesgos operativos, económicos, cambiarios, de liquidez, crediticios o ambientales que puedan vulnerar el pago de la deuda y con ello la consecución de los fines públicos del fideicomiso.
@@ -2672,15 +2235,11 @@ Dichas operaciones deberán ser aprobadas por parte del Ministerio de Hacienda y
 
 Lo anterior sin perjuicio de las demás disposiciones emitidas por los órganos o entes rectores en materia contable, crédito público, supervisión financiera y tributaria.
 
-Ficha Artículo 222
-
 Artículo 223. Constitución de fideicomisos de obra pública. La Administración podrá constituir fideicomisos para que a través de éstos se canalicen recursos financieros necesarios con el objetivo de financiar proyectos de desarrollo de obra pública, pudiendo incluirse dentro de ellos, lo relativo a la inversión y los gastos adicionales que ésta conlleve.
 
 El fideicomitente al evaluar el costo-beneficio de los fideicomisos de obra pública debe considerar su vigencia, cumplimiento de objetivos de creación, así como de las estructuras de administración, con el propósito de definir si esa figura es la más eficiente y menos costosa respecto a otros mecanismos.
 
 Para ello deberá determinar la viabilidad legal, técnica, social, ambiental, económica y financiera del proyecto en atención a la necesidad pública que le dé origen al fideicomiso, de conformidad con los estudios de formulación y evaluación al menos a nivel de prefactibilidad de la fase de Pre-inversión.
-
-Ficha Artículo 223
 
 Artículo 224. Bancabilidad de los fideicomisos de obra pública. A efectos de lograr el financiamiento necesario para el desarrollo de obra pública por medio de un fideicomiso, el fideicomitente puede autorizar la utilización de mecanismos de garantía de pago, tales como cesión de flujos futuros, garantías mobiliarias, avales, entre otros.
 
@@ -2688,21 +2247,15 @@ En tales casos se observarán las regulaciones previstas en la Ley Reguladora de
 
 En caso de liquidarse anticipadamente un fideicomiso de obra pública, se procederá en los términos pactados en el contrato y en los procedimientos definidos para esos efectos por el fideicomitente y el fiduciario, correspondiéndole al fiduciario el pago de las obligaciones financieras subsistentes que se había adquirido legítimamente por parte del fideicomiso.
 
-Ficha Artículo 224
-
 Artículo 225. Políticas de administración de fideicomisos de obra pública. El fiduciario deberá procurar que los contratos, reglamentos internos y otros instrumentos de operación incorporen todos los aspectos necesarios para una eficiente planificación, así como la ejecución del proyecto y del patrimonio, que incluya suficiente detalle de los resultados esperados, gobernanza, roles, responsabilidades, criterios de retribución, y aspectos que regulen las etapas de control, evaluación y terminación, entre otros elementos.
 
 Se deben incorporar también los elementos asociados a la prefactibilidad del proyecto de obra pública como la estimación de costos, responsables, plazos, cronogramas, entre otros por parte del fideicomitente. Dichos elementos constituirán una base para la ejecución del fideicomiso y para la estimación de los costos de fiducia.
 
 Asimismo, deberá fortalecer los sistemas, la identificación y gestión de riesgos de los fideicomisos, tanto en lo que se refiere a los riesgos legales, operativos financieros, de mercado, ambientales y de cualquier otra índole que sean relevantes para el cumplimiento de los fines del fideicomiso, de forma que se constituyan en herramientas para la toma de decisiones preventivas y oportunas. Para tales efectos, al momento de la suscripción del contrato de fideicomiso se deberá contar con una matriz de riesgos que identifique los riesgos asociados al fideicomiso, los responsables de tomar acciones para su mitigación y los responsables de asumir sus efectos patrimoniales. Dicho documento deberá ser aceptado y firmado por el fideicomitente y el fiduciario; además deberá establecerse su revisión periódica de manera que este se mantenga actualizado durante la ejecución del contrato.
 
-Ficha Artículo 225
-
 Artículo 226. Unidades de Administración. En los fideicomisos de obra pública el fiduciario conformará un equipo profesional que se encargue de la administración del proyecto o programa, ya sea en su fase de diseño y construcción como en la de mantenimiento. Dicho equipo podrá estar conformado ya sea por personal del fiduciario o bien subcontratado según se detalle en su oferta. En caso de ser personal del fiduciario como entidad pública, éste se debe regir bajo dicho esquema remunerativo.
 
 El fiduciario, como parte de su oferta, definirá la empresa o grupo de profesionales que eventualmente se harían cargo de tales labores. El perfil de los profesionales ofrecidos en la fase de selección no podrá desmejorarse durante la fase de ejecución. En caso de que así se detecte, se hará la advertencia al fiduciario para que restablezca a un nivel profesional igual o superior al cotizado, en un plazo de los tres días hábiles siguientes, bajo pena de incurrir en un incumplimiento grave.
-
-Ficha Artículo 226
 
 CAPÍTULO VII
 
@@ -2720,8 +2273,6 @@ La concesión de instalaciones públicas otorga al concesionario únicamente el 
 
 La Administración podrá poner término a la concesión, cuando lo estime necesario para la mejor satisfacción del interés público. Lo hará mediante resolución motivada, previo aviso al concesionario, dentro del plazo establecido en el pliego de condiciones y en su defecto con al menos un mes de anticipación. Cuando las causas de la terminación del contrato no sean atribuibles al concesionario, se le deberá indemnizar por los daños y perjuicios causados que reclame y demuestre haber sufrido, conforme al procedimiento regulado en el artículo 114 de la Ley General de Contratación Pública.
 
-Ficha Artículo 227
-
 CAPÍTULO VIII
 
 CONVENIO MARCO
@@ -2738,23 +2289,17 @@ La Dirección de Contratación Pública, podrá analizar la información suminis
 
 Cuando exista un convenio marco vigente, independientemente de la institución que lo haya tramitado, cualquier Administración podrá adherirse, siguiendo los lineamientos establecidos al efecto por la Administración Licitante de ese convenio, siempre y cuando no se afecte la modalidad de pago de la institución que procura la adhesión.
 
-Ficha Artículo 228
-
 Artículo 229. Plazo contractual del convenio marco. El plazo de los convenios marco será por un periodo de dos años y podrá prorrogarse por periodos adicionales de un año, hasta un máximo de cuatro años. Excepcionalmente, en atención a las particularidades del objeto contractual y a las condiciones de mercado, podrá recurrirse en los convenios marco abiertos a lo previsto en el artículo 104 de la Ley General de Contratación Pública. Para efectos de las prórrogas, la Administración licitante deberá iniciar su trámite en el último año de vigencia, procediendo a realizar el estudio correspondiente para fundamentar su decisión, antes de su vencimiento, en el cual deberá evaluar las condiciones básicas de calidad y servicio por parte de los contratistas y las Instituciones Usuarias, debiendo comunicarla al contratista con al menos un mes de anticipación al vencimiento del convenio.
 
 (Así reformado el párrafo anterior por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
 
 La orden de compra o pedido estará sujeta a la vigencia del convenio marco, sin embargo, la entrega respectiva podrá realizarse finalizada la vigencia del convenio marco, en los casos en que corresponda, de acuerdo a lo establecido en el pliego de condiciones.
 
-Ficha Artículo 229
-
 Artículo 230. Etapas. Los convenios marco se desarrollarán en dos etapas. En la primera etapa se realizará el procedimiento licitatorio mediante el cual se adjudicará una o varias opciones de negocio a uno o varios contratistas, para que puedan ser adquiridas en la segunda etapa por las instituciones usuarias. Al tratarse de una licitación mayor, el régimen recursivo aplicable es el establecido en el artículo 97 de la Ley General de Contratación Pública.
 
 En la segunda etapa que corresponde a la ejecución contractual, las opciones de negocio adjudicadas se incorporarán a un listado electrónico de obras, bienes o servicios y una vez que la institución que llevó a cabo el procedimiento licitatorio gire la orden de inicio, las instituciones usuarias del convenio marco podrán emitir las órdenes de pedido, sin necesidad de llevar a cabo otro tipo de procedimiento de contratación adicional, sin perjuicio de trámites necesarios para seleccionar la mejor oferta, según los criterios establecidos en el pliego de condiciones, de conformidad con el modelo utilizado.
 
 La adjudicación de una opción de negocio no implica un compromiso de compra por parte de la Administración.
-
-Ficha Artículo 230
 
 Artículo 231. Modelos de Convenio Marco. Los convenios marco podrán implementarse atendiendo al objeto contractual y condiciones de mercado, en cualquiera de los modelos que se describen a continuación:
 
@@ -2768,17 +2313,11 @@ Para la selección de la mejor oferta la institución deberá aplicar lo dispues
 
 La selección de la mejor oferta podrá ser objeto de recurso en cuyo caso se aplicará lo establecido en el artículo 99 de la Ley General de Contratación Pública.
 
-Ficha Artículo 231
-
 Artículo 232. Uso de criterios de compra pública estratégica en los convenios marco. Para la realización de los convenios marco, se promoverá la incorporación de criterios sociales, económicos, ambientales, culturales, de calidad y de innovación, según corresponda, los cuales podrán ser mejorados en cualquiera de sus etapas según las disposiciones del pliego de condiciones; asimismo se promoverá la participación de las PYMES considerando el desarrollo regional. En caso de que la Administración licitante considere la no utilización de los criterios de desarrollo regional para las PYMES, deberá justificar mediante acto motivado, las razones técnicas y/o económicamente correspondientes.
 
 (Así reformado el epígrafe de este numeral por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
 
-Ficha Artículo 232
-
 Artículo 233. Ofertas. Los oferentes presentarán sus ofertas en los términos establecidos en el pliego de condiciones, que serán analizadas de conformidad con los requerimientos indicados en éste; en ese sentido, será posible adjudicar tantas ofertas base y/o alternativas según lo permita el pliego de condiciones, siempre que éstas hayan cumplido con los requerimientos para resultar adjudicadas.
-
-Ficha Artículo 233
 
 Artículo 234. Inclusiones de nuevas opciones de negocio. En los convenios marco en ejecución será posible la inclusión de nuevas opciones de negocio no contratadas originalmente, en tanto obedezcan a una necesidad de obras, bienes y/o servicios surgida o conocida con posterioridad al inicio del concurso que originó el convenio marco y que se trate del mismo giro comercial que se enmarque en el objeto de la contratación.
 
@@ -2792,11 +2331,7 @@ Las inclusiones se tramitarán con la periodicidad que establezca el pliego de c
 
 Todo lo actuado deberá incorporarse al expediente electrónico de la contratación del convenio marco respectivo.
 
-Ficha Artículo 234
-
 Artículo 235. Mejoras de precios en las opciones de negocio. El contratista podrá realizar mejoras de precios, descuentos u otras opciones en beneficio de la Administración, ya sean temporales o definitivas, siempre que dichos beneficios no resulten ruinosos; asimismo se tendrá la posibilidad de ampliar la cobertura a nivel regional. Cuando un precio es mejorado y/o se ofrece un descuento durante la ejecución contractual, el precio resultante no podrá ser objeto de reajuste o revisión, durante el período de la mejora y/o descuento.
-
-Ficha Artículo 235
 
 Artículo 236. Sistemas de Convenio Marco. Los convenios marco podrán realizarse como un sistema abierto o cerrado, conforme a las siguientes reglas:
 
@@ -2807,8 +2342,6 @@ Los nuevos proveedores pueden ingresar a un convenio marco, previa fase de demos
 (Así reformado el inciso a) anterior por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
 
 b) Sistema cerrado. En el caso del sistema cerrado el pliego de condiciones no prevé la posibilidad de incluir nuevos proveedores.
-
-Ficha Artículo 236
 
 Artículo 237. Obligaciones de las Instituciones Usuarias. Las instituciones usuarias de un convenio marco deberán mantener actualizado el expediente respectivo incorporando todos los antecedentes de su decisión de compra, para su revisión y control posterior, asimismo deberán:
 
@@ -2827,8 +2360,6 @@ f) Tomar la decisión de compra más conveniente para la Administración, según
 g) Ejercer los controles necesarios y oportunos que estime convenientes para inspeccionar y hacer cumplir en todos los extremos el contrato.
 
 h) Informar al contratista con la debida antelación el estudio de prórroga del convenio.
-
-Ficha Artículo 237
 
 Artículo 238. Obligaciones de los Contratistas. Además de las establecidas en la Ley General de Contratación Pública, en este Reglamento y en el pliego de condiciones, los contratistas de un convenio marco, tendrán las siguientes obligaciones:
 
@@ -2860,8 +2391,6 @@ No obstante, en caso de haberse emitido órdenes de compra antes de la aprobaci�
 
 Tratándose de retiros temporales, vencido el plazo, se habilitará nuevamente de manera automática al contratista en la opción de negocio correspondiente, salvo nueva solicitud debidamente justificada a la Administración Licitante en el plazo que establezca el pliego de condiciones previo a su vencimiento.
 
-Ficha Artículo 238
-
 CAPÍTULO IX
 
 TIPOS ABIERTOS
@@ -2890,13 +2419,9 @@ Los reglamentos que la Administración emita para tales efectos deberán ser con
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 44745 del 9 de octubre de 2024)
 
-Ficha Artículo 239
-
 Artículo 240. Registro de reglamento de tipo abierto. La Dirección de Contratación Pública contará con un registro actualizado de reglamentos de tipos abiertos en el sitio que la Dirección determine para tal fin, que deberá estar disponible para consulta de cualquier interesado. La Administración podrá utilizar figuras reguladas en reglamentos preexistentes, siempre y cuando cumpla con los requisitos dispuestos en el artículo anterior.
 
 Cuando la Administración pretenda emitir un reglamento correspondiente a una figura contractual ya regulada en el registro deberá exponer las razones por las cuales la existente no resulta útil a sus intereses. En tal caso deberá gestionar un nuevo reglamento siguiendo el procedimiento dispuesto en el artículo anterior.
-
-Ficha Artículo 240
 
 TÍTULO IV
 
@@ -2912,19 +2437,13 @@ ASPECTOS GENERALES
 
 Artículo 241. Taxatividad de los recursos. En materia de contratación pública únicamente proceden los recursos dispuestos en el artículo 86 de la Ley General de Contratación Pública. Una vez resuelto un recurso por la instancia competente se dará por agotada la vía administrativa en los términos del artículo 98 de la Ley General de Contratación Pública. Asimismo, procederá únicamente las diligencias de adición y aclaración conforme lo establecido en el artículo 91 de la citada Ley y 251 de este Reglamento.
 
-Ficha Artículo 241
-
 Artículo 242. Cómputo del plazo. En todos los casos el plazo para interponer el recurso contra el acto respectivo iniciará su cómputo a partir del día hábil siguiente a la notificación de todas las partes. En el sistema digital unificado se deberá acreditar las fechas y horas de notificación a cada uno de los participantes.
 
 En materia de contratación pública los plazos se computarán conforme a las reglas especiales previstas en la Ley General de Contratación Pública y en el presente Reglamento. Se acudirá a otras normas generales, de forma supletoria.
 
-Ficha Artículo 242
-
 Artículo 243. Presentación. Todo recurso se deberá interponer utilizando para ello los formularios electrónicos designados en el sistema digital unificado y los documentos adjuntos corresponderán a la prueba que apoye las argumentaciones de las partes.
 
 Para la interposición del recurso se entienden hábiles todas las horas del día en que venza el plazo para presentarlo. En el evento en que el recurso se presente en un día inhábil se tendrá por presentado al día hábil siguiente.
-
-Ficha Artículo 243
 
 Artículo 244. Rechazo de plano por inadmisibilidad. El recurso será rechazado de plano, por inadmisible, en los siguientes supuestos:
 
@@ -2938,8 +2457,6 @@ En tal caso, no se hará traslado del recurso, sino que se procederá a su recha
 
 d) Por inobservancia de requisitos formales, cuando no se cumplan los aspectos esenciales para la tramitación del recurso a través de los medios establecidos al efecto, tales, como la no interposición en el sistema digital unificado o no se utilice el formulario electrónico dispuesto en el sistema digital unificado para la interposición y firma del recurso.
 
-Ficha Artículo 244
-
 Artículo 245. Rechazo de plano por improcedencia manifiesta. El recurso será rechazado de plano, por improcedencia manifiesta:
 
 a) Cuando el recurrente no cuente con legitimación.
@@ -2949,8 +2466,6 @@ b) Cuando el recurrente no acredite su mejor derecho, sea porque su propuesta re
 c) Cuando el recurso se presente sin fundamentación, conforme a lo previsto en el artículo 88 de la Ley General de Contratación Pública.
 
 d) Cuando el recurso esté referido a argumentos precluidos, conforme a lo dispuesto en el artículo 90 de la Ley General de Contratación Pública.
-
-Ficha Artículo 245
 
 Artículo 246. Deber de fundamentación. Los recursos se presentarán debidamente fundamentados y con la prueba idónea, con la invocación de los principios y normas infringidas.
 
@@ -2964,25 +2479,17 @@ En el caso de un recurso de apelación o de revocatoria, cuando el ofrecimiento 
 
 Cuando se apele un acto de readjudicación, el fundamento del recurso debe girar únicamente contra las actuaciones realizadas con posterioridad a la resolución anulatoria, estando precluido el conocimiento de cualquier otra situación ajena a aquellas que motivaron esa resolución anulatoria.
 
-Ficha Artículo 246
-
 Artículo 247. Vicios de nulidad absoluta, evidente y manifiesta. Cuando en el conocimiento de un recurso la Administración o la Contraloría General de la República consideren que se encuentran en presencia de un vicio causante de nulidad absoluta, evidente y manifiesta, deberá procederse conforme a lo dispuesto en los artículos 173 o 174 de la Ley General de la Administración Pública, según corresponda y, además, lo pondrá en conocimiento de las partes.
 
 En caso de que en el conocimiento de un recurso la Contraloría General de la República considere que se encuentra en presencia de un vicio causante de nulidad, de oficio, con fundamento en lo previsto por el artículo 28 de la Ley Orgánica de la Contraloría General de la República, Ley N°7428 de 7 de setiembre de 1994, deberá conferir una audiencia especial a las partes por un plazo de tres hasta cinco días hábiles, con el objeto de que las partes se refieran al posible vicio.
 
-Ficha Artículo 247
-
 Artículo 248. Nulidades alegadas en el recurso en caso de rechazo por inadmisibilidad o improcedencia. Las nulidades que se aleguen con el recurso no se conocerán en caso de que el recurso sea declarado inadmisible o improcedente, salvo lo indicado en el artículo anterior en relación con la nulidad absoluta evidente y manifiesta.
-
-Ficha Artículo 248
 
 Artículo 249. Allanamiento y desistimiento del recurso. Cualquiera de las partes dentro del trámite de un recurso de objeción, apelación o revocatoria, pueden allanarse parcial o totalmente a la pretensión del recurrente. La Contraloría General de la República o la Administración que deba resolver el recurso, no están obligadas, por ese solo hecho, a acoger las pretensiones del recurrente, por lo que resolverá conforme a Derecho.
 
 En cualquier momento, antes de adoptarse la resolución final, el recurrente podrá desistir de su recurso. Del desistimiento no será necesario brindar audiencia a las otras partes y de inmediato se ordenará el archivo del expediente, salvo que se observen nulidades que faculten la participación oficiosa de la Administración o de la Contraloría General de la República.
 
 Cuando se hayan presentado varios recursos, el desistimiento de uno de ellos no afectará los demás recursos que continuarán tramitándose de forma regular.
-
-Ficha Artículo 249
 
 Artículo 250. Preclusión. La preclusión procesal opera en todos los tipos de recursos que regula la Ley General de Contratación Pública e implica la extinción de la facultad para impugnar el contenido del pliego de condiciones o el acto final del procedimiento, según corresponda, cuando ya se tuvo la oportunidad de ejercer el derecho de recurrir los temas impugnados y no se ejerció en el momento que correspondía.
 
@@ -2994,21 +2501,15 @@ a) Cuando se objete un pliego de condiciones que ya había sido sometido al recu
 
 b) Cuando se impugne un acto final derivado de una resolución de apelación o revocatoria, la impugnación únicamente deberá girar contra las actuaciones realizadas con posterioridad a tal resolución.
 
-Ficha Artículo 250
-
 Artículo 251. Diligencias de adición y aclaración. Dentro de los tres días hábiles siguientes a la notificación de la resolución que resuelva un recurso de objeción, apelación o revocatoria, las partes podrán solicitar las aclaraciones o adiciones que consideren pertinentes para la correcta comprensión de lo dispuesto por la Contraloría General de la República o la Administración, según sea el caso. Por medio de estas diligencias sólo se podrán corregir errores materiales, precisar términos del pronunciamiento, subsanar omisiones o correcciones que presente la resolución, sin que sea posible variar lo resuelto. Las diligencias de adición y aclaración deberán ser resueltas dentro de los cinco días hábiles siguientes a su presentación y no impedirá la firmeza de lo dispuesto.
 
 La instancia competente para resolver el recurso podrá emitir aclaraciones o adiciones de oficio cuando lo estime pertinente, todo para la mejor comprensión de las partes y la aplicación de lo resuelto. Esta prerrogativa podrá ejercerse en cualquier momento independientemente del plazo previsto en el párrafo primero de este artículo.
-
-Ficha Artículo 251
 
 Artículo 252. Régimen recursivo en contrataciones efectuadas con normativa de sujetos de derecho público internacional. Cuando se promuevan concursos con sustento en normativa de un sujeto de derecho público internacional, al respectivo concurso le resultará aplicable el régimen recursivo previsto en la Ley General de Contratación Pública, una vez que la Administración emita el acto final y para todos los efectos, los concursos se asumirán como licitación mayor.
 
 En tales casos, cuando la normativa del sujeto de derecho público internacional contemple un mecanismo interno de protestas, con respecto al acto final emitido por la Administración, éste deberá ser observado previamente y una vez agotado ese mecanismo, la parte inconforme podrá acudir a la vía recursiva prevista en la Ley General de Contratación Pública, para impugnar el acto final dictado por la Administración.
 
 Cuando en la ley que aprueba el empréstito se establezca un régimen recursivo especial, éste deberá ser observado, de modo que no resultará de aplicación el régimen recursivo dispuesto en la Ley General de Contratación Pública.
-
-Ficha Artículo 252
 
 CAPÍTULO II
 
@@ -3019,8 +2520,6 @@ Artículo 253. Presentación y legitimación en el recurso de objeción en gener
 La condición de potencial oferente debe entenderse en sentido amplio, en tanto el interesado puede acreditar la posibilidad de participar como tal en forma individual, en consorcio o incluso en forma indirecta como subcontratista. La simple interposición del recurso permitirá presumir su interés en participar, sin perjuicio de las regulaciones sobre temeridad.
 
 Por organizaciones legalmente constituidas para velar por intereses de la comunidad, se entienden las agrupaciones de intereses profesionales, así como colegios profesionales, sectores productivos, empresariales y de cualquier otra índole, siempre que la contratación surta efectos sobre tales grupos. Previo a objetar las respectivas cláusulas del pliego de condiciones, resultará obligatorio que estas organizaciones acrediten en el recurso la afectación que se les causa con la ejecución de la contratación objetada.
-
-Ficha Artículo 253
 
 Artículo 254. Recurso de objeción tramitado ante la Contraloría General de la República. Tratándose de una licitación mayor o de lo regulado en el inciso c) del artículo 95 de la Ley General de Contratación Pública, la competencia para conocer el recurso de objeción al pliego de condiciones la ostenta la Contraloría General de la República.
 
@@ -3038,8 +2537,6 @@ Cuando el recurso de objeción revista alta complejidad, en razón del objeto o 
 
 Todas las actuaciones realizadas deberán ser incorporadas al expediente electrónico de la contratación.
 
-Ficha Artículo 254
-
 Artículo 255. Recurso de objeción de la licitación menor y licitación reducida tramitados ante la Administración. Tratándose de la licitación menor, la Administración ostenta la competencia para conocer del recurso, el cual deberá ser interpuesto en el sistema digital unificado dentro del plazo de tres días hábiles siguientes a la comunicación del pliego de condiciones.
 
 Conforme a lo previsto en el artículo 63, inciso n) de la Ley General de Contratación Pública el recurso de objeción en una licitación reducida se deberá presentar ante la Administración en el plazo de dos días hábiles siguientes a la comunicación del pliego de condiciones.
@@ -3050,13 +2547,9 @@ La Administración resolverá el recurso de objeción en contra de una licitaci�
 
 Únicamente en el caso de un recurso de objeción interpuesto en una licitación menor si este reviste alta complejidad, en razón del objeto o del número de sujetos intervinientes, al día del vencimiento del plazo legal, la Administración podrá notificar únicamente el por tanto de la resolución y dentro de los tres días hábiles siguientes a su comunicación deberá notificarse el contenido integral de la resolución.
 
-Ficha Artículo 255
-
 Artículo 256. Recurso de objeción a modificaciones al pliego de condiciones. Conforme al artículo 40 de la Ley General de Contratación Pública, la Administración estará facultada para modificar de oficio el pliego de condiciones sólo en dos ocasiones y hasta antes de la apertura de las ofertas. Únicamente, en el caso de que se modifique sustancialmente el objeto, se admitirá recurso de objeción en su contra. Se entenderá por sustancial la modificación que represente una variación fundamental del objeto contractual en su concepción original, el cambio de factores de evaluación previstos originalmente, la modificación de los pesos porcentuales y cualquier alteración relevante de los riesgos de la contratación y de las regulaciones de la ejecución contractual.
 
 En estos casos, aplicará lo dispuesto en los artículos 257 o 258 de este Reglamento para la tramitación del recurso de objeción, según corresponda.
-
-Ficha Artículo 256
 
 Artículo 257. Efectos de la interposición y de la resolución del recurso de objeción presentado ante la Contraloría General de la República. Interpuesto oportunamente el recurso de objeción, se prorrogará la apertura de las ofertas, en tanto sea necesaria para resolver el recurso planteado.
 
@@ -3064,15 +2557,11 @@ La resolución emitida por el fondo de los alegatos planteados en el recurso dar
 
 Cuando la Contraloría General de la República disponga la modificación del pliego de condiciones, la Administración deberá realizar las enmiendas correspondientes, las cuales han de ser comunicadas a los oferentes a través del sistema digital unificado en el menor tiempo posible, pero siempre antes de que se cumplan los plazos que implican la caducidad del procedimiento, conforme al artículo 51 de la Ley General de Contratación Pública.
 
-Ficha Artículo 257
-
 Artículo 258. Efectos de la interposición y de la resolución del recurso de objeción presentado ante la propia Administración. Interpuesto oportunamente el recurso de objeción, se prorrogará la apertura de las ofertas, en tanto sea necesaria para resolver el recurso planteado.
 
 El recurso deberá ser conocido por el órgano interno competente, el cual resolverá por el fondo los alegatos planteados. Dicha resolución dará por agotada la vía administrativa. El recurrente podrá solicitar que el recurso de objeción sea conocido y resuelto por el jerarca en el caso de que se objete un pliego de condiciones de una licitación menor.
 
 Las modificaciones al pliego de condiciones que sean acogidas en el recurso deberán ser comunicadas a través del sistema digital unificado.
-
-Ficha Artículo 258
 
 CAPÍTULO III
 
@@ -3081,8 +2570,6 @@ RECURSO DE APELACIÓN
 Artículo 259. Supuestos. El recurso de apelación deberá presentarse ante la Contraloría General de la República mediante el sistema digital unificado dentro de los ocho días hábiles siguientes a la comunicación del acto final, cuando se recurra el acto final de una licitación mayor; o el acto final de un procedimiento promovido por la Caja Costarricense del Seguro Social, en el supuesto previsto en el artículo 97 inciso c) de la Ley General de Contratación Pública, cuando el monto alcance el umbral previsto para la licitación mayor de las contrataciones de bienes y servicios del régimen ordinario.
 
 Cuando el procedimiento estuviere conformado por líneas independientes, la Administración continuará con la tramitación de las líneas no apeladas.
-
-Ficha Artículo 259
 
 Artículo 260. Procedencia. Para efectos de determinar la procedencia del recurso en contra del acto final de una licitación mayor, se considerará únicamente el tipo de procedimiento.
 
@@ -3094,11 +2581,7 @@ En licitaciones de cuantía inestimable cabrá únicamente el recurso de apelaci
 
 Si el monto adjudicado se encuentra consignado en una moneda extranjera, su conversión a colones para determinar cuál de los recursos es el procedente, se hará utilizando el tipo de cambio de referencia para la venta calculado por el Banco Central de Costa Rica, que se encuentra vigente el día en que se publique el respectivo aviso de adjudicación.
 
-Ficha Artículo 260
-
 Artículo 261. Legitimación. Podrá interponer el recurso de apelación cualquier persona que haya presentado oferta y ostente un interés legítimo, actual, propio y directo. Igualmente estará legitimado para apelar, quien haya presentado oferta, bajo cualquier título de representación, a nombre de un tercero. Dentro de este último supuesto se entenderá en todo caso a quien esté acreditado como representante de casas extranjeras dentro del expediente electrónico de la contratación.
-
-Ficha Artículo 261
 
 Artículo 262. Fundamentación. El escrito de apelación deberá indicar con precisión la infracción sustancial del ordenamiento jurídico que se alega como fundamento de la impugnación, así como individualizar las líneas que se recurren. El apelante deberá aportar la prueba en que se apoyen sus argumentaciones, y cuando discrepe de los estudios que sirven de motivo para adoptar la decisión, deberá rebatir en forma razonada tales estudios, aportando los dictámenes y estudios emitidos por profesionales calificados en la materia que se impugna.
 
@@ -3110,11 +2593,7 @@ Cuando se apele un acto de readjudicación, el fundamento del recurso debe girar
 
 En el escrito de respuesta a la audiencia inicial, la parte adjudicada y los otros participantes con mejor posición en la evaluación efectuada, tendrán la carga de la prueba, de forma que les corresponde desvirtuar los alegatos e incumplimientos imputados, la trascendencia del incumplimiento y la prueba aportada por el recurrente; para lo cual deberán cumplir con la misma diligencia exigida para la interposición del recurso de apelación.
 
-Ficha Artículo 262
-
 Artículo 263. Admisibilidad del recurso. Una vez vencido el plazo para apelar, la Contraloría General de la República contará con un plazo de ocho días hábiles para analizar la admisibilidad del recurso. En caso de determinar que el recurso resulta admisible, dentro de dicho plazo conferirá audiencia inicial por el plazo de ocho días hábiles a la Administración, al adjudicatario y a los otros participantes con una mejor posición en el sistema de evaluación respecto de los cuales se formulen alegatos en el recurso, a fin de que se pronuncien sobre el recurso presentado y los elementos probatorios que hayan sido aportados. Caso contrario, cuando la apelación no sea admisible, en el mismo plazo deberá rechazar el recurso.
-
-Ficha Artículo 263
 
 Artículo 264. Trámite de procedencia del recurso. La Contraloría General de la República resolverá el recurso de apelación dentro de los treinta días hábiles siguientes al vencimiento del plazo para responder la audiencia inicial conferida. En dicha audiencia inicial no será admisible la argumentación de hechos nuevos no debatidos en el recurso.
 
@@ -3130,8 +2609,6 @@ En casos muy calificados la Contraloría General de la República podrá conferi
 
 De previo al dictado de la resolución final, la Contraloría General de la República, facultativamente, concederá a las partes una audiencia final otorgándoles un plazo de tres días hábiles para que formulen conclusiones sobre el fondo del asunto, sin que sea admisible la argumentación de hechos nuevos no debatidos en el recurso.
 
-Ficha Artículo 264
-
 Artículo 265. Supuestos de inadmisibilidad. El recurso de apelación será rechazado de plano por inadmisible, en los siguientes casos:
 
 a) Cuando la Contraloría General de la República carezca de competencia en razón de la materia.
@@ -3143,8 +2620,6 @@ c) Cuando no corresponda conocerlo a la Contraloría General de la República en
 d) Cuando no se cumpla con los requisitos formales previstos en el ordenamiento para interponerlo.
 
 Al momento de contestar la audiencia inicial, las partes podrán alegar como excepción la presentación extemporánea o la incompetencia en razón de lo dispuesto en el inciso c) del presente artículo, que en caso de prosperar obligará a dictar la resolución final dentro de los diez días hábiles siguientes al recibo de la gestión.
-
-Ficha Artículo 265
 
 Artículo 266.Supuestos de improcedencia manifiesta. El recurso de apelación será rechazado de plano por improcedencia manifiesta, en cualquier momento del procedimiento en que se advierta, en los siguientes casos:
 
@@ -3160,23 +2635,15 @@ e) Cuando el recurso se presente sin la fundamentación que exige el artículo 2
 
 f) Cuando los argumentos que sustentan el recurso se encuentren precluidos.
 
-Ficha Artículo 266
-
 Artículo 267. Efectos de la interposición y de la resolución que resuelve el recurso de apelación. Una vez interpuesto el recurso de apelación opera la suspensión automática de todos los efectos del acto final recurrido. Los efectos de las resoluciones que se emitan con ocasión del trámite del recurso de apelación serán los indicados en el artículo 98 de la Ley General de Contratación Pública.
 
 La resolución que resuelva el recurso de apelación dará por agotada la vía administrativa.
 
-Ficha Artículo 267
-
 Artículo 268. Prórroga para resolver. En casos de recursos contra actos finales de procedimientos que revistan alta complejidad en razón del objeto o por el número de los sujetos intervinientes, la Contraloría General de la República podrá prorrogar el plazo de resolución del recurso hasta por diez días hábiles adicionales, mediante acto motivado.
-
-Ficha Artículo 268
 
 Artículo 269. Acumulación de recursos. Cuando en una licitación mayor por líneas independientes o en una contratación de la Caja Costarricense de Seguro Social, a las que se refiere el artículo en el artículo 97 inciso c) de la Ley General de Contratación Pública, se presenten recursos de revocatoria sobre las mismas líneas impugnadas en un recurso de apelación, la Contraloría General de la República procederá a acumular los recursos en el auto inicial, el cual deberá ser notificado a todos los recurrentes.
 
 Al atender la audiencia inicial, la Contraloría General de la República resolverá los recursos de revocatoria que deben ser acumulados, siguiendo el trámite del recurso de apelación según lo dispuesto en el artículo 264 de este Reglamento.
-
-Ficha Artículo 269
 
 CAPÍTULO IV
 
@@ -3196,13 +2663,9 @@ e) En contra del acto final adoptado conforme al artículo 60 inciso d) de la Le
 
 El recurso de revocatoria en contra de una licitación reducida se tramitará conforme a las reglas previstas en el artículo 63 inciso l) de la Ley General de Contratación Pública, siendo aplicables las normas de la revocatoria contra la licitación menor, en cuanto resulten compatibles con su naturaleza.
 
-Ficha Artículo 270
-
 Artículo 271.Trámite de procedencia del recurso. En cuanto al trámite del recurso de revocatoria le resultan aplicables, en lo pertinente, las disposiciones establecidas en el artículo 99 de la Ley General de Contratación Pública.
 
 En la tramitación del recurso de revocatoria se aplicarán en lo pertinente las regulaciones previstas para el recurso de apelación.
-
-Ficha Artículo 271
 
 TÍTULO V
 
@@ -3218,19 +2681,13 @@ VALIDEZ, PERFECCIONAMIENTO Y FORMALIZACIÓN CONTRACTUAL
 
 Artículo 272. Elementos del contrato. Todo contrato deberá contener al menos la identificación de las partes, acreditación de la capacidad de quienes suscriben el contrato, objeto contractual y tipo de contrato, precio, plazo de ejecución del contrato, condiciones de control durante la ejecución contractual, condiciones de entrega o prestación y condiciones de pago.
 
-Ficha Artículo 272
-
 Artículo 273. Validez. Será válido el contrato administrativo sustancialmente conforme con el ordenamiento jurídico, por lo que, en aplicación del principio de eficiencia, no le afectarán aquellos vicios intrascendentes del procedimiento de selección del contratista.
-
-Ficha Artículo 273
 
 Artículo 274. Perfeccionamiento y formalización contractual. Se tendrá por perfeccionada la relación contractual entre la Administración y el contratista cuando el acto de adjudicación o readjudicación adquiera firmeza y en los casos que se exija la constitución de la garantía de cumplimiento, ésta sea válidamente otorgada conforme a lo previsto en el artículo 44 de la Ley General de Contratación Pública.
 
 La formalización contractual para el correcto entendimiento de los alcances de los derechos y obligaciones se configura con la firma digital de las partes en el sistema digital unificado. Lo anterior, salvo los casos que por disposición legal ameriten la formalidad de la escritura pública y deban inscribirse en el Registro Nacional. En ese caso el respectivo contrato deberá constar en el sistema digital unificado según lo dispuesto por el artículo 16 de la Ley General de Contratación Pública.
 
 En aquellos casos en los que por la naturaleza de la contratación ya se haya formalizado un contrato principal y la Administración se adhiera al mismo, deberá estar incorporado al sistema digital unificado únicamente el documento de ejecución denominado pedido, orden de compra u otro similar, el cual deberá incluir la descripción del bien o servicio, nombre del contratista, plazo de entrega y monto del contrato. Dicho documento constituirá instrumento idóneo junto al expediente administrativo en que se sustenta, para que se ejerza la fiscalización del procedimiento, así como para continuar con los trámites de ejecución contractual y pago respectivo, todo bajo responsabilidad del funcionario que la emite.
-
-Ficha Artículo 274
 
 Artículo 275. Procedimiento de Formalización Contractual. El contrato será suscrito por el funcionario legalmente facultado para ello y por el representante legal del contratista, deberá contener la descripción de los elementos esenciales de la relación contractual y cancelarse las especies fiscales que correspondan.
 
@@ -3239,8 +2696,6 @@ A través del sistema digital unificado se configurará el contrato respectivo y
 Suscrita la formalización contractual, la Administración dispondrá de tres días hábiles para enviarlo a refrendo interno o refrendo, según corresponda, todo lo cual se tramitará conforme al Reglamento de Refrendo emitido por la Contraloría General de la República.
 
 En las contrataciones cuyo monto no exceda los límites para efectuar licitaciones menores, la orden de pedido, orden de compra u otro similar, sustituirá la formalización contractual para la ejecución, la cual deberá incluir la descripción del bien, servicio u obra, identificación del contratista adjudicado, plazo de entrega y monto del contrato, entre otros aspectos, siendo este un instrumento idóneo junto al expediente administrativo en que se sustenta, para que se ejerza la fiscalización del procedimiento, así como para continuar con los trámites de ejecución contractual y pago respectivo, todo bajo responsabilidad del funcionario que la emite.
-
-Ficha Artículo 275
 
 Artículo 276. Modificación unilateral del contrato de bienes y servicios. La Administración podrá modificar unilateralmente sus contratos ya sea aumentando o disminuyendo hasta un veinte (20%) el monto y el plazo del contrato original siempre que con ello se logre conseguir una mejor satisfacción del interés público, y excepcionalmente podrá superarse dicho porcentaje, cuando se acrediten técnicamente circunstancias excepcionales hasta alcanzar el tope máximo del (50%) del contrato original.
 
@@ -3272,13 +2727,9 @@ La Administración deberá revisar el monto de las garantías rendidas a efecto 
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 44745 del 9 de octubre de 2024)
 
-Ficha Artículo 276
-
 Artículo 277. Cesión. Los derechos y las obligaciones derivados de un contrato en ejecución podrán ser cedidos a un tercero, previa autorización de la Administración, siempre que no se trate de una obligación personalísima.
 
 El jerarca o quien éste designe contará con un plazo de hasta diez días hábiles para resolver la solicitud de cesión planteada, la cual debe acompañarse como mínimo de la solicitud formulada por el cedente la aceptación del cesionario y cualquier documentación que resulte pertinente en relación con sus condiciones. La autorización que emita el jerarca o quien este designe, deberá adoptarse mediante acto debidamente motivado en el que al menos se analicen los aspectos indicados en el artículo 102 de la Ley General de Contratación Pública.
-
-Ficha Artículo 277
 
 Artículo 278. Cesión de los derechos de pago. Los derechos de cobro frente a la Administración, podrán cederse en cualquier momento, sin que sea necesario el consentimiento de ésta. Sin embargo, deberá informarse a la entidad contratante, una vez que la cesión sea convenida, sin detrimento de los montos que por concepto de multas y cláusulas penales se deban resarcir con dicho pago, los cuales se deducirán automáticamente del monto. El documento de cesión de derechos de pago, deberá ser presentado ante la Administración mediante el sistema digital unificado.
 
@@ -3289,8 +2740,6 @@ La Administración no podrá negarse a pagar al cesionario, pero si podrá opone
 La cesión de pago recibida por la Administración no exonera al contratista de sus obligaciones y tampoco convierte al cesionario en parte contractual. El cesionario del crédito asume por completo el riesgo por el no pago de la obligación por parte de la Administración, originado en las excepciones antes dichas.
 
 Carecen de efecto legal las leyendas incluidas en las facturas comerciales que supongan aceptación del objeto contractual o renuncia a reclamos posteriores derivados de la simple recepción del documento de cobro.
-
-Ficha Artículo 278
 
 Artículo 279. Contratación Irregular. El contrato se tendrá como irregular, conforme a lo previsto por el artículo 103 de la Ley General de Contratación Pública, únicamente cuando:
 
@@ -3306,8 +2755,6 @@ La resolución de pago ordenará la investigación para determinar si procede da
 
 El procedimiento para sancionar al contratista se sujetará a las reglas previstas en el artículo 121 de la Ley General de Contratación Pública y en tal caso, abarcará tanto la sanción administrativa, como el resarcimiento civil.
 
-Ficha Artículo 279
-
 SECCIÓN II
 
 PLAZO Y PRORROGAS DEL CONTRATO
@@ -3322,8 +2769,6 @@ En el sistema digital unificado deberá constar un registro de los plazos de las
 
 La Administración contratante deberá incluir en el sistema digital unificado, los plazos de las contrataciones vigentes, así como sus posibles prórrogas a fin de mantener actualizado el registro de los plazos para generar las alertas de manera oportuna.
 
-Ficha Artículo 280
-
 Artículo 281. Prórrogas al plazo de ejecución del contrato. A solicitud del contratista, la Administración podrá autorizar prórrogas al plazo de ejecución del contrato vigente, cuando existan demoras ocasionadas por ella misma o causas ajenas al contratista originadas por caso fortuito y fuerza mayor.
 
 La Administración deberá valorar la solicitud de prórroga del contratista considerando las afectaciones en la programación de la ejecución contractual, conforme a lo que le haya acreditado y probado el contratista en su requerimiento.
@@ -3333,8 +2778,6 @@ Una vez presentado el evento que ocasiona la solicitud el contratista deberá co
 Si se presenta un evento que puede ocasionar una prórroga, el contratista una vez conocido el hecho deberá comunicarlo de manera inmediata a la Administración.
 
 El contratista solicitará la prórroga dentro de los ocho días hábiles siguientes al conocimiento del hecho que provoca la extensión del plazo y la Administración contará con igual plazo para resolver si procede o no. Si la solicitud se hace fuera de plazo, pero estando aún el contrato vigente, la Administración podrá autorizar la prórroga, en caso de estar debidamente sustentada.
-
-Ficha Artículo 281
 
 Artículo 282. Suspensión del plazo y de la ejecución del contrato. Para efectos del presente reglamento se aplicarán las siguientes suspensiones, en cuanto al plazo y ejecución del contrato:
 
@@ -3368,8 +2811,6 @@ El contratista podrá reclamar a la Administración la indemnización de los da�
 
 De no reiniciarse el contrato en la fecha de reinicio fijada, la Administración deberá iniciar de forma inmediata el procedimiento tendiente a su rescisión, salvo que razones de interés público, impongan continuar con su inmediata ejecución.
 
-Ficha Artículo 282
-
 SECCIÓN III
 
 FISCALIZACIÓN Y RESPONSABILIDADES
@@ -3392,8 +2833,6 @@ f) Solicitar los criterios técnicos necesarios para una mejor fiscalización de
 
 a) Cualquier otro aspecto que la Administración contratante considere necesaria para la correcta fiscalización del contrato.
 
-Ficha Artículo 283
-
 SECCIÓN IV
 
 RECEPCIÓN DE BIENES Y SERVICIOS
@@ -3408,8 +2847,6 @@ Tratándose de incumplimientos graves la Administración podrá iniciar el proce
 
 Vencido el plazo para corregir defectos, sin que éstos hayan sido atendidos a satisfacción, la Administración decidirá de frente a su gravedad y al interés público si solo ejecuta la garantía de cumplimiento o si también inicia el respectivo procedimiento de incumplimiento o de resolución contractual. Si los daños sufridos exceden el monto de la garantía, la entidad adoptará las medidas administrativas y judiciales pertinentes para su plena indemnización.
 
-Ficha Artículo 284
-
 Artículo 285. Recepción definitiva de bienes y servicios. La recepción definitiva del objeto será extendida dentro del mes siguiente a la recepción provisional o dentro del plazo establecido en el pliego de condiciones, o bien, vencido el plazo para corregir defectos. La recepción definitiva no excluye la ejecución de la garantía de cumplimiento, si los bienes y servicios presentan alguna inconformidad con lo establecido en el contrato. A partir de este momento comenzarán a regir las garantías adicionales ofrecidas por el contratista y no correrán multas.
 
 Para ello se levantará un acta, la cual deberá estar en el sistema digital unificado; en esta acta deberá quedar constancia clara de la forma en que se ejecutó el contrato, indicando al menos, tiempo de ejecución y las prórrogas concedidas, cuando fuera pertinente, forma en que se cumplieron las obligaciones, garantías ejecutadas o penalidades impuestas, ajuste a las muestras aportadas.
@@ -3422,15 +2859,11 @@ Todo pago a cargo de la Administración se realizará luego de la recepción def
 
 La recepción definitiva no exime al contratista de responsabilidad por vicios ocultos.
 
-Ficha Artículo 285
-
 Artículo 286. Rechazo del objeto. En caso de incumplimientos graves y evidentes, la Administración podrá rechazar el objeto en el mismo acto previsto para su recepción provisional y disponer el procedimiento de resolución contractual. Cuando el objeto esté compuesto por líneas independientes entre sí, la entidad podrá recibir provisionalmente unas y rechazar otras.
 
 A criterio de la Administración se podrá conceder al contratista un nuevo plazo para que corrija el incumplimiento, el cual no podrá exceder de la mitad del plazo de ejecución original y no impedirá el cobro de multas; salvo lo dispuesto en el artículo 284 de este Reglamento.
 
 Vencido ese plazo sin que el contratista cumpla a satisfacción, la Administración valorará ejecutar la garantía de cumplimiento o también iniciar el procedimiento de resolución contractual.
-
-Ficha Artículo 286
 
 Artículo 287. Recibo de bienes actualizados. El contratista está obligado a entregar a la Administración bienes en las mejores condiciones y actualizados, conforme las siguientes reglas:
 
@@ -3449,8 +2882,6 @@ En el caso de adquisición de tecnología, el contratista está obligado a entre
 La mejora deberá primero informarse por escrito, explicando en detalle en qué consiste el cambio, de ser necesario a partir de literatura técnica y cualesquiera otros elementos que resulten pertinentes. La Administración contará con diez días hábiles para resolver motivadamente la gestión, aceptando o rechazando el cambio propuesto, lapso que suspenderá el plazo de entrega. En caso de que se acepte la mejora la Administración, a petición del contratista, podrá prorrogar de manera justificada el plazo de entrega, que no podrá exceder el plazo original.
 
 Bajo ninguna circunstancia, los cambios en los bienes o servicios podrán demeritar las garantías y condiciones de los bienes inicialmente ofrecidas, las cuales se consideran un mínimo que no podrá ser rebajado ante modificaciones de esta naturaleza.
-
-Ficha Artículo 287
 
 CAPÍTULO II
 
@@ -3484,23 +2915,15 @@ i) El rescate del servicio para ser explotado directamente por la Administració
 
 j) Si la Administración es notificada por las autoridades jurisdiccionales de una sentencia penal condenatoria en firme en contra del contratista por la aplicación del artículo 11 inciso e) de la Ley de Responsabilidad de Personas Jurídicas por Cohechos Domésticos, Soborno Trasnacional y Otros, Ley N°9699, de 10 de junio de 2019, salvo que pueda causar graves consecuencias sociales o daños serios al interés público, como resultado de su aplicación.
 
-Ficha Artículo 288
-
 Artículo 289. Rescate del servicio para ser explotado directamente por la Administración. Cuando a criterio de la Administración contratante, existan fundados motivos sobrevinientes de interés público para proceder a asumir directamente la prestación del servicio, podrá decretarse su rescate por causa de interés público. Para ello, el acto motivado deberá ser suscrito por parte del máximo jerarca o por quien éste delegue. Para aplicar la presente causal se deberá acudir al procedimiento previsto en el artículo 114 de la Ley General de Contratación Pública.
 
-Ficha Artículo 289
-
 Artículo 290. Supresión del servicio por razones de interés público. Cuando a criterio de la Administración existan motivos fundados de interés público sobrevinientes, la Administración podrá suprimir la prestación del servicio, mediante acto motivado que deberá ser suscrito por parte del máximo jerarca o por quien éste delegue. Para aplicar la presente causal se deberá acudir al procedimiento previsto en el artículo 114 de la Ley General de Contratación Pública.
-
-Ficha Artículo 290
 
 Artículo 291. Finiquito de los contratos de servicios y suministro de bienes. En los contratos de servicios o suministros de bienes podrán pactarse finiquitos dentro del plazo de seis meses, contado a partir de la recepción definitiva del objeto contractual, conforme a lo previsto por el artículo 111 de la Ley General de Contratación Pública.
 
 En el pliego de condiciones para este tipo de contratos se dispondrá la obligación de realizar el respectivo finiquito y en tal caso, se aplicarán en lo pertinente, los requisitos establecidos en el artículo 190 de este Reglamento para el finiquito del contrato de obra pública.
 
 El finiquito deberá formar parte del expediente electrónico de la contratación.
-
-Ficha Artículo 291
 
 Artículo 292. Caducidad. En materia de contratación pública aplicará la figura de la caducidad del contrato ante la inactividad de la Administración o del contratista por un período que supere los seis meses, en forma continua, o ante la sumatoria de suspensiones parciales que, en conjunto con los períodos de inactividad, supere dicho plazo. El cómputo del plazo que supere los seis meses se deberá contabilizar de forma separada según la inactividad provenga de la Administración o del contratista y cuando se alcance ese plazo se originará la caducidad del contrato.
 
@@ -3511,8 +2934,6 @@ En el supuesto de que opere la caducidad, al transcurrir el plazo indicado, el j
 Contra la declaratoria de caducidad cabrán los recursos ordinarios de revocatoria y apelación, para lo cual aplicarán los mismos plazos establecidos en el artículo 114 de la Ley General de Contratación Pública.
 
 No obstante lo anterior, la Administración previo a declarar la caducidad tendrá la responsabilidad de efectuar el análisis técnico jurídico a fin de determinar si procede la resolución contractual por acaecimiento de la caducidad o por incumplimiento por parte del contratista, de modo que se tramite el procedimiento más expedito para la Administración, en aras de resguardar los fondos públicos que le fueron asignados.
-
-Ficha Artículo 292
 
 SECCIÓN II
 
@@ -3546,8 +2967,6 @@ l) Si el contratista incurre durante la fase de ejecución en cualquiera de las 
 
 Contra el acto de resolución contractual cabrán los recursos de revocatoria y apelación, de conformidad con el artículo 114 de la Ley General de Contratación Pública. Firme la resolución contractual se procederá a ejecutar la garantía de cumplimiento y cualesquiera otras multas, si ello resulta pertinente. En el evento de que la Administración haya previsto en el pliego de condiciones cláusulas de retención, se podrán aplicar esos montos al pago de los daños y perjuicios reconocidos. De ser las garantías y retenciones insuficientes, se adoptarán las medidas en sede administrativa y judicial necesarias para obtener la plena indemnización.
 
-Ficha Artículo 293
-
 CAPÍTULO III
 
 RESOLUCIÓN DE CONTROVERSIAS
@@ -3562,19 +2981,13 @@ La decisión que determine el comité respecto a la controversia planteada por l
 
 En lo que resulte pertinente, las disposiciones reguladas en el artículo 117 de la Ley General de Contratación Pública y en este Reglamento se aplicarán a cualquier otro tipo de contrato que gestione la Administración, según sean los riesgos, así como la inversión y el valor público del objeto contractual comprometido.
 
-Ficha Artículo 294
-
 Artículo 295. Centro de Resolución de Controversias. Los miembros del comité de expertos deberán ser seleccionados de las listas de profesionales acreditados ante los Centros de Resolución de Controversias u otros Registros debidamente autorizados por el Ministerio de Justicia y Paz; salvo en el caso de empréstitos públicos en los cuales la ley que los aprueba disponga en las condiciones del empréstito de otro centro de resolución.
 
 En caso de inopia debidamente motivada, las partes podrán designar a profesionales internacionales de comprobada experiencia, según sea el caso y la materia específica.
 
-Ficha Artículo 295
-
 Artículo 296. Comité de expertos. El comité de expertos tendrá competencia para conocer y resolver cualquier controversia que surja entre las partes contratantes. El comité podrá ser colegiado o unipersonal, permanente o ad hoc, según lo disponga el pliego de condiciones y el contrato, considerando para ello los mayores riesgos que el proyecto conlleva, así como la inversión y valor público comprometidos.
 
 El comité estará integrado por uno o tres expertos, según se haya dispuesto en el pliego de condiciones y en el respectivo contrato. De no establecerse en el pliego de condiciones se entenderá que el comité de expertos estará conformado por tres miembros. Los expertos deberán tener la capacidad profesional y experiencia demostrada en relación con el objeto contractual.
-
-Ficha Artículo 296
 
 Artículo 297. Comité de expertos en las licitaciones mayores de obra pública. El Comité de expertos en las licitaciones mayores de obra pública deberá ser permanente o ad hoc y podrá preferiblemente ser colegiado según sean los mayores riesgos, la inversión y el valor público del objeto contractual comprometido y así deberá estar previsto obligatoriamente en las condiciones reguladas en el pliego y adoptadas en el respectivo contrato, para lo cual deberá asesorarse del equipo técnico correspondiente. De constituirse un Comité unipersonal, deberá acreditarse que la decisión se fundamenta en la valoración de riesgos, la inversión y el valor público de la obra. Dicho Comité deberá asesorarse delequipo técnico correspondiente.
 
@@ -3584,11 +2997,7 @@ El comité deberá efectuar visitas periódicas al proyecto, propondrá a las pa
 
 Cuando el comité de expertos haya emitido una recomendación a las partes durante el curso de la ejecución del proyecto, ello no le inhibirá de emitir criterio final sobre la resolución de las controversias que se le planteen.
 
-Ficha Artículo 297
-
 Artículo 298. Comité ad hoc de expertos. El comité ad hoc de expertos será nombrado cuando se suscite cualquier controversia que no pueda ser resuelta entre las partes por negociación directa. Este Comité ad hoc intervendrá únicamente para la resolución de controversias específicas que se susciten en la ejecución del contrato.
-
-Ficha Artículo 298
 
 Artículo 299. Nombramiento del Comité de Expertos. Para el nombramiento de los expertos las partes deberán considerar los plazos y las condiciones reguladas en el pliego de condiciones y adoptadas en el respectivo contrato. Cuando el comité sea colegiado, éste deberá estar conformado por tres expertos, cada parte deberá nombrar a uno de los miembros y contar con la aprobación de la otra parte, entre ambos expertos elegirán al tercer miembro, el cual actuará como su presidente.
 
@@ -3596,15 +3005,11 @@ Cuando el comité sea unipersonal, el experto será nombrado por común acuerdo 
 
 A falta de acuerdo entre las partes sobre el nombramiento de los miembros del comité, el Centro de Resolución de Controversias establecido en las condiciones reguladas en el pliego y adoptadas en el respectivo contrato, será el encargado de designar al profesional o profesionales que se requieran, considerando para ello las manifestaciones de ambas partes, siempre que sea posible.
 
-Ficha Artículo 299
-
 Artículo 300. De los requisitos para ser miembros de los comités de expertos. Los expertos autorizados en el Centro de Resolución de Controversias deberán ser profesionales de ingeniería, arquitectura o de cualquier otra profesión afín con el objeto contractual. Estos profesionales deben contar con conocimiento técnico y experiencia comprobada relacionada con el proyecto objeto del contrato en el que intervendrán como miembros del comité de expertos.
 
 El Centro de Resolución de Controversias dispondrá los requisitos de experiencia, de idoneidad, de habilidades blandas, así como de capacitación en resolución de controversias, en gestión de proyectos y en la aplicación y gestión de modelos de contratos reconocidos internacionalmente y de cualquier otro requisito que estimen pertinente, que deberán reunir los profesionales para ser parte de la lista de expertos autorizados por dicho centro. Cuando el Centro ya disponga de profesionales autorizados, podrá disponer de ellos, sin perjuicio de las actualizaciones que el Centro disponga para seguir conformando la lista de expertos.
 
 Si cualquiera de las partes desea recusar un experto por razones de supuesta falta de imparcialidad, independencia o por cualquier otro motivo, deberá presentar la recusación correspondiente ante el centro designado, quien decidirá en última instancia.
-
-Ficha Artículo 300
 
 Artículo 301. Independencia e imparcialidad de los expertos. Los profesionales que opten para ser elegidos como miembros del comité de expertos deberán firmar una declaración jurada en la cual manifiesten que no tiene limitación o impedimento de orden legal, técnico ni ético que puedan poner en duda su independencia e imparcialidad para integrarlo.
 
@@ -3612,31 +3017,21 @@ En caso de que a un miembro en el ejercicio de sus funciones como integrante del
 
 Los miembros del comité de expertos actuarán con honestidad e integridad durante toda la ejecución del proyecto y deberán abstenerse de cualquier actuación que les coloque en una situación de conflicto de interés con las partes que comprometa su imparcialidad.
 
-Ficha Artículo 301
-
 Artículo 302. Deber de información. Las partes deberán cooperar plenamente con el comité de expertos. Una vez que el comité de expertos esté constituido, las partes deberán facilitarle la información y documentación relacionadas al proyecto con la periodicidad que haya sido dispuesta en el contrato, debiendo en todo momento cooperar para asegurar que el comité se encuentre debidamente informado acerca del avance de la ejecución del proyecto, a fin de que éste pueda elaborar sus recomendaciones y/o adoptar sus decisiones según corresponda, con toda la información disponible. Además, las partes deberán suministrar la información que requiera el comité de expertos en el plazo que éste disponga.
 
 Las partes deberán facilitar las visitas al lugar o lugares de ejecución del contrato en el momento en que lo solicite el comité de expertos.
-
-Ficha Artículo 302
 
 Artículo 303. Plazo para emitir criterio. El comité contará con un plazo máximo de seis semanas para emitir su decisión contado a partir de que se someta la controversia a su decisión, salvo que las partes contratantes y el comité de expertos pacten un plazo distinto, atendiendo estrictamente a las circunstancias del caso concreto, todo lo cual deberá constar en acto debidamente motivado.
 
 En todo se buscará la celeridad y oportunidad en la toma de decisión.
 
-Ficha Artículo 303
-
 Artículo 304. Vinculancia de la decisión del comité de expertos. El comité de expertos emitirá decisiones vinculantes para las partes, las cuales deberán ejecutarse de acuerdo a lo dispuesto en el criterio. La decisión que emita el comité de expertos deberá ser motivada. Las partes estarán obligadas a cumplir con la decisión de inmediato, una vez notificada, aún y cuando cualquiera de ellas manifieste su inconformidad. De previo a iniciar un proceso ante la jurisdicción contencioso administrativa o en sede arbitral, la parte en desacuerdo con el criterio del comité deberá plantear su inconformidad con lo resuelto ante el mismo comité, en el plazo y conforme se disponga en el pliego de condiciones y en el respectivo contrato. A falta de designación de un plazo, se entenderá que la disconformidad deberá ser remitida al comité de expertos en los cinco días hábiles siguientes a la notificación.
 
 Lo actuado por el Comité deberá constar en el expediente electrónico de la contratación del proyecto.
 
-Ficha Artículo 304
-
 Artículo 305. Honorarios y gastos. Las partes asumen en partes iguales todos los honorarios y gastos de los miembros del comité de expertos, conforme a lo establecido en las respectivas tablas de tarifas del Centro de Resolución de Controversias previsto y las condiciones reguladas en el pliego y adoptadas en el respectivo contrato.
 
 La Administración deberá realizar las previsiones presupuestarias que correspondan.
-
-Ficha Artículo 305
 
 TÍTULO VI
 
@@ -3666,8 +3061,6 @@ f) Ser de reconocida honorabilidad, lo cual deberá acreditarse mediante informa
 
 El director y el subdirector deberán rendir una garantía a favor del Ministerio de Hacienda, la cual se establecerá anualmente durante el primer trimestre de cada año por el Departamento de Gestión del Potencial Humano, monto que deberá actualizarse considerando el nivel de responsabilidad y el parámetro del salario base establecido en laLey Crea Concepto Salario Base para Delitos Especiales del Código Penal, Ley N°7337, de 5 de mayo de 1993; el cual es actualizado anualmente por la Corte Suprema de Justicia en el Boletín Judicial al inicio de cada año.
 
-Ficha Artículo 306
-
 Artículo 307. Impedimentos. No podrán ser nombrados Director o Sub Director de la Dirección de Contratación Pública:
 
 a) El cónyuge del Director o Sub Director de la Dirección de Contratación Pública.
@@ -3682,13 +3075,9 @@ e) Quien ostente cualquier otro impedimento que pueda conllevar su excusa o recu
 
 f) La violación de estos impedimentos causará la nulidad absoluta del nombramiento.
 
-Ficha Artículo 307
-
 Artículo 308. Funciones de la Dirección de Contratación Pública. La Dirección de Contratación Pública del Ministerio de Hacienda, fungirá como órgano ejecutor de la Autoridad de Contratación Pública y tendrá entre sus funciones, las establecidas en el artículo 129 de la Ley General de Contratación Pública y este Reglamento.
 
 El personal que desempeñe funciones en la Dirección de Contratación Pública deberá ser idóneo. Con ese fin se dispondrán los recursos necesarios para su participación en procesos periódicos de capacitación, a fin de alcanzar niveles óptimos de profesionalización, según el perfil o puesto, conforme lo defina la Autoridad de Contratación Pública y lo gestione la Dirección de Contratación Pública.
-
-Ficha Artículo 308
 
 Artículo 309. Materia consultiva en Contratación Pública. Le corresponde a la Dirección de Contratación Pública atender las consultas de la Administración relacionadas con la materia específica de sus competencias previstas en la Ley General de Contratación Pública.
 
@@ -3700,8 +3089,6 @@ Los criterios que emita la Dirección de Contratación Pública en el ejercicio 
 
 Asimismo, le corresponderá a la Contraloría General de la República atender las consultas que en materia de su competencia le otorga la Ley Orgánica de la Contraloría General de la República, Ley N°7428, de 07 de setiembre de 1994.
 
-Ficha Artículo 309
-
 Artículo 310. Elaboración del Plan Nacional de Compra Pública y emisión de directrices. La Dirección de Contratación Pública deberá elaborar el Plan Nacional de Compra Pública, siendo éste el marco orientador que establece políticas, objetivos, metas estratégicas e indicadores de gestión y resultados, para el sector público en materia de contratación pública.
 
 Para su desarrollo deberá considerar la vinculación con el Plan Nacional de Desarrollo, el Plan Nacional de Inversión Pública y demás políticas públicas relacionadas, así como la integración de diversos sectores, con el fin de promover la eficiencia y transparencia en los procedimientos de adquisición pública del Estado y deberá ser presentado ante la Autoridad de Contratación Pública para su revisión y aprobación.
@@ -3710,21 +3097,13 @@ El Plan Nacional de Compra Pública tendrá una vigencia de seis años y podrá 
 
 Para la proposición de directrices previstas en el artículo 128 inciso c) de la Ley General de Contratación Pública, la Autoridad de Contratación Pública emitirá los lineamientos para la escucha de la opinión de los distintos actores y la ciudadanía, de previo a realizar la propuesta final al Poder Ejecutivo.
 
-Ficha Artículo 310
-
 Artículo 311. Administración de los riesgos en materia de contratación pública. La Dirección de Contratación Pública, deberá administrar los riesgos asociados a su gestión, conforme lo indicado en el artículo 129 de la Ley General de Contratación Pública y deberá establecer las acciones pertinentes que permitan la mitigación de estos. Asimismo, propiciará que la Administración activa administre los riesgos asociados a su operación e implemente los planes de gestión de riesgos y continuidad del negocio, las metodologías y herramientas de control requeridas, para minimizar los riesgos que puedan presentarse en los procesos de contratación pública, de conformidad con la normativa vigente.
 
-Ficha Artículo 311
-
 Artículo 312 Requerimiento de información a las instituciones del sector público. Las instituciones públicas están en la obligación de brindar la información requerida por la Dirección de Contratación Pública en el ámbito de su competencia, cuando esta sea necesaria para el cumplimiento de los fines previstos en la Ley General de Contratación Pública y este Reglamento.
-
-Ficha Artículo 312
 
 Artículo 313. Conformación de registro único de sanciones a particulares. Conforme a lo previsto en el artículo 123 de la Ley General de Contratación Pública, la Dirección de Contratación Pública deberá conformar un registro actualizado y único de sanciones de particulares, el cual deberá estar disponible para su consulta pública y de fácil acceso en el sistema digital unificado. La Contraloría General de la República y la Administración deberán ingresar la sanción respectiva al módulo correspondiente de sanciones en el sistema digital unificado, dentro del día hábil siguiente a aquel en que la recibe y por el plazo de la sanción. Para tal efecto, el sistema digital unificado tendrá un módulo de fácil acceso donde consten los sujetos sancionados, la Administración o entidad que impone la sanción, la causal y el plazo de sanción.
 
 Con el fin de dar cumplimiento a lo establecido en el artículo 29 de la Ley Responsabilidad de las Personas Jurídicas Sobre Cohechos Domésticos, Soborno Transnacional y Otros Delitos, el Registro Judicial de Delincuentes del Poder Judicial deberá notificar a la Dirección de Contratación Pública el registro de las condenatorias y medidas alternas al conflicto, dispuestas contra las personas jurídicas, o bien incluir dicha información en el sistema digital unificado, de conformidad con los lineamientos que al efecto emita dicha Dirección.
-
-Ficha Artículo 313
 
 CAPÍTULO II
 
@@ -3736,8 +3115,6 @@ En el caso de la Administración Central las funciones de las proveedurías se e
 
 Toda unidad Administrativa, independientemente de su naturaleza o ubicación en la estructura orgánica institucional, estará obligada a brindar la colaboración y asesoría que requiera la proveeduría institucional para el debido cumplimiento de las obligaciones y atribuciones.
 
-Ficha Artículo 314
-
 Artículo 315. Personal de la Proveeduría institucional. El personal que desempeñe funciones en las proveedurías institucionales deberá ser idóneo y calificado, de acuerdo con los lineamientos que emita la Autoridad de Contratación Pública. Con ese fin las administraciones dispondrán los recursos necesarios para su participación en procesos periódicos de capacitación, a fin de alcanzar niveles óptimos de profesionalización y acreditación según el perfil o puesto, conforme lo defina la Autoridad de Contratación Pública y lo gestione la Dirección de Contratación Pública.
 
 Quien ejerza el cargo de proveedor institucional deberá contar con la preparación académica, profesional y/o técnica necesaria para el desempeño óptimo de sus labores. Asimismo, deberá contar con el grado académico mínimo de licenciado en Derecho, en Ciencias Económicas, o en una rama afín y estar debidamente incorporado en el Colegio Profesional respectivo.
@@ -3746,17 +3123,11 @@ En el caso de la Administración Central, el Proveedor deberá cumplir con los d
 
 Cada institución deberá adoptar las medidas pertinentes para dotar a la proveeduría institucional de los recursos humanos, capacitación y materiales indispensables, para ejecutar debidamente las labores que le ha sido encomendada.
 
-Ficha Artículo 315
-
 Artículo 316. De la tramitación por medio del sistema digital unificado. Las contrataciones que tramiten las proveedurías institucionales deberán realizarse por medio del sistema digital unificado; en caso de no realizarlo a través de dicho sistema, acarreará la nulidad absoluta del procedimiento, salvo situaciones de casos fortuitos o fuerza mayor.
 
 La Dirección de Contratación Pública, en forma motivada, podrá exceptuar en forma parcial o total del uso de dicho sistema, todo conforme al artículo 16 de la Ley General de Contratación Pública y lo previsto en este Reglamento.
 
-Ficha Artículo 316
-
 Artículo 317. De la posibilidad de delegación. El máximo jerarca de la Institución podrá delegar la decisión final de los procedimientos de contratación pública, así como la firma del pedido u orden de compra y formalización contractual, lo anterior, siguiendo las disposiciones del reglamento interno que se dicte al efecto, en caso que corresponda; esta designación deberá recaer en un funcionario u órgano técnico idóneo, que deberá emitir sus actos con estricto apego a la normativa de contratación pública. La delegación se llevará a cabo de conformidad con los alcances de la Ley General de Contratación Pública, la Ley de la Administración Financiera de la República y Presupuestos Públicos y la Ley General de la Administración Pública.
-
-Ficha Artículo 317
 
 Artículo 318. De las Juntas de Adquisiciones y Comisión de Recomendación de Adjudicaciones. La Administración podrá contar con una junta de adquisiciones encargada de adoptar los actos finales en materia de contratación, así como también podrán establecer la conformación de una comisión de recomendación de adjudicaciones, con competencia exclusiva, para analizar y recomendar la adjudicación de las contrataciones que por la naturaleza de la contratación así se requiera.
 
@@ -3766,11 +3137,7 @@ Los acuerdos tomados por los miembros de la Comisión de Recomendación de Adjud
 
 Tanto los miembros de la comisión de recomendación de adjudicaciones y quien adjudica estarán afectos al régimen de prohibiciones establecido en el artículo 28 de la Ley General de Contratación Pública.
 
-Ficha Artículo 318
-
 Artículo 319. Obligada colaboración. Para el eficiente y eficaz cumplimiento de las funciones de las proveedurías institucionales, todas las demás unidades administrativas de la Institución de tipo técnico, jurídico, contable, financiero, presupuestario, informático y de cualquier otro orden, están obligadas a brindarle colaboración y asesoría en el cumplimiento de sus cometidos.
-
-Ficha Artículo 319
 
 CAPÍTULO III
 
@@ -3785,8 +3152,6 @@ La Dirección de Contratación Pública como órgano ejecutor de la Autoridad de
 Para la implementación de la profesionalización, la Autoridad de Contratación Pública y la Dirección de Contratación Pública, podrán solicitar asesoría y apoyo técnico a los entes competentes relacionados con la materia, los cuales deberán atender el requerimiento realizado en el ámbito de sus competencias.
 
 La Dirección de Contratación Pública, podrá impulsar convenios con entidades como universidades, centros de formación o sujetos de derecho internacional público, con la finalidad de mejorar las capacidades y competencia del personal de la contratación pública y su profesionalización.
-
-Ficha Artículo 320
 
 Artículo 321. Formación. Para fomentar el desarrollo de competencias en compras públicas tendientes a la profesionalización, los funcionarios que se desempeñan en las distintas etapas de la compra, deberán participar en procesos de formación inicial y continua que comprendan, al menos, los siguientes temas:
 
@@ -3818,25 +3183,17 @@ Para la formación de los funcionarios en materia de compras públicas, la Direc
 
 El proceso de formación incorporará la definición de capacitación con base en el nivel y competencia adecuados al cargo que ejerce el funcionario.
 
-Ficha Artículo 321
-
 Artículo 322. Proceso de profesionalización. En los procesos de profesionalización, se considerarán los niveles de competencia, según las funciones que desempeñe el funcionario, tomando en cuenta la complejidad y responsabilidad de las funciones.
 
 Asimismo, la Dirección de Contratación Pública implementará con el apoyo de las entidades competentes, la certificación de idoneidad, con el objetivo de fortalecer el sentido público, garantizando que los funcionarios que participen en los procesos de compras públicas, conozcan las funciones, obligaciones y responsabilidades del puesto que desempeñan y ejecuten procesos eficientes que agreguen valor a las decisiones de compra.
 
 Las Administraciones deberán corroborar que el personal actual o que contrate para el desempeño de funciones en las proveedurías institucionales o en cualquier unidad de compras públicas, sea el idóneo, de acuerdo con los lineamientos que al efecto emita la Autoridad de Contratación Pública.
 
-Ficha Artículo 322
-
 Artículo 323. Vigencia de la certificación de idoneidad en compras públicas. La certificación de idoneidad en compras públicas emitida por entidades de gobierno, centros de formación o sujetos de derecho internacional público, deberá estar avalada por la Autoridad de Contratación Pública y tendrá una vigencia de cinco años, contados a partir de la emisión de la certificación de aprobación de la prueba.
-
-Ficha Artículo 323
 
 Artículo 324. Estrategia para la acreditación de las unidades de compra. La Autoridad de Contratación Pública emitirá lineamientos para la estrategia de acreditación de las unidades de compra en toda la Administración Pública, la cual estará basada en la estructura mínima funcional que deberá contemplar toda unidad de compra, de acuerdo con la normativa aplicable.
 
 La estrategia será una guía para que las unidades de compra aseguren que la prestación de sus servicios sea ofrecida bajo los estándares de calidad, eficiencia, transparencia y economía.
-
-Ficha Artículo 324
 
 Artículo 325. Requisitos para la acreditación de Unidades de Compras Institucionales. Para la acreditación de las unidades de compra institucionales, se deberá aportar ante la Dirección de Contratación Pública, al menos, lo siguiente:
 
@@ -3864,15 +3221,11 @@ En el caso de instituciones que estén conformadas por más de una unidad de com
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 45782 del 8 de abril de 2026)
 
-Ficha Artículo 325
-
 Artículo 326. Acreditación de Unidades de Compras Públicas. Conforme a la estrategia emitida por la Autoridad de Contratación Pública, corresponderá a la Dirección de Contratación Pública evaluar la acreditación de las unidades de compra, tomando en consideración los requisitos indicados en el artículo anterior.
 
 Una vez acreditada la unidad de compra, las instituciones públicas deberán, conforme a los lineamientos que emita la Autoridad de Contratación Pública, generar un proceso de autoevaluación a fin de mantener actualizadas sus unidades de compra, siguiendo las condiciones establecidas por dicha Autoridad en sus lineamientos, tales como plazo de vigencia de acreditación, requisitos, procedimiento, entre otros.
 
 En el caso de la autoevaluación, deberá ser coordinado con los encargados de control interno institucional o auditor interno, sin perjuicio que la Dirección de Contratación Pública, verifique la evaluación respectiva.
-
-Ficha Artículo 326
 
 TÍTULO VII
 
@@ -3884,19 +3237,11 @@ DEROGATORIA, TRANSITORIOS Y VIGENCIA
 
 Artículo 327. Derogatoria. Se deroga el Reglamento a la Ley de Contratación Administrativa, Decreto Ejecutivo N°33411 del 27 de setiembre de 2006 y sus reformas, así como cualquier otra que se le oponga.
 
-Ficha Artículo 327
-
 Transitorio I. Los procedimientos de contratación y contratos iniciados antes de la vigencia de este Reglamento, se concluirán conforme a las disposiciones vigentes en el momento de adoptarse la decisión inicial del concurso.
-
-Ficha Artículo 1 Transitorio
 
 Transitorio II. Los procedimientos de compras tramitados por sujetos que manejen fondos públicos bajo regímenes de contratación distintos de la Ley de Contratación Administrativa, Ley N°7494, de 2 de mayo de 1995 y no cubiertos por ella, cuya decisión inicial haya sido emitida antes de la entrada en vigencia del presente reglamento, así como los sistemas alternativos de contratación autorizados por la Contraloría General de la República, deberán proceder conforme a lo establecido en el Transitorio II de la Ley General de Contratación Pública, Ley N°9986.
 
-Ficha Artículo 2 Transitorio
-
 Transitorio III. La Autoridad de Contratación Pública tendrá un plazo de hasta tres meses posteriores a la entrada en vigencia de la Ley General de Contratación Pública para efectuar el nombramiento del Director; mientras tanto, continuará el Director General de Administración de Bienes y Contratación Administrativa nombrado al efecto por el Ministro de Hacienda, como Director de la Dirección de Contratación Pública.
-
-Ficha Artículo 3 Transitorio
 
 Transitorio IV. La Administración que a la fecha de la entrada en vigencia de la Ley General de Contratación Pública no estuviera incorporada en el sistema digital unificado, oficializado por el Ministerio de Hacienda, que por caso fortuito o fuerza mayor tenga un impedimento para realizar sus procedimientos de contratación en dicho sistema; deberá acreditarlo ante la Dirección de Contratación Pública dentro del plazo de un mes calendario posterior a su entrada en vigencia, justificando las razones que fundamenten esto situación de conformidad con lo previsto en el artículo 16 de la citada Ley, aportando la justificación del interés público que se pretende resguardar al plantear la solicitud y adjuntando un cronograma que demuestre las acciones que realizará para lo incorporación paulatina al sistema digital unificado, el cual deberá ajustarse o un plazo máximo de un año.
 
@@ -3910,34 +3255,18 @@ La tramitación centralizada de la solicitud podrá ser utilizada por aquellas e
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 44745 del 9 de octubre de 2024)
 
-Ficha Artículo 4 Transitorio
-
 Transitorio V. En tanto no exista disposiciones institucionales ajustadas a la Ley General de Contratación Pública para la Gestión del Fondo de Cajas Chicas, según lo dispuesto en el artículo 12 de este Reglamento, las Instituciones Públicas que estaban sujetas al Reglamento General del Fondo de Caja Chica, emitido mediante el Decreto Ejecutivo No.32874-H de 10 noviembre de 2005 y publicado en La Gaceta No.22 del 31 de enero de 2006, y/o que dispongan de regulaciones internas emitidas para tal efecto, continuarán aplicando lo dispuesto en dichas regulaciones como Administración Activa mientras se emitan éstas, ajustándose al porcentaje definido en el artículo 3 inciso g) de la Ley General de Contratación Pública.
-
-Ficha Artículo 5 Transitorio
 
 Transitorio VI. Las Instituciones Públicas tendrán un plazo de doce meses naturales a partir de la entrada en vigencia del presente Reglamento, para emitir las correspondientes disposiciones institucionales ajustadas a la Ley General de Contratación Pública a las que alude el artículo 12 de este Reglamento.
 
-Ficha Artículo 6 Transitorio
-
 Transitorio VII. En tanto no existan nuevas disposiciones ajustadas a la Ley General de Contratación Pública en materia de compra pública estratégica, las Instituciones Públicas continuarán aplicando lo dispuesto en la Normativa Técnica para la aplicación de Criterios Sustentables en las Compras Públicas y su guía de implementación, las guías, manuales, fichas técnicas u otros instrumentos emitidos en materia de compras públicas sustentables, conforme a lo dispuesto en la Ley de Contratación Administrativa, Ley N°7494, su reglamento y la Ley de Gestión Integral de Residuos, Ley N°8839, respetándose el porcentaje del veinticinco por ciento (25%) definido en los artículos 55 y 96 del presente Reglamento.
-
-Ficha Artículo 7 Transitorio
 
 Transitorio VIII. El Ministerio de Hacienda sufragará el costo del servicio de la plataforma del sistema digital unificado para la Administración Central durante todo el año 2023; con posterioridad a ello, cada institución de la Administración Central asumirá el costo de la tarifa correspondiente, en su propio presupuesto, adoptando para ello las medidas de planificación y presupuestación necesarias. El resto de las instituciones y órganos del sector público pagará en forma directa la tarifa aplicable al operador del servicio de acuerdo con la resolución que emita la Dirección de Contratación Pública.
 
-Ficha Artículo 8 Transitorio
-
 Transitorio IX. En todas aquellas contrataciones públicas que inicien a partir de la entrada en vigencia de la Ley General de Contratación Pública Nº9986 del 27 de mayo de 2021 y su reglamento, las instituciones o entes del Estado, para conocer y resolver solicitudes de reajuste y/o revisión de precios, a fin de mantener el equilibrio económico de los contratos de bienes, obras y servicios y hasta tanto la Autoridad de Contratación Pública emita el Reglamento para el Reajuste de Precios en Contratos de Obra Pública y la Revisión de Precios en los Contratos de Bienes y de Servicios, según lo dispuesto en los artículos 43 y 128 inciso f) de la Ley General de Contratación Pública Nº9986, seguirán aplicando lo dispuesto en el Reglamento para el Reajuste de Precios en los Contratos de Obra Pública de Construcción y Mantenimiento, Decreto Ejecutivo Nº33114 de fecha 16 de marzo de 2006, publicado en La Gaceta Nº94 del 17 de mayo de 2006 u otra expresión algebraica acordada por las partes.
-
-Ficha Artículo 9 Transitorio
 
 Artículo 328. Rige. Este Reglamento rige a partir de la entrada en vigencia de la Ley General de Contratación Pública, Ley No.9986.
 
 Dado en la Presidencia de la República, a los veintidós días del mes de noviembre del 2022.
-
-Ficha Artículo 328
-
-© 2026 Procuraduría de la Republica. Todos los derechos reservados.
 
 2

@@ -1,3 +1,12 @@
+---
+numero: "Directriz 1"
+nombre: "Celebración de asambleas y sesiones de junta directiva/administrativa mediante la utilización de medios electrónicos"
+materia: "administrativo"
+version_sinalevi: "1 de 1"
+ultima_reforma: ""
+enlace: ""
+---
+
 **Directriz 1**
 
 **Celebración de asambleas y sesiones de junta directiva/administrativa mediante la utilización de medios electrónicos**
@@ -57,7 +66,3 @@ Por lo tanto, si cumplen con lo aquí estipulado no deberá consignarse defecto 
 Déjese sin efecto la Circular DPJ-010-2018.
 
 Rige a partir de su publicación.
-
-&nbsp;
-
-Ficha Artículo 1

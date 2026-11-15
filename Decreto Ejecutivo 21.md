@@ -1,3 +1,12 @@
+---
+numero: "Decreto Ejecutivo 21"
+nombre: "Reglamento del Estatuto de Servicio Civil"
+materia: "laboral"
+version_sinalevi: "28 de 28"
+ultima_reforma: ""
+enlace: ""
+---
+
 Decreto Ejecutivo 21
 
 Reglamento del Estatuto de Servicio Civil
@@ -16,11 +25,7 @@ Disposiciones Generales
 
 Artículo 1° - El Estatuto de Servicio Civil y el presente Reglamento regularán las relaciones entre el Poder Ejecutivo y sus servidores, con el propósito de garantizar la eficiencia de la Administración Pública y de proteger a dichos servidores.
 
-Ficha Artículo 1
-
 Artículo 2° - Se considerarán servidores públicos protegidos por el Estatuto de Servicio Civil, los trabajadores del Poder Ejecutivo incluidos en el Régimen de Servicio Civil, al tenor de lo dispuesto por los artículos 2° , 3° , 4° , 5° y 6° de dicho Estatuto.
-
-Ficha Artículo 2
 
 Artículo 3° - Para los efectos de las disposiciones de este texto se entiende:
 
@@ -84,8 +89,6 @@ z) Por "nivel salarial": el código con que se identifica a cada uno de los sala
 
 (Reformados los incisos s),t),u) y v), así como adicionados los incisos y) y z), por el artículo 3° del Decreto Ejecutivo N° 26162 de 4 de julio de 1997)
 
-Ficha Artículo 3
-
 CAPITULO II
 
 La Dirección General de Servicio Civil
@@ -126,19 +129,11 @@ j. Cooperará con el Tribunal, prestándole la asistencia técnica que este cons
 
 (El inciso j) de este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
-Ficha Artículo 4
-
 Artículo 5° .- El Director General tendrá un Consejo que se compondrá de los Jefes de Departamento de la Dirección General y que se reunirá cada vez que sea convocado por él. El Director General podrá invitar al Consejo a otras personas.
-
-Ficha Artículo 5
 
 Artículo 6° .- El Director General deberá mantener, en sobre cerrado y sellado, que estará en custodia del Tribunal, las bases y el material necesarios para el concurso de oposición para un nuevo Director General, a fin de prevenir el caso de cesación repentina en su cargo.
 
-Ficha Artículo 6
-
 Artículo 7° .- En el evento de que el Director General renunciare a su cargo, o se acogiere a la pensión a que tuviere derecho el Presidente de la República ordenará que se anuncie la vacante, en cuyo caso el mismo Director General dirigirá el concurso para seleccionar a su sucesor y utilizará la cooperación de aquellos funcionarios del Departamento de Selección de Personal que no hubieren presentado ofertas de servicios para el cargo. Si el Director General no pudiere dirigir el concurso, el Presidente de la República encargará la dirección del mismo al Jefe del Departamento de Selección de Personal, pero si este funcionario hubiere presentado la respectiva oferta de servicio, se le encomendará a otro funcionario competente, de preferencia al Subdirector, si este no hubiere de participar en el concurso.
-
-Ficha Artículo 7
 
 Artículo 8.- El sistema de Recursos Humanos está conformado por todas aquellas oficinas de Recursos Humanos del Régimen de Servicio Civil, las cuales son órganos de enlace y coordinación permanente con esta Dirección General.
 
@@ -150,13 +145,9 @@ Cuando un jerarca prescinda de la autorización previa de que habla el párrafo 
 
 (Así reformado por el Decreto Ejecutivo No.23848 de 29 de noviembre de 1994 y adicionado el último párrafo por el Decreto Ejecutivo No.26162 de 4 de julio de 1997)
 
-Ficha Artículo 8
-
 ARTICULO 8 (bis).- El Sistema de Recursos Humanos tendrá dos instancias de participación, encuentro y estudio de los asuntos que atañen al desarrollo de los recursos humanos en el marco del empleo público: la Asamblea de Jefes de Recursos Humanos y el Consejo Técnico Consultivo de Recursos Humanos, cuyas integraciones, funciones, objetivos y otros aspectos de su funcionamiento serán regulados mediante resolución emitida por el Director General de Servicio Civil.
 
 (Adicionado por el Decreto Ejecutivo No.26606 de 9 de enero de 1998)
-
-Ficha Artículo 8 BIS
 
 CAPITULO III
 
@@ -188,8 +179,6 @@ Los requisitos consignados en los incisos b), c), e) y f), serán exigidos tambi
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 21685 del 26 de octubre de 1992)
 
-Ficha Artículo 9
-
 CAPITULO IV
 
 Nombramiento de Servidores Públicos Interinos y de Emergencia
@@ -204,13 +193,9 @@ En el caso de que para la sustitución temporal del servidor regular se acordare
 
 \*(Término modificado por el artículo 9° del Decreto Ejecutivo No.25592 de 29 de octubre de 1996).
 
-Ficha Artículo 10
-
 Artículo 11.- Cuando un puesto excluido del Régimen de Servicio Civil, pasare al sistema de méritos que regulan el Estatuto y el presente Reglamento, el servidor que lo estuviera desempeñando podrá adquirir la condición de servidor regular, si a juicio de la Dirección General ha demostrado o demuestra su idoneidad por los procedimientos que esa Dirección General señale, y siempre que tuviera más de dos años de prestar sus servicios ininterrumpidos al Estado. La misma norma se aplicará al servidor sustituto interino, con dos o más años de laborar ininterrumpidamente en el mismo puesto, si éste quedare vacante al vencer la licencia otorgada al titular de la plaza y siempre que el servidor sustituto interino hubiese sido escogido del Registro de Elegibles que lleva la Dirección General o se encuentre dentro de éste. Se exceptúan de la presente disposición los servidores propiamente docentes quienes para estos efectos se regularán por lo dispuesto en el Capítulo V del Título II del Estatuto.
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 39066 del 29 de junio de 2015)
-
-Ficha Artículo 11
 
 Artículo 12.- Cuando no haya en la Dirección General candidatos elegibles y sea necesario efectuar concurso para llenar plazas vacantes, se podrán hacer nombramientos interinos, previa presentación del pedimento de personal correspondiente, y si ello se estimare indispensable, durante el tiempo que requiera la Dirección General para la integración de la nómina de elegibles. En todos los casos la persona que se nombre interina deberá reunir las condiciones previstas en el artículo 9° de este Reglamento, además de los requisitos que establece el Manual General de Clasificación de Clases, por lo que su nombramiento estará sujeto a la aprobación previa de la Dirección General.
 
@@ -218,21 +203,15 @@ Artículo 12.- Cuando no haya en la Dirección General candidatos elegibles y se
 
 \*(Término modificado por el artículo 9° del Decreto Ejecutivo No.25592 de 29 de octubre de 1996).
 
-Ficha Artículo 12
-
 Artículo 13.- Para todos los efectos legales, se entenderá que los contratos que celebre el Poder Ejecutivo, con los servidores interinos o de emergencia, de conformidad con lo dispuesto en este capítulo, serán por tiempo determinado o a plazo fijo, y que los mismos terminarán sin ninguna responsabilidad para el Estado al cesar en sus funciones.
 
 (La Sala Constitucional mediante resolución N° 15256 del 31 de octubre de 2012, estableció que este artículo no es inconstitucional, "en tanto se interprete y se entienda que si el interinazgo supera el año ininterrumpidamente, su cese injustificado se equipara al de una contratación a plazo indefinido para efecto del reconocimiento de la indemnización.")
-
-Ficha Artículo 13
 
 Artículo 14.- Si un servidor regular fuere designado para ocupar temporalmente un puesto del Poder Ejecutivo excluido o se le recargare temporalmente, o ad honorem un puesto excluido del presente Estatuto, conservará todos sus derechos y continuará protegido por el Régimen de Servicio Civil.
 
 El servidor que hubiere prestado servicios en alguna de las instituciones comprendidas dentro del Régimen de Servicio Civil, por un período no inferior a cinco años, cuyos servicios hayan sido desempeñados con reconocida eficiencia, podrá reingresar dentro de la década siguiente, a la misma clase de puesto que ocupaba, si al momento del reingreso reuniere los requisitos establecidos para dicha clase, sin participar en concurso. De igual derecho, y bajo las mismas condiciones antes señaladas, disfrutarán los servidores cuyos puestos hubieren sido suprimidos por ley o por reducción forzosa de servicios.
 
 (Reformado por el artículo 1° del Decreto Ejecutivo N° 18658 de 15 de noviembre de 1988)
-
-Ficha Artículo 14
 
 CAPITULO V
 
@@ -258,8 +237,6 @@ En las ofertas de empleo público del Poder Ejecutivo se reservará un cupo del 
 
 (La Sala Constitucional mediante resolución N° 5597, del 22 de octubre de 1996, declaró inconstitucional la interpretación hecha por la Dirección General de Servicio Civil a este artículo "en cuanto implica no tramitar ofertas de servicio ni nombramientos a quienes se encuentren en el período del beneficio de ejecución condicional de la pena.")
 
-Ficha Artículo 15
-
 Artículo 15 bis.- La designación del personal para el Servicio sin Oposición se hará de acuerdo con los requisitos mínimos que establezca el manual institucional de cargos, además del examen de la aptitud moral de los candidatos.
 
 Los puestos incluidos dentro del Servicio sin Oposición contemplados en el artículo 6 inciso d) del Estatuto serán definidos mediante resolución de la Dirección General.
@@ -268,31 +245,21 @@ Los movimientos de personal que en este tipo de servicio se hagan requerirán la
 
 (Así adicionado por el 24816 de 5 de diciembre de 1995 Art.2)
 
-Ficha Artículo 15 BIS
-
 Artículo 16.- Todos los documentos relacionados con las pruebas de los oferentes podrán ser destruidos después de transcurridos tres meses de la fecha del establecimiento del registro de elegibles. Los oferentes que participen en concursos por oposición, podrán ver todos los documentos relativos a sus exámenes, pero deberán solicitarlo dentro del mes siguiente a la fecha de la notificación del resultado de las pruebas.
 
 (Reformado por artículo 1° del Decreto Ejecutivo No. 21685 de 26 de octubre de 1992).
-
-Ficha Artículo 16
 
 Artículo 17.- Todo oferente que participe en concursos para plazas en el Régimen de Servicio Civil gozará de un puntaje adicional sobre la calificación final, siempre que ésta sea de 70% o más, por haberle prestado servicios remunerados al Estado, hasta un límite de 15 años.
 
 (Así reformado por el artículo 1° del Decreto Ejecutivo No. 21685-MP de 26 de octubre de 1992).
 
-Ficha Artículo 17
-
 Artículo 18.- Cuando se trate de puestos vacantes en regiones alejadas de la ciudad de San José podrán realizarse concursos regionales. Los criterios y predictores definidos en las bases de selección, así como su valoración, se adecuarán según la necesidad de elegibles en cada región. La elegibilidad será válida únicamente para la región donde se efectúo el concurso.
 
 (Reformado por el artículo 1° del Decreto Ejecutivo N° 21685 de 26 de octubre de 1992).
 
-Ficha Artículo 18
-
 Artículo 19.- El período de prueba se regulará por las disposiciones contenidas en los artículos 30 y 31 del Estatuto. Para los efectos de su cómputo, se entenderá interrumpido por la cesación transitoria del servicio que por cualquier causa implique la no prestación del mismo.
 
 (Reformado según Decretos Ejecutivos Nos. 11656 de 4 de julio de 1980 y 21685 de 26 de octubre de 1992).
-
-Ficha Artículo 19
 
 CAPITULO VI
 
@@ -316,13 +283,9 @@ c) No podrá acordarse ningún ascenso para el servidor que se encuentre disfrut
 
 (Así reformado por el artículo 3° del decreto ejecutivo N° 22422 del 5 de agosto de 1993)
 
-Ficha Artículo 20
-
 Artículo 21.—Los ascensos a clases diferentes de la inmediata superior de la misma u otra serie deberán tramitarse mediante concurso interno de acuerdo con las regulaciones que al efecto dicte la Dirección General.
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 39066 del 29 de junio de 2015)
-
-Ficha Artículo 21
 
 Artículo 22.- Las permutas se regirán por las siguientes disposiciones:
 
@@ -332,8 +295,6 @@ b. Si se tratare de puestos de clase diferente, se requerirá, además de lo se�
 
 (Así reformado por artículo 2° del Decreto Ejecutivo 21418 de 23 de junio de 1992).
 
-Ficha Artículo 22
-
 Artículo 22 bis.- Los traslados, reubicaciones y recargos de funciones se regirán de acuerdo con lo que se indica a continuación:
 
 Los traslados y reubicaciones podrán ser acordados unilateralmente por la Administración, siempre que no se cause grave perjuicio al servidor.
@@ -342,19 +303,13 @@ Los recargos de funciones de puestos de mayor categoría, que excedan de un mes,
 
 (Adicionado por Decreto Ejecutivo No. 21418 de 23 de junio de 1992).
 
-Ficha Artículo 22 BIS
-
 Artículo 23.- Los descensos podrán ser efectuados a cualquier clase de puesto siempre que el servidor, a juicio de la Dirección General, reúna los requisitos de la clase a la que se propone y no sea perjudicado, salvo los casos previstos por el artículo 27, inciso f) del Reglamento del Estatuto de Servicio Civil.
 
 Así reformado por el artículo 4° del Decreto Ejecutivo No. 22422 de 5 de agosto de 1993).
 
-Ficha Artículo 23
-
 Artículo 24.- A juicio de la Administración podrá ser aplicable el período de prueba en los ascensos o traslados en que así convenga para garantizar mejor el servicio público. En tales casos, el servidor gozará de licencia de su puesto anterior durante el tiempo que dure dicho período de prueba, el cual será aplicable también a su sustituto.
 
 (Así reformado por el artículo 4° del Decretos Ejecutivo N° 22422 de 5 de agosto de 1993).
-
-Ficha Artículo 24
 
 Artículo 25. Todo movimiento de personal, así como todo acto, disposición o resolución que afecte la situación legal de ocupación de los puestos cubiertos por el Estatuto y que deban figurar en el expediente personal de los servidores, se debe tramitar mediante el formulario denominado "Acción de Personal". Se exceptúan aquellos movimientos que afecten a un grupo numeroso de servidores, los cuales podrán tramitarse por "planillas colectivas" u otros medios que garanticen su apego a la normativa vigente y siempre que estos no sean de los que requieren la aprobación anticipada de la Dirección General de Servicio Civil, en cuyos casos se deberán anexar las acciones de personal debidamente firmadas y selladas.
 
@@ -372,15 +327,11 @@ La Tesorería Nacional no autorizará el pago de salarios a servidores, cuando s
 
 (Así reformado por el artículo 60 del Reglamento a la Ley Marco de Empleo Público, aprobado mediante decreto ejecutivo N° 43952 del 28 de febrero del 2023)
 
-Ficha Artículo 25
-
 CAPITULO VII
 
 Derechos y Deberes
 
 Artículo 26.- Los servidores regulares del Poder Ejecutivo gozarán de todos los derechos que el Estatuto les confiere, con arreglo a las normas que el presente capítulo establece en los artículos siguientes.
-
-Ficha Artículo 26
 
 La inamovilidadad, los traslados y los ascensos:
 
@@ -406,8 +357,6 @@ f) Cuando se compruebe, mediante el resultado de la calificación periódica, in
 
 (\*) (Mediante resolución de la Sala Constitucional N° 5515 de las 14:48 hrs. del 05/07/2000, se dispuso que la frase que se ubica dentro de paréntesis en el inciso c de este artículo, ha quedado derogada al desaparecer su fundamento legal. Esta norma reglamentaria tuvo su fundamento legal en el artículo 37 inciso f) del Estatuto de Servicio Civil, pero esa norma fue modificada por Ley No. 4906 de 29/11/1971, cuyo artículo 1º excluyó la salvedad antes dispuesta. Así, la parte del artículo 27 inciso c), que al momento de dictarse únicamente reprodujo lo que disponía el Estatuto, quedó tácitamente derogada con la reforma.)
 
-Ficha Artículo 27
-
 Las Vacaciones:
 
 Artículo 28.- Todo servidor regular disfrutará de una vacación anual de acuerdo con el tiempo servido, en la forma siguiente:
@@ -417,8 +366,6 @@ a. Si ha trabajado durante un tiempo de cincuenta semanas a cuatro años y cincu
 b. Si ha prestado servicios durante un tiempo de cinco años y cincuenta semanas a nueve años y cincuenta semanas, gozará de veinte días hábiles de vacaciones; y
 
 c. Si ha trabajado durante un tiempo de diez años y cincuenta semanas o más, gozará de un mes de vacaciones.
-
-Ficha Artículo 28
 
 Artículo 29.- Para obtener derecho a la vacación anual, es necesario que el servidor haya prestado sus servicios durante cincuenta semanas continuas. Sin embargo, si por cualquier causa el servidor no completara dicho período por terminación de su relación de servicio, tendrá derecho a vacaciones proporcionales de la siguiente forma:
 
@@ -442,8 +389,6 @@ Para la determinación de los días hábiles se excluirán los domingos y demás
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 19824 del 27 de junio de 1990)
 
-Ficha Artículo 29
-
 Artículo 30.- Para los efectos de computar el tiempo servido, se observarán las siguientes reglas:
 
 a. Si se tratare de servidores públicos nombrados con anterioridad al primero de junio de mil novecientos cincuenta y tres, la antigüedad de los servidores se contará a partir de la fecha de sus nombramientos, siempre que desde dicha fecha hayan servido al Estado ininterrumpidamente; y
@@ -451,8 +396,6 @@ a. Si se tratare de servidores públicos nombrados con anterioridad al primero d
 b. La antigüedad de los servidores regulares nombrados con posterioridad al primero de junio citado, se contará a partir de las fechas de sus nombramientos, y si sus servicios no hubieren sido consecutivos, tendrán derecho a la acumulación de sus períodos de servicio al Estado posteriores a dicha fecha.
 
 (Así reformado el inciso anterior por el artículo 1° del decreto Ejecutivo N° 13419 de 2 de marzo de 1982).
-
-Ficha Artículo 30
 
 Artículo 31.- Como regla general, la remuneración durante las vacaciones será de acuerdo con el sueldo correspondiente asignado en la Ley de Salarios (o Ley de Presupuesto, en su defecto), vigente a la fecha en que el servidor disfrute del descanso anual.
 
@@ -464,13 +407,9 @@ b. Cuando el servidor hubiere estado incapacitado para trabajar por razón de en
 
 c. Cuando, por las circunstancias especiales, previstas por la ley, se acuerde la compensación en dinero, parcial o total, del período de vacaciones.
 
-Ficha Artículo 31
-
 Artículo 32.- Los servidores deben gozar sin interrupciones de su período de vacaciones y sólo podrán dividirlas hasta en tres fracciones por la índole especial de las labores que no permitan una ausencia muy prolongada, tal y como lo regula el artículo 158 del Código de Trabajo; los jefes respectivos están en la obligación de autorizar el pleno goce de este derecho a sus subalternos, y disponer el momento en que éstos lo disfruten, debiendo programarlas dentro de las quince semanas siguientes al advenimiento del derecho y otorgarlas antes de que se cumpla un nuevo período. Por consiguiente queda prohibido la acumulación de vacaciones, salvo cuando las necesidades del servicio lo requieran y a solicitud escrita del servidor, se podrá acumular únicamente un período, mediante resolución razonada de la máxima autoridad que así lo autorice, según los términos del Artículo 159 del citado Código.
 
 (Así reformado por el artículo 2° del Decreto Ejecutivo No.27604 del 5 de enero de 1999)
-
-Ficha Artículo 32
 
 Las Licencias:
 
@@ -516,8 +455,6 @@ Quedan a salvo las circunstancias comprobadas de extrema limitación de tiempo p
 
 (Así reformado por el artículo 4° del Decreto Ejecutivo N° 26162 de 4 de julio de 1997).
 
-Ficha Artículo 33
-
 Las ausencias y los subsidios por enfermedad:
 
 Artículo 34.- El servidor que fuere declarado incapacitado para trabajar, por enfermedad o riesgo profesional, gozará de subsidio en proporción al tiempo servido, de acuerdo con las siguientes regulaciones:
@@ -550,8 +487,6 @@ Las servidoras interinas o excluidas del Régimen de Servicio Civil, podrán aco
 
 (Así Reformado por el Decreto Ejecutivo N° 27096 de 15 de mayo de 1998 y posteriormente ampliado por el artículo 3° del Decreto ejecutivo No.27604 del 5 de enero de 1999)
 
-Ficha Artículo 34
-
 Artículo 35.- En todos los casos, el servidor deberá notificar a su jefe inmediato lo antes posible, verbalmente o por escrito, las causas que le impiden asistir a su trabajo.
 
 Por ninguna razón -salvo la de fuerza mayor- deberá esperar hasta el segundo días de ausencia para notificarlo.
@@ -560,29 +495,17 @@ Las ausencias al trabajo por enfermedad que excedan de cuatro días deberá just
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 27096 de 15 de mayo de 1998)
 
-Ficha Artículo 35
-
 Artículo 36.- Anulado.
 
 (Anulado mediante resolución de la Sala Constitucional N° 1573-08 del 30 de enero del 2008.)
 
-Ficha Artículo 36
-
 Artículo 37.- (Derogado por el artículo 4° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
-
-Ficha Artículo 37
 
 Artículo 38.- (Derogado por el artículo 4° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
 
-Ficha Artículo 38
-
 Artículo 39.- (Derogado por el artículo 4° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
 
-Ficha Artículo 39
-
 Artículo 40.- (Derogado por el artículo 4° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
-
-Ficha Artículo 40
 
 Las calificaciones periódicas
 
@@ -598,8 +521,6 @@ Le corresponderá a la Oficina de Gestión Institucional de Recursos Humanos res
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 36851 del 24 de octubre de 2011).
 
-Ficha Artículo 41
-
 Artículo 42.- En el caso de las instituciones que continúen aplicando el sistema general de evaluación del desempeño, creado mediante decreto ejecutivo Nº 22341-MP del 9 de julio de 1993, y en todos aquellos que en su sistema no se disponga algo diferente, le corresponderá al jefe inmediato presentar y analizar, mediante entrevista con el servidor, el resultado de la evaluación del desempeño reflejada en los formularios aprobados por la Dirección General de Servicio Civil siguiendo las instrucciones contenidas en el Manual de Procedimientos para la Evaluación del Desempeño.
 
 En las instituciones que decidan elaborar y, aplicar sus propios sistemas de evaluación del desempeño, le corresponderá al evaluador o a los evaluadores, efectuar la evaluación del desempeño en los formularios aprobados por la Dirección General de Servicio Civil siguiendo las indicaciones contenidas en los instructivos oficialmente aprobados.
@@ -607,8 +528,6 @@ En las instituciones que decidan elaborar y, aplicar sus propios sistemas de eva
 Para cualquiera de las dos situaciones señaladas anteriormente, el responsable inmediato del trabajo del funcionario evaluado, el evaluador o los evaluadores, según corresponda, deberán responder por los perjuicios que como consecuencia de la omisión de la evaluación del desempeño se le ocasione al personal evaluado.
 
 (Así reformado por el artículo 1° del Decreto N° 26509 de 21 de noviembre de 1997).
-
-Ficha Artículo 42
 
 Artículo 43.- La evaluación del desempeño servirá como reconocimiento a los buenos servidores, como estímulo para propiciar una mayor eficiencia y como factor que se puede considerar para capacitación, ascensos, concesión de permisos, reducciones forzosas de personal y los demás fines que la Dirección General de Servicio Civil determine mediante resolución. Para la aplicación de la evaluación del desempeño deberán observarse las siguientes normas:
 
@@ -624,8 +543,6 @@ d. Se considerará como falta grave y causal para iniciar el debido proceso de d
 
 (Así reformado por el artículo 1° del Decreto Ejecutivo N° 26509 del 21 de noviembre de 1997).
 
-Ficha Artículo 43
-
 Artículo 44.- Cuando el servidor no hubiere completado un año de prestación de servicios al momento de hacerse la evaluación; si hubiere trabajado a las órdenes de diferentes jefes en el año anterior, o tuviere un jefe para los aspectos administrativos y otro para los asuntos técnicos en el caso de que su sistema institucional no se indique otro tratamiento, se observarán las siguientes reglas:
 
 Si el servidor hubiere estado a las órdenes de varios jefes, el resultado de la evaluación la presentará al funcionario el último jefe o grupo de evaluadores con los que hubiere trabajado más tiempo, debiendo tomar en cuenta los informes que al respecto deberán rendir los otros jefes y evaluadores.
@@ -636,13 +553,9 @@ En todo el proceso de la evaluación del desempeño, el desacuerdo entre la pers
 
 (Así reformado por el artículo 1° del Decreto Ejecutivo N° 26509 del 21 de noviembre de 1997).
 
-Ficha Artículo 44
-
 Artículo 44 bis.- Los demás aspectos no considerados en los anteriores artículos, se resolverán conforme se indique en los instructivos elaborados por cada institución y aprobados por la Dirección General de Servicio Civil o el Manual General vigente, para regular sus respectivos sistemas de evaluación del desempeño.
 
 (Así adicionado por el artículo 1° del Decreto N° 26509 del 21 de noviembre de 1997)
-
-Ficha Artículo 44 BIS
 
 Artículo 45.- Los Ministerios o Instituciones reguladas por el Estatuto de Servicio Civil deberán llevar un expediente personal de cada uno de sus servidores, en el cual se guardarán los documentos relativos a su empleo y constancia de aquellos datos que sirven para mantener un historial de sus servicios lo más exacto posible. Debe entenderse que es a la respectiva institución, al actuar como patrono, a la que le compete la emisión de constancias o certificaciones de tipo laboral que requieran sus empleados.
 
@@ -658,19 +571,13 @@ En lo referido a la fotografía del servidor y sus calidades personales, la Dire
 
 (Así, reformado por el artículo 1° del Decreto Ejecutivo No. 23181 de 25 de abril de 1994)
 
-Ficha Artículo 45
-
 El subsidio familiar: sueldos menores de trescientos colones:
 
 Artículo 46.- Todo servidor regular cuyo salario mensual no pase de trescientos colones, gozará de un subsidio mensual por cada hijo menor de quince años. El subsidio consistirá en la suma de quince colones por cada uno de los citados hijos.
 
-Ficha Artículo 46
-
 Artículo 47.- Están excluidos de este privilegio los servidores que no presten sus servicios durante la jornada ordinaria mensual completa, conforme con el horario oficial, si devengaren un sueldo que, proporcionalmente, resulte mayor de trescientos colones mensuales.
 
 Si el cónyuge del servidor regular trabajare para el Poder Ejecutivo y su sueldo fuere también de trescientos colones o menos, sólo uno de ellos gozará de este derecho; si su sueldo fuere mayor, ninguno de los dos gozará de él.
-
-Ficha Artículo 47
 
 Artículo 48.- El servidor que tenga derecho al expresado subsidio, queda sujeto a las siguientes condiciones:
 
@@ -681,8 +588,6 @@ b) Si la respectiva Oficina de Personal comprobare que los hijos menores del ser
 c) En los casos de divorcio o de separación judicial o de hecho el subsidio se dará al cónyuge que conserve la patria potestad de los hijos menores de quince años, o en su defecto a quien se la haya confiado la guarda y crianza de los mismos, según informes del Patronato Nacional de la Infancia.
 
 (Así reformado por el artículo 1° del Decreto Ejecutivo No. 175 de 11 de marzo de 1969).
-
-Ficha Artículo 48
 
 El sueldo adicional en el mes de diciembre:
 
@@ -703,8 +608,6 @@ f) Los servidores que gozaren de becas mediante contratos firmados con el Poder 
 g) Las sumas que reciban los servidores regulares por concepto de horas extra o de trabajo extraordinario, de viáticos o gastos de viaje, y de subsidio familiar, no se considerarán como parte del salario para los efectos de esta prestación extraordinaria.
 
 ( Nota: Ver Ley de Pago de Aguinaldo para los Servidores Públicos, N° 1835 de 11 de diciembre de 1954).
-
-Ficha Artículo 49
 
 Deberes de los servidores públicos:
 
@@ -756,8 +659,6 @@ m) Abstenerse de cualquier práctica o decisión que pueda disminuir, restringir
 
 (Así adicionado el inciso anterior por el artículo 1° del decreto ejecutivo N° 39680 del 26 de abril del 2016)
 
-Ficha Artículo 50
-
 Prohibiciones:
 
 Artículo 51.- Aparte de las prohibiciones expresas que establecen el Estatuto, el Código de Trabajo y la Ley de la Administración Financiera de la República, está prohibido a los funcionarios y servidores públicos, estén exceptuados o no del Régimen de Servicio Civil:
@@ -778,8 +679,6 @@ c) Solicitar o percibir sueldos o subvenciones adicionales o pensiones de otras 
 
 d) Ejercer actividades o hacer propaganda contrarias al orden público o al régimen democrático que establece la Constitución de la República.
 
-Ficha Artículo 51
-
 CAPITULO VIII (\*)
 
 El Tribunal de Servicio Civil
@@ -794,27 +693,19 @@ Artículo 52.- El Tribunal con residencia en la capital y jurisdicción en toda 
 
 (Nota de Sinalevi: Este tema se regula de conformidad con las disposiciones del Transitorio XIII de la Ley Marco de Empleo Público (LMEP) No. 10159 del 8 de marzo de 2022)
 
-Ficha Artículo 52
-
 Artículo 53.- Los miembros del Tribunal durarán en sus cargos seis años, se renovará uno de ellos cada dos años y podrán ser reelectos. Si ocurriere una vacante, antes de vencer el término correspondiente, será cubierta en la forma y con lo requisitos que el Estatuto determina, hasta completar el período del antecesor.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
 (Nota de Sinalevi: Este tema se regula de conformidad con las disposiciones del Transitorio XIII de la Ley Marco de Empleo Público (LMEP) No. 10159 del 8 de marzo de 2022)
 
-Ficha Artículo 53
-
 Artículo 54.- Las ausencias temporales de los miembros propietarios, así como las vacantes mientras no haya nombramiento, serán llenadas por los respectivos suplentes. En caso de imposibilidad de asistencia del suplente respectivo se llamará a uno de los otros dos, en forma rotativa.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
-Ficha Artículo 54
-
 Artículo 55.- En el desempeño de su cometido, el Tribunal gozará de independencia funcional y de criterio, así como de la atribución de darse su propio Reglamento Interior y de hacer los nombramientos y remociones de su personal administrativo que señala la Ley General de Presupuesto, con sujeción al trámite de selección de personal previsto por el Estatuto y el presente Reglamento.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
-
-Ficha Artículo 55
 
 Artículo 56.- Los miembros del Tribunal serán remunerados mediante dietas que devengarán por cada sesión a la cual asistan. El número de sesiones remuneradas, incluyendo ordinarias y extraordinarias, no podrá exceder de doce al mes y el monto de las mismas será determinado por el Consejo de Gobierno mediante acuerdo que será publicado en "La Gaceta".
 
@@ -824,15 +715,11 @@ Artículo 56.- Los miembros del Tribunal serán remunerados mediante dietas que 
 
 (Nota de Sinalevi: Este tema se regula de conformidad con las disposiciones del Transitorio XIII de la Ley Marco de Empleo Público (LMEP) No. 10159 del 8 de marzo de 2022)
 
-Ficha Artículo 56
-
 Instalación y Organización Interna del Tribunal:
 
 Artículo 57.- El Tribunal elegirá anualmente de su seno un Presidente, un Vicepresidente y un Secretario. El Reglamento Interior regulará la reposición de éstos por parte de los Suplentes.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
-
-Ficha Artículo 57
 
 Artículo 58.- El Tribunal celebrará sus reuniones en el local de su asiento, cada vez que tenga asuntos que conocer, mediante acuerdo o convocatoria que hará su Presidente. El Reglamento Interior establecerá días determinados para las votaciones, y términos a los miembros del Tribunal, para el estudio de los expedientes y para dictar los fallos.
 
@@ -840,31 +727,21 @@ Artículo 58.- El Tribunal celebrará sus reuniones en el local de su asiento, c
 
 (Nota de Sinalevi: Este tema se regula de conformidad con las disposiciones del Transitorio XIII de la Ley Marco de Empleo Público (LMEP) No. 10159 del 8 de marzo de 2022)
 
-Ficha Artículo 58
-
 Artículo 59.- Al miembro Presidente corresponderá convocar a sesiones y presidirlas, someter a consideración de los otros miembros las cuestiones a tratar en la correspondiente sesión, supervigilar la ejecución de todas las medidas y disposiciones que establezca el Reglamento Interior del Tribunal y ejercer las demás facultades y atribuciones que este le señale.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
-
-Ficha Artículo 59
 
 Artículo 60.- Al miembro Secretario corresponderá ejercer vigilancia sobre el personal administrativo del Tribunal, el que actuará bajo sus órdenes, firmar la correspondencia y cumplir las demás funciones que le señale el Reglamento Interior del Tribunal.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
-Ficha Artículo 60
-
 Artículo 61.- El Tribunal llevará los libros que sean necesarios para consignar su labor, y especialmente uno para las actas de las sesiones y otro para las copias de los fallos y pronunciamientos que emita.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
-Ficha Artículo 61
-
 Artículo 62.- En cuanto no contraríen el texto y los principios referentes a la organización del Tribunal que contiene este capítulo, se aplicarán supletoriamente las disposiciones de la Ley Orgánica del Poder Judicial y del Código de Trabajo.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
-
-Ficha Artículo 62
 
 Competencia del Tribunal:
 
@@ -882,21 +759,15 @@ d) De los demás asuntos que le encomienda la ley y el Reglamento.
 
 (Nota de Sinalevi: Este tema se regula de conformidad con las disposiciones de los artículos 21 y 22 que regulan el "Procedimiento de Despido", de la Ley Marco de Empleo Público (LMEP) No. 10159 del 8 de marzo de 2022)
 
-Ficha Artículo 63
-
 Impedimentos, recusaciones y excusas:
 
 Artículo 64.- El Título Noveno de la Ley Orgánica del Poder Judicial sobre impedimentos, recusaciones y excusas, es aplicable, en lo pertinente, al Tribunal.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
-Ficha Artículo 64
-
 Artículo 65.- Cuando por impedimento, recusación o excusa, los miembros propietarios del Tribunal tuvieren que separarse del conocimiento de un negocio determinado, serán sustituidos en la forma indicada por el artículo 54° de este Reglamento.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
-
-Ficha Artículo 65
 
 Artículo 66.- Cuando los miembros propietarios del Tribunal tuvieren causal de impedimento para conocer de un negocio determinado, se observarán las siguientes reglas:
 
@@ -906,8 +777,6 @@ b) Si se tratare de todos los miembros, éstos se inhibirán y el Presidente lla
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
-Ficha Artículo 66
-
 Artículo 67.- Si dentro de las veinticuatro horas siguientes a la respectiva notificación, alguna de las partes pidiere revocatoria negando la causal, indicará en el acto de hacer su gestión las pruebas conducentes. Al efecto se procederá así:
 
 a) Si se tratare de uno o dos miembros del Tribunal, él o los demás miembros podrán evacuar o comisionar a la Dirección General para que reciba la prueba que admitieren y, una vez practicada ésta, resolverán en definitiva si procede o no la separación; y
@@ -916,37 +785,25 @@ b) Si se tratare de todos los miembros del Tribunal, los suplentes admitirán la
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
-Ficha Artículo 67
-
 Artículo 68.- Toda recusación debe fundarse en una de las causales expresamente señaladas por la ley, e interponerse ante el Tribunal antes de dictar sentencia, indicando al mismo tiempo las pruebas de la existencia de la causal.
 
 Si la gestión no llenare estas formalidades no producirá efecto legal, ni podrá repetirse.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
-Ficha Artículo 68
-
 Artículo 69.- El o los miembros recusados harán constar en autos si reconocen o no como ciertos los hechos que alega el recurrente, debiendo hacer la correspondencia rectificación si estuvieren referidos de modo inexacto.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
-
-Ficha Artículo 69
 
 Artículo 70.- Una vez extendida la constancia de que habla el artículo anterior, se dará audiencia por veinticuatro horas a la parte contraria. Si hubiere varias partes, dicho término será común a todas. Al contestar esa audiencia deben indicarse las pruebas pertinentes, si hubiere oposición a la recusación.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
-Ficha Artículo 70
-
 Artículo 71.- Vencida la audiencia a que se refiere el artículo anterior y habiendo él o los recusados reconocido los hechos sin que ninguna de las partes interesadas se hubiere opuesto expresamente a la recusación, el Tribunal decretará, sin más trámite, la separación de aquel o aquellos y hará la o las reposiciones que procedan.
-
-Ficha Artículo 71
 
 Artículo 72.- Vencida la audiencia de que habla el artículo 70 si él o los recusados desconocieren los hechos en que se funda la recusación o si cualquiera de las partes los negare, se procederá cumpliendo lo establecido por los incisos a) o b) del artículo 67 de este Reglamento.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
-
-Ficha Artículo 72
 
 Artículo 73.- Cuando uno, dos o todos los miembros propietarios del Tribunal, tuvieren causal de excusa, se procederá así:
 
@@ -957,8 +814,6 @@ b) Si en el acto de la notificación o dentro del término de la audiencia la pa
 c) Si la excusa fuere apoyada por quien tuviere derecho a hacerlo, se procederá de acuerdo con las disposiciones aplicables de los dos artículos que preceden. Se admitirán como ciertos los hechos afirmados por el miembro que se excusa, bajo apercibimiento de que, si llegare a demostrar que ellos no son ciertos o que contrajo la causal maliciosamente se hará acreedor a las acciones que entable cualquier perjudicado para hacer efectivas las responsabilidades penales y civiles en que haya podido incurrir.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
-
-Ficha Artículo 73
 
 Procedimiento:
 
@@ -974,21 +829,15 @@ En cualquier negocio de su competencia el Tribunal deberá dictar su fallo dentr
 
 (Nota de Sinalevi: Este tema se regula de conformidad con las disposiciones de los artículos 21 y 22 que regulan el "Procedimiento de Despido", de la Ley Marco de Empleo Público (LMEP) No. 10159 del 8 de marzo de 2022)
 
-Ficha Artículo 74
-
 Artículo 75.- Las partes deberán gestionar por escrito y acompañar de cada escrito y de los documentos que se adjunten, tantas copias literales de los mismos, en papel común, cuantas sean las otras partes litigantes. Corresponde al Secretario certificar en autos las piezas cuya pérdida pueda causar perjuicio irreparable o difícil de subsanar, y guardar cuidadosamente los originales en la caja del Tribunal.
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 18175 del 30 de mayo de 1988).
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
-Ficha Artículo 75
-
 Artículo 76.- Los escritos se presentarán ante el Tribunal por conducto del Secretario Administrativo o del Prosecretario, en su ausencia, quien pondrá al pie una razón en que conste el día y la hora de su recibo y el nombre de la persona que los entregue.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
-
-Ficha Artículo 76
 
 Artículo 77.- Para que tenga efecto un escrito, deberá ser firmado por el petente y presentado por él. Si no lo presentare personalmente, su firma deberá estar autenticada por la de un abogado. Si el petente no supiere escribir o estuviere en imposibilidad física de hacerlo, se hará constar una u otra circunstancia en el escrito y firmará a su ruego otra persona. En este caso la presentación se hará por el mismo interesado salvo que el escrito llevare firma de abogado, lo cual significará que es auténtica la del firmante, y que al autenticante le consta haber sido puesta a ruego del petente. La autenticación de la firma del servidor, en los casos dichos, podrá hacerla la autoridad política del lugar, si el domicilio del servidor se encontrare fuera de los cantones cabeceras de provincia.
 
@@ -998,19 +847,13 @@ Es entendido que los escritos que presenten los ministros o jerarcas autorizados
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 21419 de 23 de junio de 1992)
 
-Ficha Artículo 77
-
 Artículo 78.- Cada hoja del expediente será numerado con tinta y señalada con media firma del Secretario Administrativo, puesta en el margen.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
-Ficha Artículo 78
-
 Artículo 79.- El Tribunal podrá actuar en día u hora inhábil cuando la dilación pueda causar grave perjuicio a los interesados o a la buena administración de la justicia.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
-
-Ficha Artículo 79
 
 Artículo 80.- En cuanto no contraríen el texto y los principios procesales que contiene este capítulo, se aplicarán supletoriamente las disposiciones de los Códigos de Trabajo y de Procedimientos Civiles.
 
@@ -1019,8 +862,6 @@ Si hubiere omisión de procedimientos en el presente capítulo, el Tribunal esta
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
 (Nota de Sinalevi: Este tema se regula de conformidad con las disposiciones del artículo 21 inciso j) que regula las normas supletorias del "Procedimiento de Despido", de la Ley Marco de Empleo Público (LMEP). 10159 del 8 de marzo de 2022)
-
-Ficha Artículo 80
 
 Las presentaciones al Tribunal:
 
@@ -1042,15 +883,11 @@ e) Señalamiento de casa u oficina para oír notificaciones en el lugar de su do
 
 (Nota de Sinalevi: Este tema se regula de conformidad con las disposiciones del artículo 21 y 22, que regula el "Procedimiento de Despido", de la Ley Marco de Empleo Público (LMEP). 10159 del 8 de marzo de 2022)
 
-Ficha Artículo 81
-
 Artículo 82.- Si el escrito no contuviere los requisitos a que se refiere el artículo anterior, se le ordenará al quejoso que subsane los defectos de forma y para ello se le puntualizarán los requisitos omitidos o no llenados como es debido. La resolución que se dicte no tendrá recurso alguno y mientras no se cumpla lo que ordena, no se le dará trámite a ninguna gestión posterior.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
 (Nota de Sinalevi: Este tema se regula de conformidad con las disposiciones del artículo 21 y 22, que regula el "Procedimiento de Despido", de la Ley Marco de Empleo Público (LMEP). 10159 del 8 de marzo de 2022)
-
-Ficha Artículo 82
 
 Las sentencias:
 
@@ -1060,19 +897,13 @@ Artículo 83.- El Tribunal, una vez recibidos los expedientes de la Dirección G
 
 (Nota de Sinalevi: Este tema se regula de conformidad con las disposiciones del artículo 21 y 22, que regula el "Procedimiento de Despido", de la Ley Marco de Empleo Público (LMEP). 10159 del 8 de marzo de 2022)
 
-Ficha Artículo 83
-
 Artículo 84.- Las sentencias que dicte el Tribunal en cuanto sea dable, deberán llenar los requisitos formales que prescribe el artículo 155 del Código Procesal Civil.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
-Ficha Artículo 84
-
 Artículo 85° .- De las sentencias dictadas por el Tribunal se dará copia fiel a las partes en el momento de hacer la respectiva notificación. El término para pedir adición o aclaración del fallo será de cuarenta y ocho horas.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
-
-Ficha Artículo 85
 
 Los recursos:
 
@@ -1082,15 +913,11 @@ Artículo 86.- Salvo lo dispuesto en el artículo 67 de este Reglamento, o que s
 
 (Nota de Sinalevi: Este tema se regula de conformidad con las disposiciones del artículo 21 y 22, que regula el "Procedimiento de Despido", de la Ley Marco de Empleo Público (LMEP). 10159 del 8 de marzo de 2022)
 
-Ficha Artículo 86
-
 Artículo 87.- El recurso de apelación contra las sentencias que dicte el Tribunal, de acuerdo con el inciso a) del artículo 14 del Estatuto, se tramitará de conformidad con lo dispuesto por el artículo 44 ibídem.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
 (Nota de Sinalevi: Este tema se regula de conformidad con las disposiciones del artículo 21 y 22, que regula el "Procedimiento de Despido", de la Ley Marco de Empleo Público (LMEP). 10159 del 8 de marzo de 2022)
-
-Ficha Artículo 87
 
 CAPITULO IX
 
@@ -1114,11 +941,7 @@ c) La Dirección General cumplirá, en lo que fuere dable, las disposiciones del
 
 (Los incisos b) y c) de este artículo fueron interpretados por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada.")
 
-Ficha Artículo 88
-
 Artículo 89.- Si en la reclamación que conforme con el artículo anterior planteare el servidor perjudicado, se comprobare el incumplimiento por parte del jefe de alguna de las obligaciones o prohibiciones prescritas por el Estatuto, el Reglamento o el Código de Trabajo, el Tribunal podrá acordar, por vía de corrección disciplinaria, las sanciones de advertencia y de suspensión, en los términos de los incisos a) y b) del artículo 41 del Estatuto, sin perjuicio de que el Ministro pueda optar por el despido de dicho funcionario, en el supuesto de haberse comprobado que este incurrió en alguna de las faltas graves que determina el artículo 27, inciso a) del presente Reglamento.
-
-Ficha Artículo 89
 
 Artículo 90.- Todo despido justificado de los servidores regulares se tenderá sin responsabilidad para el Estado y hará perder al servidor todos los derechos que el Estatuto y este Reglamento le confieren siempre que realice con observancia de las siguientes reglas:
 
@@ -1156,39 +979,25 @@ h) El servidor podrá renunciar en ejecución del fallo a la reinstalación -cua
 
 (Nota de Sinalevi: Este tema se regula de conformidad con las disposiciones del artículo 21 y 22, que regula el "Procedimiento de Despido", de la Ley Marco de Empleo Público (LMEP). 10159 del 8 de marzo de 2022)
 
-Ficha Artículo 90
-
 Artículo 91.- Cuando un servidor incurriere en nuevas causales de despido, después de que se haya comunicado la decisión de separarlo de su puesto, el Ministro lo notificará a la Dirección General para que, si aún se estuviere levantando la respectiva información, se comprueben los posteriores cargos, observándose al efecto los mismos trámites; o bien pedirá la iniciación de nuevas diligencias de despido, en el evento de que la gestión anterior se hubiere declarado sin lugar por el Tribunal.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
 (Nota de Sinalevi: Este tema se regula de conformidad con las disposiciones del artículo 21 inciso f), que regula el "Procedimiento de Despido", de la Ley Marco de Empleo Público (LMEP). 10159 del 8 de marzo de 2022)
 
-Ficha Artículo 91
-
 Artículo 92.- Si un servidor fuere despedido sin que se llene el trámite establecido al efecto, podrá presentar su reclamación ante el Tribunal, dentro del término que concede el artículo 604 del Código de Trabajo. El Tribunal solicitará a la Dirección General que levante la información del caso y una vez que la reciba, si no ordenare nuevas diligencias, dictará el fallo. En la tramitación y resolución de estas reclamaciones se aplicarán, por analogía, las disposiciones y procedimientos señalados en el artículo 90 de este Reglamento, pero deberán cumplirse los requisitos que para estas presentaciones determina el artículo 81 del mismo.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
-Ficha Artículo 92
-
 Artículo 93.- Cuando fuere nombrado un servidor para reponer a otro que hubiere sido despedido sin observarse las reglas previstas por el artículo 43 del Estatuto, o en sustitución de otro servidor que conforme con dicho texto legal fuere suspendido provisionalmente mientras se levanta la respectiva información de despido, tal nombramiento se reputará interino, para todos los efectos legales. Sin embargo, si se ordenare por sentencia firme la restitución del titular, el servidor sustituto tendrá derecho hacer reinscrito en el registro de elegibles.
-
-Ficha Artículo 93
 
 Artículo 94.- La Dirección General podrá comisionar a cualquier autoridad política o de trabajo de determinada localidad, por conducto del respectivo Ministerio, para que, de ser posible, reciba declaraciones de testigos y practique las demás diligencias que se estimaren necesarias.
 
 (Este artículo fue interpretado por resolución de la Sala Constitucional N° 1148, del 21 de setiembre de 1990, en el sentido de que: "la existencia y competencia del Tribunal de Servicio Civil no es contraria per se a la Constitución , siempre que no se le otorgue carácter jurisdiccional sino únicamente administrativo, a efecto de tener por agotada esa vía como previa a la judicial contencioso-administrativa o, en su caso a la laboral." De tal manera, "…es inconstitucional la interpretación o aplicación de las disposiciones relativas al Tribunal de Servicio Civil, en la medida en que con aquélla se atribuya a éste o a sus competencias carácter jurisdiccional, o que se reconozca a sus fallos autoridad de cosa juzgada." )
 
-Ficha Artículo 94
-
 Artículo 95.- Todos los Directores y Jefes de la Administración Pública están obligados a atender con la debida presteza las comunicaciones por medio de las cuales el Tribunal o la Dirección General requieran información de las dependencias públicas o el suministro de datos precisos.
 
-Ficha Artículo 95
-
 Artículo 96.- Si hubiere omisión de procedimientos en el presente capítulo, la Dirección General estará autorizada para aplicar por analogía las normas del Código de Trabajo y del Código de Procesal Civil y para idear el que sea más conveniente al caso, a fin de que pueda obtenerse sumariamente la mejor información de los hechos. Las actas que levante el Oficial Encargado de Despidos de la Dirección General y los informes que rinda en materia de sus atribuciones, tendrán el valor de pruebas muy calificadas y sólo se prescindirá de ellas si hubiese otras que de modo evidente revelen la inexactitud, falsedad o parcialidad del acto o informe. Dicho Oficial tendrá las mismas facultades de un Juez Instructor para hacer comparecer testigos, juramentarlos e interrogarlos.
-
-Ficha Artículo 96
 
 CAPITULO X
 
@@ -1198,8 +1007,6 @@ Artículo 97.- Todas las acciones y derechos provenientes del Estatuto y del pre
 
 (Así reformado por el artículo 9° del Decreto Ejecutivo N° 24831 de 12 de diciembre de 1995).
 
-Ficha Artículo 97
-
 Artículo 98.- Prescribirán en dos meses:
 
 a) Las acciones para reclamar contra los despidos injustificados o destituciones de los servidores regulares que se efectuaren sin observarse los trámites que establecen el artículo 43 del Estatuto y el artículo 90 del Reglamento, a partir del momento de la separación. La prescripción sólo se interrumpe por la presentación de la demanda respectiva ante el Tribunal de Servicio Civil; y
@@ -1207,8 +1014,6 @@ a) Las acciones para reclamar contra los despidos injustificados o destituciones
 (Nota de Sinalevi: En relación al inciso anterior y de conformidad con el "Procedimiento de Despido", ahora se regula de conformidad con las disposiciones de los artículos 21 y 22 de la Ley Marco de Empleo Público (LMEP) No. 10159 del 8 de marzo de 2022)
 
 b) (Anulado por resolución de la Sala Constitucional N°2003-04367 del 21 de mayo del 2003)
-
-Ficha Artículo 98
 
 Artículo 99.- Prescribirán en un mes:
 
@@ -1220,8 +1025,6 @@ c) Las acciones de los Ministros para iniciar la gestión de despido de los serv
 
 (Nota de Sinalevi: en relación al inciso anterior y de conformidad al "Procedimiento de Despido", ahora se regula de conformidad con las disposiciones de los artículos 21 y 22 de la Ley Marco de Empleo Público (LMEP) No. 10159 del 8 de marzo de 2022)
 
-Ficha Artículo 99
-
 CAPITULO XI (\*)
 
 \*Este Capítulo, incluyendo el título fue adicionado por el Decreto Ejecutivo N°. 3 de 15 de febrero de 1956 .
@@ -1232,19 +1035,13 @@ Artículo 100.- La Dirección General, con la participación de los ministerios 
 
 (Así reformado por el artículo 7° del Decreto Ejecutivo No. 22422-MP del 5 de agosto de 1993).
 
-Ficha Artículo 100
-
 Artículo 101.- Un puesto, ocupado o vacante, estará formado por el conjunto de tareas y responsabilidades permanentes que requieren la atención de una persona durante la totalidad o una parte de la jornada de trabajo.
 
 (Así reformado por el artículo 7° del Decreto Ejecutivo No. 22422-MP del 5 de agosto de 1993).
 
-Ficha Artículo 101
-
 Artículo 102.- Los puestos por la similitud de sus tareas, nivel de dificultad, responsabilidades, condiciones organizacionales y ambientales y requisitos, se agruparán por clases. Las clases podrán ser genéricas o específicas, pudiendo ambos tipos tener grupo de especialidad.
 
 (Así reformado por el artículo 7° del Decreto Ejecutivo No. 22422-MP del 5 de agosto de 1993).
-
-Ficha Artículo 102
 
 Artículo 103.- Las clases de puestos correspondientes a un determinado campo de trabajo se ordenarán por niveles, determinados por las diferencias de importancia, dificultad, responsabilidad y valor relativo del trabajo.
 
@@ -1252,13 +1049,9 @@ Se denomina serie de clases al conjunto de clases comprendidas en un mismo campo
 
 (Así reformado por el artículo 7° del Decreto Ejecutivo No. 22422 del 5 de agosto de 1993).
 
-Ficha Artículo 103
-
 Artículo 104.- El Manual Descriptivo de Clases contempla el conjunto de descripciones y especificaciones de clases. Para su aplicación e interpretación, se contará con instrumentos auxiliares, tales como descripciones de cargos, manuales descriptivos de puestos, manuales de especialidades y otros que se requieran, los cuales serán elaborados y actualizados por la Dirección General con la participación de los ministerios e instituciones cubiertas por el Régimen de Servicio Civil. La descripción de clase expresará el título de la clase, la naturaleza del trabajo correspondiente a los puestos que la integran y las tareas básicas; la especificación de clase expresará las condiciones organizacionales y ambientales, las características personales y los requisitos exigibles a quienes deban ocupar los puestos. Esta descripción y especificación de clase no es restrictiva ni limitativa de las tareas y características de cada puesto.
 
 (Así reformado por el artículo 7° del Decreto Ejecutivo No. 22422-MP del 5 de agosto de 1993).
-
-Ficha Artículo 104
 
 Artículo 105.- Para todos los efectos se entenderá por:
 
@@ -1292,13 +1085,9 @@ j) Estrato: División organizativa ocupacional para fines metodológicos, orient
 
 (Así reformado por el artículo 7° del Decreto N° 22422 de 5 de agosto de 1993 y adicionados los incisos e), f), g), h), i), j) mediante artículo 9° del Decreto Nº 25592 de 29 de octubre de 1996).
 
-Ficha Artículo 105
-
 Artículo 106.- La Dirección General establecerá las normas y mecanismos correspondientes para que, con la participación de los ministerios e instituciones, se mantenga actualizada la clasificación de los puestos.
 
 (Así reformado por el artículo 7° del Decreto Ejecutivo No. 22422-MP del 5 de agosto de 1993).
-
-Ficha Artículo 106
 
 Artículo 107.- Los cambios en la clasificación de los puestos surtirán sus efectos una vez firmada y comunicada al ministerio o institución respectiva y al servidor afectado, la resolución que así lo acuerde.
 
@@ -1306,13 +1095,9 @@ Será responsabilidad del ministerio o institución correspondiente comunicar ta
 
 (Así reformado por el artículo 7° del Decreto Ejecutivo No. 22422-MP del 5 de agosto de 1993).
 
-Ficha Artículo 107
-
 Artículo 108.- Para la clasificación de un puesto nuevo, el jerarca o jefe autorizado deberá elaborar una descripción del cargo en la fórmula correspondiente y someterlo a estudio de la oficina de recursos humanos. Una vez efectuado, el mismo deberá ponerse en conocimiento de la Dirección General para su análisis y resolución respectiva.
 
 (Así reformado por el artículo 7° del Decreto Ejecutivo No. 22422-MP del 5 de agosto de 1993).
-
-Ficha Artículo 108
 
 Artículo 109.- Las oficinas de gestión institucional de recursos humanos de los ministerios e instituciones cubiertas por el Régimen de Servicio Civil deben estar atentas a los cambios a que se ven sometidos los puestos y proceder a su actualización siguiendo la normativa establecida por la Dirección General de Servicio Civil.
 
@@ -1322,8 +1107,6 @@ Para realizar el estudio de algún puesto fuera del PAAP de cada año, en forma 
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 41071 del 2 de abril de 2018)
 
-Ficha Artículo 109
-
 Artículo 110.- Cuando el jerarca o jefe autorizado estime que en un puesto se han dado cambios sustanciales y permanentes en sus tareas, actividades y responsabilidades, como consecuencia de modificaciones en los objetivos y/o procesos de trabajo, que impliquen la obtención de productos o servicios más eficientes, salvo casos de excepción a juicio de la instancia competente podrán gestionar ante la Oficina de Recursos Humanos respectiva, el trámite de la reasignación del puesto, o el estudio de clasificación que corresponda. Dicha Oficina ejecutará los estudios respectivos considerando para tal efecto los objetivos, estructura organizacional avalada por el Ministerio de Planificación Nacional y Política Económica (MIDEPLAN), estructura ocupacional, funcionamiento, cobertura, procedimientos y otros aspectos básicos de organización que afecten la clasificación del puesto y que obedezcan a un ordenamiento racional necesario para el buen cumplimiento de los objetivos de la dependencia, por lo que las Oficinas de Recursos Humanos deberán conocer la citada información, así como controlar su constante actualización, de conformidad con los cambios y modificaciones que al respecto se suceda.
 
 De igual manera podrá proceder el servidor interesado titular del puesto, cuando compruebe que el jerarca o jefe autorizado no avala el trámite de la reasignación de su puesto.
@@ -1331,8 +1114,6 @@ De igual manera podrá proceder el servidor interesado titular del puesto, cuand
 En los casos en que en alguna institución, o dependencia de ésta, se esté efectuando una reorganización aprobada según los términos del artículo 47 del Estatuto de Servicio Civil; o como producto de aquella un estudio integral de puestos, no procederá el trámite de solicitudes de reasignación ni de pedimentos de personal.
 
 (Así reformado por artículo 1° del Decreto Ejecutivo N° 27097 de 15 de mayo de 1998).
-
-Ficha Artículo 110
 
 Artículo 111.-En los casos previstos en los artículos 109 y 110 precedentes, la reasignación se resolverá de acuerdo con el siguiente procedimiento:
 
@@ -1349,8 +1130,6 @@ c) La reasignación sólo podrá efectuarse si se cumplen los requisitos técnic
 d. Si el puesto estuviere ocupado y la reasignación resultare de una clase de inferior categoría a la de la original, los efectos de la misma automáticamente quedarán en suspenso hasta por un período de seis meses, mientras tanto el servidor continuará en el desempeño de sus actividades y en dicho período podrá ser trasladado a otro puesto de igual clase a la del puesto que venía desempeñando antes de producirse la reasignación; o bien ser promovido a otro puesto si reuniere requisitos para ocuparlo. Si la ubicación del servidor no fuere posible dentro del lapso señalado y éste no aceptare la reasignación descendente, éste cesará en sus funciones y se procederá al pago de la indemnización indicada en el Artículo 37 inciso f) del Estatuto de Servicio Civil. En el caso de que el servidor acepte la reasignación tendrá derecho a una indemnización correspondiente a un mes por cada año de servicios al Estado, y que será proporcional al monto de la reducción que tenga su salario.
 
 (Así reformado por el artículo 1° del Decreto ejecutivo N° 27097 de 15 de mayo de 1997).
-
-Ficha Artículo 111
 
 Artículo 112.—Los servidores cubiertos por el Régimen de Servicio Civil podrán ser reubicados con carácter transitorio a desempeñar otros cargos como consecuencia de las siguientes situaciones:
 
@@ -1370,8 +1149,6 @@ El aumento en los salarios que tales circunstancias originen, puede ser cubierto
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 34071 del 17 de agosto de 2007).
 
-Ficha Artículo 112
-
 Artículo 113.- Al ocurrir la reasignación o reclasificación de un puesto, se procederá de acuerdo con las siguientes reglas:
 
 a) Si está vacante, podrá llenarse mediante cualesquiera de los movimientos a que se refiere el Capítulo VI de este Reglamento.
@@ -1380,33 +1157,23 @@ b) Si el puesto estuviere ocupado por un servidor regular y éste, a juicio de l
 
 (Reformado por Decreto Ejecutivo No. 22422-MP del 5 de agosto de 1993).
 
-Ficha Artículo 113
-
 Artículo 114.- Un puesto puede ser estudiado las veces que resulte necesario, sin restricción de tiempo, pero no podrá ser reasignado a clase de mayor nivel salarial\* más de una vez en un período de doce meses, salvo que estuviere vacante o que se acordare la reorganización de una dependencia o institución. Esta regla no opera para casos de reclasificación.
 
 (Así reformado por el artículo 7° del Decreto Ejecutivo N° 22422-MP del 5 de agosto de 1993).
 
 \*(Modificado por el artículo 2° del Decreto Ejecutivo N° 26162 de 4 de julio de 1997).
 
-Ficha Artículo 114
-
 Artículo 115.- Todo cambio en la clasificación de un puesto se considerará provisional durante los seis meses siguientes a la fecha de su vigencia. En ese período, el acto podrá ser revocado por resolución de la Dirección General, previo estudio del caso.
 
 (Así reformado por el artículo 7° del Decreto Ejecutivo No. 22422 del 5 de agosto de 1993).
-
-Ficha Artículo 115
 
 Artículo 116.- Cuando se trate de asignaciones de puestos nuevos o reasignaciones de puestos vacantes, el período de provisionalidad comenzará a contarse a partir de la fecha en que el puesto sea ocupado en propiedad.
 
 (Así reformado por el artículo 7° del Decreto Ejecutivo No. 22422 del 5 de agosto de 1993).
 
-Ficha Artículo 116
-
 Artículo 117.- Para efectos del pago de salario, toda reasignación de puestos regirá desde el inicio de los cambios operados en las tareas, actividades y responsabilidades que conforman los puestos, debiendo acreditarse suficientemente tal fecha en el respectivo estudio, que será indicada en la resolución que dicte la Dirección General o las Oficinas de Gestión Institucional de Recursos Humanos; y con sujeción a las disposiciones de la Ley de Salarios de la Administración Pública, en cuanto a la disponibilidad de contenido presupuestario. En los casos de reclasificación los efectos salariales regirán bajo las mismas condiciones del acto de clasificación rectificado.
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 41071 del 2 de abril de 2018)
-
-Ficha Artículo 117
 
 Artículo 118.- Los jefes de las unidades o dependencias en donde puedan ocurrir cambios en las tareas y responsabilidades de los puestos, previamente deben obtener la autorización del jerarca o jefe autorizado de la institución para iniciar la consolidación de dichas tareas y responsabilidades.
 
@@ -1416,19 +1183,13 @@ Con el análisis de factibilidad, el jerarca o jefe autorizado de la institució
 
 (Así reformado por el artículo 1° del decreto ejecutivo N° 41071 del 2 de abril de 2018)
 
-Ficha Artículo 118
-
 Artículo 119.- En casos de inopia comprobada o por razones geográficas o técnicas que lo hagan imprescindible para el buen servicio público, la Dirección General podrá, mediante resolución razonada, variar provisionalmente los requisitos de los puestos o de las clases de puestos, de acuerdo con el grupo de especialidad si lo tiene según corresponda.
 
 (Así reformado por el artículo 7° del Decreto Ejecutivo No. 22422 del 5 de agosto de 1993).
 
-Ficha Artículo 119
-
 Artículo 120.- Cuando el servicio público lo exija, podrán asignarse a un servidor tareas correspondientes a otro puesto distinto al suyo, sin que ello signifique aumento o disminución de salario, por un plazo que no debe exceder de sesenta días consecutivos o no durante un año.
 
 (Así reformado por el artículo 7° del Decreto Ejecutivo No. 22422-MP del 5 de agosto de 1993).
-
-Ficha Artículo 120
 
 (\*)CAPÍTULO XII
 
@@ -1444,15 +1205,11 @@ Artículo 121.—El Sistema de Gestión de Recursos Humanos es el conjunto de ó
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
 
-Ficha Artículo 121
-
 Definición funcional de Dirección General de Servicio Civil:
 
 Artículo 122.— La Dirección General de Servicio Civil es el órgano rector competente para regir los procesos del Sistema de Gestión de Recursos Humanos en el Régimen de Servicio Civil. Mediante sus áreas cumplirá el papel de instancia administrativa responsable de la gestión de acciones rectoras, normativas, asesoras, contraloras y proveedoras de ayuda técnica en dicho sistema.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
-
-Ficha Artículo 122
 
 Definición funcional del Tribunal de Servicio Civil:
 
@@ -1460,15 +1217,11 @@ Artículo 123.—Tribunal de Servicio Civil es el órgano competente y responsab
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
 
-Ficha Artículo 123
-
 Definición funcional de las Oficinas de Gestión Institucional de Recursos Humanos:
 
 Artículo 124.—Las Oficinas de Gestión Institucional de Recursos Humanos (OGEREH), son las instancias competentes para gerenciar los procesos de Gestión de Recursos Humanos que interesen a los respectivos Ministerios, Instituciones u Órganos Adscritos en donde operen, así como para realizar y ejecutar los procesos derivados de dicha función, siguiendo las normas establecidas en el Estatuto de Servicio Civil y su Reglamento, legislación conexa, además de las políticas, directrices y lineamientos que al efecto emita el órgano rector del Sistema de Gestión de Recursos Humanos en el Régimen de Servicio Civil y se conceptualizan como órganos de enlace ejecutores y de participación activa en dicho sistema.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
-
-Ficha Artículo 124
 
 Definición funcional de Asamblea de Jefes de Gestión de Recursos Humanos:
 
@@ -1476,15 +1229,11 @@ Artículo 125.— La Asamblea de Jefes de Gestión de Recursos Humanos es la ins
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
 
-Ficha Artículo 125
-
 Definición funcional de Consejo Técnico Consultivo de Gestión de Recursos Humanos:
 
 Artículo 126.—El Consejo Técnico Consultivo de Gestión de Recursos Humanos es la instancia asesora de intervención, participación, encuentro y estudio del Sistema de Gestión de Recursos Humanos, responsable por la discusión y valoración de asuntos que atañen al desarrollo del Empleo Público y de dicho Sistema bajo el Régimen de Servicio Civil.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
-
-Ficha Artículo 126
 
 Del Marco Jurídico:
 
@@ -1492,23 +1241,17 @@ Artículo 127.—En el cumplimiento de sus funciones, la Dirección General de S
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
 
-Ficha Artículo 127
-
 De la relación de las Oficinas de Gestión Institucional de Recursos Humanos con la Dirección General de Servicio Civil:
 
 Artículo 128.—Las Oficinas de Gestión Institucional de Recursos Humanos como órganos ejecutores del denominado Sistema de Gestión de Recursos Humanos del Régimen de Servicio Civil, establecido por el Reglamento del Estatuto de Servicio Civil están bajo la supervisión técnica de la Dirección General de Servicio Civil, y deben acatar las políticas, directrices, lineamientos, instrucciones, normas técnicas, manuales y procedimientos que establezca la indicada Dirección General compatibles con sus competencias, así como, suministrarle la información y rendirle los informes que aquélla les solicite, o exija la legislación vigente.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
 
-Ficha Artículo 128
-
 De la plataforma tecnológica:
 
 Artículo 129.—La plataforma tecnológica que la Dirección General de Servicio Civil designe, es el instrumento obligatorio para que las Oficinas de Gestión Institucional de Recursos Humanos de cada Ministerio, Institución u Órgano Adscrito ejecuten los procedimientos de la Gestión de Recursos Humanos, y debe ser utilizada por la primera, para cumplir su función fiscalizadora y asesora.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
-
-Ficha Artículo 129
 
 De la posibilidad de Delegación:
 
@@ -1522,15 +1265,11 @@ La comprobación de situaciones anómalas respecto de las competencias conferida
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
 
-Ficha Artículo 130
-
 Del Funcionamiento Básico General de las Oficinas de Gestión Institucional de Recursos Humanos:
 
 Artículo 131.—Las Oficinas de Gestión Institucional de Recursos Humanos deben implantar y constituir un esquema de funcionamiento básico general que les permita gerenciar y cumplir en forma eficiente y oportuna con los procesos de Gestión de Recursos Humanos, para lo cual cada Ministerio, Institución u Órgano Adscrito cubierto por el Estatuto de Servicio Civil debe adoptar las medidas que correspondan y dotar a dichas unidades del contingente humano, recursos físicos, económicos y materiales indispensables para su adecuado funcionamiento.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
-
-Ficha Artículo 131
 
 De las Funciones específicas de las Oficinas de Gestión Institucional de Recursos Humanos:
 
@@ -1560,8 +1299,6 @@ k. Realizar las demás actividades que se deriven de las competencias conferidas
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
 
-Ficha Artículo 132
-
 Del Diseño de funcionamiento básico de las Oficinas de Gestión Institucional de Recursos Humanos:
 
 Artículo 133.—Cada Oficina de Gestión Institucional de Recursos Humanos Ministerial, Institucional o de Órgano Adscrito tendrá como mínimo, algunos de, o en el mejor de los casos, los siguientes procesos, con las actividades que luego se indicarán:
@@ -1588,33 +1325,23 @@ Las OGEREH podrán contar con un Gestor Institucional de Recursos Humanos y un G
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
 
-Ficha Artículo 133
-
 De los Procesos y Subprocesos básicos de las Oficinas de Gestión Institucional de Recursos Humanos:
 
 Artículo 134.—Gestión de la Organización del Trabajo. Actividades Generales. Este proceso es responsable de ejecutar el Análisis Ocupacional, que comprende el mantenimiento y actualización del sistema de clasificación de puestos que opera en la organización correspondiente, sobre el que se fundamente la valoración de puestos, el reclutamiento, la selección, la capacitación, el desarrollo y otras áreas de la Gestión de Recursos Humanos. Incluye el diseño de los cargos de trabajo, que implica la descripción de las actividades, funciones, responsabilidades y finalidades que la organización asigna a los mismos, misiones y su ámbito de acción, lo cual conlleva la generación de perfiles y la determinación de las competencias necesarias para su correcto desempeño.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
 
-Ficha Artículo 134
-
 Artículo 135.—Gestión del Empleo. Actividades Generales. Este proceso tiene, acorde con su naturaleza, la función de dirigir el conjunto de políticas y prácticas orientadas a gestionar los asuntos adecuados mediante los cuales las personas logran ingresar a la organización, continúan en permanente movimiento para finalmente salir de ella. Así se distinguen en este componente atribuciones relacionadas con la planificación, el reclutamiento, selección, recepción, socialización o inducción, período de prueba, movilidad o promoción incluida la funcional (variación de tareas) y la geográfica (reubicación), y la desvinculación de personas.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
-
-Ficha Artículo 135
 
 Artículo 136.—Gestión de Servicios del Personal. Actividades Generales. Este proceso tiene la competencia de facilitar la organización del registro y control del personal. En este sentido este componente incluye la administración del trámite de pagos, control de movimientos de personal, control de asistencia, vacaciones, certificaciones, administración de bases de datos y administración de expedientes, trámites generales sobre incentivos, beneficios, licencias, permisos y otros afines al registro y control.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
 
-Ficha Artículo 136
-
 Artículo 137.—Gestión de la Compensación. Actividades Generales. Este proceso incluye dentro de sus competencias la intervención en actividades relativas al conjunto de compensaciones retributivas (salariales y extra salariales) y no retributivas que la organización dispensa a sus funcionarios por concepto de la prestación de servicios y contribución de éstos a los propósitos de aquella, reflejada por su relación de trabajo. Bajo este marco de referencia incorpora, en estricto cumplimiento las políticas, directrices y lineamientos en materia de desconcentración vigentes y emitidas por la Dirección General de Servicio Civil, según competencias delegadas, actividades como la propuesta de estructuras salariales (fija, básica u otras), diseño y administración de retribuciones variables, beneficios extra salariales, administración de salarios, reconocimientos no monetarios y en general todo aquello que apoye la definición de políticas que se vinculan a una estrategia de compensación global.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
-
-Ficha Artículo 137
 
 Artículo 138.—Gestión del Desarrollo. Actividades Generales. A este proceso le compete la búsqueda permanente y continua del estímulo al crecimiento profesional de las personas, considerando entre otros aspectos su talento, promoviendo el aprendizaje que se requiera así como la definición de los itinerarios de carrera interna institucional que permitan interrelacionar los diversos perfiles, expectativas y preferencias individuales con los requerimientos y necesidades prioritarias y estratégicas de la organización. Asimismo busca influir sobre el rendimiento de las personas en el trabajo, con el propósito de lograr su alineación con las prioridades de la organización, además de estimular el desempeño sostenible en términos de la contribución que aportan los colaboradores a la consecución de los objetivos organizativos. En este sentido el componente de interés se constituye por la generación y construcción de políticas de promoción y carrera, además de formación y capacitación que aseguren el aprendizaje individual y colectivo en procura del mantenimiento y evolución de las competencias de los funcionarios que apoyen su progreso profesional, así como el logro del fin organizacional. Asimismo incluye las funciones de planificación del rendimiento (pautas y estándares de rendimiento alineados con estrategia y objetivos organizativos), seguimiento activo del rendimiento, evaluación del rendimiento, retroalimentación al colaborador, lo que implica planes de mejora del rendimiento.
 
@@ -1622,19 +1349,13 @@ En aquellos casos razonados en que exista una unidad especializada para el proce
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
 
-Ficha Artículo 138
-
 Artículo 139.—Gestión de las Relaciones Humanas y Sociales. Actividades Generales. Este proceso en el desarrollo de sus cometidos debe procurar que las relaciones establecidas entre la organización y sus funcionarios se perfilen en un sentido colectivo y cohesionado, en este ámbito cumple actividades relativas al monitoreo del clima organizativo, políticas y prácticas de comunicación ascendente y descendente, mantenimiento y mejora de la percepción de la satisfacción global de los colaboradores, gestión de las relaciones laborales (incluye la administración del régimen disciplinario), condiciones de trabajo, relaciones entre la organización y actores sociales (sindicatos, gremios, asociaciones), objetivos, valores y aspiraciones de poder de todas las partes que participan de la organización, transacción y administración del conflicto, gestión de políticas sociales destacando entre ellas la salud laboral y en general que se procure mejorar la calidad de vida laboral; adicionalmente podría implicar negociación colectiva salarial. Asimismo debe incluir procesos relativos a la evaluación o Auditoría de la Gestión de Recursos Humanos, incorporando una revisión sistemática y formalmente estructurada para medir sus costos, beneficios del programa integral de Gestión de Recursos Humanos en el Ministerio, Institución u Órgano Adscrito que permita la comprobación práctica de su eficiencia, eficacia y calidad, en términos de su contribución con los objetivos organizacionales.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
 
-Ficha Artículo 139
-
 Artículo 140.—Cada uno de los procesos detallados en los artículos anteriores de este apartado deberá considerar como proceso de entrada, las salidas resultantes del proceso de Planificación de Recursos Humanos, y asegurar que estas respondan directamente a la definición de políticas coherentes y alineadas a la estrategia institucional. Lo anterior considerando además una integración sectorial que a su vez vincule los objetivos de desarrollo nacional.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
-
-Ficha Artículo 140
 
 De la Obligada colaboración:
 
@@ -1642,15 +1363,11 @@ Artículo 141.—Para el eficiente y eficaz cumplimiento de las funciones asigna
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
 
-Ficha Artículo 141
-
 De la utilización de Manuales y Normas de Procedimientos:
 
 Artículo 142.—Las Oficinas de Gestión Institucional de Recursos Humanos deben utilizar los manuales y normas de procedimientos que les proporcione la Dirección General de Servicio Civil, y su personal debe ajustarse en forma rigurosa a las disposiciones que contengan dichos instrumentos. Los procedimientos contenidos en esos manuales y normas solo podrán ser variados o modificados con la previa coordinación y aprobación de esta Dirección General.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
-
-Ficha Artículo 142
 
 De la Creación de Oficinas de Gestión Institucional de Recursos Humanos Auxiliares (Programáticas o Regionales) en un mismo Ministerio, Institución u Órgano Adscrito y su regencia:
 
@@ -1662,8 +1379,6 @@ Las Oficinas de Gestión Institucional de Recursos Humanos Auxiliares que result
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
 
-Ficha Artículo 143
-
 De los Recursos:
 
 Artículo 144.—En materia de recursos contra los actos y decisiones que se adopten en la Gestión de Recursos Humanos que formalizan las Oficinas de Gestión Institucional de Recursos Humanos en general, serán aplicables las disposiciones del Estatuto de Servicio Civil y el presente Reglamento, además de las resoluciones y otras normas conexas complementarias, entendiéndose que compete a esas instancias el conocimiento de los recursos cuando en dichos cuerpos normativos se refieren al órgano que resolvió el acto.
@@ -1672,19 +1387,13 @@ Las Oficinas de Gestión Institucional de Recursos Humanos en todos los casos, c
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
 
-Ficha Artículo 144
-
 Artículo 145.—El diseño de funcionamiento de las Oficinas de Gestión Institucional de Recursos Humanos detallado con antelación, representa un esquema y trazo básico que no implica ni obliga la creación de estructura organizativa para todos y cada uno de los procesos y subprocesos señalados, pues ello dependerá del tipo de organización, su tamaño, arquitectura estructural, funcional y orgánica, así como el grado de evolución y desarrollo de la función de la Gestión de Recursos Humanos que opera en la organización que se trate, sin embargo, la ejecución de las actividades precitadas en los respectivos procesos y subprocesos debe prevalecer en su práctica cotidiana.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
 
-Ficha Artículo 145
-
 Artículo 146.—El diseño de funcionamiento de las Oficinas de Gestión Institucional de Recursos Humanos especificado anteriormente, tiene como propósito estandarizar en ellas un modelo mínimo y básico de maniobra dentro del Sistema de Gestión de Recursos Humanos en el Régimen de Servicio Civil, por tanto el mismo debe ser aplicado uniformemente por los Ministerios de Gobierno, Instituciones y Órganos Adscritos bajo el ámbito de dicho Régimen, con el fin de mantener un adecuado equilibrio dentro de tal Sistema, e irse implementando y ajustando a él hasta lograr su concreción práctica y operativa, la cual cumplirá la función de criterio para establecer, entre otros, una categorización de las Oficinas de Gestión Institucional de Recursos Humanos imperantes en dicho régimen y referente de la estructura ocupacional que a ellas deba ser atribuida.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
-
-Ficha Artículo 146
 
 Artículo 147.- En casos de inopia comprobada o por razones técnicas que lo hagan imprescindible para el buen servicio público, la Dirección General de Servicio Civil, podrá , mediante resolución razonada, variar o sustituir provisionalmente los requisitos de los puestos.
 
@@ -1696,8 +1405,6 @@ Artículo 147.- En casos de inopia comprobada o por razones técnicas que lo hag
 
 (Así corrida su numeración por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010, que lo traspasó del antiguo artículo 121 al 147 actual)
 
-Ficha Artículo 147
-
 Artículo 148.– Cuando el servicio público lo exija, podrán asignarse a un servidor labores correspondientes a otro puesto, distinto al suyo, sin que ello signifique ascenso, descenso ni aumento de sueldo, por un plazo que no deberá exceder de sesenta días -consecutivos o no- durante un año.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 14 del 24 de abril de 1961)
@@ -1705,8 +1412,6 @@ Artículo 148.– Cuando el servicio público lo exija, podrán asignarse a un s
 (Nota de Sinalevi: Mediante la reforma realizada por el artículo 7° del decreto ejecutivo N° 22422 del 5 de agosto de 1993, al capítulo XI "Clasificación de puestos", lo contemplado en este numeral, se encuentra regulado en el artículo 120 actual de este decreto)
 
 (Así corrida su numeración por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010, que lo traspasó del antiguo 122 al 148 actual)
-
-Ficha Artículo 148
 
 CAPÍTULO XIII(\*)
 
@@ -1722,25 +1427,17 @@ Artículo 149. El presente capítulo regula las distintas actividades y relacion
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
 
-Ficha Artículo 149
-
 Artículo 150. La capacitación constituye un derecho y un deber de las personas servidoras públicas. Como derecho implica el compromiso de las autoridades institucionales de concederles las condiciones y posibilidades de capacitarse y desarrollar sus capacidades para el mejor desempeño en el trabajo. Como deber implica la obligación de someterse a los programas y acciones de aprendizaje dirigido a mejorar sus capacidades, además de contribuir a la transferencia de los conocimientos y habilidades adquiridas.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
-
-Ficha Artículo 150
 
 Artículo 151. El Subsistema de Capacitación y Desarrollo es el encargado de gestionar las distintas acciones y relaciones que comprende la capacitación y el desarrollo de las personas bajo el Régimen de Servicio Civil. Dicho Subsistema, denominado en lo sucesivo "SUCADES", se rige por los principios de solidaridad y mutua cooperación interinstitucional, procurando el aprovechamiento compartido, equilibrado y eficiente de los recursos disponibles. Las instituciones bajo su ámbito garantizarán la provisión de los recursos necesarios a las respectivas unidades o dependencias encargadas de la capacitación, ya sea que éstas funcionen en forma autónoma o como instancias dependientes de las Oficinas de Gestión Institucional de Recursos Humanos (OGEREH).
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
 
-Ficha Artículo 151
-
 Artículo 152. Las actividades y relaciones del SUCADES se fundamentarán en la siguiente normativa y sus reformas: el Estatuto de Servicio Civil, sus Reglamentos y reformas; la Ley N° 6362 del 03 de setiembre de 1979, la Ley N° 3009 del 18 de julio de 1962, su Reglamento y sus reformas; el presente Capítulo, así como las disposiciones y políticas que emita la Dirección General de Servicio Civil (DGSC) y el Centro de Capacitación y Desarrollo (CECADES).
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
-
-Ficha Artículo 152
 
 Sección II
 
@@ -1764,8 +1461,6 @@ g) Regular el uso, la aplicación y el reconocimiento de la capacitación en los
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
 
-Ficha Artículo 153
-
 Artículo 154. El SUCADES estará conformado por los siguientes órganos:
 
 a) El Centro de Capacitación y Desarrollo (CECADES).
@@ -1778,21 +1473,15 @@ d) La Asamblea de Encargadas o Encargados de la Capacitación Institucional.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
 
-Ficha Artículo 154
-
 Artículo 155. El CECADES es el órgano rector del SUCADES, encargado de brindar a las unidades de capacitación o dependencias equivalentes, la asesoría y el apoyo técnico necesarios para el efectivo cumplimiento de sus funciones. Por su naturaleza y función rectora, constituye un órgano propulsor de las políticas, estrategias, planes y programas de capacitación de las personas servidoras públicas, propiciando su promoción humana y su desarrollo permanentes, en conjunción con la profesionalización de la función pública; como aportes estratégicos para la entrega de servicios de calidad a la ciudadanía.
 
 El CECADES estará a cargo de una Directora o Director Ejecutivo, nombrado por el Director General de Servicio Civil y puede contar, para la toma de decisiones, definición de políticas, emisión de disposiciones y canalización de recursos, con la asesoría del Consejo de Capacitación.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
 
-Ficha Artículo 155
-
 Artículo 156. Para su funcionamiento, el CECADES dispondrá de la respectiva partida asignada en el presupuesto de la DGSC. Además, podrá recibir patrocinios, colaboraciones y/o donaciones de organismos públicos o privados, nacionales e internacionales, así como intercambiar servicios de capacitación con organismos públicos o privados, facilitando el uso de bienes institucionales, para lo cual podrá establecer convenios de cooperación. El DirectorGeneral de Servicio Civil gestionará ante los organismos competentes, una adecuada asignación de presupuesto, que corresponda con las atribuciones conferidas al CECADES.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
-
-Ficha Artículo 156
 
 Artículo 157. El CECADES tendrá como atribuciones sustantivas, las siguientes:
 
@@ -1830,13 +1519,9 @@ p) Refrendar los certificados de las actividades de capacitación autorizadas y 
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
 
-Ficha Artículo 157
-
 Artículo 158. La asistencia y representación de la institución en las actividades ordinarias o extraordinarias del SUCADES, convocadas por la Dirección Ejecutiva del CECADES, tales como la Asamblea Anual del SUCADES y otros eventos similares relacionados con la capacitación, constituyen actividades sustantivas e inherentes a los cargos de jefatura de unidades o dependencias institucionales de capacitación. Quienes ejerzan dichos cargos están en la obligación de cumplir con las respectivas convocatorias, en caso contrario, el CECADES informará a la autoridad superior de la respectiva institución, a efecto de que se tomen las medidas disciplinarias que procedan.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
-
-Ficha Artículo 158
 
 Artículo 159. El Consejo de Capacitación es el órgano consultivo y de apoyo, conformado por representantes del SUCADES, encargado de colaborar con el CECADES en materia de políticas, estrategias y directrices para el Subsistema de Capacitación y Desarrollo. Estará integrado de la siguiente manera:
 
@@ -1847,8 +1532,6 @@ b) Cinco integrantes titulares con sus respectivos suplentes, elegidos en la Asa
 El Consejo de Capacitación dictará su propio reglamento interno de organización y funcionamiento.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
-
-Ficha Artículo 159
 
 Artículo 160. El Consejo de Capacitación tendrá como atribuciones principales las siguientes:
 
@@ -1867,8 +1550,6 @@ f) Proponer y ejecutar proyectos o actividades que coadyuven con el fortalecimie
 El ejercicio de representación de los funcionarios del SUCADES, en el seno del Consejo de Capacitación y su participación en las actividades convocadas u organizadas por los órganos de dicho subsistema, se considerará como parte de las labores regulares asignadas al funcionario en su respectiva institución.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
-
-Ficha Artículo 160
 
 Artículo 161. Las unidades o dependencias encargadas de la capacitación institucional constituyen los órganos de enlace y coordinación entre las instituciones del SUCADES y el CECADES; son los encargados de ejecutar las políticas, estrategias y disposiciones emitidas por éste, así como de retroalimentarlo en las diversas áreas y acciones propias de la capacitación y desarrollo. Tienen como atribuciones principales, las siguientes:
 
@@ -1898,13 +1579,9 @@ l) Rendir informes periódicos a la máxima autoridad de su institución y al CE
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
 
-Ficha Artículo 161
-
 Artículo 162. La Asamblea de Encargadas o Encargados de la Capacitación Institucional es la instancia constitutiva de representación y participación del SUCADES, que nombra a sus representantes en el Consejo de Capacitación y somete, además, a discusión y valoración aquellos asuntos de interés para las instituciones representadas. Dicha Asamblea será convocada por el CECADES.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
-
-Ficha Artículo 162
 
 Sección III
 
@@ -1913,8 +1590,6 @@ Planificación y Desarrollo de la Capacitación
 Artículo 163. Las distintas acciones de capacitación por realizar en las instituciones del SUCADES, deberán contar con la autorización previa del CECADES, requiriéndose para ello su inclusión en un Plan Institucional de Capacitación (PIC). Dicho plan será flexible y susceptible de ajustarse e incorporar -de ser necesarias- aquellas acciones de capacitación no previstas puntualmente en su formulación original, o bien, aprovechar oportunidades que contribuyan a superar necesidades o situaciones laborales que surjan luego de su entrada en vigencia. Su periodicidad y las fechas de presentación al CECADES, para su respectiva revisión y aprobación, serán definidas por éste.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
-
-Ficha Artículo 163
 
 Artículo 164. Para el cumplimiento de las disposiciones del artículo anterior, las unidades de capacitación o dependencias responsables de la capacitación institucional, procederán a realizar la investigación y la aplicación de instrumentos técnicos, que permitan identificar las áreas deficitarias en las que las personas servidoras requieren adquirir, actualizar o perfeccionar conocimientos, actitudes, habilidades y destrezas para su desarrollo humano y el mejor desempeño de sus cargos, actuales y futuros. Para ello considerará como elementos medulares los siguientes:
 
@@ -1936,13 +1611,9 @@ h. Las recomendaciones de los informes emitidos por los entes contralores, entre
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
 
-Ficha Artículo 164
-
 Artículo 165. El CECADES y las unidades de capacitación del SUCADES, contribuirán con el desarrollo de actividades de capacitación dirigidas a fomentar los valores y la ética de la función pública, la cultura cívica y las relaciones individuales y colectivas en el entorno laboral, como elementos de mejora del servicio público. Para ello, incluirán en los Planes Institucionales de Capacitación actividades dirigidas al abordaje, exclusivo o transversal, de temas relacionados con el servicio público, la transparencia, la rendición de cuentas, la probidad, la lucha contra la corrupción, el respeto a las personas en condición de vulnerabilidad, la protección del ambiente y otros que sean definidos como prioridad del Estado costarricense.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
-
-Ficha Artículo 165
 
 Sección IV
 
@@ -1952,21 +1623,15 @@ Artículo 166. Los jerarcas de las instituciones y dependencias del Régimen de 
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
 
-Ficha Artículo 166
-
 Artículo 167. Las instituciones organizadoras o patrocinadoras y el CECADES refrendarán y otorgarán certificados por concepto de capacitación recibida e impartida, en la modalidad que corresponda, a quienes hayan cumplido con los requisitos fijados mediante resolución de la Dirección General de Servicio Civil. Dichos certificados podrán ser considerados en los diferentes trámites y aplicaciones de la gestión de recursos humanos del Régimen de Servicio Civil, siempre y cuando cumplan con los requisitos establecidos para cada caso.
 
 El CECADES no refrendará certificados de actividades no contempladas en el PIC, salvo casos debidamente justificados y que sean avalados por el CECADES. La unidad o dependencia encargada de la capacitación institucional será responsable por los perjuicios que dicha omisión cause a las servidoras y servidores.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
 
-Ficha Artículo 167
-
 Artículo 168. El reconocimiento de actividades de capacitación externas al SUCADES, recibidas dentro o fuera del país, se efectuará de conformidad con los requisitos fijados mediante resolución de la Dirección General de Servicio Civil y las directrices emitidas por el CECADES.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
-
-Ficha Artículo 168
 
 Sección V
 
@@ -1975,8 +1640,6 @@ Becas y licencias
 Artículo 169. La concesión de licencias para el aprovechamiento de becas y otras facilidades dirigidas a la capacitación y formación de las personas servidoras del Régimen de Servicio Civil, se regularán por medio de la Ley de Licencias para Adiestramiento de Servidores Públicos, Nº 3009 y sus reformas; su Reglamento, el Decreto Ejecutivo Nº 17339-P del 2 de diciembre de 1986 y las disposiciones contenidas en este capítulo.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
-
-Ficha Artículo 169
 
 Artículo 170. La unidad de capacitación o dependencia responsable de la capacitación institucional, o en su defecto la OGEREH, tendrá a cargo el trámite correspondiente para la adjudicación de las becas o facilidades indicadas en el Artículo 6º del mencionado Decreto Ejecutivo No. 17339-P. Para ello deberán:
 
@@ -1994,8 +1657,6 @@ Salvo lo dispuesto en el inciso e) del presente artículo, se excluyen de las di
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
 
-Ficha Artículo 170
-
 Artículo 171. El o la jerarca institucional podrá conceder tiempo de la jornada laboral para que los servidores cursen estudios formales hasta por un máximo de veinte (20) horas semanales. Sin embargo, cuando se trate de estudios de posgrado en que se requiera mayor cantidad de tiempo, según los requerimientos del respectivo plan de estudios, puede ampliarse el número de horas, o bien, concederse una licencia de jornada completa de fecha a fecha, es decir por el periodo que dure el respectivo plan de estudios.
 
 En ambos casos, la licencia se concederá mediante la suscripción de un Contrato de Estudios por parte del beneficiario o la beneficiaria, quienes quedan obligados, una vez concluido el plazo contemplado en dicho instrumento, a presentar el certificado que acredite el título o grado respectivo obtenido, y a prestar sus servicios al Estado en la disciplina o el área de su especialidad, hasta por el término de tres años. La obligación será siempre proporcional a la cantidad de tiempo concedido para los estudios y en ningún caso deberá exceder los tres años.
@@ -2006,13 +1667,9 @@ La dependencia técnica designada para la elaboración del Contrato de Estudios,
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
 
-Ficha Artículo 171
-
 Artículo 172. Si, luego de vencido el tiempo señalado por la respectiva institución educativa para concluir el plan de estudios de la disciplina cursada, la persona servidora requiriese más tiempo, se le podrá prorrogar la licencia hasta por un máximo de tres años.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
-
-Ficha Artículo 172
 
 Artículo 173. Las licencias para participar en actividades de capacitación, se podrán conceder, de conformidad con las siguientes condiciones:
 
@@ -2021,8 +1678,6 @@ a) Las licencias de jornada completa y fecha a fecha que no excedan los tres mes
 b) Las licencias que excedan los tres meses o las 260 horas se concederán mediante la suscripción de un Contrato de Capacitación, entre el o la jerarca institucional y la beneficiaria o el beneficiario. El contrato deberá contar, además, con el refrendo de la Dirección General de Servicio Civil o su representante, cuando así corresponda, y obliga a la persona beneficiaria a prestar sus servicios al Estado, luego de concluida su capacitación. La obligación será siempre proporcional a la cantidad de tiempo concedido y en ningún caso excederá los tres años, salvo lo dispuesto en el artículo anterior.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
-
-Ficha Artículo 173
 
 Artículo 174. Aparte de las formalidades de los artículos anteriores, la concesión de licencias para capacitación o estudios formales queda sujeta a las siguientes condiciones:
 
@@ -2040,13 +1695,9 @@ Las jefaturas inmediatas serán responsables del cumplimiento de las disposicion
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
 
-Ficha Artículo 174
-
 Artículo 175. Las licencias para que las personas servidoras atiendan invitaciones de Gobiernos o de organismos nacionales e internacionales para viajes de representación o participación en seminarios, congresos y otras actividades similares de capacitación o formación, podrán ser concedidas con goce de salario por la máxima autoridad o jerarca institucional, quien deberá informar a la Unidad o dependencia encargada de la capacitación institucional para su debido trámite. El otorgamiento de la respectiva licencia se efectuará de conformidad con las disposiciones de este capítulo.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
-
-Ficha Artículo 175
 
 Artículo 176. Las licencias para el ejercicio de la docencia en instituciones de educación superior, podrán concederse excepcionalmente de conformidad con las siguientes condiciones:
 
@@ -2058,22 +1709,14 @@ c) Que la licencia se conceda mediante un contrato suscrito entre el o la Jerarc
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
 
-Ficha Artículo 176
-
 Artículo 177. Con excepción de las situaciones reguladas por motivos de capacitación, estudios formales y el ejercicio de la docencia en instituciones de educación superior, no podrán concederse permisos para trabajar menos horas de la jornada ordinaria diaria o semanal.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
-
-Ficha Artículo 177
 
 Artículo 178. Se exceptúan de las restricciones estipuladas en este capítulo, las licencias que se concedan sin goce de salario, salvo cuando se trate del aprovechamiento de becas o facilidades, en cuyo caso se aplicará lo dispuesto en el artículo 7° de la Ley de Licencias para Adiestramiento de Servidores Públicos No. 3009.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 40608 del 30 de junio de 2017)
 
-Ficha Artículo 178
-
 Transitorio único: Los Jerarcas de las Instituciones cubiertas por el Régimen del Estatuto del Servicio Civil, accionando la coordinación necesaria con la Dirección General de Servicio Civil, contarán con un plazo de doce meses para fortalecer sus instancias de Gestión Institucional de Recursos Humanos, con el fin de, a partir de la publicación del presente Decreto, ajustar aquellos casos donde se requiera suministrarles los insumos técnicos, económicos, humanos, materiales y organizativos necesarios, o bien ejecutar las modificaciones presupuestarias que así lo ameriten a efectos de cumplir con esta obligación.
 
 (Así adicionado por el artículo 1° del decreto ejecutivo N° 35865 del 2 de marzo de 2010)
-
-Ficha Artículo 1 Transitorio

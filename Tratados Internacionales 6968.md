@@ -1,3 +1,12 @@
+---
+numero: "Ley 6968"
+nombre: "Convención sobre la eliminación de todas las formas de discriminación contra la mujer"
+materia: "internacional"
+version_sinalevi: "2 de 2"
+ultima_reforma: ""
+enlace: ""
+---
+
 Tratados Internacionales 6968
 
 Convención sobre la eliminación de todas las formas de discriminación contra la mujer
@@ -58,8 +67,6 @@ ARTICULO 1º
 
 A los efectos de la presente Convención, la expresión "discriminación contra la mujer" denotará toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y de la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera.
 
-Ficha Artículo 1
-
 ARTICULO 2º
 
 Los Estados Partes condenan la discriminación contra la mujer en todas sus formas, convienen en seguir, por todos los medios apropiados y sin dilaciones, una política encaminada a eliminar la discriminación contra la mujer y, con tal objeto, se comprometen a:
@@ -78,21 +85,15 @@ f) Adoptar todas las medidas adecuadas, incluso de carácter legislativo, para m
 
 g) Derogar todas las disposiciones penales nacionales que constituyan discriminación contra la mujer.
 
-Ficha Artículo 2
-
 ARTICULO 3º
 
 Los Estados Partes tomarán en todas las esferas, y en particular en las esferas política, social, económica y cultural, todas las medidas apropiadas, incluso de carácter legislativo, para asegurar el pleno desarrollo y adelanto de la mujer, con el objeto de garantizarle el ejercicio y el goce de los derechos humanos y las libertades fundamentales en igualdad de condiciones con el hombre
-
-Ficha Artículo 3
 
 ARTICULO 4º
 
 1º.- La adopción por los Estados Partes de medidas especiales de carácter temporal encaminadas a acelerar la igualdad de facto entre el hombre y la mujer no se considerará discriminación en la forma definida en la presente Convención, pero de ningún modo entrañará, como consecuencia, el mantenimiento de no más desiguales o separadas; estas medidas cesarán cuando se hayan alcanzado los objetivos de igualdad de oportunidades y trato.
 
 2º.- La adopción por los Estados Partes de medidas especiales, incluso las contenidas en la presente Convención, encaminadas a proteger la maternidad no se considerarán discriminatorias.
-
-Ficha Artículo 4
 
 ARTICULO 5º
 
@@ -102,13 +103,9 @@ a) Modificar los patrones socioculturales de conducta de hombre y mujeres con mi
 
 b) Garantizar que la educación familiar incluya una comprensión adecuada de la maternidad como función social y el reconocimiento de las responsabilidad común de hombres y mujeres en cuanto a la educación y al desarrollo de sus hijos, en la inteligencia de que el interés de los hijos constituirá la consideración primordial en todos los casos.
 
-Ficha Artículo 5
-
 ARTICULO 6º
 
 Los Estados Partes tomarán todas las medidas apropiadas, incluso de carácter legislativo, para suprimir todas las formas de trata de mujeres y explotación en la prostitución de la mujer.
-
-Ficha Artículo 6
 
 PARTE II
 
@@ -122,21 +119,15 @@ b) Participar en la formulación de las políticas gubernamentales y en la ejecu
 
 c) Participar en organizaciones y asociaciones no gubernamentales que se ocupen de la vida pública y política del país.
 
-Ficha Artículo 7
-
 ARTICULO 8º
 
 Los Estados Partes tomarán todas las medidas apropiadas para garantizar a la mujer, en igualdad de condiciones con el hombre y sin discriminación alguna, la oportunidad de representar a su gobierno en el plano internacional y en particular en la labor de las organizaciones internacionales.
-
-Ficha Artículo 8
 
 ARTICULO 9º
 
 1º.- Los Estados Partes otorgarán a las mujeres iguales derechos que a los hombres para adquirir, cambiar o conservar su nacionalidad. Garantizarán, en particular, que ni el matrimonio con un extranjero ni el cambio de nacionalidad del marido durante el matrimonio cambien automáticamente la nacionalidad de la esposa, la convierten en apátrida o la obliguen a adoptar la nacionalidad del cónyuge.
 
 2º.- Los Estados Partes otorgarán a la mujer los mismos derechos que al hombre con respecto a la nacionalidad de sus hijos.
-
-Ficha Artículo 9
 
 PARTE III
 
@@ -159,8 +150,6 @@ f) La reducción de la tasa de abandono femenino de los estudios y la organizaci
 g) Las mismas oportunidades para participar activamente en el deporte y la educación física.
 
 h) Acceso al material informativo que contribuya a asegurar la salud y el bienestar de la familia, incluida la información y el asesoramiento sobre planificación de la familia.
-
-Ficha Artículo 10
 
 ARTICULO 11
 
@@ -190,15 +179,11 @@ d) Prestar protección especial a la mujer durante el embarazo en los tipos de t
 
 3º.- La legislación protectora relacionada con las cuestiones comprendidas en este artículo será examinada periódicamente a la luz de los conocimientos científicos y tecnológicos y será revisada, derogada o ampliada según corresponda.
 
-Ficha Artículo 11
-
 ARTICULO 12
 
 1º.- Los Estados Partes adoptarán todas las medidas apropiadas para eliminar la discriminación contra la mujer en la esfera de la atención médica a fin de asegurar, en condiciones de igualdad entre hombres y mujeres, el acceso a servicios de atención médica, inclusive los que se refieren a la planificación de la familia.
 
 2º.- En perjuicio de lo dispuesto en el párrafo 1 supra, los Estados Partes garantizarán a la mujer servicios apropiados en relación con el embarazo, el parto y el período posterior al parto, proporcionando servicios gratuitos cuando fuere necesario y le asegurarán una nutrición adecuada durante el embarazo y la lactancia.
-
-Ficha Artículo 12
 
 ARTICULO 13
 
@@ -209,8 +194,6 @@ a) El derecho a prestaciones familiares.
 b) El derecho a obtener préstamos bancarios, hipotecas y otras formas de crédito financiero.
 
 c) El derecho a participar en actividades de esparcimiento, deportes y en todos los aspectos de la vida cultural.
-
-Ficha Artículo 13
 
 ARTICULO 14
 
@@ -234,8 +217,6 @@ g) Obtener acceso a los créditos y préstamos agrícolas, a los servicios de co
 
 h) Gozar de condiciones de vida adecuada, particularmente en las esferas de la vivienda, los servicios sanitarios, la electricidad y el abastecimiento de agua, el transporte y las comunicaciones.
 
-Ficha Artículo 14
-
 PARTE IV
 
 ARTICULO 15
@@ -247,8 +228,6 @@ ARTICULO 15
 3º.- Los Estados Partes convienen en que todo contrato o cualquier otro instrumento privado con efecto jurídico que tienda a limitar la capacidad jurídica de la mujer se considerará nulo.
 
 4º.- Los Estados Partes reconocerán al hombre y a la mujer los mismos derechos con respecto a la legislación relativa al derecho de las personas a circulas libremente y a la libertad para elegir su residencia y domicilio.
-
-Ficha Artículo 15
 
 ARTICULO 16
 
@@ -272,8 +251,6 @@ h) Los mismos derechos a cada uno de los cónyuges en materia de propiedad compr
 
 2º.- No tendrán ningún efecto jurídico los esponsales y el matrimonio de niños y se adoptarán todas las medidas necesarias, incluso de carácter legislativo, para fijar una edad mínima para la celebración del matrimonio y hacer obligatoria la inscripción del matrimonio en un registro oficial.
 
-Ficha Artículo 16
-
 PARTE V
 
 ARTICULO 17
@@ -296,8 +273,6 @@ ARTICULO 17
 
 9º.- El Secretario General de las Naciones Unidas proporcionará el personal y los servicios necesarios para el desempeño eficaz de las funciones del Comité en virtud de la presente Convención.
 
-Ficha Artículo 17
-
 ARTICULO 18
 
 1º.- Los Estados Partes se comprometen a someter al Secretario General de las Naciones Unidas, para que lo examine el Comité, un informe sobre las medidas legislativa, judiciales, administrativas o de otra índole que hayan adoptado para hacer efectivas las disposiciones de la presente Convención y sobre los progresos realizados en este sentido.
@@ -308,15 +283,11 @@ b) En lo sucesivo por lo menos cada cuatro años, y además, cuando el Comité l
 
 2º.- Se podrán indicar en los informes los factores y las dificultades que afecten el grado de cumplimiento de las obligaciones impuestas por la presente Convención.
 
-Ficha Artículo 18
-
 ARTICULO 19
 
 1º.- El Comité aprobará su propio reglamento.
 
 2º.- El Comité elegirá su Mesa por un período de dos años.
-
-Ficha Artículo 19
 
 ARTICULO 20
 
@@ -326,8 +297,6 @@ ARTICULO 20
 
 2º.- Las reuniones del Comité se celebrarán normalmente en la Sede de las Naciones Unidas o en cualquier otro sitio conveniente que determine el Comité.
 
-Ficha Artículo 20
-
 ARTICULO 21
 
 1º.- El Comité, por conducto del Consejo Económico y Social, informará anualmente a la Asamblea General de las Naciones Unidas sobre sus actividades y podrá hacer sugerencias y recomendaciones de carácter general basadas en el examen de los informes y de los datos transmitidos por los Estados Partes.
@@ -336,13 +305,9 @@ Estas sugerencias y recomendaciones de carácter general se incluirán en el inf
 
 2º.- El Secretario General transmitirá los informes del Comité a la Comisión de la Condición Jurídica y Social de la Mujer para su información.
 
-Ficha Artículo 21
-
 ARTICULO 22
 
 Los organismos especializados tendrán derecho a estar representados en el examen de la aplicación de las disposiciones de la presente Convención que corresponden a la esfera de sus actividades. El Comité podrá invitar a los organismos especializados a que presenten informes sobre la aplicación de la Convención en las áreas que correspondan a la esfera de sus actividades.
-
-Ficha Artículo 22
 
 PARTE VI
 
@@ -354,13 +319,9 @@ a) La legislación de un Estado Parte.
 
 b) Cualquier otra Convención, tratado o acuerdo internacional vigente en ese Estado.
 
-Ficha Artículo 23
-
 ARTICULO 24
 
 Los Estados Partes se comprometen a adoptar todas las medidas necesa­rias en el ámbito nacional para conseguir la plena realización de los derechos reconocidos en la presente Convención.
-
-Ficha Artículo 24
 
 ARTICULO 25
 
@@ -372,23 +333,17 @@ ARTICULO 25
 
 4\. La presente Convención estará abierta a la adhesión de todos los Esta­dos. La adhesión se efectuará depositando un instrumento de adhesión en poder del Secretario General de las Naciones Unidas.
 
-Ficha Artículo 25
-
 ARTICULO 26
 
 1\. En cualquier momento, cualquiera de los Estados Partes podrá formular una solicitud de revisión de la presente Convención mediante comunicación es­crita dirigida al Secretario General de las Naciones Unidas.
 
 2\. La Asamblea General de las Naciones Unidas decidirá las medidas que, en su caso, hayan de adaptarse en lo que respecta a esa solicitud.
 
-Ficha Artículo 26
-
 ARTICULO 27
 
 1\. La presente Convención entrará en vigor el trigésimo día a partir de la fecha en que haya sido depositado en poder del Secretario General de las Naciones Unidas el vigésimo instrumento de ratificación o de adhesión.
 
 2\. Para cada Estado que ratifique la Convención o se adhiera a ella después de haber sido depositado el vigésimo instrumento de ratificación o de adhe­sión, la Convención entrará en vigor el trigésimo día a partir de la fecha en que tal Estado haya depositado su instrumento de ratificación o adhesión.
-
-Ficha Artículo 27
 
 ARTICULO 28
 
@@ -398,8 +353,6 @@ ARTICULO 28
 
 3\. Toda reserva podrá ser retirada en cualquier momento por medio de una notificación a estos efectos dirigida al Secretario General de las Naciones Unidas, quien informará de ello a todos los Estados. Esta notificación surtirá efecto en la fecha de su recepción
 
-Ficha Artículo 28
-
 ARTICULO 29
 
 1\. Toda controversia qué surja entre dos o más Estados Partes con res­pecto a la interpretación o aplicación de la presente Convención que no se solu­cione mediante negociaciones se someterá al arbitraje a petición de uno de ellos. Si en el plazo de seis meses contados a partir de la fecha de presentación de solicitud de arbitraje las partes no consiguen ponerse de acuerdo sobre la forma del mismo, cualquiera de las partes podrá someter la controversia a la Corte Internacional de Justicia, mediante una solicitud presentada de con­formidad con el Estatuto de la Corte.
@@ -407,8 +360,6 @@ ARTICULO 29
 2\. Todo Estado Parte, en el momento de la firma o ratificación de la presente Convención o de su adhesión a la misma, podrá declarar que' no se considera obligado por el párrafo 1 del presente articulo. Los demás Estados Partes no estarán obligados por ese párrafo ante ningún Estado Parte que haya formulado esa reserva.
 
 3\. Todo Estado Parte que haya formulado la reserva prevista en el pá­rrafo 2 del presente artículo podrá retirarla en cualquier momento notificándolo al Secretario General de las Naciones Unidas.
-
-Ficha Artículo 29
 
 ARTICULO 30
 
@@ -419,5 +370,3 @@ EN TESTIMONIO DE LO CUAL, los infrascritos, debidamente autorizados, firman la p
 Artículo 2°—Rige a partir de su publicación.
 
 Presidencia de la República.—San José, a los dos días del mes de octubre de mil novecientos ochenta y cuatro.
-
-Ficha Artículo 30

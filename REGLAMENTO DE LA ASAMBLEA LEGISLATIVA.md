@@ -1,3 +1,12 @@
+---
+numero: "Reglamento de la Asamblea Legislativa"
+nombre: "Reglamento de la Asamblea Legislativa"
+materia: "constitucional"
+version_sinalevi: "52 de 52"
+ultima_reforma: ""
+enlace: ""
+---
+
 Reglamento 0
 
 Reglamento de la Asamblea Legislativa
@@ -35,8 +44,6 @@ Son deberes y atribuciones de los diputados:
 2\. Desempeñar las comisiones que el Presidente de la Asamblea o ésta les encarguen.
 
 3\. Proveerse de una credencial de identificación, refrendada por el Presidente.
-
-Ficha Artículo 1
 
 Sección II.
 
@@ -84,8 +91,6 @@ ch) Cuando reciban a alguno de los funcionarios indicados en el artículo 45. Si
 
 (Así reformado el inciso anterior mediante sesión N° 31 del 4 de marzo del 2019 )
 
-Ficha Artículo 2
-
 Sección III
 
 En las Comisiones con Potestad Legislativa Plena
@@ -108,13 +113,9 @@ Son deberes y atribuciones de los diputados miembros de las Comisiones Legislati
 
 7\. Apelar ante la Comisión Legislativa Plena contra las resoluciones de su Presidente, cuando considere que en ellas hay ilegalidad o irregularidad.
 
-Ficha Artículo 3
-
 ARTICULO 4. Diputados no miembros
 
 Los diputados que no son miembros de una determinada Comisión Legislativa Plena, podrán asistir a ella con voz pero sin voto y además, podrán presentar mociones de forma y de fondo.
-
-Ficha Artículo 4
 
 Sección IV
 
@@ -138,13 +139,9 @@ Son deberes de los diputados miembros de la Comisión:
 
 7\. Presentar propuestas o peticiones para que se modifique el fondo de un proyecto de ley en conocimiento de la Asamblea Legislativa. Tales mociones reciben el nombre de mociones de fondo y deberán presentarse por escrito, en la forma y condiciones citadas en este Reglamento, para que sean objeto de discusión en la Comisión correspondiente.
 
-Ficha Artículo 5
-
 ARTICULO 6.- Diputados no miembros
 
 Asistir a las reuniones de otras comisiones de las cuales no formen parte y solicitarle al Presidente de esas comisiones la palabra, para defender las mociones que hayan presentado en la forma que indica este Reglamento. En esos casos, los diputados no tendrán voto.
-
-Ficha Artículo 6
 
 CAPITULO II
 
@@ -158,8 +155,6 @@ Se exceptúan de esa sanción, quienes tengan licencia, de conformidad con lo di
 
 Si el diputado se retira sin permiso del Presidente de la Asamblea o del de la Comisión, se le rebajará la dieta del día en que no estuvo en la votación.
 
-Ficha Artículo 7
-
 Artículo 7bis.- Fracciones Parlamentarias
 
 En la Asamblea Legislativa se conformarán tantas fracciones parlamentarias como partidos políticos estén representados en ella. Los diputados se considerarán integrados a la Fracción del partido por el cual resultaron electos y ninguno podrá pertenecer a más de una fracción.
@@ -167,8 +162,6 @@ En la Asamblea Legislativa se conformarán tantas fracciones parlamentarias como
 No obstante, para la administración de los recursos referidos en el inciso 3) del artículo 25, de este Reglamento, los diputados cuyas agrupaciones no alcancen al menos tres diputados, se tendrán reunidos en una fracción mixta.
 
 (Modificado mediante sesión 5020, del 8 de noviembre de 1999)
-
-Ficha Artículo 7 BIS
 
 TITULO II
 
@@ -182,19 +175,13 @@ Artículo 8.-Reuniones de fracción. Las fracciones parlamentarias sesionarán l
 
 (Así reformado mediante acuerdo N° 6128 de 18 de agosto de 2003, publicado en La Gaceta N° 167 de 01 de setiembre de 2003.)
 
-Ficha Artículo 8
-
 ARTICULO 9.- Reunión de Jefes de Fracción con el Directorio
 
 Las reuniones de los Jefes de Fracción con el Directorio, se celebrarán los días jueves de cada semana a partir de las once horas. En ellas regirán, en cuanto sean aplicables, las reglas relativas a las sesiones de las comisiones permanentes.
 
-Ficha Artículo 9
-
 ARTICULO 10.- Voceros de Fracción
 
 Los Jefes de Fracción acreditarán a un Vocero de Fracción y a su respectivo suplente, ante el Presidente de cada Comisión Legislativa Plena.
-
-Ficha Artículo 10
 
 SEGUNDA PARTE
 
@@ -218,27 +205,19 @@ A esta sesión se invitarán a los miembros de los Supremos Poderes, a los Magis
 
 (Así reformado mediante acuerdo N° 6609-15-16 tomado en sesión ordinaria N° 158 del 14 de marzo del 2016)
 
-Ficha Artículo 11
-
 ARTICULO 12.- Instalación
 
 La instalación de la Asamblea y la elección de su Directorio para cada legislatura, se realizarán bajo la presidencia y la dirección de un Directorio Provisional, compuesto por un Presidente y dos Secretarios, Primero y Segundo. Para reemplazar al personal del Directorio Provisional en sus ausencias, habrá también un Vicepresidente y dos Prosecretarios.
 
 En caso de que no asista ninguno de los miembros del Directorio, presidirá el diputado de mayor edad entre los presentes, quien designará, ad hoc, a los Secretarios, Primero y Segundo.
 
-Ficha Artículo 12
-
 ARTICULO 13. Directorio provisional
 
 El Directorio Provisional, integrado de conformidad con el artículo anterior, será nombrado por la Asamblea en la última semana de las sesiones ordinarias, en cada una de sus tres primeras legislaturas.
 
-Ficha Artículo 13
-
 ARTICULO 14.- Protocolo de instalación y apertura de sesiones
 
 De pie todos los diputados, el Presidente expresará: "La Asamblea Legislativa queda instalada y abre las sesiones del primer período de la presente legislatura".
-
-Ficha Artículo 14
 
 ARTICULO 15.- Directorio provisional de la primera legislatura
 
@@ -248,31 +227,21 @@ El Tribunal Supremo de Elecciones, al extender las credenciales respectivas, ind
 
 Al Directorio Provisional le corresponderá comprobar la primera asistencia de los diputados presentes, con base en la nómina que deberá remitir el Tribunal Supremo de Elecciones; seguidamente procederá a la juramentación constitucional de los legisladores. Los diputados prestarán juramento ante el Directorio Provisional, una vez que su Presidente se haya juramentado ante la Asamblea.
 
-Ficha Artículo 15
-
 ARTICULO 16.- Ubicación del Directorio
 
 Una vez nombrado el Directorio definitivo juramentado ante el Directorio Provisional, el Presidente ocupará el lugar que le corresponde y los Secretarios los suyos, el Primero a la derecha y el Segundo a la izquierda del Presidente.
-
-Ficha Artículo 16
 
 ARTICULO 17.- Firma del acta de instalación
 
 El acta de instalación de cada Asamblea Legislativa será firmada por todos los diputados concurrentes; las demás, únicamente las firmarán los miembros del Directorio.
 
-Ficha Artículo 17
-
 ARTICULO 18.- Comunicación a los Supremos Poderes
 
 La instalación y la apertura de sesiones, lo mismo que la elección del Directorio, serán comunicadas a los Poderes Ejecutivo y Judicial y al Tribunal Supremo de Elecciones.
 
-Ficha Artículo 18
-
 ARTICULO 19.- Aprobación de las actas del primero de mayo
 
 Las actas de las dos sesiones que la Asamblea celebre el día 1º de mayo de cada año, se discutirán y se aprobarán en la sesión del día inmediato siguiente.
-
-Ficha Artículo 19
 
 CAPITULO II
 
@@ -286,31 +255,21 @@ ARTICULO 20.- Composición
 
 El Directorio de la Asamblea Legislativa estará integrado por un Presidente y dos Secretarios, éstos con la denominación de Primero y Segundo.
 
-Ficha Artículo 20
-
 ARTICULO 21.- Plazo de nombramiento del Directorio
 
 Los miembros del Directorio durarán un año en funciones, pero los diputados que lo integraron en el período anterior podrán ser reelegidos.
-
-Ficha Artículo 21
 
 ARTICULO 22.- Vicepresidente y Prosecretario
 
 El Directorio también tendrá un Vicepresidente y dos Prosecretarios que reemplazarán, en sus faltas temporales, al Presidente y a los Secretarios, respectivamente; en ausencia del Vicepresidente presidirá el Primer Secretario y en ese mismo orden serán suplidos, en sus faltas temporales, todos los miembros del Directorio.
 
-Ficha Artículo 22
-
 ARTICULO 23.- Falta definitiva o renuncia
 
 En caso de falta definitiva o renuncia de alguno o algunos de los miembros del Directorio, se deberá proceder a su reposición.
 
-Ficha Artículo 23
-
 ARTICULO 24.- Ausencia de los miembros del Directorio
 
 En caso de que no asista ninguno de los miembros del Directorio, presidirá el diputado de mayor edad entre los presentes, quien designará, ad hoc, a los Secretarios, Primero y Segundo.
-
-Ficha Artículo 24
 
 Sección II
 
@@ -328,13 +287,9 @@ Son atribuciones del Directorio:
 
 (Modificado mediante sesión 5020, del 8 de noviembre de 1999)
 
-Ficha Artículo 25
-
 ARTICULO 26.-Reglamento de Protocolo
 
 El Directorio emitirá un reglamento de protocolo para la segunda sesión del 1º de mayo y para las restantes actividades protocolarias de la Asamblea Legislativa.
-
-Ficha Artículo 26
 
 Sección III
 
@@ -374,21 +329,15 @@ Son atribuciones y deberes del Presidente de la Asamblea o de quien lo sustituya
 
 (Modificado mediante sesión 5020, del 8 de noviembre de 1999)
 
-Ficha Artículo 27
-
 ARTICULO 28.- Permisos para no asistir a sesiones
 
 Corresponde al Presidente de la Asamblea la facultad de conceder a los diputados permisos para no asistir a las sesiones, sin perjuicio de la atribución establecida en el inciso e) del artículo 71 de este Reglamento.
 
 Si la solicitud de permiso fuere denegada, el diputado interesado podrá apelar ante el Plenario de la Asamblea Legislativa, el cual resolverá en definitiva, según el procedimiento establecido en el artículo 156 de este Reglamento.
 
-Ficha Artículo 28
-
 ARTICULO 29.- Uso de la palabra del Presidente
 
 Cuando el Presidente de la Asamblea tuviere que hacer una proposición y sostenerla, o alguna moción que no sea de mero orden interior, dejará su asiento al diputado llamado a sustituirlo y tomará el de éste, hasta que haya sido votada su proposición o moción.
-
-Ficha Artículo 29
 
 Sección IV
 
@@ -416,13 +365,9 @@ ARTICULO 30.- Deberes y atribuciones, Son deberes y atribuciones de los Secretar
 
 9\. Revisar, junto con el Presidente, los decretos, acuerdos y resoluciones que emita la Asamblea, una vez entregados por la Comisión de Redacción.
 
-Ficha Artículo 30
-
 ARTICULO 31.- Deberes y atribuciones de los Prosecretarios
 
 Cuando los Prosecretarios sustituyan a los Secretarios, tendrán las mismas atribuciones y los mismos deberes que éstos. Igualmente los tendrán los secretarios ad hoc, en las oportunidades en que ocupen esos puestos.
-
-Ficha Artículo 31
 
 CAPITULO III
 
@@ -435,8 +380,6 @@ Las sesiones de los lunes, martes y jueves no podrán levantarse antes de las di
 Las sesiones de los miércoles se levantarán a las diecisiete horas. En ellas, de las catorce horas con cuarenta y cinco minutos a las dieciséis horas, se conocerán los asuntos referidos en los incisos 1, 2, 3 y 4, del artículo 35 de este Reglamento, el informe de correspondencia, los recursos de insistencia, las proposiciones de los diputados y demás asuntos de contenido político. De las dieciséis a las diecisiete exclusivamente se conocerán los asuntos comprendidos en el artículo 195 de la Constitución Política. La Asamblea recesará en los días feriados.
 
 (Así reformado mediante acuerdo N° 6128 de 18 de agosto de 2003, publicado en La Gaceta N° 167 de 01 de setiembre de 2003.)
-
-Ficha Artículo 32
 
 Artículo 32 bis- Habilitación de sesiones virtuales del Plenario. Cuando concurran circunstancias de conmoción interna, calamidad pública o estado de emergencia nacional declarada por autoridad competente conforme a la ley y que esta impidan o pongan en riesgo la participación presencial de los diputados y diputadas, la Asamblea Legislativa podrá habilitar de forma excepcional el desarrollo de sesiones virtuales del Plenario, las Comisiones Legislativas Plenas, Comisiones Permanentes y Especiales, así como las reuniones del Directorio Legislativo, de los Jefes y Jefas de Fracción y de las diferentes Fracciones Legislativas.
 
@@ -460,13 +403,9 @@ Todos los proyectos de ley y documentos que se conozcan durante una sesión virt
 
 (Así adicionado en sesión N° 25 del 13 de julio del 2020)
 
-Ficha Artículo 32 BIS
-
 Artículo 32 ter- Suspensión temporal de sesiones por problemas técnicos. Cuando por motivos técnicos la Administración no pueda poner a disposición de los diputados y diputadas de los dispositivos y del medio tecnológico necesarios para el correcto desarrollo de la sesión virtual o cuando concurran problemas técnicos no atribuibles al diputado o la diputada y, a causa de eso se pierda la interacción en tiempo real entre los participantes, ésta se suspenderá hasta por veinte minutos para que puedan reintegrarse plenamente los miembros. Si el problema técnico se prolonga por un lapso mayor, la sesión se tendrá por finalizada y se consignará dicha circunstancia en el acta. Lo anterior, no afectará el reconocimiento de la dieta correspondiente.
 
 (Así adicionado en sesión N° 25 del 13 de julio del 2020)
-
-Ficha Artículo 32 TER
 
 CAPITULO IV
 
@@ -476,13 +415,9 @@ ARTICULO 33.- Falta de quórum para iniciar la sesión
 
 Si quince minutos después de la hora fijada para iniciar una sesión no hubiere quórum, ésta se pospondrá para la siguiente fecha. La Secretaría tomará la nómina de los diputados presentes, a fin de que les sea acreditada la asistencia, para el pago de las dietas.
 
-Ficha Artículo 33
-
 ARTICULO 34.- Requerimiento para integrar el quórum
 
 El Presidente de la Asamblea o el de la Comisión requerirá a los diputados que hayan roto el quórum, a fin de reintegrarlo y, si cinco minutos después del requerimiento, el quórum no se ha restablecido, aplicará la disposición anterior.
-
-Ficha Artículo 34
 
 CAPITULO V
 
@@ -544,8 +479,6 @@ d. Los proyectos dispensados de todos los trámites se tramitarán en la forma p
 
 (Así reformado mediante Acuerdo N° 6040 de 10 de diciembre del 2001)
 
-Ficha Artículo 35
-
 Artículo 36.- Orden del día del capítulo de primeros debates.
 
 Corresponde a los Jefes de Fracción elaborar el orden del día del capítulo de primeros debates, el cual estará constituido por un mínimo de quince proyectos para debate. Las fracciones tendrán derecho de incluir, en el orden del día, los proyectos de su interés, en proporción al número de diputados que representan en la integración total de la Asamblea. Para estos efectos, se utilizará el sistema de redondeo a la unidad entera más próxima. En todo caso, toda fracción tendrá el derecho de que se le incluya, al menos, un proyecto de su interés.
@@ -556,8 +489,6 @@ Cuando no hubiere acuerdo de los Jefes de Fracción para elaborar el orden del d
 
 (Modificado mediante sesión Nº 5020, del 8 de noviembre de 1999)
 
-Ficha Artículo 36
-
 ARTICULO 37.- Alteración del Orden del Día. Admisibilidad
 
 El orden del día podrá ser alterado, pero las mociones que tengan ese propósito sólo serán de recibo en los siguientes casos:
@@ -567,8 +498,6 @@ a) Cuando lo soliciten dos o más Jefes de Fracción que juntos representen por 
 b) Cuando así lo demande no menos de la mitad de los Jefes de Fracción, debidamente acreditados.
 
 c) Cuando así lo soliciten diez diputados de dos o más fracciones.
-
-Ficha Artículo 37
 
 ARTICULO 38.- Trámite de la moción de alteración
 
@@ -584,13 +513,9 @@ El orden del día no se podrá alterar, en más de dos ocasiones, en perjuicio d
 
 La Sala Constitucional en resolución 990-92 del 14 de abril de 1992, señaló que 'para alterar el orden del día se requería las dos terceras partes de los miembros de la Asamblea y no de los presentes)
 
-Ficha Artículo 38
-
 ARTICULO 39.- Efecto de la alteración
 
 La alteración del orden del día surtirá efecto en la sesión siguiente a su aprobación y los asuntos correspondientes se tramitarán, de conformidad con el orden modificado hasta su resolución final, pero, en todo caso, después del capítulo correspondiente a la suspensión de derechos y garantías.
-
-Ficha Artículo 39
 
 Artículo 39 bis.- Moción de posposición
 
@@ -600,23 +525,15 @@ Estas mociones surtirán efecto solo en la sesión en que se presenten y voten.
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo el 2019)
 
-Ficha Artículo 39 BIS
-
 ARTICULO 40.- Agotamiento de los asuntos
 
 La votación de los asuntos sometidos al Plenario será un acto ininterrumpido; por tanto, el siguiente capítulo del orden del día no se conocerá hasta tanto no se haya terminado la votación que se esté recibiendo.
-
-Ficha Artículo 40
 
 ARTICULO 41.- Orden del día para sesiones extraordinarias
 
 Si, de acuerdo con lo establecido en el artículo 32 de este Reglamento, la Asamblea Legislativa determina sesionar en horas o días distintos, para tales sesiones, podrá establecer, mediante votación no menor de los dos tercios del total de los diputados, un orden del día diferente del estipulado en los incisos 1) y 2) del artículo 35.
 
-Ficha Artículo 41
-
 Artículo 41 bis.- Moción para fijar plazos de votación. (Derogado mediante sesión N° 31 del 4 de marzo del 2019)
-
-Ficha Artículo 41 BIS
 
 CAPITULO VI
 
@@ -626,13 +543,9 @@ ARTICULO 42.- Apertura y cierre de sesiones
 
 Las sesiones se abrirán y cerrarán, respectivamente, con esta fórmula: "Se abre la sesión", "Se levanta la sesión".
 
-Ficha Artículo 42
-
 ARTICULO 43.- Fórmula para la apertura de sesiones ordinarias y extraordinarias
 
 Según el período correspondiente, el Presidente expresará: "La Asamblea Legislativa abre las sesiones ordinarias del (segundo, tercer o cuarto) período de la presente legislatura". Cuando se inicien las sesiones extraordinarias, la fórmula para la apertura será la siguiente: "La Asamblea Legislativa abre las sesiones extraordinarias para las que ha sido convocada".
-
-Ficha Artículo 43
 
 ARTICULO 44.- Fórmula para el cierre de sesiones
 
@@ -640,37 +553,25 @@ Al cerrar los períodos de sesiones ordinarias, se expresará: "La Asamblea Legi
 
 Para el cierre de las sesiones extraordinarias, la expresión será: "La Asamblea Legislativa declara cerrado el período de sesiones extraordinarias para el que fue convocada".
 
-Ficha Artículo 44
-
 ARTICULO 45.- Derecho a tomar asiento en el Plenario
 
 Sólo tienen derecho a tomar ocasionalmente asiento en el recinto de la Asamblea, el Presidente y los Vicepresidentes de la República, los ministros de Gobierno, los magistrados de la Corte Suprema de Justicia y los representantes diplomáticos y de la Iglesia. También tendrán el mismo derecho los Viceministros cuando representen a los ministros de Gobierno.
-
-Ficha Artículo 45
 
 ARTICULO 46.- Ingreso de invitados al Plenario
 
 Cuando la Asamblea Legislativa reciba a un invitado de honor, éste ingresará en el Plenario a la hora que haya convenido con el Presidente.
 
-Ficha Artículo 46
-
 Artículo 47.—Traslado de la sede del Plenario. El Plenario podrá trasladar su sede a otro lugar de la República, mediante votación no menor de dos terceras partes del total de sus miembros. No obstante, en las sesiones que celebre fuera de su sede oficial, no podrá conocer asuntos ajenos a los estrictamente protocolarios que hayan motivado su traslado, salvo que dicho traslado obedezca a motivos fundados en casos de conmoción interna, calamidad pública o emergencia nacional. En esos casos, la Asamblea puede actuar en el pleno uso de todas sus facultades constitucionales, legales y reglamentarias.
 
 (Así reformado en sesión N° 152 del 16 de marzo del 2020)
-
-Ficha Artículo 47
 
 ARTICULO 48.- Recibo de documentos sujetos a término fijo
 
 Los documentos o comunicaciones que deban ser conocidos por la Asamblea Legislativa, y cuya presentación está sujeta a término fijo se entregarán, directamente, a uno de los Secretarios del Directorio o en la Dirección Ejecutiva, mediante razón de recibo en la que se indiquen la hora y la fecha.
 
-Ficha Artículo 48
-
 ARTICULO 49.- Correspondencia y lectura de documentos
 
 La Secretaría dará cuenta de la correspondencia recibida, incluyendo en su relación los informes de comisión recibidos. A solicitud de un diputado, el Presidente podrá acceder a que se lea un documento recibido por la Secretaría, en cuyo caso será leído por uno de los Secretarios.
-
-Ficha Artículo 49
 
 ARTICULO 50.- Actas
 
@@ -680,13 +581,9 @@ En el caso de que por cualquier razón, las copias del acta no estuvieren listas
 
 La discusión del acta debe contraerse a su forma o redacción; a examinar si contiene todo y sólo aquello en que se ocupó la Asamblea en la sesión a que se refiere.
 
-Ficha Artículo 50
-
 Artículo 50 bis.—Legalización de actas. El requisito legalmente establecido de autorización mediante razón de apertura por parte de la Auditoría Interna, para los libros de contabilidad, los libros de actas y otros, no será de aplicación para las actas del Plenario Legislativo; tampoco para las de todas las Comisiones Legislativas.
 
 (Así adicionado por acuerdo N° 6088 publicado en La Gaceta N° 233 del 3 de diciembre del 2002)
-
-Ficha Artículo 50 BIS
 
 TITULO II
 
@@ -700,15 +597,11 @@ ARTICULO 51.- Marco jurídico
 
 Las Comisiones Permanentes con Potestad Legislativa Plena, previstas en el artículo 124 de la Constitución Política, se regirán por las disposiciones de este capítulo y, supletoriamente, por las normas de este Reglamento.
 
-Ficha Artículo 51
-
 ARTICULO 52.- Composición
 
 1\. La Asamblea tendrá tres Comisiones Permanentes con Potestad Legislativa Plena, de diecinueve diputados cada una, integradas de tal manera que su composición refleje, proporcionalmente, el número de diputados que conforman las fracciones parlamentarias. Ningún diputado podrá ser miembro de más de una de estas Comisiones.
 
 2\. Para los efectos de este Capítulo, estas Comisiones se denominarán "Comisiones Legislativas Plenas" y serán identificadas como: Comisión Legislativa Plena Primera, Comisión Legislativa Plena Segunda y Comisión Legislativa Plena Tercera.
-
-Ficha Artículo 52
 
 ARTICULO 53.- Nombramiento
 
@@ -720,15 +613,11 @@ ARTICULO 53.- Nombramiento
 
 3\. El nombramiento se efectuará a más tardar en la séptima sesión de la legislatura correspondiente.
 
-Ficha Artículo 53
-
 Artículo 54-Instalación
 
 Las Comisiones Legislativas Plenas deberán instalarse ante la Presidencia de la Asamblea, a más tardar tres días hábiles después de su nombramiento. En esa oportunidad, cada una designará de su seno una Presidencia, una Vicepresidencia, una Secretaría y una Prosecretaría.
 
 (Así reformado mediante sesión ordinaria N.° 55 del 18 de agosto de 2022)
-
-Ficha Artículo 54
 
 ARTICULO 55.- Permuta
 
@@ -737,8 +626,6 @@ ARTICULO 55.- Permuta
 2\. Para que sea eficaz la permuta, el Jefe de Fracción respectivo dará aviso al Presidente de la Asamblea para que lo informe al Plenario. Si no hubiere objeción en el Plenario, se tendrá por autorizada la permuta. Si existiese objeción, la permuta se pondrá a votación sin más trámite. Para referirse a ésta, el o los diputados que la apoyen podrán hacer uso de la palabra, individual o colectivamente, por un plazo que no exceda de los cinco minutos. Se conferirá igual plazo a quienes la objeten.
 
 3\. El informe del Presidente al Plenario y la votación se conocerán en el Capítulo de Régimen Interno.
-
-Ficha Artículo 55
 
 CAPITULO II
 
@@ -772,15 +659,11 @@ j) Ordenar el retiro del público de la barra, en casos de irrespeto o desorden.
 
 Solamente el Presidente de la Asamblea está exento de la obligación de formar parte de cualquier comisión.
 
-Ficha Artículo 56
-
 ARTICULO 57.- Vicepresidente
 
 1\. El Vicepresidente de la Comisión Legislativa sustituirá al Presidente durante sus ausencias.
 
 2\. En el caso de ausencia del Presidente y del Vicepresidente, residirá el Secretario. En ausencia de éste y del Prosecretario, presidirá el diputado de mayor edad.
-
-Ficha Artículo 57
 
 ARTICULO 58.- Secretario
 
@@ -794,15 +677,11 @@ c) Reportar la asistencia de los diputados a sesiones.
 
 ch) Informar a los diputados miembros de la Comisión sobre la correspondencia recibida.
 
-Ficha Artículo 58
-
 ARTICULO 59.- Prosecretario
 
 1\. El Prosecretario de la Comisión Legislativa Plena sustituirá al Secretario en caso de ausencia.
 
 2\. En caso de ausencia del Prosecretario, el Presidente nombrará un Secretario Ad Hoc.
-
-Ficha Artículo 59
 
 CAPITULO III
 
@@ -816,15 +695,11 @@ Artículo 60.-Hora y día
 
 2\. Los recesos acordados por el Plenario se aplicarán a estas Comisiones, las cuales están autorizadas para sesionar en días no hábiles.(Acuerdo Legislativo Nº2972, Alcance 27, Gaceta 133 del 13 de julio de 1995).
 
-Ficha Artículo 60
-
 ARTICULO 61.- Publicidad de sesiones y acceso a documentos
 
 Las sesiones de las Comisiones Legislativas Plenas serán públicas, salvo lo establecido en el inciso j) del artículo 56 de este Reglamento.
 
 Habrá libre acceso a cualquier documento de los expedientes en poder de estas Comisiones y de los documentos relacionados con ellos.
-
-Ficha Artículo 61
 
 CAPITULO IV
 
@@ -833,8 +708,6 @@ QUÓRUM
 ARTICULO 62.- Quórum y votaciones
 
 El quórum requerido para que las Comisiones Legislativas Plenas puedan sesionar, será de trece diputados. Sus decisiones se adoptarán por la mayoría absoluta de los votos de los presentes, excepto en los casos en que este Reglamento exija una votación mayor.
-
-Ficha Artículo 62
 
 CAPITULO V
 
@@ -870,8 +743,6 @@ c) Al menos cinco diputados de dos o más fracciones.
 
 6\. La alteración del orden de los proyectos surtirá efecto en la sesión siguiente a su aprobación.
 
-Ficha Artículo 63
-
 CAPITULO VI
 
 DISPOSICIONES ADICIONALES
@@ -879,8 +750,6 @@ DISPOSICIONES ADICIONALES
 ARTICULO 64.- Firmas de los decretos legislativos
 
 Los decretos legislativos de los proyectos aprobados en las Comisiones con Potestad Legislativa Plena llevarán las firmas del Presidente y del Secretario de la respectiva Comisión, así como las del Presidente y los Secretarios de la Asamblea Legislativa.
-
-Ficha Artículo 64
 
 TITULO III
 
@@ -893,8 +762,6 @@ INTEGRACIÓN
 ARTICULO 65.- Comisiones Permanentes Ordinarias
 
 Las Comisiones Permanentes Ordinarias son las siguientes: Gobierno y Administración, Asuntos Económicos, Asuntos Hacendarios, Asuntos Sociales, Asuntos Jurídicos y Asuntos Agropecuarios y Recursos Naturales.
-
-Ficha Artículo 65
 
 ARTICULO 66.- Atribuciones de las Comisiones
 
@@ -918,8 +785,6 @@ e) Comisión de Asuntos Agropecuarios y Recursos Naturales: conocerá los asunto
 
 (Modificado mediante sesión N° 5020, del 8 de noviembre de 1999)
 
-Ficha Artículo 66
-
 Artículo 67.—Composición e integración
 
 Todas las comisiones estarán compuestas por nueve diputados, salvo la de Asuntos Hacendarios, que estará conformada por once miembros, quienes durarán en su cargo un año.
@@ -928,15 +793,11 @@ El Presidente de la Asamblea deberá integrar a propuesta de los Jefes de Fracci
 
 (Así reformado por el Acuerdo No. 6115 de 23 de junio de 2003, publicado en La Gaceta No. 130 de 08 de julio de 2003.)
 
-Ficha Artículo 67
-
 Artículo 68.-Instalación
 
 Las comisiones deberán instalarse ante la Presidencia de la Asamblea, a más tardar tres días después de su designación. En esa oportunidad nombrarán de su seno una Presidencia y una Secretaría. Si ocurriera una vacante en la Presidencia o la Secretaría de una Comisión, en virtud de causa permanente o de permuta, se nombrará a un nuevo diputado o diputada. Deberá levantarse un acta especial de la respectiva instalación.
 
 (Así reformado mediante sesión ordinaria N.° 55 del 18 de agosto de 2022)
-
-Ficha Artículo 68
 
 Artículo 69.- Sustitución de los diputados miembros
 
@@ -948,13 +809,9 @@ El diputado sustituto ejerce los derechos y obligaciones del diputado miembro al
 
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019 )
 
-Ficha Artículo 69
-
 ARTICULO 70.- Permuta de los miembros de las Comisiones
 
 Los miembros de las Comisiones Permanentes durarán en sus funciones un año, pero tendrán el derecho de permuta durante el mes de mayo con diputados de otras comisiones de las señaladas en el artículo 65, previo aviso a la Presidencia de la Asamblea, para que dicte el acuerdo correspondiente. Se exceptúan de este derecho de permuta, los Presidentes de las Comisiones.
-
-Ficha Artículo 70
 
 CAPITULO II
 
@@ -975,8 +832,6 @@ ch) Firmar, junto con el Secretario, las actas y las demás disposiciones de la 
 d) Someter a la aprobación del Directorio los gastos en que pueda incurrir la Comisión, en el desempeño de sus funciones.
 
 e) Conceder a los diputados permiso, por causa justa, para retirarse de la sesión en que participan.
-
-Ficha Artículo 71
 
 ARTICULO 72.- Secretaría de la Comisión
 
@@ -1006,8 +861,6 @@ i) Expedir, de acuerdo con el Director Ejecutivo de la Asamblea, las listas de s
 
 j) En ausencia del Presidente, abrir y cerrar las sesiones y dirigir los debates. En este caso, la Comisión nombrará a un Secretario ad hoc.
 
-Ficha Artículo 72
-
 CAPITULO III
 
 HORARIO Y SESIONES
@@ -1018,15 +871,11 @@ Las comisiones permanentes celebrarán dos sesiones, los días martes y miércol
 
 El horario previsto puede variarse si las tres cuartas partes de los diputados de la Comisión así lo acuerdan, por todo el tiempo que se impongan en el respectivo acuerdo.
 
-Ficha Artículo 73
-
 ARTICULO 74.- Sesiones extraordinarias
 
 El Presidente de la Comisión o, en su ausencia, el Secretario podrá convocar a sesiones extraordinarias siempre que éstas sean en días hábiles, al menos con veinticuatro horas de anticipación y no más dos sesiones por semana.
 
 La Comisión, por acuerdo de mayoría, puede sesionar un mayor número de veces. Para habilitar días no hábiles se requerirá el acuerdo de dos tercios de los miembros.
-
-Ficha Artículo 74
 
 Artículo 75.-Publicidad de las sesiones de las comisiones
 
@@ -1038,8 +887,6 @@ De la sesión privada se levantará un acta de conocimiento público, de la cual
 
 (Así reformado mediante sesión ordinaria N.° 55 del 18 de agosto de 2022)
 
-Ficha Artículo 75
-
 CAPITULO IV
 
 QUÓRUM
@@ -1047,8 +894,6 @@ QUÓRUM
 ARTICULO 76. Quórum de comisiones permanentes
 
 El quórum requerido para que las comisiones permanentes sesionen será: de seis miembros, en el caso de la Comisión de Hacendarios; de cinco, cuando las comisiones estén compuestas por nueve y de dos miembros, cuando estén integradas por tres diputados.
-
-Ficha Artículo 76
 
 CAPITULO V
 
@@ -1058,13 +903,9 @@ ARTICULO 77.- Orden del Día de las comisiones
 
 Recibido un expediente en la Comisión respectiva, su Presidente lo hará incluir como último asunto en el Orden del Día de la Comisión, de acuerdo con lo que dispuesto en el artículo 121.
 
-Ficha Artículo 77
-
 ARTICULO 78.- Alteración del Orden del Día en Comisión
 
 El Orden del Día podrá ser alterado por votación de dos tercios de los diputados presentes de la Comisión respectiva, pero esa alteración surtirá efectos en la sesión siguiente.
-
-Ficha Artículo 78
 
 CAPITULO VI
 
@@ -1075,8 +916,6 @@ ARTICULO 79.- Trámite administrativo de los expedientes
 El presidente de cada comisión recibirá del jefe del Departamento de Archivo mediante conocimiento, los expedientes que a ella se le encomienden para su estudio, así como todos los documentos relacionados con esos expedientes y, los devolverá al Departamento de la Secretaría del Directorio cuando se haya terminado su tramitación en la comisión respectiva, si por unanimidad de criterio sobre los asuntos estudiados, los respectivos informes son firmados por todas y todos los diputados miembros de la comisión.
 
 (Así reformado mediante sesión N° 145 del 21 de febrero del 2012)
-
-Ficha Artículo 79
 
 Artículo 80.- Plazo para la presentación de informes.
 
@@ -1100,23 +939,17 @@ Los proyectos de ley de iniciativa popular se regirán por sus propias normas co
 
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 80
-
 ARTICULO 81.- Trámite del Informe de las Comisiones
 
 El presidente de la comisión entregará al Departamento de la Secretaría del Directorio un dictamen con un solo proyecto de ley para debatir, cuando la opinión de todos sus miembros fuere uniforme. Si un grupo de diputadas y diputados o alguno de ellos disintiere, dará por separado un dictamen, con su proyecto. En este caso, la Asamblea discutirá primero el proyecto de ley sometido por la mayoría y únicamente si este fuere rechazado, se someterán a discusión los de minoría, en orden decreciente, según el número de diputadas y diputados que los suscriban.
 
 (Así reformado mediante sesión N° 145 del 21 de febrero del 2012).
 
-Ficha Artículo 81
-
 Artículo 81 bis.- Archivo de proyectos con dictamen negativo
 
 Procederá el archivo del proyecto sin más trámite, cuando la comisión produzca un dictamen negativo, ya sea unánime o de mayoría, siempre y cuando no se haya presentado dictamen afirmativo de minoría.
 
 (Modificado mediante sesión N° 5020, del 8 de noviembre de 1999)
-
-Ficha Artículo 81 BIS
 
 ARTICULO 82.- Entrega de dictámenes
 
@@ -1126,13 +959,9 @@ Lo indicado en el párrafo anterior, se aplicará a la entrega de informes de la
 
 (Así reformado mediante en sesión N° 145 del 21 de febrero del 2012)
 
-Ficha Artículo 82
-
 ARTICULO 83.- Publicación de dictámenes en el Diario Oficial
 
 Los dictámenes no se publicarán en el Diario Oficial La Gaceta, salvo si la Comisión lo acuerda así expresamente. En este último caso, la publicación incluirá, necesariamente, todos los dictámenes, si fueren varios, excepto que, por un acuerdo unánime, se excluyan algunos de ellos.
-
-Ficha Artículo 83
 
 TITULO IV
 
@@ -1145,8 +974,6 @@ INTEGRACIÓN Y ATRIBUCIONES
 Artículo 84.—Comisiones permanentes especiales. Son comisiones permanentes especiales las siguientes: Comisión de Honores, Comisión de Asuntos Municipales y Desarrollo Local Participativo, Comisión de Redacción, Comisión de Relaciones Internacionales y Comercio Exterior, Comisión de Consultas de Constitucionalidad, Comisión para el Control del Ingreso y del Gasto Públicos, Comisión de Seguridad y Narcotráfico, Comisión de la Mujer, Comisión de la Juventud, Niñez y Adolescencia, Comisión de Nombramientos, Comisión del Ambiente, Comisión de Turismo, Comisión de Derechos Humanos, Comisión de Ciencia, Tecnología y Educación y Comisión de Asuntos de Discapacidad y Adulto Mayor.
 
 (Así reformado en sesión N° 099 del 21 de noviembre de 2017)
-
-Ficha Artículo 84
 
 Artículo 85.—Atribuciones. Las comisiones de Honores, Municipalidades y Desarrollo Local Participativo, Redacción, Relaciones Internacionales y Comercio Exterior, de la Mujer, de la Juventud, Niñez y Adolescencia, de Nombramientos de Ambiente, de Turismo y Comisión de Derechos Humanos, Comisión de Ciencia, Tecnología y Educación y Comisión de Asuntos de Discapacidad y Adulto Mayor tendrán a su cargo:
 
@@ -1226,8 +1053,6 @@ l) Comisión de Asuntos de Discapacidad y Adulto Mayor:
 
 (Así reformado en sesión N° 099 del 21 de noviembre de 2017)
 
-Ficha Artículo 85
-
 Artículo 86.—Integración. La Comisión de Honores, la de Redacción y la de Discapacidad y Adulto Mayor estarán integradas por cinco diputados. La Comisión de la de la Mujer, la de Asuntos Municipales, la de Nombramientos, la de Juventud, Niñez y Adolescencia y la de Turismo, la de Derechos Humanos y de Ciencia, Tecnología y Educación, estarán integradas por siete diputados. La Comisión de Ambiente y la de Relaciones Internacionales y Comercio Exterior por nueve diputados.
 
 Estas comisiones serán nombradas cada año por el Presidente de la Asamblea, en el curso del mes en que se inicie una legislatura.
@@ -1236,15 +1061,11 @@ Los diputados que las integren deberán formar parte de las comisiones permanent
 
 (Así reformado en sesión N° 099 del 21 de noviembre de 2017)
 
-Ficha Artículo 86
-
 ARTICULO 87.- Comisión de Honores
 
 En el curso del mes en que se inicie una legislatura, el Presidente designará una Comisión de Honores, integrada por tres diputados; se procurará que sus integrantes pertenezcan a diferentes partidos políticos. Esta Comisión se encargará de estudiar los proyectos que, sobre la materia, se propongan a la Asamblea.
 
 (Mediante resolución de la Sala Constitucional N° 018932 del 2 de octubre de 2019, se eliminó de este artículo la frase que indicaba: "cuyos nombres no se revelarán".)
-
-Ficha Artículo 87
 
 ARTICULO 88.- Comisión Permanente Especial sobre Consultas de Constitucionalidad
 
@@ -1264,15 +1085,11 @@ b)\* "Las Fracciones con menos de 15 diputados, nombrarán un miembro que las re
 
 \* (Por resolución de la Sala Constitucional N° 14253-2004 de las 14:16 hrs. del 15/12/2004 se anulan las frases resaltadas en cursiva contenidas en los apartes a) y b) de éste inciso. Se dimensionaron los efectos de la sentencia para que comenzaran a regir a partir de la legislatura que inició el primero de mayo de dos mil cinco).
 
-Ficha Artículo 88
-
 Artículo 89.- Comisión Permanente Especial para el Control del Ingreso y el Gasto Públicos
 
 La Comisión Permanente Especial para el Control del Ingreso y el Gasto Públicos, estará compuesta por nueve diputados, cuyo nombramiento se hará simultáneamente con el de las comisiones permanentes ordinarias. La conformación estará a cargo del Presidente de la Asamblea, de los nombres propuestos por los respectivos jefes de fracción, procurando la participación del mayor número de fracciones interesadas. Esta Comisión tendrá la función de vigilar y fiscalizar de manera permanente la Hacienda Pública, así como la de realizar investigaciones de control político para el óptimo manejo de los recursos de todo el Sector Público. En el cumplimiento de sus labores, esta comisión se hará acompañar de la Contraloría General de la República.
 
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019)
-
-Ficha Artículo 89
 
 Artículo 89 bis.—Comisión Permanente Especial de Seguridad y Narcotráfico:
 
@@ -1296,8 +1113,6 @@ Si en el desarrollo de sus funciones, o por el ejercicio del control político p
 
 (Así reformado mediante sesión N°17 del 25 de mayo del 2010).
 
-Ficha Artículo 89 BIS
-
 TITULO V
 
 COMISIONES ESPECIALES
@@ -1310,8 +1125,6 @@ ARTICULO 90.- Comisiones Especiales
 
 Son Comisiones Especiales: Las referidas en el inciso 23) del artículo 121 de la Constitución Política, las que actuarán conforme a las disposiciones de la Carta Magna, así como aquéllas que nombre la Asamblea para el estudio de un asunto determinado o el cumplimiento de una misión.
 
-Ficha Artículo 90
-
 ARTICULO 91.- Integración de las comisiones especiales y especiales mixtas
 
 La moción que solicite crear una comisión, de conformidad con el inciso 23) del artículo 121 de la Constitución Política, deberá indicar el número de diputados que la integran.
@@ -1322,8 +1135,6 @@ Además de los diputados, otras personas que no sean legisladores podrán formar
 
 (Modificado mediante acuerdo Nº. 3047 del 9 de setiembre de 1996, expediente Nº. 12.726).
 
-Ficha Artículo 91
-
 CAPITULO II
 
 QUÓRUM
@@ -1331,8 +1142,6 @@ QUÓRUM
 ARTICULO 92.- Quórum
 
 En las sesiones de las comisiones especiales, el quórum se formará con el número que exceda de la mitad de sus componentes.
-
-Ficha Artículo 92
 
 CAPITULO III
 
@@ -1346,13 +1155,9 @@ Las sesiones deberán prolongarse por no menos de dos horas, excepto, en menos t
 
 Sin embargo, las comisiones especiales mixtas creadas por ley específica no estarán sujetas al término de dos horas antes indicado.
 
-Ficha Artículo 93
-
 ARTICULO 94.- Horario
 
 Las Comisiones Especiales se reunirán, ordinariamente, los días jueves a partir de las trece horas, o el día hábil que sus miembros decidan, siempre que sus reuniones no interfieran con las sesiones del Plenario, de las Comisiones Permanentes ni de las reuniones de las fracciones.
-
-Ficha Artículo 94
 
 CAPITULO IV
 
@@ -1362,13 +1167,9 @@ ARTICULO 95.- Término para dictaminar
 
 Al nombrar la Comisión se le fijará el término para rendir el dictamen; pero dicho término podrá ser prorrogado a solicitud de la Comisión. Cuando se designe una Comisión Especial, la Asamblea podrá encargar al Presidente el nombramiento de los diputados que la integren.
 
-Ficha Artículo 95
-
 ARTICULO 96.- Trámite de los informes de las Comisiones Especiales
 
 Los informes de las comisiones especiales se pondrán en conocimiento de los diputados, en forma impresa o por cualquier otro medio idóneo. Se elevarán a conocimiento del Plenario para el trámite correspondiente, pero no podrán ser conocidos antes de que trancurrran, al menos dos días después de que fueron puestos a disposición de los diputados. Cuando su gestión se refiera a proyectos de ley, los respectivos dictámenes sufrirán el trámite que para ellos señala el Reglamento, sin que el asunto deba ser conocidos por ninguna de las comisiones permanentes.
-
-Ficha Artículo 96
 
 Artículo 96.bis.- Informes de las Comisiones Especiales de Investigación.
 
@@ -1386,15 +1187,11 @@ La Presidencia deberá garantizar la más amplia divulgación de estos informes 
 
 (Así reformado el inciso c) anterior mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 96 BIS
-
 ARTICULO 97.- Normas que rigen a las Comisiones Especiales
 
 Todas las comisiones especiales se regirán, en lo que les sea aplicable, por las disposiciones que se señalan en este Reglamento para las comisiones permanentes ordinarias.
 
 Los diputados que las integren devengarán como remuneración la señalada en la Ley No. 7352 del 21 de julio de 1993 y tales dietas serán cubiertas de la partida general de dietas del presupuesto de la Asamblea; de la misma partida se pagarán las dietas de los asesores.
-
-Ficha Artículo 97
 
 TITULO VI
 
@@ -1410,13 +1207,9 @@ Las resoluciones de la Asamblea se tomarán por mayoría absoluta de votos prese
 
 (Declarado inconstitucional por Acción Nº. 990-92 del 14 de abril de 1992 de la Sala Constitucional, en la cual se indica que solo puede aplicarse cuando permita aprobar actos legislativos con efectos externos distintos de los establecidos en el Artículo 119 de la Constitución Política).
 
-Ficha Artículo 98
-
 ARTICULO 99.- Clases de votaciones
 
 Existirán tres clases de votación: ordinaria, nominal y secreta.
-
-Ficha Artículo 99
 
 Artículo 100.—Votación ordinaria. En la votación ordinaria, los diputados expresarán su voto afirmativo poniéndose de pie, y el negativo, permaneciendo sentados; mientras la Secretaría cuenta los votos, los votantes conservarán su respectiva posición.
 
@@ -1428,8 +1221,6 @@ Transitorio Único.—El Directorio de la Asamblea Legislativa contará con un p
 
 (Así adicionado el transitorio anterior mediante sesión ordinaria N° 44 del 27 de julio del 2015. El mismo se incluye debajo de este artículo aunque la reforma no lo indica toda vez que se refiere al mismo tema)
 
-Ficha Artículo 100
-
 Artículo 101.- Uso de las votaciones
 
 La votación que comúnmente usará la Asamblea será la ordinaria, sólo cuando lo soliciten uno o más diputados o diputadas y así lo acuerde la Asamblea, por mayoría absoluta de los votos de los presentes, será nominal.
@@ -1437,8 +1228,6 @@ La votación que comúnmente usará la Asamblea será la ordinaria, sólo cuando
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019 )
 
 (Mediante resolución de la Sala Constitucional N° 018932 del 2 de octubre de 2019, se eliminó de este artículo la oración que indicaba: "Deberán resolverse en votación secreta, solo los casos de votos de censura, compatibilidad del cargo de diputado con otras funciones y la concesión de honores".)
-
-Ficha Artículo 101
 
 Artículo 102.—Votación nominal En la votación nominal, cada diputado expresará su voto afirmativo con la palabra "sí" y el negativo con la palabra "no". La Secretaría recibirá los votos, los cuales se consignarán en el acta, con la especificación del nombre de cada votante.
 
@@ -1449,8 +1238,6 @@ En el caso especial de los asuntos definitivos que se sometan a votación, será
 Transitorio Único.—El Directorio de la Asamblea Legislativa contará con un plazo de tres años para implementar él o los mecanismos necesarios para el registro de votos en que se deba consignar el nombre completo del legislador o legisladora junto con su votación, en relación con todos los asuntos conocidos por el Plenario Legislativo.
 
 (Así adicionado el transitorio anterior mediante sesión ordinaria N° 44 del 27 de julio del 2015. El mismo se incluye debajo de este artículo aunque la reforma no lo indica toda vez que se refiere al mismo tema)
-
-Ficha Artículo 102
 
 Artículo 103.-Votación secreta
 
@@ -1464,21 +1251,15 @@ Esta votación no aplica para lo normado en el artículo 227 del Reglamento.
 
 (Así reformado mediante sesión ordinaria N° 55 del 18 de agosto de 2022)
 
-Ficha Artículo 103
-
 ARTICULO 104.- Excepciones en la votación secreta
 
 Cuando se trate de una votación secreta no se admitirá ninguna moción para que se vote en forma ordinaria o nominal; tampoco se admitirá ninguna solicitud para que se exprese o se consigne en el acta la forma en que votó el diputado.
-
-Ficha Artículo 104
 
 Artículo 105.- Imposibilidad del retiro en el momento de la votación
 
 Ningún diputado que haya estado en la discusión de un asunto puede retirarse cuando vaya a procederse a su votación; además está obligado a dar su voto, afirmativo o negativo. La inobservancia de esta disposición acarreará la pérdida de la dieta correspondiente a la sesión en que se produzca. No obstante, el diputado o diputada podrá excusarse de dar su voto sobre determinado asunto y retirarse del recinto, cuando considere que puede otorgar de forma directa un beneficio para sí mismo, para su cónyuge, compañero, compañera, sus parientes incluso hasta el tercer grado de consanguinidad o afinidad o para las empresas en las que él o ella posean participación accionaria.
 
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019 )
-
-Ficha Artículo 105
 
 Artículo 106.- Empate en las votaciones
 
@@ -1487,8 +1268,6 @@ Cuando hubiere empate en la votación de una moción, de acuerdo o de otra dispo
 Se exceptúa de lo indicado en el párrafo anterior, el resultado de empate en la votación de nombramientos, ratificaciones y/o renuncias en la Comisión Permanente Especial de Nombramientos. En estos casos no se procederá con el archivo del expediente; la Comisión rendirá al Plenario Legislativo los informes que correspondan, los que tendrán el carácter de minoría, sea afirmativo o negativo, y se conocerán en el orden en que fueron presentados.
 
 (Así adicionado el párrafo anterior mediante sesión ordinaria N° 34 del 15 de julio de 2024)
-
-Ficha Artículo 106
 
 TITULO VII
 
@@ -1508,23 +1287,15 @@ Cuando por la dinámica del debate parlamentario se requiera y conforme el avanc
 
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019 )
 
-Ficha Artículo 107
-
 ARTICULO 108.- Interrupciones
 
 El diputado podrá conceder interrupciones. Sin embargo, por la vía de la interrupción, quien la solicita, no podrá, a su vez, concederla a otro diputado. En el caso de que se abuse de la interrupción concedida, el Presidente le retirará la palabra al diputado que concedió tal interrupción. Estas reglas se aplicarán, tanto en lo previsto por este artículo, como en lo que dispone el número 135.
-
-Ficha Artículo 108
 
 ARTICULO 109.- Razonamiento para la votación nominal
 
 En la votación nominal, el diputado que lo desee puede razonar su voto por escrito o verbalmente, limitándose al fondo del asunto, sin examinar las incidencias habidas en la discusión ni hacer refutaciones o réplicas. En el razonamiento verbal de su voto, no podrá hacer uso de la palabra por más de diez minutos. Los plazos otorgados para el razonamiento del voto no podrán cederse, total ni parcialmente.
 
-Ficha Artículo 109
-
 ARTICULO 110.- (Derogado Mediante sesión N° 5020, del 8de noviembre de 1999)
-
-Ficha Artículo 110
 
 CAPITULO II
 
@@ -1534,8 +1305,6 @@ ARTICULO 111.- Solicitud de informes a las instituciones del Estado
 
 Las comisiones permanentes y especiales, por medio de sus presidentes, y los diputados, en forma personal, podrán solicitar toda clase de informes a las instituciones del Estado. Dichas solicitudes deberán ser atendidas con prontitud y de manera prioritaria por las instituciones y los funcionarios requeridos.
 
-Ficha Artículo 111
-
 ARTICULO 112.- Requerimiento de funcionarios y particulares
 
 Corresponde al Presidente de la Comisión, previa moción aprobada al efecto, requerir la presencia de aquellos funcionarios y particulares cuya comparecencia en la comisión se considere necesaria para la decisión del asunto que se discute, con el propósito de que sean interrogados por los diputados.
@@ -1543,8 +1312,6 @@ Corresponde al Presidente de la Comisión, previa moción aprobada al efecto, re
 Toda persona deberá asistir al ser convocada, salvo justa causa, y, en caso de renuencia, será conducida por la Fuerza Pública. La persona citada podrá asistir acompañada de un abogado, y negarse a declarar en los casos en que así la faculte la Constitución o la ley, y cuando se trate de asuntos diplomáticos, jurisdiccionales o militares pendientes.
 
 El Presidente de la Comisión tomará juramento a las personas que asistieren, conforme con el Código de Procedimientos Penales. En caso de que faltaren a la verdad, se aplicarán las sanciones previstas en el Código Penal, de acuerdo con las disposiciones generales del Código de Procedimientos Penales.
-
-Ficha Artículo 112
 
 TERCERA PARTE
 
@@ -1578,8 +1345,6 @@ A este efecto, los proyectos que no estén convocados en período de sesiones ex
 
 (Así reformado mediante sesión N° 31 del 21 de junio de 2022)
 
-Ficha Artículo 113
-
 Artículo 113 bis.- Expediente legislativo digital
 
 La Asamblea Legislativa deberá garantizar el acceso de las diputadas, los diputados y el público en general a los expedientes legislativos.
@@ -1590,25 +1355,17 @@ Las disposiciones de este artículo se establecen en cumplimiento del principio 
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 113 BIS
-
 ARTICULO 114.- Informe a los diputados sobre los proyectos presentados
 
 El Presidente de la Asamblea informará a los diputados, por escrito o por cualquier otro medio idóneo, sobre los proyectos de ley que hayan sido presentados, indicando su naturaleza y la comisión a la que corresponde su conocimiento. Cuando el Presidente lo juzgue pertinente, se distribuirán, además, copias literales de los proyectos presentados. De la misma forma, dará cuenta de las mociones presentas en relación con la ampliación del plazo a que se refiere el artículo 119 de este Reglamento.
-
-Ficha Artículo 114
 
 ARTICULO 115.- Numeración y anotación de proyectos
 
 Los proyectos, antes de ser enviados a comisión, pasarán al Departamento de Archivo, a fin de que sean numerados y anotados en el libro de comisiones, en el que se hará constar la materia a que se refieren, el nombre del diputado o de los diputados proponentes y el de los diputados que los acogen para su trámite.
 
-Ficha Artículo 115
-
 ARTICULO 116.- Publicación de documentos con el proyecto
 
 El Presidente de la Asamblea, por iniciativa propia o a solicitud de los diputados, puede hacer publicar con el proyecto, cualquiera de los documentos pertinentes que lo acompañen.
-
-Ficha Artículo 116
 
 Artículo 117.—Autos de presentación. En el Departamento de Archivo, Investigación y Trámite se redactarán los autos de presentación de los asuntos y se conformará el expediente original.
 
@@ -1622,13 +1379,9 @@ c) Remitir el proyecto en formato digital abierto a la Imprenta Nacional para su
 
 (Así reformado mediante sesión N°158 del 15 de marzo del 2011)
 
-Ficha Artículo 117
-
 Artículo 118.—Informe del Departamento de Servicios Técnicos. Conformado el expediente, el Departamento de Archivo pasará el proyecto en formato digital abierto al Departamento de Estudios Referencias y Servicios Técnicos, a fin de que este prepare un estudio de todas las leyes que tratan la materia específica, a la cual se refiere el proyecto. Este estudio se incluirá en el expediente, para que la comisión pueda pronunciarse sobre ellos.
 
 (Así reformado mediante sesión N°158 del 15 de marzo del 2011)
-
-Ficha Artículo 118
 
 Artículo 119.-Caducidad de los asuntos
 
@@ -1646,8 +1399,6 @@ Toda moción de orden que pretenda ampliar el plazo cuatrienal de un proyecto de
 
 (Así reformado mediante sesión N° 31 del 21 de junio de 2022)
 
-Ficha Artículo 119
-
 CAPITULO II
 
 TRAMITE EN LAS COMISIONES PERMANENTES ORDINARIAS
@@ -1660,19 +1411,13 @@ ARTICULO 120.- Aplicación de normas del Plenario a las comisiones
 
 En la tramitación de los asuntos que deban resolver las comisiones, se seguirán las mismas normas que se establecen en este Reglamento para las sesiones de la Asamblea, en lo que sean aplicables, siempre que no se opongan a las disposiciones expresas, que regulan el procedimiento de trabajo en las comisiones.
 
-Ficha Artículo 120
-
 ARTICULO 121.- Publicación e inclusión de proyectos en el Orden del Día
 
 Cinco días hábiles después de que aparezca un proyecto de ley publicado en el Diario Oficial, se incluirá en el orden del día de la respectiva comisión.
 
-Ficha Artículo 121
-
 ARTICULO 122.- Estudio de Servicios Técnicos
 
 Dentro de los cinco días hábiles indicados en el artículo anterior, el Departamento de Servicios Técnicos preparará el estudio a que se refiere el párrafo sexto del artículo 118 de este Reglamento. Completado ese estudio, el proyecto de ley se incluirá en el orden del día de la respectiva comisión.
-
-Ficha Artículo 122
 
 Sección II
 
@@ -1684,8 +1429,6 @@ En el curso del debate y oídas las opiniones de los miembros de la Comisión y 
 
 Cualquier diputado podrá presentar mociones escritas a la Secretaría de una Comisión Permanente, que considere como reforma del caso a cada proyecto.
 
-Ficha Artículo 123
-
 ARTICULO 124. Mociones de fondo de Comisión
 
 Los diputados podrán presentar mociones de fondo, en la Comisión respectiva, a partir del día de la publicación de los proyectos de ley en el Diario Oficial y mientras en la misma Comisión no hayan sido votados.
@@ -1694,15 +1437,11 @@ Aunque el proyecto hubiera sido estudiado por una subcomisión, los diputados po
 
 Cuando se presenten varias mociones de fondo, se discutirán siguiendo el orden ascendente del articulado respectivo. Si hubiere varias mociones sobre el mismo artículo, se discutirán en el orden de su presentación, ante la Secretaría de la Comisión respectiva.
 
-Ficha Artículo 124
-
 ARTICULO 125.- Subcomisiones para el conocimiento de proyectos de ley
 
 El Presidente de cada comisión permanente podrá nombrar subcomisiones, con tres o cinco miembros cada una, para el estudio de determinados proyectos de ley, excepto que la comisión, por mayoría, disponga lo contrario.
 
 Los informes que presenten esas subcomisiones, deberán ser aprobados por la comisión antes de ser enviados a la Asamblea.
-
-Ficha Artículo 125
 
 Artículo 126.—Consultas obligatorias y facultativas. La Presidencia de la Comisión dictaminadora deberá realizar las consultas obligatorias, a más tardar en la tercera sesión después de haber ingresado el asunto al orden del día.
 
@@ -1712,13 +1451,9 @@ En el caso de las comisiones legislativas, la realización de las consultas obli
 
 (Así reformado en sesión N° 45 del 24 de julio de 2019)
 
-Ficha Artículo 126
-
 ARTICULO 127.- Posibilidad de excusa de los diputados
 
 Cualquier miembro de Comisión, podrá excusarse de dictaminar sobre determinado asunto ante el Presidente de la Comisión, por justa causa; su excusa será resuelta por éste, haciendo constar ese hecho en el acta. En su caso, el Presidente de la Comisión deberá solicitar al Presidente de la Asamblea, el reemplazo del diputado que se excusare.
-
-Ficha Artículo 127
 
 ARTICULO 128.- Subcomisiones para la incorporación de mociones
 
@@ -1726,19 +1461,13 @@ aprobadasíError! No se encuentra el origen de la referencia.
 
 Antes de votar el proyecto y rendir el informe a la Asamblea, el Presidente de la comisión permanente podrá nombrar una subcomisión, según se indica en el artículo 125 de este Reglamento, para incorporarle todas las enmiendas o mociones aprobadas. El informe de la subcomisión deberá figurar en el orden del día, después del capítulo de correspondencia de la sesión siguiente y deberá votarse en esa sesión.
 
-Ficha Artículo 128
-
 ARTICULO 129.- Votación de asuntos
 
 Conocido un asunto en la Comisión y pasado algún tiempo sin que ningún diputado pida o haga uso de la palabra, la Secretaría preguntará: "¿Se da por discutido el (informe, dictamen, proyecto de ley o moción) que se ha leído?". Transcurrido un tiempo prudencial sin que ningún diputado solicite la palabra, el Presidente dará por discutido el asunto y procederá a recibir la votación, siempre que el Presidente no dispusiere el nombramiento de una subcomisión, para los efectos señalados en el artículo 128.
 
-Ficha Artículo 129
-
 ARTICULO 130.- Referencia a la publicación
 
 Cada proyecto de ley que recomiende una comisión, en sus considerandos deberá hacer referencia al número y fecha del Diario Oficial, en el cual se publicó el proyecto original respectivo. Si el proyecto no ha sido publicado así debe indicarse.
-
-Ficha Artículo 130
 
 CAPITULO III
 
@@ -1758,8 +1487,6 @@ Si se hubiere acordado la publicación del dictamen, de acuerdo con lo previsto 
 
 (Modificado mediante sesión N° 5020, del 8 de noviembre de 1999)
 
-Ficha Artículo 131
-
 Artículo 132.- Explicación de los dictámenes
 
 El trámite de primer debate se iniciará con una explicación general del texto, por parte de los dictaminadores, o de los proponentes del proyecto dispensado, en su caso.
@@ -1768,23 +1495,17 @@ Para cada dictamen, los firmantes podrán hacer uso de la palabra hasta por un p
 
 (Modificado mediante sesión N° 5020, del 8 de noviembre de 1999)
 
-Ficha Artículo 132
-
 Artículo 133.- Lectura de dictámenes
 
 No obstante lo dispuesto en el artículo anterior, el trámite de primer debate podrá iniciarse con la lectura de los dictámenes presentados o del proyecto de ley dispensado mediante moción de orden.
 
 (Modificado mediante sesión N° 5020, del 8 de noviembre de 1999)
 
-Ficha Artículo 133
-
 ARTICULO 134.- Discusión en primer debate
 
 Concluidas las explicaciones sobre los dictámenes, se procederá al conocimiento de las mociones de reiteración que se hayan presentado. Posteriormente se iniciará la discusión en primer debate y se procederá a aprobar o a improbar el proyecto de ley, sin perjuicio de lo que se dispone en los artículos 138 y 139.
 
 Los proyectos se conocerán en la forma y en el orden determinados en los artículos 81 y 130.
-
-Ficha Artículo 134
 
 Artículo 135.- Uso de la palabra en el Plenario
 
@@ -1796,13 +1517,9 @@ Con respecto al fondo del proyecto, podrá intervenir por un plazo de hasta vein
 
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019 )
 
-Ficha Artículo 135
-
 ARTICULO 136.- Discusión continua de los proyectos
 
 Pendiente la discusión de un proyecto de ley, deberá continuarse ésta en las sesiones inmediatas hasta agotarla, no aceptándose en su tramitación más que las mociones de forma y fondo o las mociones de orden relacionadas con el proyecto, de acuerdo con las disposiciones de este Reglamento.
-
-Ficha Artículo 136
 
 Artículo 137.—Mociones de fondo.
 
@@ -1817,8 +1534,6 @@ Para el conocimiento de estas mociones, se tendrá por alterado el orden del dí
 c) Recibido por el Directorio el informe de la comisión, se suspenderá el conocimiento del asunto que en ese momento esté en primer debate y, de inmediato, se entrará a conocer el proyecto cuyo trámite se encontraba suspendido, de conformidad con el párrafo anterior."
 
 (Así reformado mediante sesión ordinaria N° 44 del 27 de julio del 2015)
-
-Ficha Artículo 137
 
 Artículo 138.- Mociones de reiteración
 
@@ -1836,15 +1551,9 @@ La Secretaría del Directorio deberá garantizar la publicidad de estas mociones
 
 (Nota de Sinalevi: Mediante el transitorio de la reforma aprobada en sesión N° 31 del 4 de marzo de 2019, se indicó lo siguiente: "TRANSITORIO I.- La reforma al artículo 138 del Reglamento de la Asamblea Legislativa no regirá para todos los proyectos de ley que a la entrada en vigencia de este acuerdo hayan iniciado el plazo para la presentación de mociones de reiteración.")
 
-Ficha Artículo 138
-
 ARTICULO 139.- (Derogado mediante sesión N° 5020, del 8 de noviembre de 1999)
 
-Ficha Artículo 139
-
 ARTICULO 140.-(Derogado mediante sesión N° 5020, del 8 de noviembre de 1999)
-
-Ficha Artículo 140
 
 ARTICULO 141.- Comisión de Redacción
 
@@ -1852,15 +1561,11 @@ Aprobado un proyecto en su trámite de primer debate, la Secretaría lo enviará
 
 Esta Comisión deberá devolver el proyecto, ya revisada y aprobada su redacción, antes de que se inicie el trámite de segundo debate. El texto será distribuido a los diputados antes de dicho debate.
 
-Ficha Artículo 141
-
 ARTICULO 142.- Plazo prudencial para la Comisión de Redacción
 
 En los casos de proyectos muy extensos y complicados, el Presidente de la Asamblea Legislativa podrá fijarle a la Comisión de Redacción un nuevo plazo prudencial e improrrogable, para que presente el informe correspondiente. En estos casos, se suspenderá el inicio del trámite del segundo debate, hasta tanto la Comisión no rinda el respectivo informe.
 
 Si la Comisión no rinde el informe en el plazo establecido, el Presidente podrá tramitarlo en segundo debate.
-
-Ficha Artículo 142
 
 Sección II
 
@@ -1882,8 +1587,6 @@ ARTICULO 143.- Trámite de las consultas de constitucionalidad
 
 6.-La consulta formalmente admitida y notificada interrumpirá la votación del proyecto en segundo debate o, en su caso, la sanción y publicación del decreto respectivo. No obstante, dicha interrupción surte efecto en los casos de la consulta preceptiva, a partir de su presentación ante la Sala Constitucional.
 
-Ficha Artículo 143
-
 ARTICULO 144.- Consulta preceptiva
 
 1\. El Directorio de la Asamblea hará de oficio la consulta preceptiva, en los casos del inciso a) del artículo 96 de la Ley de la Jurisdicción Constitucional.
@@ -1892,15 +1595,11 @@ ARTICULO 144.- Consulta preceptiva
 
 3.- Mediante moción de orden aprobada por el Plenario, éste podrá decidir que un proyecto determinado, no consultado por el Directorio, está dentro de los supuestos previstos en el artículo 96 inciso a). En este caso, el Directorio formulará la consulta.
 
-Ficha Artículo 144
-
 ARTICULO 145. Consulta no preceptiva
 
 1.- Un número no menor de diez diputados podrá realizar la consulta no preceptiva, establecida en el inciso b) del mismo artículo.
 
 2.- La consulta no preceptiva deberá formularse en memorial razonado, con expresión de los aspectos cuestionados del proyecto, así como de los motivos por los cuales se tuvieren dudas u objeciones sobre su constitucionalidad. Los diputados deberán remitir copia del memorial a la Presidencia de la Asamblea, para comunicarle que ha sido formulada consulta sobre determinado proyecto.
-
-Ficha Artículo 145
 
 ARTICULO 146. Trámite de la opinión consultiva
 
@@ -1924,8 +1623,6 @@ Si de la opinión consultiva de la Sala resultare que no existen objeciones sobr
 
 7.-Cuando la Sala considere inconstitucional algún artículo o norma de un proyecto de los que tengan plazo constitucional o reglamentario para ser votado, y no fuere posible jurídicamente retrotraerlo a primer debate, el Plenario podrá decidir en cualquier momento de su discusión que dicho artículo o norma sea suprimido o reformado. Para ese efecto, el Plenario aplicará las reglas de una moción de orden.
 
-Ficha Artículo 146
-
 Sección III
 
 Segundo debate
@@ -1936,13 +1633,9 @@ aprobado en primer debate
 
 Para la discusión de un asunto en segundo debate, el texto del proyecto de ley en discusión, tal como fue aprobado en primer debate deberá ser puesto en conocimiento de los diputados, en forma impresa o por cual otro medio idóneo, con al menos veinticuatro horas de anticipación al comienzo de la sesión, en la que el proyecto se va a discutir en este trámite.
 
-Ficha Artículo 147
-
 ARTICULO 148. Segundo debate
 
 Un proyecto de ley aprobado en Primer Debate por la Asamblea, entrará como base de discusión para segundo debate. El día de este debate será fijado por el Presidente de la Asamblea. El segundo debate de los proyectos de ley, tendrán prioridad sobre cualquier otro asunto en la Asamblea, salvo lo dispuesto en el artículo 35 de este Reglamento.
-
-Ficha Artículo 148
 
 Artículo 148 bis.- Retrotracción a primer debate. Si en la discusión en segundo debate se estimare necesario modificar el fondo del texto, el Plenario podrá determinar, por una sola vez, que el asunto se retrotraiga a primer debate. También cabe retrotraer el asunto a primer debate, para subsanar algún vicio de procedimiento. La moción para retrotraer es de orden y deberá ser presentada por dos o más Jefes de Fracción que juntos representen, al menos, treinta y ocho diputados, cuando lo demande no menos de la mitad de los Jefes y Jefas de Fracción o así lo soliciten diez diputados de dos o más fracciones, y deberá ser aprobada por votación de dos terceras partes de la totalidad de los miembros de la Asamblea Legislativa.
 
@@ -1962,15 +1655,11 @@ De no modificarse el texto, en la siguiente sesión el proyecto ocupará el luga
 
 (Así reformado en sesión N° 88 del 13 de noviembre del 2023)
 
-Ficha Artículo 148 BIS
-
 ARTICULO 149.- Discusión en segundo debate
 
 El segundo debate será una discusión final sobre el proyecto, de conformidad con el artículo 135. Una vez discutido, el proyecto se votará y, si éste es aprobado lo firmarán el Presidente y los Secretarios. El decreto legislativo se remitirá al Poder Ejecutivo, para lo que corresponda.
 
 En los casos previstos en los artículos 168 y 195, inciso 7 de la Constitución Política, el segundo debate se realizará para discutir su forma.
-
-Ficha Artículo 149
 
 Artículo 150.- Uso de la palabra
 
@@ -1978,15 +1667,11 @@ Para la discusión general del proyecto en segundo debate, se concederá al dipu
 
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019 )
 
-Ficha Artículo 150
-
 ARTICULO 151.- Envío del decreto al Poder Ejecutivo
 
 Aprobado un proyecto de ley en segundo debate y firmado el decreto respectivo, este con una copia adjunta, pasarán a la Dirección Ejecutiva para que se envíen, mediante conocimiento, al Poder Ejecutivo. El expediente se entregará al Departamento de Archivo.
 
 Devuelto el decreto y anotada en la Dirección Ejecutiva la fecha de ese acto, se pasará al Departamento de Archivo, para que se agregue al expediente.
-
-Ficha Artículo 151
 
 Sección IV
 
@@ -2000,21 +1685,15 @@ Si la moción es acogida, será incorporada al proyecto antes de ser aprobado en
 
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019 )
 
-Ficha Artículo 152
-
 Artículo 153.- Moción de Orden
 
 En cualquier estado del debate podrán presentarse mociones de orden, salvo que este Reglamento lo impida expresamente. Estas mociones se conocerán inmediatamente después de presentadas y aceptadas como tales por el Presidente. Para explicar el contenido de la moción el o los proponentes tendrán un plazo que, individualmente o en conjunto, no exceda de cinco minutos.
 
 (Modificado mediante sesión N° 5020, del 8 de noviembre de 1999)
 
-Ficha Artículo 153
-
 ARTICULO 154.- Reenvío de proyectos a la comisión dictaminadora
 
 En la discusión de un proyecto en cualquiera de los debates, puede la Asamblea, por una sola vez, a solicitud de un diputado, enviar el asunto a la misma comisión que informó. Si ésta, en su seno, se excusare de dar un nuevo informe o presentar un nuevo proyecto de ley, le será admitida la excusa por el Presidente de la Asamblea y el asunto pasará a otra comisión, de acuerdo con la designación que el Presidente haga.
-
-Ficha Artículo 154
 
 Artículo 155.- Revisión
 
@@ -2036,8 +1715,6 @@ Cuando la Asamblea conozca la revisión de un asunto, los diputados o las diputa
 
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 155
-
 Artículo 156.- Apelación
 
 Los diputados y las diputadas tienen derecho a apelar las resoluciones del Presidente o la Presidenta de la Asamblea Legislativa, inmediatamente después de emitidas, en cuyo caso la votación se recibirá después de la intervención del diputado o diputada apelante y de la defensa que haga el Presidente acerca de su resolución.
@@ -2050,25 +1727,17 @@ Una vez terminada la intervención de ambas partes, la Asamblea votará el asunt
 
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019 )
 
-Ficha Artículo 156
-
 ARTICULO 157.- Consultas institucionales
 
 Cuando en la discusión de un proyecto la Asamblea determine que debe ser consultado el Tribunal Supremo de Elecciones, la Universidad de Costa Rica, el Poder Judicial o una institución autónoma, y no lo hubiera hecho la Comisión, se suspenderá el conocimiento del proyecto, procediéndose a hacer la consulta correspondiente. Si transcurridos ocho días hábiles no se recibiere respuesta a la consulta a que se refiere este artículo, se tendrá por entendido que el organismo consultado no tiene objeción que hacer al proyecto. En caso de que el organismo consultado, dentro del término dicho, hiciera observaciones al proyecto, éste pasará automáticamente a la comisión respectiva, si la Asamblea aceptara dichas observaciones. Si ésta las desechare, respetando lo que determina la Constitución Política, el asunto continuará su trámite ordinario.
-
-Ficha Artículo 157
 
 ARTICULO 158.- Reformas parciales a leyes e inclusión en el decreto de todo el texto de la ley reformada
 
 Cuando se reforma una ley, al emitirse la correspondiente forma de decreto, se incluirá dentro de ella el texto completo de la ley tal como queda reformada. La disposición de este artículo no se aplicará cuando, a juicio del Presidente de la Asamblea, el texto de la ley que se reforma sea muy extenso.
 
-Ficha Artículo 158
-
 ARTICULO 159.- Referencias
 
 Cuando la Asamblea considere una ley en que se apruebe, derogue o reforme otra ley, al citarse ésta, se expresará la materia de que ella trata. Si no se ha cumplido esta disposición en primer debate, la Comisión de Redacción se encargará de hacerlo.
-
-Ficha Artículo 159
 
 CAPITULO IV
 
@@ -2094,8 +1763,6 @@ c) Al menos diez diputados de dos o más fracciones.
 
 (Modificado mediante sesión N° 5020, del 8 de noviembre de 1999)
 
-Ficha Artículo 160
-
 ARTICULO 161. Trámite de las mociones delegatorias
 
 1- Las mociones delegatorias se conocerán en el Capítulo de Régimen Interno. Los proponentes podrán hacer uso de la palabra en favor de la moción, hasta por un plazo, que individualmente o en conjunto, no exceda de diez minutos. Los diputados que se opongan podrán hacer uso de la palabra de la misma forma y por igual plazo. Sin más trámite, estas mociones se someterán a votación.
@@ -2103,8 +1770,6 @@ ARTICULO 161. Trámite de las mociones delegatorias
 (Así reformado el inciso anterior mediante sesión N° 31 del 4 de marzo del 2019 )
 
 2.Para el conocimiento de las citadas mociones y de las de sus revisiones, se dispondrá de un plazo máximo de treinta minutos en cada sesión plenaria.
-
-Ficha Artículo 161
 
 Sección II
 
@@ -2120,8 +1785,6 @@ Artículo 162.- Primer Debate
 
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019 )
 
-Ficha Artículo 162
-
 Artículo 163.- Conocimiento de mociones de fondo
 
 Concluidas las explicaciones, se procederá al conocimiento de las mociones de fondo, que pretenden modificar el texto de un proyecto. Para ello se aplicarán las siguientes reglas:
@@ -2136,8 +1799,6 @@ d) Las mociones de fondo, que estén destinadas a sustituir el texto del proyect
 
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019 )
 
-Ficha Artículo 163
-
 Artículo 164.- Discusión general y votación. Remisión a la Comisión de Redacción
 
 1- Después de votadas todas las mociones de fondo, se procederá a la discusión general del asunto en primer debate. Con respecto al fondo del proyecto, cada diputado o diputada podrá intervenir por un plazo de hasta diez minutos.
@@ -2147,8 +1808,6 @@ Artículo 164.- Discusión general y votación. Remisión a la Comisión de Reda
 3- En proyectos muy extensos y complicados, la Presidencia de la Comisión Legislativa Plena podrá fijarle un plazo prudencial e improrrogable a la Comisión de Redacción, para que remita el texto revisado. En estos casos, la Presidencia de la Comisión Legislativa Plena suspenderá el inicio del segundo debate.
 
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019 )
-
-Ficha Artículo 164
 
 Sección III
 
@@ -2164,8 +1823,6 @@ ARTICULO 165. La consulta de constitucionalidad
 
 4\. No obstante, cuando la Comisión de Consultas de Constitucionalidad infiera de la opinión consultiva de la Sala Constitucional que el proyecto no es de competencia de la Comisión Legislativa Plena o que existen vicios de procedimiento no subsanables por ella, el asunto pasará de pleno derecho al Plenario para su conocimiento. Además, respecto de esta etapa del trámite, se aplicarán las disposiciones previstas en los artículos 143 y 146 de este Reglamento.
 
-Ficha Artículo 165
-
 Sección IV
 
 Segundo Debate
@@ -2176,8 +1833,6 @@ El segundo debate será una discusión general sobre el proyecto, en la que cada
 
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 166
-
 ARTICULO 167.- Retrotracción a primer debate
 
 1\. Si en la discusión en segundo debate se estimare necesario modificar el fondo del texto, la Comisión podrá determinar, por una sola vez, que el asunto se retrotraiga a primer debate. También cabe retrotraer el asunto a primer debate, para subsanar algún vicio de procedimiento. La moción para retrotraer es de orden y debe ser aprobada al menos por trece diputados.
@@ -2186,13 +1841,9 @@ ARTICULO 167.- Retrotracción a primer debate
 
 3\. Conocidas las mociones de fondo, si el texto hubiera sido modificado, en la siguiente sesión se procederá a votar el proyecto en primer debate. De no haberse modificado el texto, en la siguiente sesión el proyecto ocupará el primer lugar en el Capítulo de Segundos Debates, para continuar con el trámite pendiente.
 
-Ficha Artículo 167
-
 ARTICULO 168. Votación
 
 Discutido el proyecto en segundo debate, se someterá a votación. Si fuere aprobado, lo firmarán el Presidente y el Secretario de la comisión y se remitirá al Directorio de la Asamblea, si fuere rechazado, se archivará.
-
-Ficha Artículo 168
 
 Sección V
 
@@ -2200,17 +1851,11 @@ Disposiciones adicionales
 
 ARTICULO 169. Razonamiento del voto. (Derogado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 169
-
 ARTICULO 170. Mociones de forma
 
 Las mociones que estén destinadas a modificar un proyecto de ley, en cuanto a la forma, caben en cualquiera de los debates y pasarán, automáticamente, a la Comisión de Redacción para ser incorporadas al proyecto, si así lo determinare dicha Comisión antes de que sea votado en segundo debate.
 
-Ficha Artículo 170
-
 ARTICULO 171. Subcomisiones. (Derogado mediante sesión N° 31 del 4 de marzo del 2019)
-
-Ficha Artículo 171
 
 ARTICULO 172. Concurrencia de los Ministros
 
@@ -2222,15 +1867,11 @@ ARTICULO 172. Concurrencia de los Ministros
 
 4\. La moción para invitar a un Ministro, a comparecer ante una Comisión Legislativa Plena, será de orden.
 
-Ficha Artículo 172
-
 Artículo 173.- Revisión en Comisiones Plenas
 
 Las mociones de revisión se regirán por lo previsto en este Reglamento.
 
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019 )
-
-Ficha Artículo 173
 
 Artículo 174.- Uso de la palabra
 
@@ -2249,8 +1890,6 @@ b) Para referirse a las mociones de orden, sólo podrán hacer uso de la palabra
 c) Para referirse al recurso de apelación, sólo podrá hacer uso de la palabra el o la proponente, por un plazo que no exceda de diez minutos. La Presidencia podrá hacer uso de la palabra por un plazo igual.
 
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019 )
-
-Ficha Artículo 174
 
 Sección VI
 
@@ -2272,11 +1911,7 @@ Tampoco aplicará esta restricción, cuando exista un vicio manifiesto o un hech
 
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019 )
 
-Ficha Artículo 175
-
 ARTICULO 176. Prioridad del proyecto avocado. (Derogado mediante sesión N° 31 del 4 de marzo del 2019)
-
-Ficha Artículo 176
 
 TITULO II
 
@@ -2289,8 +1924,6 @@ DISPENSA DE TRAMITE
 ARTICULO 177. Trámite de dispensa
 
 Un proyecto de ley podrá ser conocido por la Asamblea en primer debate, sin el requisito de informe previo de una de las comisiones de la Asamblea, entendiéndose entonces que aquella actúa como comisión general, cuando así lo disponga la propia Asamblea, mediante la expresa dispensa de trámites previos. En este caso, una vez terminada la discusión del asunto en primer debate, y habiéndose conocido directamente las mociones de fondo de los diputados, el Presidente de la Asamblea pondrá a votación el asunto.
-
-Ficha Artículo 177
 
 Artículo 177 bis.—Trámite de dispensa de asuntos con dictamen previo.
 
@@ -2305,8 +1938,6 @@ Podrán presentarse las mociones de fondo en ejercicio del derecho de enmienda, 
 Vencido el plazo de consulta, se procederá a votar el proyecto en primer debate.
 
 (Así adicionado mediante sesión N° 31 del 21 de junio de 2022)
-
-Ficha Artículo 177 BIS
 
 CAPÍTULO II
 
@@ -2328,8 +1959,6 @@ Se exceptúan de este procedimiento los proyectos de reforma constitucional, as�
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 178
-
 Artículo 179.- Trámite para acordar la aplicación del procedimiento abreviado
 
 La moción para acordar la aplicación de un procedimiento abreviado se conocerá con prioridad sobre cualquier otro asunto en el Capítulo de Asuntos del Régimen Interno de la sesión del Plenario.
@@ -2340,15 +1969,11 @@ Las mociones de revisión que se presenten contra la votación de estas mociones
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 179
-
 Artículo 180.- Votación requerida para la aplicación del procedimiento abreviado
 
 La moción para acordar la aplicación de un procedimiento abreviado, deberá ser aprobada por las dos terceras partes del total de los miembros de la Asamblea Legislativa.
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
-
-Ficha Artículo 180
 
 SECCIÓN II
 
@@ -2362,23 +1987,17 @@ No será admisible ninguna moción de orden que pretenda alterar su prevalencia.
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 181
-
 Artículo 182.- Las mociones de fondo
 
 Cualquier diputado y diputada podrá presentar mociones de fondo desde el ingreso del proyecto al orden del día. Estas se conocerán según el orden de presentación.
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 182
-
 Artículo 183.- Las mociones de orden
 
 La Presidencia solo podrá admitir dos mociones de orden por sesión y luego de iniciada la sesión. Aquellas que se presenten con posterioridad serán inadmisibles.
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
-
-Ficha Artículo 183
 
 Artículo 184.- Las mociones de revisión
 
@@ -2390,8 +2009,6 @@ No cabrá la interposición de mociones de revisión contra la votación de moci
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 184
-
 Artículo 185.- Sesiones extraordinarias
 
 La comisión deberá sesionar de forma extraordinaria, al menos, los días lunes, martes y jueves, cinco minutos después de la sesión ordinaria del Plenario. No obstante, los miembros de la comisión podrán suspender o modificar este horario de sesiones extraordinarias por medio de una moción de orden que requiere para su aprobación el voto afirmativo de las dos terceras partes de sus miembros; sin embargo, el mínimo de sesiones extraordinarias deberá ser de dos sesiones por semana.
@@ -2399,8 +2016,6 @@ La comisión deberá sesionar de forma extraordinaria, al menos, los días lunes
 Estas sesiones tendrán prioridad sobre cualquier otra comisión permanente o especial.
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
-
-Ficha Artículo 185
 
 Artículo 186.- Plazo para dictaminar el proyecto de ley
 
@@ -2418,8 +2033,6 @@ Para esto, se tendrá por ampliado de forma automática el plazo de la comisión
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 186
-
 Artículo 187.- Plazo para presentar los dictámenes e ingreso al orden del día
 
 El dictamen o los dictámenes deberán ser rendidos ante la Secretaría del Directorio, dentro de los tres días hábiles siguientes a la firmeza de la votación del proyecto.
@@ -2427,8 +2040,6 @@ El dictamen o los dictámenes deberán ser rendidos ante la Secretaría del Dire
 Una vez vencido este plazo, no se admitirán nuevos dictámenes. Un día después de vencido este plazo, el expediente deberá entrar al orden del día del Plenario.
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
-
-Ficha Artículo 187
 
 SECCIÓN III
 
@@ -2444,8 +2055,6 @@ El trámite en primer debate iniciará con una explicación del proyecto por par
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 188
-
 Artículo 189.- Las mociones de fondo y orden
 
 Las mociones de fondo solo serán de recibo cuando se presenten desde el inicio del trámite en primer debate y durante los tres días hábiles siguientes a la sesión en la cual se dio el espacio para la explicación de los dictámenes. No obstante, si al momento de finalizada la explicación de los dictámenes ningún diputado o diputada ha presentado ninguna moción de fondo, la Presidencia legislativa podrá iniciar la discusión por el fondo del proyecto de ley.
@@ -2456,8 +2065,6 @@ Durante el conocimiento del expediente, la Presidencia solo podrá admitir a par
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 189
-
 Artículo 190.- La admisibilidad de las mociones de fondo
 
 Las mociones de fondo presentadas se tendrán por dispensadas de lectura y se darán a conocer a los diputados por el medio que garantice su acceso y en cumplimiento del principio de publicidad. Estas mociones de fondo serán conocidas por el Plenario según el orden de presentación.
@@ -2465,8 +2072,6 @@ Las mociones de fondo presentadas se tendrán por dispensadas de lectura y se da
 Cuando varios diputados presenten mociones idénticas o razonablemente equivalentes, la Presidencia de la Asamblea Legislativa podrá disponer acumularlas para ser discutidas en un solo acto, aunque votadas individualmente.
 
 (Así adicionado mediante sesión N° 31 del 4 de mazo del 2019)
-
-Ficha Artículo 190
 
 Artículo 191.- Plazo para el conocimiento de las mociones de fondo
 
@@ -2477,8 +2082,6 @@ Si vencido este plazo quedaran pendientes de conocimiento mociones de fondo, la 
 Finalizado el conocimiento de las mociones pendientes se podrá iniciar su discusión por el fondo.
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
-
-Ficha Artículo 191
 
 SECCIÓN IV
 
@@ -2496,8 +2099,6 @@ Durante el conocimiento del expediente, la Presidencia solo podrá admitir a par
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 192
-
 Artículo 193.- Plazo para el conocimiento de las mociones de fondo
 
 Para el conocimiento de las mociones de fondo, el Plenario dispondrá de catorce sesiones para el conocimiento de las mociones.
@@ -2509,8 +2110,6 @@ Las mociones de revisión y cualquier otra moción de orden que deba conocerse d
 Finalizado el conocimiento de las mociones de fondo se iniciará su discusión por el fondo.
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
-
-Ficha Artículo 193
 
 SECCIÓN V
 
@@ -2534,23 +2133,17 @@ Por medio de una moción de orden aprobada por mayoría absoluta de los presente
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 194
-
 Artículo 195.- Las mociones de apelación
 
 Los diputados y diputadas podrán apelar las resoluciones de la Presidencia de la comisión o del Plenario, en los términos establecidos en el artículo 156 de este Reglamento. Tanto los firmantes como quien ocupe la Presidencia podrán hacer uso de la palabra por un término improrrogable de cinco minutos.
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 195
-
 Artículo 196.- Número de proyectos de ley tramitados en Comisión por Procedimiento abreviado
 
 Únicamente podrá haber un proyecto de ley por Comisión al que se le aplique el procedimiento abreviado previsto en este Reglamento.
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
-
-Ficha Artículo 196
 
 Artículo 197.- Prioridad en el orden del día
 
@@ -2562,8 +2155,6 @@ Todo lo anterior sin perjuicio de la preeminencia constitucional y reglamentaria
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 197
-
 Artículo 198.- Suspensión de plazos
 
 Los plazos establecidos en este capítulo se entenderán suspendidos para los proyectos de ley que no fueron convocados en períodos de sesiones extraordinarias, cuando la Asamblea esté en receso o cuando se encuentre en consultas obligatorias.
@@ -2571,8 +2162,6 @@ Los plazos establecidos en este capítulo se entenderán suspendidos para los pr
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
 
 (Mediante resolución de la Sala Constitucional N° 018932 del 2 de octubre de 2019, se interpretó este numeral en el sentido de que es constitucional siempre y cuanto se interprete que la deliberación y el informe serán confidenciales solo respecto de aquellos datos que no se pueden divulgar porque alguna norma jurídica lo prohíba.)
-
-Ficha Artículo 198
 
 Artículo 199.- Sesiones ordinarias
 
@@ -2582,23 +2171,17 @@ Las fracciones solo podrán solicitar dos recesos de cinco minutos cada uno por 
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 199
-
 Artículo 200.- Sesiones extraordinarias
 
 Cuando uno o varios proyectos de ley que sean conocidos por el procedimiento especial establecido en este capítulo, estén en discusión en primero y segundo debates, el Plenario sesionará de forma extraordinaria los días lunes, martes, miércoles y jueves de las nueve a las doce horas, hasta la votación definitiva de las iniciativas pendientes. No obstante, el Plenario podrá suspender o modificar este horario de sesiones extraordinarias por medio de una moción de orden, que requiere para su aprobación el voto afirmativo de las dos terceras partes de los miembros de la Asamblea; sin embargo, el mínimo de sesiones extraordinarias deberá ser de tres sesiones. Para eso se tendrán por habilitados los días inhábiles.
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 200
-
 Artículo 201.- Reenvío del proyecto a la comisión dictaminadora
 
 En la discusión de un proyecto, en cualquiera de sus debates, puede la Asamblea, por una sola vez, con plazo definido para su trámite y por votación de dos tercios del total de sus miembros, enviar el asunto a la misma comisión que informó u otra, para que proceda a rendir un nuevo dictamen conforme con las reglas establecidas en este capítulo. En cualquier caso siempre deberá respetarse la limitación establecida en el artículo 196.
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
-
-Ficha Artículo 201
 
 Artículo 202.- Mociones de forma
 
@@ -2610,15 +2193,11 @@ Ningún diputado o diputada podrá insistir sobre ninguna moción de forma que f
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
 
-Ficha Artículo 202
-
 Artículo 203.- Normas supletorias
 
 En lo no previsto por este procedimiento se aplicarán las normas y procedimientos de las comisiones permanentes ordinarias y especiales, y del trámite en el Plenario en lo que resulte pertinente.
 
 (Así adicionado mediante sesión N° 31 del 4 de marzo del 2019)
-
-Ficha Artículo 203
 
 CAPITULO III
 
@@ -2650,8 +2229,6 @@ El dictamen o los dictámenes sobre el proyecto deberán ser rendidos antes de l
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 178 al 204)
 
-Ficha Artículo 204
-
 ARTICULO 205. Trámite en el Plenario
 
 1\. En la sesión del día primero de noviembre, o en la sesión inmediata siguiente, si ese día la sesión no se celebrare, se iniciará la discusión del proyecto de ley en primer debate, al cual se dará prioridad sobre cualquier otro asunto en trámite. Por moción de orden aprobada por la Asamblea, ésta podrá convertirse en comisión general para discutir el proyecto en primer debate. En este caso la Presidencia de la Asamblea dará a los diputados un plazo de cinco días hábiles para presentar mociones nuevas o de reiteración de mociones rechazadas en Comisión, debiéndose conocer estas últimas con prioridad a las otras. Vencido este plazo la Secretaría no dará curso a nuevas mociones.
@@ -2665,8 +2242,6 @@ Si los días 27 y 29 de noviembre fueran domingos o feriados, se considerarán h
 4\. Los días 27 y 29 de noviembre de cada año, la Asamblea celebrará sesiones plenarias por lo cual en esos días no habrá sesiones de las comisiones permanentes ordinarias, permanentes especiales, especiales ni de las comisiones legislativas plenas.
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 179 al 205)
-
-Ficha Artículo 205
 
 Sección II
 
@@ -2692,8 +2267,6 @@ Al suprimir o rebajar las partidas propuestas en el proyecto -no las que existan
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 180 al 206)
 
-Ficha Artículo 206
-
 CAPITULO IV
 
 TRAMITE DEL VETO
@@ -2718,8 +2291,6 @@ De conformidad con lo dispuesto en el artículo 126 de la Constitución Polític
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 181 al 207)
 
-Ficha Artículo 207
-
 Artículo 208.- Trámite en general
 
 Cuando el Poder Ejecutivo objetare algún proyecto de ley, la Presidencia de la Asamblea lo comunicará al Pleno Legislativo en la sesión inmediata siguiente a su recibo.
@@ -2735,8 +2306,6 @@ Si el informe propusiere el resello, se aprobará o rechazará en una sola sesi�
 Si el informe aceptare las reformas propuestas por el Poder Ejecutivo y fueren aprobadas, se someterá a los dos debates de ley y la resolución final se sujetará en un todo a lo que dispone el artículo 127 de la Constitución Política; si, por el contrario, el dictamen no aceptare las objeciones ni propusiere el resello y lo aprobare la Asamblea, se dará por concluido el asunto.
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 182 al 208)
-
-Ficha Artículo 208
 
 Artículo 208 bis- Trámite del veto por razones de constitucionalidad y por razones de conveniencia
 
@@ -2762,8 +2331,6 @@ De ser acogidas las recomendaciones de la Comisión en que se proponen modificac
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 182 bis al 208 bis)
 
-Ficha Artículo 208 BIS
-
 Artículo 209.- Veto contra proyectos de las Comisiones con Potestad Legislativa Plena
 
 El veto interpuesto por el Poder Ejecutivo, contra un proyecto aprobado por una Comisión Legislativa Plena, será del conocimiento exclusivo del Plenario de la Asamblea Legislativa y se tramitará de conformidad con lo dispuesto en este capítulo.
@@ -2771,8 +2338,6 @@ El veto interpuesto por el Poder Ejecutivo, contra un proyecto aprobado por una 
 (Así reformado mediante sesión N° 31 del 4 de marzo del 2019)
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 183 al 209)
-
-Ficha Artículo 209
 
 TITULO III
 
@@ -2802,8 +2367,6 @@ Las reformas parciales a la Constitución Política, proceden con arreglo a las 
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 184 al 210)
 
-Ficha Artículo 210
-
 TITULO IV
 
 PROCEDIMIENTOS DE CONTROL POLÍTICO
@@ -2818,15 +2381,11 @@ Tienen derecho los diputados de pedir a la Asamblea que acuerde llamar a cualqui
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 185 al 211)
 
-Ficha Artículo 211
-
 ARTICULO 212. Visita del Ministro
 
 Cuando en atención al llamado, ingrese el Ministro al recinto de la Asamblea, el Presidente le informará el motivo de su comparecencia y le concederá inmediatamente la palabra para que haga la exposición o dé las explicaciones del caso. Una vez concluida la intervención del Ministro, se les concederá la palabra a los diputados que deseen hacerle preguntas concretas.
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 186 al 212)
-
-Ficha Artículo 212
 
 ARTICULO 213. Debate general sobre la comparecencia del Ministro
 
@@ -2834,15 +2393,11 @@ Cuando no las hubiere, o estén contestadas las que se formularen, se abrirá, s
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 187 al 213)
 
-Ficha Artículo 213
-
 ARTICULO 214. Censura a Ministros
 
 Los votos de censura a que se refiere el inciso 24) del artículo 121 de la Constitución Política, deberán pedirse en forma escrita por uno o varios diputados. El Directorio fijará la fecha para discutir la petición; sin embargo, la discusión no podrá efectuarse antes de cinco días, ni después de diez, contados a partir del día en que se presentó la iniciativa. El Directorio comunicará inmediatamente esa fecha al Ministro correspondiente. La moción de censura debe concretar los motivos en que se funde. El pronunciamiento de la Asamblea se considera firme y no será procedente, en consecuencia, el recurso de revisión.
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 188 al 214)
-
-Ficha Artículo 214
 
 CAPITULO II
 
@@ -2856,15 +2411,11 @@ Cuando fuere acusado ante la Asamblea alguno de los funcionarios públicos citad
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 189 al 215)
 
-Ficha Artículo 215
-
 ARTICULO 216. Trámite en Comisión de la acusación
 
 Tal comisión, una vez organizada conforme lo dispone este Reglamento, recibirá todas las pruebas que presenten, tanto el acusador como el acusado, y terminada la información, dará cuenta de ella a la Asamblea, acompañándola con el correspondiente informe.
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 190 al 216)
-
-Ficha Artículo 216
 
 ARTICULO 217. Formación de causa contra el funcionario
 
@@ -2874,15 +2425,11 @@ El informe de la comisión y los respectivos documentos se leerán en sesión en
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 191 al 217)
 
-Ficha Artículo 217
-
 ARTICULO 218. Suspensión del funcionario
 
 Cuando los miembros de los Supremos Poderes, Ministros de Gobierno o Ministros Diplomáticos de la República, fueren acusados o resultaren comprometidos como autores o como cómplices de un delito común, y el hecho lo hubiere puesto el Juez o Tribunal que conozca de la causa en conocimiento de la Asamblea, acompañando certificación de los antecedentes necesarios sin que el interesado hubiere renunciado en forma expresa a su fuero, se pasará el asunto a conocimiento de una comisión integrada por tres diputados, a fin de que rinda informe indicando si debe ser o no levantado el fuero. Si posteriormente el Juez o Tribunal informare a la Asamblea que dentro de la causa se ha dictado y ha quedado firme un auto de prisión y enjuiciamiento, necesariamente se procederá a declarar la suspensión del acusado.
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 192 al 218)
-
-Ficha Artículo 218
 
 CAPITULO III
 
@@ -2899,8 +2446,6 @@ Para la segunda y tercera sesión, el Plenario se dedicarán de forma exclusiva 
 (Así reformado mediante acuerdo N° 6609-15-16 tomado en sesión ordinaria N° 158 del 14 de marzo del 2016)
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 193 al 219)
-
-Ficha Artículo 219
 
 CAPITULO IV
 
@@ -2919,8 +2464,6 @@ Las fracciones de un solo diputado o diputada tendrán hasta 10 minutos, las fra
 (Así reformado mediante sesión N° 44 del 2 de setiembre de 2021 )
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019, que lo traspasó del antiguo artículo 194 al 220)
-
-Ficha Artículo 220
 
 TÍTULO V
 
@@ -2952,8 +2495,6 @@ Las personas físicas homenajeadas con alguno de los títulos honoríficos será
 
 (Así reformado mediante ssesión ordinaria N° 123 del 13 de febrero de 2024)
 
-Ficha Artículo 221
-
 Artículo 222.- Límite para la concesión de títulos honoríficos
 
 Para las categorías de ciudadano de honor y ciudadano distinguido podrán concederse un máximo de seis títulos honoríficos para tres hombres y tres mujeres, por período constitucional. Los demás únicamente podrán concederse un máximo de cinco, en cada categoría, por período constitucional. El Benemeritazgo de la Patria para personas físicas y el Benemeritazgo de las ciencias, las artes o las letras patrias solo podrá ser otorgado a personas que tengan más de siete años de fallecidas.
@@ -2966,8 +2507,6 @@ Transitorio. -El límite al otorgamiento de honores establecido en el artículo 
 
 (Así reformado mediante ssesión ordinaria N° 123 del 13 de febrero de 2024)
 
-Ficha Artículo 222
-
 Artículo 223.- Término para dictaminar
 
 La Comisión deberá rendir el informe en el plazo de 30 días hábiles a partir del ingreso del expediente al orden del día y se hará del conocimiento de los diputados y diputadas por los medios que disponga la Presidencia de la Asamblea Legislativa. El plazo podrá prorrogarse por única vez, hasta por otros 30 días hábiles.
@@ -2977,8 +2516,6 @@ Durante el plazo de estudio de cada expediente, los diputados podrán acordar la
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 197 al 223)
 
 (Así reformado mediante sesión ordinaria N° 123 del 13 de febrero de 2024)
-
-Ficha Artículo 223
 
 ARTICULO 224.- Deliberación
 
@@ -2990,8 +2527,6 @@ La Comisión encargará a uno de sus integrantes para que prepare y exponga el i
 
 (Así reformado mediante sesión ordinaria N° 123 del 13 de febrero de 2024)
 
-Ficha Artículo 224
-
 ARTICULO 225.- Inclusión en el Orden del Día
 
 Tres días después de haberse emitido el informe, éste se incluirá en el Orden del Día de la sesión correspondiente, en el capítulo respectivo.
@@ -3000,8 +2535,6 @@ Tres días después de haberse emitido el informe, éste se incluirá en el Orde
 
 (Así reformado mediante sesión ordinaria N° 123 del 13 de febrero de 2024)
 
-Ficha Artículo 225
-
 ARTICULO 226.- Votación
 
 En votación, la Asamblea, por simple mayoría, decidirá el asunto y contra lo que resuelva, no habrá recurso de revisión. El Directorio anunciará únicamente si el informe es aprobado o rechazado.
@@ -3009,8 +2542,6 @@ En votación, la Asamblea, por simple mayoría, decidirá el asunto y contra lo 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 200 al 226)
 
 (Así reformado mediante sesión ordinaria N° 123 del 13 de febrero de 2024)
-
-Ficha Artículo 226
 
 CAPITULO II
 
@@ -3034,8 +2565,6 @@ Una vez recibidas las respectivas boletas, y realizada su contabilización, la P
 
 (Así reformado mediante sesión ordinaria N° 55 del 18 de agosto de 2022)
 
-Ficha Artículo 227
-
 Artículo 228.-Falta de mayoría, empate y revisión del resultado. Cuando en una votación no hubiere mayoría absoluta o calificada según lo dispuesto en la Constitución Política, se repetirá esta entre quienes hubiesen obtenido diez o más votos. Si la repetición no resulta con la votación requerida, se hará la votación por tercera vez, solamente entre los dos que hubiesen obtenido el mayor número de votos. En caso de empate se repetirá la votación, y si diere el mismo resultado, se repetirá todo el proceso cuantas veces sea necesario.
 
 De conformidad con lo dispuesto en el artículo 155 del Reglamento, no se admitirán mociones de revisión en los procesos de elección referidos en el artículo 227, y en los de no reelección de magistraturas de la Corte Suprema de Justicia.
@@ -3045,8 +2574,6 @@ La moción de revisión en los procesos de ratificación u objeción de nombrami
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 202 al 228)
 
 (Así reformado mediante sesión ordinaria N° 55 del 18 de agosto de 2022)
-
-Ficha Artículo 228
 
 CAPITULO III
 
@@ -3060,8 +2587,6 @@ Cuando la Contraloría hubiere improbado un egreso de alguno de los Supremos Pod
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 203 al 229)
 
-Ficha Artículo 229
-
 ARTICULO 230. Plazo de la Comisión para rendir informe
 
 La comisión rendirá informe sobre el asunto dentro de los quince días hábiles siguientes y propondrá a la Asamblea un proyecto de acuerdo, aceptando o rechazando el recurso.
@@ -3069,8 +2594,6 @@ La comisión rendirá informe sobre el asunto dentro de los quince días hábile
 Si no hubiere acuerdo unánime en cuanto al informe y proyecto respectivo, se procederá en la forma prevista en el artículo 81 de este Reglamento.
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 204 al 230)
-
-Ficha Artículo 230
 
 CAPITULO IV
 
@@ -3084,15 +2607,11 @@ Sin embargo, la Presidencia ordenará que el proyecto pase a estudio de una Comi
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 205 al 231)
 
-Ficha Artículo 231
-
 ARTICULO 232. Archivo de disposiciones pendientes
 
 El Presidente ordenará archivar, sin más trámite y sin recurso alguno, las proposiciones pendientes de resolución, una vez transcurridos cuatro meses después de su presentación. De igual manera se procederá en cuanto a las comisiones especiales originadas en proposiciones cuyo dictamen o informe no se hubiere producido en el término que, imperativamente, deberá fijársele al hacer su designación.
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 206 al 232)
-
-Ficha Artículo 232
 
 TITULO VI
 
@@ -3134,15 +2653,11 @@ c) Si vencido el plazo para rendir el informe, o su prórroga, aún quedaren moc
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 207 al 233)
 
-Ficha Artículo 233
-
 ARTICULO 234. Inderogabilidad singular
 
 Salvo en los casos en que el propio Reglamento lo establezca expresamente, no serán admisibles las mociones tendientes a su inaplicación a casos concretos.
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 208 al 234)
-
-Ficha Artículo 234
 
 Artículo 234 bis.—Procedimientos Especiales
 
@@ -3151,8 +2666,6 @@ Mediante moción de orden, aprobada por dos tercios de sus votos, la Asamblea Le
 (Así adicionado mediante acuerdo No. 6231-04-05 de 8 de marzo de 2005).
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 208 bis al 234 bis)
-
-Ficha Artículo 234 BIS
 
 CUARTA PARTE
 
@@ -3164,15 +2677,11 @@ El Directorio, al organizar el servicio de la Asamblea, propondrá a ésta, para
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 209 al 235)
 
-Ficha Artículo 235
-
 ARTICULO 236. Pérdida de la remuneración por sesiones irregulares
 
 La Dirección Ejecutiva de la Asamblea tomará las medidas de control necesarias, a fin de que no se remuneren las sesiones que se realicen en forma irregular o con interposición horaria con otras.
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 210 al 236)
-
-Ficha Artículo 236
 
 ARTICULO 237. Publicación y consulta de gastos
 
@@ -3182,15 +2691,11 @@ Los gastos extraordinarios, cuando fueren mayores de mil colones, deberán consu
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 211 al 237)
 
-Ficha Artículo 237
-
 ARTICULO 238. Certificación de documentos
 
 Toda certificación de documentos de la Asamblea se extenderá a costa del interesado y la suscribirá uno de los Secretarios del Directorio o el Director Ejecutivo.
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 212 al 238)
-
-Ficha Artículo 238
 
 ARTICULO 239. Archivo y Biblioteca
 
@@ -3198,15 +2703,11 @@ El Archivo y la Biblioteca de la Asamblea Legislativa constituyen departamentos 
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 213 al 239)
 
-Ficha Artículo 239
-
 ARTICULO 240. Custodia de expedientes
 
 Cada folio de los expedientes deberá ser numerado en el Departamento de Archivo, y bajo ningún concepto se permitirá retirar documentos de esos expedientes. Las copias mimeografiadas de las actas, en lo conducente, les serán agregadas a los expedientes debidamente foliadas. En ningún caso se permitirá la salida de expedientes de la Asamblea, excepto que los proyectos de ley, a que se refieren, tengan que ir a conocimiento de la Corte Suprema de Justicia, por razón de veto basado en inconstitucionalidad, o cuando así lo autorice, expresamente, por escrito, el Presidente de la Asamblea, bajo su responsabilidad. Se exceptúan, asimismo, los expedientes que por haber cumplido diez años de iniciados, deban pasar a custodia de Archivos Nacionales.
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 214 al 240)
-
-Ficha Artículo 240
 
 ARTICULO 241. Préstamo de expedientes originales
 
@@ -3216,15 +2717,11 @@ Los expedientes referidos a proyectos de ley incluidos en el Orden del Día de l
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 215 al 241)
 
-Ficha Artículo 241
-
 ARTICULO 242. Adquisición de libros y documentos
 
 Anualmente se fijará en el presupuesto de la Asamblea una partida para la adquisición de libros y documentos que se estimen pertinentes.
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 216 al 242)
-
-Ficha Artículo 242
 
 DISPOSICIÓN FINAL
 
@@ -3234,31 +2731,21 @@ Este Reglamento regirá a partir del 1o.de mayo de 1982.
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó del antiguo artículo 217 al 243)
 
-Ficha Artículo 243
-
 ARTICULO 57. (Derogado por modificación aprobada en sesión Nº40 del 3 de agosto de 1993).
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó al actual 244. No obstante, desde su publicación original este reglamento tiene un error en cuanto a su numeración)
-
-Ficha Artículo 244
 
 ARTICULO 58. (Derogado por acuerdo Nº609 del 10 de julio de 1964).
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó al actual 245. No obstante, desde su publicación original este reglamento tiene un error en cuanto a su numeración)
 
-Ficha Artículo 245
-
 ARTICULO 62. (Derogado por Acuerdo Nº 2595 del y de julio de 1988).
 
 (Corrida su numeración mediante sesión N° 31 del 4 de marzo del 2019 , que lo traspasó al actual 246. No obstante, desde su publicación original este reglamento tiene un error en cuanto a su numeración)
 
-Ficha Artículo 246
-
 TRANSITORIO I El nombramiento de las primeras Comisiones Legislativas Plenas deberá realizarse dentro de los siete días hábiles siguientes a la aprobación de la presente reforma.
 
 Estas Comisiones deberán instalarse en un plazo no mayor de tres días a partir de su nombramiento.
-
-Ficha Artículo 1 Transitorio
 
 TRANSITORIO II:
 
@@ -3300,42 +2787,28 @@ CONSTITUCIÓN POLÍTICAíError! No se encuentra el origen de la referencia.
 
 Únicamente en el segundo debate se exige la aprobación por votación no menor de los dos tercios del total de los miembros de la Asamblea.
 
-Ficha Artículo 2 Transitorio
-
 TRANSITORIO
 
 En un plazo de 90 días, el Directorio Legislativo adoptará las medidas administrativas necesarias, con el fin de que todos los diputados y las diputadas tengan en sus oficinas el equipo técnico requerido para implementar cualquier nuevo medio de comunicación oficial de los asuntos que el Directorio disponga con base en esta reforma.
 
 Todo sin perjuicio de que los diputados y diputadas que al aprobarse esta reforma cuenten ya con las facilidades materiales requeridas, puedan solicitar y obtener de inmediato al acceso a los medios informáticos de los que hoy dispone la Asamblea, en reemplazo de la comunicación escrita tradicional. En el plazo dicho, todos los interesados deberán tener acceso, como mínimo, al sistema de comunicación por red que hoy existe.
 
-Ficha Artículo 3 Transitorio
-
 TRANSITORIO Para el trámite de la liquidación de los presupuestos del año 1990, y para los demás fines establecidos en el artículo 194,el Presidente integrará la Comisión Permanente Especial para el Control del Ingreso y Gasto Públicos el mismo día en que se apruebe la presente reforma.
 
 La Comisión contará con quince días naturales para rendir su informe sobre la liquidación, y el Plenario lo discutirá de acuerdo con los plazos y los procedimientos establecidos en el artículo 194.
-
-Ficha Artículo 4 Transitorio
 
 Transitorio Único.—El Directorio de la Asamblea Legislativa contará con un plazo de tres años para implementar él o los mecanismos necesarios para el registro de votos en que se deba consignar el nombre completo del legislador o legisladora junto con su votación, en relación con todos los asuntos conocidos por el Plenario Legislativo.
 
 (Así adicionado mediante sesión ordinaria N° 44 del 27 de julio del 2015. La reforma no es clara en cuanto a la numeración de dicho transitorio razón por la cual siguiendo la numeración existente el mismo se adiciona como transitorio quinto)
 
-Ficha Artículo 5 Transitorio
-
 Transitorio.—El límite al otorgamiento de honores establecido en el artículo 222 no se aplicará cuando estos sean otorgados a mujeres, hasta tanto la cantidad de honores otorgada a mujeres sea igual a la cantidad otorgada a hombres, en cada categoría definida en el artículo 226.
 
 (Así adicionado en sesión N° 89 del 22 de octubre de 2019)
-
-Ficha Artículo 6 Transitorio
 
 Transitorio único.– (Derogado en sesión N° 35 del 4 de agosto del 2020)
 
 (Así adicionado en sesión N° 33 del 3° de abril de 2020)
 
-Ficha Artículo 7 Transitorio
-
 Transitorio nuevo.—Para que se prorrogue el plazo establecido en el artículo 80 del Reglamento de la Asamblea Legislativa por 60 días hábiles a todos los proyectos de ley presentados antes del 1° de mayo del 2020 y que a la fecha de entrada en vigencia de este acuerdo no hayan sido votados en forma definitiva en su trámite en comisión.
 
 (Así adicionado en sesión N° 1 del 11 de mayo del 2020)
-
-Ficha Artículo 8 Transitorio
