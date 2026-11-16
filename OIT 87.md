@@ -1,192 +1,229 @@
 ---
-numero: "Convenio OIT 87"
-nombre: "Convenio sobre la libertad sindical y la protección del derecho de sindicación, 1948"
+numero: "Ley 2561-C"
+nombre: "Convenio OIT CIT 87 Libertad Sindical y Derecho de Sindicalización"
 materia: "internacional"
-version_sinalevi: ""
+estado: "vigente"
+version_sinalevi: "2 de 2"
+fecha_version: "11/05/1960"
 ultima_reforma: ""
-enlace: ""
+ente_emisor: "Asamblea Legislativa"
+fecha_norma: "11/05/1960"
+enlace: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40025&param2=42182&param3=1"
+identificacion: "convenio OIT por tipo «Tratados Internacionales» y número"
+catalogo: "Convenio OIT N.º 87 sobre la Libertad Sindical y la Protección del Derecho de Sindicación"
+descargado: "2026-11-16"
 ---
+Ley 2561
+Convenio OIT CIT 87 Libertad Sindical y Derecho de Sindicalización
 
-C087 - Convenio sobre la libertad sindical y la protección del derecho de sindicación, 1948 (núm. 87) 
+De conformidad con el artículo 19, párrafo 5º de la Constitución de la Organización Internacional del Trabajo,
 
-Preámbulo 
+DECRETA:
 
-La Conferencia General de la Organización Internacional del Trabajo: 
+**ARTICULO 1º.-** Ratifícanse los Convenios Nº 29 relativo al trabajo forzoso u obligatorio, 1930; Nº 81 relativo a la inspección del trabajo, 1947; Nº 87 relativo a la libertad sindical y a la protección del derecho de sindicación, 1948; Nº 88 relativo a la organización del servicio de empleo, 1948; Nº 89 relativo al trabajo nocturno de las mujeres empleadas en la industria, (revisado en 1948); Nº 90 relativo al trabajo nocturno de los menores empleados en la industria, (revisado en 1948); Nº 92 relativo a alojamiento de la tripulación a bordo, (revisado en 1949); Nº 94 relativo a las cláusulas de trabajo en los contratos celebrados por las autoridades públicas, 1949; Nº 95 relativo a la protección del salario, 1949; Nº 96 relativo a las agencias retribuidas de colocación, (revisado en 1949); Nº 98 relativo al derecho de sindicación y de negociación colectiva, 1949; Nº 99 relativo a los métodos para la fijación de salarios mínimos en agricultura, 1951; y Nº 100 relativo a la igualdad de remuneración 1951; adoptados por la Conferencia Internacional del Trabajo, cuyos textos auténticos en castellano literalmente dicen:
 
-Convocada en San Francisco por el Consejo de Administración de la Oficina Internacional del Trabajo, y congregada en dicha ciudad el 17 junio 1948 en su trigésima primera reunión; 
+CONFERENCIA INTERNACIONAL DEL TRABAJO
 
-Después de haber decidido adoptar, en forma de convenio, diversas proposiciones relativas a la libertad sindical y a la protección del derecho de sindicación, cuestión que constituye el séptimo punto del orden del día de la reunión; 
+CONVENIO (Núm. 87) RELATIVO A LA LIBERTAD SINDICAL Y A LA PROTECCION DEL DERECHO DE SINDICACION
 
-Considerando que el preámbulo de la Constitución de la Organización Internacional del Trabajo enuncia, entre los medios susceptibles de mejorar las condiciones de trabajo y de garantizar la paz, "la afirmación del principio de la libertad de asociación sindical"; 
+La Conferencia General de la Organización Internacional del Trabajo:
 
-Considerando que la Declaración de Filadelfia proclamó nuevamente que "la libertad de expresión y de asociación es esencial para el progreso constante" ; 
+Convocada en San Francisco por el Consejo de Administración de la Oficina Internacional del Trabajo, y congregada en dicha ciudad el 27 de junio de 1948 en su trigésima primera reunión;
 
-Considerando que la Conferencia Internacional del Trabajo, en su trigésima reunión, adoptó por unanimidad los principios que deben servir de base a la reglamentación internacional, y 
+Después de haber decidido adoptar, en forma de convenio, diversas proposiciones relativas a la libertad sindical y a la protección del derecho de sindicación, cuestión que constituye el séptimo punto del orden del día de la reunión;
 
-Considerando que la Asamblea General de las Naciones Unidas, en su segundo período de sesiones, hizo suyos estos principios y solicitó de la Organización Internacional del Trabajo la continuación de todos sus esfuerzos a fin de hacer posible la adopción de uno o varios convenios internacionales, 
+Considerando que el Preámbulo de la Constitución de la Organización Internacional del Trabajo enuncia, entre los medios susceptibles de mejorar las condiciones de trabajo y de garantizar la paz, "la afirmación del principio de la libertad de asociación sindical";
 
-adopta, con fecha nueve de julio de mil novecientos cuarenta y ocho, el siguiente Convenio, que podrá ser citado como el Convenio sobre la libertad sindical y la protección del derecho de sindicación, 1948: 
+Considerando que la Declaración de Filadelfia proclamó nuevamente que "la libertad de expresión y de asociación son esenciales para el progreso constante";
 
-Parte I. Libertad Sindical 
+Considerando que la Conferencia Internacional del Trabajo, en su trigésima reunión, adoptó por unanimidad los principios que deben servir de base a la reglamentación internacional;
 
-Artículo 1 
+Considerando que la Asamblea General de las Naciones Unidas, en su segunda reunión, hizo suyos estos principios y solicitó de la Organización Internacional del Trabajo la continuación de todos sus esfuerzos a fin de hacer posible la adopción de uno o varios convenios internacionales, adopta, con fecha nueve de julio de mil novecientos cuarenta y ocho, el siguiente Convenio, que podrá ser citado como el Convenio sobre la libertad sindical y la protección del derecho de sindicación, 1948:
 
-Todo Miembro de la Organización Internacional del Trabajo para el cual esté en vigor el presente Convenio se obliga a poner en práctica las disposiciones siguientes. 
+Parte I. Libertad Sindical
 
-# Artículo 2 
+**ARTICULO 1
 
-Los trabajadores y los empleadores, sin ninguna distinción y sin autorización previa, tienen el derecho de constituir las organizaciones que estimen convenientes, así como el de afiliarse a estas organizaciones, con la sola condición de observar los estatutos de las mismas. 
+**Todo Miembro de la Organización Internacional del Trabajo para el cual esté en vigor el presente Convenio se obliga a poner en práctica las disposiciones siguientes.
 
-Artículo 3 
+**ARTICULO 2
 
-1. Las organizaciones de trabajadores y de empleadores tienen el derecho de redactar sus estatutos y reglamentos administrativos, el de elegir libremente sus representantes, el de organizar su administración y sus actividades y el de formular su programa de acción. 
+**Los trabajadores y los empleadores, sin ninguna distinción y sin autorización previa, tienen el derecho de constituir las organizaciones que estimen convenientes, así como el de afiliarse a estas organizaciones, con la sola condición de observar los estatutos de las mismas.
 
-2. Las autoridades públicas deberán abstenerse de toda intervención que tienda a limitar este derecho o a entorpecer su ejercicio legal. 
+**ARTICULO 3
 
-# Artículo 4 
+**1. Las organizaciones de trabajadores y de empleadores tienen el derecho de redactar sus estatutos y reglamentos administrativos, el de elegir libremente sus representantes, el de organizar su administración y sus actividades y el de formular su programa de acción.
 
-Las organizaciones de trabajadores y de empleadores no están sujetas a disolución o suspensión por vía administrativa. 
+2. Las autoridades públicas deberán abstenerse de toda intervención que tienda a limitar este derecho o a entorpecer su ejercicio legal.
 
-# Artículo 5 
+**ARTICULO 4
 
-Las organizaciones de trabajadores y de empleadores tienen el derecho de constituir federaciones y confederaciones, así como el de afiliarse a las mismas, y toda organización, federación o confederación tiene el derecho de afiliarse a organizaciones internacionales de trabajadores y de empleadores. 
+**Las organizaciones de trabajadores y de empleadores no están sujetas a disolución o suspensión por vía administrativa.
 
-# Artículo 6 
+**ARTICULO 5
 
-Las disposiciones de los artículos 2, 3 y 4 de este Convenio se aplican a las federaciones y confederaciones de organizaciones de trabajadores y de empleadores. 
+**Las organizaciones de trabajadores y de empleadores tienen el derecho de constituir federaciones y confederaciones, así como el de afiliarse a las mismas, y toda organización, federación y confederación tiene el derecho a afiliarse a organizaciones internacionales de trabajadores y de empleadores.
 
-# Artículo 7 
+**ARTICULO 6
 
-La adquisición de la personalidad jurídica por las organizaciones de trabajadores y de empleadores, sus federaciones y confederaciones no puede estar sujeta a condiciones cuya naturaleza limite la aplicación de las disposiciones de los artículos 2, 3 y 4 de este Convenio 
+**Las disposiciones de los artículos 2, 3 y 4 de este Convenio se aplican a las federaciones y confederaciones de organizaciones de trabajadores y de empleadores.
 
-# Artículo 8 
+**ARTICULO 7
 
-1. Al ejercer los derechos que se les reconocen en el presente Convenio, los trabajadores, los empleadores y sus organizaciones respectivas están obligados, lo mismo que las demás personas o las colectividades organizadas, a respetar la legalidad. 
+**La adquisición de la personalidad jurídica por las organizaciones de trabajadores y de empleadores, sus federaciones y confederaciones, no puede estar sujeta a condiciones cuya naturaleza limite la aplicación de las disposiciones de los artículos 2, 3 y 4 de este Convenio.
 
-2. La legislación nacional no menoscabará ni será aplicada de suerte que menoscabe las garantías previstas por el presente Convenio. 
+**ARTICULO 8
 
-# Artículo 9 
+**1. Al ejercer los derechos que se les reconocen en el presente
 
-1. La legislación nacional deberá determinar hasta qué punto se aplicarán a las fuerzas armadas y a la policía las garantías previstas por el presente Convenio. 
+Convenio, los trabajadores, los empleadores y sus organizaciones respectivas están obligados, lo mismo que las demás personas o las colectividades organizadas, a respetar la legalidad.
 
-2. De conformidad con los principios establecidos en el párrafo 8 del artículo 19 de la Constitución de la Organización Internacional del Trabajo, no deberá considerarse que la ratificación de este Convenio por un Miembro menoscaba en modo alguno las leyes, sentencias, costumbres o acuerdos ya existentes que concedan a los 
+2. La legislación nacional no menoscabará ni será aplicada de suerte que menoscabe las garantías previstas por el presente Convenio.
 
-miembros de las fuerzas armadas y de la policía garantías prescritas por el presente Convenio. 
+**ARTICULO 9
 
-Artículo 10 
+**1. La legislación nacional deberá determinar hasta qué punto se aplicarán a las fuerzas armadas y a la policía las garantías previstas por el presente Convenio.
 
-En el presente Convenio, el término organización significa toda organización de trabajadores o de empleadores que tenga por objeto fomentar y defender los intereses de los trabajadores o de los empleadores. 
+2. De conformidad con los principios establecidos en el párrafo 8 del artículo 19 de la Constitución de la Organización Internacional del Trabajo, la ratificación de este Convenio por un Miembro no deberá considerarse que menoscaba en modo alguno las leyes, sentencias, costumbres o acuerdos ya existentes que concedan a los miembros de las fuerzas armadas y de la policía garantías prescritas por el presente
 
-Parte II. Protección del Derecho de Sindicación 
+Convenio.
 
-Artículo 11 
+**ARTICULO 10
 
-Todo Miembro de la Organización Internacional del Trabajo para el cual esté en vigor el presente Convenio se obliga a adoptar todas las medidas necesarias y apropiadas para garantizar a los trabajadores y a los empleadores el libre ejercicio del derecho de sindicación. 
+**En el presente Convenio, el término "organización" significa toda organización de trabajadores o de empleadores que tenga por objeto fomentar y defender los intereses de los trabajadores o de los empleadores.
 
-Parte III. Disposiciones Diversas 
+Parte II. Protección del Derecho de Sindicación
 
-Artículo 12 
+**ARTICULO 11
 
-1. Respecto de los territorios mencionados en el artículo 35 de la Constitución de la Organización Internacional del Trabajo, enmendada por el Instrumento de enmienda a la Constitución de la Organización Internacional del Trabajo, 1946, excepción hecha de los territorios a que se refieren los párrafos 4 y 5 de dicho artículo, tal como quedó enmendado, todo Miembro de la Organización que ratifique el presente Convenio deberá comunicar al Director General de la Oficina Internacional del Trabajo, en el plazo más breve posible después de su ratificación, una declaración en la que manifieste: 
+**Todo Miembro de la Organización Internacional del Trabajo para el cual esté en vigor el presente Convenio se obliga a adoptar todas las medidas necesarias y apropiadas para garantizar a los trabajadores y a los empleadores el libre ejercicio del derecho de sindicación.
 
-(a) los territorios respecto de los cuales se obliga a que las disposiciones del Convenio sean aplicadas sin modificaciones; 
+Parte III. Disposiciones Diversas
 
-(b) los territorios respecto de los cuales se obliga a que las disposiciones del Convenio sean aplicadas con modificaciones, junto con los detalles de dichas modificaciones; 
+**ARTICULO 12
 
-(c) los territorios respecto de los cuales es inaplicable el Convenio y los motivos por los que es inaplicable; 
+**1. Respecto de los territorios mencionados en el artículo 35 de la Constitución de la Organización Internacional del Trabajo, enmendada por el Instrumento de Enmienda a la Constitución de la Organización
 
-(d) los territorios respecto de los cuales reserva su decisión. 
+Internacional del Trabajo, 1946, excepción hecha de los territorios a que se refieren los párrafos 4 y 5 de dicho artículo, tal como quedó enmendado, todo Miembro de la Organización que ratifique el presente
 
-2. Las obligaciones a que se refieren los apartados a) y b) del párrafo 1 de este artículo se considerarán parte integrante de la ratificación y producirán sus mismos efectos. 
+Convenio deberá comunicar al Director General de la Oficina Internacional del Trabajo, en el plazo más breve posible después de su ratificación, una declaración en la que manifieste:
 
-3. Todo Miembro podrá renunciar, total o parcialmente, por medio de una nueva declaración, a cualquier reserva formulada en su primera declaración en virtud de los apartados b), c) o d) del párrafo 1 de este artículo. 
+a) los territorios respecto de los cuales se obliga a que las disposiciones del Convenio sean aplicadas sin modificación;
 
-4. Durante los períodos en que este Convenio pueda ser denunciado, de conformidad con las disposiciones del artículo 16, todo Miembro podrá comunicar al Director General una declaración por la que modifique, en cualquier otro aspecto, los términos de cualquier declaración anterior y en la que indique la situación en territorios determinados. 
+b) los territorios respecto de los cuales se obliga a que las disposiciones del Convenio sean aplicadas con modificaciones, junto con los detalles de dichas modificaciones;
 
-Artículo 13 
+c) los territorios respecto de los cuales es inaplicable el Convenio y los motivos por los que es inaplicable;
 
-1. Cuando las cuestiones tratadas en el presente Convenio sean de la competencia de las autoridades de un territorio no metropolitano, el Miembro responsable de las relaciones internacionales de ese territorio, de acuerdo con el gobierno del territorio, podrá comunicar al Director General de la Oficina Internacional del Trabajo una declaración por la que acepte, en nombre del territorio, las obligaciones del presente Convenio. 
+d) los territorios respecto de los cuales reserva su decisión.
 
-2. Podrán comunicar al Director General de la Oficina Internacional del Trabajo una declaración por la que se acepten las obligaciones de este Convenio: 
+2. Las obligaciones a que se refieren los apartados a) y b) del párrafo 1 de este artículo se considerarán parte integrante de la ratificación y producirán sus mismos efectos.
 
-(a) dos o más Miembros de la Organización, respecto de cualquier territorio que esté bajo su autoridad común; o 
+3. Todo Miembro podrá renunciar, total o parcialmente, por medio de una nueva declaración, a cualquier reserva formulada en su primera declaración en virtud de los apartados b), c) o d) del párrafo 1 de este artículo.
 
-(b) toda autoridad internacional responsable de la administración de cualquier territorio, en virtud de las disposiciones de la Carta de las Naciones Unidas o de cualquier otra disposición en vigor, respecto de dicho territorio. 
+4. Durante los períodos en que este Convenio pueda ser denunciado, de conformidad con las disposiciones del artículo 16, todo Miembro podrá comunicar al Director General una declaración por la que modifique, en cualquier otro respecto, los términos de cualquier declaración anterior y en la que indique la situación en territorios determinados.
 
-3. Las declaraciones comunicadas al Director General de la Oficina Internacional del Trabajo, de conformidad con los párrafos precedentes de este artículo, deberán indicar si las disposiciones del Convenio serán aplicadas en el territorio interesado con modificaciones o sin ellas; cuando la declaración indique que las disposiciones del Convenio serán aplicadas con modificaciones, deberá especificar en qué consisten dichas modificaciones. 
+**ARTICULO 13
 
-4. El Miembro, los Miembros o la autoridad internacional interesados podrán renunciar, total o parcialmente, por medio de una declaración ulterior, al derecho a invocar una modificación indicada en cualquier otra declaración anterior. 
+**1. Cuando las cuestiones tratadas en el presente Convenio sean de la competencia de las autoridades de un territorio no metropolitano, el Miembro responsable de las relaciones internaciones de ese territorio, de acuerdo con el gobierno del territorio, podrá comunicar al Director
 
-5. Durante los períodos en que este Convenio pueda ser denunciado de conformidad con las disposiciones del artículo 16, el Miembro, los Miembros o la autoridad internacional interesados podrán comunicar al Director General una declaración por la que modifiquen, en cualquier otro respecto, los términos de cualquier declaración anterior y en la que indiquen la situación en lo que se refiere a la aplicación del Convenio. 
+General de la Oficina Internacional del Trabajo una declaración por la que acepte, en nombre del territorio, las obligaciones del presente
 
-Parte IV. Disposiciones Finales 
+Convenio.
 
-Artículo 14 
+2. Podrán comunicar al Director General de la Oficina Internacional del Trabajo una declaración por la que se acepten las obligaciones de este
 
-Las ratificaciones formales del presente Convenio serán comunicadas, para su registro, al Director General de la Oficina Internacional del Trabajo. 
+Convenio:
 
-# Artículo 15 
+a) dos o más Miembros de la Organización, respecto de cualquier territorio que esté bajo su autoridad común; o b) toda autoridad internacional responsable de la administración de cualquier territorio, en virtud de las disposiciones de la Carta de las Naciones Unidas o de cualquier otra disposición en vigor, respecto de dicho territorio.
 
-1. Este Convenio obligará únicamente a aquellos Miembros de la Organización Internacional del Trabajo cuyas ratificaciones haya registrado el Director General. 
+3. Las declaraciones comunicadas al Director General de la Oficina
 
-2. Entrará en vigor doce meses después de la fecha en que las ratificaciones de dos Miembros hayan sido registradas por el Director General. 
+Internacional del Trabajo, de conformidad con los párrafos precedentes de este artículo, deberán indicar si las disposiciones del Convenio serán aplicadas en el territorio interesado con modificaciones o sin ellas cuando la declaración indique que las disposiciones del Convenio serán aplicadas con modificaciones, deberá especificar en qué consisten dichas modificaciones.
 
-3. Desde dicho momento, este Convenio entrará en vigor, para cada Miembro, doce meses después de la fecha en que haya sido registrada su ratificación. 
+4. El Miembro, los Miembros o la autoridad internacional interesados podrán renunciar, total o parcialmente, por medio de una declaración ulterior, al derecho a invocar una modificación indicada en cualquier otra declaración anterior.
 
-Artículo 16 
+5. Durante los períodos en que este Convenio pueda ser denunciado de conformidad con las disposiciones del artículo 16, el Miembro, los Miembros o la autoridad internacional interesados podrán comunicar al Director General una declaración por la que modifiquen, en cualquier otro respecto, los términos de cualquier declaración anterior y en la que indiquen la situación en lo que se refiere a la aplicación del Convenio.
 
-1. Todo Miembro que haya ratificado este Convenio podrá denunciarlo a la expiración de un período de diez años, a partir de la fecha en que se haya puesto inicialmente en vigor, mediante un acta comunicada, para su registro, al Director General de la Oficina Internacional del Trabajo. La denuncia no surtirá efecto hasta un año después de la fecha en que se haya registrado. 
+Parte IV. Disposiciones Finales
 
-2. Todo Miembro que haya ratificado este Convenio y que, en el plazo de un año después de la expiración del período de diez años mencionado en el párrafo precedente, no haga uso del derecho de denuncia previsto en este artículo quedará obligado durante un nuevo período de diez años, y en lo sucesivo podrá denunciar 
+**ARTICULO 14
 
-este Convenio a la expiración de cada período de diez años en las condiciones previstas en este artículo. 
+**Las ratificaciones formales del presente Convenio serán comunicadas, para su registro, al Director General de la Oficina Internacional del Trabajo.
 
-Artículo 17 
+**ARTICULO 15
 
-1. El Director General de la Oficina Internacional del Trabajo notificará a todos los Miembros de la Organización Internacional del Trabajo el registro de cuantas ratificaciones, declaraciones y denuncias le comuniquen los Miembros de la Organización. 
+**1. Este Convenio obligará únicamente a aquellos Miembros de la Organización Internacional del Trabajo cuyas ratificaciones haya registrado el Director General.
 
-2. Al notificar a los Miembros de la Organización el registro de la segunda ratificación que le haya sido comunicada, el Director General llamará la atención de los Miembros de la Organización sobre la fecha en que entrará en vigor el presente Convenio. 
+2. Entrará en vigor doce meses después de la fecha en que las ratificaciones de dos Miembros hayan sido registradas por el Director
 
-Artículo 18 
+General.
 
-El Director General de la Oficina Internacional del Trabajo comunicará al Secretario General de las Naciones Unidas, a los efectos del registro y de conformidad con el artículo 102 de la Carta de las Naciones Unidas, una información completa sobre todas las ratificaciones, declaraciones y actas de denuncia que haya registrado de acuerdo con los artículos precedentes. 
+3. Desde dicho momento, este Convenio entrará en vigor, para cada
 
-Artículo 19 
+Miembro, doce meses después de la fecha en que haya sido registrada su ratificación.
 
-A la expiración de cada período de diez años, a partir de la fecha en que este Convenio entre en vigor, el Consejo de Administración de la Oficina Internacional del Trabajo deberá presentar a la Conferencia General una memoria sobre la aplicación de este Convenio, y deberá considerar la conveniencia de incluir en el orden del día de la Conferencia la cuestión de la revisión total o parcial del mismo. 
+**ARTICULO 16
 
-# Artículo 20 
+**1. Todo Miembro que haya ratificado el Convenio podrá denunciarlo a la expiración de un período de diez años, a partir de la fecha en que se haya puesto inicialmente en vigor,, mediante una acta comunicada, para su registro, al Director General de la Oficina Internacional del Trabajo.
 
-1. En caso de que la Conferencia adopte un nuevo convenio que implique una revisión total o parcial del presente, y a menos que el nuevo convenio contenga disposiciones en contrario: 
+La denuncia no surtirá efecto hasta un año después de la flecha en que se haya registrado.
 
-(a) la ratificación, por un Miembro, del nuevo convenio revisor implicará, ipso jure, la denuncia inmediata de este Convenio, no obstante las disposiciones contenidas en el artículo 16, siempre que el nuevo convenio revisor haya entrado en vigor; 
+2. Todo Miembro que haya ratificado este convenio y que, en el plazo de un año después de la expiración del período de diez años mencionado en el párrafo precedente, no haga uso del derecho de denuncia previsto en este artículo quedará obligado durante un nuevo período de diez años y, en lo sucesivo, podrá denunciar este Convenio a la expiración de cada período de diez años, en las condiciones previstas en este artículo.
 
-(b) a partir de la fecha en que entre en vigor el nuevo convenio revisor, el presente Convenio cesará de estar abierto a la ratificación por los Miembros. 
+**ARTICULO 17
 
-2. Este Convenio continuará en vigor en todo caso, en su forma y contenido actuales, para los Miembros que lo hayan ratificado y no ratifiquen el convenio revisor. 
+**1. El Director General de la Oficina Internacional del Trabajo notificará a todos los Miembros de la Organización Internacional del Trabajo el registro de cuantas ratificaciones, declaraciones y denuncias le comuniquen los Miembros de la Organización.
 
-Artículo 21 
+2. Al notificar a los Miembros de la Organización el registro de la segunda ratificación que le haya sido comunicada, el Director General llamará la atención de los Miembros de la Organización sobre la fecha en que entrará en vigor el presente Convenio.
 
-Las versiones inglesa y francesa del texto de este Convenio son igualmente auténticas. 
+**ARTICULO 18
 
-Consultarse los correspondientes 
+**El Director General de la Oficina Internacional del Trabajo comunicará al Secretario General de las Naciones Unidas, a los efectos del registro y de conformidad con el artículo 102 de la Carta de las Naciones Unidas, una información completa sobre todas las ratificaciones, declaraciones y actas de denuncia que haya registrado, de acuerdo con los artículos precedentes.
 
-Constitución 
+**ARTICULO 19
 
-Constitution Article 19 
+**A la expiración de cada período de diez años, a partir de la fecha en que este Convenio entre en vigor, el Consejo de Administración de la Oficina Internacional del Trabajo deberá presentar a la Conferencia
 
-Constitution Article 35 
+General una memoria sobre la aplicación de este Convenio, y deberá considerar la conveniencia de incluir en el orden del día de la Conferencia la cuestión de la revisión total o parcial del mismo.
 
-Key Information 
+**ARTICULO 20
 
-Convenio relativo a la libertad sindical y a la protección del derecho de sindicación (Entrada en vigor: 04 julio 1950) 
+**1. En caso de que la Conferencia adopte un nuevo convenio que implique una revisión total o parcial del presente, y a menos que el nuevo convenio contenga disposiciones en contrario:
 
-Adopción: San Francisco, 31ª reunión CIT (09 julio 1948) - Estatus: Instrumento actualizado (Convenios Fundamentales). 
+a) la ratificación, por un Miembro, del nuevo convenio revisor implicará, ipso jure, la denuncia inmediata de este Convenio, no obstante las disposiciones contenidas en el artículo 16, siempre y cuando el nuevo convenio revisor haya entrado en vigor;
 
-El Convenio puede ser denunciado: 04 julio 2030 - 04 julio 2031 
+b) a partir de la fecha en que entre en vigor el nuevo convenio revisor, el presente Convenio cesará de estar abierto a la ratificación por los Miembros.
 
-See also 
+2. Este Convenio continuará en vigor en todo caso, en su forma y contenido actuales, para los Miembros que lo hayan ratificado y no ratifiquen el convenio revisor.
 
-Ratificaciones por país 
+**ARTICULO 21
 
-Sumisiones a las autoridades competentes por país
+**Las versiones inglesa y francesa del texto de este Convenio son igualmente auténticas.
+
+**ARTICULO 2º.-** Refórmanse los artículos 88, 281 y 288 de la ley Nº 2 de 27 de agosto de 1943 (Código de Trabajo), los cuales se leerán así:
+
+"Artículo 88.-También queda absolutamente prohibido:
+
+a) El trabajo nocturno de los menores de dieciocho años y el diurno de éstos en hosterías, clubes, cantinas y en todos los expendios de bebidas embriagantes de consumo inmediato; y b) El trabajo nocturno de las mujeres, con excepción de las trabajadoras a domicilio o en familia, enfermeras, visitadoras sociales, servidoras domésticas y otras análogas quienes podrán trabajar todo el tiempo que sea compatible con su salud física, mental y moral; y de aquellas que se dediquen a labores puramente burocráticas o al expendio de establecimientos comerciales, siempre que su trabajo no exceda de las doce de la noche, y que sus condiciones de trabajo, duración de jornada, horas extraordinarias, etc., estén debidamente estipulados en contratos individuales de trabajo, previamente aprobados por la Inspección General del ramo.
+
+A dichos trabajos prohibidos se aplicará lo dispuesto en el párrafo segundo del artículo 87.
+
+En empresas que presten servicios de interés público y cuyas labores no sean pesadas, insalubres o peligrosas, podrá realizarse el trabajo nocturno de las mujeres durante el tiempo que sea compatible con su salud física, mental y moral, siempre que el Ministerio de Trabajo y Previsión Social, con estudio de cada caso, extienda autorización expresa al patrono respectivo.
+
+A los efectos del presente artículo se considerará período nocturno, para los menores, el comprendido entre las 18 y las 6 horas, y, para las mujeres, el comprendido entre las 19 horas y las 6 horas."
+
+"Artículo 281.-El Ministerio de Trabajo y Previsión Social también solicitará a los Tribunales de Trabajo la disolución de los sindicatos que, a su juicio, dejen de llenar los requisitos que para su constitución señalan los artículos 273, párrafo segundo y 275, inciso e)."
+
+"Artículo 288.-Dos o más sindicatos podrán formar federaciones y dos o más federaciones podrán formar confederaciones, las que se regirán por las disposiciones de este Capítulo en lo que les fuere aplicable.
+
+También tendrán unos y otras el derecho de afiliarse a organizaciones internacionales, de trabajadores o patronales.
+
+Sus estatutos determinarán, además de lo dispuesto en el artículo 275, la forma en que los sindicatos que las componen serán representados en las Asambleas Generales: y el acta constitutiva expresará los nombres y domicilios de todos los sindicatos que las integran. Esta lista deberá repetirse, para los efectos del inciso d) del artículo 279, cada seis meses."
+
+**ARTICULO 3º.-** La ejecución de los Convenios que esta ley ratifica sólo debe entenderse realizada según el tenor de las disposiciones pertinentes de la Constitución Política y demás leyes de la República, así como de las reformas que establece el artículo 2º del Presente
+
+Decreto Legislativo, y de los reglamentos que, conforme a sus atribuciones, dicte el Poder Ejecutivo, sin implicar, fuera de lo previsto en el citado artículo 2º, modificación al ordenamiento jurídico vigente.
+
+**ARTICULO 4º.-** Conforme a lo prescrito por el párrafo 1 del artículo 2 del Convenio Nº 96, relativo a las agencias retribuidas de colocación, acéptanse las disposiciones de la parte II de dicho Convenio.
+
+**ARTICULO 5º.-** Esta ley rige a partir de su publicación.
