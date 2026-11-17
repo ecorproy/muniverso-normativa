@@ -1,0 +1,109 @@
+---
+numero: "Reglamento municipal 84 (09/12/2003)"
+nombre: "Norma General respecto a los rótulos ubicados sobre el espacio público"
+materia: "municipal"
+canton: "San José"
+estado: "vigente"
+version_sinalevi: "2 de 2"
+fecha_version: "06/07/2004"
+ente_emisor: "Municipalidad de San José"
+fecha_norma: "09/12/2003"
+enlace: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=52165&param2=56560&param3=1"
+descargado: "2026-11-16"
+---
+Reglamento municipal 84
+Norma General respecto a los rótulos ubicados sobre el espacio público
+
+MUNICIPALIDAD DE SAN JOSÉ
+
+RÓTULOS UBICADOS SOBRE EL ESPACIO PÚBLICO
+
+Considerando:
+
+1º—Que desde hace una década, la Municipalidad de San José está comprometida con la tarea de renovar - económica, social y ambientalmente el centro de la ciudad de San José, por medio de las acciones conjuntas con las instituciones del Gobierno Central y las organizaciones privadas y en el marco de las propuestas del Plan Director Urbano de San José.
+
+2º—Que el Plan de Gobierno Municipal 2003-2007, tiene varios programas y proyectos relacionados con el tema de revitalización y repoblamiento del centro urbano: Seguridad Ciudadana, Atención de Indigencia, Mejoras de Infraestructura y Equipamiento Urbano (aceras, cordón de caño, calzadas, drenaje pluvial, recipientes de basura, arborización, nomenclatura, mejoras de las fachadas) y Agilización de Tránsito, entre otros. Este plan también prevé un decidido apoyo al esfuerzo de la Compañía Nacional de Fuerza y Luz, de mejorar la seguridad del servicio eléctrico, así como la calidad de la iluminación pública y la estética del ambiente urbano por medio de la canalización subterránea del cableado en las trescientas cuarenta y dos cuadras del centro.
+
+3º—Que al anterior esfuerzo mancomunado, de mejorar la seguridad, la comodidad y la belleza de espacio público del centro, contradice la situación con los rótulos ubicados sobre el espacio público, especialmente sobre las aceras. La Municipalidad comparte la necesidad de la rotulación que ayuda ubicar las edificaciones y actividades económicas por su nombres, sin embargo no puede tolerar la proliferación caótica de estos rótulos, en la mayoría de los casos, incluso, en condiciones de ilegalidad.
+
+4º—Que los integrantes de la Comisión Asesora de Rótulos, creada por el artículo 10, del Reglamento de Publicidad Exterior del Plan Director Urbano, representantes de la Cámara Costarricense de la Construcción, de la Cámara de Publicidad Exterior y de la Cámara de Comerciantes Detallistas y la Dirección de Urbanismo de la Municipalidad de San José, compartimos la necesidad impostergable de mejorar la estética y el ornato de nuestra capital, siendo uno de los elementos urbanos sobresalientes en esta misión, los rótulos y vallas publicitarias.
+
+5º—Que corresponde a la Municipalidad, establecer los parámetros y limitaciones reglamentarias, para lograr el objetivo explicado antes.
+
+6º—Que de conformidad con el artículo 29, de la Ley de Construcciones, la colocación de rótulos o anuncios, requiere de licencia municipal, cuya expedición, a su vez, se encuentra regulada en el Reglamento de Publicidad Exterior del Plan Director Urbano de San José.
+
+7º—Que de conformidad con el artículo 30, de la Ley de Construcciones, están prohibidos los rótulos que atraviesan la vía pública, con las excepciones establecidas en los Reglamentos Municipales correspondientes, de conformidad con los artículos 5º y 6º, de la Ley de Construcciones.
+
+Se acuerda:
+
+1º—Norma general respecto a los rótulos ubicados sobre el espacio público. Instar a los propietarios e inquilinos de las parcelas y edificaciones de las trescientas cuarenta y dos cuadras del centro de San José, que forman parte del Proyecto REDESUB de la Compañía Nacional de Fuerza y Luz, a sustituir, EN SEIS MESES PLAZO, los rótulos ubicados sobre el espacio público y que no tienen la licencia municipal correspondiente, por rótulos adheridos o adosados a la edificación, o bien, trasladar estos rótulos hacia dentro de la propiedad privada.
+
+La zona del Proyecto REDESUB, se delimita:
+
+En el norte: Río Torres, avenida 11 y avenida 9.
+En el sur: Avenida 20.
+En el oeste: Calle 20.
+En el este: Calle 23.
+
+Ver mapa anexo.
+
+(NOTA DE SINALEVI: ver mapas en La Gaceta N° 7 de 12 de enero de 2004, págs. 7 y 8).
+
+Excepciones: Se permitirá, sin pago alguno a la Municipalidad, pero con la licencia correspondiente, la ubicación de los rótulos sobre el espacio público y perpendicularmente al eje de la vía aledaña, únicamente en los siguientes casos:
+
+i. Se permitirá un solo rótulo, que indique el nombre de la edificación, cuando ésta se ubique sobre la línea de propiedad. Lo anterior con el fin de que éstos sirvan para una identificación desde el punto visual del usuario en automóvil. El ancho máximo de este rótulo es de sesenta y cinco centímetros, su punto más alto no puede sobrepasar el nivel del alero del techo y el punto más bajo debe dejar libre, como mínimo, 3.0 metros de altura sobre el nivel de acera.*
+
+*La Municipalidad de San José mediante Acuerdo Municipal N° 114 del 6 de julio de 2004, interpreta y aclara el presente inciso de la siguiente manera:
+
+Referente al rótulo vertical que indique el nombre de la edificación se aclara como interpretación que este nombre corresponderá a:
+
+a) Nombre propio del edificio o, b) Nombre del local o actividad patentada únicamente cuando ésta sea la única actividad del inmueble, donde se ubique el rótulo. Si el edificio alberga más de una actividad patentada solo podrá colocar un rótulo vertical con el nombre del edificio. Esto aplica exclusivamente a casos de actividad única por predio o inmueble.
+
+ii. Se permitirá un solo rótulo por cada actividad patentada*(3), sobre acceso de locales, que indique el nombre de las actividades económicas, cuando la edificación se ubique sobre la línea de propiedad y exista un alero o marquesina que cubre la extensión de este tipo de rótulo*(1). Deberá ubicarse debajo del alero y con el ancho máximo igual a éste; su punto más bajo debe tener, como mínimo, 2.5 metros de altura sobre el nivel de acera. En el caso de que no exista alero o marquesina*(2), el rótulo se ubicará únicamente paralelo sobre la fachada.
+
+*(1)La Municipalidad de San José mediante Acuerdo Municipal N° 114 del 6 de julio de 2004, interpreta y aclara el presente inciso de la siguiente manera:
+
+Entiéndase que la colocación del rótulo permitido a colocarse sobre la fachada no está condicionado a la existencia de la marquesina por lo que al existir o no marquesina en el edifico aún así el patentado podrá ubicar un rótulo que anuncie su actividad; siempre y cuando cumpla con los requerimientos y especificaciones indicadas en este reglamento, como sigue:
+
+a) Para rótulos en fachada se permitirá su colocación adosado a la marquesina siempre y cuando no sobrepase el ancho de la misma o sea su peralte o espesor constructivo original.
+
+b) El rótulo permitido en fachada o marquesina podrá utilizar el ancho de la misma correspondiente al ancho del predio con frente a vía pública; de lo cual solamente un tercio en su ancho o área menor corresponderá a rótulo (equivalente en texto) quedando el restante libre de logos, textos u otros, permitiéndose únicamente la continuidad del rótulo con espacio libre, del mismo color del fondo e iluminación si la incluyere.
+
+c) En el caso de rótulos adosados a la fachada se permitirá un único rótulo por actividad patentada el cual tendrá una altura máxima de hasta 1,50 metros.
+
+d) Los rótulos adosados en cualquier parte de la fachada no podrán tener un grosor superior a los 20 centímetros, previéndose este grosor cuando se requiere de iluminación por lo que esta distancia será la máxima de saliente permitida en cualquiera de los casos. (ver croquis de corte transversal, para referencia).
+
+*(2) En caso de no existir marquesina se permitirá la colocación de toldos de protección climática en los cuales se aplicará igualmente lo correspondiente a área de rótulos permitida para los casos anteriores, que equivale a un tercio de ancho del toldo con frente a vía pública.
+
+*(3) Se aclara que lo permitido es un solo rótulo por cada actividad patentada quedando a selección del administrado la ubicación del mismo entre las cinco opciones permitidas a saber:
+
+Un rótulo con el nombre del edificio o local único.
+Un rotulo sobre fachada o
+Un rótulo adosado a la marquesina o
+Un rótulo colgante perpendicular, que no sobrepase el ancho de la marquesina o bien. Un rótulo en el toldo.
+
+iii. En caso de que existan rótulos sobre el espacio público, cuyo mensaje publicitario no se relacione con la actividad patentada por la Municipalidad, será responsabilidad del propietario del inmueble.
+
+iv. Los rótulos podrán incluir el logo de identificación de la empresa patrocinadora.
+
+Las regulaciones anteriores se aplicarán a cada frente del inmueble a calle pública.
+
+1. Sanciones:
+
+i. La responsabilidad por el cuido del rótulo con el nombre de la edificación, es del propietario del inmueble.
+
+i. a) En caso de no tener licencia, o estar ésta vencida, deberá retirar o demoler el rótulo o valla, de no hacerlo, la Municipalidad lo mandará a demoler, cargando el costo al propietario del inmueble.
+
+i. b) En caso de que el rótulo esté en mal estado, se procederá de acuerdo a lo establecido en los artículos 75 y 76, del Código Municipal y en el capítulo tres "Conservación de fachadas del Reglamento del procedimiento para el mejoramiento de fachadas y el cobro de construcción de obras y servicios realizados por la municipalidad, como consecuencia de la omisión a los deberes de los propietarios o poseedores de inmuebles, localizados en el Cantón Central de San José", publicado en el Alcance N° 56, a La Gaceta Nº 225, del 21 de noviembre de 2003.
+
+ii. La responsabilidad por el cuido del rótulo con el nombre de la actividad económica es del patentado. En caso de no tener licencia o encontrarse ésta vencida, o en mal estado, la Municipalidad procederá de acuerdo a lo establecido en el artículo 14, de la Ley Nº 6890, que indica la cancelación de la patente comercial y el cierre de la actividad hasta que ésta se ponga a derecho.
+
+iii. En el caso de rótulos o vallas sobre el espacio público, en que el mensaje publicitario no se relacione con la actividad patentada por la Municipalidad, se ordenará la demolición o retiro, sin perjuicio de la facultad de la Municipalidad de mandar a retirar y demoler, cargando el costo al propietario del inmueble.
+
+4. Transitorio:
+
+i. Las disposiciones de este acuerdo regirán a partir de su publicación en La Gaceta.
+
+ii. Las licencias vigentes de rótulos, ubicados sobre el espacio público, caducarán al cumplirse cinco años plazo a partir de la fecha de su emisión".
+
+Acuerdo Firme. Nº 8 artículo III, sesión ordinaria Nº 84, del 9 de diciembre del 2003.
