@@ -1,0 +1,91 @@
+---
+numero: "Reglamento municipal 281 (10/07/2013)"
+nombre: "Reglamento de Metodología de Fijación de Tasa Municipales del Cantón Central de Puntarenas"
+materia: "municipal"
+canton: "Puntarenas"
+estado: "vigente"
+version_sinalevi: "2 de 2"
+fecha_version: "28/09/2015"
+ente_emisor: "Municipalidad de Puntarenas"
+fecha_norma: "10/07/2013"
+enlace: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=75343&param2=102139&param3=1"
+descargado: "2026-11-16"
+---
+Reglamento municipal 281
+Reglamento de Metodología de Fijación de Tasa Municipales del Cantón Central de Puntarenas
+
+MUNICIPALIDAD DE PUNTARENAS
+
+Acordado por el Concejo Municipal en la sesión ordinaria Nº 281 celebrada el día 10 de julio 2013 artículo 7 inciso A.
+
+REGLAMENTO DE METODOLOGÍA
+
+DE FIJACIÓN DE TASAS MUNICIPALES
+
+DEL CANTÓN CENTRAL DE PUNTARENAS
+
+Considerando:
+
+I.—Que a través de los años y bajo los diferentes cuerpos normativos que se han promulgado como Código Municipal, se ha regulado el cobro de las tasas por la prestación de los servicios municipales, encontrándose normado actualmente en el Código vigente bajo su numeral 74.
+
+II.—Que en todos estos instrumentos normativos se ha definido el listado de servicios por los cuales es posible cobrar dichas tasas.
+
+III.—Que en el año 2010, concretamente bajo el artículo 58 inciso a) de la Ley para la Gestión Integral de Residuos, ley número 8839, de 24 de junio de 2010, el artículo 74 recién citado fue modificado.
+
+IV.—Que es innegable que una Administración Pública como la Municipal, que es evidentemente de préstamo de servicios, debe cumplir con lo que indica el numeral cuarto de la Ley General de la Administración Pública, ya que su actividad debe estar sujeta a los principios fundamentales del servicio público, para asegurar su continuidad, su eficiencia, su adaptación a todo cambio en el régimen legal o en la necesidad social que satisfacen y la igualdad en el trato de los destinatarios, usuarios o beneficiarios, de modo que para cumplir tal mandato, se hace necesario proceder a reglamentar la metodología de cálculo para la actualización de las tasas por concepto de los servicios municipales y así poder satisfacer las necesidades básicas de los usuarios y el interés general.
+
+V.—Que aunado a lo anterior, encontramos que el artículo 12 de la Ley General de la Administración Pública en su inciso primero reza así:
+
+“1.  Se considerará autorizado un servicio público cuando se haya indicado el sujeto y el fin del mismo. En este caso el ente encargado podrá prestarlo de acuerdo con sus propios reglamentos sobre los demás aspectos de la actividad, bajo el imperio del Derecho.”
+
+Siendo este el principio de regulación mínima en el servicio público, según el cual debe haber un sujeto y un fin para el mismo, de manera que los demás elementos se pueden crear por reglamento, por lo que la reserva de ley es solo para sujeto y fin y haciendo una relación de esta norma con el mencionado artículo 74 y el 70, del Código Municipal, así como el 169 de la Carta Fundamental, se vislumbra claramente que han quedado definidos tanto el sujeto como el fin de tales servicios públicos en el canon 74 actual y existiendo aún hoy la atribución de las Municipalidades en el dictado y aprobación de las tasas municipales y vislumbrándose un interés público superior y una obligación también superior de mantener resguardados la salud y el derecho a un ambiente sano y ecológicamente equilibrado, por parte de los gobiernos locales brindando servicios públicos de calidad, eficientes, continuos, generales, es que se hace necesario dictar la regulación para actualizar las tasas de todos y cada uno de los servicios municipales.
+
+VI.—Que en documento denominado “La Contraloría General de la República, aclara algunos puntos sobre las modificaciones hechas por Ley Nº 8823 “Reforma varias leyes sobre participación de Contraloría General de la República para la simplificación y Fortalecimiento de la Gestión Pública” indica lo siguiente:
+
+ii   La fijación de las tasas y contribuciones especiales por servicios municipales, corresponde a las municipalidades respectivas, sin que la tarifa resultante requiera en lo sucesivo la aprobación de la Contraloría General de la República (derogatoria del Transitorio VIII de la Ley No 4755 por el artículo 51 de la Ley Nº 8823)”.
+
+Por tanto,
+
+Se recomienda 1º—Aprobar el Reglamento de Metodología de Fijación de Tasa Municipales del Cantón Central de Puntarenas.
+
+**Artículo 1º—De **los parámetros de fijación en el cobro. Por los servicios que preste la municipalidad, cobrará a los usuarios o propietarios del inmueble tasas y precios que se fijarán al menos una vez al año, tomando en cuenta los costos, así como las inversiones futuras necesarias para lograr una gestión integral de residuos en el municipio y cumplir las obligaciones establecidas en la Ley para la gestión integral de residuos, más un diez por ciento (10%) de utilidad para el desarrollo. Para otros servicios y el mantenimiento de parques, zonas verdes y sus respectivos servicios los montos se fijarán tomando en consideración el costo efectivo de lo invertido por la municipalidad para mantener cada uno de los servicios urbanos, dicho monto se incrementará en un diez (10%) de utilidad para su desarrollo, tal monto se cobrará proporcionalmente entre los vecinos del cantón. según la cantidad de metros lineales de frente de cada propiedad para el servicio de Aseo de Vías y Sitios Públicos, para el servicio de Disposición Final de Basura, Recolección de Basura se usará la cantidad de usuarios y la aplicación de las unidades índice, el servicio de Mantenimiento de Parques y Zonas Verdes usará como base los metros lineales de frente de las propiedades, en los distritos que se brinde el servicio, de acuerdo a las áreas con que cuenten los parques, en cuanto al cementerio se tomará en cuenta los metros cuadrados de ocupación para los precios de arrendamiento y mantenimiento, mientras para los precios de exhumación e inhumación se usará las horas trabajador utilizadas y los materiales consumidos ya sea este en tierra, nicho o lápida, las mismas deberán ser aprobadas por el Concejo Municipal. Una vez fijados, entrarán en vigencia a partir del trimestre más reciente, después de su publicación en el Diario Oficial La Gaceta.
+
+(Así reformado en sesión N° 488 del 28 de setiembre de 2015)
+
+**Artículo 2º—Sectorización **de los servicios y factores de ponderación. Para cada una de las tasas por prestación de servicios brindados por este municipio y tomando en cuenta la absorción de recursos e intensidad en la prestación del servicio, se dispone la siguiente sectorización:
+
+Para los servicios de recolección separada, transporte, valorización, tratamiento y disposición final adecuada de los residuos ordinarios:
+
+a) Sector residencial.
+
+b) Sector comercial A) B) C) D).
+
+Para el servicio de aseo de vías:
+
+a) Sector residencial y  comercial.
+
+En el caso del servicio de mantenimiento de parques y zonas verdes, se establece de acuerdo a lo parques que se dará el servicio, respecto a la ubicación en los distritos.
+
+En razón de la anterior sectorización, los factores empleados para la determinación del costo por metro lineal de frente son los que se detallan:
+
+Para los servicios de recolección separada, transporte, valorización, tratamiento y disposición final adecuada de los residuos ordinarios:
+
+a) Sector residencial: factor de   = 1 b) Sector comercial D: 3.0  veces el factor de ponderación c) Sector comercial C: 6.0 veces el factor de ponderación d) Sector comercial B: 9.0 veces el factor de ponderación e) Sector comercial A: 12.0 veces el factor de ponderación
+
+**Artículo 3º—Metodología **de cálculo de las tasas por recolección separada, transporte, valorización, tratamiento y disposición final de residuos ordinarios. Esta tasa se fijará partiendo del costo efectivo total de este servicio más las inversiones futuras necesarias para lograr una gestión integral de residuos en el municipio y cumplir las obligaciones establecidas en la Ley para la gestión integral de residuos, más un diez por ciento (10%) de utilidad para el desarrollo, el cual se divide entre el total de unidades índice, resultante de todos los sectores correspondientes a este servicio, el valor resultante corresponde a la tarifa por unidad base, el cual corresponde al sector residencial. Tratándose del sector comercial la tarifa resulta de tomar la tarifa de unidad índice (residencial), multiplicada por 3.0 para la clasificación Comercial D, por 6.0 para la clasificación Comercial C , por 9.0 para la clasificación Comercial B, y por 12.0 veces para la clasificación Comercial A.
+
+El cobro por el servicio de recolección de desechos se hará siempre que se preste el servicio y exista construcción, pero cobrando sobre la totalidad de tarifa, independientemente que se encuentre habitada, o alquilada, igual corresponde a los comercios, se encuentre utilizado o no.
+
+(Así reformado en sesión N° 488 del 28 de setiembre de 2015)
+
+**Artículo 4º—Metodología **para el cálculo de las otras tasas. En el caso de la tasa de aseo de vías, se fijará partiendo del costo más un 10% de utilidad para desarrollarlos, el cual se divide entre la suma de metros lineales registrados en el Sistema de Facturación al momento del estudio, el valor resultante corresponde a la tarifa base por metro lineal de frente.
+
+Para el caso del servicio de mantenimiento de parques y zonas verdes, la tasa se fijará partiendo del costo más un 10% de utilidad para el desarrollarlos, el cual se distribuye entre los metros cuadrados de los parques que se da el servicio, una vez que se tiene distribuido el costo total por distrito, este valor se divide entre los metros lineales de frente de las propiedades correspondiente a los distritos donde se da el servicio, dando como resultante un costo por metro lineal.
+
+(Así reformado en sesión N° 488 del 28 de setiembre de 2015)
+
+Aprobado ocho votos aplicado el artículo 45 del Código Municipal este es definitivamente aprobado por ocho votos, voto negativo de la Sra. Reg. Julieta Campos Sequeira.
+
+Rige a partir de su publicación
+
+Puntarenas, 11 de julio del 2013.
