@@ -1,0 +1,341 @@
+---
+numero: "Reglamento municipal 11 (13/05/2013)"
+nombre: "Reglamento de Adquisiciones y Proveeduría Municipal de la Municipalidad de Golfito"
+materia: "municipal"
+canton: "Golfito"
+estado: "vigente"
+version_sinalevi: "2 de 2"
+fecha_version: "10/09/2014"
+ente_emisor: "Municipalidad de Golfito"
+fecha_norma: "13/05/2013"
+enlace: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=75056&param2=98893&param3=1"
+descargado: "2026-11-16"
+---
+Reglamento municipal 11
+Reglamento de Adquisiciones y Proveeduría Municipal de la Municipalidad de Golfito
+
+MUNICIPALIDAD DE GOLFITO
+
+El Concejo Municipal de la Municipalidad del cantón de Golfito, conforme a las potestades conferidas por los artículos 4 inciso a), 13 incisos c) y e) y 17 incisos a) y h) del Código Municipal, Ley Nº 7794 y el artículo 170 de la Constitución Política, mediante acuerdo contenido en el Capítulo Segundo- Informes en su artículo Nº 2, de la sesión extraordinaria Nº 11, celebrada el 13 de mayo del 2013, acuerda en firme y de forma unánime emitir el:
+
+REGLAMENTO DE ADQUISICIONES Y PROVEEDURÍA (Modificada su denominación mediante sesión ordinaria N° 35 del 10 de setiembre del 2014. Anteriormente se llamaba: "REGLAMENTO DE PROVEEDURÍA MUNICIPAL")
+
+CAPÍTULO I
+
+Disposiciones generales
+
+**Artículo 1º—Objeto. **El presente Reglamento se dicta con el fin de regular los procedimientos que regirán en las diferentes etapas de la actividad contractual que despliegue la Municipalidad de Golfito, a través del Departamento de Proveeduría, de conformidad con el Código Municipal y sus reformas, la Ley de Contratación Administrativa, el Reglamento a la Ley de Contratación Administrativa y sus reformas y el Reglamento sobre el Refrendo de las Contrataciones de la Administración Pública.
+
+**Artículo 2º—Nomenclaturas. **Para efectos de este Reglamento se entiende por:
+
+Concejo: Concejo de la Municipalidad de Golfito.
+
+CGR: Contraloría General de la República.
+
+La Municipalidad: Municipalidad de Golfito.
+
+La Proveeduría: El Departamento de Proveeduría Municipal.
+
+El Código: El Código Municipal. Ley Nº 7794.
+
+RRCAP: Reglamento sobre el Refrendo de las Contrataciones de la Administración Pública.
+
+Resolución de la Contraloría General de la República Nº R-CO-33 del 8 de marzo del 2006.
+
+**Artículo 3º—Este **Reglamento será aplicable -sin excepción- a todos los procedimientos de contratación, así como en los procesos de almacenamiento y distribución o tráfico interno de bienes que promueva la Municipalidad por medio de la Proveeduría.
+
+**Artículo 4º—La **Bodega Municipal forma parte de la organización de Proveeduría Municipal.
+
+CAPÍTULO II
+
+Funciones del Departamento de Proveeduría
+
+**Artículo 5º—Definición **funcional de la proveeduría. La proveeduría será la dependencia municipal competente para tramitar los procedimientos para la adquisición de bienes y servicios que interesen a la Municipalidad, así como para realizar los procesos de control y almacenamiento, mediante la Bodega Municipal.
+
+**Artículo 6º—Funciones **específicas de la Proveeduría. La Proveeduría tendrá las siguientes funciones:
+
+a)         Recibir, tramitar y custodiar toda clase de documentos y expedientes relacionados con los procedimientos de contratación, la adquisición de bienes y/o servicios.
+
+b)         Atender consultas que le formulen las diversas personas públicas o privadas relacionadas con la adquisición de bienes y servicios y demás establecidas en el presente Reglamento.
+
+c)         Administrar y supervisar eficiente y eficazmente los procesos de licitación, remate y contratación directa, desde el ingreso de la solicitud de trámite (pedido) al Departamento, confección de la orden de compra, hasta el finiquito de la obra o entrega del bien y/o servicio.
+
+d)         Coordinar con la Unidad de Presupuesto, la Asesoría Legal y la unidad solicitante del bien y/o servicio, todos los aspectos de control que garanticen la correcta aplicación de las normas y principios que regulan el proceso de contratación administrativa.
+
+e)         Administrar el proceso para la liberación o ejecución de garantías de participación y de cumplimiento.
+
+f)          Efectuar los trámites de exoneración, importación y desalmacenaje de los materiales y suministros importados en coordinación con la Asesoría Legal.
+
+g)         Emitir la recomendación de adjudicación, declaratoria de desierto en los procedimientos de contratación administrativa, de conformidad con el Reglamento que rige esta materia y siguiendo las disposiciones pertinentes emanadas en el Código Municipal y la Ley General de la Administración Pública.
+
+h)         Preparar para la firma de la Alcaldía, las solicitudes ante la Contraloría General de la República para la autorización de contrataciones directas o para promover un proceso de contratación sin contar con el contenido presupuestario correspondiente y todos aquellos oficios relacionados con los procedimientos de compra.
+
+i)          De conformidad con los supuestos estipulados en la Ley de Contratación Administrativa y su Reglamento, previo el correspondiente estudio, recomendar a la Alcaldía o al Concejo Municipal, según corresponda, una respuesta para los recursos de objeción y/o revocatoria de las resoluciones de adjudicación, así como responder las audiencias de la Contraloría General de la República en esta materia.
+
+j)          Coordinar lo pertinente con las otras unidades administrativas internas, cuando así lo requiera, para que se tomen las acciones apropiadas que en derecho correspondan, observándose en tal caso, las normas y trámites del debido proceso, en situaciones tales como incumplimientos por parte de los contratistas, resoluciones o modificaciones contractuales, ejecución de garantías, sanciones administrativas, reclamaciones de orden civil o penal.
+
+k)         Elaborar el programa de adquisiciones integrado y sus modificaciones, de acuerdo con lo dispuesto en los artículos 6º de la Ley de Contratación Administrativa, y 7º del Reglamento a la Ley de Contratación Administrativa.
+
+l)          Analizar las ofertas recibidas, con base en los términos que contemple el cartel, y aplicar los parámetros de evaluación sobre la base de las ofertas técnicas y legalmente elegibles.
+
+m)        Emitir el documento de ejecución presupuestaria denominado orden de compra.
+
+n)         La Proveeduría deberá actualizar y utilizar el Manual de Procedimientos y su personal se ajustará en forma rigurosa a las disposiciones que contenga dicho manual. Esta misma función se aplica para la Bodega Municipal, en cuanto a la aplicación del manual correspondiente a esa dependencia.
+
+o)         Incluir en el Sistema Integrado de la Actividad Contractual (SIAC) de la Contraloría General de la República, toda la información referente a los diferentes procedimientos de contratación administrativa que realiza la municipalidad en la forma y plazos establecidos.
+
+p)         Constituir y mantener actualizado el Registro de Proveedores de la Municipalidad.
+
+CAPÍTULO III
+
+Sobre la adquisición de bienes y servicios
+
+SECCIÓN I
+
+Planeación y programación de compras
+
+**Artículo 7º—Solicitud **de bienes y servicios. Los procedimientos para las compras de bienes o la contratación de servicios, se originarán con la solicitud de necesidades presentadas por las dependencias interesadas a la Proveeduría. En dichas solicitudes deberá especificarse claramente al menos lo siguiente:
+
+a)       Descripción completa de la mercadería o servicio requerido.
+
+b)       Costo estimado c)       Cantidad solicitada.
+
+d)       Fecha probable del consumo del bien.
+
+e)       Duración probable del consumo del bien y/o servicio.
+
+f)        Justificación de la necesidad a satisfacer (continuidad en el servicio o fin público).
+
+g)       Estar contemplado en el Plan de Adquisiciones.
+
+h)       Las especificaciones técnicas del bien o términos de referencia del servicio, aprobadas por el profesional responsable, según corresponda a cada área.
+
+i)         El aval de la Bodega Municipal en solicitudes de compra de herramientas, repuestos, accesorios, material y productos de uso en la construcción y mantenimiento; cuando se trate de equipo especializado, el visto bueno del órgano técnico.
+
+j)        Todo lo que consigne el formulario de Requisición de Bienes y Servicios.
+
+La Proveeduría, devolverá las solicitudes que incumplan con uno o más de los requisitos indicados.
+
+**Artículo 8º—Formalidades **del pedido. La respectiva requisición deberá estar autorizada por la jefatura de la dependencia solicitante quien será el funcionario responsable de verificar y justificar la efectiva necesidad del bien, servicio u obra.
+
+**Artículo 9º—Agrupación **de pedidos. La Proveeduría agrupará los pedidos de las diversas dependencias que versen sobre la misma clase de objetos, siempre que la naturaleza y circunstancias lo permitan, para ello fijará plazos al año para la recepción de pedidos con el objeto de lograr las mejores condiciones y evitar a la vez un fraccionamiento ilegítimo, para ello las dependencias respectivas deberán programar sus necesidades de manera tal que las contrataciones inicien en el plazo fijado. Esos plazos serán fijados por la Proveeduría mediante la emisión de circulares.
+
+**Artículo 10.—**Requisitos previos. Previo a la decisión inicial de contratación, el funcionario encargado del presupuesto determinará, mediante un oficio, la existencia de la partida presupuestaria (contenido) siendo requisito indispensable que en esa decisión inicial se indique expresamente los recursos presupuestarios con que se atenderán las obligaciones derivadas de la contratación.
+
+**Artículo 11.—**Trámite para la satisfacción de necesidades particulares. Para atender una necesidad calificada o de naturaleza particular, se podrá iniciar el procedimiento de contratación sin contar con los recursos presupuestarios suficientes, previa aprobación de la Contraloría General de la República. Para lo pertinente, la Proveeduría, en coordinación con la unidad usuaria, determinará la necesidad de efectuar este procedimiento. En aquellos casos en que la ejecución se realice en varios períodos presupuestarios, el solicitante de la contratación deberá realizar las gestiones pertinentes ante la Unidad de Presupuesto Municipal para asegurar la existencia del contenido presupuestario con el propósito de garantizar el pago de las obligaciones.
+
+**Artículo 12.—**Inicio del procedimiento. Una vez que se cuente con la solicitud de compra o pedido debidamente confeccionado, con las especificaciones técnicas o términos de referencia aprobados y el contenido presupuestario correspondiente, la Proveeduría dará inicio al procedimiento de contratación respectivo.
+
+**Artículo 13.—**Estimación del contrato y determinación de procedimiento. La estimación del contrato y la determinación del procedimiento a seguir para su celebración, será responsabilidad de la Proveeduría. La estimación debe efectuarse de conformidad con los parámetros que indica la Ley de Contratación Administrativa en el artículo 31 y la determinación del procedimiento se regirá por la resolución que dicta la Contraloría General de la República a más tardar la segunda quincena de febrero de cada año, en donde se incorporan los parámetros vigentes para cada órgano y cada ente relacionados con el artículo 27 de la Ley de Contratación Administrativa. Al efecto de lograr la determinación del procedimiento que corresponda, la Proveeduría deberá procurarse un sondeo de mercado que le permita lograr una estimación económica del objeto de contratación, lo más ajustada a la realidad que le sea posible. Cuando exista una partida presupuestaria definida, se tomará como base para la estimación del procedimiento.
+
+**Artículo 14.—**Conformación del expediente. Una vez que se adopte la decisión de iniciar el procedimiento de contratación se formará un expediente, al cual se le incorporarán los estudios previos que motivaron el inicio de éstos cuando corresponda y todas las actuaciones internas o externas relacionadas con la contratación.
+
+**Artículo 15.—**Plan de adquisiciones.
+
+15.1      Los programas de adquisiciones de cada año, deberán ser confeccionados conjuntamente con el Plan Operativo Anual y el Presupuesto, todo de acuerdo a los lineamientos que establezca al respecto la Contraloría General de la República.
+
+15.2      La Proveeduría, consolidará los programas de adquisiciones, conteniendo la información solicitada en el artículo 7º del Reglamento a la Ley de Contratación Administrativa, y coordinará que sea publicado en el Diario Oficial La Gaceta, en el primer mes de cada periodo presupuestario.
+
+15.3      Cualquier modificación al programa de adquisiciones, deberá remitirse al Departamento de Proveeduría, mediante solicitud formal autorizada por el funcionario encargado de cada área, en la que consten las razones que motivan la modificación.
+
+15.4      La Proveeduría, no tramitará las necesidades no incluidas en el programa de adquisiciones y sus modificaciones, en todo caso, los funcionarios que promuevan un trámite de contratación sin que la necesidad estuviere contemplada en el programa de adquisiciones quedarán sujetos al régimen disciplinario respectivo.
+
+SECCIÓN II
+
+Principios generales de la Contratación Administrativa
+
+**Artículo 16.—**La contratación administrativa se encuentra regida por una serie de principios que la orientan y regulan. La observación de esos principios es de acatamiento obligatorio para todos los órganos que intervienen en los diversos procesos de contratación. La Sala Constitucional y la Contraloría General de la República han definido esos principios y su contenido, según el siguiente detalle:
+
+16.1.     Principio de eficiencia. Los procedimientos de contratación administrativa persiguen seleccionar la oferta que más convenga a la satisfacción del interés general y al cumplimiento de los fines y cometidos de la administración, en todas las etapas de los procedimientos de contratación prevalecerá el contenido sobre la forma. Los actos y las actuaciones de las partes se interpretarán de forma que se favorezca su conservación y se facilite adoptar la decisión final en condiciones favorables para el interés general.
+
+16.2.     Principio de igualdad y libre competencia. En los procedimientos de contratación administrativa, se respetará la igualdad de participación de todos los oferentes potenciales.
+
+16.3.     Principio de publicidad. Los procedimientos de contratación se darán a la publicidad por los medios correspondientes a su naturaleza, buscando asegurar a los administrados la máxima certeza de la libre concurrencia en condiciones de absoluta igualdad en los procedimientos de la contratación administrativa y que consiste en que la invitación al concurso licitatorio se haga en forma general, abierta y lo más amplia posible a todos los oferentes potenciales.
+
+16.4.     Principio de legalidad o transparencia. La Municipalidad, en todo procedimiento de contratación administrativa que promueva, solo podrá realizar aquellos actos que autorice el ordenamiento jurídico. Los procedimientos deben estar definidos en forma precisa cierta y concreta, de modo que la Municipalidad no pueda obviar las reglas predefinidas.
+
+16.5.     Principio de seguridad jurídica. Es derivado del anterior, puesto que al sujetarse los procedimientos de la contratación administrativa a las reglas contenidas en las disposiciones normativas, se da seguridad y garantía a los oferentes de su participación.
+
+16.6.     Principio de formalismo. En cuanto se exijan formalidades, éstas actúan a modo de controles endógenos y de auto fiscalización de la acción administrativa, de manera que no se tengan como obstáculo para la libre concurrencia.
+
+16.7.     Principio de equilibrio de intereses. Es necesario que en estos procedimientos exista una equivalencia entre los derechos y obligaciones que se derivan para el contratante y la administración, de manera que se tenga al contratista como colaborador del estado en la realización de los fines públicos de éste.
+
+16.8.     Principio de buena fe. En lo concerniente a la Contratación Administrativa, se considera como un principio moral básico que la administración y oferentes actúen de buena fe, en donde las actuaciones de ambas partes estén caracterizadas por normas éticas claras, donde prevalezca el interés público sobre cualquier otro.
+
+16.9.     La Municipalidad -como gobierno local- cuenta con los poderes y prerrogativas necesarias para introducir modificaciones a los contratos, con el objeto de que cumplan con el fin público asignado, principio que contempla el artículo 200 del Reglamento de Contratación Administrativa.
+
+16.10.   Principio de intangibilidad patrimonial. La Municipalidad está siempre obligada a mantener el equilibrio financiero del contrato, haciendo que se cumpla con lo regulado expresamente en los artículos 18 y 19 de la Ley de Contratación Administrativa.
+
+16.11.   Principio de control de los procedimientos. Este principio se subdivide en:
+
+a)         Control Jurídico, el cual tiene como propósito comprobar que ninguna entidad o funcionario, realice acto alguno o asuma conductas que transgredan la Ley;
+
+b)         Control Contable, que es el examen o juzgamiento de las cuentas de las dependencias y de los funcionarios que tienen a su cargo la administración de fondos y bienes del Estado;
+
+c)         Control Financiero, consiste en la fiscalización de la correcta percepción de ingresos y de la legalidad del gasto público;
+
+d)         Control Económico, se realiza sobre la eficiencia y la eficacia de la gestión financiera, es decir, sobre los resultados de dicha gestión, la determinación del cumplimiento de las metas establecidas y el aprovechamiento óptimo de los recursos.
+
+SECCIÓN III
+
+Registro de Proveedores
+
+**Artículo 17.—**El Registro de Proveedores. La Municipalidad llevará un Registro, en cual podrán inscribirse todos los interesados en proveer bienes o servicios. Deberá contener información básica del Proveedor, indicación del lugar o medio de comunicación para recibir invitaciones, lista actualizada de los bienes o servicios que ofrece y cualquier otra información que determine la Proveeduría. La inscripción se rige por un principio de gratuidad y todo interesado podrá realizarla en el momento en que así lo desee.
+
+**Artículo 18.—**Actualización del Registro. El Departamento de Proveeduría tendrá bajo su responsabilidad conformar y mantener actualizado el Registro de Proveedores. Invitará, al menos una vez al año, a todos los interesados a inscribirse o a actualizar su información en el Registro de Proveedores. La invitación se hará en el Diario Oficial La Gaceta, y si se estima necesario, también se podrá publicar en un diario de circulación nacional.
+
+**Artículo 19.—**Normativa para regular el Registro. La Proveeduría es la responsable de recomendar al Concejo Municipal la normativa que regulará el Registro de Proveedores, para lo cual atenderá las directrices generales que sobre la materia dicte la Alcaldía Municipal.
+
+SECCIÓN IV
+
+Procedimiento de contratación
+
+**Artículo 20.—**El cartel. Contendrá las condiciones generales de la contratación y las especificaciones técnicas. Su contenido establecerá como mínimo los requisitos establecidos en el artículo 51 del Reglamento a la Ley de Contratación Administrativa.
+
+20.1      El Departamento de Proveeduría será el encargado de elaborar los carteles de licitación respectivos y de contratación directa cuando se requiera, los cuales deben ser sometidos a revisión ante la Asesoría Legal, dependencia que tiene un plazo de tres días hábiles como máximo para pronunciarse, y contar con el aval del superior jerárquico de la dependencia solicitante del bien y/o servicio. En las compras de menor cuantía, gastos fijos, adquisición de bienes y servicios que están bajo la competencia de la alcaldía municipal, basta con el aval de la dependencia solicitante. No obstante se debe enviar copia al Concejo Municipal a efectos de llevar un control de estos.
+
+20.2      Una vez cumplido lo anterior, en los casos que a adjudicación corresponda al Concejo Municipal, el cartel deberá ser remitido a este órgano para su estudio, observaciones pertinentes y aprobación. El Concejo deberá conocer del cartel dentro de la sesión próxima siguiente, en caso de no hacerlo se entenderá que no tiene observaciones que hacer y se tendrá por aprobado.
+
+20.3      Asimismo el cartel debe de venir al Concejo Municipal acompañado de la lista y sus direcciones de los proveedores inscritos en la Municipalidad y que ofrezcan el servicio a contratar en dicho cartel, a fin de que este órgano junto con la dependencia contratante, escoja a las personas más idóneas para que participen.
+
+**Artículo 21.—**Criterios de evaluación. La dependencia solicitante adjuntará al pedido de artículos, las especificaciones técnicas y los criterios que considere como prioritarios a tomar en cuenta en el sistema de calificación de la oferta, con sus respectivos parámetros y escalas de evaluación, dentro de éstos podrán incluirse aspectos tales como experiencia, tiempo de entrega, garantías y otras condiciones propias de la naturaleza de la contratación, cuando el tipo de contratación a realizar así lo amerite. Asimismo, la calificación mínima para que una oferta pueda resultar adjudicada, no podrá ser inferior a 70 sobre 100 al ponderar cada uno de los factores a evaluar. Todo lo anterior debe ser incluido en el cartel.
+
+**Artículo 22.—**Invitación a participar. La Proveeduría dará divulgación al cartel según el procedimiento de contratación de que se trate y por los medios definidos en el Reglamento a la Ley de Contratación Administrativa.
+
+**Artículo 23.—**Modificaciones al cartel y prórrogas en tiempos, para recepción de ofertas. Las modificaciones a las condiciones y especificaciones del cartel, serán divulgadas por los mismos medios utilizados para cursar la invitación, con al menos tres días hábiles de anticipación al vencimiento del plazo para recibir ofertas, siempre que estas modificaciones no cambien el objeto de la contratación ni constituyan una variación fundamental en la concepción original del mismo. Cuando se trate de simples aclaraciones pedidas o acordadas de oficio, que no impliquen modificación en los términos de referencia, la Proveeduría las incorporará de inmediato al expediente y les dará una adecuada difusión. Las prórrogas en el plazo para la recepción de ofertas, deberán estar divulgadas a más tardar 24 horas antes a la que previamente se hubiere señalado como límite para la presentación de ofertas.
+
+**Artículo 24.—**Recepción y apertura de las ofertas. Las ofertas deberán presentarse en el lugar que así se indique, a más tardar en la fecha y hora señaladas en el cartel para la recepción y apertura, serán entregadas en un sobre cerrado en el que se consigne como mínimo, número y nombre del concurso para el cual se está ofertando, así como el nombre o razón social de la persona física o jurídica que presenta la propuesta. Deberá estar acompañada de los demás documentos y atestados solicitados por el cartel respectivo. De la apertura, se levantará un acta a cargo de la Proveeduría, en la que se consignará, fecha, hora, lugar y funcionarios presentes designados a ese efecto; los oferentes o sus representantes podrán intervenir en el acto y hacer observaciones generales, reservando sus solicitudes concretas para el momento establecido en el procedimiento. Adicionalmente, se hará constar número y objeto del concurso, nombre o razón social de los oferentes, indicando el número de cédula de identidad o cédula de persona jurídica, entre otros. Lo expuesto en este artículo, será aplicable en los procesos de contratación directa en lo que corresponda.
+
+**Artículo 25.—**Subsanación y aclaraciones de las ofertas. Dentro del plazo previsto por el Reglamento a la Ley de Contratación Administrativa, la Proveeduría solicitará por escrito a los oferentes que subsanen cualquier defecto formal o se supla cualquier información o documento trascendente omitido, en tanto no impliquen modificación o alteración de las condiciones establecidas en cuanto a las obras, bienes y/o servicios ofrecidos, o varíen las propuestas: económica, de plazos de entrega, ni garantías de lo ofertado. Dichas subsanaciones deberán presentarse por escrito dentro de un plazo máximo de tres días hábiles, de no atenderse la solicitud de subsanar, se descalificará la oferta, siempre que la naturaleza del defecto lo amerite, según lo dispuesto en el artículo 82 del Reglamento a la Ley de Contratación Administrativa. Excepcionalmente, a solicitud del oferente y en casos debidamente justificados, la Proveeduría podrá prorrogar el plazo indicado hasta por un período igual.
+
+**Artículo 26.—**Estudio, valoración y selección de ofertas. La Comisión de Estudio y Valoración de Ofertas; integrada por el Jefe de la Proveeduría Municipal, el titular de la dependencia solicitante, el Asesor Legal, un representante del Concejo Municipal, el Ingeniero de Obras y el encargado de Presupuesto; estudiarán, valorarán y seleccionarán las ofertas presentadas en los procesos concursales promovidos dentro de los plazos establecidos al efecto. La resolución de recomendación de adjudicación, se dictará dentro del plazo establecido en el cartel; a falta de estipulación expresa en el mismo, se efectuará dentro del plazo legal correspondiente el cual se computará a partir del acto de apertura. El jefe de Proveeduría subirá el respectivo expediente para que dentro de los ocho días hábiles posteriores, de la sesión convocada previamente por el Alcalde, el Concejo Municipal tome el acuerdo de adjudicación, si fuere procedente. De lo contrario lo devolverá con las observaciones pertinentes.
+
+Una vez adjudicada la obra, bien o servicio, por parte del Concejo Municipal o del Alcalde Municipal según corresponda, la Proveeduría Municipal, tendrá tres días hábiles, para dar la orden de inicio y el proveedor deberá empezar lo adjudicado dentro de los cinco días hábiles siguientes a partir del recibo de dicha orden.
+
+**Artículo 27.—**Recomendación de adjudicación. La recomendación de adjudicación deberá ser presentada por la Comisión de Estudio y Valoración de Ofertas, la que deberá contener como mínimo lo siguiente: resumen del objeto de la contratación y enumeración de las ofertas recibidas, una síntesis de los análisis o estudios técnicos, financieros y jurídicos, recomendación de aquella o aquellas ofertas que de conformidad con lo dispuesto en el cartel respectivo resulten ganadoras de las contrataciones promovidas, contendrá además las principales condiciones que regirán en el eventual contrato. Esa recomendación será remitida al Concejo Municipal o a la Alcaldía Municipal, según corresponda, para dictar y acordar la adjudicación.
+
+**Artículo 28.—**De la Contratación Directa de Bienes y Servicios: En lo referente a la Contratación Directa por escasa cuantía, los plazos para convocar la recepción de ofertas será de tres a cinco días hábiles máximo, y el plazo para emitir la resolución de adjudicación será de cinco a diez días hábiles máximo, contados a partir del acto de apertura. La contratación de bienes y servicios bajo esta modalidad se regirá por las siguientes disposiciones:
+
+Para las adquisiciones de bienes y servicios cuyos montos sean menores o iguales al monto máximo autorizado para el Alcalde Municipal podrá invitarse a tres proveedores, debidamente inscritos en el Registro de Proveedores; en caso de que no se contare con dicho número, se cursará invitación a otros proveedores y se considerarán únicamente las ofertas presentadas por aquellos a quienes se les cursó invitación.
+
+Para los efectos del presente artículo, debe entenderse que los proveedores a invitar sean aquellos que se encuentren debidamente inscritos como tales en el Registro de Proveedores. Por tal razón, en caso de no contarse con proveedores registrados para determinado bien o servicio, deberá publicarse la invitación respectiva en un diario de circulación nacional que será elegido por la Proveeduría.
+
+Si en razón de la cuantía de los bienes o servicios a adquirir se requieren tres proveedores y sólo se cuenta con uno formalmente inscrito, la invitación se cursará únicamente a éste, sin perjuicio de que otros interesados en participar gestionen su debida inscripción antes de presentar su oferta. Para ello la Proveeduría Municipal será la encargada de verificar, invitar y ajustar el número necesario de oferentes.
+
+**Artículo 29.—**Requisitos mínimos de las cotizaciones. Las cotizaciones correspondientes a la compra de bienes y servicios bajo la modalidad de la contratación directa deberán indicar como mínimo:
+
+1.   Nombre, razón o denominación social del Proveedor.
+
+2.   Descripción del bien o servicio cotizado.
+
+3.   Precio unitario y total.
+
+4.   Plazo de inicio de las obras, bienes o servicios.
+
+5.   Plazo de entrega.
+
+6.   Vigencia de las cotizaciones.
+
+7.   Número de cédula jurídica o de identidad del oferente.
+
+8.   Firma del oferente.
+
+9.   Dirección del oferente.
+
+10.    Correo electrónico
+
+11.    Lugar y medio idóneo para atender notificaciones y comunicaciones.
+
+12.    Garantía sobre los bienes.
+
+Las instancias competentes para emitir el Acuerdo o Resolución de Adjudicación, podrán apartarse de los criterios técnico y jurídico, dejando constancia expresa y razonada en el expediente respectivo y tomando como base a esos efectos, otro criterio de la misma naturaleza, el cual deberá ser agregado al expediente.
+
+**Artículo 30.—**Comunicación. La Proveeduría Municipal será la encargada de comunicar a los oferentes los acuerdos o resoluciones de adjudicación dentro de los plazos y parámetros previstos en el Reglamento a la Ley de Contratación Administrativa.
+
+**Artículo 31.—**Formalización contractual. Los contratos se formalizarán en instrumento público o privado de conformidad con los requerimientos legales y cartelarios aplicables. Por la Municipalidad lo suscribirá la Alcaldía y por el contratista, su apoderado o representante, debidamente acreditados.
+
+**Artículo 32.—**Dependencia encargada de la elaboración de los contratos. La dependencia encargada de elaborar contratos, cuando así se requiera, será la Proveeduría en coordinación con la Asesoría Legal que velarán porque en dichos instrumentos se incorporen al menos las siguientes disposiciones: precio, tiempo de entrega, forma de pago, características técnicas del objeto contratado, multas y cualquier otro aspecto ateniente.
+
+**Artículo 33.—**Otras modalidades de formalización. Esta formalización podrá omitirse si de la documentación originada por el respectivo procedimiento de contratación, resultan indubitables los alcances de los derechos y las obligaciones contraídas por las partes, en este caso, el documento de ejecución presupuestaria denominado orden de compra, constituirá instrumento idóneo para continuar con los trámites de pago respectivos, todo bajo la responsabilidad del funcionario que la emite.
+
+SECCIÓN V
+
+Garantías
+
+**Artículo 34.—**Disposiciones sobre garantías de participación.
+
+34.1.     En las licitaciones públicas obligatoriamente, y en los demás procedimientos, facultativamente, se exigirá a los oferentes una garantía de participación, cuyo monto se definirá en el cartel entre un uno y un cinco por ciento del monto total ofertado, deberá tener una vigencia mínima de un mes contado a partir de la fecha máxima establecida para dictar el acto de adjudicación.
+
+34.2.     Los documentos aportados como Garantía de Participación deben ser presentados en el Departamento de Tesorería Municipal, antes de la hora de apertura de las ofertas.
+
+34.3.     Es competencia de la Proveeduría, autorizar la devolución de las garantías de participación y de cumplimiento.
+
+**Artículo 35.—**Disposiciones sobre garantías de cumplimiento. Las garantías de cumplimiento serán devueltas, dentro de los sesenta días hábiles siguientes a la fecha en que la Municipalidad haya realizado la recepción definitiva del objeto contratado, de lo cual deberá quedar constancia en el expediente. Cuando en los carteles de licitación se establezca un plazo distinto, prevalecerá lo indicado en el cartel.
+
+SECCIÓN VI
+
+Recursos
+
+**Artículo 36.—**Recursos de objeción al cartel. Cuando se presente un Recurso de Objeción al Cartel, cuya resolución sea competencia de la Contraloría General de la República, la Proveeduría, a instancia de dicho ente, remitirá dentro del plazo conferido para tal efecto, el expediente de la contratación incluido el criterio de la administración en cuanto a la impugnación presentada. La Proveeduría, si así fuere procedente, solicitará a la unidad gestionante o a cualquier otra dependencia toda la información que se requiera con el fin de satisfacer el pedido del órgano contralor. La unidad a la que se le hubiese requerido criterio, deberá remitir dentro del plazo previsto por la Proveeduría, la información solicitada. Corresponde a la jefatura de la Proveeduría, suscribir el oficio de respuesta del recurso interpuesto, salvo que la Contraloría General de la República expresamente disponga algo diferente.
+
+**Artículo 37.—**Recurso de objeción al cartel en la licitación. La Proveeduría será la dependencia competente para tramitar la impugnación al pliego de condiciones que llegase a presentarse en el procedimiento de contratación. En caso que el recurso se interponga ante una dependencia diferente a la Proveeduría, el titular de la dependencia remitirá la documentación a la misma dentro del día hábil posterior a su recibo.
+
+De requerirse, la Proveeduría, dentro del plazo que al efecto defina, podrá contar con la asesoría de la unidad gestionante y la Asesoría Legal dentro del ámbito de sus competencias, a efecto de disponer de los dictámenes técnicos y jurídicos pertinentes. La Proveeduría contará con el plazo de cuatro (4) días hábiles para preparar el documento que contendrá la recomendación de resolución del recurso interpuesto. Una vez resuelto, la Proveeduría notificará al recurrente, para lo cual dispone de dos (2) días hábiles.
+
+De acogerse parcial o totalmente el recurso, la Proveeduría, dentro de los tres (3) días hábiles siguientes posteriores a la comunicación al recurrente, modificará en los términos respectivos el cartel y gestionará la divulgación correspondiente, con el respectivo ajuste en los plazos para la recepción de ofertas, cuando así se requiera.
+
+**Artículo 38.—**Recurso de revocatoria. Tratándose del recurso de revocatoria contra el acto de adjudicación, una vez recibido el mismo, la dependencia ante la que haya sido presentado, deberá remitirlo de inmediato a la Proveeduría, en razón de ser ésta la dependencia competente para tramitarlo. Si el recurso resulta manifiestamente improcedente, la Administración por medio de la Proveeduría, deberá resolver y notificar su decisión al gestionante en el término de dos días hábiles. Si el recurso se acoge, el órgano o dependencia que haya dictado la adjudicación, deberá resolver con el apoyo de criterios técnicos y jurídicos dentro de los quince días hábiles siguientes a su presentación. Lo que resuelva dicho órgano o dependencia, agotará la vía administrativa.
+
+**Artículo 39.—**Recurso de apelación. En el caso de recursos de apelación interpuestos contra el Acto de Adjudicación, dentro del plazo que señale la Contraloría General de la República, la Proveeduría remitirá -debidamente foliado- el expediente administrativo de la licitación y apercibirá por escrito a los oferentes a efecto de que mantengan o restablezcan la vigencia de las ofertas y de las garantías de participación. Una vez notificado el auto inicial emitido por la Contraloría General de la República, la Proveeduría remitirá a la unidad gestionante de la contratación, la documentación correspondiente a efecto de que procedan con el estudio y análisis de los alegatos del apelante. Ésta, con el visto bueno de su titular, presentará ante la Proveeduría el informe respectivo en el transcurso de los dos (2) días hábiles siguientes. La Proveeduría, una vez que cuente con los alegatos requeridos y a más tardar el quinto día hábil posterior a la notificación del auto inicial, enviará a la Contraloría General de la República las argumentaciones solicitadas, salvo que la Contraloría establezca un plazo distinto.
+
+SECCIÓN VII
+
+Ejecución contractual
+
+**Artículo 40.—**Recepción de obras, bienes y servicios. La recepción de bienes y obras, deberá quedar consignada en un acta, la cual será levantada para cada procedimiento de contratación por separado. La dependencia u órgano técnico responsable de su levantamiento deberá llevar un control consecutivo de las recepciones que realiza durante cada año calendario. En lo relativo a bienes, la dependencia encargada del levantamiento de las actas será la Proveeduría Municipal, o el Encargado de Bodega, según corresponda, quien dependiendo de la naturaleza del objeto contratado, deberá contar con la colaboración de los funcionarios especializados que sean necesarios, a efecto de respaldar debidamente los intereses de la institución en el acto de recepción. Para la recepción de obras, el encargado de realizar el levantamiento de las actas respectivas, será el funcionario designado como órgano técnico responsable de la misma. Al igual que para la recepción de bienes, las actas deberán llevarse de forma consecutiva para cada procedimiento de contratación adjudicado. La numeración consecutiva deberá responder al trabajo que se realice durante cada año calendario. Todas las actas originales se deberá remitir a la Proveeduría a más tardar dentro del tercer día de su levantamiento, dicha dependencia deberá darle el trámite respectivo e incorporarlas al expediente de que se trate.
+
+**Artículo 41.—**Recepción de bienes. Para la recepción de bienes la Proveeduría o el funcionario de la bodega que al efecto se designe, será el responsable del levantamiento del acta respectiva, en la cual deberá consignarse como mínimo: cantidades, calidades, características y naturaleza de los bienes. Adicionalmente, se dejará constancia de cualquier otra información que se estime necesaria o pertinente para el adecuado respaldo de los intereses de la institución. El acta deberá ser suscrita por el representante de la Municipalidad y por el contratista o el representante que éste haya designado. Si la cantidad de bienes a recibir es muy alta y variada, bastará con un acta resumen, que haga referencia a los documentos principales del expediente que especifican la cantidad, calidad y naturaleza de los bienes respectivos. Cuando deban recibirse bienes, cuya naturaleza requiera de la valoración de técnicos especializados para el adecuado respaldo de los intereses de la institución, la Proveeduría deberá coordinar con la dependencia que corresponda, a efecto de que se designe él o los funcionarios que deban participar de tal recepción, dicha designación será obligatoria para la dependencia especializada de que se trate y esos funcionarios deberán suscribir el acta de recepción levantada, junto con las personas indicadas en el párrafo anterior. Igual obligación de coordinación y levantamiento de actas, deberá observarse para aquellos casos en que se haya pactado la recepción del objeto del contrato, por “entregas parciales”.
+
+**Artículo 42.—**Contratación de servicios. Tratándose de la contratación de servicios, dada la periodicidad con que los mismos serán recibidos, la dependencia solicitante y designada como órgano técnico responsable, durante la etapa de ejecución, deberá realizar informes periódicos de la prestación del servicio. En dichos informes deberán ser consignadas las condiciones en que se recibe el servicio, así como la satisfacción o cumplimiento de lo pactado. Esos informes periódicos deberán ser remitidos a la Proveeduría para que les dé el trámite respectivo y los anexe al expediente de la contratación de que se trate. El órgano técnico correspondiente, deberá coordinar con la Proveeduría las situaciones que durante la ejecución contractual pudieran desembocar en el establecimiento de una eventual sanción, resolución o rescisión del contrato. La frecuencia con que deban elaborarse dichos informes, dependerá de la modalidad fijada para la prestación del servicio y deberán enviarse a la Proveeduría, a más tardar dentro del tercer día de haber recibido la prestación del servicio.
+
+**Artículo 43.—**Recepción de obras. Se llevarán a cabo dos tipos de recepción: una provisional, por realizarse como máximo 15 días después de que el encargado de la obra haya notificado por escrito la finalización de las obras de construcción, así como el día y hora propuestos para hacer la entrega a quien corresponda y otra definitiva, por efectuarse, como máximo, dos meses después de la fecha de la recepción provisional, salvo que en el cartel se haya indicado un plazo diferente. En ambos casos, previa revisión de la obra, la parte técnica a cargo elaborará un acta de recepción, donde se indicará cómo se desarrolló el proceso constructivo y la condición en que se recibe la obra; para la recepción provisional se indicará al menos, si ésta se recibe a satisfacción o bajo protesta, en cuyo caso se señalarán las causas de ello, para que el constructor proceda a corregir los problemas; en el acta de recepción definitiva se señalarán como mínimo lo siguiente:
+
+1.         Un resumen de los aspectos señalados en el acta provisional.
+
+2.         Si la ejecución fue total o parcial.
+
+3.         Si se efectúo en forma eficiente o deficiente (en este caso señalar por qué).
+
+4.         El plazo empleado en la ejecución, incluyendo prórrogas.
+
+5.         Si hubo sanciones o se ejecutaron las garantías.
+
+6.         Si las obras se reciben a satisfacción o bajo protesta y en este último caso, las razones para que sea así.
+
+7.         La calidad y cantidad de las obras ejecutadas.
+
+8.         El monto cancelado y el que falta por cancelar por concepto de avance de obra, ajuste de precios, obras extraordinarias y cualquier otro rubro contemplado, si la recepción es parcial (si la recepción es definitiva, las cuentas deben estar finiquitadas).
+
+En todo caso, para el control y ejecución de las obras impulsadas por la Municipalidad, resultarán de acatamiento obligatorio, las disposiciones contenidas en los manuales y demás normativa que al efecto emita la Contraloría General de la República.
+
+**Artículo 44.—**Vicios ocultos, responsabilidad disciplinaria y civil en la ejecución de obras. El hecho de que la obra sea recibida a satisfacción en el acto de recepción oficial, no exime al constructor de su responsabilidad por vicios ocultos, si éstos afloran durante los diez años posteriores a la fecha de la recepción definitiva. Por otra parte, la Administración tiene un período de cinco años para reclamar al contratista la indemnización por daños y perjuicios, plazo que también se aplica cuando el funcionario designado por ella para hacerse cargo de la obra, también haya incurrido en responsabilidad civil; la responsabilidad disciplinaria por faltar a sus obligaciones durante la ejecución de la obra, prescribe según los criterios dispuestos en el artículo 71 de la Ley Orgánica de la Contraloría General de la República, Nº 7428.
+
+**Artículo 45.—**Modificaciones a los contratos. La Municipalidad podrá aumentar o disminuir para un contrato, el objeto de la contratación, conforme lo disponen los artículos 12 de la Ley de Contratación Administrativa y 200 del Reglamento a la Ley de Contratación Administrativa.
+
+**Artículo 46.—**Prórrogas para los plazos de entrega. La prórroga en la ejecución de los contratos se regirá por lo dispuesto en el artículo 198 del Reglamento a la Ley de Contratación Administrativa. La valoración y aprobación de ésta, la efectuarán conjuntamente el superior de la unidad gestionante y la Proveeduría. Todo lo actuado, deberá quedar debidamente documentado en el expediente administrativo del concurso. Cuando el contrato haya sido refrendado por la Contraloría General de la República, a efectos de prorrogar su plazo, se elaborará un addéndum, el cual será remitido al ente contralor para su respectivo refrendo.
+
+SECCIÓN VIII
+
+Del precio y pago
+
+**Artículo 47.—**Los precios cotizados deberán ser firmes, definitivos e invariables durante el periodo de vigencia de la oferta; expresados en números y letras coincidentes. En caso de discrepancia, prevalecerá lo expresado en letras. Asimismo, de existir diferencia entre los montos unitarios y totales, prevalecerá el monto más bajo. Los precios podrán cotizarse en colones costarricenses o en la moneda definida en el cartel. Aquellos materiales que sean cotizados en contratos de obra como materiales de importación y que posteriormente sean comprados en plaza, serán cancelados contra presentación de la factura del proveedor nacional. El monto a cancelar no deberá superar lo cotizado en moneda extranjera y no incluirá los impuestos que hubiesen correspondido a la nacionalización de este producto. Cuando los productos ofrecidos sean de importación y el oferente sea una firma domiciliada fuera del territorio nacional, el cartel o términos de referencia establecerá los incoterms que permitan determinar los elementos que componen el precio, por lo que será obligatorio para todo oferente cotizar en la forma solicitada, en caso de omisión, la Administración procederá a descalificar la oferta. Tratándose de productos en plaza la oferta deberá indicar siempre el precio y la naturaleza de los impuestos que la afectan. Su omisión tendrá por incluido en el precio cotizado los impuestos que lo gravan.
+
+**Artículo 48.—**Forma de pago. Los pagos a proveedores y a los arrendatarios se harán contra la prestación del servicio, recepción de bienes o avance de la obra, a entera satisfacción de la Municipalidad de Golfito, resultando absolutamente nula cualquier estipulación en contrario. En contratos continuados de servicios, los pagos se harán mensualmente contra el avance en la prestación de los mismos, salvo que el cartel estipule otra diferente, recibidos a entera satisfacción de la Municipalidad de Golfito. En contratos de arrendamiento se pagará por mes vencido. En las contrataciones de obra, el cartel o términos podrán establecer que se concederán en forma excepcional anticipos durante la ejecución de la obra con el objeto de cubrir parte de los costos directos de los renglones de trabajo. Dicho anticipo en ningún caso podrá ser superior al 25% del monto contratado para el componente local. Todo anticipo de pago, debe ser respaldado en su totalidad por el contratista con una garantía colateral e incondicional que deberá cumplir con las formalidades y requisitos establecidos en el Reglamento a la Ley de Contratación Administrativa. De aprobarse un anticipo quedará obligado el inspector del contrato para deducir de cada uno de los pagos el porcentaje correspondiente al anticipo realizado. El funcionario que ejecute un pago en contravención de estas disposiciones, incurrirá en responsabilidad laboral y patrimonial al igual que el funcionario que, careciendo de motivo, retenga un pago a un proveedor determinado. Para tal efecto, el órgano fiscalizador informará a la Alcaldía, el cual gestionará las acciones disciplinarias pertinentes.
+
+**Artículo 49.—**Trámite de pago. Los bienes en plaza se pagarán ocho días posteriores a la presentación para el cobro de la factura en la Proveeduría. Para servicios o contratación de obra, se cancelará mediante pagos parciales, de acuerdo con cálculos basados en el progreso semanal del trabajo terminado y del equipo y materiales suplidos conforme lo presente el contratista y lo apruebe la unidad gestionante. Estos pagos parciales se harán efectivos dentro de los ocho (8) días hábiles después de la aprobación de la unidad gestionante. Los pagos se efectuarán en colones costarricenses. Toda factura por avance de obra deberá estar debidamente timbrada y ser entregada en la Proveeduría Municipal en Original. La Municipalidad podrá reconocer pagos mayores a los que se consignan en el programa físico financiero de la oferta, de acuerdo con su disponibilidad de fondos. Los pagos parciales se considerarán como adelantos basados en simples estimaciones; por lo tanto, estarán sujetos a pruebas y certificados de calidad y a la eventual corrección final. No implicará aceptación por parte de la Municipalidad, de los materiales o trabajos rendidos. Tratándose de contratos para suministro de bienes, de previo al trámite de pago, se constatará la correcta recepción de la prestación contractual, observando al respecto las disposiciones contenidas en los artículos 153 y 154 del Reglamento a la Ley de Contratación Administrativa. En los contratos formalizados en moneda extranjera y que serán pagaderos en colones, se utilizará el tipo de cambio de referencia para la venta, calculado por el Banco Central de Costa Rica, vigente al momento de la confección del cheque o medio de pago seleccionado, siempre y cuando el adjudicatario no haya incurrido en mora por entrega tardía, en cuyo caso se descontarán los días de atraso para computar el tipo de cambio a utilizar a los efectos que la paridad cambiaria a referenciarse, sea la que corresponde a la ejecución contractual normal. Cuando se trata de compras en el exterior, para su pago se seguirán las normas y costumbres del comercio internacional. Para la aplicación de este artículo debe respetarse lo establecido en el Reglamento de Pagos de este Municipio, a fin de respetar fechas de trámite de facturas y días de pago.
+
+**Artículo 50.—**Vigencia. Este Reglamento entrará en vigencia, una vez que sea publicado en el Diario Oficial La Gaceta.
+
+**Artículo 51- **Se le instruye a los funcionarios encargados de las unidades de Proveeduría, Tesorería, Presupuesto, y la Unidad Técnica de Gestión Vial Municipal, que, la resolución administrativa será utilizada únicamente para contrataciones administrativas en las cuales, se ha demostrado suficientemente la imposibilidad jurídica de pagar sobre la base de un contrato eficaz, y así evitar un enriquecimiento ilícito en perjuicio de quien actuó de buena fe, dentro de un procedimiento de contratación válido y legítimo, y en consecuencia, se dispone indemnizarlo conforme con los términos de la Ley de Contratación Administrativa.
+
+(Así adicionado mediante sesión ordinaria N° 35 del 10 de setiembre del 2014)
