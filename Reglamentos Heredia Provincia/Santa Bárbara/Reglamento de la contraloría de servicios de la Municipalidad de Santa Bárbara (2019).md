@@ -1,0 +1,209 @@
+---
+numero: "Reglamento municipal 187 (02/12/2019)"
+nombre: "Reglamento de la contraloría de servicios de la Municipalidad de Santa Bárbara"
+materia: "municipal"
+canton: "Santa Bárbara"
+estado: "vigente"
+version_sinalevi: "1 de 1"
+fecha_version: "02/12/2019"
+ente_emisor: "Municipalidad de Santa Bárbara"
+fecha_norma: "02/12/2019"
+enlace: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=92798&param2=122961&param3=1"
+descargado: "2026-11-16"
+---
+Reglamento municipal 187
+Reglamento de la contraloría de servicios de la Municipalidad de Santa Bárbara
+
+MUNICIPALIDAD DE SANTA BÁRBARA
+
+CONCEJO MUNICIPAL
+
+El Concejo Municipal de la Municipalidad de Santa Bárbara, en sesión ordinaria N° 187-2019, celebrada el lunes 02 de diciembre del 2019, mediante el acuerdo N° 3792-2019, acordó por unanimidad: Aprobar el Dictamen de la Comisión de Asuntos Jurídicos N° CAJ-MSB-0087-2019, a saber:
+
+REGLAMENTO DE LA CONTRALORÍA DE SERVICIOS
+
+DE LA MUNICIPALIDAD DE SANTA BÁRBARA
+
+Conceptos
+
+Para los efectos de este Reglamento se entenderá por La Municipalidad: La Municipalidad de Santa Bárbara.
+
+Ley N° 9158: Ley Reguladora del Sistema Nacional de Contralorías de Servicios, publicado en La Gaceta N° 173 del 10 de setiembre del 2013.
+
+Consultas: Se refiere a aquellas gestiones que son atendidas y resueltas de manera inmediata y no requieren la apertura de un expediente, son de carácter informativo.
+
+Reporte: Gestión realizada por una persona usuaria, ante alguna dependencia de la Municipalidad, que no se le ha resuelto y que le sirve de base para plantear su gestión ante la Contraloría de Servicios.
+
+Queja: Gestión realizada por una persona usuaria en la que manifiesta su malestar por la ausencia o mal servicio en la prestación de algún servicio por parte de la Municipalidad. Gestiones: Acciones realizadas por las personas usuarias con el fin de lograr solventar una necesidad insatisfecha en función de los servicios brindados por la municipalidad. Inconformidad: Gestión realizada por una persona usuaria, por no estar conforme con la resolución brindada a un trámite realizado ante la Municipalidad.
+
+Contraloría de Servicios: Será un órgano asesor, canalizador y mediador de los requerimientos de efectividad de las personas usuarias de los servicios que brinda una organización.
+
+Persona Usuaria: Usuario externo o interno de los servicios que presta la Municipalidad. Usuario externo: Persona física y/o jurídica que requiere de los servicios que presta la Municipalidad.
+
+Usuario interno: Colaborador/a de la Municipalidad que utiliza o recibe los servicios que presta la Municipalidad.
+
+Secretaría Técnica: Secretaría Técnica del Sistema Nacional de Contralorías de Servicios. Felicitación: Muestra o manifestación de agradecimiento, por la atención o los servicios que le brinda la Municipalidad.
+
+MIDEPLAN: Ministerio de Planificación Nacional y Política Económica.
+
+TÍTULO PRIMERO
+
+Disposiciones Generales
+
+CAPÍTULO I
+
+Generalidades
+
+**Artículo 1º—El **presente reglamento obedece a la Ley N° 9158 Ley Reguladora del Sistema Nacional de Contralorías de Servicios. La Contraloría de Servicios de la Municipalidad de Santa Bárbara, es una oficina adscrita al Despacho del Alcalde Municipal, tal y como lo dispone el artículo 11 de la Ley N° 9158.
+
+**Artículo 2º—Objeto **del Reglamento. El presente instrumento normativo tiene por objeto reglamentar el ámbito de aplicación, la integración, organización y funcionamiento de la Contraloría de Servicios de la Municipalidad de Santa Bárbara, conforme lo establecido en la Ley N° 9158 Reguladora del Sistema Nacional de Contralorías de Servicios.
+
+**Artículo 3º—Objetivo **General de la Contraloría de Servicios. La Contraloría de Servicios tendrá como objetivo general velar por que la prestación de los servicios públicos que ofrece la Municipalidad de Santa Bárbara, se brinden con eficiencia y calidad, a fin de satisfacer oportuna y adecuadamente las legítimas demandas de los usuarios, así como brindarles la información que éstos requieran para orientar y facilitar su contacto con la institución, fomentando una cultura de relación óptima entre la Municipalidad de Santa Bárbara y el cliente externo e interno de la Institución.
+
+**Artículo 4º—Independencia **de la Contraloría de Servicios.
+
+La Contraloría de Servicios ejercerá sus funciones con independencia funcional y de criterio, respecto del jerarca y los demás órganos de la administración activa de la organización, por ello, no deberán realizar funciones ni actuaciones de la administración activa, excepto las necesarias para cumplir sus propias funciones, tal y como lo dispone el artículo 13 de la Ley N° 9158.
+
+**Artículo 5º—Obligación **de colaboración. Todas las dependencias y funcionarios de la Municipalidad de Santa Bárbara, están obligados a prestar colaboración a la Contraloría de Servicios, cuando esta lo requiera, como parte de las responsabilidades derivadas de la relación laboral, en los siguientes aspectos:
+
+a) Los funcionarios municipales deberán rendir los informes, datos y documentos necesarios requeridos por la Contraloría de Servicios, en un plazo máximo de cinco días hábiles, con la excepción indicada en el artículo 43 de la Ley Reguladora del Sistema Nacional de Contralorías de Servicios N° 9158, con el fin de cumplir con sus funciones.
+
+b) La negligencia o negativa injustificada del funcionario de ejercer su obligación de colaboración en los términos dichos, lo hará incurrir en responsabilidad disciplinaria, - según la gravedad del caso- la que será sancionada de conformidad con lo dispuesto en el artículo 158, del Código Municipal, en concordancia con el artículo 44 y 45 de la Ley Reguladora del Sistema Nacional de Contralorías de Servicios N° 9158. Dicha falta será sancionada no atendiendo estrictamente el orden señalado en el artículo 158 del Código Municipal, sino en razón de su gravedad.
+
+c) En el caso de ser aplicable lo dispuesto en este artículo, deberá la Contraloría de Servicios dentro del plazo de ocho días hábiles, después de vencido el plazo concedido al funcionario municipal, remitir el caso a la Dirección de Recursos Humanos para que proceda como corresponda, contra el funcionario por incumplimiento de deberes.
+
+**Artículo 6º—Funciones **de la Contraloría de Servicios:
+
+a) Verificar que la Institución cuente con los mecanismos y procedimientos eficaces, accesibles y amigables de comunicación que les permita a los usuarios un acercamiento ágil con la institución, para obtener toda la información con relación a todos los servicios, sus procedimientos y formas de acceso.
+
+b) Informar a los usuarios internos y externos sobre las labores y los servicios que presta la Contraloría de Servicios.
+
+c) Velar para que los servicios públicos que brinda la Municipalidad de Santa Bárbara se presten de forma eficaz, con calidad y observando las normas jurídicas que en materia de servicios públicos se emitan.
+
+d) Elaborar y aplicar como mínimo una vez al año, una encuesta que permita medir la percepción de los usuarios con relación a la calidad de los servicios, el grado de satisfacción y los cambios que se requieran, para la mejora continua de los servicios y la atención de los usuarios.
+
+e) Tramitar oportunamente las inconformidades, quejas o sugerencias que expongan los usuarios y procurar la solución inmediata a los problemas que estos planteen, tal y como lo dispone el presente reglamento y la ley de Contralorías de Servicios.
+
+f) Vigilar el cumplimiento Institucional en la pronta respuesta a las inconformidades presentadas por los usuarios de los servicios.
+
+g) Mantener un registro o base de datos actualizada sobre la naturaleza de las inconformidades, sugerencias y denuncias que se reciben en la oficina de la Contraloría de Servicios.
+
+h) Presentar a la Secretaría Técnica un informe anual de labores realizado acorde con la guía metodológica propuesta por MIDEPLAN, el cual deberá tener el aval del jerarca de la organización. Dicho informe será presentado durante el primer trimestre del año.
+
+i) Informar y orientar a los usuarios sobre aspectos de su interés relativos a la organización, funcionamiento y servicios que brinda la Municipalidad de Santa Bárbara.
+
+j) Promover y participar en la realización de campañas de información y orientación dirigidas a los usuarios.
+
+k) Promover ante la Gerencia respectiva los procesos de modernización en la organización, con relación a los trámites y procedimientos de este Gobierno Local.
+
+l) Identificar conflictos respecto de la Administración con los usuarios, específicamente sobre exceso de requisitos, trámites administrativos y de control interno que afecten los servicios, con el fin de que prevalezca la eficiencia y eficacia en la prestación de estos.
+
+m) Emitir recomendaciones para elevar la imagen de la prestación de servicios de la institución.
+
+n) Promover que las unidades técnicas apliquen acciones correctivas en los servicios que presentan dificultades.
+
+CAPÍTULO II
+
+Estructura de la Contraloría de Servicios
+
+**Artículo 7º—Estructura. **La Contraloría de Servicios estará a cargo de un(a) funcionario(a) denominado Contralor(a) de Servicios, que será nombrado(a) por el Alcalde con fundamento en lo que dispone el artículo 17 inciso k) del Código Municipal. La persona Contralora de Servicios deberá cumplir con los requisitos que establece el Manual Descriptivo de clases de puestos de la Municipalidad de Santa Bárbara.
+
+**Artículo 8º—Causales **de Despido. Al contralor o contralora de Servicios le serán aplicables las causales de despido del Código Municipal, Reglamento Autónomo de Organización y Servicios de la Municipalidad de San José, Código de trabajo, y demás causales que establezcan las leyes aplicables a los funcionarios públicos.
+
+**Artículo 9º—Asignación **de Recursos. La Contraloría de Servicios contará con el personal y los recursos materiales y tecnológicos, necesarios para el cumplimiento eficiente y efectivo de los objetivos definidos en la Ley N° 9158 y este Reglamento.
+
+CAPÍTULO III
+
+Del funcionamiento y potestades de la Contraloría de Servicios
+
+**Artículo 10.—**Actuaciones. Para cumplir sus funciones, los funcionarios de la Contraloría de Servicios, podrán actuar de oficio o a solicitud de parte pudiendo realizar las investigaciones que considere necesarias, visitar las dependencias y solicitar la información pertinente, para cumplir con su cometido.
+
+**Artículo 11.—**Asesoría y colaboración. El o la Contralor (a) podrá requerir la asesoría, colaboración y las facilidades necesarias por parte de los diferentes órganos y unidades administrativas de la organización para el cabal cumplimiento de sus funciones. En casos muy calificados también podrá requerir la asesoría necesaria de expertos externos a la Municipalidad.
+
+**Artículo 12.—**Libre acceso a las Dependencias Municipales. La Contraloría de Servicios, para el fiel cumplimiento de sus funciones, tendrá libre acceso a todas las dependencias de la Municipalidad de Santa Bárbara, a los expedientes administrativos, libros, archivos y documentos de la organización, así como a otras fuentes de información relacionadas con la prestación del servicio, excepto los documentos declarados secretos de Estado. El manejo de la documentación descrita se hará bajo el deber de confidencialidad. Lo anterior no implica, en ningún caso, la sustitución de competencias de la Auditoría Interna o de otras dependencias administrativas.
+
+**Artículo 13.—**Mediación y acompañamiento. Actuar como oficina mediadora y de acompañamiento de los usuarios cuando estos consideren que se les ha violentado sus derechos como administrados, en la prestación de los servicios que brinda la Municipalidad.
+
+Artículo14.—Mecanismos de comunicación y coordinación.
+
+Establecer los mecanismos de comunicación, coordinación y apoyo con la Secretaría Técnica, otras contralorías de servicios y todas las instancias que considere oportuno, a fin de mejorar la atención de las gestiones presentadas por las personas usuarias.
+
+CAPÍTULO IV
+
+Del procedimiento de recepción de gestiones
+
+**Artículo 15.—**De la Recepción de gestiones (consultas, denuncias, inconformidades, felicitaciones y reportes). Corresponde a la Contraloría de Servicios recibir las gestiones que presente el usuario, con respecto a los servicios que brinda la Institución, y que no han sido atendidas o resueltas de forma oportuna por el área competente. La persona usuaria puede presentar su gestión en forma personal, por escrito, por teléfono o correo electrónico, según los procedimientos establecidos en este reglamento. No es competencia de la Contraloría de Servicios conocer de las faltas al contrato de trabajo en que incurran los funcionarios municipales, dicha función corresponde a la Dirección de Asuntos Jurídicos, de la Municipalidad de Santa Bárbara.
+
+**Artículo 16.—**Confidencialidad de la Identidad de la persona Usuaria. La persona usuaria podrá solicitar a la Contraloría de Servicios que se resguarde su identidad respecto de terceros; esto implicará que su identidad no trascienda más allá del ámbito propio y específico de la Contraloría de Servicios. La Contraloría de Servicios guardará confidencialidad de la identidad del denunciante atendiendo a lo que establece el artículo N° 6 de la Ley N° 8292 (Ley General de Control Interno) que indica: “Confidencialidad de los denunciantes y estudios que originan la apertura de procedimientos administrativos. La Contraloría General de la República, la administración y las auditorías internas, guardarán confidencialidad respecto de la identidad de los ciudadanos que presenten denuncias ante sus oficinas”.
+
+**Artículo 17.—**Registro de ingreso. Toda gestión que se formule, se ingresará a una base de datos (registro) que tiene la Contraloría de Servicios, para efectos de estadísticas en la que se indica la información requerida en la fórmula de ingreso.
+
+**Artículo 18.—**Datos que se deben incluir en la fórmula de ingreso. Toda gestión, inconformidad, inquietud y queja, deberá contemplar los siguientes datos en la fórmula de ingreso:
+
+a) Nombre completo de la persona que interpone la gestión, número de cédula de identidad o documento idóneo que lo identifique en caso de los extranjeros.
+
+b) Número de gestión (se asigna en forma automática al momento del ingreso).
+
+c) Residencia del interesado.
+
+d) Indicación de dirección física, correo electrónico y medio telefónico en caso de no contar con correo electrónico, todas las opciones indicadas son válidas para atender notificaciones y deberá señalar una de las señaladas. En el caso de que la parte interesada omita indicarlo se producirá las consecuencias de la notificación automática de conformidad con los artículos 11, 17, 34 y 38 de la Ley de Notificaciones Judiciales, Ley N° 8687 y artículos 239 al 247 de la Ley General de la Administración Pública.
+
+e) Relación concisa de los hechos u omisiones por las cuales requiere la intervención de la Contraloría de Servicios con indicación de las personas y órganos involucrados.
+
+f) Información y documentos probatorios de la inconformidad si existieren, caso contrario el ciudadano o ciudadana deberá indicar la oficina o persona en donde puede solicitarse.
+
+g) Referencia específica o comprobante cuando la denuncia se refiere a servicios por los cuales se emite comprobante o documentos similares.
+
+h) Demostrar que se realizó la gestión pertinente en la instancia competente y técnica de resolver la queja o inconformidad, tal y como lo dispone la directriz institucional correspondiente.
+
+i) Firma de la persona denunciante y de quien recibe la denuncia, cuando la queja se hace en forma presencial.
+
+**Artículo 19.—**Levantamiento de expedientes. De todos los asuntos que tramite la Contraloría de Servicios se levantará un expediente debidamente numerado, sellado y foliado, que contendrá toda la documentación relativa al caso y la resolución final.
+
+**Artículo 20.—**Declaración de incompetencia. En cualquier momento del procedimiento, la Contraloría de Servicios puede declararse incompetente de seguir conociendo acerca de un caso, si se determina que la queja planteada configura infracción al contrato de trabajo, por parte de funcionarios municipales, en dicho caso el expediente será remitido a la Dirección de Asuntos Jurídicos para que, proceda como corresponda. De lo anterior la Contraloría de Servicios está en la obligación de informar al ciudadano. Con el traslado del expediente a la Dirección de Asuntos Jurídicos, se procede al archivo del expediente en la Contraloría de Servicios.
+
+**Artículo 21.—**Suspensión de la tramitación de un caso.
+
+La Contraloría de Servicios, suspenderá la instrucción de una investigación cuando el mismo hecho este siendo investigado por otra instancia administrativa competente para resolver, de lo cual se dejará constancia en el expediente.
+
+**Artículo 22.—**Por Seguridad Jurídica, la Contraloría de Servicios no dará trámite a casos que se remitan a otras oficinas y de ello reciba copias. Cuando una queja o inquietud no esté direccionada a la Contraloría de Servicios, por seguridad jurídica y para efectos de evitar duplicidad de criterios, no le corresponde a la Contraloría de Servicios, la resolución de la misma.
+
+CAPÍTULO V
+
+**Artículo 23.—**De las obligaciones de la Contraloría de Servicios con relación a las gestiones recibidas:
+
+a) Solicitar al usuario la información con relación a su queja y en caso de que tenga documentos probatorios de su inconformidad o queja, es fundamental que le facilite copia a la Contraloría de Servicios para un análisis preliminar.
+
+b) Admitida la gestión, se abre la investigación, y se procede con la apertura del expediente.
+
+c) Remitir al área competente de forma escrita, que puede ser inclusive por correo electrónico la queja interpuesta, guardando la confidencialidad de la parte interesada cuando así se haya solicitado, para la resolución de la misma.
+
+d) Tomar todas las previsiones necesarias para que se concluya la investigación y se dé respuesta al cliente en un plazo no superior al establecido en la normativa vigente.
+
+**Artículo 24.—**Celeridad del trámite. Las gestiones interpuestas por las personas usuarias deberán ser tramitadas con la mayor diligencia por la contraloría de servicios.
+
+**Artículo 25.—**Plazo de las unidades administrativas de la Municipalidad para dar respuestas a las solicitudes y gestiones de la contraloría de servicios. Los órganos o las unidades administrativas de la institución ante la petición planteada por la Contraloría de Servicios, en el ejercicio de sus funciones, están obligados a contestar las solicitudes en un plazo máximo de cinco días con fundamento en el artículo 43 de la Ley N° 9158, excepto en los casos en que la resolución de la gestión sea de mayor complejidad, se concederá un plazo máximo de hasta cincuenta días naturales.
+
+**Artículo 26.—**Obligación de dar respuesta al usuario. La Contraloría de Servicios está obligada a comunicar al usuario, el resultado de su gestión por cualquier medio disponible, que haya indicado la persona interesada para ese efecto. En el caso que se comunique vía telefónica, el funcionario de la Contraloría de Servicios responsable del trámite, debe dejar constancia en el expediente de dicha comunicación, e igualmente dejará constancia de la imposibilidad de comunicación con la parte interesada si esa circunstancia se da, luego de dos intentos de comunicación.
+
+**Artículo 27.—**De los deberes de la persona usuaria. Según lo indicado en el artículo 30 de la Ley N° 9158, la persona usuaria deberá:
+
+“1) Coadyuvar en el mejoramiento continuo e innovación de los servicios, mediante la presentación de gestiones ante las contralorías de servicios.
+
+2) Velar por que las personas prestadoras de los servicios rindan cuentas de lo actuado, de lo no ejecutado y los motivos de su no ejecución.
+
+3) Hacer un uso adecuado de los servicios.
+
+4) Dirigirse con respeto a los funcionarios, empleados, colaboradores o representantes de las organizaciones que brindan servicios, en la presentación de sus gestiones”.
+
+**Artículo 28.—**De los derechos de la persona usuaria. Según lo indicado en el artículo 31 de la Ley N° 9158, son derechos de la persona usuaria los siguientes:
+
+“1) Recibir de las organizaciones servicios de óptima calidad, de forma efectiva, continua e innovadora.
+
+2) Plantear gestiones respecto de los servicios que reciben de las organizaciones que los brindan y sobre las actuaciones de las personas funcionarias, empleadas o representantes en el ejercicio de sus labores, cuando se estime que afectan, directa o indirectamente, los servicios prestados o la imagen organizacional.
+
+3) Recibir, de los funcionarios, empleados, colaboradores o representantes de las organizaciones que brindan servicios, un trato respetuoso y una respuesta oportuna a su gestión”.
+
+Rige a partir de su publicación.”
+
+Santa Bárbara, 20 de agosto del 2020
