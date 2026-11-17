@@ -1,0 +1,23 @@
+---
+numero: "Reglamento municipal 7 (01/11/2011)"
+nombre: "El Concejo Municipal de Carrillo acuerda remitir al ICT y al INVU las Láminas del Plan Regulador de Punta Centinela"
+materia: "municipal"
+canton: "Carrillo"
+estado: "vigente"
+version_sinalevi: "1 de 1"
+fecha_version: "01/11/2011"
+ente_emisor: "Municipalidad de Carrillo"
+fecha_norma: "01/11/2011"
+enlace: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=73783&param2=90667&param3=1"
+descargado: "2026-11-16"
+---
+Acuerdo municipal 7
+El Concejo Municipal de Carrillo acuerda remitir al ICT y al INVU las Láminas del Plan Regulador de Punta Centinela
+
+MUNICIPALIDAD DE CARRILLO
+
+ACUERDO
+
+En respuesta a su solicitud y acatando lo dispuesto por el Concejo Municipal de Carrillo, me permito transcribirles para su conocimiento y fines consiguientes; el texto del acuerdo Nº 7, emitido Sesión Ordinaria Nº 44-2011 celebrada el 1º de noviembre del año en curso, mismo literalmente dice:
+
+Con base a lo señalado en el acuerdo del Concejo Municipal de la Sesión Ordinaria 30-2011, del 26 de julio del 2011, y una vez visto y analizados los documentos respectivos expuestos por el geógrafo Jorge Díaz Loría, del Departamento de Zona Marítimo Terrestre relacionado con el Plan Regulador de Punta Centinela de la Declaratoria de Patrimonio Natural del Estado emitida por el Área de Conservación de Guanacaste MINAET, este Concejo Acuerda se remita al ICT y al INVU las Láminas del Plan Regulador de Punta Centinela publicados en La Gaceta Nº 238 del 10 de diciembre del 2003, que incluye la Delimitación del Patrimonio Natural del Estado realizada por MINAET el Nº NACT-C-OSSCC-73-07 para ser resellados por estas dependencias y proceder con su publicación en el Diario Oficial La Gaceta, de conformidad con el procedimiento institucional para Planes Reguladores costeros publicados en La Gaceta Nº 47 del 7 de marzo del 2006 y su ampliación publicada en La Gaceta Nº 106 del 2 de junio del 2011. Acuerdo definitivamente aprobado.
