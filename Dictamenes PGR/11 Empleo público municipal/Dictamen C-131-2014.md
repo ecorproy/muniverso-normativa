@@ -1,0 +1,125 @@
+---
+numero: "C-131-2014"
+tipo: "Dictamen de la Procuraduría General de la República"
+fecha: "22/04/2014"
+consultante: "Carrillo Pérez Ignacio"
+institucion: "Junta de Desarrollo Regional de la Zona Sur"
+materia: "Empleo público municipal"
+temas: "Reasignación de puestos"
+enlace: "https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=18099&param2=0"
+descargado: "2026-11-17"
+---
+# Dictamen C-131-2014
+
+Dictamen : 131 - del 22/04/2014
+
+22 de abril de 2014
+
+C-131-2014
+
+Licenciado
+
+Ignacio Carrillo Pérez
+
+Director Ejecutivo
+
+Junta de Desarrollo Regional de la Zona Sur (JUDESUR)
+
+Estimado señor:
+
+            Con la aprobación de la señora Procuradora General de la República, nos referimos al oficio Nº DEJ-O-180-2012, de fecha de 6 de agosto de 2012 –recibido el 8 del mismo mes y año–, por el cual nos consulta una serie de aspectos relacionados con el procedimiento de acreditación de grado profesional para la reasignación de plazas a funcionarios de la institución.
+
+            En concreto se consulta :
+
+1.      ¿ Tiene una certificación emitida por un centro de enseñanza universitaria valor equivalente al título universitario para la acreditación de grado académico profesional de un funcionario en un proceso de reasignación de puesto, considerándo que en tal reasignación pasa de Técnico Servicio Civil 3 a Profesional Servicio Civil 1-B ?
+
+2.      Ante la prerrogativa de que una certificación emitida por un centro de enseñanza universitario no cumpla como requisito para la reasignación de un puesto  Técnico Servicio Civil 3 a Profesional Servicio Civil 1-B ¿Cuál sería la tipificación del acto administrativo si se procediera aún así a la reasignación de la plaza del funcionario ?
+
+3.      Si se produjera la reasignación como un acto administrativo bajo la premisa anterior y ésta implicara un aumento salarial pagado al funcionario ¿Cuál sería el procedimiento para que la administración pudiera revertir dicho acto y recuperar estas sumas ?
+
+            En cumplimiento de lo establecido en el numeral 4º de nuestra Ley Orgánica –Nº 6815 de 27 de setiembre de 1982 y sus reformas-, la presente consulta se acompaña de la opinión de la asesoría legal  institucional, materializada en el oficio Nº ALJ-M-0068-2012, de fecha 18 de junio de 2012, según el cual, entre otras cosas concluye que la certificación universitaria tiene la misma validez que el respectivo título académico, por lo que reversar las reasignaciones sería una pérdida de tiempo y de recursos.
+
+I.- Consideraciones previas y delimitación del objeto de la consulta.
+
+Interesa advertir que mediante oficio AI-207, de fecha 23 de agosto de 2012, el Auditor interno de JUDESUR, pretendiendo coadyuvar con la consulta formulada por el Director Ejecutivo, nos remite copia de un estudio especial de Auditoría llevado a cabo en noviembre de 2011 (de 447 folios), concerniente a la reasignación de tres plazas de categoría técnica a profesional y al amparo del ordinal 173 de la Ley General de la Administración Pública –LGAP- pide que se dictamine si las resoluciones que autorizaron aquellas reasignaciones están viciadas de nulidad absoluta, evidente y manifiesta.
+
+No obstante, debemos indicar que no podremos acceder a la petición del Auditor Interno, pues en primer término, éste, como órgano de fiscalización y control interno, carece de competencias decisorias y resolutorias, propias y exclusivas de la administración activa (art. 34 inciso a) de la Ley General de Control Interno) en materia de revisión oficiosa de actos declaratorios a favor de los administrados; potestad administrativa que en el caso de JUDESUR –institución semiautónoma (art. 10 de la Ley 7012)-  le compete a su Junta Directiva en su condición de órgano superior supremo de la jerarquía administrativa (art. 173.2 de la LGAP). Y en segundo lugar, con vista de los antecedes que logran extraerse de la documentación remitida, se logra colegir que aquella gestión es ostensiblemente prematura, ya que las autoridades administrativas competentes no le han dado audiencia a las partes involucradas, ni se ha cumplido previamente con el debido procedimiento administrativo ordinario previsto preceptiva e imperativamente por la ley al efecto (art. 173.3 LGAP), so pena de nulidad absoluta de lo actuado en contrario, con el subsecuente reconocimiento de los daños y perjuicios ocasionados, así como la responsabilidad personal del servidor agente (art. 173.5 ibíd.).
+
+            No obstante, debemos advertir que aquel estudio especial de auditoría nos arroja luz suficiente sobre el objeto de la presente consulta, y por ello, echaremos mano de algunos insumos que el mismo nos facilita, pues sorprende que algunas interrogantes aquí formuladas encuentran explícita respuesta en documentación allí contenida, especialmente la resolución Nº 2012004993 de las 09 :05 hrs. Del 20 de abril de 2012, de la Sala Constitucional.
+
+Así que el ámbito de nuestra competencia consultiva se enmarca únicamente dentro de los presupuestos que vienen contenidos en la gestión formulada originariamente por la Administración consultante. Y por ello, actuando siempre dentro de nuestras facultades legales como asesores técnico-jurídicos de la administración pública, procederemos a emitir en abstracto nuestro criterio al respecto; esto con base en lineamientos jurídico-doctrinales emanados de nuestra jurisprudencia administrativa, y de la judicial, sobre las materias atinentes, y con ello, facilitar la toma de decisiones concretas de la Administración activa.
+
+            II.- Sobre lo consultado.
+
+            Tal y como lo advertimos recientemente, “la reasignación es un mecanismo del régimen estatutario público que, ante los cambios o modificaciones sustanciales y permanentes (no temporales o pasajeros)
+[1]
+en las tareas y responsabilidades atribuidas originariamente a un puesto –según correspondan o no al perfil de éste-, permite ajustar su clasificación existente y la remuneración consiguiente. Por ello ha sido definida como “Cambio que se opera en la clasificación de un puesto con motivo de la variación sustancial y permanente en sus tareas y responsabilidades” (art. 105 del Reglamento del Estatuto de Servicio Civil, así como en los Procedimientos para la Aplicación y Seguimiento de las Directrices Generales en Materia Salarial, Empleo y Clasificación de Puestos para las Entidades Públicas, Ministerios y demás órganos cubiertos por el ámbito de la Autoridad Presupuestaria). Y no puede olvidarse que desde una debida orientación ético-teleológica, las tareas, obligaciones y requisitos de los puestos del sector público deben ajustarse, no con miras a mejorar o beneficiar la situación de un funcionario determinado, sino con la exclusiva finalidad de mejorar el servicio público, según las necesidades reales objetivamente demostradas
+[2]
+. Y conforme lo ha determinado la jurisprudencia judicial, la consolidación de las nuevas tareas y responsabilidades por seis meses, autorizada por el Jerarca o autoridad competente, no determina “per se” un derecho adquirido a la reasignación del puesto, pues esta situación especial se asegura sólo en el momento en que previa tramitación de un complejo procedimiento administrativo, que incluye entre otras cosas estudios técnico ocupacionales y disponibilidad presupuestaria, la autoridad administrativa competente dicta un acto final debidamente fundamentado y se materializa la “reasignación” en la acción de personal correspondiente (Véanse las resoluciones N°s 2006-15780 de las 16:14 horas del 31 de octubre de 2006, 2005-01345 de las 16:23 horas del 14 de febrero de 2005, 2008-10005 de las 17:29 horas del 17 de junio de 2008, 2008-15316 de las quince horas del 10 de octubre de 2008 y 2011-004245 de las 14:45 horas del 30 de marzo de 2011, todas de la Sala Constitucional. Así como la Nº 054 -201 2 -VI de las 07:40 hrs. del 22 de marzo de 2012, Tribunal Contencioso Administrativo y Civil de Hacienda, Sección Sexta; No. 17-2011 de las 16:18 hrs. del 28 de febrero de 2011, Tribunal Contencioso Administrativo, Sección Segunda). Y sólo a partir de ese momento, y no antes, surten los derechos y deberes atinentes a la reasignación, en caso de que la misma sea resuelta favorablemente, antes de eso se tiene una mera expectativa (Véase al respecto la resolución 5696-2001 de la Sala Constitucional, así como los Oficios de GESTION 005-2007 Lineamientos técnicos; GESTIÓN 10-2008 Ejecución de estudios de reasignación de los puestos pertenecientes a las Oficinas de Recursos Humanos y órganos adscritos bajo el ámbito del Estatuto de Servicio Civil  y GESTION 212-2010 Referente a Reasignación de puestos)” (Dictamen C-036-2014).
+
+            De lo expuesto se colige que con la reasignación de puesto el servidor pasa a asumir en su totalidad nuevas tareas y responsabilidades de cara a una nueva y eventual clasificación del puesto. Y por ello, como presupuesto sine qua nom, es indispensable que servidor reúna los requisitos  (como por ejemplo, poseer un título en una carrera específica, un determinado grado de escolaridad o experiencia) de la clase a que se pretende la reasignación -clasificación formal preexistente- (Resoluciones Nºs   2006-00394 de las 15 :04 hrs. del 31 de mayo de 2006 y 2013-000498 de las 09:40 hrs. del 15 de mayo de 2013, ambas de la Sala Segunda). Lo que obliga a la Administración a sujetarse inexorablemente a una determinada estructura de empleo, por medio de la cual se define la clasificación de los puestos preexistente.
+
+            Por consiguiente, todo servidor cuyo puesto pretenda ser reasignado debe satisfacer a plenitud los requisitos fijados por el Manual descriptivo de puestos para la clase de puesto de que se trate, sean relativos a determinada preparación académica y/o de experiencia, que dependerán de las funciones específicas que conformen el puesto y que se consideran indispensables para el adecuado desempeño de sus funciones específicas (idoneidad demostrada, según postulado de los ordinales 191 y 192 constitucionales). A contrario sensu, no podría reasignarse un puesto si su titular no cumple con los requerimientos y atinencias necesarias para un eficiente y eficaz desempeño de aquel puesto (Véase, entre otras, la resolución 2009-000173 de las 09:45 hrs. del 25 de febrero de 2009, Sala Segunda).
+
+            Ahora bien, en cuanto a la acreditación del requisito académico (título profesional) con una certificación universitaria, debemos advertir que a nivel de la Dirección General de Servicio Civil –DGSC-, aquella es válidamente admitida, pero siempre y cuando haya sido emitida por la autoridad competente del respectivo centro de enseñanza superior e indique claramente que el estudiante ha cumplido con todos los requisitos de graduación y resta únicamente entregarle el título respectivo (Oficio Circular Gestión-005-202 de 1 de abril de 2002, del Director de Área Gestión de Recursos Humanos de la DGSC). Pero si adicional a la formación académico-profesional se requiere la incorporación al Colegio profesional respectivo, no creemos que la mera certificación universitaria pueda sustituir la materialidad del título académico –debidamente inscrito en el CONESUP, tratándose se centros de educación superior universitaria privados (arts. 14 de la Ley 6693 y 2 incisos b y h del decreto ejecutivo 29631-MEP)-, pues así lo hemos concluido, ya que una simple certificación universitaria no constituye un documento adecuado para acreditar la titulación y menos la incorporación a un colegio profesional (dictamen C-028-2001 de 8 de febrero de 2001 y C-084-2013 de 20 de mayo de 2013), acto este último distinto por el que determinada corporación legal habilita el ejercicio profesional específico (dictámenes C-148-97 de 11 de agosto de 1997, C-055-2001 de 27 de febrero de 2001, entre otros).
+
+            En consecuencia, si la acreditación de requisitos académico-profesionales, para una reasignación, se hiciera en contravención a lo explicado, podríamos estar ante un eventual vicio originario en uno o varios de los elementos del acto de reasignación dictado por la Administración, de ahí que aquel acto formal nació a la vida jurídica de forma irregular (art. 158 y ss. LGAP) y podría implicar su invalidación por nulidad, según la gravedad de la violación cometida (art. 165 Ibíd.).
+
+            En el contexto aludido, es que la Sala Constitucional, en su resolución Nº 2012004993 de las 09 :05 hrs. Del 20 de abril de 2012, advirtió expresamente y de forma vinculante a JUDESUR que la reasignación de plazas aludida en esta consulta constituyen actos declarativos de derechos a favor de los servidores beneficiados y si el estudio que la fundamentó técnicamente es incorrecto o los servidores no cumplen con los requisitos para la nueva descripción del cargo, la única forma de revertirla es a través del proceso contencioso de lesividad (arts. 183.3 LGAP, 10.5 y 34 del Código Procesal Contencioso Administrativo (CPCA), Ley Nº 8508); trámite que no debe ir precedido por un procedimiento administrativo ordinario, sino que basta la declaratoria de lesividad por parte del órgano superior jerárquico supremo de la jerarquía administrativa correspondiente –Junta Directiva en este caso-; esto en el entendido de que el acto adolece de un vicio que constituye una nulidad absoluta, en los términos de lo artículos 166 y 167 de la LGAP, y en segundo término, mientras sus efectos perduren (art. 34.1 del CPCA). O bien, excepcionalmente por el cauce formal previsto en el numeral 173 de la Ley General de la Administración Pública, conocida como la declaratoria de nulidad oficiosa o de pleno derecho en sede administrativa, siempre y cuando el vicio del que adolezcan constituya una nulidad absoluta, en los términos del artículo 173.1 de la Ley General de la Administración Pública; es decir, que además sea evidente y manifiesta
+[3]
+; potestad de revisión oficiosa que caduca en un año, a partir de la adopción del acto –caso de acto con efecto inmediato o instantáneo-, salvo que sus efectos perduren –caso de acto con efecto continuado- (art. 173.4 Ibíd.)
+[4]
+.
+
+            Es claro entonces que no puede la Administración de JUDESUR desconocer unilateral y arbitrariamente desconocer actos declarativos de derechos, máxime cuando la propia Sala Segunda ha señalado en sus precedentes que no procede suprimirse o revertirse una reasignación sin seguir los cauces procedimentales que da el ordenamiento jurídico, so pretexto de un error en el estudio administrativo (resolución 2013-000613 de las 09:55 hrs. del 7 de junio de 2013).
+
+            Tal y como lo advertimos en el dictamen C-084-2009 de 20 de marzo de 2009, tanto el trámite para recobrar sumas dinerarias pagadas de más, como el plazo de prescripción dentro del cual debe ejercerse aquella acción cobratoria por parte de la Administración Pública, han sido temas recurrentes en nuestra jurisprudencia administrativa (Véanse al respecto los dictámenes C-052-90 de 2 de abril de 1990, C-061-96 de 6 de agosto de 1996, C-137-96 de 6 de agosto de 1996, C-124-97 de 8 de julio de 1997, C-226-97 de 1º de diciembre de 1997, C-250-97 de 24 de diciembre de 1997, C-135-2000 de 15 de junio del 2000, C-111-2002 de 7 de mayo de 2002, el pronunciamiento OJ-252-2003 de 1º de diciembre de 2003, así como los dictámenes C-376-2004 de 13 de diciembre de 2004, C-068-2006 de 20 de febrero de 2006 y C-126-2008 de 18 de abril de 2008). Y en lo que interesa a la presente consulta, es de importancia indicar los siguientes corolarios:
+
+“1) De la integración normativa de lo dispuesto por los artículos 803 del Código Civil, 173, párrafo segundo del Código de Trabajo y 51 del        Estatuto de Servicio Civil y 203, siguientes y concordantes de la Ley General de la Administración Pública, la Administración Pública, en su condición de entidad patronal, está obligada a recuperar los pagos efectuados en exceso o por error a favor de sus servidores; esto como resguardo oportuno de los fondos públicos puestos a su alcance (pronunciamiento OJ-252-2003 op. cit).
+
+2) Para efectos de recuperación de sumas dinerarias pagadas en exceso       o indebida o erróneamente reconocidas por parte de la Administración Pública, independientemente de que éstas sean o hayan sido giradas a favor de servidores públicos o ex servidores, con base en lo dispuesto por los numerales 198, 207 y 208 de la Ley General de la Administración Pública, se tendrá siempre un plazo de cuatro años como límite para gestionar la acción cobratoria respectiva, ya sea a través del cobro           administrativo pertinente (arts. 308 y siguientes, en relación con el 148 y siguientes, todos de la Ley General de la Administración Pública)  o bien,          en caso de resultar infructuoso aquél, planteando el proceso ejecutivo           correspondiente en sede jurisdiccional  (Dictamen C-307-2004 de 25 de octubre de 2004. Y en sentido similar, los dictámenes C-376-2004 de 13          de diciembre de 2004, C-111-2002 de 7 de mayo de 2002, C-250-97 y C-226-97, respectivamente, de 24 y 1° de diciembre de 1997, C-124-97 de 8 de julio de 1997, C-061-96 y C-137-96 ambos de 6 de agosto de 1996, así como el C-068-2006 y el C-126-2008 op. cit.).
+
+3) De previo a que la Administración decida iniciar cualquier gestión cobratoria, es aconsejable  que analice y valore detenidamente, si aquél pago indebido o en exceso se fundamenta o no formalmente en un acto declaratorio de derechos, pues la existencia o no de aquella manifestación formal de la voluntad administrativa determinará la exigencia inexcusable de ejercer o no, de previo a la gestión cobratoria
+[5]
+  aludida en el párrafo anterior, la potestad de autotutela administrativa para revertir aquel acto administrativo, según corresponda en atención del grado de disconfomidad sustancial con el ordenamiento jurídico que contenga, ya sea a través del instituto de la lesividad  (numerales 183.1 de la Ley General de la Administración Pública, 10 inciso 5) y 34 del Código Procesal Contencioso Administrativo) o bien, de manera excepcional, de la potestad anulatoria administrativa (artículo 173 de la citada Ley General); procedimientos diferenciados
+[6]
+que deberán de seguirse con estricto respeto del principio constitucional de intangibilidad de los actos propios y siempre dentro del plazo de caducidad previsto por el ordenamiento (artículos 173.4 de la citada Ley General y 34.1 del Código Procesal Contencioso Administrativo). (Dictámenes C-068-2006 y el C-126-2008 op. cit.)” (dictamen C-084-2009 op. cit.).
+
+            Y por último, interesa advertir que en el empleo público no es posible considerar que los jerarcas estén facultados a remunerar a sus subalternos según las labores que en cada caso, se estimen realizadas. A cada puesto, el presupuesto institucional le asigna la remuneración respectiva, que debe ser respetada; sin perjuicio de la eventual responsabilidad personal derivada de la desatención a esa legalidad que haga incurrir a la Administración en gastos no autorizados (Resolución Nº 2006-01110 de las 10:15 hrs. del 30 de noviembre de 2006, Sala Segunda y artículo 56 de la Ley contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública, Nº 8422); lo que obliga a la Administración a sujetarse a una determinada estructura de empleo, por medio de la cual se define el número de plazas, la remuneración o pluses correspondiente a cada una de ellas, así como las labores y responsabilidades que competen a cada puesto (Resolución Nº 2008-000917 de las 11:00 hrs. del 22 de octubre de 2008, Sala Segunda).
+
+CONCLUSIONES:
+
+            Con base en las consideraciones jurídicas expuestas, esta Procuraduría General concluye:
+
+            1.- Conforme a lineamientos generales de la Dirección General de Servicio Civil, la acreditación del requisito académico (título profesional) con una certificación universitaria, es válidamente admitida, pero siempre y cuando haya sido emitida por la autoridad competente del respectivo centro de enseñanza superior e indique claramente que el estudiante ha cumplido con todos los requisitos de graduación y resta únicamente entregarle el título respectivo (Oficio Circular Gestión-005-202 de 1 de abril de 2002, del Director de Área Gestión de Recursos Humanos de la DGSC).
+
+            Pero si adicional a la formación académico-profesional se requiere la incorporación al Colegio profesional respectivo, no creemos que la mera certificación universitaria pueda sustituir la materialidad del título académico y menos la incorporación a un colegio profesional; acto este último distinto por el que determinada corporación legal habilita el ejercicio profesional específico.
+
+            2.- Si la acreditación de requisitos académico-profesionales, para una reasignación, se hiciera en contravención a lo explicado, podríamos estar ante un eventual vicio originario en uno o varios de los elementos del acto de reasignación dictado por la Administración, de ahí que aquel acto formal nació a la vida jurídica de forma irregular (art. 158 y ss. LGAP) y podría implicar su invalidación por nulidad, según la gravedad de la violación cometida (art. 165 Ibíd.).
+
+            3.- Debido a que los pagos salariales presuntamente indebidos se originaron formalmente en un acto expreso –la reasignación de puestos-, de previo a que la Administración de JUDESUR decida iniciar cualquier gestión cobratoria, tal y como lo indicó de forma expresa y vinculante la Sala Constitucional en su resolución Nº 2012004993 de las 09 :05 hrs. Del 20 de abril de 2012, debe revertir aquel acto declarativo de derechos según corresponda; esto en atención  del grado de disconfomidad sustancial con el ordenamiento jurídico que contenga, ya sea a través del instituto de la lesividad  (numerales 183.1 de la Ley General de la Administración Pública, 10 inciso 5) y 34 del Código Procesal Contencioso Administrativo) o bien, de manera excepcional, de la potestad anulatoria administrativa (artículo 173 de la citada Ley General); procedimientos diferenciados que deberán de seguirse con estricto respeto del principio constitucional de intangibilidad de los actos propios y siempre dentro del plazo de caducidad previsto por el ordenamiento (artículos 173.4 de la citada Ley General y 34.1 del Código Procesal Contencioso Administrativo).
+
+            Sin otro particular,
+
+MSc. Luis Guillermo Bonilla Herrera
+
+Procurador Adjunto
+
+Área de la Función Pública
+
+LGBH/vhv
+
+Cc: MBA. Edier Navarro Esquivel, Auditor Interno, JUDESUR.
+
+                [1] Véase la resolución Nº 2013-000422 de las 08:55 hrs. del 19 de abril de 2013, Sala Segunda.
+
+[2]
+(…) el titular no tiene derecho alguno a exigir en una reasignación la clase específica que sea de su interés, sino a solicitar el estudio para que sea el órgano público el que defina la clasificación que mejor corresponde a sus intereses. En la reasignación, el titular del cargo sigue la suerte del puesto (…)” (Resoluciones N°s 0050 -2013 de las 15:00 hrs. del 29 de mayo de 2013 y 0071-2013 de las 11:00 hrs. del 8 de agosto de 2013, ambos del Tribunal Contencioso Administrativo y Civil de Hacienda, Sección Cuarta).  “(…) ningún funcionario detenta un derecho a que su puesto sea reasignado, ya que ello depende de las necesidades institucionales en procura de alcanzar el interés público que debe proteger (…)” (Resolución Nº 80-2012 de las 16:30 hrs. del 30 de agosto de 2012, Tribunal Contencioso Administrativo y Civil de Hacienda, Sección Octava).
+
+            [3]           “Lo evidente y manifiesto es lo que resulta patente, notorio, ostensible, palpable, claro, cierto y que no ofrece ningún margen de duda o que no requiere de un proceso o esfuerzo dialéctico o lógico de verificación para descubrirlo, precisamente, por su índole grosera y grave. En tal sentido, basta confrontar el acto administrativo con la norma legal o reglamentaria que le dan cobertura para arribar a tal conclusión, sin necesidad de hermenéutica o exégesis ninguna (...)” ( Resolución Nº 2003-4369 de las 08:30 horas del 23 de mayo del 2003, Sala Constitucional).
+
+            [4]           Sobre diferencia conceptual entre acto de efecto instantáneo y de efectos continuados, véanse las  resoluciones 001426-F-S1-2012 de las 10:10 hrs. del 23 de octubre de 2012 y  0001533-F-S1-2012 de las 09:00 hrs. del 20 de noviembre de 2012, ambas de la Sala Primera.
+
+            [5]           Gestión cobratoria que alude la realización del respectivo procedimiento ordinario (art. 308 y ss LGAP) y las intimaciones de ley (art. 150.2 Ibídem). Para mayor detalle, véase el dictamen C-014-2008 de 18 de enero de 2008.
+
+            [6]           Por ejemplo, hemos insistido en que la declaratoria de lesividad, a diferencia de la anulación administrativa, no debe ir precedida por un procedimiento administrativo ordinario, sino que basta la declaratoria de lesividad por parte del órgano superior de la jerarquía administrativa correspondiente. Véase “Manual de Procedimiento Administrativo”, Procuraduría General de la República. San José, Costa Rica, 2007.
