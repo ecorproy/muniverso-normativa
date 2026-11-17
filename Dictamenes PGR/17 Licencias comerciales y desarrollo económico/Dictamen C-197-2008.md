@@ -1,0 +1,140 @@
+---
+numero: "C-197-2008"
+tipo: "Dictamen de la Procuraduría General de la República"
+fecha: "09/06/2008"
+consultante: "Alberto Aguilar Escobedo"
+institucion: "Teatro Nacional"
+materia: "Licencias comerciales y desarrollo económico"
+temas: "Regulación de espectáculos públicos; espectáculos públicos"
+enlace: "https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=15216&param2=0"
+descargado: "2026-11-17"
+---
+# Dictamen C-197-2008
+
+Dictamen : 197 - del 09/06/2008
+
+C-197-2008
+
+09 de junio de 2008
+
+Señor
+
+Alberto Aguilar Escobedo
+
+Auditor Interno
+
+Teatro Nacional
+
+S.  O.
+
+Estimado señor:
+
+            Con la aprobación de la señora Procuradora General de la República, me refiero a su oficio N° AITN 27-03-2008 de fecha 27 de marzo de 2008,   mediante el cual consulta a este Órgano Asesor sobre el destino del 50% del impuesto sobre espectáculos públicos asignado al Teatro Nacional mediante las  Leyes N° 3632 y 5780. En torno a dicho asunto, se realizan las siguientes interrogantes:
+
+1.-        ¿Puede el Teatro Nacional hacer uso de los recursos recibidos por concepto del impuesto sobre espectáculos para cubrir erogaciones para sus labores de extensión cultural, o solamente para las obras de restauración, remodelación y mantenimiento?
+
+2.-        En el caso de que el uso de los recursos provenientes de los impuestos sobre espectáculos sea para el uso exclusivo de las obras de restauración, remodelación y mantenimiento, ¿cuáles rubros de gastos deben ser cubiertos por este impuesto?  ¿Pueden incluirse los gastos provenientes de salarios y cargas sociales de los funcionarios nombrados en propiedad en este programa?
+
+A efecto de evacuar la consulta presentada, esta Procuraduría mediante oficio N° ADPb-1249-2008 del 07 de abril de 2008, concedió audiencia a la jerarca del Ministerio de Cultura y Juventud.  Mediante oficio N° D.M.-405-2008 fechado 15 de abril de 2008, recibido en este Despacho el día 16 del mismo mes y año, la referida Ministra contesta la audiencia otorgada, indicando en lo conducente:  “En cuanto al porcentaje asignado al Teatro Nacional, (50% del total de ingresos por Este (sic) impuesto) por ley debe destinarse a financiar las acciones encaminadas al adecuado mantenimiento, remodelación y restauración de este Monumento Nacional por lo que este Despacho no considera procedente que de ese porcentaje puedan cubrirse salarios y cargas sociales de los funcionarios del Teatro, en vista de la especificidad con que fue designado el tributo, por ley.”
+
+I.         Los antecedentes legislativos de las Leyes N° 3632 y 5780 respecto a la distribución del producto del impuesto sobre espectáculos públicos.
+
+            Dado que la construcción del Teatro Nacional data de 1890, nuestros legisladores de antaño, preocupados por el deterioro que dicho coliseo había alcanzado en el año 1965, decidieron financiar su restauración y conservación con los ingresos recaudados del impuesto sobre espectáculos públicos establecido en la Ley Nº 3 del 14 de diciembre de 1918, reformada por las Leyes N° 841 de 15 de enero de 1947 y 228 de 13 de octubre de 1948.  Lo anterior, se desprende de la exposición de motivos de la Ley N° 3632, tramitada bajo el número de expediente legislativo N° 2351.  Asimismo, también se pretendió destinar dicho tributo  para promover la labor artístico-educacional.
+
+En ese sentido, resulta importante revisar los antecedentes legislativos de las leyes que otorgaron a ambos programas el producto del impuesto sobre espectáculos públicos, con el fin de determinar si los recursos asignados al Teatro Nacional pueden emplearse para financiar sus labores de extensión cultural. Al respecto, el texto original del Proyecto de la Ley N° 3632, contempló en su artículo 4° que, una vez concluido el plan de restauración, correspondería a la Junta Directiva del Teatro Nacional redireccionar los recursos provenientes del impuesto sobre espectáculos públicos al mantenimiento y conservación del edificio,  y a la labor artística, educacional y cultural encomendada al Teatro Nacional.  Dicho numeral disponía:
+
+“ARTÍCULO 4°.-  Efectuado el plan de restauración del Teatro Nacional, el impuesto se continuará girando a la Junta Directiva como aporte fijo del Poder Ejecutivo para que ésta lo invierta en el mantenimiento y conservación del edificio y para ampliar la necesaria labor artística, educacional y cultural que debe desarrollarse en el Teatro Nacional.”
+
+            Como puede observarse, en un principio se pretendió asignar recursos directamente a la Junta Directiva para la labor artístico-educacional que se desarrollaría en el Teatro Nacional.  No obstante, en la sesión de la Comisión Permanente de Asuntos Sociales del día 20 de octubre de 1965, se aprobó una moción presentada por los diputados Murillo Saborío, Cañas Escalante, Gutiérrez Zamora y Cárdenas Cubillo, en los siguientes términos:
+
+“PARA QUE EN EL ARTICULO 4° DESPUES DE” Y SE INVERTIRA..” agregar el siguiente párrafo:  EN LAS OBRAS DE MANTENIMIENTO, CONSERVACIÓN Y MEJORAMIENTO DEL TEATRO NACIONAL Y UNA VEZ LLENADAS ESAS NECESIDADES ANUALES EN AMPLIAR LA LABOR ARTÍSTICO-EDUCACIONAL ENCOMENDADA A LA DIRECCIÓN GENERAL DE ARTES Y LETRAS EXCLUSIVAMENTE PARA LOGRAR LA PRESENTACIÓN DE ESPECTACULOS DE ALTA CATEGORIA ARTISTICO- CULTURAL EN EL TEATRO NACIONAL A PRECIOS QUE ESTEN AL ALCANCE DE TODAS LAS CLASES SOCIALES, MEDIANTE PLANES COORDINADOS ENTRE LA JUNTA DIRECTIVA DEL TEATRO NACIONAL Y LA DIRECCION GENERAL DE ARTES Y LETRAS.” Folio 17 del expediente legislativo N° 2351. (El resaltado y subrayado no son del original)
+
+            De esta forma, nuestro legislador aclara que los recursos asignados a la labor artístico-educacional deberán destinarse a la Dirección General de Artes y Letras, la cual coordinará con la Junta Directiva del Teatro Nacional, los planes necesarios para lograr espectáculos de alta categoría artístico-cultural a precios accesibles para todo público.  Disposición que finalmente se incorporó en el numeral 5 de la Ley N° 3632, así:
+
+“ARTÍCULO 5. Cumplido el plan de restauración que se elabore, el impuesto se continuará girando a la Junta Directiva como aporte fijo del Poder Ejecutivo, y se invertirá en las obras de mantenimiento, conservación y mejoramiento del Teatro Nacional; y una vez llenadas esas necesidades anuales, en ampliar la labor artístico-educacional, encomendada a la Dirección General de Artes y Letras, exclusivamente para lograr la presentación de espectáculos de alta categoría artística y cultural en el Teatro Nacional, a precios que estén al alcance de todas las clases sociales mediante planes coordinados entre la Junta Directiva del Teatro Nacional y la Dirección General de Artes y Letras.” (El resaltado y subrayado no son del original)
+
+            Posteriormente, en el año 1974, la mencionada Ley fue objeto de reforma mediante la Ley N° 5780, cuyo Proyecto se tramitó bajo el número de expediente legislativo N°6049, titulado originalmente como “Ley de Financiamiento para el Teatro Nacional, la Orquesta Sinfónica Nacional, la Dirección General de Artes y Letras, y la Compañía Nacional de Teatro”.  Su objetivo primordial consistió en asegurar que los recursos provenientes del impuesto sobre espectáculos públicos, se  dirigieran a lograr los dos objetivos principales de la Ley N° 3632:  1.- La restauración, mantenimiento y conservación del Teatro Nacional; y 2.- Promover la labor artístico-cultural.
+
+En consideración al segundo programa apuntado supra, y dado que al momento de la promulgación de la Ley N° 3632, no existía el Ministerio de Cultura, Juventud y Deportes, nuestros legisladores estimaron que la creación de dicha Cartera mediante Ley N° 4788 del 05 de julio de 1971, ameritaba actualizar y adaptar la Ley N° 3632 para asegurar una distribución más adecuada del impuesto sobre espectáculos públicos.  De esta forma, se pretendió dotar de contenido económico a la Compañía Nacional de Teatro, a la Orquesta Sinfónica Nacional y a la Dirección General de Artes y Letras, todas unidades ministeriales a las cuales les fueron encomendadas labores de extensión cultural.   Al respecto, en la exposición de motivos del Proyecto en mención, se señaló:
+
+“Ahora bien, es necesario, para terminar las obras de restauración de ese Teatro y llevar a cabo los programas de extensión cultural que realiza el Ministerio de Cultura, Juventud y Deportes, actualizar esa ley y adaptarla en forma conveniente para que los ingresos efectivamente se puedan utilizar en esas labores.
+
+La necesidad de actualizar la ley, se debe al hecho de que se emitió en tiempos en que aún no se había creado el Ministerio de Cultura, Juventud y Deportes, y por lo tanto no existían en ese entonces unidades de tanta importancia cultural como la Compañía Nacional de Teatro, la Orquesta Sinfónica Nacional y la Orquesta Sinfónica Juvenil.  Por otra parte, la Dirección General de Artes y Letras, en todo el campo de estímulo a las artes plásticas y a las letras, ha visto disminuido de hecho sus recursos anuales.  De aquí, entonces, la urgencia de dar contenido económico a las actividades de extensión cultural que realizan las unidades del Ministerio de Cultura, Juventud y Deportes, como son la Compañía Nacional de Teatro, la Orquesta Sinfónica Nacional y la Dirección General de Artes y Letras.” (El resaltado y subrayado no son del original)
+
+            A partir de lo expuesto anteriormente, el legislador consideró conveniente distribuir de manera porcentual el producto del impuesto sobre espectáculos públicos entre sus distintos beneficiarios. Tal proceder aseguraría que los recursos destinados tanto para la restauración, remodelación y mantenimiento del Teatro Nacional, como para las labores de extensión cultural realizadas por las mencionadas unidades del Ministerio de Cultura, Juventud y Deportes, sería utilizado únicamente para dichos fines. Por ello, el artículo 1 de la Ley N°5780 del 11 de agosto de 1975, finalmente dispuso:
+
+“Artículo 1º.- El impuesto sobre espectáculos públicos asignado a la restauración del Teatro Nacional y a sus labores de extensión cultural, establecido en la ley Nº 3632 de 16 de diciembre de 1965, se distribuirá de la siguiente forma: un 50% del ingreso de ese impuesto se otorgará a la Junta Directiva del Teatro Nacional, para atender las obras de restauración, remodelación y mantenimiento del Teatro Nacional; un 30% a la Compañía Nacional de Teatro, para sus programas de extensión, difusión y promoción; un 10% para la Dirección General de Artes y Letras; y un 10% para los programas juveniles de la Orquesta Sinfónica Nacional, todas unidades del Ministerio de Cultura, Juventud y Deportes, que cumplen actividades de extensión cultural.”  (El resaltado y subrayado no son del original)
+
+            Sobre la precedente disposición transcrita, resulta necesario acotar dos observaciones.  Primero, la parte introductoria de esa norma no puede conllevar al equívoco de afirmar que los recursos destinados al Teatro Nacional mediante la Ley N° 3632  se extendieron para financiar sus labores de extensión cultural. Lo anterior, por cuanto los antecedentes legislativos de la mencionada ley evidencian que los ingresos destinados para dicho programa fueron asignados únicamente a la Dirección General de Artes y Letras.  Segundo, el 50% de los ingresos provenientes del impuesto sobre espectáculos públicos otorgado por Ley N° 5780 al Teatro Nacional,  no podrán utilizarse para labores de extensión cultural.  Criterio que  fácilmente se colige de la norma en cuestión, al indicar  que dicho porcentaje es para atender las obras de restauración, remodelación y mantenimiento del Teatro Nacional.
+
+Por consiguiente, es dable concluir que el rubro correspondiente a labores de extensión cultural contenido en la última ley de cita, se distribuyó solamente entre la Compañía Nacional de Teatro, la Orquesta Sinfónica Nacional y la Dirección General de Artes y Letras, las cuales como se ha indicado son unidades del Ministerio de Cultura y Juventud.  Conclusión, que también es confirmada con lo expuesto en el Dictamen de Mayoría Afirmativo de la Ley N° 5780:
+
+“Con la reforma que en el año de 1965 se le hizo a la Ley de Espectáculos Públicos para financiar los gastos de restauración del Teatro Nacional, se dio un paso firme en la labor de salvamento del deterioro de los años a nuestro querido Teatro Nacional y sus valiosas obras de arte.
+
+Así como fue de beneficiosa la reforma a que antes nos hemos referido, pues el resultado es de todos conocido, asimismo consideramos conveniente el proyecto sometido a nuestro estudio, tendiente a señalar una nueva distribución al producto de ese impuesto, acorde con los programas culturales que está desarrollando el Ministerio de Cultura, Juventud y Deportes.
+
+Para los miembros de esta Comisión ha sido muy satisfactorio aprobar este proyecto de ley y contribuir en esta forma al logro de un mayor desarrollo cultural en beneficio de todas las clases sociales.” (El resaltado y subrayado no son del original)
+
+En tales circunstancias, y dado que el espíritu de la norma se dirige a evitar el menoscabo de la infraestructura y las obras de arte del Teatro Nacional, resulta indiscutible que los recursos asignados a ese Monumento mediante Ley N° 5780 deben destinarse exclusivamente para su restauración, remodelación y mantenimiento. En consecuencia, dichos recursos no abarcan labor de extensión cultural alguna, ya que para el cumplimiento de esta última finalidad, le fue asignado un porcentaje determinado a la Compañía Nacional de Teatro, a la Dirección General de Artes y Letras y a la Orquesta Sinfónica Nacional, todas dependencias del Ministerio de Cultura y Juventud.
+
+II.        En cuanto al porcentaje del impuesto sobre espectáculos públicos asignado al Teatro Nacional mediante Ley N°5780.
+
+La potestad tributaria del Estado para establecer tributos y el deber de contribuir con los gastos públicos, constituyen dos disposiciones constitucionales que se relacionan estrechamente entre sí.  Lo anterior, porque mediante el pago de tributos se da cabal cumplimiento a la referida contribución.  Tales ingresos también pueden dirigirse a financiar determinados programas sociales, culturales, entre otros.  Por esta razón, el legislador está  facultado para asignar a los tributos un destino específico.  En cuyo caso, este tipo de impuesto no podría deslindarse del fin para el cual fue creado, por cuanto perdería su razón de ser.  Criterio que ha sido trazado por la Sala Constitucional en los Votos N° 4528-1999, 4529-1999 y 11165-2004.
+
+En el caso objeto de consulta, el artículo 1 de la Ley N° 5780 establece un destino específico para el impuesto sobre espectáculos públicos, tributo que fue creado mediante Ley N°  3 del 14 de diciembre de 1918, reformada por Leyes N° 841 de 15 de enero de 1947 y N° 228 de 13 de octubre de 1948.  El precepto en cuestión distribuye el producto de ese impuesto entre varios beneficiarios, con la finalidad de que se destine a un determinado propósito o programa.   De esta forma, el legislador otorgó el 50% de los ingresos provenientes del tributo en mención a la Junta Directiva del Teatro Nacional para atender únicamente las labores de restauración, remodelación y mantenimiento del Teatro.  Para efectos meramente aclarativos, valga advertir que mediante el artículo 3º de la Ley Nº 8290 de 23 de julio de 2002,  se creó el Consejo del Teatro Nacional, mismo que por las funciones otorgadas vino a sustituir a la mencionada Junta Directiva.
+
+En ese contexto, el Consejo del Teatro Nacional se encuentra compelido a respetar el destino específico del porcentaje del tributo asignado mediante Ley N° 5780.  De lo contrario, su inobservancia conllevaría a la desnaturalización del mencionado tributo, así como a una flagrante  violación al principio de legalidad, según el cual todas las actuaciones de la Administración deben ajustarse al ordenamiento jurídico, de conformidad a lo dispuesto en los numerales 11 de la Constitución Política y de la Ley General de la Administración Pública.
+
+Así también, resulta importante indicar que aunque los ingresos provenientes del impuesto sobre espectáculos públicos, no forman parte del Fondo del Teatro Nacional creado mediante el artículo 7 de la Ley N° 8290, estos sí integran su patrimonio, según se desprende de lo dispuesto en el artículo 4 del Reglamento de la citada ley, Decreto N° 31235-C del 19 de marzo de 2003:
+
+“Artículo 4º—Patrimonio. El patrimonio del Teatro Nacional estará conformado por sus instalaciones, el fondo creado por el artículo 7 de su Ley de creación, el monto que le corresponda de lo recaudado por el impuesto sobre espectáculos públicos, según la Ley Nº 3 de 1918 y sus reformas, y todos aquellos bienes muebles e inmuebles que llegaren a pertenecerle en el futuro.” (El resaltado y subrayado no son del original)
+
+Dicho patrimonio será administrado por el Consejo del Teatro Nacional, pero su gestión permanecerá ligada al Ministerio de Cultura, por cuanto el canon 1° la Ley N°8290 lo constituyó como un órgano con desconcentración mínima de dicha Cartera, confiriéndole personalidad jurídica instrumental para administrar sus propios fondos. Al respecto, la Contraloría General de la República mediante oficio N° DAGJ-363-2003 de 24 de marzo de 2003, al analizar la naturaleza y alcance del fenómeno jurídico de la desconcentración de competencias, en ocasión de una consulta realizada por el aquí también consultante, señaló:
+
+“En ese sentido, se considera que la personalidad jurídica instrumental constituye una personalidad presupuestaria, que permite al órgano desconcentrado administrar un propio presupuesto y, por ende, con independencia del Presupuesto del ente público al que pertenece.  La personalidad instrumental permitiría al órgano disponer de determinados bienes en forma separada del ente al que pertenece.  Y si es titular de bienes, es titular de un patrimonio y de un presupuesto que le permita manejar ese patrimonio.
+
+(…)
+
+En ese sentido, debe integrarse la normativa que fue citada en el aparte anterior, en el sentido de que el Teatro Nacional, a pesar de que el legislador le ha conferido un grado de desconcentración mínima para el cumplimiento de sus especiales funciones que se describen en la propia ley, es lo cierto que sigue siendo un órgano del Ministerio de Cultura, por lo que su gestión no puede encontrarse abiertamente desvinculada a dicho ministerio.”  El subrayado no es del original.
+
+Por ello, el Consejo del Teatro Nacional debe  rendir anualmente al Ministerio de Cultura, un informe detallado de su labor para dar a conocer los niveles de ejecución programática y presupuestaria, al tenor de lo previsto en el numeral 4 inciso ñ) de la Ley N° 8290. Como es lógico, dicho informe también comprende todo lo relacionado con los recursos otorgados al Teatro Nacional mediante el artículo 1 de la Ley N° 5780, los cuales aunque formen parte de su patrimonio deben destinarse únicamente al fin establecido por el legislador.
+
+III.      Los ingresos asignados al Teatro Nacional por Ley N° 5780, abarcan únicamente los gastos necesarios para atender su restauración, remodelación y mantenimiento.
+
+En cuanto a la interrogante de ¿cuáles rubros de gastos deben ser cubiertos por este impuesto?, refiriéndose el consultante al porcentaje del impuesto sobre espectáculos públicos asignado para las obras de restauración, remodelación y mantenimiento del Teatro Nacional, este órgano asesor considera que serán únicamente los gastos necesarios para atender dicho programa.  Ello, sin obviar que corresponderá a la Contraloría General de la República determinar la procedencia de esos gastos,  por cuanto a dicho ente le fue encomendada la labor de vigilar el uso correcto de tales recursos, al disponer el párrafo final del artículo 2 de la Ley N° 5780 que:  “La Contraloría General de la República, vigilará la distribución de los ingresos, el empleo correcto de los mismos y el estricto cumplimiento de las disposiciones de este artículo.”  (El resaltado y subrayado no es del original)
+
+Por otra parte, la consulta también versa sobre la posibilidad de incluir dentro del citado rubro de gastos, los salarios y cargas sociales de los funcionarios nombrados en propiedad en el programa de restauración, remodelación y mantenimiento del Teatro Nacional.  Sin detrimento de lo expuesto en el párrafo anterior,  este órgano consultivo en Dictamen C-415-2005 de 07 de diciembre de 2005, analizó el tema del financiamiento de gastos administrativos (pago de salarios, salario escolar, aguinaldo y de otra naturaleza similar) mediante el uso de recursos asignados por el legislador a determinadas instituciones, sobre lo cual concluyó:
+
+“(…) la técnica parlamentaria aconseja, y esta es la dirección que ha seguido el legislador, asignar determinados porcentajes máximos para financiar gastos administrativos, destinar enteramente la ayuda a determinados programas o prohibir el financiamiento de los gastos administrativos con los recursos que recibe la entidad.  Sin embargo, mientras esto no ocurra, y al no indicarse programas específicos a financiar, la entidad beneficiaria jurídicamente está autorizada a destinar los recursos al pago de gastos administrativos, siempre y cuando, claro está, constituyan presupuestos necesarios para la actividad social que desarrolla, razón suficiente para que el legislador les otorgue la asignación o subvención, y no se presente un abuso irrazonable y desproporcionado con tales recursos en el financiamiento del rubro administrativo, lo que podría traducirse en un no beneficio para los sectores vulnerables. En el eventual caso de que se dé esta última hipótesis, corresponderá a los órganos de control y fiscalización adoptar las recomendaciones correspondientes para que la entidad corrija tal situación, para que se haga un uso racional, eficaz y eficiente de los recursos que recibe y, de esa manera, cumpla con los fines sociales que la han hecho destinataria de los fondos públicos, en especial que la ayuda llegue efectivamente a los sectores sociales. (…)”
+
+En el asunto bajo estudio, el legislador en el canon 1 de la Ley N° 5780 estableció los programas específicos a los cuales debe dirigirse el producto del impuesto sobre espectáculos públicos, sin asignar porcentaje alguno para cubrir los gastos administrativos de los mismos.  Bajo esa óptica,  los recursos destinados al Teatro Nacional no incluirían la contratación de personal.  No obstante, si consideramos la naturaleza del programa al cual se asignó dicho porcentaje de ingresos, es innegable que  el recurso humano es indispensable y fundamental para llevar a cabo la restauración, remodelación y mantenimiento del Teatro Nacional.  De manera que, si la finalidad del programa en cuestión es evitar el deterioro de la edificación y sus valiosas obras de arte, resultaría necesaria la contratación de servidores que se encarguen de realizar periódicamente tales labores.
+
+Ahora bien,  el legislador asignó al Consejo del Teatro Nacional dos funciones relacionadas con el referido programa:  La primera es utilizar el 50% del impuesto para “atender” las obras de restauración, remodelación y mantenimiento del Teatro Nacional (artículo 1 de la Ley N° 5780).  En tanto, la segunda se dirige a “fortalecer” el programa de mantenimiento y conservación del edificio patrimonial que alberga el Teatro Nacional (artículo 4 inciso h de la Ley N° 8290).
+
+En consideración a tales funciones, es factible la contratación de servidores nombrados en propiedad,  cuando así se requiera para la atención y fortalecimiento de dicho programa.  Para ello, deberán respetarse los procedimientos administrativos y presupuestarios establecidos a efecto de asignar los recursos provenientes del porcentaje del tributo destinado al Teatro Nacional, para el pago de salarios de los funcionarios nombrados en propiedad que laboran únicamente en el mencionado programa.  Lo anterior, porque aunque el Teatro Nacional goza de personalidad jurídica instrumental para administrar sus fondos, no puede obviarse que se constituyó como un órgano del Ministerio de Cultura.  Por ende, en los términos del artículo 4 incisos c) y ñ) de la Ley N° 8290, el Consejo del Teatro Nacional se encuentra obligado por ley, a proponer a dicho Ministerio los presupuestos ordinarios y extraordinarios, así como a informarle de los niveles de ejecución programática y presupuestaria del Teatro Nacional.
+
+En virtud de lo expuesto, el referido Consejo no podría destinar los recursos que le fueron asignados en la Ley N° 5780, para pagar los salarios y cargas sociales de los funcionarios del Teatro Nacional que realizan tareas ajenas al programa de restauración, remodelación y mantenimiento de dicho Monumento. De lo contrario, se estaría incumpliendo con la exigencia primordial de respetar el destino específico del porcentaje del impuesto sobre espectáculos públicos otorgado, además de violentarse el principio de legalidad que rige las actuaciones de la Administración Pública.
+
+Finalmente, según se ha indicado, corresponderá a la Contraloría General de la República verificar que el producto del impuesto sobre espectáculos públicos asignado al Teatro Nacional, se disponga únicamente para atender su restauración, remodelación y mantenimiento.  Lo anterior significa que el Consejo del Teatro Nacional deberá demostrar a dicho ente contralor que los funcionarios, cuyo salario es pagado con los ingresos provenientes del tributo en mención, laboran dentro del programa al cual fueron destinados dichos recursos, y además, que las funciones que éstos realizan son necesarias para el cumplimiento del fin perseguido por el legislador.
+
+III.      Conclusiones
+
+1.         El impuesto sobre espectáculos públicos es un tributo con destino específico, por tanto, los beneficiarios sólo pueden utilizar los recursos asignados para cumplir el fin establecido por el legislador.
+
+ 2.        De conformidad a lo dispuesto en el artículo 1 de la Ley N° 5780, el cincuenta por ciento de los ingresos del impuesto sobre espectáculos públicos que le corresponde al Teatro Nacional, deberá invertirse únicamente para atender su restauración, remodelación y mantenimiento.    Lo anterior significa que dicho porcentaje no podrá utilizarse para financiar labores de extensión cultural, ya que para la atención de dicho programa el legislador destinó recursos a la Dirección General de Artes y Letras, a la Compañía Nacional de Teatro y  a la Orquesta Sinfónica Nacional, todas unidades del Ministerio de Cultura y Juventud.
+
+3.         Los gastos que deben cubrirse con los recursos asignados al Teatro Nacional serán únicamente los necesarios para llevar a cabo el programa al cual fueron destinados, sea su restauración, remodelación y mantenimiento. Asimismo, corresponde a la Contraloría General de la República determinar la procedencia de dichos gastos, ya que el artículo 2 de la Ley N° 5780 le encomienda vigilar el correcto empleo de esos ingresos.
+
+ 4.        Los salarios de los funcionarios nombrados en propiedad que laboran de manera exclusiva para el programa de restauración, remodelación y mantenimiento del Teatro Nacional, podrán ser cubiertos con los fondos asignados al Teatro por la Ley N°5780. No obstante, deberán respetarse los procedimientos administrativos y presupuestarios establecidos en el ordenamiento jurídico para ese efecto.
+
+5.         En consonancia con el principio de legalidad que rige las actuaciones de la Administración Pública, el Consejo del Teatro Nacional no podrá destinar los recursos provenientes del impuesto sobre espectáculos públicos para sus labores de extensión cultural, ni para pagar los sueldos de los funcionarios del Teatro que realizan tareas ajenas al programa de restauración, remodelación y mantenimiento de dicho Monumento.
+
+Con toda consideración, suscribe atentamente,
+
+Licda. Maureen Patricia Vega Sánchez
+
+Procuradora Adjunta
+
+CC: Licda. María Elena Carballo Castegnaro/ Ministra de Cultura y Juventud
+
+MPVS/msch
