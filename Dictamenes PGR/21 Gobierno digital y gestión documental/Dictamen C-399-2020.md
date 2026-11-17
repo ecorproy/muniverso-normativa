@@ -1,0 +1,153 @@
+---
+numero: "C-399-2020"
+tipo: "Dictamen de la Procuraduría General de la República"
+fecha: "14/10/2020"
+consultante: "Garita Mora Enrique"
+institucion: "Colegio de Optometristas de Costa Rica"
+materia: "Gobierno digital y gestión documental"
+temas: "Sede electrónica municipal"
+enlace: "https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=22381&param2=0"
+descargado: "2026-11-17"
+---
+# Dictamen C-399-2020
+
+Dictamen : 399 - del 14/10/2020
+(Reconsiderado de oficio parcialmente)
+
+14 de octubre de 2020
+
+C-399-2020
+
+Doctor
+
+Enrique Garita Mora
+
+Presidente de la Junta Directiva
+
+Colegio de Optometristas de Costa Rica
+
+Estimado señor:
+
+            Con la aprobación del señor Procurador General de la República doy respuesta a su oficio 066-Oct-2020 de 1 de octubre de 2020.
+
+            En el oficio N.° 066-Oct-2020 de 1 de octubre de 2020, el Presidente del Colegio de Optometristas de Costa Rica nos comunica que mediante el acuerdo 67-2020 de la sesión ordinaria N.° 990 del 15 de setiembre 2020 de la Junta Directiva, se acordó consultar a la Procuraduría General distintos asuntos relacionados con la posibilidad de celebrar su Asamblea General de forma virtual y con el alcance de la Ley N.° 9866 de 18 de junio de 2020.
+
+            Específicamente, se ha consultado a la Procuraduría General de la República las siguientes cuestiones de Derecho:
+
+- ¿Si la asamblea general ordinaria puede realizarse por canales virtuales, asimismo si las asambleas generales extraordinarias que fuese necesario convocar pueden celebrase igualmente por canales virtuales?;
+
+- De poder celebrase esas asambleas en forma virtual: ¿La celebración de Asambleas Virtuales  está supeditada al tiempo de declaratoria de la emergencia sanitaria por la pandemia del Covid 19, o será del caso que aun levantada la emergencia sanitaria, se puede concurrir la celebración de asambleas virtuales y elegirse cargos de Junta Directiva de manera virtual?;
+
+- ¿Qué elementos debe contener la convocatoria, tratándose de una asamblea -ordinaria o extraordinaria- virtual; ¿debe señalarse el medio tecnológico a emplear, específicamente, o basta con indicar en la convocatoria que los agremiados pueden acceder con antelación -un plazo razonable- a un link y que deben realizar proceso de registro previo?;
+
+.- ¿Podría estimarse que un proceso de registro previo es un mecanismo de control legítimo para garantizar que concurran agremiados con el derecho a participar de la asamblea correspondiente?;
+
+- ¿Es válido en virtud de la logística que podría implicar una asamblea general virtual establecer "un corte", sea que se fije una fecha límite, verbigracia 24 horas antes de la celebración de la asamblea para que los agremiados se registren, so pena de no poder participar de la asamblea, o debe permitirse el registro incluso minutos antes o durante el curso de la asamblea, en este último supuesto bajo el entendido de que quien se incorpora tarde a la asamblea la toma en el estado en que se encuentre?
+
+--- ¿Puede el Colegio de Optometristas de Costa Rica acogerse a la Ley n.° 9866 en virtud de la imposibilidad de celebrar sus asambleas por canales virtuales, debido por ejemplo a no contar con los medios económicos para las contrataciones correspondientes de proveedores que permitan el desarrollo de estas asambleas virtuales y demás costos aparejados que implican?
+
+-¿Puede la Junta Directiva del Colegio de Optometristas ante la imposibilidad de realizar la asamblea general ordinaria, únicamente aprobar el presupuesto formulado para el año económico siguiente y no podría aprobar la cuenta general de gastos del año económico anterior, sobre qué otros extremos podría intervenir la Junta Directica de manera excepcional, siendo habitualmente competencias de la Asamblea General?.
+
+La Administración consultante adjunta el criterio legal de su asesor legal externo de 30 de setiembre de 2020, el cual analiza, de forma exhaustiva, la jurisprudencia administrativa de la Procuraduría General de la República.
+
+Con el objeto de atender la consulta planteada, se ha estimado oportuno abordar los siguientes extremos: A) La posibilidad de realizar Sesiones Virtuales es Excepcional; y B) En relación con el alcance de la Ley N.° 9866.
+
+A.           LA POSIBILIDAD DE REALIZAR SESIONES VIRTUALES ES EXCEPCIONAL.
+
+Es innegable que la Ley Orgánica del Colegio de Optometristas, Ley N° 3838 del 19 de diciembre de 1966, no ha previsto la posibilidad de que su Asamblea General, sea Ordinaria como Extraordinaria, pueda sesionar de forma virtual. Luego, debe indicarse que, en términos generales, la Ley costarricense no ha previsto la posibilidad de que los órganos colegiados de la administración pública puedan sesionar de forma virtual, excepción hecha de la reciente reforma al Código Municipal – al cual se le ha adicionado un artículo 37 bis que autoriza a los Concejos Municipales y otros órganos colegiados del gobierno local, a sesionar virtualmente cuando por estado de necesidad y urgencia, ocasionado por circunstancias sanitarias, de guerra, conmoción interna y calamidad pública exista una declaración de estado de emergencia nacional o cantonal-.
+
+De seguido, se impone advertir que, de acuerdo con el artículo 12 de la Ley N.° 3838, en el acto de convocatoria, tanto de la Asamblea Ordinaria como de la Extraordinaria, se debe hacer mención expresa del lugar donde se celebrarán las respectivas sesiones, es decir que, al tenor del artículo 12 de la Ley N.° 3838, las sesiones tanto de la Asamblea Ordinaria como de la Extraordinaria, deben celebrarse en un espacio físico.
+
+Luego, se comprende que la Ley N.° 3838 ha autorizado al Colegio de Optometristas de Costa Rica a celebrar sus Asambleas Generales en un lugar distinto de su sede.  Tómese nota de que, en principio, las actuaciones administrativas de los diversos entes públicos, incluyendo los colegios profesionales, deben realizarse en su respectiva sede. Doctrina del artículo 268 de la Ley General de la Administración Pública.
+
+No obstante, es importante advertir que en nuestra jurisprudencia administrativa se ha admitido que en situaciones excepcionales y de evidente urgencia administrativa o en estados de emergencia, los órganos colegiados de la administración puedan sesionar de forma virtual. Esto en orden de garantizar la continuidad y regularidad del funcionamiento del ente a su cargo. Debe acotarse, tal y como se reiteró en el dictamen C-131-2020 de 7 de abril de 2020, que la posibilidad de los órganos colegiados para sesionar virtualmente, por su carácter excepcional, es limitada, pues los asuntos que pueden conocer dichos órganos en sesión virtual son aquellos que sean inaplazables, y que por consecuencia no sea posible esperar a una sesión presencial. Al respecto, importa transcribir lo dicho recientemente en el dictamen C-131-2020:
+
+“[…] es relevante advertir que ya en nuestra jurisprudencia administrativa se ha subrayado que, bajo situaciones de excepcionalidad y de evidente urgencia, es posible que los órganos colegiados de las diversas instituciones, en orden de garantizar la continuidad y regularidad del funcionamiento del ente a su cargo, pueden sesionar de forma virtual para conocer los asuntos que sean inaplazables y que, por consecuencia, no sea posible esperar a una sesión presencial. […].
+
+(…)
+
+“Por consiguiente, se debe entender que, aunque la posibilidad de que los Concejos Municipales sesionen virtualmente en una sede electrónica no se encuentra habilitada en forma expresa por la Ley, es claro que, tratándose de un estado declarado de emergencia, y en aras de cumplir y colaborar con lo que el Poder Ejecutivo disponga para atender esa emergencia, sería procedente que aquel órgano colegiado pueda, de forma excepcional, celebrar sus sesiones de forma virtual durante el lapso de tiempo de la emergencia.” (Ver además dictámenes C-241-2013 de 4 de noviembre de 2013 y C-298-2007 de 28 de agosto de 2007)
+
+En el mismo sentido, cabe destacar el reciente voto de la Sala Constitucional N.° 11122-2020 de las 12:21 del 16 de junio de 2020, en el cual se indicó que, en efecto, las circunstancias de emergencia nacional, y la necesidad de proteger la salud de las personas, han sido una justificación razonable para que la Asamblea Legislativa reformara su Reglamento a efecto de habilitar la posibilidad de que el Plenario Legislativo y los demás órganos legislativos, pudieran sesionar de forma virtual de forma excepcional:
+
+“VII.- Admitir que la Asamblea Legislativa pueda decidir realizar sesiones virtuales y que ello sea conforme con nuestro Derecho de la Constitución, encuentra justificación en la potestad autonormativa de la Asamblea Legislativa, en los términos indicados, pero además, en que la Constitución Política es un cuerpo normativo vivo, cuya interpretación debe adaptarse a las nuevas circunstancias. Cuando la Constitución menciona la concurrencia o los votos presentes, debe entenderse que, esa concurrencia o presencia, no solamente es física, sino que también puede ser virtual, conforme lo permiten las tecnologías actuales. Más aún, tratándose de circunstancias de emergencia nacional en que, en aras de proteger la salud de las personas, se impone el distanciamiento físico para evitar la propagación del virus Covid-19.”
+
+Luego, debe también señalarse que en aquel dictamen C-131-2020 se ha considerado procedente y oportuno que las administraciones públicas, en orden a celebrar aquellas sesiones virtuales -que en ausencia de un desarrollo legal aprobado tienen entonces un carácter excepcional-, puedan tener, por consiguiente, la posibilidad de habilitar una sede electrónica o virtual, entendida ésta como aquella dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública y a través de la cual la administración puede realizar determinadas actuaciones, incluyendo las relacionadas con la celebración de sus Asambleas en forma virtual.
+
+En este sentido, en el mismo dictamen C-131-2020 se indicó que el mismo numeral 268 de la Ley General de la Administración Pública ya citado, pero en su párrafo segundo, establece la posibilidad de que tratándose de razones de urgente necesidad –lo cual comprende la urgencia administrativa pero tanto más los estados de necesidad-, los órganos colegiados puedan sesionar fuera de la sede; lo cual permite argumentar, con efectividad, que sería posible que aquellos órganos, dado el caso, puedan sesionar en sedes virtuales, y por tanto sesionar virtualmente, en estados de urgente necesidad. Al respecto, importa advertir, desde ya, que el artículo 269 de la misma Ley General establece que toda la actuación administrativa debe realizarse con arreglo a normas de economía, simplicidad, celeridad y eficiencia. Es decir que, de cara a una razón de urgente necesidad, la Administración debe procurar adaptarse, optimizando el uso de sus recursos, para continuar funcionando, con celeridad y con satisfacción del interés público, lo cual puede incluir acudir a procedimientos electrónicos en la red virtual.
+
+De otro extremo, conviene denotar que es evidente que, en virtud de una declaratoria de emergencia, y por disposición específica del artículo 34 de la Ley Nacional de Emergencias y Prevención del Riesgo, Ley N° 8488 de 22 de noviembre de 2005, el Poder Ejecutivo puede decretar restricciones sobre habitabilidad, tránsito e intercambio de bienes y servicios en las regiones del territorio nacional afectado por una emergencia. Restricciones que eventualmente obligan y podrían incidir en el funcionamiento de la actividad de los diversos órganos colegiados de la Administración Pública y particularmente en la celebración de las sesiones presenciales de dichos órganos.
+
+Igualmente, se impone precisar que, además, en virtud de lo dispuesto en los numerales 169 y 367 de la Ley General de Salud, Ley N° 5395 del 30 de octubre de 1973, el Poder Ejecutivo puede emitir decretos que obliguen a las personas, y muy especialmente a las instituciones públicas, lo cual incluye a los colegios profesionales, a colaborar, en caso de epidemia, con las autoridades de salud mediante la implementación de las medidas extraordinarias que aquellas autoridades dicten. No se puede perder de vista que aquellas mismas normas autorizan a las autoridades de salud a declarar cualquier área del país como zona de control sanitario en orden a establecer medidas extraordinarias para extinguir o evitar la propagación de la epidemia.
+
+Por consiguiente, está fuera de toda duda que el Colegio de Optometristas de Costa Rica se encuentra sujeto tanto a la Declaratoria de Emergencia Sanitaria decretada por el Poder Ejecutivo en el Decreto Ejecutivo N° 42227-MP-S de 16 de marzo de 2020 y particularmente a las medidas sanitarias del Decreto Ejecutivo N° 42221-S del 10 de marzo de 2020, las cuales ordenan la suspensión de las actividades de concentración masiva de personas para evitar el surgimiento de una cantidad muy elevada de cadenas de transmisión simultáneas del virus denominado COVID-19 o que se pueden dar en un corto periodo, generadas de un mismo evento de concentración de personas.
+
+De seguido, cabe denotar que a pesar de que ni en el Decreto N° 42227-MP-S y tampoco en el Decreto N° 42221-S se ha contemplado una orden de suspender las sesiones presenciales de los órganos colegiados de las diversas instituciones. Tampoco, se ha dispuesto la suspensión de las Asambleas de los colegios profesionales – sin perjuicio de lo que se dispone en la Ley N.° 9866 de 18 de junio de 2020.
+
+En este sentido, cabe advertir que, como se dijo en el dictamen C-178-2020 de 18 de mayo de 2020, la regulación constitucional del Estado de Emergencia, supone que uno de los deberes fundamentales del Estado, durante la emergencia, es garantizar el mantenimiento y funcionamiento de la estructura mínima esencial de las instituciones públicas, pues de hecho la declaratoria del Estado de Emergencia comprende, más bien, una serie de situaciones transitorias y que son urgentes en las que se hace necesario mantener la continuidad de los servicios públicos adaptándose a situaciones de urgencia que hacen peligrar la conservación del orden jurídico y social.
+
+Así las cosas, es claro que existe un deber fundamental de la Junta Directiva del Colegio de Optometristas de Costa Rica de garantizar el funcionamiento de ese ente público no estatal durante la Declaratoria de Estado de Emergencia Nacional Sanitaria y una potestad, por consiguiente, para tomar medidas adaptando la actividad del colegio profesional que aseguren su continuidad. Entre estas medidas se puede incluir, como ya se ha dicho, la posibilidad de que la Asamblea Ordinaria, lo mismo que la Extraordinaria, sesionen de forma virtual.
+
+Ahora bien, es relevante puntualizar que existen varias condiciones y requisitos que se deben cumplir para que la Asamblea General del Colegio de Optometristas de Costa Rica, pueda sesionar de forma virtual.
+
+En este sentido, debe notarse que conforme el artículo 12 de la Ley N.° 3838 corresponde a la Junta Directiva del Colegio de Optometristas de Costa Rica convocar a la Asamblea General de esa corporación profesional. Tanto convocar a la Asamblea Ordinaria como a la Extraordinaria. En ese artículo 12 se dispone que corresponde a aquella Junta Directiva el día y hora de la Asamblea, lo mismo que el lugar donde se celebrará y la agenda de la misma. Luego, se comprende corresponda a la Junta Directiva determinar si, mediando una situación de urgencia o de emergencia, corresponde, entonces, que la Asamblea sesione de forma virtual, lo cual deberá hacer a través de un acto motivado. Debe insistirse en que este acuerdo debe ser motivado, aunque sea de forma sucinta, puesto que, como se ha explicado, la posibilidad de celebrar sesiones virtuales es excepcional y debe responder a la existencia de una urgencia administrativa o a la vigencia de un Estado de Emergencia declarado.
+
+Cabe puntualizar, que al tenor del artículo 12 de la Ley N.° 3838 es claro que en el acto de convocatoria que acuerde la Junta Directiva del Colegio de Optometristas, y que debe ser comunicado – según el propio artículo 12 en comentario - por medio de carta certificada o por cualquier otro medio eficaz – que pueden ser medios electrónicos si tal medio ha sido habilitado -. Debe precisarse, pues, que en el supuesto de que la Junta Directiva del Colegio de Optometristas acuerde la celebración virtual de la Asamblea, el acto de convocatoria, que debe ser comunicado a cada agremiado, debe incluir los datos necesarios para que cada uno pueda incorporarse a la Asamblea virtual para participar, de forma efectiva, en su celebración. Esto con la finalidad de garantizar el debido proceso en el proceso de convocatoria. Tómese nota de que el artículo 10 de la Ley N.° 3838 establece que es una obligación de los agremiados de aquella corporación profesional asistir a las Asambleas, tanto ordinaria como extraordinaria.
+
+De seguido, se reitera que en armonía con el artículo 268.2 de la Ley General de la Administración Pública y como condición para que la Asamblea General pueda realizarse de forma virtual, la Junta Directiva debe tener a su disposición – o en su defecto debe establecerla - una sede electrónica o página web oficial para la celebración de dichas sesiones. Sede electrónica que, como ya se ha dicho, debe ser propiedad de la administración, en este caso del Colegio de Optometristas, y en la que deben incluirse, de forma visible y pública, los datos necesarios para que los agremiados puedan conocer de la convocatoria a Asamblea acordada por la Junta, y, se reitera, para que puedan incorporarse para participar, de forma efectiva, en su celebración.
+
+En otro orden de cosas, debe insistirse en lo ya reiterado jurisprudencialmente en el dictamen C-131-2020 ya citado, en el sentido de que, aunque se reconoce que la utilización de tecnología podría suplir las sesiones presenciales de los órganos colegiados, lo cierto es que ha sido criterio de este órgano superior consultivo, que no todo mecanismo tecnológico permite el contraste de las diversas opiniones durante la fase de deliberación del órgano; y, por tal motivo, resulta indispensable la utilización de técnicas que permitan la transmisión simultánea de audio, video y datos. Entonces, el medio utilizado debe necesariamente respetar los principios de simultaneidad, colegialidad y deliberación.
+
+Dicho en otras palabras, aun en las sesiones virtuales, y particularmente con la finalidad de que los acuerdos y actas que se levanten recogiendo las deliberaciones de la Asamblea General, sea ordinaria o extraordinaria, sean válidas, debe garantizarse que el órgano colegiado funcione como colegio, con respeto al principio de simultaneidad. Y funcionar como colegio implica la deliberación de los distintos asuntos sobre los cuales debe formarse una voluntad colegiada. Deliberar implica un debate que debe realizarse oralmente. Así pues, el recurso o medio tecnológico que se elija utilizar para las sesiones virtuales debe garantizar la simultaneidad, colegialidad y deliberación, de tal forma que durante la respectiva sesión virtual, los integrantes de la respectiva Asamblea puedan discutir, utilizando los cauces y recursos legales previstos, de forma real los asuntos del correspondiente orden del día.  (Ver el dictamen C-131-2020 ya citado y el C-136-2020 de 15 de abril de 2020).
+
+Asimismo, debe advertirse que, puesto que solamente los agremiados pueden incorporarse y participar en la Asamblea del Colegio de Optometristas, es claro que, en el supuesto de que la Asamblea se celebre de forma virtual, dicha Corporación tiene el deber de establecer un procedimiento para acreditar previamente, y de forma efectiva, que quien se incorpora a dicha Asamblea, es un agremiado activo en pleno goce de sus derechos como agremiado. No obstante, salvo que en una eventual Asamblea reforme al efecto el Reglamento Interno, el Colegio de Optometristas no está habilitado para establecer un término, previo al día de celebración de la respectiva de la Asamblea, para que el agremiado se acredite y confirme su participación. Al respecto es importante denotar que, actualmente, el establecimiento de ese término sería contrario al debido proceso en la conformación de la Asamblea del Colegio de Optometristas, pues, como se ha dicho, el artículo 10 de la Ley N.° 3838 ha establecido que es una obligación de los agremiados asistir a las Asambleas del Colegio, obligación cuyo incumplimiento puede ser sancionable por multa de acuerdo con el artículo 35 del Reglamento Interno del Colegio de Optometristas.
+
+Además, cabe también reiterar lo dicho en la jurisprudencia administrativa glosada en el sentido que debe existir una plena compatibilidad entre los sistemas empleados entre los participantes de la respectiva sesión, sea por los emisores y receptores, de tal forma que garantice la autenticidad e integridad de la voluntad y la conservación de lo actuado.
+
+Finalmente, se anota  que, de acuerdo con el numeral 56 de la Ley General de la Administración Pública, las actas deben expresar las circunstancias de lugar y tiempo en que se ha celebrado, por lo cual se entiende que si la sesión se ha celebrado en forma virtual, tendrá que indicarse cuál de los miembros del colegio ha estado “presente” en forma virtual, en su caso mediante qué mecanismo tecnológico se produjo la presencia, identificación del lugar en que se encuentra el ausente (puesto que estaría reunido en un lugar distinto al previsto normativamente o el que es habitual para sesionar), la compatibilidad y las razones por las cuales la sesión se realizó en la forma indicada. Deberá contener, obviamente, los otros elementos que la Ley exige, entre ellos, la identidad y el número de miembros presentes en la reunión y el sentido del voto emitido por el miembro presente virtualmente.
+
+B.            EN RELACIÓN CON EL ALCANCE DE LA LEY N.° 9866.
+
+          De otro extremo, es importante indicar que mediante Ley N.° 9866 de 18 de junio de 2020 autoriza, entre otras entidades, a los Colegios Profesionales - que no hayan podido o no puedan realizar la asamblea necesaria para renovar su Junta Directiva, a pesar de haber efectuado esfuerzos razonables para su realización- a tener por prorrogado, hasta por un año adicional, los nombramientos que hayan vencido a partir del 1 de marzo de 2020 y venzan antes del 31 de diciembre de 2020, inclusive, o que deban realizar sus procesos de renovación de estructuras durante ese mismo periodo.
+
+          Luego, debe reiterarse lo indicado en el dictamen C-264-2020 de 8 de julio de 2020 en el sentido de que la Ley N.° 9866, sin embargo, tiene un carácter transitorio y subsidiario pues dicha Ley, tal como lo dispone su artículo 3, es aplicable sólo en el caso de que las organizaciones incluidas en su artículo 1, entre ellas los colegios profesionales, no hayan podido o no puedan realizar la asamblea general necesaria para elegir o renovar sus juntas directivas. Esto como consecuencia directa a la declaratoria de emergencia por la epidemia del COVID-19.
+
+          Ahora bien, igual debe retomarse el dictamen C-264-2020  para repetir, también que la  misma Ley N.° 9866 ha previsto que en el supuesto de que las organizaciones del artículo 1, incluidos los colegios profesionales, no puedan realizar sus Asambleas Generales, ni de forma presencial ni virtual, las Juntas Directivas quedarían autorizadas, por una única vez, para aprobar presupuestos y estados financieros, entre otras cosas. Se transcribe el artículo 2 de la Ley N.° 9866:
+
+“ARTÍCULO 2- Para las organizaciones citadas en el artículo 1 de la presente ley, que sus asambleas propuestas debían aprobar presupuestos, estados financieros, distribución de dividendos y distribución de excedentes, se autoriza, por una única vez, para que sus juntas directivas y consejos de administración puedan aprobarlos, siempre y cuando no se haya podido realizar la asamblea correspondiente como consecuencia directa de la emergencia del COVID-19, después de llevar a cabo esfuerzos razonables para ello y que su no realización no sea atribuible a los órganos encargados de convocarlas y realizarlas.”
+
+          No obstante, cabe precisar que, al tenor literal del artículo 2 de Ley N.° 9866, las Juntas Directivas de los colegios profesionales, incluyendo la del Colegio de Optometristas, solamente estarían autorizadas, en caso de que no puedan realizar su asamblea – sea de forma presencial o virtual -, a aprobar, por una única vez, los presupuestos y los estados financieros, sin que puedan avocarse ninguna otra de las competencias que por Ley o reglamento corresponden a su Asamblea General, se ordinaria o extraordinaria.
+
+C.           CONCLUSIÓN.
+
+- Que existe un deber fundamental de la Junta Directiva del Colegio de Optometristas de Costa Rica de garantizar su propio funcionamiento durante la Declaratoria de una Emergencia Sanitaria –lo cual asegura el funcionamiento a su vez de la respectiva corporación profesional– y una potestad, por consiguiente, para tomar medidas que adaptando la actividad de la corporación profesional, aseguren su continuidad. Entre estas medidas se puede incluir, como ya se ha dicho, la posibilidad de que las Asambleas Generales, sea ordinaria o extraordinaria, se realicen virtualmente.
+
+- Que en nuestra jurisprudencia administrativa se ha admitido que en situaciones excepcionales y de evidente urgencia administrativa o en estados de emergencia, las Asambleas, tanto ordinaria como extraordinarias, de los colegios profesionales, se celebren virtualmente.
+
+- Que existen varias condiciones y requisitos que se deben cumplir para que la Asamblea General del Colegio de Optometristas pueda sesionar válidamente de forma virtual.
+
+- Que, de previo a celebrar sus sesiones virtuales, la Junta Directiva debe tomar el respectivo acuerdo en el que de forma motivada se decida celebrar la Asamblea General de forma ordinaria.
+
+- Que en armonía con el artículo 268.2 de la Ley General de la Administración Pública y como condición para que la Asamblea General pueda realizarse de forma virtual, la Junta Directiva debe tener a su disposición – o en su defecto debe establecerla - una sede electrónica o página web oficial para la celebración de dichas sesiones. Sede electrónica que, como ya se ha dicho, debe ser propiedad de la administración, en este caso del Colegio de Optometristas, y en la que deben incluirse, de forma visible y pública, los datos necesarios para que los agremiados puedan conocer de la convocatoria a Asamblea acordada por la Junta, y para que puedan incorporarse para participar, de forma efectiva, en su celebración.
+
+- Que en el supuesto de que la Junta Directiva del Colegio de Optometristas acuerde la celebración virtual de la Asamblea; el respectivo acto de convocatoria, que debe ser comunicado a cada agremiado, debe incluir los datos necesarios para que cada uno pueda incorporarse a la Asamblea virtual para participar, de forma efectiva, en su celebración. Esto con la finalidad de garantizar el debido proceso en el proceso de convocatoria. Tómese nota de que el artículo 10 de la Ley N.° 3838 establece que es una obligación de los agremiados de aquella corporación profesional asistir a las Asambleas, tanto ordinaria como extraordinaria.
+
+-Que, en el supuesto de que la Asamblea se celebre de forma virtual, el Colegio de Optometristas tiene el deber de establecer un procedimiento para acreditar previamente, y de forma efectiva, que quien se incorpora a dicha Asamblea, es un agremiado activo en pleno goce de sus derechos como agremiado
+
+-  Que salvo que en una eventual Asamblea reforme al efecto el Reglamento Interno, el Colegio de Optometristas no está habilitado para establecer un término, previo al día de celebración de la respectiva de la Asamblea, para que el agremiado se acredite y confirme su participación. El establecimiento de ese término sería contrario al debido proceso en la conformación de la Asamblea del Colegio de Optometristas, pues el artículo 10 de la Ley N.° 3838 ha establecido que es una obligación de los agremiados asistir a las Asambleas del Colegio, obligación cuyo incumplimiento puede ser sancionado por multa de acuerdo con el artículo 35 del Reglamento Interno del Colegio de Optometristas.
+
+- Que no todo mecanismo tecnológico es útil para celebrar válidamente sesiones virtuales, debe ser uno que permita el contraste de las diversas opiniones durante la fase de deliberación del órgano; y, por tal motivo, resulta indispensable la utilización de técnicas que permitan la transmisión simultánea de audio, video y datos. Entonces, el medio utilizado debe necesariamente respetar los principios de simultaneidad, colegialidad y deliberación en los términos explicados en el dictamen.
+
+- Que el acta que se levante de la sesión virtual, debe expresar las circunstancias de lugar y tiempo en que se ha celebrado, por lo cual debe constar en dicha acta cuál de los miembros del colegio ha estado “presente” en forma virtual, en su caso mediante qué mecanismo tecnológico se produjo la presencia, identificación del lugar en que se encuentra el ausente, la compatibilidad y las razones por las cuales la sesión se realizó en la forma indicada. Deberá contener, obviamente, los otros elementos que la Ley exige, entre ellos, la identidad y el número de miembros presentes en la reunión y el sentido del voto emitido por el miembro presente virtualmente.
+
+- Que mediante Ley N.° 9866 de 18 de junio de 2020 se ha  autorizado, entre otras entidades, a los Colegios Profesionales - que no hayan podido o no puedan realizar la asamblea necesaria para renovar su Junta Directiva, a pesar de haber efectuado esfuerzos razonables para su realización- a tener por prorrogado, hasta por un año adicional, los nombramientos que hayan vencido a partir del 1 de marzo de 2020 y venzan antes del 31 de diciembre de 2020, inclusive, o que deban realizar sus procesos de renovación de estructuras durante ese mismo periodo.
+
+-Que, al tenor literal del artículo 2 de Ley N.° 9866, las Juntas Directivas de los colegios profesionales, incluyendo la del Colegio de Optometristas, solamente estarían autorizadas, en caso de que no puedan realizar su asamblea – sea de forma presencial o virtual -, a aprobar, por una única vez, los presupuestos y los estados financieros, sin que puedan avocarse ninguna otra de las competencias que por Ley o reglamento corresponden a su Asamblea General, se ordinaria o extraordinaria.
+
+Atentamente,
+
+Jorge Andrés Oviedo Álvarez
+
+Procurador Adjunto
+
+JAOA/hsc
