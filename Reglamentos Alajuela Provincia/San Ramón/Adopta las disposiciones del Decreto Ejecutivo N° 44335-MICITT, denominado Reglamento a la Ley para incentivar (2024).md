@@ -1,0 +1,39 @@
+---
+numero: "Reglamento municipal 15 (12/07/2024)"
+nombre: "Adopta las disposiciones del Decreto Ejecutivo N° 44335-MICITT, denominado 'Reglamento a la Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica y deroga Reglamento General para Licencias Municipales en Tel"
+materia: "municipal"
+canton: "San Ramón"
+estado: "vigente"
+version_sinalevi: "1 de 1"
+fecha_version: "12/07/2024"
+ente_emisor: "Municipalidad de San Ramón"
+fecha_norma: "12/07/2024"
+enlace: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=102677&param2=142024&param3=1"
+descargado: "2026-11-16"
+---
+Reglamento municipal 15
+Adopta las disposiciones del Decreto Ejecutivo N° 44335-MICITT, denominado "Reglamento a la Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica y deroga Reglamento General para Licencias Municipales en Tel
+
+MUNICIPALIDAD DE SAN RAMÓN
+
+CONCEJO MUNICIPAL
+
+El Concejo Municipal de la Municipalidad de San Ramón, determinó mediante Acuerdo N° 01 de la Sesión N° 15 Extraordinaria del 12 de julio de 2024. De conformidad la moción presentada por el Regidor Hermelink Chinchilla Corrales, anteriormente consigna, y conforme con la misma,
+
+SE ACUERDA:
+
+1º-Derogar, en su totalidad, cualquier Reglamento adoptado, aprobado y publicado por este Concejo Municipal, así como cualquier otra normativa o directrices emitidas sobre telecomunicaciones, en la Municipalidad de San Ramón.
+
+2º-Adoptar, en todos sus extremos, las disposiciones del Decreto Ejecutivo N° 44335-MICITT, denominado "Reglamento a la Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica, sobre los procedimientos y especificaciones técnicas de la infraestructura de telecomunicaciones", emitido por el Poder Ejecutivo y publicado en el Alcance N° 13 al Diario Oficial La Gaceta N° 14, de fecha de 25 de enero de 2024. Con el propósito de reforzar la atracción de inversión y beneficiar el desarrollo para el cantón de San Ramón.
+
+3º-Autorizar a la señora Gabriela Jiménez Corrales Alcaldesa Municipal, emitir todas las directrices internas necesarias a las dependencias administrativas de la Municipalidad que participen en el proceso de emisión de permisos y actos similares relacionados a infraestructura en telecomunicaciones, a efectos de implementar el Decreto Ejecutivo N° 44335-MICITT, denominado "Reglamento a la Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica, sobre los procedimientos y especificaciones técnicas de la infraestructura de telecomunicaciones", acorde a los principios de eficiencia, celeridad y legalidad".
+
+4º-Publicar el presente acuerdo municipal en el Diario Oficial La Gaceta.
+
+5º-Publicar, una vez en firme, el presente acuerdo del Concejo Municipal, y el texto del Decreto Ejecutivo N° 44335-MICITT "Reglamento a la Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica, sobre los procedimientos y especificaciones técnicas de la infraestructura de telecomunicaciones", en el sitio web de la Municipalidad para conocimiento de los usuarios en los trámites relacionados con infraestructura de telecomunicaciones.
+
+6º-Notificar el presente acuerdo a la señora Gabriela Jiménez Corrales, Alcaldesa, Municipalidad de San Ramón.
+
+Rige a partir del día de su publicación.
+
+San Ramón, 22 de julio del 2024
