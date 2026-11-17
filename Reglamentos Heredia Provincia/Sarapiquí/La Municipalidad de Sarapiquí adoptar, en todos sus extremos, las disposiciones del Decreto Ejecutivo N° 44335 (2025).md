@@ -1,0 +1,29 @@
+---
+numero: "Reglamento municipal 76 (13/10/2025)"
+nombre: "La Municipalidad de Sarapiquí adoptar, en todos sus extremos, las disposiciones del Decreto Ejecutivo N° 44335-MICITT, denominado 'Reglamento a la Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica"
+materia: "municipal"
+canton: "Sarapiquí"
+estado: "vigente"
+version_sinalevi: "1 de 1"
+fecha_version: "13/10/2025"
+ente_emisor: "Municipalidad de Sarapiquí"
+fecha_norma: "13/10/2025"
+enlace: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=105637&param2=148339&param3=1"
+descargado: "2026-11-16"
+---
+Reglamento municipal 76
+La Municipalidad de Sarapiquí adoptar, en todos sus extremos, las disposiciones del Decreto Ejecutivo N° 44335-MICITT, denominado "Reglamento a la Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica
+
+MUNICIPALIDAD DE SARAPIQUÍ
+
+SECRETARÍA DEL CONCEJO MUNICIPAL
+
+Acuerdo tomado por el Concejo Municipal del cantón de Sarapiquí, en su Sesión Ordinaria Nº 76-20242028, Artículo 8, celebrada el 13 de octubre de 2025; que a la letra dispone:
+
+Acuerdo 8º-El Concejo Municipal de Sarapiquí acuerda con votación de siete votos afirmativos de la totalidad de los miembros que integran este Órgano, los señores José Daniel Bravo Morales, Luz Marina Miranda Elizondo, Rodolfo Manzanares Clark, Elidieth Espinoza Cubero, Yendri Fabiana Víquez Enríquez, José Bejarano González, Ericka Zúñiga Guillén: Adoptar, en todos sus extremos, las disposiciones del Decreto Ejecutivo N°44335-MICITT, denominado: "Reglamento a la Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica, sobre los procedimientos y especificaciones técnicas de la infraestructura de telecomunicaciones", emitido por el Poder Ejecutivo y publicado en el Alcance N°13 al Diario Oficial La Gaceta N°14, de fecha de 25 de enero de 2024.
+
+Publicar, una vez en firme, el presente acuerdo del Concejo Municipal y el texto del Decreto Ejecutivo Nº 44335- MICITT (Reglamento a la Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica), sobre los procedimientos y especificaciones técnicas de la infraestructura de telecomunicaciones", en el sitio web oficial de la Municipalidad para conocimiento de los usuarios en los trámites relacionados con infraestructura de Telecomunicaciones.
+
+Publicar, una vez en firme, el presente acuerdo municipal en el Diario Oficial La Gaceta.
+
+Acuerdo definitivamente aprobado
