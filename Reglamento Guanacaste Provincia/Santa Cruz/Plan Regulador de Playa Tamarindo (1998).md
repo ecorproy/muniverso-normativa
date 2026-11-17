@@ -1,0 +1,27 @@
+---
+numero: "Reglamento municipal 74 (10/12/1998)"
+nombre: "Plan Regulador de Playa Tamarindo."
+materia: "municipal"
+canton: "Santa Cruz"
+estado: "vigente"
+version_sinalevi: "3 de 3"
+fecha_version: "08/04/2008"
+ente_emisor: "Municipalidad de Santa Cruz"
+fecha_norma: "10/12/1998"
+enlace: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=51834&param2=72439&param3=1"
+descargado: "2026-11-16"
+---
+Reglamento municipal 74
+Plan Regulador de Playa Tamarindo.
+
+MUNICIPALIDAD DE SANTA CRUZ, GUANACASTE
+
+La Municipalidad de Santa Cruz. Guanacaste avisa por este medio a los vecinos y público en general que en sesión ordinaria del Concejo Municipal número 74-98, capítulo VIl, artículo 7, inciso 02. de fecha 10 d diciembre del año en curso, adopta el plan regulador de playa Tamarindo. con la actualización propuesta por INVU e ICT y las modificaciones hechas por la Municipalidad.
+
+Asimismo hace saber que el Reglamento de zonificación y los planes correspondientes que lo complementan, se encuentran a disposición de los interesados en la Municipalidad.
+
+Santa Cruz. 1° de febrero de 1999.—
+
+NOTA: En Sesión Ordinaria N° 39, celebrada el 30 de setiembre de 2003, la Municipalidad de  Santa Cruz acordó reformar el Plan regulador de Playa Tamarindo, reforma publicada en La Gaceta 203 del 22 de octubre de 2003.   Debido a que, no consta publicación del texto original del Plan, solamente de la aprobación del mismo; no es posible incluir dicha reforma en el texto, por lo que se puede consultar en el siguiente link:  Reforma Plan Regulador de Playa Tamarindo.
+
+NOTA: La Municipalidad de Santa Cruz, en sesión N° 15-2008, artículo 6, inciso 01, del 8 de abril de 2008 acordó ampliar el Plan Regulador de Playa Tamarindo, ampliación publicada en La Gaceta N° 96 del 20 de mayo de 2008. Debido a que, no consta publicación del texto original del Plan, solamente de la aprobación del mismo; no es posible incluir dicha ampliación en el texto, por lo que se puede consultar en el siguiente link: Reforma Plan Regulador de Playa Tamarindo
