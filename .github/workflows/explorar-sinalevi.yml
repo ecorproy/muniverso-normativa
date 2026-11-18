@@ -1,0 +1,39 @@
+name: Explorar SINALEVI
+
+# Al subir herramientas/exploracion.json, lista las leyes vigentes de SINALEVI que faltan en el repositorio.
+on:
+  push:
+    paths:
+      - herramientas/exploracion.json
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: normativa-escritura
+  cancel-in-progress: false
+
+jobs:
+  explorar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar dependencias
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Explorar
+        run: python herramientas/explorar_sinalevi.py
+      - name: Guardar lista
+        run: |
+          git config user.name "Muniverso (exploración de SINALEVI)"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add herramientas/candidatos.json
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -q -m "Exploración de SINALEVI: leyes vigentes que faltan"
+          git pull -q --rebase origin main && git push
