@@ -11,6 +11,7 @@ from datetime import date
 
 sys.path.insert(0, os.path.dirname(__file__))
 from descargar_normas import buscar_numero, descargar, limpiar, ultima_reforma  # noqa: E402
+from gaceta_diaria import materia  # noqa: E402
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NACIONALES = os.path.join(RAIZ, "Leyes y decretos nacionales")
@@ -35,6 +36,9 @@ def bajar(pg, p):
         return False, "sin coincidencia única en SINALEVI: " + "; ".join(f"{c.get('tipo')} {c.get('numero')} {c.get('nombre', '')[:60]}" for c in cands[:6])
     d = descargar(pg, elegido)
     if len(d["vista"]) < 300: return False, "texto vacío"
+    if p.get("solo_vigentes") and d["derogada"]:
+        return None, f"descartada: SINALEVI la marca derogada ({elegido['nombre']})"
+    if not p.get("carpeta"): p["carpeta"] = materia(elegido["nombre"])
     q = lambda s: str(s or "").replace('"', "'")
     estado = p.get("estado") or ("derogada" if d["derogada"] else ("vigente" if d["ficha_ok"] else "no indicado"))
     ruta = existente(etiqueta) or os.path.join(NACIONALES, p.get("carpeta", "Administrativo"), f"{etiqueta}.md")
@@ -68,9 +72,10 @@ def main():
                 try: b.close()
                 except Exception: pass
                 b = pw.chromium.launch(); pg = b.new_page(locale="es-CR")
-            print(f"{p['tipo']} {p['numero']}: {'descargada' if ok else 'pendiente'} · {det}", flush=True)
-            informe.append(f"- {p['tipo']} {p['numero']}: {'descargada' if ok else 'PENDIENTE'} · {det}")
-            if not ok: quedan.append(dict(p, ultimo=det))
+            etiqueta = 'descargada' if ok else ('descartada' if ok is None else 'PENDIENTE')
+            print(f"{p['tipo']} {p['numero']}: {etiqueta} · {det}", flush=True)
+            informe.append(f"- {p['tipo']} {p['numero']}: {etiqueta} · {det}")
+            if ok is False: quedan.append(dict(p, ultimo=det))
     json.dump(quedan, open(PEDIDOS, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     open(INFORME, "w", encoding="utf-8").write(f"# Descarga de normas pedidas · {date.today().isoformat()}\n\n" + "\n".join(informe) + "\n")
 
