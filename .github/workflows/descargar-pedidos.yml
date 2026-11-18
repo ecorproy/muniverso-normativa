@@ -1,0 +1,39 @@
+name: Descargar normas pedidas
+
+# Se ejecuta al subir una lista de normas a herramientas/pedidos_descarga.json (o a mano desde Actions).
+on:
+  push:
+    paths:
+      - herramientas/pedidos_descarga.json
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: normativa-escritura
+  cancel-in-progress: false
+
+jobs:
+  descargar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar dependencias
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Descargar desde SINALEVI
+        run: python herramientas/descargar_pedidos.py
+      - name: Guardar cambios
+        run: |
+          git config user.name "Muniverso (descarga de normas)"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A "Leyes y decretos nacionales" herramientas/pedidos_descarga.json herramientas/ultimo_pedido.md
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -q -m "Descarga de normas pedidas desde SINALEVI" -m "$(tail -n +3 herramientas/ultimo_pedido.md)"
+          git pull -q --rebase origin main && git push
