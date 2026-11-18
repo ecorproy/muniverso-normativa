@@ -1,0 +1,40 @@
+name: La Gaceta diaria
+
+# Todos los días a las 06:00 de Costa Rica (12:00 UTC) lee La Gaceta y sus Alcances,
+# detecta leyes sancionadas o reformadas y actualiza sus textos desde SINALEVI.
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gaceta-diaria
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar dependencias
+        run: |
+          pip install playwright pypdf
+          python -m playwright install --with-deps chromium
+      - name: Leer La Gaceta y actualizar leyes
+        run: python herramientas/gaceta_diaria.py
+      - name: Guardar cambios
+        run: |
+          git config user.name "Muniverso (La Gaceta diaria)"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A "Leyes y decretos nacionales" herramientas/leyes_pendientes.json herramientas/ultimo_informe.md 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          msg="La Gaceta $(TZ=America/Costa_Rica date +%d/%m/%Y): actualización automática de leyes"
+          if [ -f herramientas/ultimo_informe.md ]; then git commit -q -m "$msg" -m "$(tail -n +3 herramientas/ultimo_informe.md)"; else git commit -q -m "$msg"; fi
+          git push

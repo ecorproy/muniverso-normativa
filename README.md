@@ -82,3 +82,14 @@ Repositorio de normas y dictámenes en Markdown, cada uno con su ficha (número,
 - Normas: última versión publicada en SINALEVI al momento de la descarga; se excluyen las derogadas y las reformas sueltas (cada norma base ya las incorpora).
 - Reglamentos municipales: cuando un cantón tiene dos reglamentos de la misma materia sin derogatoria expresa, rige el más reciente.
 - Dictámenes: texto completo tomado del SCIJ/SINALEVI; la ficha indica número, fecha, institución consultante y temas.
+
+## Actualización automática desde La Gaceta
+
+Todos los días a las 06:00 (hora de Costa Rica) el proceso `.github/workflows/gaceta-diaria.yml` lee La Gaceta y sus Alcances en el sitio de la Imprenta Nacional. Detecta las leyes sancionadas (`DECRETO LEGISLATIVO N.º …`) y las leyes que esas leyes reforman, adicionan o derogan, y baja de SINALEVI la versión vigente de cada una.
+
+- Si la ley ya está en el repositorio y SINALEVI tiene una versión más reciente, reemplaza el archivo.
+- Si no está, la agrega en `Leyes y decretos nacionales/<Materia>/Ley N.md`.
+- Si SINALEVI todavía no incorpora la ley o la reforma, la deja en `herramientas/leyes_pendientes.json` y la reintenta cada día, hasta por 15 días.
+- `herramientas/ultimo_informe.md` resume la última actualización.
+
+También se puede ejecutar a mano desde la pestaña **Actions → La Gaceta diaria → Run workflow**. Las apps de Muniverso reciben los cambios con la sincronización normal de la biblioteca.
