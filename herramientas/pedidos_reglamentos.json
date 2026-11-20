@@ -9,7 +9,7 @@
   "provincia": "Guanacaste",
   "carpeta": "Bagaces",
   "termino": "partidas específicas",
-  "intentos": 1,
+  "intentos": 2,
   "ultimo": "texto vacío"
  },
  {
@@ -22,7 +22,7 @@
   "provincia": "Guanacaste",
   "carpeta": "Tilarán",
   "termino": "cobro",
-  "intentos": 1,
+  "intentos": 2,
   "ultimo": "texto vacío"
  },
  {
@@ -35,7 +35,7 @@
   "provincia": "Limón",
   "carpeta": "Matina",
   "termino": "bienes inmuebles",
-  "intentos": 1,
+  "intentos": 2,
   "ultimo": "texto vacío"
  },
  {
@@ -48,7 +48,7 @@
   "provincia": "Puntarenas",
   "carpeta": "Quepos",
   "termino": "cobro",
-  "intentos": 1,
+  "intentos": 2,
   "ultimo": "texto vacío"
  }
 ]
