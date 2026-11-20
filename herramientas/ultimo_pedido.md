@@ -1,31 +1,23 @@
-# Descarga de normas pedidas · 2026-11-19
+# Descarga de normas pedidas · 2026-11-20
 
+- Ley 4755: descargada · Leyes y decretos nacionales/Tributario/Ley 4755.md · Código de Normas y Procedimientos Tributarios ( Código Tributario ) · versión 22 de 22 (última)
+- Ley 7509: descargada · Leyes y decretos nacionales/Municipal/Ley 7509.md · Ley de Impuesto sobre Bienes Inmuebles · versión 11 de 11 (última)
+- Ley 7092: descargada · Leyes y decretos nacionales/Tributario/Ley 7092.md · Ley del Impuesto sobre la Renta · versión 83 de 83 (última)
+- Ley 8687: descargada · Leyes y decretos nacionales/Administrativo/Ley 8687.md · Ley de Notificaciones Judiciales · versión 4 de 4 (última)
+- Ley 8968: descargada · Leyes y decretos nacionales/Constitucional/Ley 8968.md · Ley de Protección de la Persona frente al tratamiento de sus datos personales · versión 1 de 1 (última)
+- Ley 6227: descargada · Leyes y decretos nacionales/Administrativo/Ley 6227.md · Ley General de la Administración Pública · versión 22 de 22 (última)
+- Ley 4646: descartada · descartada: es una reforma; vale el texto consolidado de la norma reformada (Modifica Integración de Juntas Directivas de Instituciones Autónomas)
+- Ley 8151: PENDIENTE · sin coincidencia única en SINALEVI: Reglamento 8151 Reforma Reglamento para la Contratación de Servicios Profesi; Reglamento 8151 Reglamento del Programa del Régimen no Contributivo de Pensi; Decreto Ejecutivo 8151 Reforma Lista Mercancías Gravadas con Impuesto Selectivo de 
+- Ley 7970: descargada · Leyes y decretos nacionales/Administrativo/Ley 7970.md · Emisión de Títulos Valores para ser colocados en Mercado Internacional · versión 3 de 3 (última)
+- Ley 7667: descargada · Leyes y decretos nacionales/Administrativo/Ley 7667.md · Crea Fondo de Apoyo para Educación Superior y Técnica del Puntarenense · versión 4 de 4 (última)
+- Ley 7429: descargada · Leyes y decretos nacionales/Administrativo/Ley 7429.md · Ley de Donaciones al Museo Nacional de Costa Rica · versión 3 de 3 (última)
+- Ley 7147: descartada · descartada: es una reforma; vale el texto consolidado de la norma reformada (Reforma Creación Corporación Bananera Nacional (CORBANA))
+- Ley 7123: descargada · Leyes y decretos nacionales/Administrativo/Ley 7123.md · Préstamos para Programa de Rehabilitación y Construcción de Carreteras · versión 2 de 2 (última)
+- Ley 7098: descargada · Leyes y decretos nacionales/Agrario/Ley 7098.md · Convenio Venta de Productos Agrícolas ( PL-480 ) · versión 3 de 3 (última)
+- Ley 7096: descargada · Leyes y decretos nacionales/Administrativo/Ley 7096.md · Préstamos con BID y FIV para Proyecto de Riego Arenal - Tempisque · versión 3 de 3 (última)
+- Ley 7012: descargada · Leyes y decretos nacionales/Comercial/Ley 7012.md · Creación Depósito Libre Comercial de Golfito · versión 11 de 11 (última)
 - Ley 43: PENDIENTE · sin coincidencia única en SINALEVI: Reglamento municipal 43 Reglamento para el uso de dispositivos móviles institucional; Reglamento municipal 43-A Reglamento del Centro de Monitoreo Electrónico de la Municip; Circular 43 Reubicación y modificación de la competencia territorial del; Resolución 43 Procedimiento y requisitos técnicos para la emisión de dictá; Resolución 43 Modifiaciones a las resoluciones generales que implementan l; Resolución 43 Determinación de la tasa de rentabilidad para reglas de cálc
 - Ley 74: PENDIENTE · sin coincidencia única en SINALEVI: Reglamento 74 Reforma Reglamento para la rendición de caucionaes de los fu; Resolución 74 Se establece en 7,97% anual la tasa de interés tanto a cargo; Reglamento municipal 74 Reglamento de fiscalización, regulación y comercialización d; Reglamento municipal 74 Reglamento de caja chica Comité Cantonal de Deportes y Recre; Reglamento municipal 74 Reglamento de cajas chicas; Reglamento municipal 74 Reglamento para el procedimiento de decomisos de mercadería 
 - Ley 761: PENDIENTE · sin coincidencia única en SINALEVI: Reglamento 761 Reglamento de la Comisión de Sostenibilidad de Popular SAFI; Resolución 761 Eliminación de la aplicación de las herramientas complementa; Resolución 761 ARESEP: Aprueba Tarifas de Agua Localidad de Golfito; Ley 761 Ley de Estructura Orgánica del Ministerio de Educación Públi; Ley 761 Asigna pensión a particulares por discapacidad
 - Ley 9999: PENDIENTE · sin coincidencia única en SINALEVI: Ley 9999 Aprueba Ley para prevenir la revictimización y garantizar lo; Ley 9999-A Ley para prevenir la revictimización y garantizar los derech; Decreto Ejecutivo 9999 Otorga Incentivos Casos Especiales Empresas Bananeras; Ley 9999 Norma Temporal
-- Ley 10271: descargada · Leyes y decretos nacionales/Administrativo/Ley 10271.md · Reforma Ley General de Aduanas · versión 1 de 1 (última)
-- Ley 8696: descargada · Leyes y decretos nacionales/Administrativo/Ley 8696.md · Reforma parcial de la Ley de Tránsito por Vías Públicas Terrestres, N° 7331, de 13 de abril de 1993 · versión 4 de 4 (última)
-- Ley 7337: descargada · Leyes y decretos nacionales/Laboral/Ley 7337.md · Crea Concepto Salario Base para Delitos Especiales del Código Penal · versión 2 de 2 (última)
-- Ley 8246: descargada · Leyes y decretos nacionales/Ambiental/Ley 8246.md · Modificaciones al Código de Minería, Ley N° 6797 · versión 1 de 1 (última)
-- Ley 8511: descargada · Leyes y decretos nacionales/Administrativo/Ley 8511.md · Reforma Ley de Contratación Administrativa · versión 1 de 1 (última)
-- Ley 8805: descargada · Leyes y decretos nacionales/Laboral/Ley 8805.md · Reforma Ley contra Hostigamiento o Acoso Sexual en el Empleo y la Docencia · versión 1 de 1 (última)
-- Ley 7946: descargada · Leyes y decretos nacionales/Seguridad social/Ley 7946.md · Reforma Ley de Pensiones y Jubilaciones del Magisterio Nacional · versión 2 de 2 (última)
-- Ley 8431: descargada · Leyes y decretos nacionales/Administrativo/Ley 8431.md · Reforma a la Ley de Tránsito por Vías Públicas Terrestres · versión 1 de 1 (última)
-- Ley 10126: descargada · Leyes y decretos nacionales/Comercial/Ley 10126.md · Ley de comercio al aire libre · versión 1 de 1 (última)
-- Ley 8643: descargada · Leyes y decretos nacionales/Administrativo/Ley 8643.md · Modificación parcial de la Ley General de Concesión de Obras Públicas con Servicios Públicos, N° 7762 · versión 1 de 1 (última)
-- Ley 7251: descargada · Leyes y decretos nacionales/Administrativo/Ley 7251.md · Reforma Ley General de Aviación Civil · versión 2 de 2 (última)
-- Ley 6914: descargada · Leyes y decretos nacionales/Seguridad social/Ley 6914.md · Reforma Ley Constitutiva Caja Costarricense de Seguro Social · versión 2 de 2 (última)
-- Ley 10497: descargada · Leyes y decretos nacionales/Administrativo/Ley 10497.md · Reforma Ley de Protección Fitosanitaria · versión 1 de 1 (última)
-- Ley 10038: descargada · Leyes y decretos nacionales/Administrativo/Ley 10038.md · Reforma Crea la Red Nacional de Cuido y Desarrollo Infantil, Crea Red Nacional de Cuido y Desarrollo Infantil, Ley Orgánica del Patronato Nacional de la Infancia, Reactivación y reforzamiento de la red nacional de cuido y desarrollo infantil · versión 1 de 1 (última)
-- Ley 7900: descargada · Leyes y decretos nacionales/Tributario/Ley 7900.md · Reforma Código de Normas y Procedimientos Tributarios ( Código Tributario) · versión 1 de 1 (última)
 - Ley 8050: PENDIENTE · sin coincidencia única en SINALEVI: Reglamento 8050 Reglamento Incentivo por disponibilidad para directores y su
-- Ley 8823: descargada · Leyes y decretos nacionales/Administrativo/Ley 8823.md · Reforma varias leyes sobre la participación de la Contraloría General de la República para la simplificación y el Fortalecimiento de la Gestión Pública · versión 1 de 1 (última)
-- Ley 7729: descargada · Leyes y decretos nacionales/Tributario/Ley 7729.md · Reforma Ley de Impuesto sobre Bienes Inmuebles · versión 2 de 2 (última)
-- Ley 9748: descargada · Leyes y decretos nacionales/Municipal/Ley 9748.md · Reforma Código Municipal · versión 1 de 1 (última)
-- Ley 8817: descargada · Leyes y decretos nacionales/Municipal/Ley 8817.md · Reforma Ley Impuestos Municipales de Limón · versión 1 de 1 (última)
-- Ley 10538: descargada · Leyes y decretos nacionales/Comercial/Ley 10538.md · Reforma Ley del Sistema Financiero Nacional para la Vivienda y Creación del BANHVI (Banco Hipotecario de la Vivienda), para reformar el Fondo Nacional de Vivienda y Promover el Acceso a Vivienda para la clase media · versión 1 de 1 (última)
-- Ley 5406: descartada · descartada: SINALEVI la marca derogada (Ley Reguladora Transporte Remunerado Personas Vehículos Taxis)
-- Ley 7653: descargada · Leyes y decretos nacionales/Electoral/Ley 7653.md · Reforma Código Electoral y Ley Orgánica de Tribunal Supremo de Elecciones · versión 1 de 1 (última)
-- Ley 8773: descargada · Leyes y decretos nacionales/Municipal/Ley 8773.md · Reforma de los artículos 150, 156, 161, 162 y 163 del Código Municipal, Ley N.° 7794. y Derogación de los incisos 1, 6 y 7 del artículo 202 del Código Procesal Contencioso-Administrativo, Ley N.° 8508 · versión 1 de 1 (última)
-- Ley 9809: descargada · Leyes y decretos nacionales/Administrativo/Ley 9809.md · Reforma Ley Orgánica del Colegio de Médicos y Cirujanos · versión 1 de 1 (última)
