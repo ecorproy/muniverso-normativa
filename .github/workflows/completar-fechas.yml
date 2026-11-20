@@ -1,0 +1,38 @@
+name: Completar fechas de normas
+
+on:
+  push:
+    paths:
+      - herramientas/completar_fechas.json
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: normativa-escritura
+  cancel-in-progress: false
+
+jobs:
+  fechas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar dependencias
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Completar desde SINALEVI
+        run: python herramientas/completar_fechas.py
+      - name: Guardar
+        run: |
+          git config user.name "Muniverso (fechas de SINALEVI)"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A "Leyes y decretos nacionales" herramientas/completar_fechas.json herramientas/ultimas_fechas.md
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -q -m "Fechas de normas completadas desde SINALEVI"
+          git pull -q --rebase origin main && git push
