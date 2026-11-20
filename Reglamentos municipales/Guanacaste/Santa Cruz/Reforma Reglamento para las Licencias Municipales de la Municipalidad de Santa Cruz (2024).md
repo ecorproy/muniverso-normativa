@@ -1,0 +1,23 @@
+---
+numero: "Reglamento municipal 13 (25/06/2024)"
+nombre: "Reforma Reglamento para las Licencias Municipales de la Municipalidad de Santa Cruz"
+materia: "municipal"
+canton: "Santa Cruz"
+estado: "vigente"
+version_sinalevi: "1 de 1"
+fecha_version: "25/06/2024"
+ente_emisor: "Municipalidad de Santa Cruz"
+fecha_norma: "25/06/2024"
+enlace: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=102477&param2=141720&param3=1"
+descargado: "2026-11-20"
+---
+Reglamento municipal 13
+Reforma Reglamento para las Licencias Municipales de la Municipalidad de Santa Cruz
+
+MUNICIPALIDAD DE SANTA CRUZ
+
+REFORMA AL ARTÍCULO 21 DEL REGLAMENTO
+
+PARA LICENCIAS MUNICIPALES DE LA MUNICIPALIDAD DE SANTA CRUZ
+
+En la Sesión Extraordinaria 13-2024, Artículo 03, Inciso 01, celebrada el día 25 de junio del año 2024, el Concejo Municipal de Santa Cruz acordó por unanimidad acoger la recomendación del oficio DFCT-33-2024 de la Coordinación Tributaria y Hacienda Municipal, aprobándose la modificación del artículo 21 del Reglamento para Licencias Municipales de la Municipalidad de Santa Cruz, publicado en La Gaceta Nº 108 del 06 de junio de 2006. Por lo tanto, se reforma ese artículo para que se lea según se detalla a continuación: Artículo 21: Podrán concederse licencias comerciales para la explotación de actividades lucrativas en casas de habitación, en los siguientes casos: a) Cuando se separen la sección comercial de la casa de habitación, y que entre uno y otro no haya comunicación interna. b) Cuando se trate de hospedaje no tradicional, de acuerdo con lo establecido en la Ley N° 9742 y su reglamento correspondiente. Rige a partir de su publicación.

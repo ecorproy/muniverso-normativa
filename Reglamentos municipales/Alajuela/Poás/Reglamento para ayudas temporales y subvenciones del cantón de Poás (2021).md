@@ -1,0 +1,151 @@
+---
+numero: "Reglamento municipal 75 (05/10/2021)"
+nombre: "Reglamento para ayudas temporales y subvenciones del cantón de Poás"
+materia: "municipal"
+canton: "Poás"
+estado: "vigente"
+version_sinalevi: "1 de 1"
+fecha_version: "05/10/2021"
+ente_emisor: "Municipalidad de Poás"
+fecha_norma: "05/10/2021"
+enlace: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=95439&param2=127398&param3=1"
+descargado: "2026-11-20"
+---
+Reglamento municipal 75
+Reglamento para ayudas temporales y subvenciones del cantón de Poás
+
+MUNICIPALIDAD DE POÁS
+
+AVISA
+
+REGLAMENTO PARA AYUDAS TEMPORALES
+
+Y SUBVENCIONES DEL CANTÓN DE POÁS
+
+La suscrita Edith Campos Víquez, en calidad de Secretaría Interina del Concejo Municipal de la Municipalidad de Poás, hago constar que el Concejo Municipal del Cantón de Poás, en su Sesión Ordinaria Nº 075-2021 celebrada el 05 de octubre del 2021, tomó el Acuerdo Nº 956-10-2021 habiendo cumplido con lo que establece el artículo 43 del Código Municipal, basado en la publicación en la Gaceta Nº 162 del 24 agosto del 2021, y no habiendo ninguna objeción u observaciones sobre el Reglamento para Ayudas Temporales y Subvenciones del Cantón de Poás, se acordó de forma unánime y definitivamente aprobado, ratificar para publicar por segunda vez en el Diario Oficial La Gaceta Reglamento para Ayudas Temporales y Subvenciones del Cantón de Poás, el cual se detalla:
+
+REGLAMENTO PARA AYUDAS TEMPORALES
+
+Y SUBVENCIONES DEL CANTÓN DE POÁS
+
+La Municipalidad del Cantón de Poás, de conformidad con los artículos 169 y 170 de la Constitución Política de la República de Costa Rica y artículos 4 y 13 del Código Municipal, el Concejo Municipal promulga y autoriza el presente Reglamento para regular las donaciones con fondos aportados por medio de la Ley 9017, Artículo Nº 27, Decreto Nº, que será en el Diario Oficial La Gaceta, el cual se regirá por la normativa vigente y por las siguientes disposiciones:
+
+CAPÍTULO I
+
+Disposiciones Generales
+
+**Artículo 1º-De **conformidad con lo establecido en el artículo 71 del Código Municipal, la Municipalidad de Poás otorgará ayudas temporales a los vecinos del cantón que enfrenten situaciones de muerte, viudez, abandono, pobreza, enfermedad, vejez, discapacidad y emergencias, que no posean bienes inscritos, o que teniéndolos demuestren su incapacidad económica para pagar el impuesto, la tasa o el tributo. Para cada una de las variables descritas el interesado deberá aportar la documentación necesaria del IMAS o la respectiva institución oficial que la normativa hace competente para que acredite su situación.
+
+**Artículo 2º-Para o**torgar esta clase de beneficios, la Municipalidad de Poás presupuestará anualmente hasta un 10% de los ingresos por concepto del Impuesto de Patentes, tomando como referencia los porcentajes que indica la Ley No 9017.
+
+**Artículo 3º-El **presupuesto asignado para subvencionar y brindar las ayudas establecidas en este reglamento deberá ser aprobado por el Concejo Municipal para su ejecución.
+
+CAPÍTULO II
+
+De las ayudas por situaciones de abandono, pobreza, enfermedad, vejez, viudez, discapacidad, invalidez y muerte
+
+**Artículo 4º-La **Municipalidad de Poás otorgará ayudas temporales a los vecinos del cantón que enfrenten situaciones que por fuerza mayor, caso fortuito o vulnerabilidad extrema comprobada requieran, para lo cual deberá disponer anualmente, del contenido presupuestario destinado para cubrir este rubro.
+
+**Artículo 5º-Para **efectos de este reglamento, se define la desgracia, el infortunio o vulnerabilidad extrema, como aquellos acontecimientos inesperados que amenazan gravemente la integridad emocional de una persona o núcleo familiar, hechos derivados de condiciones socio-económicas patológicas, como muerte, enfermedad crónica, discapacidad, miseria extrema o indigencia y desempleo, que afecte directamente a la persona o la familia solicitante. En todos los casos anteriores la situación considerada debe ser estrictamente relacionada con la persona que será objeto de la ayuda o subvención.
+
+**Artículo 6º-La **Municipalidad de Poás, para poder otorgar una ayuda de estas, deberá tener debidamente demostrado, en los términos definidos en el artículo anterior, la situación de desgracia o infortunio. La situación de pobreza deberá acreditarse a través de al menos una de las siguientes alternativas (a-b): a-Una certificación emitida por SINIRUBE demostrando la condición de pobreza o pobreza extrema, el cual podrá ser accesado por la persona encargada del Área de Desarrollo Social de la Municipalidad, atendiendo la Ley 8220 y su Reglamento, "Ley de Simplificación de Trámites". b-En caso de enfermedad, discapacidad o invalidez, la persona deberá aportar además una certificación médica de la CCSS o CONAPDIS según corresponda.
+
+**Artículo 7º-Las **ayudas que brinde la Municipalidad serán destinadas, única y exclusivamente, a aquellas personas físicas o jurídicas que no tengan bienes inscritos o que teniéndolos demuestren su incapacidad económica para pagar el impuesto, la tasa o el tributo. En el caso de propietarios de inmuebles, el beneficiario deberá demostrar técnicamente demostrada con documentación oficial y formal que la respalden.
+
+**Articulo 7 **(bis)º-Las ayudas temporales y subvenciones serán autorizadas finalmente por la Alcaldía Municipal, después de seguir la debida revisión y constatación de documentos por parte del Área de Gestión Social y Tributaria Municipal, toda ayuda o subvención será prioritariamente dedicada a cancelar pendientes de pagos de Tributos, Tasas y Servicios pendientes con la Corporación Municipal, así mismo la Municipalidad no procederá con solicitudes de personas que hayan recibido el mismo beneficio doce meses anteriormente, sea de manera directa o familiares hasta primer grado de consanguinidad.
+
+Ficha Artículo 7 BIS
+
+**Artículo 8º-En **caso de muerte; realizada la solicitud de los familiares, la Municipalidad podrá cubrir los costos por inhumación, exhumación y alquiler de nicho municipal. Estas ayudas procederán cuando se dé comprobación material de la necesidad e imposibilidad de pago, serán casos asociados a situaciones sociales muy especiales.
+
+**Artículo 9º-Podrán o**torgarse las ayudas citadas en el artículo N° 7 de este reglamento a aquellas personas que cumplan con los siguientes requisitos de tramite: a-Presentar en la Oficina de Bienestar Social, solicitud por escrito debidamente justificada, dentro del plazo de ocho días hábiles contados a partir del acaecimiento de la desgracia o infortunio, aportando los documentos probatorios exigibles en el formulario de acuerdo a la solicitud planteada ante cada caso. b-No encontrarse gozando de algún subsidio de una Institución estatal o grupo de beneficencia, o bienestar social, para atender el mismo hecho y necesidad.
+
+**Artículo 10.-**La Administración dispondrá un plazo de ocho días hábiles, prorrogables por un plazo igual en casos muy calificados, a juicio del Área de Desarrollo Social o Área Tributaria, para la emisión de la recomendación final a la Alcaldía Municipal para su resolución final.
+
+**Artículo 11.-**La Municipalidad en cualquiera de sus Áreas, se reserva el derecho de solicitar y realizar toda clase de pruebas para constatar y verificar la documentación aportada, así como determinar la necesidad real del munícipe que solicita la ayuda, aplicando técnicas de investigación social. En caso de que el interesado haya suministrado datos falsos, o cualquier situación irregular que haya inducido a error a la Municipalidad, obligará a suspender de inmediato el trámite respectivo, descalificar la solicitud y deberá la Municipalidad a realizar todas las demás acciones civiles y penales que puedan caber para el caso en particular.
+
+**Artículo 12.-**Las ayudas que concederá la Municipalidad de Poás no podrán ser en dinero. En caso de pago de deudas pendientes con la Municipalidad el mecanismo de pago se hará mediante el Departamento de Desarrollo Social hacia el Departamento de Gestión Tributaria con la aprobación de la Alcaldía Municipal y se dejará constancia de ello tanto en el oficio con la firma del beneficiario, como un libro de registro o actos físico y digital que acredite el efectivo pago, para llevar informes contables adecuado. De cada caso se confeccionará un expediente administrativo al efecto.
+
+**Artículo 13.-**Es obligación de los beneficiarios de esta clase de ayudas emplear los recursos para el fin y destino para el cual le fueron concedidos, caso contrario, se le colocará en una lista de personas no aptas para recibir ayudas municipales y se descalificará para futuras peticiones. Para tal fin el Área de Desarrollo Social de esta Municipalidad verificará el uso dado por el beneficiario, de lo cual dejará constancia en el expediente, los registros municipales y actas llevados al efecto.
+
+CAPÍTULO III
+
+De las subvenciones a Centros Educativos Públicos
+
+**Artículo 14.-**La Municipalidad sólo dará ayudas en especie (nunca en dinero en efectivo) a los Centros Educativos Públicos del Cantón que demuestren las necesidades para la población estudiantil en las siguientes áreas, siendo la prioridad la cancelación de cuentas pendientes con el Municipio:
+
+Instrumentos musicales.
+
+Compra de uniformes escolares o colegiales.
+
+Paquetes de útiles escolares.
+
+Cancelación de Servicios Municipales pendientes de pago.
+
+Materiales para reparaciones menores.
+
+**Artículo 15.-**Se dará prioridad a las solicitudes que realicen los centros educativos ubicados en zonas del cantón con mayor problemática socioeconómica y de mayor vulnerabilidad.
+
+**Artículo 16.-**Los centros educativos que sean beneficiados, una vez elegidos, deberán aportar al Departamento Gestión del Desarrollo Social, toda la documentación que sea necesaria para realizar las debidas compras: especificaciones técnicas, otros documentos necesarios que sean solicitados por este Departamento, el cual será el encargado de realizar estas compras mediante el Sistema Integrado de Compras Públicas (SICOP).
+
+**Artículo 17.-**Para efectos de lo dispuesto en el presente reglamento, se entenderá por: Centros Educativos: aquellos establecimientos como jardín de niños, escuelas y colegios financiados por el Ministerio de Educación Pública o CEN CINAI perteneciente al Ministerio de Salud, que estén ubicados y presten servicios en el Cantón de Poás.
+
+**Artículo 18.-**Para efectos de lo dispuesto en los artículos anteriores, la solicitud de subvención, (en materiales y suministros) cuando se pretenda que sea incluida en el presupuesto ordinario del año siguiente, deberá ser presentada por el centro educativo o la organización, ante la Alcaldía, por escrito y debidamente justificada, durante el mes de junio de cada año. En esa solicitud se debe explicar, en forma clara y precisa, el objeto y fines para los que se requiere la subvención, indicando detalladamente el presupuesto del gasto y plan de trabajo y el aporte que hará la entidad solicitante. El sólo hecho de presentar la solicitud, no compromete u obliga al Municipio a tener que acoger o solventar todos los subsidios gestionados, pues estará sujeta al contenido presupuestario anual que ostente el Municipio en ese momento y al orden de prioridades y vulnerabilidad del centro educativo gestionante, para lo cual la Comisión entrará a calificar y valorar las solicitudes.
+
+Cada solicitud se trasladará a la Dirección de Desarrollo Social, para que confeccione el expediente respectivo, elabore el estudio pertinente y compruebe, por los medios que considere idóneos, la procedencia o no de tal subvención. Esta etapa finalizará con la emisión de la recomendación, la cual será considerada en el plan operativo anual y en el presupuesto de la Dirección de Desarrollo Social del año siguiente, según las posibilidades financieras de la Municipalidad. Fuera del plazo establecido en el párrafo primero de este artículo, la Dirección de Desarrollo Social, podrá, en casos calificados, recomendar subvenciones para que sean considerados, por el Concejo Municipal, en Presupuestos Extraordinarios o en modificaciones presupuestarias, según las posibilidades financieras de la Municipalidad.
+
+**Artículo 19.-**El aporte de la subvención con que la Municipalidad apoyará a cada una de los centros educativos u organizaciones solicitantes, será aprobado por la Administración Municipal, mediante el trámite presupuestario que corresponda, salvo los casos de tramites de aprobación por parte del Concejo Municipal como lo son presupuestos y modificaciones presupuestarias, pero nunca será en dinero efectivo, como se indica en el artículo 13.
+
+**Artículo 20.-**El centro educativo solicitante de este tipo de subvenciones no debe haber recibido ayuda de parte de la Municipalidad, por la misma situación, durante los últimos doce meses.
+
+CAPÍTULO IV
+
+De las Subvenciones a las Asociaciones u Organizaciones de Beneficencia y Centros de Salud
+
+**Artículo 21.-**La Municipalidad podrá subvencionar en el tanto posea recursos disponibles para ello a las Asociaciones u Organizaciones de beneficencia y centros de salud con implementos, nunca dinero el efectivo en las siguientes áreas:
+
+a-Alimentación.
+
+b-Equipo Médico c-Equipo Ortopédico.
+
+**Artículo 22.-**Se dará prioridad a las solicitudes que realicen las Asociaciones u Organizaciones de beneficencia y centros de salud ubicados en zonas del cantón con mayor problemática socioeconómica.
+
+**Artículo 23.-**Las Asociaciones u Organizaciones de beneficencia y centros de salud que sean beneficiados, una vez elegidos, deberán aportar al Departamento Gestión del Desarrollo Social, toda la documentación que sea necesaria para realizar las debidas compras: especificaciones técnicas, otros documentos necesarios que sean solicitados por este departamento, el cual será el encargado de realizar estas compras mediante el Sistema Integrado de Compras Públicas (SICOP).
+
+**Artículo 24.-**Para efectos de lo dispuesto en el presente reglamento, se entenderá por: a- Organizaciones de Beneficencia o Bienestar Social: Toda entidad pública o privada, organizada bajo las figuras de asociaciones, fundaciones o empresas públicas, sin fines de lucro, que se dediquen a la atención de personas en riesgo social, que promuevan y desarrollen obras, proyectos, programas o actividades de bien común o de carácter social, que coadyuven al mejoramiento del nivel de vida de la comunidad Poaseña, cuyo domicilio y centro de acción sea el cantón de Poás. Entre ellas Asociación de Personas con Discapacidad, Asociación de Cuidados Paliativos, Centros Diurnos, otros. b- Centros de Salud: Establecimientos de la Caja Costarricense del Seguro Social-C.C.S.S., ubicados en el cantón que brinden atención integral a la salud de las personas.
+
+**Artículo 25.-**Para efectos de lo dispuesto en los artículos anteriores, la solicitud de subvención, (en materiales y suministros, nunca en dinero en efectivo) cuando se pretenda que sea incluida en el presupuesto ordinario del año siguiente, deberá ser presentada por la Asociación, Organización o Centro de Salud, ante la Alcaldía, por escrito y debidamente justificada, durante el mes de junio de cada año. En esa solicitud se debe explicar, en forma clara y precisa, el objeto y fines para los que se requiere la subvención, indicando detalladamente el presupuesto del gasto y plan de trabajo y el aporte que hará la entidad solicitante. Dicha solicitud se trasladará a la Dirección de Desarrollo Social, para que confeccione el expediente respectivo, elabore el estudio pertinente y compruebe, por los medios que considere idóneos, la procedencia o no de tal subvención. Esta etapa finalizará con la emisión de la recomendación, la cual será considerada en el plan operativo anual y en el presupuesto de la Dirección de Desarrollo Social del año siguiente, según las posibilidades financieras de la Municipalidad. Fuera del plazo establecido en el párrafo primero de este artículo, la Dirección de Desarrollo Social, podrá, en casos calificados, recomendar subvenciones para que sean considerados, por el Concejo Municipal, en Presupuestos Extraordinarios o en modificaciones presupuestarias, según las posibilidades financieras de la Municipalidad.
+
+**Artículo 26.-**La ayuda mediante subvención con que la Municipalidad apoyará a cada uno de los centros educativos u organizaciones solicitantes, será aprobado por la Administración Municipal, mediante el trámite presupuestario que corresponda, salvo los casos de tramites de aprobación por parte del Concejo Municipal como lo son presupuestos y modificaciones presupuestarias, pero nunca será en dinero efectivo, como se indica en el artículo 13.
+
+**Artículo 27.-**Las Asociaciones u Organizaciones de beneficencia y centros de salud, solicitantes de este tipo de subvenciones no deben haber recibido ayuda de parte de la Municipalidad, por la misma situación, durante los últimos doce meses.
+
+**Artículo 28.-**Las Asociaciones u Organizaciones de beneficencia que requieran de una subvención de la Municipalidad, deberán reunir los siguientes requisitos:
+
+a) Estar debidamente inscritos en el registro respectivo, para tal fin se debe aportar la certificación correspondiente.
+
+b) Tener su personería jurídica al día y así aportarla.
+
+c) Mantener los libros legales al día y en orden.
+
+d) Tener más de cuatro años de constituidos como tales.
+
+e) Tener una Junta Directiva nombrada y legitimada para gestionar.
+
+f) No encontrarse gozando de algún subsidio de una institución o grupo de beneficencia o bienestar social, para atender el mismo hecho.
+
+g) El fallecido(a) deberá tener domicilio en el Cantón de Poás.
+
+Disposiciones finales:
+
+**Artículo 29.-**Después de transcurrido un mes de que los beneficiarios de las ayudas a que se refiere este Reglamento no se apersonen a la Municipalidad a retirar la ayuda otorgada, el Área Administrativa Financiera deberá informar de lo anterior al alcalde, a fin de que gire instrucciones para que ese dinero o recursos sean reasignados a otras personas u organizaciones que lo necesiten. Al mismo tiempo, colocará a la persona u organización que renunció a la ayuda, en la lista de sujetos no legitimados para recibir ayudas de la Municipalidad.
+
+**Artículo 30.-**Todo monto dinerario presupuestado anualmente para las diversas ayudas establecidas en el presente reglamento y que no sea ejecutado, será reasignado al mismo fin para ser ejecutado en el año inmediato siguiente.
+
+**Artículo 31.-**El Departamento de Gestión Social Municipal, rendirá al Concejo Municipal, de manera trimestral, un informe detallado de todos los casos aprobados o no, de ayudas o subvenciones contempladas en el presente reglamento.
+
+**Artículo 32.-**Todo funcionario Municipal que con su actuar contravenga los dispuesto en el presente reglamento será acreedor, según debido proceso, de la sanción disciplinaria respectiva por falta grave.
+
+Edith Campos Víquez, Secretaría Interina, segunda vez.
+
+Poás, 12 de octubre del 2021.

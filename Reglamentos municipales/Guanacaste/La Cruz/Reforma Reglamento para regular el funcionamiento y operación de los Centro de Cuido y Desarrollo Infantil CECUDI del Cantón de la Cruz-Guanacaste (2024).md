@@ -1,0 +1,29 @@
+---
+numero: "Reglamento municipal 46 (25/11/2024)"
+nombre: "Reforma Reglamento para regular el funcionamiento y operación de los Centro de Cuido y Desarrollo Infantil CECUDI del Cantón de la Cruz-Guanacaste"
+materia: "municipal"
+canton: "La Cruz"
+estado: "vigente"
+version_sinalevi: "1 de 1"
+fecha_version: "25/11/2024"
+ente_emisor: "Municipalidad de La Cruz"
+fecha_norma: "25/11/2024"
+enlace: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=103579&param2=144091&param3=1"
+descargado: "2026-11-20"
+---
+Reglamento municipal 46
+Reforma Reglamento para regular el funcionamiento y operación de los Centro de Cuido y Desarrollo Infantil CECUDI del Cantón de la Cruz-Guanacaste
+
+MUNICIPALIDAD DE LA CRUZ
+
+MODIFICACIÓN DEL ARTÍCULO 12 DEL REGLAMENTO
+
+PARA REGULAR EL FUNCIONAMIENTO Y OPERACIÓN
+
+DE LOS CENTROS DE CUIDO Y DESARROLLO
+
+INFANTIL-CECUDI DEL CANTÓN DE LA CRUZ-
+
+GUANACASTE
+
+El Concejo Municipal de La Cruz, Guanacaste, mediante Acuerdo N° 1-4, tomado en la Sesión Extraordinaria N° 46- 2024, verificada el día 25 de noviembre del año 2024, aprueba la modificación del artículo 12 del Reglamento para regular el funcionamiento y operación de los Centros de Cuido y Desarrollo Infantil-CECUDI del cantón de La Cruz-Guanacaste, para que en adelante se lea: "Artículo 12.-De la procedencia del cobro: en casos calificados, y previo estudio técnico que así lo justifique, será procedente brindar los servicios del Centro a personas que por su condición socioeconómica favorable no cumplan con todos los supuestos para ser considerado población beneficiada según los criterios del IMAS. En tales supuestos, la Municipalidad cobrará un precio público por el servicio prestado. Dicho precio será igual al monto base que el IMAS establezca como beneficio a cada niño para recibir el servicio en los CECUDIS, más un 10% adicional de utilidad para desarrollar el servicio, a tenor del artículo 83 del Código Municipal. La base de este precio público se ajustará automáticamente en la misma medida en la que el IMAS ajuste el monto respectivo. En caso de que el servicio sea prestado por un operador privado contratado por la Municipalidad, esta trasladará el monto que le corresponde por la atención de los niños de acuerdo con lo que se establezca en el respectivo contrato, dejando claro que el 10% de utilidad es una suma que entrará a las arcas municipales para ser utilizado en forma íntegra para invertirse en el mantenimiento o el mejoramiento del propio servicio o de las instalaciones donde se presta.".

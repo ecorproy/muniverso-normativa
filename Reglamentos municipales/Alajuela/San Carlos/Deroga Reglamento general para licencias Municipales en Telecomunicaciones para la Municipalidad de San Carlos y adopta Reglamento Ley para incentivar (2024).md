@@ -1,0 +1,27 @@
+---
+numero: "Reglamento municipal 0 (18/11/2024)"
+nombre: "Deroga Reglamento general para licencias Municipales en Telecomunicaciones para la Municipalidad de San Carlos y adopta Reglamento Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica, sobre los procedimie"
+materia: "municipal"
+canton: "San Carlos"
+estado: "vigente"
+version_sinalevi: "1 de 1"
+fecha_version: "18/11/2024"
+ente_emisor: "Municipalidad de San Carlos"
+fecha_norma: "18/11/2024"
+enlace: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=103668&param2=144247&param3=1"
+descargado: "2026-11-20"
+---
+Reglamento municipal 0
+Deroga Reglamento general para licencias Municipales en Telecomunicaciones para la Municipalidad de San Carlos y adopta Reglamento Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica, sobre los procedimie
+
+MUNICIPALIDAD DE SAN CARLOS
+
+CONCEJO MUNICIPAL
+
+El Concejo Municipal de San Carlos en su Sesión Ordinaria celebrada el lunes 18 de noviembre del 2024, en el Salón de Sesiones de la Municipalidad de San Carlos, Artículo N° VIII, Acuerdo N° 10, Acta N° 70, Acordó: Con base en el oficio MSC-AM-2297-2024, emitido por el señor Juan Diego González Picado, Alcalde de la Municipalidad de San Carlos, asunto, Respuesta a oficio MSCCM-SC-1523-2024, referente a el Reglamento a la Ley para Incentivar y Promover la Construcción de Infraestructura de Telecomunicaciones en Costa Rica sobre los Procedimientos y Especificaciones Técnicas de la Infraestructura de Telecomunicaciones, se determina:
+
+- Derogar, en su totalidad, el "Reglamento para Licencias en Telecomunicaciones" aprobado mediante Acuerdo del Concejo Municipal N° 10, acta N° 07 adoptado en la Sesión Ordinaria de fecha 29 de enero del 2011 y publicado en La Gaceta N° 36 del 21 de febrero del 2011.
+
+- Dejar sin efecto el acuerdo municipal que adoptó para la aplicación de la Municipalidad de San Carlos el "Reglamento General para Licencias Municipales en Telecomunicaciones", publicado por la Federación Metropolitana de Municipalidades en el Diario Oficial La Gaceta N° 129 del 05 de julio del 2011.
+
+- Adoptar, en todos sus extremos, las disposiciones del Decreto Ejecutivo N° 44335-MICITT, denominado "Reglamento a la Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica, sobre los procedimientos y especificaciones técnicas de la infraestructura de telecomunicaciones", emitido por el Poder Ejecutivo y publicado en el Alcance N° 13 al Diario Oficial La Gaceta N° 14, de fecha de 25 de enero de 2024. Votación unánime. Acuerdo Definitivamente Aprobado.
