@@ -1,7 +1,10 @@
-# Actualización del 2026-11-19
+# Actualización del 2026-11-20
 
-- Ley 3504 actualizada: Leyes y decretos nacionales/Electoral/Ley 3504.md · versión 12 de 12 — Reformada por la Ley 10989 (17/11/2026)
-- Ley 6227 actualizada: Leyes y decretos nacionales/Administrativo/Ley 6227.md · versión 22 de 22 — Reformada por la Ley 10981 (17/11/2026)
-- Ley 7052 actualizada: Leyes y decretos nacionales/Administrativo/Ley 7052.md · versión 31 de 31 — Reformada por la Ley 10981 (17/11/2026)
-- Ley 7410 actualizada: Leyes y decretos nacionales/Laboral/Ley 7410.md · versión 19 de 19 — Reformada por la Ley 10983 (17/11/2026)
-- Ley 7472 actualizada: Leyes y decretos nacionales/Administrativo/Ley 7472.md · versión 24 de 24 — Reformada por la Ley 10658 (17/11/2026)
+- Ley 10658 nueva: Leyes y decretos nacionales/Comercial/Ley 10658.md · versión 1 de 1 — Publicada en Alcance número 153 (17/11/2026)
+- Ley 10981 nueva: Leyes y decretos nacionales/Administrativo/Ley 10981.md · versión 1 de 1 — Publicada en Alcance número 153 (17/11/2026)
+- Ley 10982 nueva: Leyes y decretos nacionales/Hacienda pública/Ley 10982.md · versión 1 de 1 — Publicada en Alcance número 153 (17/11/2026)
+- Ley 10983 nueva: Leyes y decretos nacionales/Comercial/Ley 10983.md · versión 1 de 1 — Publicada en Alcance número 153 (17/11/2026)
+- Ley 10987 nueva: Leyes y decretos nacionales/Administrativo/Ley 10987.md · versión 1 de 1 — Publicada en Alcance número 153 (17/11/2026)
+- Ley 10988 nueva: Leyes y decretos nacionales/Hacienda pública/Ley 10988.md · versión 1 de 1 — Publicada en Alcance número 153 (17/11/2026)
+- Ley 10989 nueva: Leyes y decretos nacionales/Electoral/Ley 10989.md · versión 1 de 1 — Publicada en Alcance número 153 (17/11/2026)
+- Ley 1788 actualizada: Leyes y decretos nacionales/Administrativo/Ley 1788.md · versión 14 de 14 — Reformada por la Ley 10981 (17/11/2026)
