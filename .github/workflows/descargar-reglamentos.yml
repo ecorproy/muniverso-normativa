@@ -13,7 +13,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: normativa-escritura
+  group: normativa-descargar-reglamentos
   cancel-in-progress: false
 
 jobs:
