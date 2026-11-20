@@ -11,7 +11,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: normativa-explorar-sinalevi
+  group: normativa-sinalevi
   cancel-in-progress: false
 
 jobs:

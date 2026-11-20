@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: normativa-completar-fechas
+  group: normativa-sinalevi
   cancel-in-progress: false
 
 jobs:

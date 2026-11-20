@@ -1,19 +1,18 @@
 name: Descargar reglamentos municipales pedidos
 
-# Se ejecuta al subir herramientas/pedidos_reglamentos.json y, mientras queden pedidos, cada hora (retoma donde quedó).
+# Se ejecuta al subir herramientas/pedidos_reglamentos.json. Sin programación horaria: en el mismo grupo de concurrencia,
+# cada corrida programada reemplazaba (cancelaba) a las demás acciones en espera. Si quedan pedidos, se retoma con un push.
 on:
   push:
     paths:
       - herramientas/pedidos_reglamentos.json
-  schedule:
-    - cron: "23 * * * *"
   workflow_dispatch: {}
 
 permissions:
   contents: write
 
 concurrency:
-  group: normativa-descargar-reglamentos
+  group: normativa-sinalevi
   cancel-in-progress: false
 
 jobs:
