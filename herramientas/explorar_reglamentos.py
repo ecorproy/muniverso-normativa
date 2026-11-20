@@ -6,7 +6,7 @@ import json, os, sys, time
 from urllib.parse import quote
 sys.path.insert(0, os.path.dirname(__file__))
 from descargar_normas import BASE, JS_TARJETAS, tarjeta, esperar, norm  # noqa: E402
-from reglamentos_comun import RAIZ, inventario, destino  # noqa: E402
+from reglamentos_comun import REFORMA, RAIZ, inventario, destino  # noqa: E402
 
 ENTRADA = os.path.join(RAIZ, "herramientas", "exploracion_reglamentos.json")
 SALIDA = os.path.join(RAIZ, "herramientas", "candidatos_reglamentos.json")
@@ -42,6 +42,7 @@ def main():
                     tj = tarjeta(c["tarjeta"])
                     if not tj or not norm(tj["tipo"]).startswith("reglamento municipal") or tj["derogada"]: continue
                     if c["norma"] in ids or c["norma"] in vistos: continue
+                    if REFORMA.match(tj["nombre"]) and "integral" not in tj["nombre"].lower(): continue  # solo textos consolidados
                     dst = destino(tj.get("emisor"), mapa, cantones)
                     if not dst: sin_ubicar[c["norma"]] = {**tj, "norma": c["norma"]}; continue
                     vistos[c["norma"]] = {"norma": c["norma"], "version": c["version"], "numero": tj["numero"], "nombre": tj["nombre"], "fecha": tj["fecha"],

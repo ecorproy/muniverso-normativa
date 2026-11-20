@@ -7,7 +7,7 @@ import json, os, sys, time
 from datetime import date
 sys.path.insert(0, os.path.dirname(__file__))
 from descargar_normas import descargar, limpiar  # noqa: E402
-from reglamentos_comun import RAIZ, inventario, archivo  # noqa: E402
+from reglamentos_comun import REFORMA, RAIZ, inventario, archivo  # noqa: E402
 
 PEDIDOS = os.path.join(RAIZ, "herramientas", "pedidos_reglamentos.json")
 INFORME = os.path.join(RAIZ, "herramientas", "ultimo_pedido_reglamentos.md")
@@ -16,6 +16,7 @@ LIMITE = float(os.environ.get("MINUTOS", "250")) * 60
 
 def bajar(pg, p, ids):
     if p["norma"] in ids: return None, "ya estaba en el repositorio"
+    if REFORMA.match(p["nombre"]) and "integral" not in p["nombre"].lower(): return None, "descartada: es una reforma (solo se guardan textos consolidados)"
     d = descargar(pg, {"norma": p["norma"], "derogada": False})
     if len(d["vista"]) < 300: return False, "texto vacío"
     if d["derogada"]: return None, "descartada: SINALEVI la marca derogada"

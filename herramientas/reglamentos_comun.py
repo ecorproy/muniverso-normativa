@@ -2,6 +2,9 @@
 import os, re
 from descargar_normas import norm
 
+# Normas que solo reforman a otra: no se guardan; vale el texto consolidado de la norma reformada.
+REFORMA = re.compile(r"^\s*(reforma|reformas|modificaci[oó]n|modifica |adici[oó]n|adiciona|deroga|fe de erratas|aclaraci[oó]n|correcci[oó]n|enmienda|ad[eé]ndum)", re.I)
+
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REGL = os.path.join(RAIZ, "Reglamentos municipales")
 

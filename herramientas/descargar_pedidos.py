@@ -10,6 +10,7 @@ import json, os, sys, time
 from datetime import date
 
 sys.path.insert(0, os.path.dirname(__file__))
+from reglamentos_comun import REFORMA  # noqa: E402
 from descargar_normas import buscar_numero, descargar, limpiar, ultima_reforma  # noqa: E402
 from gaceta_diaria import materia  # noqa: E402
 
@@ -34,6 +35,8 @@ def bajar(pg, p):
     elegido, cands, _ = buscar_numero(pg, tipo, numero)
     if not elegido:
         return False, "sin coincidencia única en SINALEVI: " + "; ".join(f"{c.get('tipo')} {c.get('numero')} {c.get('nombre', '')[:60]}" for c in cands[:6])
+    if REFORMA.match(elegido["nombre"]) and "integral" not in elegido["nombre"].lower() and not p.get("aceptar_reforma"):
+        return None, f"descartada: es una reforma; vale el texto consolidado de la norma reformada ({elegido['nombre']})"
     d = descargar(pg, elegido)
     if len(d["vista"]) < 300: return False, "texto vacío"
     if p.get("solo_vigentes") and d["derogada"]:
