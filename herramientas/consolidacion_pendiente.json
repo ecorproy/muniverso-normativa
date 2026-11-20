@@ -10,6 +10,11 @@
     "Ley 8687",
     "Ley 8968",
     "Ley 6227"
+   ],
+   "falta_integrar": [
+    "Ley 8687",
+    "Ley 8968",
+    "Ley 6227"
    ]
   },
   {
@@ -31,7 +36,19 @@
     "Ley 7755",
     "Ley 7384",
     "Ley 7092"
+   ],
+   "falta_integrar": [
+    "Ley 7123",
+    "Ley 7096",
+    "Ley 7012",
+    "Ley 8131",
+    "Ley 7092"
+   ],
+   "sin_bajar": [
+    "Ley 8151 (SINALEVI devuelve varias normas con ese número)",
+    "Ley 4646 y 7147 (son reformas; sus bases no se identificaron)"
    ]
   }
- ]
+ ],
+ "revisado": "2026-11-20 18:05 UTC"
 }
