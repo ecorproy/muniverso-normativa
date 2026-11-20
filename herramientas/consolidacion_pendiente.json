@@ -1,0 +1,37 @@
+{
+ "nota": "Leyes de reforma que se conservan hasta tener la versión consolidada de la ley reformada. Al consolidarse (las notas de SINALEVI de la base mencionan la reforma), se retira la reforma.",
+ "pendientes": [
+  {
+   "reforma": "Ley 10982",
+   "bases": [
+    "Ley 4755",
+    "Ley 7509",
+    "Ley 7092",
+    "Ley 8687",
+    "Ley 8968",
+    "Ley 6227"
+   ]
+  },
+  {
+   "reforma": "Ley 8823",
+   "bases": [
+    "Ley 7428",
+    "Ley 4646",
+    "Ley 8151",
+    "Ley 7970",
+    "Ley 7667",
+    "Ley 7429",
+    "Ley 7147",
+    "Ley 7123",
+    "Ley 7098",
+    "Ley 7096",
+    "Ley 7012",
+    "Ley 8131",
+    "Ley 7972",
+    "Ley 7755",
+    "Ley 7384",
+    "Ley 7092"
+   ]
+  }
+ ]
+}
