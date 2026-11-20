@@ -5,6 +5,7 @@ materia: "constitucional"
 version_sinalevi: "6 de 6"
 ultima_reforma: "Ley 10013 del 2021-08-24"
 enlace: ""
+fecha_norma: "11/10/1989"
 ---
 
 Ley 7135

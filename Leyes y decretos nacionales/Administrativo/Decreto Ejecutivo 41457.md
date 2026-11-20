@@ -5,6 +5,7 @@ materia: "administrativo"
 version_sinalevi: "4 de 4"
 ultima_reforma: ""
 enlace: ""
+fecha_norma: "17/10/2018"
 ---
 
 Decreto Ejecutivo 41457

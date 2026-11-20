@@ -5,6 +5,7 @@ materia: "derechos-humanos"
 version_sinalevi: "1 de 1"
 ultima_reforma: ""
 enlace: ""
+fecha_norma: "30/04/2018"
 ---
 
 Decreto Ejecutivo 41087

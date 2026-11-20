@@ -1,147 +1,50 @@
 [
  {
-  "archivo": "Leyes y decretos nacionales/Administrativo/Decreto Ejecutivo 41457.md",
-  "tipo": "Decreto Ejecutivo",
-  "numero": "41457"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Administrativo/Decreto Ejecutivo 43808.md",
-  "tipo": "Decreto Ejecutivo",
-  "numero": "43808"
- },
- {
   "archivo": "Leyes y decretos nacionales/Administrativo/Directriz 1.md",
   "tipo": "Directriz",
-  "numero": "1"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Administrativo/Ley 10437.md",
-  "tipo": "Ley",
-  "numero": "10437"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Administrativo/Ley 10554.md",
-  "tipo": "Ley",
-  "numero": "10554"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Administrativo/Ley 3245.md",
-  "tipo": "Ley",
-  "numero": "3245"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Agrario/Ley 9609.md",
-  "tipo": "Ley",
-  "numero": "9609"
+  "numero": "1",
+  "intentos": 1
  },
  {
   "archivo": "Leyes y decretos nacionales/Civil/Ley 30 Código Civil.md",
   "tipo": "Ley",
-  "numero": "30"
+  "numero": "30",
+  "intentos": 1
  },
  {
   "archivo": "Leyes y decretos nacionales/Civil/Ley 30.md",
   "tipo": "Ley",
-  "numero": "30"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Civil/Ley 7527.md",
-  "tipo": "Ley",
-  "numero": "7527"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Civil/Ley 7727.md",
-  "tipo": "Ley",
-  "numero": "7727"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Civil/Ley 9342.md",
-  "tipo": "Ley",
-  "numero": "9342"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Comercial/Ley 3284.md",
-  "tipo": "Ley",
-  "numero": "3284"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Constitucional/Ley Jurisdicción Constitucional.md",
-  "tipo": "Ley",
-  "numero": "7135"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Derechos humanos/Decreto Ejecutivo 41087.md",
-  "tipo": "Decreto Ejecutivo",
-  "numero": "41087"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Familia/Decreto Ejecutivo 41902.md",
-  "tipo": "Decreto Ejecutivo",
-  "numero": "41902"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Familia/Ley 5476.md",
-  "tipo": "Ley",
-  "numero": "5476"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Familia/Ley 9747.md",
-  "tipo": "Ley",
-  "numero": "9747"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Internacional/Ley 4534.md",
-  "tipo": "Ley",
-  "numero": "4534"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Internacional/Ley 7184.md",
-  "tipo": "Ley",
-  "numero": "7184"
+  "numero": "30",
+  "intentos": 1
  },
  {
   "archivo": "Leyes y decretos nacionales/Internacional/Tratados Internacionales 6968.md",
   "tipo": "Ley",
-  "numero": "6968"
+  "numero": "6968",
+  "intentos": 1
  },
  {
   "archivo": "Leyes y decretos nacionales/Internacional/Tratados Internacionales 7948.md",
   "tipo": "Ley",
-  "numero": "7948"
+  "numero": "7948",
+  "intentos": 1
  },
  {
   "archivo": "Leyes y decretos nacionales/Internacional/Tratados Internacionales 8661.md",
   "tipo": "Ley",
-  "numero": "8661"
+  "numero": "8661",
+  "intentos": 1
  },
  {
   "archivo": "Leyes y decretos nacionales/Internacional/Tratados Internacionales 9394.md",
   "tipo": "Ley",
-  "numero": "9394"
+  "numero": "9394",
+  "intentos": 1
  },
  {
   "archivo": "Leyes y decretos nacionales/Laboral/Decreto Ejecutivo 21.md",
   "tipo": "Decreto Ejecutivo",
-  "numero": "21"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Laboral/Decreto Ejecutivo 41553.md",
-  "tipo": "Decreto Ejecutivo",
-  "numero": "41553"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Laboral/Decreto Ejecutivo 43952.md",
-  "tipo": "Decreto Ejecutivo",
-  "numero": "43952"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Laboral/Ley 2694.md",
-  "tipo": "Ley",
-  "numero": "2694"
- },
- {
-  "archivo": "Leyes y decretos nacionales/Tributario/Ley 9416.md",
-  "tipo": "Ley",
-  "numero": "9416"
+  "numero": "21",
+  "intentos": 1
  }
 ]

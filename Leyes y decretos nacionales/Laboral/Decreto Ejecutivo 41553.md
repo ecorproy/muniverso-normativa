@@ -5,6 +5,7 @@ materia: "laboral"
 version_sinalevi: "2 de 2"
 ultima_reforma: ""
 enlace: ""
+fecha_norma: "30/11/2018"
 ---
 
 Decreto Ejecutivo 41553

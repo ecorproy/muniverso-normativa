@@ -5,6 +5,7 @@ materia: "administrativo"
 version_sinalevi: "5 de 5"
 ultima_reforma: ""
 enlace: ""
+fecha_norma: "22/11/2022"
 ---
 
 Decreto Ejecutivo 43808

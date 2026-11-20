@@ -5,6 +5,7 @@ materia: "familia"
 version_sinalevi: "1 de 1"
 ultima_reforma: ""
 enlace: ""
+fecha_norma: "06/08/2019"
 ---
 
 Decreto Ejecutivo 41902

@@ -1,0 +1,31 @@
+# Fechas completadas desde SINALEVI
+
+- Leyes y decretos nacionales/Administrativo/Decreto Ejecutivo 41457.md: 17/10/2018 · Arancel de honorarios por servicios profesionales de abogacía y notariado
+- Leyes y decretos nacionales/Administrativo/Decreto Ejecutivo 43808.md: 22/11/2022 · Reglamento a la Ley General de Contratación Pública
+- Leyes y decretos nacionales/Administrativo/Directriz 1.md: sin coincidencia única (569 candidatos)
+- Leyes y decretos nacionales/Administrativo/Ley 10437.md: 29/01/2024 · Ley de protección de las personas denunciantes y testigos de actos de corrupción
+- Leyes y decretos nacionales/Administrativo/Ley 10554.md: 23/10/2024 · Ley Marco de Acceso a la Información Pública
+- Leyes y decretos nacionales/Administrativo/Ley 3245.md: 03/12/1963 · Crea Timbre del Colegio de Abogados y Reforma Ley Timbre Forense
+- Leyes y decretos nacionales/Agrario/Ley 9609.md: 27/09/2018 · Código Procesal Agrario
+- Leyes y decretos nacionales/Civil/Ley 30 Código Civil.md: sin coincidencia única (325 candidatos)
+- Leyes y decretos nacionales/Civil/Ley 30.md: sin coincidencia única (325 candidatos)
+- Leyes y decretos nacionales/Civil/Ley 7527.md: 10/07/1995 · Ley General de Arrendamientos Urbanos y Suburbanos ( Inquilinato)
+- Leyes y decretos nacionales/Civil/Ley 7727.md: 09/12/1997 · Resolución Alterna de Conflictos y Promoción de la Paz Social RAC
+- Leyes y decretos nacionales/Civil/Ley 9342.md: 03/02/2016 · Código Procesal Civil
+- Leyes y decretos nacionales/Comercial/Ley 3284.md: 30/04/1964 · Código de Comercio
+- Leyes y decretos nacionales/Constitucional/Ley Jurisdicción Constitucional.md: 11/10/1989 · Ley de la Jurisdicción Constitucional
+- Leyes y decretos nacionales/Derechos humanos/Decreto Ejecutivo 41087.md: 30/04/2018 · Reglamento a la Ley para Promoción de la Autonomía Personal de las Personas con 
+- Leyes y decretos nacionales/Familia/Decreto Ejecutivo 41902.md: 06/08/2019 · Reglamento a los artículos 133 y 139 del Código de la Niñez y la Adolescencia
+- Leyes y decretos nacionales/Familia/Ley 5476.md: 21/12/1973 · Código de Familia
+- Leyes y decretos nacionales/Familia/Ley 9747.md: 23/10/2019 · Aprueba Código Procesal de Familia
+- Leyes y decretos nacionales/Internacional/Ley 4534.md: 23/02/1970 · Convención Americana sobre Derechos Humanos (Pacto de San José)
+- Leyes y decretos nacionales/Internacional/Ley 7184.md: 18/07/1990 · Convención sobre los Derechos del Niño
+- Leyes y decretos nacionales/Internacional/Tratados Internacionales 6968.md: sin coincidencia única (1 candidatos)
+- Leyes y decretos nacionales/Internacional/Tratados Internacionales 7948.md: sin coincidencia única (2 candidatos)
+- Leyes y decretos nacionales/Internacional/Tratados Internacionales 8661.md: sin coincidencia única (2 candidatos)
+- Leyes y decretos nacionales/Internacional/Tratados Internacionales 9394.md: sin coincidencia única (3 candidatos)
+- Leyes y decretos nacionales/Laboral/Decreto Ejecutivo 21.md: sin coincidencia única (479 candidatos)
+- Leyes y decretos nacionales/Laboral/Decreto Ejecutivo 41553.md: 30/11/2018 · Reglamento para el funcionamiento de la Comisión de Políticas para la Negociació
+- Leyes y decretos nacionales/Laboral/Decreto Ejecutivo 43952.md: 28/02/2023 · Reglamento a la Ley Marco de Empleo Público
+- Leyes y decretos nacionales/Laboral/Ley 2694.md: 22/11/1960 · Prohibe toda clase de discriminación en materia laboral
+- Leyes y decretos nacionales/Tributario/Ley 9416.md: 14/12/2016 · Ley para Mejorar la Lucha contra el Fraude Fiscal

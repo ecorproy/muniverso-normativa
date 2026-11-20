@@ -5,6 +5,7 @@ materia: "laboral"
 version_sinalevi: "6 de 6"
 ultima_reforma: ""
 enlace: ""
+fecha_norma: "28/02/2023"
 ---
 
 Decreto Ejecutivo 43952
