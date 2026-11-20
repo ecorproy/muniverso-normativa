@@ -3,6 +3,7 @@
 Entrada: herramientas/exploracion_reglamentos.json = {"terminos": [...]}. Salida: herramientas/candidatos_reglamentos.json.
 Solo lee listados de resultados (no descarga textos). Una búsqueda a la vez, con pausas."""
 import json, os, sys, time
+from datetime import date
 from urllib.parse import quote
 sys.path.insert(0, os.path.dirname(__file__))
 from descargar_normas import BASE, JS_TARJETAS, tarjeta, esperar, norm  # noqa: E402
@@ -25,35 +26,80 @@ def tarjetas(pg):
     return list(out.values()), total
 
 
+class Navegador:
+    """Un navegador que se reabre si SINALEVI corta la conexión."""
+    def __init__(self, pw): self.pw = pw; self.abrir()
+    def abrir(self):
+        self.b = self.pw.chromium.launch(); self.pg = self.b.new_page(locale="es-CR")
+    def reabrir(self):
+        try: self.b.close()
+        except Exception as ex: print("aviso: el navegador no cerró bien:", str(ex)[:80], flush=True)
+        self.abrir()
+
+
+def consultar(nav, t, desde="", hasta="", intentos=3):
+    """Una búsqueda por nombre, con reintentos y espera creciente. Con años, SINALEVI filtra por fecha de la norma."""
+    años = f"&radioFechas=1&AnnioDesde={desde}&AnnioHasta={hasta}" if desde else ""
+    url = f"{BASE}/Resultados?TipoBusqueda=2&Pagina=1&Nombre={quote(t)}{años}&NormasHistoricas=false&CantidadResultados=-1"
+    ultimo = None
+    for i in range(intentos):
+        try:
+            nav.pg.goto(url, wait_until="domcontentloaded", timeout=90000); esperar(nav.pg, 40)
+            return tarjetas(nav.pg)
+        except Exception as ex:
+            ultimo = ex; time.sleep(10 * (i + 1)); nav.reabrir()
+    raise ultimo
+
+
+LIMITE_TERMINO = 45 * 60  # segundos por término, para que una palabra ambigua no consuma toda la corrida
+
+
+def explorar(nav, t, desde=None, hasta=None, log=None, t0=None):
+    """Busca el término; si SINALEVI no responde (listados enormes con palabras ambiguas), parte el período en dos y vuelve
+    a intentar, hasta un año a la vez. Devuelve todas las tarjetas, sin repetir."""
+    t0 = t0 or time.time()
+    if time.time() - t0 > LIMITE_TERMINO:
+        if log is not None: log.append(f"{desde}-{hasta}: sin respuesta (tiempo agotado)")
+        return []
+    try:
+        cs, total = consultar(nav, t, str(desde or ""), str(hasta or ""))
+        if log is not None: log.append(f"{desde or 'todo'}-{hasta or ''}: {total}")
+        return cs
+    except Exception as ex:
+        if desde is None: desde, hasta = 1800, date.today().year
+        elif desde >= hasta:
+            if log is not None: log.append(f"{desde}: sin respuesta ({str(ex)[:60]})")
+            return []
+        medio = (desde + hasta) // 2
+        time.sleep(4)
+        return explorar(nav, t, desde, medio, log, t0) + explorar(nav, t, medio + 1, hasta, log, t0)
+
+
 def main():
     terminos = json.load(open(ENTRADA, encoding="utf-8"))["terminos"]
     ids, mapa, cantones = inventario()
     vistos, sin_ubicar, informe = {}, {}, []
     from playwright.sync_api import sync_playwright
     with sync_playwright() as pw:
-        b = pw.chromium.launch(); pg = b.new_page(locale="es-CR")
+        nav = Navegador(pw)
         for i, t in enumerate(terminos):
             if i: time.sleep(4)
-            try:
-                pg.goto(f"{BASE}/Resultados?TipoBusqueda=2&Pagina=1&Nombre={quote(t)}&NormasHistoricas=false&CantidadResultados=-1", wait_until="domcontentloaded", timeout=90000)
-                esperar(pg, 40)
-                cs, total = tarjetas(pg); n = 0
-                for c in cs:
-                    tj = tarjeta(c["tarjeta"])
-                    if not tj or not norm(tj["tipo"]).startswith("reglamento municipal") or tj["derogada"]: continue
-                    if c["norma"] in ids or c["norma"] in vistos: continue
-                    if REFORMA.match(tj["nombre"]) and "integral" not in tj["nombre"].lower(): continue  # solo textos consolidados
-                    dst = destino(tj.get("emisor"), mapa, cantones)
-                    if not dst: sin_ubicar[c["norma"]] = {**tj, "norma": c["norma"]}; continue
-                    vistos[c["norma"]] = {"norma": c["norma"], "version": c["version"], "numero": tj["numero"], "nombre": tj["nombre"], "fecha": tj["fecha"],
-                                          "emisor": tj["emisor"], "provincia": dst[0], "carpeta": dst[1], "termino": t}; n += 1
-                informe.append(f"{t}: {total} resultados, {n} reglamentos municipales nuevos")
-                print(informe[-1], flush=True)
-            except Exception as ex:
-                informe.append(f"{t}: error {str(ex)[:120]}"); print(informe[-1], flush=True)
-                try: b.close()
-                except Exception: pass
-                b = pw.chromium.launch(); pg = b.new_page(locale="es-CR")
+            tramos = []
+            cs = explorar(nav, t, log=tramos)
+            n = 0
+            for c in {c["norma"]: c for c in cs}.values():
+                tj = tarjeta(c["tarjeta"])
+                if not tj or not norm(tj["tipo"]).startswith("reglamento municipal") or tj["derogada"]: continue
+                if c["norma"] in ids or c["norma"] in vistos: continue
+                if REFORMA.match(tj["nombre"]) and "integral" not in tj["nombre"].lower(): continue  # solo textos consolidados
+                dst = destino(tj.get("emisor"), mapa, cantones)
+                if not dst: sin_ubicar[c["norma"]] = {**tj, "norma": c["norma"]}; continue
+                vistos[c["norma"]] = {"norma": c["norma"], "version": c["version"], "numero": tj["numero"], "nombre": tj["nombre"], "fecha": tj["fecha"],
+                                      "emisor": tj["emisor"], "provincia": dst[0], "carpeta": dst[1], "termino": t}; n += 1
+            partido = len(tramos) > 1
+            informe.append(f"{t}: {len(cs)} resultados{' en ' + str(len(tramos)) + ' tramos por año' if partido else ''}, {n} reglamentos municipales nuevos"
+                           + ("; sin respuesta: " + ", ".join(x for x in tramos if 'sin respuesta' in x) if any('sin respuesta' in x for x in tramos) else ""))
+            print(informe[-1], flush=True)
     lista = sorted(vistos.values(), key=lambda x: (x["provincia"], x["carpeta"], x["fecha"][-4:], x["nombre"]))
     json.dump({"total": len(lista), "sin_ubicar": list(sin_ubicar.values()), "busquedas": informe, "candidatos": lista},
               open(SALIDA, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
