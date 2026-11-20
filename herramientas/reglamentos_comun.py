@@ -21,11 +21,18 @@ def inventario():
     return ids, mapa, cantones
 
 
+# Entes que aún no tienen carpeta en el repositorio (o que SINALEVI escribe distinto).
+EXTRA = {"municipalidad de orotina": ("Alajuela", "Orotina"), "municipalidad de poas": ("Alajuela", "Poás"),
+         "municipalidad de alfaro ruiz": ("Alajuela", "Zarcero"),
+         "concejo municipal distrito de penas blancas": ("Alajuela", "Concejo Municipal de Distrito de Peñas Blancas")}
+
+
 def destino(emisor, mapa, cantones):
     """Provincia y carpeta para un ente emisor, o None si no se puede ubicar con certeza."""
     e = norm(emisor or "")
     if not e: return None
     if e in mapa: return mapa[e]
+    if e in EXTRA: return EXTRA[e]
     m = re.match(r"(?:municipalidad|concejo municipal) (?:del? )?(?:canton (?:central )?(?:de )?)?(.+)$", e)
     if m and m.group(1) in cantones: return cantones[m.group(1)]
     if e.startswith("concejo municipal de distrito"):
