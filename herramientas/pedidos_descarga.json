@@ -49,69 +49,7 @@
   "numero": "10",
   "carpeta": "Social",
   "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "10192",
-  "carpeta": "Social",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "9051",
-  "carpeta": "Municipal",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "10595",
-  "carpeta": "Municipal",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "7552",
-  "carpeta": "Municipal",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "5176",
-  "carpeta": "Social",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "10376",
-  "carpeta": "Social",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "9615",
-  "carpeta": "Administrativo",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "10485",
-  "carpeta": "Municipal",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "7769",
-  "carpeta": "Social",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
+  "prioridad": "Seguridad Municipal 360°",
+  "ultimo": "sin coincidencia única en SINALEVI: Acuerdo 10 Tarifas de canon de regulación del transporte público para e; Acuerdo 10 Aprueba Procedimiento ECA-MCC20 Criterios para la participac; Acuerdo 10-A Reforma Procedimiento ECA-MC-C20: Criterios para la particip; Acuerdo 10-B Procedimiento ECA-SE-P01-I03 Aval de certificado de equipos ; Acuerdo 10-C Procedimiento ECA-SE-P01-I04 Aval técnico exoneración dispos; Aviso 10 Nuevo horario de servicios del Departamento Archivo Notarial"
  }
 ]
