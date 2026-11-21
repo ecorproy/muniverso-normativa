@@ -55,10 +55,13 @@ def leer_resultados(pg):
     return list(zip(tarjetas, ids)), total
 
 
+TOPE = 1000  # cantidadResultados: SINALEVI devuelve como máximo esa cantidad, de 10 en 10 por página
+
+
 def busqueda(pg, q, anio, diag):
     """Todos los resultados de una búsqueda: página 1 por dirección y las siguientes con clic en el paginador."""
     u = (f"https://sinalevi.go.cr/BusquedaSimple/Resultados?pagina=1&radioBtnGroup=2&opcionSelected=2&textBuscar={quote(q)}"
-         f"&textAnnio={anio}&selectedBuscarEn=T&TipoNorma=&TipoPronunciamiento=&ClaseAsunto=&cantidadResultados=50")
+         f"&textAnnio={anio}&selectedBuscarEn=T&TipoNorma=&TipoPronunciamiento=&ClaseAsunto=&cantidadResultados={TOPE}")
     for intento in range(3):
         try:
             pg.goto(u, timeout=120000, wait_until="domcontentloaded")
@@ -72,7 +75,7 @@ def busqueda(pg, q, anio, diag):
             if not diag.get("paginador"):
                 diag["paginador"] = pg.evaluate("()=>{const p=document.querySelector('.pagination,.paginacion,.pager,nav ul');return p?p.outerHTML.slice(0,600):'(sin contenedor de paginación)'}")
             n = 2
-            while n <= 200:
+            while n <= TOPE // 10 + 1:
                 antes = {i for _, i in todos[-10:]}
                 if not pg.evaluate(PAGINADOR, n):
                     break
@@ -155,7 +158,7 @@ def main():
                                                 "institucion": inst.strip(), "consultas": [c["q"]]}
                         elif c["q"] not in estado["inv"][i]["consultas"]:
                             estado["inv"][i]["consultas"].append(c["q"])
-                    completo = "" if total_sinalevi is None or len(r) >= total_sinalevi else f" · INCOMPLETO: SINALEVI declara {total_sinalevi}"
+                    completo = f" · INCOMPLETO: llegó al tope de {TOPE}" if len(r) >= TOPE else ""
                     estado["busquedas"][clave] = f"{len(r)} resultados ({dict_n} dictámenes) en {paginas} página(s){completo}"
                 print(f"«{c['q']}» {anio}: {estado['busquedas'].get(clave)}", flush=True)
                 guardar(estado)
