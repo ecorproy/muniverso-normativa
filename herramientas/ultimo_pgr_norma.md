@@ -1,6 +1,6 @@
 # Dictámenes de la PGR por norma · 2026-11-21
 
-Inventario: 375 dictámenes. Bajados nuevos: 207. Ya estaban: 168. Descartados (no citan la norma): 0. Pendientes: 0.
+Inventario: 1960 dictámenes. Bajados nuevos: 261. Ya estaban: 385. Descartados (no citan la norma): 1314. Pendientes: 0.
 
 ## Búsquedas
 
@@ -198,6 +198,53 @@ Inventario: 375 dictámenes. Bajados nuevos: 207. Ya estaban: 168. Descartados (
 - 585 del Código de Trabajo|2024: 0 resultados (0 dictámenes) en 1 página(s)
 - 585 del Código de Trabajo|2025: 0 resultados (0 dictámenes) en 1 página(s)
 - 585 del Código de Trabajo|2026: 0 resultados (0 dictámenes) en 1 página(s)
+- Código de Trabajo|1980: 10 resultados (10 dictámenes) en 1 página(s)
+- Código de Trabajo|1981: 3 resultados (3 dictámenes) en 1 página(s)
+- Código de Trabajo|1982: 10 resultados (10 dictámenes) en 1 página(s)
+- Código de Trabajo|1983: 12 resultados (12 dictámenes) en 2 página(s)
+- Código de Trabajo|1984: 32 resultados (32 dictámenes) en 4 página(s)
+- Código de Trabajo|1985: 24 resultados (24 dictámenes) en 3 página(s)
+- Código de Trabajo|1986: 24 resultados (24 dictámenes) en 3 página(s)
+- Código de Trabajo|1987: 17 resultados (17 dictámenes) en 2 página(s)
+- Código de Trabajo|1988: 18 resultados (18 dictámenes) en 2 página(s)
+- Código de Trabajo|1989: sin respuesta
+- Código de Trabajo|1990: 23 resultados (23 dictámenes) en 3 página(s)
+- Código de Trabajo|1991: 27 resultados (27 dictámenes) en 3 página(s)
+- Código de Trabajo|1992: 20 resultados (20 dictámenes) en 2 página(s)
+- Código de Trabajo|1993: 23 resultados (23 dictámenes) en 3 página(s)
+- Código de Trabajo|1994: 28 resultados (28 dictámenes) en 3 página(s)
+- Código de Trabajo|1995: 31 resultados (29 dictámenes) en 4 página(s)
+- Código de Trabajo|1996: 30 resultados (25 dictámenes) en 3 página(s)
+- Código de Trabajo|1997: 38 resultados (31 dictámenes) en 4 página(s)
+- Código de Trabajo|1998: 63 resultados (51 dictámenes) en 7 página(s)
+- Código de Trabajo|1999: 51 resultados (38 dictámenes) en 6 página(s)
+- Código de Trabajo|2000: 57 resultados (48 dictámenes) en 6 página(s)
+- Código de Trabajo|2001: 78 resultados (63 dictámenes) en 8 página(s)
+- Código de Trabajo|2002: 67 resultados (46 dictámenes) en 7 página(s)
+- Código de Trabajo|2003: 77 resultados (44 dictámenes) en 8 página(s)
+- Código de Trabajo|2004: 61 resultados (39 dictámenes) en 7 página(s)
+- Código de Trabajo|2005: 83 resultados (65 dictámenes) en 9 página(s)
+- Código de Trabajo|2006: 82 resultados (72 dictámenes) en 9 página(s)
+- Código de Trabajo|2007: 75 resultados (65 dictámenes) en 8 página(s)
+- Código de Trabajo|2008: 57 resultados (48 dictámenes) en 6 página(s)
+- Código de Trabajo|2009: 66 resultados (59 dictámenes) en 7 página(s)
+- Código de Trabajo|2010: 58 resultados (48 dictámenes) en 6 página(s)
+- Código de Trabajo|2011: 59 resultados (45 dictámenes) en 6 página(s)
+- Código de Trabajo|2012: 54 resultados (40 dictámenes) en 6 página(s)
+- Código de Trabajo|2013: 36 resultados (32 dictámenes) en 4 página(s)
+- Código de Trabajo|2014: 70 resultados (58 dictámenes) en 7 página(s)
+- Código de Trabajo|2015: 64 resultados (55 dictámenes) en 7 página(s)
+- Código de Trabajo|2016: 38 resultados (30 dictámenes) en 4 página(s)
+- Código de Trabajo|2017: 41 resultados (29 dictámenes) en 5 página(s)
+- Código de Trabajo|2018: 68 resultados (59 dictámenes) en 7 página(s)
+- Código de Trabajo|2019: 95 resultados (71 dictámenes) en 10 página(s)
+- Código de Trabajo|2020: 81 resultados (57 dictámenes) en 9 página(s)
+- Código de Trabajo|2021: 54 resultados (39 dictámenes) en 6 página(s)
+- Código de Trabajo|2022: 55 resultados (38 dictámenes) en 6 página(s)
+- Código de Trabajo|2023: 39 resultados (28 dictámenes) en 4 página(s)
+- Código de Trabajo|2024: 42 resultados (27 dictámenes) en 5 página(s)
+- Código de Trabajo|2025: 51 resultados (33 dictámenes) en 6 página(s)
+- Código de Trabajo|2026: 38 resultados (26 dictámenes) en 4 página(s)
 - Ley Marco de Empleo Público|2022: 9 resultados (4 dictámenes) en 1 página(s)
 - Ley Marco de Empleo Público|2023: 14 resultados (12 dictámenes) en 2 página(s)
 - Ley Marco de Empleo Público|2024: 57 resultados (50 dictámenes) en 6 página(s)
@@ -222,3 +269,6 @@ Inventario: 375 dictámenes. Bajados nuevos: 207. Ya estaban: 168. Descartados (
             </ul>
 ```
 
+## Sin respuesta (se reintenta en la próxima corrida)
+
+- Código de Trabajo|1989
