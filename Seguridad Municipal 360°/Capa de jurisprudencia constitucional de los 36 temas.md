@@ -253,7 +253,7 @@ Votos conocidos solo por transcripción en esta tanda: N.° 2026-008044 (ahora t
 
 ### Tanda 4 (primera parte)
 
-Leída en el texto íntegro de la resolución: la 2023-027541. La 2024-032380 queda pendiente.
+Leída en el texto íntegro de la resolución: la 2023-027541. La 2024-032380 está en la segunda parte.
 
 | Voto | Hora y fecha | Cantón | Resultado | Aporte | Temas | Efecto |
 |---|---|---|---|---|---|---|
