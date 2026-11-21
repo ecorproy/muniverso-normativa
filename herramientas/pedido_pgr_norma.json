@@ -3,40 +3,10 @@
  "materia": "Código de Trabajo",
  "consultas": [
   {
-   "q": "15 del Código de Trabajo",
+   "q": "Código de Trabajo",
    "desde": 1980,
-   "exige": "(?:art[íi]culos?|numerales?|arts?\\.)\\s+(?:[\\d\\w ,]{0,30}?\\b)?15\\b[^.]{0,60}?C[óo]digo de Trabajo|C[óo]digo de Trabajo[^.]{0,20}?(?:art[íi]culo|numeral|art\\.)\\s+15\\b"
-  },
-  {
-   "q": "16 del Código de Trabajo",
-   "desde": 1980,
-   "exige": "(?:art[íi]culos?|numerales?|arts?\\.)\\s+(?:[\\d\\w ,]{0,30}?\\b)?16\\b[^.]{0,60}?C[óo]digo de Trabajo|C[óo]digo de Trabajo[^.]{0,20}?(?:art[íi]culo|numeral|art\\.)\\s+16\\b"
-  },
-  {
-   "q": "19 del Código de Trabajo",
-   "desde": 1980,
-   "exige": "(?:art[íi]culos?|numerales?|arts?\\.)\\s+(?:[\\d\\w ,]{0,30}?\\b)?19\\b[^.]{0,60}?C[óo]digo de Trabajo|C[óo]digo de Trabajo[^.]{0,20}?(?:art[íi]culo|numeral|art\\.)\\s+19\\b"
-  },
-  {
-   "q": "404 del Código de Trabajo",
-   "desde": 2017,
-   "exige": "(?:art[íi]culos?|numerales?|arts?\\.)\\s+(?:[\\d\\w ,]{0,30}?\\b)?404\\b[^.]{0,60}?C[óo]digo de Trabajo|C[óo]digo de Trabajo[^.]{0,20}?(?:art[íi]culo|numeral|art\\.)\\s+404\\b"
-  },
-  {
-   "q": "414 del Código de Trabajo",
-   "desde": 2017,
-   "exige": "(?:art[íi]culos?|numerales?|arts?\\.)\\s+(?:[\\d\\w ,]{0,30}?\\b)?414\\b[^.]{0,60}?C[óo]digo de Trabajo|C[óo]digo de Trabajo[^.]{0,20}?(?:art[íi]culo|numeral|art\\.)\\s+414\\b"
-  },
-  {
-   "q": "540 del Código de Trabajo",
-   "desde": 2017,
-   "exige": "(?:art[íi]culos?|numerales?|arts?\\.)\\s+(?:[\\d\\w ,]{0,30}?\\b)?540\\b[^.]{0,60}?C[óo]digo de Trabajo|C[óo]digo de Trabajo[^.]{0,20}?(?:art[íi]culo|numeral|art\\.)\\s+540\\b"
-  },
-  {
-   "q": "585 del Código de Trabajo",
-   "desde": 2017,
-   "exige": "(?:art[íi]culos?|numerales?|arts?\\.)\\s+(?:[\\d\\w ,]{0,30}?\\b)?585\\b[^.]{0,60}?C[óo]digo de Trabajo|C[óo]digo de Trabajo[^.]{0,20}?(?:art[íi]culo|numeral|art\\.)\\s+585\\b"
+   "exige": "(?:(?:art[íi]culos?|numerales?|arts?\\.)\\s+(?:[\\d\\w ,]{0,30}?\\b)?15\\b[^.]{0,60}?C[óo]digo de Trabajo|C[óo]digo de Trabajo[^.]{0,20}?(?:art[íi]culo|numeral|art\\.)\\s+15\\b)|(?:(?:art[íi]culos?|numerales?|arts?\\.)\\s+(?:[\\d\\w ,]{0,30}?\\b)?16\\b[^.]{0,60}?C[óo]digo de Trabajo|C[óo]digo de Trabajo[^.]{0,20}?(?:art[íi]culo|numeral|art\\.)\\s+16\\b)|(?:(?:art[íi]culos?|numerales?|arts?\\.)\\s+(?:[\\d\\w ,]{0,30}?\\b)?19\\b[^.]{0,60}?C[óo]digo de Trabajo|C[óo]digo de Trabajo[^.]{0,20}?(?:art[íi]culo|numeral|art\\.)\\s+19\\b)|(?:(?:art[íi]culos?|numerales?|arts?\\.)\\s+(?:[\\d\\w ,]{0,30}?\\b)?404\\b[^.]{0,60}?C[óo]digo de Trabajo|C[óo]digo de Trabajo[^.]{0,20}?(?:art[íi]culo|numeral|art\\.)\\s+404\\b)|(?:(?:art[íi]culos?|numerales?|arts?\\.)\\s+(?:[\\d\\w ,]{0,30}?\\b)?414\\b[^.]{0,60}?C[óo]digo de Trabajo|C[óo]digo de Trabajo[^.]{0,20}?(?:art[íi]culo|numeral|art\\.)\\s+414\\b)|(?:(?:art[íi]culos?|numerales?|arts?\\.)\\s+(?:[\\d\\w ,]{0,30}?\\b)?540\\b[^.]{0,60}?C[óo]digo de Trabajo|C[óo]digo de Trabajo[^.]{0,20}?(?:art[íi]culo|numeral|art\\.)\\s+540\\b)|(?:(?:art[íi]culos?|numerales?|arts?\\.)\\s+(?:[\\d\\w ,]{0,30}?\\b)?585\\b[^.]{0,60}?C[óo]digo de Trabajo|C[óo]digo de Trabajo[^.]{0,20}?(?:art[íi]culo|numeral|art\\.)\\s+585\\b)"
   }
  ],
- "corrida": 5
+ "corrida": 6
 }
