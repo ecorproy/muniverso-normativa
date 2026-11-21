@@ -31,7 +31,7 @@ jobs:
       - name: Instalar dependencias
         if: steps.hay.outputs.si == '1'
         run: |
-          pip install playwright
+          pip install -r herramientas/requirements.txt
           python -m playwright install --with-deps chromium
       - name: Descargar desde SINALEVI
         if: steps.hay.outputs.si == '1'

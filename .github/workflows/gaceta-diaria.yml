@@ -25,7 +25,7 @@ jobs:
           python-version: "3.12"
       - name: Instalar dependencias
         run: |
-          pip install playwright pypdf
+          pip install -r herramientas/requirements.txt
           python -m playwright install --with-deps chromium
       - name: Leer La Gaceta y actualizar leyes
         run: python herramientas/gaceta_diaria.py

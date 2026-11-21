@@ -24,7 +24,7 @@ jobs:
           python-version: "3.12"
       - name: Instalar dependencias
         run: |
-          pip install playwright
+          pip install -r herramientas/requirements.txt
           python -m playwright install --with-deps chromium
       - name: Completar desde SINALEVI
         run: python herramientas/completar_fechas.py
