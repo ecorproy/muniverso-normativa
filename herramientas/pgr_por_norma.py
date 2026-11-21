@@ -37,8 +37,27 @@ def guardar(estado):
     json.dump(estado, open(ESTADO, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 
-def pagina(pg, q, anio, n):
-    u = (f"https://sinalevi.go.cr/BusquedaSimple/Resultados?pagina={n}&radioBtnGroup=2&opcionSelected=2&textBuscar={quote(q)}"
+PAGINADOR = """(n)=>{
+  const cands=[...document.querySelectorAll('a,button,li,span')].filter(e=>e.innerText&&e.innerText.trim()===String(n)&&e.offsetParent!==null);
+  const enPag=cands.filter(e=>e.closest('.pagination,.paginacion,.pager,nav,ul'));
+  const el=(enPag[0]||cands[0]); if(!el) return false; el.scrollIntoView(); el.click(); return true; }"""
+TOTAL = re.compile(r"Resultados para[^\n(]*\((\d[\d.,]*)\)|(\d[\d.,]*)\s+resultados", re.I)
+
+
+def leer_resultados(pg):
+    t = pg.evaluate("()=>document.body.innerText")
+    ids = pg.evaluate(IDS)
+    tarjetas = TARJETA.findall(t)
+    if len(tarjetas) != len(ids):
+        raise RuntimeError(f"{len(tarjetas)} tarjetas y {len(ids)} enlaces")
+    m = TOTAL.search(t)
+    total = int(re.sub(r"[.,]", "", m.group(1) or m.group(2))) if m else None
+    return list(zip(tarjetas, ids)), total
+
+
+def busqueda(pg, q, anio, diag):
+    """Todos los resultados de una búsqueda: página 1 por dirección y las siguientes con clic en el paginador."""
+    u = (f"https://sinalevi.go.cr/BusquedaSimple/Resultados?pagina=1&radioBtnGroup=2&opcionSelected=2&textBuscar={quote(q)}"
          f"&textAnnio={anio}&selectedBuscarEn=T&TipoNorma=&TipoPronunciamiento=&ClaseAsunto=&cantidadResultados=50")
     for intento in range(3):
         try:
@@ -49,16 +68,36 @@ def pagina(pg, q, anio, n):
                 if "Resultados para" in t or "No se encontraron" in t:
                     break
             pg.wait_for_timeout(1500)
-            t = pg.evaluate("()=>document.body.innerText")
-            ids = pg.evaluate(IDS)
-            tarjetas = TARJETA.findall(t)
-            if len(tarjetas) != len(ids):
-                raise RuntimeError(f"{len(tarjetas)} tarjetas y {len(ids)} enlaces")
-            return list(zip(tarjetas, ids))
+            todos, total = leer_resultados(pg)
+            if not diag.get("paginador"):
+                diag["paginador"] = pg.evaluate("()=>{const p=document.querySelector('.pagination,.paginacion,.pager,nav ul');return p?p.outerHTML.slice(0,600):'(sin contenedor de paginación)'}")
+            n = 2
+            while n <= 200:
+                antes = {i for _, i in todos[-10:]}
+                if not pg.evaluate(PAGINADOR, n):
+                    break
+                for _ in range(30):
+                    pg.wait_for_timeout(1000)
+                    try:
+                        r, _ = leer_resultados(pg)
+                    except RuntimeError:
+                        continue
+                    if r and {i for _, i in r} != antes:
+                        break
+                else:
+                    break
+                r, _ = leer_resultados(pg)
+                nuevos = [x for x in r if x[1] not in {i for _, i in todos}]
+                if not nuevos:
+                    break
+                todos += nuevos
+                n += 1
+                time.sleep(2)
+            return todos, total, n - 1
         except Exception as ex:
-            print(f"  reintento {intento + 1} «{q}» {anio} p{n}: {str(ex)[:120]}", flush=True)
+            print(f"  reintento {intento + 1} «{q}» {anio}: {str(ex)[:120]}", flush=True)
             time.sleep(20 * (intento + 1))
-    return None
+    return None, None, 0
 
 
 def texto(pg, i):
@@ -89,6 +128,7 @@ def main():
     pedido = json.load(open(PEDIDO, encoding="utf-8"))
     estado = json.load(open(ESTADO, encoding="utf-8")) if os.path.exists(ESTADO) else {"busquedas": {}, "inv": {}, "bajados": {}, "descartados": {}}
     hoy = date.today().year
+    diag = {}
     from playwright.sync_api import sync_playwright
     with sync_playwright() as pw:
         nav = pw.chromium.launch()
@@ -99,32 +139,24 @@ def main():
                 clave = f"{c['q']}|{anio}"
                 if clave in estado["busquedas"] or not tiempo():
                     continue
-                total, n, vistos_q = 0, 1, set()
-                while n <= 150:
-                    r = pagina(pg, c["q"], anio, n)
-                    time.sleep(3)
-                    if r is None:
-                        estado["busquedas"][clave] = f"sin respuesta en la página {n}"
-                        break
-                    nuevos = 0
-                    pagina_ids = {i for _, i in r}
-                    if not pagina_ids or pagina_ids <= vistos_q:
-                        estado["busquedas"][clave] = f"{total} dictámenes en {n - 1} página(s)"
-                        break
-                    vistos_q |= pagina_ids
+                r, total_sinalevi, paginas = busqueda(pg, c["q"], anio, diag)
+                time.sleep(3)
+                if r is None:
+                    estado["busquedas"][clave] = "sin respuesta"
+                else:
+                    dict_n = 0
                     for (tipo, num, fecha, cons, inst), i in r:
                         if tipo != "Dictamen":
                             continue
+                        dict_n += 1
                         if i not in estado["inv"]:
-                            nuevos += 1
                             num = num.strip().replace(" ", "")
                             estado["inv"][i] = {"numero": f"C-{num.zfill(3)}-{fecha[-4:]}", "fecha": fecha, "consultante": cons.strip(),
                                                 "institucion": inst.strip(), "consultas": [c["q"]]}
                         elif c["q"] not in estado["inv"][i]["consultas"]:
                             estado["inv"][i]["consultas"].append(c["q"])
-                        total += 1
-                    # SINALEVI entrega 10 resultados por página aunque se pidan más: se sigue hasta una página vacía o repetida.
-                    n += 1
+                    completo = "" if total_sinalevi is None or len(r) >= total_sinalevi else f" · INCOMPLETO: SINALEVI declara {total_sinalevi}"
+                    estado["busquedas"][clave] = f"{len(r)} resultados ({dict_n} dictámenes) en {paginas} página(s){completo}"
                 print(f"«{c['q']}» {anio}: {estado['busquedas'].get(clave)}", flush=True)
                 guardar(estado)
         # 2. Descarga
@@ -169,13 +201,14 @@ def main():
         nav.close()
     guardar(estado)
     faltan = [v["numero"] for i, v in estado["inv"].items() if i not in estado["bajados"] and i not in estado["descartados"]]
-    sin = [k for k, v in estado["busquedas"].items() if v.startswith("sin respuesta")]
+    sin = [k for k, v in estado["busquedas"].items() if v.startswith("sin respuesta") or "INCOMPLETO" in v]
     nuevos = sum(1 for v in estado["bajados"].values() if v != "ya estaba")
     open(INFORME, "w", encoding="utf-8").write(
         f"# Dictámenes de la PGR por norma · {date.today().isoformat()}\n\n"
         f"Inventario: {len(estado['inv'])} dictámenes. Bajados nuevos: {nuevos}. Ya estaban: {len(estado['bajados']) - nuevos}. "
         f"Descartados (no citan la norma): {len(estado['descartados'])}. Pendientes: {len(faltan)}.\n\n"
         + "## Búsquedas\n\n" + "\n".join(f"- {k}: {v}" for k, v in sorted(estado["busquedas"].items())) + "\n\n"
+        + f"## Paginador de SINALEVI\n\n```\n{diag.get('paginador', '(no se leyó)')}\n```\n\n"
         + ("## Sin respuesta (se reintenta en la próxima corrida)\n\n" + "\n".join(f"- {k}" for k in sin) + "\n" if sin else ""))
     for k in sin:
         estado["busquedas"].pop(k)
