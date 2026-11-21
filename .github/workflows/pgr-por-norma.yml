@@ -1,0 +1,42 @@
+name: Dictámenes de la PGR por norma
+
+# Se ejecuta al subir herramientas/pedido_pgr_norma.json. Reanudable: si se agota el tiempo, volver a subir el pedido.
+on:
+  push:
+    paths:
+      - herramientas/pedido_pgr_norma.json
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: normativa-sinalevi
+  cancel-in-progress: false
+
+jobs:
+  pgr:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar dependencias
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Inventario y descarga desde SINALEVI
+        env:
+          MINUTOS: "270"
+        run: python herramientas/pgr_por_norma.py
+      - name: Guardar cambios
+        if: always()
+        run: |
+          git config user.name "Muniverso (dictámenes PGR)"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A "Jurisprudencia administrativa (PGR)" herramientas/pgr_norma_estado.json herramientas/ultimo_pgr_norma.md
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -q -m "Dictámenes de la PGR sobre la Ley Marco de Empleo Público y la Ley de Salarios" -m "$(head -n 3 herramientas/ultimo_pgr_norma.md | tail -n 1)"
+          git pull -q --rebase origin main && git push
