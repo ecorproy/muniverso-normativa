@@ -14,7 +14,7 @@ Abreviaturas: PGR, Procuraduría General de la República; CGR, Contraloría Gen
 - Primer filtro: términos propios de cada tema y leyes de la matriz citadas en el texto de cada dictamen. Segundo filtro: contenido municipal y exclusión de los dictámenes ubicados solo en las áreas de empleo público. Quedaron 440 candidatos.
 - Clasificación: lectura del planteamiento de la consulta y del inicio de la conclusión de cada uno de los 440 candidatos. Se asignaron 253 dictámenes; el resto se descartó por tratar el tema solo de paso.
 - Lectura íntegra aportada por Edward Cortés García: C-134-2020, C-238-2020 (no está en el repositorio), C-240-2020, C-002-2025, C-095-2025, C-112-2025, C-220-2025, C-015-2026, C-027-2026, C-049-2026, C-066-2026 y C-101-2026. De ellos se agregaron cuatro que el filtro no había recogido.
-- Aportados por Edward Cortés García el 21 de noviembre de 2026: dictamen C-172-2023 (agregado al repositorio) y oficios CGR 22430 (DFOE-LOC-2366), 12990 (DFOE-LOC-1706) y 14908 (DFOE-DEC-4567), en la carpeta `Criterios CGR`. También aportó C-032-2004, C-218-2020 y C-286-2021, que ya estaban en el repositorio, y la Ley 8828, ya incorporada. En una segunda entrega aportó C-045-2012, C-082-2015 (ya estaba), C-176-1997 (ya estaba), C-197-2012 y las opiniones jurídicas OJ-103-1999, OJ-017-2010 y OJ-028-2012; los dos primeros se asignaron al tema 4. Todos se analizan en `Ley 8828 (SPEM) como instrumento del 360.md`.
+- Aportados por Edward Cortés García el 21 de noviembre de 2026: dictamen C-172-2023 (agregado al repositorio) y oficios CGR 22430 (DFOE-LOC-2366), 12990 (DFOE-LOC-1706) y 14908 (DFOE-DEC-4567), en la carpeta `Criterios CGR`. También aportó C-032-2004, C-218-2020 y C-286-2021, que ya estaban en el repositorio, y la Ley 8828, ya incorporada. En una segunda entrega aportó C-045-2012, C-082-2015 (ya estaba), C-176-1997 (ya estaba), C-197-2012 y las opiniones jurídicas OJ-103-1999, OJ-017-2010 y OJ-028-2012; los dos primeros se asignaron al tema 4. Todos se analizan en `Ley 8828 (SPEM) como instrumento del 360.md`. Después aportó C-067-2018 (agregado al repositorio, tema 25), C-015-2013 (ya estaba en el repositorio; se agregó como dictamen de alcance general) y otra copia del oficio CGR 14908, que ya constaba.
 - Fuente CGR: los 122 oficios de `Oficios citados en la Revista`. Se leyó el asunto de todos y la conclusión de los asignados a un tema: 19 oficios.
 
 ## Cobertura por tema
@@ -45,7 +45,7 @@ Abreviaturas: PGR, Procuraduría General de la República; CGR, Contraloría Gen
 | 22 | Adolescencia y juventud | 1 | 3 | 0 |
 | 23 | Personas adultas mayores | 1 | 0 | 0 |
 | 24 | Personas con discapacidad | 0 | 2 | 0 |
-| 25 | Cuido | 0 | 0 | 1 |
+| 25 | Cuido | 1 | 0 | 1 |
 | 26 | Violencia doméstica | 0 | 0 | 0 |
 | 27 | Convivencia vecinal | 0 | 0 | 0 |
 | 28 | Agua y saneamiento | 6 | 3 | 1 |
@@ -231,6 +231,7 @@ Temas sin pronunciamiento en el repositorio: 2 Salud mental; 8 Personas en situa
 - B · PGR, dictamen [C-241-2016](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=19697&param2=0), de 8 de noviembre de 2016 (Municipalidad de Desamparados): Aceras en rutas nacionales: aplicación de los arts. 75 y 76 del Código Municipal por la Municipalidad de Desamparados.
 
 **25. Cuido**
+- A · PGR, dictamen C-067-2018, de 12 de abril de 2018 (Auditoría Interna de la Municipalidad de Atenas): En el CECUDI municipal los beneficiarios se seleccionan con los criterios técnicos del IMAS; los subsidios del IMAS (Ley 9220, art. 4) son solo para familias en pobreza (Ley 4760, arts. 2 y 27). Por excepción, con estudio técnico y según el reglamento cantonal, puede admitirse a familias que no califican, pagando el precio público completo (CM, art. 74). No hay norma que permita admitir gratis a hijos de funcionarios municipales, ni eximirlos por carta de entendimiento con el alcalde. Texto en el repositorio (carpeta 19), sin enlace del SCIJ.
 - CGR, oficio [02751 (DFOE-LOC-0306)](https://cgrfiles.cgr.go.cr/publico/docs_cgr/2026/SIGYD_D/SIGYD_D_2026003245.pdf), de 09 de marzo de 2026: Procede que una municipalidad, con acuerdo del Concejo, transfiera recursos mediante convenio a fundaciones y asociaciones (consulta de la Secretaría Técnica de la REDCUDI).
 
 **26. Violencia doméstica**
@@ -475,6 +476,10 @@ Temas sin pronunciamiento en el repositorio: 2 Salud mental; 8 Personas en situa
 - B · PGR, dictamen [C-354-2020](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=22591&param2=0), de 7 de setiembre de 2020 (Municipalidad de Desamparados): Regidores y síndicos como miembros de juntas de educación y administrativas.
 - B · PGR, dictamen [C-357-2020](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=22592&param2=0), de 7 de setiembre de 2020 (Municipalidad de San Carlos): Delegación del acto de juramentación de las juntas.
 - B · PGR, dictamen [C-154-2013](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=17744&param2=0), de 9 de agosto de 2013 (Municipalidad de Cartago): Responsabilidad del Concejo respecto de las juntas que nombra y juramenta.
+
+## Dictámenes de la PGR de alcance general
+
+- PGR, dictamen [C-015-2013](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=17915&param2=0), de 11 de febrero de 2013 (Municipalidad de Mora): las atribuciones que enumeraba el art. 4 del Código Municipal anterior (Ley 4574: cultura, educación, salud física y mental, bienestar social, planeamiento urbano, desarrollo rural, economía local, recursos naturales, turismo, seguridad de las personas y orden público en coordinación con las autoridades nacionales, participación cívica) no desaparecieron con la Ley 7794: en la medida en que encajen en lo «local» (CP, art. 169; CM, arts. 3 y 4), hay autorización constitucional y legal para ejercerlas, sin perjuicio de las competencias nacionales en el cantón. Cita los votos de la Sala Constitucional N.° 5445-99, 14906-2006 y 13577-2007. Sirve de base general para los 36 temas, en especial los que no tienen norma expresa (2, 11, 26, 27).
 
 ## Oficios de la CGR de alcance general
 
