@@ -35,5 +35,40 @@
   "numero": "8050",
   "solo_vigentes": true,
   "ultimo": "sin coincidencia única en SINALEVI: Reglamento 8050 Reglamento Incentivo por disponibilidad para directores y su"
+ },
+ {
+  "tipo": "Ley",
+  "numero": "10199",
+  "carpeta": "Municipal",
+  "solo_vigentes": true,
+  "prioridad": "Seguridad Municipal 360°"
+ },
+ {
+  "tipo": "Ley",
+  "numero": "8688",
+  "carpeta": "Social",
+  "solo_vigentes": true,
+  "prioridad": "Seguridad Municipal 360°"
+ },
+ {
+  "tipo": "Ley",
+  "numero": "8653",
+  "carpeta": "Comercial",
+  "solo_vigentes": true,
+  "prioridad": "Seguridad Municipal 360°"
+ },
+ {
+  "tipo": "Ley",
+  "numero": "10025",
+  "carpeta": "Social",
+  "solo_vigentes": true,
+  "prioridad": "Seguridad Municipal 360°"
+ },
+ {
+  "tipo": "Decreto Ejecutivo",
+  "numero": "32833",
+  "carpeta": "Administrativo",
+  "solo_vigentes": true,
+  "prioridad": "Seguridad Municipal 360°"
  }
 ]
