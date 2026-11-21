@@ -14,7 +14,7 @@ Abreviaturas: PGR, Procuraduría General de la República; CGR, Contraloría Gen
 - Primer filtro: términos propios de cada tema y leyes de la matriz citadas en el texto de cada dictamen. Segundo filtro: contenido municipal y exclusión de los dictámenes ubicados solo en las áreas de empleo público. Quedaron 440 candidatos.
 - Clasificación: lectura del planteamiento de la consulta y del inicio de la conclusión de cada uno de los 440 candidatos. Se asignaron 253 dictámenes; el resto se descartó por tratar el tema solo de paso.
 - Lectura íntegra aportada por Edward Cortés García: C-134-2020, C-238-2020 (no está en el repositorio), C-240-2020, C-002-2025, C-095-2025, C-112-2025, C-220-2025, C-015-2026, C-027-2026, C-049-2026, C-066-2026 y C-101-2026. De ellos se agregaron cuatro que el filtro no había recogido.
-- Aportados por Edward Cortés García el 21 de noviembre de 2026: dictamen C-172-2023 (agregado al repositorio) y oficios CGR 22430 (DFOE-LOC-2366), 12990 (DFOE-LOC-1706) y 14908 (DFOE-DEC-4567), en la carpeta `Criterios CGR`. También aportó C-032-2004, C-218-2020 y C-286-2021, que ya estaban en el repositorio, y la Ley 8828, ya incorporada; se analizan en `Ley 8828 (SPEM) como instrumento del 360.md`.
+- Aportados por Edward Cortés García el 21 de noviembre de 2026: dictamen C-172-2023 (agregado al repositorio) y oficios CGR 22430 (DFOE-LOC-2366), 12990 (DFOE-LOC-1706) y 14908 (DFOE-DEC-4567), en la carpeta `Criterios CGR`. También aportó C-032-2004, C-218-2020 y C-286-2021, que ya estaban en el repositorio, y la Ley 8828, ya incorporada. En una segunda entrega aportó C-045-2012, C-082-2015 (ya estaba), C-176-1997 (ya estaba), C-197-2012 y las opiniones jurídicas OJ-103-1999, OJ-017-2010 y OJ-028-2012; los dos primeros se asignaron al tema 4. Todos se analizan en `Ley 8828 (SPEM) como instrumento del 360.md`.
 - Fuente CGR: los 122 oficios de `Oficios citados en la Revista`. Se leyó el asunto de todos y la conclusión de los asignados a un tema: 19 oficios.
 
 ## Cobertura por tema
@@ -24,7 +24,7 @@ Abreviaturas: PGR, Procuraduría General de la República; CGR, Contraloría Gen
 | 1 | Salud física | 1 | 1 | 0 |
 | 2 | Salud mental | 0 | 0 | 0 |
 | 3 | Alimentación | 0 | 1 | 0 |
-| 4 | Integridad personal y de bienes | 3 | 6 | 0 |
+| 4 | Integridad personal y de bienes | 4 | 7 | 0 |
 | 5 | Seguridad vial | 3 | 9 | 0 |
 | 6 | Emergencias y desastres | 1 | 4 | 2 |
 | 7 | Adicciones | 7 | 13 | 0 |
@@ -77,6 +77,8 @@ Temas sin pronunciamiento en el repositorio: 2 Salud mental; 8 Personas en situa
 - A · PGR, dictamen [C-108-2021](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23323&param2=0), de 21 de abril de 2021 (Municipalidad de Mora): El servicio de policía municipal (seguridad ciudadana) no puede financiarse con una tasa; solo mediante impuesto.
 - A · PGR, dictamen [C-189-2019](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=21339&param2=0), de 5 de julio de 2019 (Municipalidad de Cartago): Art. 83 del Código Municipal tras la Ley de Fortalecimiento de la Policía Municipal: no cabe financiar con tasa el servicio general de policía; la norma permite incluir un costo de seguridad dentro de la tasa de parques y zonas verdes.
 - A · PGR, dictamen [C-131-1997](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=9737&param2=0), de 18 de julio de 1997 (Gobernación de San José): Fundamento de la policía municipal en el art. 169 constitucional y el Código Municipal; control de horarios de expendios de bebidas alcohólicas (Ley 7633).
+- A · PGR, dictamen C-082-2015, de 15 de abril de 2015 (Municipalidad de San Ramón): la policía municipal es función de vigilancia y control del orden público con potestades de coerción; no puede ser objeto de una sociedad pública de economía mixta ni delegarse en ella; la sociedad sí puede prestar labores complementarias, como una plataforma de vigilancia electrónica.
+- B · PGR, dictamen C-045-2012, de 20 de febrero de 2012 (Empresa de Servicios Públicos de Heredia): la vigilancia electrónica es un servicio de telecomunicaciones, no un servicio público municipal; la municipalidad puede prestarla como actividad comercial, sola, por convenio o por sociedad, en competencia y sin prerrogativas públicas.
 - B · PGR, dictamen [C-078-2026](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25409&param2=0), de 28 de mayo de 2026 (Municipalidad de Vázquez de Coronado): Las grabaciones de las cámaras de seguridad municipales son datos personales (art. 24 constitucional y Ley 8968); no son información de acceso irrestricto.
 - B · PGR, dictamen [C-182-2024](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24586&param2=0), de 19 de agosto de 2024 (Municipalidad de Alajuela): Permiso de portación de armas exigido para ingresar a la policía municipal (art. 63, inciso h, del Código Municipal).
 - B · PGR, dictamen [C-339-2019](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=21771&param2=0), de 12 de noviembre de 2019 (Municipalidad de Moravia): Vehículos decomisados por la Policía Municipal custodiados en inmueble de un tercero.
