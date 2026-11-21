@@ -1,0 +1,127 @@
+{
+ "carpeta": "24 Seguridad Municipal 360° (temas sin dictamen)",
+ "materia": "Seguridad Municipal 360°",
+ "consultas": [
+  {
+   "q": "salud mental",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:salud mental))"
+  },
+  {
+   "q": "situación de calle",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:situaci[óo]n de calle))"
+  },
+  {
+   "q": "indigentes",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:indigen(?:tes?|cia)\\b))"
+  },
+  {
+   "q": "igualdad de género",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:(?:igualdad|equidad|paridad) de g[ée]nero))"
+  },
+  {
+   "q": "Oficina de la Mujer",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:oficinas? (?:municipal(?:es)? )?de la mujer))"
+  },
+  {
+   "q": "Instituto Nacional de las Mujeres",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:instituto nacional de las mujeres|\\bINAMU\\b))"
+  },
+  {
+   "q": "migrantes",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:migrantes?\\b))"
+  },
+  {
+   "q": "refugiados",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:refugiad[oa]s?\\b))"
+  },
+  {
+   "q": "Migración y Extranjería",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:migraci[óo]n y extranjer[íi]a))"
+  },
+  {
+   "q": "primera infancia",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:primera infancia))"
+  },
+  {
+   "q": "CEN-CINAI",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:CEN.?CINAI))"
+  },
+  {
+   "q": "Red Nacional de Cuido",
+   "desde": 2010,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:red (?:nacional )?de cuido|CECUDI))"
+  },
+  {
+   "q": "Patronato Nacional de la Infancia",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:patronato nacional de la infancia))"
+  },
+  {
+   "q": "Código de la Niñez y la Adolescencia",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:c[óo]digo de la ni[ñn]ez))"
+  },
+  {
+   "q": "violencia doméstica",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:violencia dom[ée]stica))"
+  },
+  {
+   "q": "violencia intrafamiliar",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:violencia intrafamiliar))"
+  },
+  {
+   "q": "violencia contra las mujeres",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:violencia contra las? mujer(?:es)?))"
+  },
+  {
+   "q": "contaminación sónica",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:contaminaci[óo]n s[óo]nica))"
+  },
+  {
+   "q": "ruido",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:\\bruidos?\\b))"
+  },
+  {
+   "q": "Casas de Justicia",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:casas? de justicia))"
+  },
+  {
+   "q": "bienestar animal",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:bienestar (?:de los )?animal(?:es)?))"
+  },
+  {
+   "q": "perros",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:\\bperros?\\b))"
+  },
+  {
+   "q": "Servicio Nacional de Salud Animal",
+   "desde": 2006,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:servicio nacional de salud animal|\\bSENASA\\b))"
+  },
+  {
+   "q": "animales de compañía",
+   "desde": 1998,
+   "exige": "(?s)\\A(?=(?:.*?(?:municipal|gobiernos? local)){3})(?=.*?(?:animales de compa[ñn][íi]a|mascotas?))"
+  }
+ ],
+ "corrida": 1
+}
