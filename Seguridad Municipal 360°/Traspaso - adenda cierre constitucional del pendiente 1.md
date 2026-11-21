@@ -6,7 +6,7 @@ Punto de control del 21 de noviembre de 2026. Se lee junto con `Seguridad Munici
 
 - Se leyeron en su texto íntegro las 14 sentencias de la Sala Constitucional aportadas el 21 de noviembre de 2026, en cuatro tandas. Están en `Capa de jurisprudencia constitucional de los 36 temas.md`, con su registro por tanda y el balance de las 14 en «Efecto sobre el estado de los temas».
 - Balance: 12 estimatorias contra una municipalidad y 2 sin lugar. Primer voto propio para los temas 4, 15, 29 (lateral) y 34; el 6 suma dos votos propios leídos. Siguen sin ningún voto, ni siquiera lateral, los temas 2, 11, 12, 16, 18, 19, 22, 25, 26 y 31.
-- Rama `seguridad-municipal-360`: último commit con la tanda 4 completa, sobre `bd27729`.
+- Rama `seguridad-municipal-360`: la tanda 4 completa está en el commit `bd27729`; esta adenda y una corrección del registro, en `58671c5`. Antes de escribir, verificar que la rama esté en el commit siguiente, que solo corrige esta línea.
 
 ## Cierre del pendiente 1 en lo constitucional
 
