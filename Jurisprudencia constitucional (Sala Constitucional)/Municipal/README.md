@@ -31,6 +31,7 @@ Votos que la capa analiza en su propia ficha.
 | [2011-007502](Sentencia%202011-007502.md) | 2011-06-14 | 11-004666-0007-CO | ALCALDE, EL JEFE DEL ÁREA RECTORA DE SALUD Y EL JEFE DE LA OFICINA LOCAL DEL CONSEJO NACIO |  |
 | [2011-015763](Sentencia%202011-015763.md) | 2011-11-16 | 11-006691-0007-CO | LA MUNICIPALIDAD DE GOICOECHEA |  |
 | [2013-002572](Sentencia%202013-002572.md) | 2013-02-22 | 12-005965-0007-CO |  |  |
+| [2013-014326](Sentencia%202013-014326.md) | 2013-10-29 | 13-011818-0007-CO | la CCSS (refugiado alojado en el Centro Dormitorio municipal de San José; lateral) | Sin lugar |
 | [2016-002706](Sentencia%202016-002706.md) | 2016-02-23 | 15-017419-0007-CO | el Ministerio de Seguridad Pública, el Ministerio Público y el OIJ (velo islámico de una s | Con lugar contra la Sección de Cárceles del OIJ; voto salvado |
 | [2016-011545](Sentencia%202016-011545.md) | 2016-08-12 | 16-009192-0007-CO | CONCEJO MUNICIPAL DE LOS CHILES |  |
 | [2018-001141](Sentencia%202018-001141.md) | 2018-01-26 | 17-019518-0007-CO | MUNICIPALIDAD DE CARTAGO |  |
@@ -43,10 +44,12 @@ Votos que la capa analiza en su propia ficha.
 | [2020-013836](Sentencia%202020-013836.md) | 2020-07-22 | 19-000257-0007-CO |  | Inadmisible en parte; sin lugar por mayoría en lo demás (voto salvado de Cruz Castro, Rueda Leal y Garro Vargas) |
 | [2020-020109](Sentencia%202020-020109.md) | 2020-10-20 | 20-015847-0007-CO | MUNICIPALIDAD DE POCOCÍ |  |
 | [2020-021381](Sentencia%202020-021381.md) | 2020-11-06 | 20-018512-0007-CO | MUNICIPALIDAD DE TALAMANCA | Sin lugar |
+| [2021-001095](Sentencia%202021-001095.md) | 2021-01-19 | 21-000750-0007-CO | el INS (ejecución de una sentencia laboral a favor de un migrante; lateral) | Rechazo de plano |
 | [2021-001706](Sentencia%202021-001706.md) | 2021-01-29 | 20-023353-0007-CO | el MINAE, el SINAC y la Municipalidad de Santa Cruz (Concejo y comisiones) | Parcialmente con lugar (justicia pronta, contra el Concejo Municipal de Santa Cruz) |
 | [2021-003949](Sentencia%202021-003949.md) | 2021-02-26 | 21-001961-0007-CO | MUNICIPALIDAD DE TURRIALBA |  |
 | [2021-024259](Sentencia%202021-024259.md) | 2021-10-29 | 21-019572-0007-CO | LA MUNICIPALIDAD DE BUENOS AIRES |  |
 | [2022-004588](Sentencia%202022-004588.md) | 2022-02-25 | 22-001985-0007-CO | MUNICIPALIDAD DE OSA |  |
+| [2022-006710](Sentencia%202022-006710.md) | 2022-03-25 | 22-003380-0007-CO | la CCSS (negativa a recibir una gestión; lateral, la municipalidad no es parte) | Con lugar |
 | [2022-023266](Sentencia%202022-023266.md) | 2022-10-07 | 22-016392-0007-CO | MUNICIPALIDAD DE SANTO DOMINGO DE HEREDIA |  |
 | [2023-001782](Sentencia%202023-001782.md) | 2023-01-27 | 22-025962-0007-CO | la Municipalidad de San Ramón (bloqueo de un usuario en el Facebook institucional y acceso | Con lugar |
 | [2023-005011](Sentencia%202023-005011.md) | 2023-03-03 | 23-002537-0007-CO | MUNICIPALIDAD DE PARAISO |  |
@@ -78,6 +81,7 @@ Votos que la capa analiza en su propia ficha.
 | [2026-013450](Sentencia%202026-013450.md) | 2026-04-21 | 26-007565-0007-CO | MUNICIPALIDAD DE LIM Ó N |  |
 | [2026-014326](Sentencia%202026-014326.md) | 2026-04-24 | 25-036370-0007-CO | LA MUNICIPALIDAD DE SAN RAMÓN |  |
 | [2026-014377](Sentencia%202026-014377.md) | 2026-04-24 | 26-006556-0007-CO | MUNICIPALIDAD DE BEL É N |  |
+| [2026-014801](Sentencia%202026-014801.md) | 2026-04-24 | 26-012538-0007-CO | la Municipalidad de Hojancha (consulta a organizaciones de personas con discapacidad, Ley  | Rechazo de plano; voto salvado de Rueda Leal |
 | [2026-014917](Sentencia%202026-014917.md) | 2026-04-28 | 26-004800-0007-CO | MUNICIPALIDAD DE CARRILLO, LA MUNICIPALIDAD DE LIBERIA Y EL MINISTERIO DE AMBIENTE Y ENERG |  |
 | [2026-015340](Sentencia%202026-015340.md) | 2026-04-30 | 25-036844-0007-CO | MUNICIPALIDAD DE SAN RAM Ó N, INSTUTO COSTARRICENSE DE ELECTRICIDAD (ICE) Y SUPERINTENDENC |  |
 | [2026-016165](Sentencia%202026-016165.md) | 2026-05-07 | 26-006533-0007-CO | MUNICIPALIDAD DE BUENOS AIRES |  |
