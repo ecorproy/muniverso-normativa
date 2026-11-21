@@ -8,12 +8,17 @@
 - Ley 8050: PENDIENTE · sin coincidencia única en SINALEVI: Reglamento 8050 Reglamento Incentivo por disponibilidad para directores y su
 - Ley 8653: PENDIENTE · sin coincidencia única en SINALEVI: 
 - Ley 10: PENDIENTE · sin coincidencia única en SINALEVI: Acuerdo 10 Tarifas de canon de regulación del transporte público para e; Acuerdo 10 Aprueba Procedimiento ECA-MCC20 Criterios para la participac; Acuerdo 10-A Reforma Procedimiento ECA-MC-C20: Criterios para la particip; Acuerdo 10-B Procedimiento ECA-SE-P01-I03 Aval de certificado de equipos ; Acuerdo 10-C Procedimiento ECA-SE-P01-I04 Aval técnico exoneración dispos; Aviso 10 Nuevo horario de servicios del Departamento Archivo Notarial
-- Ley 10192: descargada · Leyes y decretos nacionales/Social/Ley 10192.md · Creación del Sistema Nacional de Cuidados y Apoyos para Personas Adultas y Personas Adultas Mayores en Situación de Dependencia (Sinca) · versión 1 de 1 (última)
-- Ley 9051: descargada · Leyes y decretos nacionales/Municipal/Ley 9051.md · Creación de las Casas Cantonales de la Juventud · versión 1 de 1 (última)
-- Ley 10595: descargada · Leyes y decretos nacionales/Municipal/Ley 10595.md · Ley para permitir a las municipalidades la construcción de obra de acueducto y alcantarillado · versión 1 de 1 (última)
-- Ley 7552: descargada · Leyes y decretos nacionales/Municipal/Ley 7552.md · Subvención a las Juntas de Educación y Juntas Administrativas por las Municipalidades · versión 4 de 4 (última)
-- Ley 5176: descargada · Leyes y decretos nacionales/Social/Ley 5176.md · Faculta a Gobierno y Autónomas para Promover Arte y Cultura Nacionales · versión 2 de 2 (última)
-- Ley 10376: descargada · Leyes y decretos nacionales/Social/Ley 10376.md · Ley para la incorporación del Derecho Fundamental al Deporte y la Recreación · versión 1 de 1 (última)
-- Ley 9615: descargada · Leyes y decretos nacionales/Administrativo/Ley 9615.md · Rendición de cuentas de las instituciones públicas sobre las acciones realizadas a favor de las personas jóvenes, en el marco de la celebración del día internacional de la juventud · versión 1 de 1 (última)
-- Ley 10485: descargada · Leyes y decretos nacionales/Municipal/Ley 10485.md · Ley para autorizar a las Asociaciones de Desarrollo Comunal para que administren áreas deportivas municipales · versión 1 de 1 (última)
-- Ley 7769: descargada · Leyes y decretos nacionales/Social/Ley 7769.md · Atención a las Mujeres en Condiciones de Pobreza · versión 5 de 5 (última)
+- Ley 10359: descargada · Leyes y decretos nacionales/Municipal/Ley 10359.md · Apoyo municipal para adultos mayores en pobreza · versión 2 de 2 (última)
+- Ley 1982: PENDIENTE · texto vacío
+- Ley 10596: descargada · Leyes y decretos nacionales/Municipal/Ley 10596.md · Ampliación del espectro de proyectos de inversión para el desarrollo cantonal en Guanacaste · versión 1 de 1 (última)
+- Ley 4825: PENDIENTE · texto vacío
+- Ley 10327: descargada · Leyes y decretos nacionales/Municipal/Ley 10327.md · Ley para garantizar la paridad de género en la conformación de órganos colegiados de los Gobiernos Locales · versión 1 de 1 (última)
+- Ley 10475: descargada · Leyes y decretos nacionales/Social/Ley 10475.md · Ley de Prevención de la violencia en personas menores de edad y personas jóvenes · versión 2 de 2 (última)
+- Ley 10476: descargada · Leyes y decretos nacionales/Social/Ley 10476.md · Prevención, detección temprana y respuesta de la violencia contra la niñez y adolescencia · versión 1 de 1 (última)
+- Ley 10158: descargada · Leyes y decretos nacionales/Social/Ley 10158.md · Consolidación del Centro Operativo de atención a la violencia intrafamiliar y la Violencia contra las Mujeres (COAVIFMU) y declaratoria de los servicios de atención de la violencia contra las mujeres como servicio esencial · versión 2 de 2 (última)
+- Ley 10214: descargada · Leyes y decretos nacionales/Social/Ley 10214.md · Creación del régimen especial de viviendas comunitarias para garantizar el acceso al derecho de la vivienda a la persona adulta mayor en condición de vulnerabilidad · versión 1 de 1 (última)
+- Ley 10260: descargada · Leyes y decretos nacionales/Administrativo/Ley 10260.md · Ley para la incorporación de la variable social dentro de los servicios que brinda el sistema financiero nacional para la vivienda · versión 1 de 1 (última)
+- Ley 10216: descargada · Leyes y decretos nacionales/Administrativo/Ley 10216.md · Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica · versión 1 de 1 (última)
+- Ley 10365: descargada · Leyes y decretos nacionales/Social/Ley 10365.md · Fomento de la cultura de emprendimiento e innovación · versión 1 de 1 (última)
+- Ley 10032: descargada · Leyes y decretos nacionales/Social/Ley 10032.md · Impulso a la economía de la cultura y la creatividad · versión 1 de 1 (última)
+- Ley 9820: descargada · Leyes y decretos nacionales/Social/Ley 9820.md · Ley para fortalecer el combate a la pobreza · versión 1 de 1 (última)

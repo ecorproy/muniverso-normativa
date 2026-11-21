@@ -54,100 +54,18 @@
  },
  {
   "tipo": "Ley",
-  "numero": "10359",
-  "carpeta": "Municipal",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
   "numero": "1982",
   "carpeta": "Municipal",
   "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "10596",
-  "carpeta": "Municipal",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
+  "prioridad": "Seguridad Municipal 360°",
+  "ultimo": "texto vacío"
  },
  {
   "tipo": "Ley",
   "numero": "4825",
   "carpeta": "Municipal",
   "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "10327",
-  "carpeta": "Municipal",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "10475",
-  "carpeta": "Social",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "10476",
-  "carpeta": "Social",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "10158",
-  "carpeta": "Social",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "10214",
-  "carpeta": "Social",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "10260",
-  "carpeta": "Administrativo",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "10216",
-  "carpeta": "Administrativo",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "10365",
-  "carpeta": "Social",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "10032",
-  "carpeta": "Social",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "9820",
-  "carpeta": "Social",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
+  "prioridad": "Seguridad Municipal 360°",
+  "ultimo": "texto vacío"
  }
 ]
