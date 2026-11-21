@@ -1,5 +1,32 @@
 {
- "busquedas": {},
+ "busquedas": {
+  "10159|2022": "3 dictámenes en 1 página(s)",
+  "10159|2023": "10 dictámenes en 1 página(s)",
+  "10159|2024": "9 dictámenes en 1 página(s)",
+  "10159|2025": "7 dictámenes en 1 página(s)",
+  "10159|2026": "9 dictámenes en 1 página(s)",
+  "Ley Marco de Empleo Público|2022": "4 dictámenes en 1 página(s)",
+  "Ley Marco de Empleo Público|2023": "10 dictámenes en 1 página(s)",
+  "Ley Marco de Empleo Público|2024": "15 dictámenes en 2 página(s)",
+  "Ley Marco de Empleo Público|2025": "7 dictámenes en 1 página(s)",
+  "Ley Marco de Empleo Público|2026": "8 dictámenes en 1 página(s)",
+  "2166|2019": "9 dictámenes en 1 página(s)",
+  "2166|2020": "19 dictámenes en 2 página(s)",
+  "2166|2021": "8 dictámenes en 1 página(s)",
+  "2166|2022": "7 dictámenes en 1 página(s)",
+  "2166|2023": "8 dictámenes en 1 página(s)",
+  "2166|2024": "9 dictámenes en 1 página(s)",
+  "2166|2025": "6 dictámenes en 1 página(s)",
+  "2166|2026": "10 dictámenes en 1 página(s)",
+  "Ley de Salarios de la Administración Pública|2019": "10 dictámenes en 1 página(s)",
+  "Ley de Salarios de la Administración Pública|2020": "19 dictámenes en 2 página(s)",
+  "Ley de Salarios de la Administración Pública|2021": "9 dictámenes en 1 página(s)",
+  "Ley de Salarios de la Administración Pública|2022": "6 dictámenes en 1 página(s)",
+  "Ley de Salarios de la Administración Pública|2023": "8 dictámenes en 1 página(s)",
+  "Ley de Salarios de la Administración Pública|2024": "9 dictámenes en 1 página(s)",
+  "Ley de Salarios de la Administración Pública|2025": "7 dictámenes en 1 página(s)",
+  "Ley de Salarios de la Administración Pública|2026": "10 dictámenes en 1 página(s)"
+ },
  "inv": {
   "23683": {
    "numero": "C-276-2022",
@@ -1154,6 +1181,184 @@
    "consultas": [
     "Ley de Salarios de la Administración Pública"
    ]
+  },
+  "24351": {
+   "numero": "C-070-2024",
+   "fecha": "22/04/2024",
+   "consultante": "Villanueva Marlene Victoria",
+   "institucion": "Sistema de Banca para el Desarrollo",
+   "consultas": [
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "24310": {
+   "numero": "C-050-2024",
+   "fecha": "14/03/2024",
+   "consultante": "Fernández Delgado Laura",
+   "institucion": "Ministerio de Planificación Nacional y Política Económica",
+   "consultas": [
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "24274": {
+   "numero": "C-046-2024",
+   "fecha": "11/03/2024",
+   "consultante": "Salas Salas Marta",
+   "institucion": "Municipalidad de San Pablo",
+   "consultas": [
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "24247": {
+   "numero": "C-028-2024",
+   "fecha": "19/02/2024",
+   "consultante": "Granados Brenes Karla",
+   "institucion": "Asamblea Legislativa",
+   "consultas": [
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "24246": {
+   "numero": "C-016-2024",
+   "fecha": "12/02/2024",
+   "consultante": "Araya Porras Ana Miriam",
+   "institucion": "Secretaría Técnica de la Autoridad Presupuestaria",
+   "consultas": [
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "24205": {
+   "numero": "C-010-2024",
+   "fecha": "30/01/2024",
+   "consultante": "Duarte Sibaja Gerardo",
+   "institucion": "Consejo Nacional de Producción",
+   "consultas": [
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "21911": {
+   "numero": "C-129-2020",
+   "fecha": "06/04/2020",
+   "consultante": "Marín Coto María Teresa",
+   "institucion": "Municipalidad de Oreamuno",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "21919": {
+   "numero": "C-116-2020",
+   "fecha": "02/04/2020",
+   "consultante": "Madriz Mora Idriabel",
+   "institucion": "Municipalidad de Osa",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "21961": {
+   "numero": "C-115-2020",
+   "fecha": "02/04/2020",
+   "consultante": "Calderón Umaña Yeiner",
+   "institucion": "Municipalidad de Turrubares",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "21962": {
+   "numero": "C-117-2020",
+   "fecha": "02/04/2020",
+   "consultante": "González Cabezas Manuel",
+   "institucion": "Banco Popular y Desarrollo Comunal",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "21955": {
+   "numero": "C-108-2020",
+   "fecha": "31/03/2020",
+   "consultante": "Durán Salvatierra Sylvie",
+   "institucion": "Ministerio de Cultura y Juventud",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "21888": {
+   "numero": "C-103-2020",
+   "fecha": "31/03/2020",
+   "consultante": "Calderón Carvajal Erick",
+   "institucion": "Municipalidad de Escazú",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "21890": {
+   "numero": "C-109-2020",
+   "fecha": "31/03/2020",
+   "consultante": "Rojas Solano José Joaquín",
+   "institucion": "Sistema de Emergencias 911",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "21893": {
+   "numero": "C-102-2020",
+   "fecha": "31/03/2020",
+   "consultante": "Mora Bustamante Rita María",
+   "institucion": "Instituto Nacional de Aprendizaje",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "21895": {
+   "numero": "C-110-2020",
+   "fecha": "31/03/2020",
+   "consultante": "Chacón Martínez Lorna",
+   "institucion": "Sistema Nacional de Radio y Televisión Cultural",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "21847": {
+   "numero": "C-065-2020",
+   "fecha": "26/02/2020",
+   "consultante": "Madrigal Hidalgo Luis",
+   "institucion": "Municipalidad de Puriscal",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "21894": {
+   "numero": "C-101-2020",
+   "fecha": "31/03/2020",
+   "consultante": "Venegas Villalobos Elibeth",
+   "institucion": "Municipalidad de Pococí",
+   "consultas": [
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "21828": {
+   "numero": "C-060-2020",
+   "fecha": "20/02/2020",
+   "consultante": "Castro Miranda Carlos",
+   "institucion": "Banco Hipotecario de la Vivienda",
+   "consultas": [
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "21863": {
+   "numero": "C-057-2020",
+   "fecha": "18/02/2020",
+   "consultante": "Porras Arguedas Karen Patricia",
+   "institucion": "Unión Nacional de Gobiernos Locales",
+   "consultas": [
+    "Ley de Salarios de la Administración Pública"
+   ]
   }
  },
  "bajados": {
@@ -1274,7 +1479,26 @@
   "21666": "ya estaba",
   "21643": "C-324-2019",
   "21642": "ya estaba",
-  "21612": "C-314-2019"
+  "21612": "C-314-2019",
+  "24351": "ya estaba",
+  "24310": "C-050-2024",
+  "24274": "C-046-2024",
+  "24247": "C-028-2024",
+  "24246": "ya estaba",
+  "24205": "ya estaba",
+  "21911": "C-129-2020",
+  "21919": "C-116-2020",
+  "21961": "ya estaba",
+  "21962": "C-117-2020",
+  "21955": "C-108-2020",
+  "21888": "C-103-2020",
+  "21890": "C-109-2020",
+  "21893": "C-102-2020",
+  "21895": "ya estaba",
+  "21894": "C-101-2020",
+  "21847": "C-065-2020",
+  "21828": "C-060-2020",
+  "21863": "ya estaba"
  },
  "descartados": {}
 }
