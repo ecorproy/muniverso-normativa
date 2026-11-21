@@ -79,6 +79,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - CM, art. 4, inciso i); art. 49: Comisión de la Condición de la Mujer; art. 103.
 - Ley N.° 7801, Instituto Nacional de las Mujeres, art. 4, inciso e): oficinas municipales de la mujer.
 - Ley N.° 10235, Violencia contra las mujeres en la política, art. 8.
+- Ley N.° 10327, Paridad de género en la conformación de órganos colegiados de los Gobiernos Locales: reforma los arts. 29 y 49 del CM.
 
 **12. Personas migrantes y refugiadas**
 - CP, arts. 19, 33 y 50.
@@ -111,6 +112,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 **17. Acceso digital**
 - CP, art. 24, párrafo adicionado por Ley N.° 10385.
 - Ley N.° 8454, Certificados, Firmas Digitales y Documentos Electrónicos, art. 1.
+- Ley N.° 10216, Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica, arts. 1 y 4: las municipalidades quedan sujetas a la ley y a sus disposiciones técnicas; art. 5: autorización para permitir en bienes municipales la instalación de dispositivos que amplíen la cobertura.
 - CM, art. 37 bis.
 
 **18. Trabajo y sustento**
@@ -131,12 +133,14 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 
 **21. Niñez**
 - Ley N.° 7739, Código de la Niñez y la Adolescencia, art. 75: espacios culturales y recreativos; art. 96: censo anual municipal de personas menores de edad que trabajan.
+- Ley N.° 10476, Prevención, detección temprana y respuesta de la violencia contra la niñez y adolescencia, art. 2: deberes de acatamiento obligatorio para las municipalidades y los concejos municipales de distrito.
 - Ley N.° 7552, Subvención a las Juntas de Educación y Juntas Administrativas por las Municipalidades, art. 1: al menos el 10% de lo recaudado por el impuesto sobre bienes inmuebles.
 - CM, arts. 57 y 71.
 
 **22. Adolescencia y juventud**
 - Ley N.° 8261, General de la Persona Joven, arts. 2 y 24: comités cantonales de la persona joven.
 - Ley N.° 8261, arts. 30 a 34: casas cantonales y distritales de la juventud; préstamo de inmuebles municipales, financiamiento y convenios.
+- Ley N.° 10475, Prevención de la violencia en personas menores de edad y personas jóvenes, art. 9, inciso a): las municipalidades fomentan la capacitación de actores comunitarios.
 - Ley N.° 7552, Subvención a las Juntas de Educación y Juntas Administrativas por las Municipalidades, art. 1: al menos el 10% de lo recaudado por el impuesto sobre bienes inmuebles.
 - Ley N.° 10561, arts. 4 y 6.
 - CM, art. 49.
@@ -146,6 +150,8 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - Ley N.° 10046, Oficina de la persona adulta mayor y de personas en situación de discapacidad en las municipalidades: reforma el art. 13, inciso t), del CM.
 - Ley N.° 10546, Fortalecimiento de la Oficina Municipal de la persona adulta mayor y de personas en situación de discapacidad, art. 1: reforma el párrafo tercero del inciso t) del art. 13 del CM.
 - Ley N.° 7935, Integral para la Persona Adulta Mayor, arts. 3 y 28.
+- Ley N.° 10359, Apoyo municipal para adultos mayores en pobreza, arts. 1, 2 y 3: condonación de deudas y exención de tasas y servicios municipales a personas mayores de sesenta y cinco años en pobreza o pobreza extrema.
+- Ley N.° 10214, Régimen especial de viviendas comunitarias para la persona adulta mayor, art. 13: autorización a las municipalidades para donar bienes muebles e inmuebles.
 - Ley N.° 10192, Sistema Nacional de Cuidados y Apoyos para Personas Adultas y Personas Adultas Mayores en Situación de Dependencia, art. 8, inciso j): coordinación y articulación con los gobiernos locales; art. 30: autorización a las municipalidades para donar bienes, servicios y recursos a las entidades del sistema.
 
 **24. Personas con discapacidad**
@@ -200,6 +206,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 **32. Vivienda**
 - CM, art. 4, inciso k), adicionado por el art. 24 de la Ley N.° 10199, Ley de vivienda municipal; art. 57.
 - Ley N.° 10199, Ley de vivienda municipal, arts. 1, 3, 4 y 5: habilitación para desarrollar y gestionar proyectos de vivienda municipal; uso y adquisición de terrenos.
+- Ley N.° 10214, art. 13.
 - Ley N.° 4240, Planificación Urbana, art. 15.
 - Ley N.° 833, Construcciones, art. 1.
 - Ley N.° 7935, art. 28.
