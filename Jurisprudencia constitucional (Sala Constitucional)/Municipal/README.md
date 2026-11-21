@@ -28,6 +28,7 @@ Votos que la capa analiza en su propia ficha.
 | [2008-016885](Sentencia%202008-016885.md) | 2008-11-07 | 07-012210-0007-CO | el alcalde y el presidente municipal de Goicoechea, el Área Rectora de Salud y Materiales  | Con lugar |
 | [2008-017231](Sentencia%202008-017231.md) | 2008-11-18 | 08-012699-0007-CO | el alcalde y el presidente del Concejo de Aguirre (demarcación vial en Quepos) | Parcialmente con lugar; orden a la CGR |
 | [2009-000494](Sentencia%202009-000494.md) | 2009-01-16 | 08-011530-0007-CO | el Concejo Municipal de Distrito de Cóbano, el MINAET, el AyA y el SENARA (pozos en Las De | Parcialmente con lugar (AyA, SENARA y MINAET); sin lugar contra el Concejo Municipal de Distrito y la SETENA |
+| [2009-015920](Sentencia%202009-015920.md) | 2009-10-16 | 09-012612-0007-CO | el Ministerio de Salud y la Municipalidad de Grecia (centro de rehabilitación de adiccione | Sin lugar |
 | [2011-007502](Sentencia%202011-007502.md) | 2011-06-14 | 11-004666-0007-CO | ALCALDE, EL JEFE DEL ÁREA RECTORA DE SALUD Y EL JEFE DE LA OFICINA LOCAL DEL CONSEJO NACIO |  |
 | [2011-015763](Sentencia%202011-015763.md) | 2011-11-16 | 11-006691-0007-CO | LA MUNICIPALIDAD DE GOICOECHEA |  |
 | [2013-002572](Sentencia%202013-002572.md) | 2013-02-22 | 12-005965-0007-CO |  |  |
@@ -60,12 +61,14 @@ Votos que la capa analiza en su propia ficha.
 | [2023-021531](Sentencia%202023-021531.md) | 2023-09-01 | 21-020715-0007-CO | MUNICIPALIDAD DE SAN JOSÉ y el MINISTERIO DE EDUCACIÓN PÚBLICA |  |
 | [2023-027541](Sentencia%202023-027541.md) | 2023-10-27 | 23-016478-0007-CO | MUNICIPALIDAD DE HEREDIA Y EL INSTITUTO NACIONAL DE APRENDIZAJE (INA) |  |
 | [2023-027545](Sentencia%202023-027545.md) | 2023-10-27 | 23-017348-0007-CO | MINISTERIO DE SALUD Y LA MUNICIPALIDAD DE VÁZQUEZ DE CORONADO |  |
+| [2024-014239](Sentencia%202024-014239.md) | 2024-05-24 | 24-011923-0007-CO | la Municipalidad de San José (despido de un servidor con adicción) | Sin lugar |
 | [2024-017189](Sentencia%202024-017189.md) | 2024-06-21 | 24-012669-0007-CO | la Municipalidad de Naranjo (ventanilla preferencial y ascensor del edificio municipal) | Con lugar |
 | [2024-019586](Sentencia%202024-019586.md) | 2024-07-12 | 24-011246-0007-CO | el SINAC y la Municipalidad de Heredia (tala de un cedro amargo junto a una acera) | Con lugar contra el SINAC; sin lugar contra la Municipalidad |
 | [2024-021998](Sentencia%202024-021998.md) | 2024-08-01 | 24-016791-0007-CO | el PANI y el IMAS (Red de Cuido y CECUDI municipal de Palmares; lateral) | Sin lugar |
 | [2024-023383](Sentencia%202024-023383.md) | 2024-08-16 | 24-019847-0007-CO | MUNICIPALIDAD DE MATINA |  |
 | [2024-024858](Sentencia%202024-024858.md) | 2024-08-30 | 24-020151-0007-CO | el Ministerio de Educación Pública (Liceo Ambientalista de Horquetas, Sarapiquí) | Sin lugar |
 | [2024-032380](Sentencia%202024-032380.md) | 2024-11-01 | 24-025245-0007-CO | CONSEJO NACIONAL DE VIALIDAD (CONAVI) , la MUNICIPALIDAD DE CARTAGO y la MUNICIPALIDAD DE  |  |
+| [2024-032554](Sentencia%202024-032554.md) | 2024-11-01 | 24-028550-0007-CO | la Municipalidad de San José (despido de un recolector con alcoholismo) | Sin lugar |
 | [2025-000583](Sentencia%202025-000583.md) | 2025-01-10 | 24-033317-0007-CO | INSTITUTO COSTARRICENSE DE ACUEDUCTOS Y ALCANTARILLADOS, LA MUNICIPALIDAD DE PUNTARENAS Y  |  |
 | [2025-006950](Sentencia%202025-006950.md) | 2025-03-07 | 24-033389-0007-CO | MUNICIPALIDAD DE PUNTARENAS, EL ÁREA RECTORA DE SALUD DE PUNTARENAS Y EL MINISTERIO DE AMB |  |
 | [2025-009557](Sentencia%202025-009557.md) | 2025-03-28 | 25-005433-0007-CO | MUNICIPALIDAD DE SAN JOSÉ |  |
