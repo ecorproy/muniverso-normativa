@@ -7,6 +7,7 @@ Repositorio de normas y dictámenes en Markdown, cada uno con su ficha (número,
 - **Leyes y decretos nacionales/** (456 documentos): leyes, códigos, decretos ejecutivos y tratados, por materia.
 - **Leyes locales/** (108 documentos): leyes de patentes, impuestos municipales y licencias comerciales, por provincia y cantón.
 - **Reglamentos municipales/** (4311 documentos): reglamentos de cada municipalidad y concejo municipal de distrito, por provincia y cantón; los de federaciones, UNGL e IFAM van en «Entes intermunicipales».
+- **Jurisprudencia constitucional (Sala Constitucional)/**: sentencias de la Sala Constitucional bajadas de NexusPJ (texto anonimizado por el Poder Judicial), por tema.
 - **Jurisprudencia administrativa (PGR)/** (1945 documentos): dictámenes de la Procuraduría General de la República, por área temática.
 
 ## Contenido
