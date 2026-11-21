@@ -1,0 +1,142 @@
+---
+numero: "C-211-2025"
+tipo: "Dictamen de la Procuraduría General de la República"
+fecha: "15/10/2025"
+consultante: "Araya Porras Ana Miriam"
+institucion: "Secretaría Técnica de la Autoridad Presupuestaria"
+materia: "Empleo público (Ley Marco y Ley de Salarios)"
+temas: "10159; Ley Marco de Empleo Público"
+enlace: "https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25182&param2=0"
+descargado: "2026-11-21"
+---
+# Dictamen C-211-2025
+
+Dictamen : 211 - del 15/10/2025
+
+15 de octubre de 2025
+
+PGR-C-211-2025
+
+Señora
+
+Ana Miriam Araya Porras
+
+Directora Ejecutiva
+
+Secretaría Técnica de la Autoridad Presupuestaria
+
+Estimada señora:
+
+            Con la aprobación del señor Procurador General de la República, damos respuesta a su oficio MH-STAP-OF-1399-2024 del 4 de noviembre de 2024, por medio del cual nos planteó varias consultas relacionadas con las competencias a cargo de la Autoridad Presupuestaria en materia de empleo público y con la derogación de los regímenes salariales especiales existentes con anterioridad a la entrada en vigencia de la Ley Marco de Empleo Público.  Lo anterior con motivo de la emisión de nuestro dictamen PGR-C-150-2024 del 22 de julio de 2024.
+
+            A la consulta se adjuntó el criterio de la Unidad de Asuntos Jurídicos de la Secretaría Técnica de la Autoridad Presupuestaria (STAP), el cual consta en el oficio MH-STAP-DE-AJ-0457-2024 del 24 de octubre de 2024, suscrito por la señora Silvia Quirós Camacho, Coordinadora General de esa Unidad.
+
+            Esta Procuraduría, mediante el oficio DPB-OFI-6404-2025 del 8 de julio de 2025, confirió audiencia de la consulta a la Dirección General de Servicio Civil, audiencia que fue atendida por medio del oficio DG-OF-352-2025 del 4 de agosto último, suscrito por su Director General a.i., señor Carlos Eduardo Calvo Coto.   Asimismo, mediante nuestro oficio DPB-OFI-6315-2025 del 4 de julio de 2025 se otorgó audiencia al Ministerio de Planificación Nacional y Política Económica, sin que a la fecha de este dictamen hayamos recibido respuesta.
+
+            Seguidamente nos referiremos a las preguntas que nos fueron formuladas.  En cada respuesta mencionaremos la posición tanto de la Unidad de Asuntos Jurídicos de la STAP como de la Dirección General de Servicio Civil.
+
+            “1. ¿A la luz de las conclusiones a las que se llega en el dictamen PGR-C-150-2024 el dictamen C-161-2021 fue reconsiderado?”
+
+            Para dar contexto al tema sobre el cual se requiere nuestro criterio, debemos indicar que mediante el dictamen C-161-2021 del 8 de junio de 2021, dimos respuesta a una consulta planteada por el Registro Nacional en relación con el “Régimen Salarial para la Actividad Informática del Registro Nacional” y con la incidencia que tuvo en ese régimen la Ley de Fortalecimiento de las Finanzas Públicas, n.° 9635 de 3 de diciembre de 2018.  El punto medular que se analizó en ese dictamen fue si la ley n.° 9635 derogó el artículo 23 de la Ley de Creación del Registro Nacional, n.° 5695 de 28 de mayo de 1975, norma que autorizaba a la Junta Administrativa del Registro Nacional para crear “… su propio régimen de salarios para el personal de informática…”.   En el dictamen C-161-2021 se arribó a la conclusión de que “La Ley de Fortalecimiento de las Finanzas Públicas no derogó tácitamente el Régimen Salarial para la Actividad Informática del Registro Nacional”. (Conclusión 3).
+
+Por otra parte, en el dictamen PGR-C-150-2024 del 22 de julio de 2024, esta Procuraduría contestó una consulta formulada por la Dirección General de Servicio Civil sobre el efecto que tuvo la Ley Marco de Empleo Público sobre los regímenes salariales especiales vigentes hasta ese momento.
+
+Las conclusiones del dictamen PGR-C-150-2024 fueron las siguientes: “1.- Los regímenes salariales diferenciados que existían en las instituciones cubiertas por el ámbito de aplicación de la Ley Marco de Empleo Público quedaron tácitamente derogados con la entrada en vigencia de dicha ley.  Dentro de esos regímenes salariales diferenciados se encuentran los que regían la remuneración de los funcionarios de los Tribunales Administrativos.- 2.- La implementación de los cambios en el régimen salarial de los funcionarios públicos debe respetar los derechos adquiridos y las situaciones jurídicas consolidadas de las personas que mantenían una relación de servicio antes de las modificaciones respectivas, lo cual implica no disminuir el salario total percibido por los servidores a los que van dirigidos los cambios normativos.  Por ello, al aplicar las disposiciones salariales contempladas en la Ley Marco de Empleo Público deben utilizarse las reglas de transición previstas en los Transitorios XI y XII de esa ley, y constatar que el salario total de los servidores activos no experimente alguna disminución con respecto al salario total percibido antes del 10 de marzo del 2023, fecha en que entró en vigencia la ley n.° 10159.”
+
+En el criterio legal que se adjuntó a la consulta, la STAP señala que, si bien el dictamen C-161-2021 estableció que el régimen salarial para la actividad informática del Registro Nacional no fue afectado por la Ley de Fortalecimiento de las Finanzas Públicas “… sí fue tácitamente derogado con la entrada en vigencia de la Ley Marco de Empleo Público” con la salvedad de los derechos adquiridos y las situaciones jurídicas consolidadas.
+
+            Por su parte, la Dirección General de Servicio Civil, al contestar la audiencia que le fue conferida, se abstuvo de emitir criterio sobre la posible reconsideración del dictamen C-161-2021, pues indicó que reconsiderar o no ese dictamen es una competencia que debe ser ejercida, exclusivamente, por la Procuraduría General de la República, de conformidad con el artículo 3 inciso b) de su Ley Orgánica.
+
+            Sobre el punto específico en consulta, debemos indicar que el dictamen C-161-2021 no fue reconsiderado por el PGR-C-150-2024, toda vez que el primero se refirió a la posible derogación por la Ley de Fortalecimiento de las Finanzas Públicas, del régimen salarial especial aplicable a la actividad informática del Registro Nacional; mientras que el segundo se refirió a la posible derogación por la Ley Marco de Empleo Público, de los regímenes salariales especiales vigentes en las instituciones cubiertas por esa ley.
+
+            Ciertamente, por las razones expuestas en el dictamen PGR-C-150-2024 citado, el régimen salarial especial aplicable a la actividad informática del Registro Nacional quedó tácitamente derogado por la Ley Marco de Empleo Público, sin perjuicio de los derechos adquiridos por las personas que pertenecieron a ese régimen salarial;  pero ello no implica que el dictamen C-161-2021 deba ser reconsiderado, pues lo que se indicó en ese pronunciamiento en relación con el efecto de la entrada en vigencia de la Ley de Fortalecimiento de las Finanzas Públicas sobre ese régimen salarial es correcto.
+
+            2.- ¿Si con lo manifestado en el dictamen PGR-C-150-2024 se ha producido una reconsideración de lo dispuesto en el dictamen PGR-C-016-2024 respecto de la subsistencia de las competencias atribuidas a la Autoridad Presupuestaria con posterioridad a la entrada en vigencia de la Ley Marco de Empleo Público? Y si ¿esa eventual reconsideración se da con la salvedad de los asuntos en que concurran derechos adquiridos y situaciones jurídicas consolidadas?”
+
+            El dictamen PGR-C-016-2024 del 12 de febrero de 2024 fue emitido como respuesta a una consulta planteada por la STAP, relacionada con las competencias de la Autoridad Presupuestaria en materia de empleo público después de la entrada en vigencia de la Ley Marco de Empleo Público.  En lo que ahora interesa, el dictamen PGR-C-016-2024 citado arribó a la conclusión de que “La competencia atribuida a la Autoridad Presupuestaria en lo relativo a la valoración de los puestos excluidos del Régimen de Servicio Civil se mantiene vigente después de la promulgación de la LMEP.  Esa competencia debe ejercerse conjunta y concordantemente con el MIDEPLAN, como órgano rector en materia de empleo público, según lo dispuesto en el artículo 34 de la LMEP.  Lo anterior implica que la separación entre puestos sujetos al Régimen de Servicio Civil y puestos excluidos de dicho Régimen también se encuentra vigente.” (El subrayado no es del original).
+
+            Se nos consulta si como consecuencia de lo resuelto en el dictamen PGR-C-150-2024, ya reseñado, en el sentido de que “Los regímenes salariales diferenciados que existían en las instituciones cubiertas por el ámbito de aplicación de la Ley Marco de Empleo Público quedaron tácitamente derogados con la entrada en vigencia de dicha ley”, se produjo la reconsideración del dictamen PGR-C-016-2024 citado.
+
+            Sobre el punto, el criterio legal que se adjuntó a la consulta señala que, tras consultar el Sistema Nacional de Legislación Vigente, no encontró información sobre una posible reconsideración del dictamen PGR-C-016-2024.  Agrega que, a pesar de ello, estima que la competencia de la Autoridad Presupuestaria no fue afectada directamente, sino indirectamente, al interpretarse que los regímenes salariales diferenciados —que eran la base para el conocimiento de ciertas gestiones por parte de la AP— fueron suprimidos por la Ley Marco de Empleo Público.
+
+            La Dirección General de Servicio Civil reiteró que el órgano legitimado para analizar la posible reconsideración del dictamen PGR-C-016-2024 es la Procuraduría General de la República.  Específicamente, en cuanto a las competencias de la Autoridad Presupuestaria, señaló que después de analizar el dictamen PGR-C-150-2024, no encontró elementos de juicio que permitan concluir que las competencias de dicho órgano en materia de empleo público hayan sido derogadas total o parcialmente.  Afirma que, por el contrario, los numerales 34, 36 y 37 de la Ley Marco de Empleo Público y los artículos 34 y 35 de su reglamento, refuerzan y amplían las competencias de la Autoridad Presupuestaria, pues le otorgan un rol activo en la creación y actualización de las columnas salariales para los puestos bajo su ámbito.
+
+            Tal y como se indicó en la primera conclusión del dictamen PGR-C-016-2024 citado, una de las competencias que conservó la Autoridad Presupuestaria después de la entrada en vigencia de la Ley Marco de Empleo Público es la relacionada con “la valoración de los puestos excluidos del Régimen de Servicio Civil.”  Los puestos que pertenecían a los regímenes salariales especiales (tácitamente derogados por la Ley Marco de Empleo Público según lo expuesto en el dictamen PGR-C-150-2024) son solo uno de los tipos de puestos excluidos del Régimen de Servicio Civil.
+
+            Lo anterior implica que la Autoridad Presupuestaria continúa teniendo competencias relativas a la valoración de los puestos excluidos del Régimen de Servicio Civil.  Así ocurre, por ejemplo, con la fijación del salario del Presidente de la República, de las Vicepresidencias de la República, de los ministros y ministras, de las presidencias ejecutivas (con excepción de aquellas pertenecientes a instituciones con autonomía de gobierno u organizativa), de los viceministros y viceministras, de los gerentes y subgerentes del sector descentralizado, del  jerarca de la Procuraduría General de la República, de quien ejerza la Procuraduría General Adjunta de la República, de los puestos que pertenezcan a la “Dirección de Confianza” y la Oficialía Mayor (mencionados en el artículo 37 de la Ley Marco de Empleo Público), así como de los funcionarios de confianza subalternos del sector público.
+
+            Lo anterior es importante para señalar que la competencia genérica de la Autoridad Presupuestaria relativa a la valoración de los puestos excluidos del Régimen de Servicio Civil no fue derogada por la Ley Marco de Empleo Público, ni es posible afirmar que tal derogación se deduzca de las conclusiones a las que arribó nuestro dictamen PGR-C-150-2024.  Lo que sí quedó sin efecto fue la competencia específica de la Autoridad Presupuestaria relativa a la valoración de los “regímenes salariales especiales” que estaban vigentes en algunas instituciones cubiertas por la Ley Marco de Empleo Público, sin perjuicio de las competencias que deben ejercerse en relación con las personas que mantienen derechos adquiridos por haber pertenecido a esos regímenes.
+
+            Debemos insistir en que la competencia material de la Autoridad Presupuestaria en relación con este tema es la de valorar los puestos excluidos del Régimen de Servicio Civil.  Y como consecuencia de lo señalado en el dictamen C-150-2024, dentro de los puestos excluidos del Régimen de Servicio Civil no están actualmente los de las personas que pertenecían a un “régimen salarial especial”.  Por ello, lo que se produjo con la entrada en vigencia de la Ley Marco de Empleo Público, según lo dispuesto en el dictamen PGR-C-150-2024, fue una disminución del ámbito material de las competencias atribuidas a la Autoridad Presupuestaria, no la derogación de su competencia genérica.
+
+            Así las cosas, se impone indicar que el dictamen PGR-C-016-2024, en tanto sostuvo que “La competencia atribuida a la Autoridad Presupuestaria en lo relativo a la valoración de los puestos excluidos del Régimen de Servicio Civil se mantiene vigente después de la promulgación de la LMEP”, no fue reconsiderado por el dictamen PGR-C-150-2024, ni requiere ser reconsiderado ahora.
+
+            3.- “Si la derogación tácita abarca el régimen salarial diferenciado, entonces: ¿Esto tiene algún impacto en la competencia atribuida a la AP para conocer de este tipo de gestiones?”
+
+            Sobre este tema, el criterio legal de la STAP señala que, si los regímenes salariales diferenciados que existían en el sector público fueron tácitamente derogados por la Ley Marco de Empleo Público, la competencia de la Autoridad Presupuestaria fue afectada indirectamente al eliminarse la nota diferenciadora por la cual la Autoridad Presupuestaria conocía esos regímenes especiales. En consecuencia, esos regímenes deberían integrarse a la nueva estructura de la Ley Marco de Empleo Público.
+
+            La Dirección General de Servicio Civil indica que no hay evidencia para concluir que las competencias de la Autoridad Presupuestaria hayan sido derogadas tácitamente por el dictamen PGR-C-150-2024. Argumenta que, si bien la Ley Marco de Empleo Público buscó unificar el sistema de remuneraciones, no pretendía sustituir o cercenar las competencias legalmente conferidas a la Autoridad Presupuestaria. Por el contrario, considera que esas competencias fueron reforzadas y ampliadas por dicha ley, la cual le asignó a la Autoridad Presupuestaria un rol activo en la elaboración y actualización de columnas salariales.
+
+            En relación con este punto, debemos reiterar que con la derogación tácita de los regímenes salariales diferenciados existentes en el sector público antes de la entrada en vigencia de la Ley Marco de Empleo Público, se mantuvo vigente la competencia atribuida a la Autoridad Presupuestaria en lo relativo a la valoración de los puestos excluidos del Régimen de Servicio Civil, con la particularidad de que esa competencia experimentó una disminución de su ámbito material, al no formar ya parte de su objeto la valoración de los puestos que pertenecían a los regímenes salariales especiales.
+
+            4.- “En la segunda conclusión del dictamen PGR-C-150-2024 se hace mención expresa de los derechos adquiridos y situaciones jurídicas consolidadas, por lo que surge la inquietud ¿Con respecto de los funcionarios y funcionarias con derechos adquiridos y/o situaciones jurídicas consolidadas, compete a MIDEPLAN con el apoyo de la Dirección General de Servicio Civil la atención de los manuales de puestos y de las eventuales valoraciones o revaloraciones salariales o por el contrario, la Autoridad Presupuestaria continúa siendo la competente?”
+
+            En relación con este punto, el criterio legal que se adjuntó a la consulta indica que para los funcionarios con derechos adquiridos y/o situaciones jurídicas consolidadas, derivadas de su pertenencia a algún régimen salarial especial, la Autoridad Presupuestaria mantiene sus competencias originales en materia de valoración salarial.
+
+            Por su parte, la Dirección General de Servicio Civil señala que las valoraciones salariales y los avales para modificar manuales de puestos de funcionarios con derechos adquiridos y situaciones jurídicas consolidadas derivados de su pertenencia a regímenes salariales especiales, deben tramitarse de conformidad con la normativa vigente y aplicable con anterioridad a la entrada en vigencia de la Ley Marco de Empleo Público.  Agrega que esa situación se mantendría hasta que los servidores cumplan con las reglas de transición reguladas en el Transitorio XI de dicha ley y los artículos 36, 37 y 38 de su reglamento, así como las circulares correspondientes. Sostiene que, por esa razón, el órgano competente bajo la normativa anterior mantiene su rol para estas situaciones.
+
+            En la segunda conclusión del dictamen PGR-C-150-2024 mencionado en esta pregunta, la Procuraduría indicó que “La implementación de los cambios en el régimen salarial de los funcionarios públicos debe respetar los derechos adquiridos y las situaciones jurídicas consolidadas de las personas que mantenían una relación de servicio antes de las modificaciones respectivas, lo cual implica no disminuir el salario total percibido por los servidores a los que van dirigidos los cambios normativos.  Por ello, al aplicar las disposiciones salariales contempladas en la Ley Marco de Empleo Público deben utilizarse las reglas de transición previstas en los Transitorios XI y XII de esa ley, y constatar que el salario total de los servidores activos no experimente alguna disminución con respecto al salario total percibido antes del 10 de marzo del 2023, fecha en que entró en vigencia la ley n.° 10159.”
+
+            Es claro entonces que si un grupo de personas que pertenecía a los regímenes salariales especiales que se han venido mencionando va a seguir rigiéndose, de manera temporal, por las reglas establecidas en esos regímenes, las disposiciones aplicables a esas relaciones serán las que estaban vigentes con anterioridad a la Ley Marco de Empleo Público, incluidas las reglas relativas al órgano competente para definir la valoración y revaloración salarial de esos puestos.
+
+            5.- “A tenor de la primera conclusión contenida en el dictamen PGR-C-150-2024 los denominados regímenes especiales fueron tácitamente derogados, ¿entonces las personas funcionarias que se encontraban afectos a los mismos pasan estar cubiertos por la Ley Marco de Empleo Público?”
+
+            Sobre esta pregunta, el criterio legal que se adjuntó a la consulta indica que la Autoridad Presupuestaria tenía la competencia para conocer sobre los regímenes salariales especiales en virtud de su naturaleza especial en relación con el Régimen de Servicio Civil.  Agrega que, si esa nota diferenciadora fue suprimida por la Ley Marco de Empleo Público, los funcionarios quedan cubiertos por el Régimen de Servicio Civil.
+
+            La Dirección General de Servicio Civil señala, en términos generales, que uno de los pilares de la Ley Marco de Empleo Público fue instaurar un esquema de salario global para unificar el sistema de remuneraciones de todas las entidades y órganos cubiertos por esa ley. Agrega que la intención del legislador fue crear un "marco unificador en materia salarial", de lo que se deduce que, salvo las excepciones expresamente indicadas en la Ley Marco de Empleo Público, los funcionarios que previamente estuvieron bajo regímenes especiales ahora estarían cubiertos por dicha ley.
+
+            Sobre el punto, es criterio de esta Procuraduría que, efectivamente, las personas cuya remuneración estaba regulada por un régimen salarial especial antes de la entrada en vigencia de la Ley Marco de Empleo Público, quedarán sujetos al esquema salarial previsto en dicha Ley Marco cuando se cumplan las reglas de transición establecidas en su Transitorio XI y XII.
+
+            En el caso de las personas que iniciaron una relación de empleo público después de la entrada en vigencia de la Ley Marco de Empleo Público, o que reingresaron luego de haber perdido continuidad (según lo dispuesto en el artículo 5, inciso b, de la misma ley, y en el 5, inciso 4, de su reglamento) quedan sujetos a las disposiciones salariales establecidas en esa ley, independientemente de que los puestos que ahora ocupan estuviesen ligados antes a un régimen salarial especial.
+
+            Recuérdese que de conformidad con el artículo 36 del Reglamento a la Ley Marco de Empleo Público, “El nuevo esquema de remuneración por salario global establecido para los puestos que se regulan en la Ley Marco de Empleo Público, Nº 10.159, deberá aplicarse, estrictamente y sin dilación, para toda nueva persona trabajadora que inicie sus labores en una institución pública con una relación de empleo de carácter estatutario, pública o mixto, o bien en puestos de alta jerarquía, así como en casos de reingreso en el servicio público sin que medie continuidad laboral.”
+
+            6.- “Muchas de las entidades que se encuentran en el ámbito de la Autoridad Presupuestaria contaban con regímenes especiales diferenciados, establecidos mediante leyes o por reglamento, por lo que, al estar tácitamente derogados, conforme a lo dispuesto en el criterio PGR-C-150-2024 ¿cuál sería la competencia de la Autoridad Presupuestaria?”
+
+            En relación con este aspecto, la Unidad de Asuntos Jurídicos de la STAP indicó que de conformidad con el dictamen PGR-C-150-2024 mencionado, los regímenes especiales diferenciados de entidades que se encuentran en el ámbito de la Autoridad Presupuestaria, fueron tácitamente derogados, por lo que la competencia de dicho órgano colegiado en lo relativo a la valoración de los puestos excluidos del Régimen de Servicio Civil fue afectada indirectamente.  Sostuvo que, a pesar de ello, deben respetarse los derechos adquiridos y las situaciones jurídicas consolidadas de las personas que mantenían una relación de servicio antes de las modificaciones respectivas, situación que se mantendrá hasta que dejen sus puestos de trabajo, por lo que únicamente en esos casos la Autoridad Presupuestaria continuará siendo competente para definir lo relativo a la materia salarial y de empleo que le asigna el artículo 21 de la Ley de la Administración Financiera de la República y Presupuesto Públicos.
+
+            La Dirección General de Servicio Civil indicó que las competencias de la Autoridad Presupuestaria en materia de fijación salarial no fueron derogadas tácitamente por la Ley Marco de Empleo Público, según lo resuelto por esta Procuraduría en su dictamen PGR-C-150-2024.  Sostiene que, por el contrario, la Ley Marco de Empleo Público refuerza y amplía las competencias de la Autoridad Presupuestaria, confiriéndole un rol activo en la elaboración y actualización de las columnas salariales.
+
+            Sobre este tema, debemos reiterar que las competencias de la Autoridad Presupuestaria en materia de empleo público son las contempladas en la Ley Marco de Empleo Público y en su reglamento, así como en la Ley de la Administración Financiera de la República y Presupuesto Públicos y en las demás disposiciones conexas.
+
+            Como ya indicamos al contestar consultas anteriores, con la derogación tacita de los regímenes salariales que existían antes de la entrada en vigencia de la Ley Marco de Empleo Público, lo que se produjo fue una disminución del ámbito material de las competencias atribuidas a la Autoridad Presupuestaria en materia salarial, no la derogación de su competencia genérica.
+
+            7.- “Uno de los denominados regímenes salariales especiales es el establecido en el artículo 20 de la ley n.° 5150 del 14 de mayo de 1973 llamada Ley General de Aviación Civil, mismo respecto del cual inclusive se ha dado la interposición de procesos en sede judicial, entonces considerando esta situación particular, surge la inquietud ¿La derogatoria tácita de los regímenes especiales consignada en primera conclusión del Dictamen PGR-C-150-2024 aplica en relación con el régimen dispuesto en el artículo 20 de la ley n.° 5150, o por el contrario se mantiene vigente?”
+
+            La Unidad Jurídica de la STAP, en el criterio legal que se ha mencionado, sostuvo lo siguiente: “… considerando que la Procuraduría resolvió en el dictamen n.° C-150-2024, que todos los regímenes salariales diferenciados que existían en las instituciones cubiertas por el ámbito de aplicación de la LMEP quedaron tácitamente derogados desde la entrada en vigencia de dicha ley, puede válidamente interpretarse que el régimen establecido en el artículo 20 de la ley n.° 5150 del 14 de mayo de 1973 llamada Ley General de Aviación Civil, también se encuentra tácitamente derogado. Debiendo respetarse los derechos adquiridos y las situaciones jurídicas consolidadas de las personas que mantenían una relación de servicio antes de las modificaciones respectivas.”
+
+            Por su parte, la Dirección General de Servicio Civil externó un criterio similar pues indicó que “… sin lugar a dudas, las regulaciones contenidas en los numerales 20, 69 y 49 de las Leyes número: 5150, 6963 y 6982, se encuentran derogadas tácitamente por la Ley N° 10159, por la incompatibilidad normativa de sus contenidos con esta última. Lo anterior, sin perjuicio de los derechos adquiridos de las personas servidoras públicas.”
+
+            El régimen especial de salarios por cuya vigencia se nos consulta, está regulado en el artículo 20 de la Ley General de Aviación Civil, n.° 5150 de 14 de mayo de 1973.  El texto de esa norma es el siguiente:
+
+        “Artículo 20.- La Dirección General de Aviación Civil estará dotada del personal técnico-administrativo que sea necesario para su buen funcionamiento, a juicio del Consejo Técnico de Aviación Civil.
+
+        Este personal será nombrado por su experiencia y conocimientos en aviación civil y en las áreas afines a la competencia de este órgano y la idoneidad para el cargo, conforme al Estatuto de Servicio Civil, además, estará sujeto a un régimen especial de salarios que la Dirección del Servicio Civil aprobará una vez considerada la especialidad de la materia, lo dispuesto por el mencionado Estatuto así como las recomendaciones y los manuales emitidos por el Organismo de Aviación Civil Internacional (OACI) y otros organismos internacionales.
+
+        El Consejo Técnico de Aviación Civil podrá contratar los estudios y servicios técnicos y profesionales y los asesores ocasionales que requiera para el desempeño adecuado tanto de sus funciones como las de la Dirección, siempre y cuando demuestre que, dentro de la planilla, no existe el personal especializado para desempeñar los trabajos que se pretenden contratar. Para ello, aplicará los principios y procedimientos de la Ley de Contratación Administrativa, Nº 7494, de 2 de mayo de 1995, y su Reglamento.”  (El subrayado no es del original).
+
+            Como ya se ha indicado reiteradamente, esta Procuraduría, en su dictamen PGR-C-150-2024 citado, sostuvo que los regímenes salariales diferenciados que existían en las instituciones cubiertas por el ámbito de aplicación de la Ley Marco de Empleo Público, quedaron tácitamente derogados con la entrada en vigencia de dicha ley.
+
+            Esa regla general aplica para el régimen especial de salarios al que se refiere el artículo 20 de la Ley General de Aviación Civil, sin perjuicio de los derechos adquiridos que podrían ostentar las personas que fueron remuneradas con base en ese régimen antes de la entrada en vigencia de la LMEP.
+
+            Lo anterior implica que las fijaciones salariales posteriores a la entrada en vigencia de la Ley Marco de Empleo Público deben ser hechas por los órganos y con las reglas previstas en dicha ley, tomando en cuenta la especialidad de la materia, así como las recomendaciones y los manuales emitidos por el Organismo de Aviación Civil Internacional (OACI) y otros organismos internacionales, como lo dispone el artículo 20 transcrito.
+
+Cordialmente;
+
+Julio César Mesén Montoya
+
+Procurador
+
+JCMM/hsc
+
+Ir al menú de pronunciamientos

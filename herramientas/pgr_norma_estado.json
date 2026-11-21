@@ -1,0 +1,1307 @@
+{
+ "busquedas": {
+  "10159|2022": "3 dictámenes en 1 página(s)",
+  "10159|2023": "10 dictámenes en 1 página(s)",
+  "10159|2024": "9 dictámenes en 1 página(s)",
+  "10159|2025": "7 dictámenes en 1 página(s)",
+  "10159|2026": "9 dictámenes en 1 página(s)",
+  "Ley Marco de Empleo Público|2022": "4 dictámenes en 1 página(s)",
+  "Ley Marco de Empleo Público|2023": "10 dictámenes en 1 página(s)",
+  "Ley Marco de Empleo Público|2024": "9 dictámenes en 1 página(s)",
+  "Ley Marco de Empleo Público|2025": "7 dictámenes en 1 página(s)",
+  "Ley Marco de Empleo Público|2026": "8 dictámenes en 1 página(s)",
+  "2166|2019": "9 dictámenes en 1 página(s)",
+  "2166|2020": "9 dictámenes en 1 página(s)",
+  "2166|2021": "8 dictámenes en 1 página(s)",
+  "2166|2022": "7 dictámenes en 1 página(s)",
+  "2166|2023": "8 dictámenes en 1 página(s)",
+  "2166|2024": "9 dictámenes en 1 página(s)",
+  "2166|2025": "6 dictámenes en 1 página(s)",
+  "2166|2026": "10 dictámenes en 1 página(s)",
+  "Ley de Salarios de la Administración Pública|2019": "10 dictámenes en 1 página(s)",
+  "Ley de Salarios de la Administración Pública|2020": "9 dictámenes en 1 página(s)",
+  "Ley de Salarios de la Administración Pública|2021": "9 dictámenes en 1 página(s)",
+  "Ley de Salarios de la Administración Pública|2022": "6 dictámenes en 1 página(s)",
+  "Ley de Salarios de la Administración Pública|2023": "8 dictámenes en 1 página(s)",
+  "Ley de Salarios de la Administración Pública|2024": "9 dictámenes en 1 página(s)",
+  "Ley de Salarios de la Administración Pública|2025": "7 dictámenes en 1 página(s)",
+  "Ley de Salarios de la Administración Pública|2026": "10 dictámenes en 1 página(s)"
+ },
+ "inv": {
+  "23683": {
+   "numero": "C-276-2022",
+   "fecha": "14/12/2022",
+   "consultante": "Díaz Quintana Natalia",
+   "institucion": "Ministerio de la Presidencia",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público",
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "23445": {
+   "numero": "C-137-2022",
+   "fecha": "27/06/2022",
+   "consultante": "Rodríguez Bogle Jorge",
+   "institucion": "Dirección General de Servicio Civil",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "23284": {
+   "numero": "C-082-2022",
+   "fecha": "20/04/2022",
+   "consultante": "Cañas Díaz Irene",
+   "institucion": "Instituto Costarricense de Electricidad",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "24117": {
+   "numero": "C-226-2023",
+   "fecha": "20/11/2023",
+   "consultante": "Jiménez Cascante Alfonso",
+   "institucion": "Municipalidad de Mora",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "24109": {
+   "numero": "C-210-2023",
+   "fecha": "14/11/2023",
+   "consultante": "Benavides Vílchez Edgar Allan",
+   "institucion": "Empresa de Servicios Públicos de Heredia",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "24517": {
+   "numero": "C-191-2023",
+   "fecha": "16/10/2023",
+   "consultante": "Salguero Moya Karina",
+   "institucion": "Teatro Nacional",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "24092": {
+   "numero": "C-188-2023",
+   "fecha": "10/10/2023",
+   "consultante": "Cruickshank Lambert Angie",
+   "institucion": "Defensoría de los Habitantes de la República",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "24039": {
+   "numero": "C-168-2023",
+   "fecha": "04/09/2023",
+   "consultante": "Fernández Delgado Laura",
+   "institucion": "Ministerio de Planificación Nacional y Política Económica",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "24038": {
+   "numero": "C-161-2023",
+   "fecha": "01/09/2023",
+   "consultante": "Porras Morales Maikol",
+   "institucion": "Municipalidad de Sarchí",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público",
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "24008": {
+   "numero": "C-136-2023",
+   "fecha": "11/07/2023",
+   "consultante": "Araya Porras Ana Miriam",
+   "institucion": "Secretaría Técnica de la Autoridad Presupuestaria",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "23999": {
+   "numero": "C-135-2023",
+   "fecha": "10/07/2023",
+   "consultante": "Fernández Delgado Laura",
+   "institucion": "Ministerio de Planificación Nacional y Política Económica",
+   "consultas": [
+    "10159"
+   ]
+  },
+  "23942": {
+   "numero": "C-113-2023",
+   "fecha": "31/05/2023",
+   "consultante": "Loaiza Madriz Carmen",
+   "institucion": "Colegio de Enfermeras de Costa Rica",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "23998": {
+   "numero": "C-114-2023",
+   "fecha": "31/05/2023",
+   "consultante": "Ruiz Delgado María Jeannette",
+   "institucion": "Banco Nacional de Costa Rica",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "24761": {
+   "numero": "C-293-2024",
+   "fecha": "12/12/2024",
+   "consultante": "Jiménez Cascante Alfonso",
+   "institucion": "Municipalidad de Mora",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "24798": {
+   "numero": "C-291-2024",
+   "fecha": "12/12/2024",
+   "consultante": "Bermúdez Peña Álvaro",
+   "institucion": "Instituto Costarricense de Ferrocarriles",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "24751": {
+   "numero": "C-282-2024",
+   "fecha": "02/12/2024",
+   "consultante": "Ávila Bolaños Laura",
+   "institucion": "Caja Costarricense de Seguro Social",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público",
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "24737": {
+   "numero": "C-277-2024",
+   "fecha": "26/11/2024",
+   "consultante": "Cossio Betancur John Jaime",
+   "institucion": "Municipalidad de Sarchí",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "24742": {
+   "numero": "C-275-2024",
+   "fecha": "25/11/2024",
+   "consultante": "Mora Navarro Margoth",
+   "institucion": "Municipalidad de Buenos Aires",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "24743": {
+   "numero": "C-276-2024",
+   "fecha": "25/11/2024",
+   "consultante": "López Obregón Aura Yamilet",
+   "institucion": "Municipalidad de Upala",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público",
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "24733": {
+   "numero": "C-274-2024",
+   "fecha": "25/11/2024",
+   "consultante": "Munive Angermüller Mary Dennise",
+   "institucion": "Consejo Nacional de la Persona Adulta Mayor",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público",
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "24680": {
+   "numero": "C-250-2024",
+   "fecha": "28/10/2024",
+   "consultante": "Urbina Jiménez Marvin",
+   "institucion": "Municipalidad de Golfito",
+   "consultas": [
+    "10159"
+   ]
+  },
+  "24687": {
+   "numero": "C-248-2024",
+   "fecha": "28/10/2024",
+   "consultante": "Ulloa Villalobos Rosaysella",
+   "institucion": "Banco Nacional de Costa Rica",
+   "consultas": [
+    "10159",
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "25244": {
+   "numero": "C-239-2025",
+   "fecha": "08/12/2025",
+   "consultante": "Ramírez Solano Fernando",
+   "institucion": "Instituto Costarricense sobre Drogas",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "25149": {
+   "numero": "C-212-2025",
+   "fecha": "15/10/2025",
+   "consultante": "Navarro Romanini Silvia",
+   "institucion": "Corte Suprema de Justicia",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "25182": {
+   "numero": "C-211-2025",
+   "fecha": "15/10/2025",
+   "consultante": "Araya Porras Ana Miriam",
+   "institucion": "Secretaría Técnica de la Autoridad Presupuestaria",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "25148": {
+   "numero": "C-210-2025",
+   "fecha": "14/10/2025",
+   "consultante": "Munive Angermüller Mary Denisse",
+   "institucion": "Ministerio de Salud",
+   "consultas": [
+    "10159"
+   ]
+  },
+  "25147": {
+   "numero": "C-207-2025",
+   "fecha": "13/10/2025",
+   "consultante": "Andrés Jácome Luis Fernando",
+   "institucion": "Compañía Nacional de Fuerza y Luz S.A.",
+   "consultas": [
+    "10159",
+    "2166"
+   ]
+  },
+  "25108": {
+   "numero": "C-184-2025",
+   "fecha": "01/09/2025",
+   "consultante": "Cruickshank Lambert Angie",
+   "institucion": "Defensoría de los Habitantes de la República",
+   "consultas": [
+    "10159",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "25080": {
+   "numero": "C-176-2025",
+   "fecha": "11/08/2025",
+   "consultante": "Sánchez Hernández Leonardo",
+   "institucion": "Ministerio de Educación Pública",
+   "consultas": [
+    "10159",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "25628": {
+   "numero": "C-196-2026",
+   "fecha": "02/11/2026",
+   "consultante": "Umaña Villalobos Randall",
+   "institucion": "Instituto Nacional de las Mujeres",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "25635": {
+   "numero": "C-197-2026",
+   "fecha": "02/11/2026",
+   "consultante": "Jiménez Cascante Rodrigo Alfonso",
+   "institucion": "Municipalidad de Mora",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público",
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "25605": {
+   "numero": "C-174-2026",
+   "fecha": "12/10/2026",
+   "consultante": "Araya Porras Ana Miriam",
+   "institucion": "Secretaría Técnica de la Autoridad Presupuestaria",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "25597": {
+   "numero": "C-167-2026",
+   "fecha": "05/10/2026",
+   "consultante": "Chacón Fernández Gabriela",
+   "institucion": "Instituto Nacional de Seguros",
+   "consultas": [
+    "10159",
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "25558": {
+   "numero": "C-145-2026",
+   "fecha": "21/08/2026",
+   "consultante": "Serrano Chinchilla Gabriela",
+   "institucion": "Ministerio de Trabajo y Seguridad Social",
+   "consultas": [
+    "10159",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "25540": {
+   "numero": "C-131-2026",
+   "fecha": "17/08/2026",
+   "consultante": "López Obregón Aura Yamileth",
+   "institucion": "Municipalidad de Upala",
+   "consultas": [
+    "10159",
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "25541": {
+   "numero": "C-132-2026",
+   "fecha": "17/08/2026",
+   "consultante": "Mora González Franklin",
+   "institucion": "Tribunal Supremo de Elecciones",
+   "consultas": [
+    "10159",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "25548": {
+   "numero": "C-136-2026",
+   "fecha": "17/08/2026",
+   "consultante": "Granados Brenes Karla",
+   "institucion": "Asamblea Legislativa",
+   "consultas": [
+    "10159",
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "25517": {
+   "numero": "C-119-2026",
+   "fecha": "27/07/2026",
+   "consultante": "Morales Rojas Carla",
+   "institucion": "Ministerio de Planificación Nacional y Política Económica",
+   "consultas": [
+    "10159",
+    "2166"
+   ]
+  },
+  "23117": {
+   "numero": "C-001-2022",
+   "fecha": "05/01/2022",
+   "consultante": "Centeno Rodríguez Andrea",
+   "institucion": "Junta de Administración Portuaria y de Desarrollo Económico de la Vertiente Atlántica",
+   "consultas": [
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "23941": {
+   "numero": "C-111-2023",
+   "fecha": "24/05/2023",
+   "consultante": "Guillén Guardia Alejandro",
+   "institucion": "Instituto Costarricense de Acueductos y Alcantarillados",
+   "consultas": [
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "24800": {
+   "numero": "C-299-2024",
+   "fecha": "19/12/2024",
+   "consultante": "Munive Angermüller Mary Denisse",
+   "institucion": "Ministerio de Salud",
+   "consultas": [
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "24701": {
+   "numero": "C-258-2024",
+   "fecha": "11/11/2024",
+   "consultante": "Rucavado Leandro Christian",
+   "institucion": "Instituto Nacional de Aprendizaje",
+   "consultas": [
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "25250": {
+   "numero": "C-243-2025",
+   "fecha": "17/12/2025",
+   "consultante": "Araya Porras Ana Miriam",
+   "institucion": "Secretaría Técnica de la Autoridad Presupuestaria",
+   "consultas": [
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "25249": {
+   "numero": "C-238-2025",
+   "fecha": "08/12/2025",
+   "consultante": "Vargas Gómez Paola",
+   "institucion": "Colegio de Profesionales en Psicología de Costa Rica",
+   "consultas": [
+    "Ley Marco de Empleo Público",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "25176": {
+   "numero": "C-221-2025",
+   "fecha": "04/11/2025",
+   "consultante": "Vargas Aguirre Julio César",
+   "institucion": "Municipalidad de Garabito",
+   "consultas": [
+    "Ley Marco de Empleo Público",
+    "2166"
+   ]
+  },
+  "25171": {
+   "numero": "C-217-2025",
+   "fecha": "27/10/2025",
+   "consultante": "López López Diego",
+   "institucion": "Municipalidad de Moravia",
+   "consultas": [
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "25601": {
+   "numero": "C-186-2026",
+   "fecha": "19/10/2026",
+   "consultante": "Ceciliano Alafaro Emmanuel",
+   "institucion": "Municipalidad de Pérez Zeledón",
+   "consultas": [
+    "Ley Marco de Empleo Público",
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "25584": {
+   "numero": "C-163-2026",
+   "fecha": "21/09/2026",
+   "consultante": "Vargas Guerrero José Joaquín",
+   "institucion": "Banco Central de Costa Rica",
+   "consultas": [
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "25573": {
+   "numero": "C-158-2026",
+   "fecha": "18/09/2026",
+   "consultante": "Rescia Barahona Álvaro Fidel",
+   "institucion": "Municipalidad de Desamparados",
+   "consultas": [
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "25566": {
+   "numero": "C-150-2026",
+   "fecha": "16/09/2026",
+   "consultante": "Bogantes Castro Javier",
+   "institucion": "Municipalidad de Abangares",
+   "consultas": [
+    "Ley Marco de Empleo Público"
+   ]
+  },
+  "21728": {
+   "numero": "C-374-2019",
+   "fecha": "17/12/2019",
+   "consultante": "García González Roberth",
+   "institucion": "Poder Judicial",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "21726": {
+   "numero": "C-358-2019",
+   "fecha": "03/12/2019",
+   "consultante": "Soler Rubio Marcel",
+   "institucion": "Municipalidad de Montes de Oca",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "22019": {
+   "numero": "C-353-2019",
+   "fecha": "26/11/2019",
+   "consultante": "Méndez Mata Rodolfo",
+   "institucion": "Ministerio de Obras Públicas y Transportes",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "21664": {
+   "numero": "C-334-2019",
+   "fecha": "11/11/2019",
+   "consultante": "Quesada Rodríguez Alba",
+   "institucion": "Instituto Costarricense del Deporte y la Recreación",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "21667": {
+   "numero": "C-335-2019",
+   "fecha": "11/11/2019",
+   "consultante": "Calderón Umaña Geiner",
+   "institucion": "Municipalidad de Parrita",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "21665": {
+   "numero": "C-329-2019",
+   "fecha": "07/11/2019",
+   "consultante": "Vega Salas Róger",
+   "institucion": "Municipalidad de San Ramón",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "21666": {
+   "numero": "C-331-2019",
+   "fecha": "07/11/2019",
+   "consultante": "Córdoba Soro Alfredo",
+   "institucion": "Municipalidad de San Carlos",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "21643": {
+   "numero": "C-324-2019",
+   "fecha": "06/11/2019",
+   "consultante": "Donaldo Castañeda Abellán",
+   "institucion": "Municipalidad de Liberia",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "21642": {
+   "numero": "C-322-2019",
+   "fecha": "05/11/2019",
+   "consultante": "Bolaños Arguedas Ginneth",
+   "institucion": "Municipalidad de Palmares",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "22484": {
+   "numero": "C-479-2020",
+   "fecha": "17/12/2020",
+   "consultante": "Jiménez Siles Gilberth",
+   "institucion": "Municipalidad de Desamparados",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "22448": {
+   "numero": "C-468-2020",
+   "fecha": "04/12/2020",
+   "consultante": "Crespo Sancho Catalina",
+   "institucion": "Defensoría de los Habitantes de la República",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "22420": {
+   "numero": "C-450-2020",
+   "fecha": "17/11/2020",
+   "consultante": "Cruz Maduro Guiselle",
+   "institucion": "Ministerio de Educación Pública",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "22412": {
+   "numero": "C-434-2020",
+   "fecha": "03/11/2020",
+   "consultante": "Calderón Umaña Yeiner Mauricio",
+   "institucion": "Municipalidad de Turrubares",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "22430": {
+   "numero": "C-428-2020",
+   "fecha": "30/10/2020",
+   "consultante": "Villalobos Astúa Flora",
+   "institucion": "Comisión Nacional de Préstamos para la Educación",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "22385": {
+   "numero": "C-409-2020",
+   "fecha": "19/10/2020",
+   "consultante": "Irola Bonilla Bernardita",
+   "institucion": "Ministerio de Salud",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "22409": {
+   "numero": "C-408-2020",
+   "fecha": "16/10/2020",
+   "consultante": "Acosta Gutiérrez María Wilman",
+   "institucion": "Concejo Municipal del Distrito de Colorado",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "22383": {
+   "numero": "C-402-2020",
+   "fecha": "15/10/2020",
+   "consultante": "Calvo Bonilla Francisco",
+   "institucion": "Radiográfica Costarricense Sociedad Anónima",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "22351": {
+   "numero": "C-396-2020",
+   "fecha": "12/10/2020",
+   "consultante": "Crespo Sancho Catalina",
+   "institucion": "Defensoría de los Habitantes de la República",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "23079": {
+   "numero": "C-342-2021",
+   "fecha": "09/12/2021",
+   "consultante": "Ramírez Segura Eder",
+   "institucion": "Municipalidad de Flores",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "23013": {
+   "numero": "C-302-2021",
+   "fecha": "28/10/2021",
+   "consultante": "Ugalde Rojas Ronald",
+   "institucion": "Municipalidad de Poás",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "23003": {
+   "numero": "C-273-2021",
+   "fecha": "28/09/2021",
+   "consultante": "Rodríguez Steller Erick",
+   "institucion": "Asamblea Legislativa",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "22900": {
+   "numero": "C-240-2021",
+   "fecha": "19/08/2021",
+   "consultante": "Arroyo Herrera Iris Cristina",
+   "institucion": "Municipalidad de Puriscal",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "22898": {
+   "numero": "C-223-2021",
+   "fecha": "09/08/2021",
+   "consultante": "Meléndez Sánchez David",
+   "institucion": "Municipalidad de Tibás",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "22884": {
+   "numero": "C-222-2021",
+   "fecha": "06/08/2021",
+   "consultante": "Molina Marcial Tamara",
+   "institucion": "Colegio de Enfermeras de Costa Rica",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "22807": {
+   "numero": "C-194-2021",
+   "fecha": "30/06/2021",
+   "consultante": "Crespo Sancho Catalina",
+   "institucion": "Defensoría de los Habitantes de la República",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "22837": {
+   "numero": "C-186-2021",
+   "fecha": "28/06/2021",
+   "consultante": "Villegas Valverde Elián",
+   "institucion": "Ministerio de Hacienda",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "23651": {
+   "numero": "C-258-2022",
+   "fecha": "22/11/2022",
+   "consultante": "Arroyo Herrera Iris",
+   "institucion": "Municipalidad de Puriscal",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "23634": {
+   "numero": "C-249-2022",
+   "fecha": "12/11/2022",
+   "consultante": "Vargas Segura Gricelda",
+   "institucion": "Municipalidad de Cañas",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "23623": {
+   "numero": "C-242-2022",
+   "fecha": "07/11/2022",
+   "consultante": "Harley Cárdenas Gledys",
+   "institucion": "Municipalidad de La Cruz",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "23552": {
+   "numero": "C-203-2022",
+   "fecha": "16/09/2022",
+   "consultante": "Fernández Delgado Laura",
+   "institucion": "Ministerio de Planificación Nacional y Política Económica",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "23541": {
+   "numero": "C-196-2022",
+   "fecha": "13/09/2022",
+   "consultante": "Araya Esquivel Mónica",
+   "institucion": "Instituto Nacional de Seguros",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "23503": {
+   "numero": "C-169-2022",
+   "fecha": "11/08/2022",
+   "consultante": "Hernández Méndez Mercedes",
+   "institucion": "Concejo Municipal de Barva",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "24170": {
+   "numero": "C-260-2023",
+   "fecha": "08/12/2023",
+   "consultante": "Herrera Rodríguez Erick",
+   "institucion": "INS Servicios",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "24171": {
+   "numero": "C-258-2023",
+   "fecha": "06/12/2023",
+   "consultante": "Salas Solano Marlon",
+   "institucion": "Colegio de Profesionales en Orientación",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "24147": {
+   "numero": "C-244-2023",
+   "fecha": "27/11/2023",
+   "consultante": "Soto Leitón Douglas",
+   "institucion": "Banco de Costa Rica",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "24150": {
+   "numero": "C-249-2023",
+   "fecha": "27/11/2023",
+   "consultante": "Coto Avendaño Pío Alejandro",
+   "institucion": "Comisión Nacional de Asuntos Indígenas",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "24152": {
+   "numero": "C-234-2023",
+   "fecha": "22/11/2023",
+   "consultante": "Arias Richmond Víctor Luis",
+   "institucion": "Municipalidad de El Guarco",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "24111": {
+   "numero": "C-212-2023",
+   "fecha": "14/11/2023",
+   "consultante": "Arroyo Herrera Iris",
+   "institucion": "Municipalidad de Puriscal",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "24112": {
+   "numero": "C-213-2023",
+   "fecha": "14/11/2023",
+   "consultante": "Henry Arley P.",
+   "institucion": "Instituto Nacional de Vivienda y Urbanismo",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "24750": {
+   "numero": "C-281-2024",
+   "fecha": "02/12/2024",
+   "consultante": "Acosta Jaén Nogui",
+   "institucion": "Ministerio de Hacienda",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "24659": {
+   "numero": "C-232-2024",
+   "fecha": "16/10/2024",
+   "consultante": "Bogantes Cabezas Eric",
+   "institucion": "Autoridad Reguladora de los Servicios Públicos",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "24654": {
+   "numero": "C-228-2024",
+   "fecha": "07/10/2024",
+   "consultante": "Vargas Rodríguez José Andrés",
+   "institucion": "Municipalidad de Palmares",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "24634": {
+   "numero": "C-220-2024",
+   "fecha": "03/10/2024",
+   "consultante": "Fernández Mora Víctor Manuel",
+   "institucion": "Concejo Municipal de Distrito de Colorado de Abangares",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "24642": {
+   "numero": "C-219-2024",
+   "fecha": "03/10/2024",
+   "consultante": "Acuña Mora Marco",
+   "institucion": "Instituto Costarricense de Electricidad",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "25438": {
+   "numero": "C-253-2025",
+   "fecha": "18/12/2025",
+   "consultante": "Miranda Mejía Adirman",
+   "institucion": "Sistema de Emergencias 911",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "25236": {
+   "numero": "C-235-2025",
+   "fecha": "08/12/2025",
+   "consultante": "Mora Navarro Margoth",
+   "institucion": "Municipalidad de Buenos Aires",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "25237": {
+   "numero": "C-236-2025",
+   "fecha": "08/12/2025",
+   "consultante": "Porras Arguedas Karen",
+   "institucion": "Unión Nacional de Gobiernos Locales",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "25189": {
+   "numero": "C-223-2025",
+   "fecha": "17/11/2025",
+   "consultante": "Elizondo Duarte Alexander",
+   "institucion": "Municipalidad de Cañas",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "25590": {
+   "numero": "C-169-2026",
+   "fecha": "12/10/2026",
+   "consultante": "Barrantes Sánchez Antonio Israel",
+   "institucion": "Municipalidad de San José",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "25555": {
+   "numero": "C-146-2026",
+   "fecha": "21/08/2026",
+   "consultante": "Ulloa Villalobos Rosaysella",
+   "institucion": "Banco Nacional de Costa Rica",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "25547": {
+   "numero": "C-135-2026",
+   "fecha": "17/08/2026",
+   "consultante": "León Sánchez Cabo Alexander",
+   "institucion": "Ministerio de Salud",
+   "consultas": [
+    "2166",
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "25521": {
+   "numero": "C-120-2026",
+   "fecha": "27/07/2026",
+   "consultante": "Montero Jiménez Ana Lucrecia",
+   "institucion": "Municipalidad de San Mateo",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "25507": {
+   "numero": "C-113-2026",
+   "fecha": "20/07/2026",
+   "consultante": "Ulloa Villalobos Rosaysella",
+   "institucion": "Banco Nacional de Costa Rica",
+   "consultas": [
+    "2166"
+   ]
+  },
+  "22192": {
+   "numero": "C-369-2019",
+   "fecha": "11/12/2019",
+   "consultante": "Piña Contreras Rodolfo",
+   "institucion": "Consejo Nacional de Supervisión del Sistema Financiero",
+   "consultas": [
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "21612": {
+   "numero": "C-314-2019",
+   "fecha": "24/10/2019",
+   "consultante": "Solís Rodríguez Víctor",
+   "institucion": "Compañía Nacional de Fuerza y Luz S.A.",
+   "consultas": [
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "22480": {
+   "numero": "C-476-2020",
+   "fecha": "15/12/2020",
+   "consultante": "Donato Sancho Mauricio",
+   "institucion": "Fondo Nacional de Becas",
+   "consultas": [
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "22479": {
+   "numero": "C-463-2020",
+   "fecha": "23/11/2020",
+   "consultante": "Lara Blanco Freiner",
+   "institucion": "Municipalidad de Golfito",
+   "consultas": [
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "22465": {
+   "numero": "C-452-2020",
+   "fecha": "18/11/2020",
+   "consultante": "Hernández Camacho Alexander",
+   "institucion": "Colegio Universitario de Cartago",
+   "consultas": [
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "22387": {
+   "numero": "C-414-2020",
+   "fecha": "22/10/2020",
+   "consultante": "Cruickshank Smith Eduardo",
+   "institucion": "Asamblea Legislativa",
+   "consultas": [
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "22799": {
+   "numero": "C-175-2021",
+   "fecha": "21/06/2021",
+   "consultante": "Jiménez Siles Gilberth",
+   "institucion": "Municipalidad de Desamparados",
+   "consultas": [
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "22783": {
+   "numero": "C-179-2021",
+   "fecha": "21/06/2021",
+   "consultante": "Crespo Sancho Catalina",
+   "institucion": "Defensoría de los Habitantes de la República",
+   "consultas": [
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "22790": {
+   "numero": "C-161-2021",
+   "fecha": "08/06/2021",
+   "consultante": "Varela Mata Fabiola",
+   "institucion": "Registro Nacional",
+   "consultas": [
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "23502": {
+   "numero": "C-165-2022",
+   "fecha": "10/08/2022",
+   "consultante": "Vargas Segura Gricelda",
+   "institucion": "Municipalidad de Cañas",
+   "consultas": [
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "23488": {
+   "numero": "C-156-2022",
+   "fecha": "01/08/2022",
+   "consultante": "Acosta Jaén Nogui",
+   "institucion": "Ministerio de Hacienda",
+   "consultas": [
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "24740": {
+   "numero": "C-265-2024",
+   "fecha": "18/11/2024",
+   "consultante": "Céspedes Brenes María del Rocío",
+   "institucion": "Junta Administrativa del Servicio Eléctrico Municipal de Cartago",
+   "consultas": [
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "24739": {
+   "numero": "C-256-2024",
+   "fecha": "11/11/2024",
+   "consultante": "Benavides Vílchez Edgar Allan",
+   "institucion": "Empresa de Servicios Públicos de Heredia",
+   "consultas": [
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "24655": {
+   "numero": "C-229-2024",
+   "fecha": "07/10/2024",
+   "consultante": "Soto Leitón Douglas",
+   "institucion": "Banco de Costa Rica",
+   "consultas": [
+    "Ley de Salarios de la Administración Pública"
+   ]
+  },
+  "25550": {
+   "numero": "C-130-2026",
+   "fecha": "17/08/2026",
+   "consultante": "Cortés Mora Melvin",
+   "institucion": "Municipalidad de Cartago",
+   "consultas": [
+    "Ley de Salarios de la Administración Pública"
+   ]
+  }
+ },
+ "bajados": {
+  "25628": "ya estaba",
+  "25635": "ya estaba",
+  "25601": "ya estaba",
+  "25605": "ya estaba",
+  "25590": "ya estaba",
+  "25597": "ya estaba",
+  "25584": "ya estaba",
+  "25573": "ya estaba",
+  "25566": "ya estaba",
+  "25558": "ya estaba",
+  "25555": "ya estaba",
+  "25540": "ya estaba",
+  "25541": "ya estaba",
+  "25548": "ya estaba",
+  "25547": "ya estaba",
+  "25550": "C-130-2026",
+  "25517": "ya estaba",
+  "25521": "ya estaba",
+  "25507": "ya estaba",
+  "25438": "C-253-2025",
+  "25250": "C-243-2025",
+  "25244": "ya estaba",
+  "25249": "ya estaba",
+  "25236": "C-235-2025",
+  "25237": "ya estaba",
+  "25189": "C-223-2025",
+  "25176": "ya estaba",
+  "25171": "ya estaba",
+  "25149": "ya estaba",
+  "25182": "C-211-2025",
+  "25148": "ya estaba",
+  "25147": "ya estaba",
+  "25108": "ya estaba",
+  "25080": "ya estaba",
+  "24800": "ya estaba",
+  "24761": "ya estaba",
+  "24798": "C-291-2024",
+  "24751": "ya estaba",
+  "24750": "C-281-2024",
+  "24737": "ya estaba",
+  "24742": "C-275-2024",
+  "24743": "ya estaba",
+  "24733": "C-274-2024",
+  "24740": "C-265-2024",
+  "24701": "C-258-2024",
+  "24739": "C-256-2024",
+  "24680": "C-250-2024",
+  "24687": "C-248-2024",
+  "24659": "C-232-2024",
+  "24654": "C-228-2024",
+  "24655": "C-229-2024",
+  "24634": "C-220-2024",
+  "24642": "ya estaba",
+  "24170": "ya estaba",
+  "24171": "C-258-2023",
+  "24147": "ya estaba",
+  "24150": "ya estaba",
+  "24152": "C-234-2023",
+  "24117": "C-226-2023",
+  "24109": "ya estaba",
+  "24111": "C-212-2023",
+  "24112": "ya estaba",
+  "24517": "ya estaba",
+  "24092": "C-188-2023",
+  "24039": "C-168-2023",
+  "24038": "C-161-2023",
+  "24008": "C-136-2023",
+  "23999": "C-135-2023",
+  "23942": "C-113-2023",
+  "23998": "C-114-2023",
+  "23941": "C-111-2023",
+  "23683": "C-276-2022",
+  "23651": "C-258-2022",
+  "23634": "C-249-2022",
+  "23623": "C-242-2022",
+  "23552": "C-203-2022",
+  "23541": "C-196-2022",
+  "23503": "ya estaba",
+  "23502": "C-165-2022",
+  "23488": "C-156-2022",
+  "23445": "ya estaba",
+  "23284": "C-082-2022",
+  "23117": "C-001-2022",
+  "23079": "C-342-2021",
+  "23013": "ya estaba",
+  "23003": "C-273-2021",
+  "22900": "C-240-2021",
+  "22898": "ya estaba",
+  "22884": "C-222-2021",
+  "22807": "ya estaba",
+  "22837": "C-186-2021",
+  "22799": "C-175-2021",
+  "22783": "C-179-2021",
+  "22790": "C-161-2021",
+  "22484": "C-479-2020",
+  "22480": "ya estaba",
+  "22448": "C-468-2020",
+  "22479": "C-463-2020",
+  "22465": "C-452-2020",
+  "22420": "C-450-2020",
+  "22412": "C-434-2020",
+  "22430": "C-428-2020",
+  "22387": "C-414-2020",
+  "22385": "ya estaba",
+  "22409": "C-408-2020",
+  "22383": "C-402-2020",
+  "22351": "C-396-2020",
+  "21728": "C-374-2019",
+  "22192": "C-369-2019",
+  "21726": "C-358-2019",
+  "22019": "ya estaba",
+  "21664": "C-334-2019",
+  "21667": "ya estaba",
+  "21665": "C-329-2019",
+  "21666": "ya estaba",
+  "21643": "C-324-2019",
+  "21642": "ya estaba",
+  "21612": "C-314-2019"
+ },
+ "descartados": {}
+}
