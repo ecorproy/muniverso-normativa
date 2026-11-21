@@ -99,14 +99,19 @@ def main():
                 clave = f"{c['q']}|{anio}"
                 if clave in estado["busquedas"] or not tiempo():
                     continue
-                total, n = 0, 1
-                while n <= 80:
+                total, n, vistos_q = 0, 1, set()
+                while n <= 150:
                     r = pagina(pg, c["q"], anio, n)
                     time.sleep(3)
                     if r is None:
                         estado["busquedas"][clave] = f"sin respuesta en la página {n}"
                         break
                     nuevos = 0
+                    pagina_ids = {i for _, i in r}
+                    if not pagina_ids or pagina_ids <= vistos_q:
+                        estado["busquedas"][clave] = f"{total} dictámenes en {n - 1} página(s)"
+                        break
+                    vistos_q |= pagina_ids
                     for (tipo, num, fecha, cons, inst), i in r:
                         if tipo != "Dictamen":
                             continue
@@ -118,9 +123,7 @@ def main():
                         elif c["q"] not in estado["inv"][i]["consultas"]:
                             estado["inv"][i]["consultas"].append(c["q"])
                         total += 1
-                    if len(r) < 50 or nuevos == 0 and n > 1:
-                        estado["busquedas"][clave] = f"{total} dictámenes en {n} página(s)"
-                        break
+                    # SINALEVI entrega 10 resultados por página aunque se pidan más: se sigue hasta una página vacía o repetida.
                     n += 1
                 print(f"«{c['q']}» {anio}: {estado['busquedas'].get(clave)}", flush=True)
                 guardar(estado)

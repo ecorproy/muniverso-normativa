@@ -2,9 +2,26 @@
  "carpeta": "22 Empleo público (Ley Marco y Ley de Salarios)",
  "materia": "Empleo público (Ley Marco y Ley de Salarios)",
  "consultas": [
-  {"q": "10159", "desde": 2022, "exige": "10159|10\\.159|Ley Marco de Empleo P[úu]blico"},
-  {"q": "Ley Marco de Empleo Público", "desde": 2022, "exige": "10159|10\\.159|Ley Marco de Empleo P[úu]blico"},
-  {"q": "2166", "desde": 2019, "exige": "Ley\\s*(N[°º.o]*\\s*)?2166|n[.°º]+\\s*2166|Ley de Salarios de la Administraci[óo]n P[úu]blica"},
-  {"q": "Ley de Salarios de la Administración Pública", "desde": 2019, "exige": "Ley\\s*(N[°º.o]*\\s*)?2166|n[.°º]+\\s*2166|Ley de Salarios de la Administraci[óo]n P[úu]blica"}
- ]
+  {
+   "q": "10159",
+   "desde": 2022,
+   "exige": "10159|10\\.159|Ley Marco de Empleo P[úu]blico"
+  },
+  {
+   "q": "Ley Marco de Empleo Público",
+   "desde": 2022,
+   "exige": "10159|10\\.159|Ley Marco de Empleo P[úu]blico"
+  },
+  {
+   "q": "2166",
+   "desde": 2019,
+   "exige": "Ley\\s*(N[°º.o]*\\s*)?2166|n[.°º]+\\s*2166|Ley de Salarios de la Administraci[óo]n P[úu]blica"
+  },
+  {
+   "q": "Ley de Salarios de la Administración Pública",
+   "desde": 2019,
+   "exige": "Ley\\s*(N[°º.o]*\\s*)?2166|n[.°º]+\\s*2166|Ley de Salarios de la Administraci[óo]n P[úu]blica"
+  }
+ ],
+ "corrida": 2
 }
