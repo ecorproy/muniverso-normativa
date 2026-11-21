@@ -43,5 +43,75 @@
   "solo_vigentes": true,
   "prioridad": "Seguridad Municipal 360°",
   "ultimo": "sin coincidencia única en SINALEVI: "
+ },
+ {
+  "tipo": "Ley",
+  "numero": "10",
+  "carpeta": "Social",
+  "solo_vigentes": true,
+  "prioridad": "Seguridad Municipal 360°"
+ },
+ {
+  "tipo": "Ley",
+  "numero": "10192",
+  "carpeta": "Social",
+  "solo_vigentes": true,
+  "prioridad": "Seguridad Municipal 360°"
+ },
+ {
+  "tipo": "Ley",
+  "numero": "9051",
+  "carpeta": "Municipal",
+  "solo_vigentes": true,
+  "prioridad": "Seguridad Municipal 360°"
+ },
+ {
+  "tipo": "Ley",
+  "numero": "10595",
+  "carpeta": "Municipal",
+  "solo_vigentes": true,
+  "prioridad": "Seguridad Municipal 360°"
+ },
+ {
+  "tipo": "Ley",
+  "numero": "7552",
+  "carpeta": "Municipal",
+  "solo_vigentes": true,
+  "prioridad": "Seguridad Municipal 360°"
+ },
+ {
+  "tipo": "Ley",
+  "numero": "5176",
+  "carpeta": "Social",
+  "solo_vigentes": true,
+  "prioridad": "Seguridad Municipal 360°"
+ },
+ {
+  "tipo": "Ley",
+  "numero": "10376",
+  "carpeta": "Social",
+  "solo_vigentes": true,
+  "prioridad": "Seguridad Municipal 360°"
+ },
+ {
+  "tipo": "Ley",
+  "numero": "9615",
+  "carpeta": "Administrativo",
+  "solo_vigentes": true,
+  "prioridad": "Seguridad Municipal 360°"
+ },
+ {
+  "tipo": "Ley",
+  "numero": "10485",
+  "carpeta": "Municipal",
+  "solo_vigentes": true,
+  "prioridad": "Seguridad Municipal 360°"
+ },
+ {
+  "tipo": "Ley",
+  "numero": "7769",
+  "carpeta": "Social",
+  "solo_vigentes": true,
+  "prioridad": "Seguridad Municipal 360°"
  }
 ]
