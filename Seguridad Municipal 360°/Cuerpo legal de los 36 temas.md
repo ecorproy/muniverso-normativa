@@ -13,6 +13,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - CM, art. 71: ayudas temporales a vecinos en situación de desgracia o infortunio; subvenciones a centros de educación pública, beneficencia o servicio social.
 - CM, art. 83: tasas por los servicios municipales.
 - LGAP, art. 12.1: el servicio público se considera autorizado cuando se ha indicado el sujeto y el fin.
+- Ley N.° 7762, Ley General de Concesión de Obras Públicas con Servicios Públicos, art. 5: concesión de obras y servicios públicos por los gobiernos locales.
 - Ley N.° 8801, Ley General de transferencia de competencias del Poder Ejecutivo a las Municipalidades, arts. 1 y 2: transferencia de competencias y recursos del Poder Ejecutivo a los gobiernos locales.
 - Ley N.° 8173, Ley General de Concejos Municipales de Distrito, art. 1: concejos municipales de distrito.
 - Ley N.° 7509, Ley de Impuesto sobre Bienes Inmuebles, art. 3: las municipalidades son administración tributaria del impuesto.
@@ -39,6 +40,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - Ley N.° 6035, Mercados libres de productores y artesanos en locales municipales, art. 1.
 - CM, art. 57: los concejos de distrito proponen beneficiarios de bonos de alimentación; art. 71.
 - Ley N.° 10750, art. 9.
+- Ley N.° 10718, Ley para la Creación de la Política Nacional de Ferias Institucionales y Comerciales, art. 4: las municipalidades pueden solicitar su incorporación y coordinar la realización de ferias institucionales y municipales.
 
 **4. Integridad personal y de bienes**
 - CM, arts. 61 a 68: policía municipal, competencia, atribuciones y carácter de servicio público; art. 83.
@@ -47,6 +49,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - Ley N.° 7410, General de Policía, arts. 6 bis, 6 ter y 8, inciso j).
 - Ley N.° 7530, Armas y Explosivos, art. 5.
 - Ley N.° 8892, Regulación de mecanismos de vigilancia del acceso a barrios residenciales con el fin de garantizar el derecho fundamental a la libertad de tránsito, art. 2: las municipalidades autorizan casetas y mecanismos de vigilancia de acceso a barrios, caseríos y residenciales.
+- Ley N.° 9552, Creación de la Academia Nacional de Policía, art. 3, inciso c): formación y capacitación de los policías municipales.
 
 **5. Seguridad vial**
 - Ley N.° 9078, Tránsito por Vías Públicas Terrestres y Seguridad Vial, art. 214: inspectores municipales de tránsito; arts. 131, 132 y 234.
@@ -65,6 +68,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - Ley N.° 8228, Benemérito Cuerpo de Bomberos, art. 10: plan básico.
 - Ley N.° 7566, Sistema de Emergencias 9-1-1, art. 20.
 - Ley N.° 8641, Declaratoria del servicio de hidrantes como servicio público y reforma de leyes conexas, art. 7: reforma el art. 87 de la Ley N.° 833; vigilancia municipal de las obras y de su uso.
+- Ley N.° 8992, Fortalecimiento económico del Benemérito Cuerpo de Bomberos de Costa Rica, art. 2: autorización a las municipalidades para otorgar donaciones al Cuerpo de Bomberos.
 
 **7. Adicciones**
 - Ley N.° 9047, Regulación y Comercialización de bebidas con contenido alcohólico, arts. 2, 3, 4, 9, 25 y 26: la municipalidad otorga las licencias, vela por el cumplimiento de la ley y regula la comercialización y el consumo en actividades cantonales.
@@ -139,15 +143,19 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - Ley N.° 10254, Comercio sobre ruedas, arts. 4, 8 y 9: permiso temporal municipal.
 - Ley N.° 8724, Fomento del Turismo Rural Comunitario, art. 3: autorización a las municipalidades para impulsar actividades de apoyo al turismo rural comunitario.
 - Ley N.° 8828, Ley Reguladora de la Actividad de las Sociedades Públicas de Economía Mixta, arts. 2 y 3: sociedades públicas de economía mixta para obras y servicios públicos municipales.
+- Ley N.° 4179, Ley de Asociaciones Cooperativas, art. 14: las municipalidades quedan facultadas para asociarse a las cooperativas, auxiliarlas con subvenciones y donarles terrenos, locales u otras facilidades.
 
 ## Cuadrante III. Protección especial (CP, art. 51)
 
 **19. Familia**
 - CP, art. 51.
 - CM, art. 57: bonos de vivienda y alimentación y becas; art. 71.
+- Ley N.° 9137, Crea Sistema Nacional de Información y Registro Único de Beneficiarios del Estado (SINIRUBE), art. 20: integración de los gobiernos locales que brinden servicios, asistencias, subsidios o auxilios económicos.
+- Ley N.° 1860, Ley Orgánica del Ministerio de Trabajo y Seguridad Social, art. 120: autorización a las municipalidades para destinar partidas a los Hogares Escuela de cada comunidad.
 
 **20. Maternidad y primera infancia**
 - Ley N.° 9220, Red Nacional de Cuido y Desarrollo Infantil, arts. 4 y 5, inciso k).
+- Ley N.° 1860, art. 120.
 
 **21. Niñez**
 - Ley N.° 7739, Código de la Niñez y la Adolescencia, art. 75: espacios culturales y recreativos; art. 96: censo anual municipal de personas menores de edad que trabajan.
@@ -181,6 +189,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - Ley N.° 9822, Reconocimiento y promoción de la Lenguaje de Señas Costarricense (LESCO), declara el 19 de julio Día de la Lengua de Señas Costarricense (lesco), declara el 21 de setiembre Día de la Comunidad de Personas Sordas de Costa Rica, art. 30: faculta a las municipalidades a atender las necesidades de las personas sordas.
 - Ley N.° 10528, Ley Promoción y Fomento del Programa de Turismo para todas las personas, art. 4, inciso h): coordinación con los gobiernos locales de programas de turismo accesible.
 - Ley N.° 10215, Crea Programa Inclusión Social y Laboral de las personas adultas con discapacidad (INSOLAPAD), art. 8, inciso f): convenios con las municipalidades para la inclusión social y laboral.
+- Ley N.° 9303, Creación del Consejo Nacional de Personas con Discapacidad, art. 3, inciso g): asesoramiento a los gobiernos locales en la constitución de las comisiones municipales de accesibilidad y discapacidad.
 
 **25. Cuido**
 - Ley N.° 9220, arts. 4 y 5, inciso k).
@@ -198,6 +207,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - Ley N.° 9145, Prevención y sanción de la violencia en eventos deportivos, art. 10.
 - CM, art. 57.
 - Ley N.° 8892, art. 2.
+- Ley N.° 9434, Ley para impulsar la venta de servicios, bienes comercializables y arrendamiento de bienes por parte de las Asociaciones para el Desarrollo de las Comunidades a la Administración Pública, art. 1: adiciona el art. 14 bis a la Ley N.° 3859; las asociaciones de desarrollo pueden vender servicios y arrendar bienes a la Administración Pública.
 
 ## Cuadrante IV. Bienestar y entorno (CP, art. 50)
 
@@ -213,6 +223,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - Ley N.° 8839, Gestión Integral de Residuos, art. 8: las municipalidades son responsables de la gestión integral de los residuos generados en su cantón.
 - CM, arts. 83, 84 y 85.
 - Ley N.° 9786, Ley para combatir la contaminación por plástico y proteger el ambiente, art. 6: prohibición a las municipalidades de adquirir plástico de un solo uso.
+- Ley N.° 9828, Uso de materiales reutilizables en pavimentos y obras de infraestructura vial, art. 1: uso de materiales reutilizables en las obras que las municipalidades ejecuten en las vías cantonales.
 
 **30. Ambiente y arbolado**
 - CP, arts. 50 y 89.
@@ -224,6 +235,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - Ley N.° 7317, Ley de Conservación de la Vida Silvestre, arts. 13 y 84: colaboración municipal y refugios de vida silvestre en terrenos municipales.
 - Ley N.° 7779, Uso, Manejo y Conservación de Suelos, arts. 24 y 34: representación municipal en los comités de uso, manejo y conservación de suelos.
 - Ley N.° 68, Ley de Protección de las Cuencas Hidrograficas, arts. 2 y 4.
+- Ley N.° 10124, Ley para la conservación y desarrollo sostenible de los ecosistemas de humedales de San Vito de Coto Brus, art. 3: zonificación de cuencas en coordinación con el gobierno local.
 
 **31. Animales**
 - Ley N.° 2391, Matrícula y vacunación de perros, arts. 1 y 2.
@@ -240,6 +252,8 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - Ley N.° 833, Construcciones, art. 1.
 - Ley N.° 7935, art. 28.
 - Ley N.° 9242, Ley para la regulación de las construcciones existentes en la Zona Restringida de la Zona Marítimo Terrestre, arts. 3 y 4: construcciones existentes en la zona restringida de la zona marítimo terrestre.
+- Ley N.° 10000, Ampliación de los alcances de la ley N° 9577, Protección a los ocupantes de zonas clasificadas como especiales, art. 6: autorización a las municipalidades para aplicar la moratoria en las zonas de su competencia.
+- Ley N.° 10981, Ley de creación del Ministerio de Vivienda y Asentamientos Humanos, art. 3, inciso g): coordinación con los gobiernos locales de programas de asentamientos humanos.
 
 **33. Espacio público y movilidad**
 - Ley N.° 4240, Planificación Urbana, art. 15: competencia municipal para planificar y controlar el desarrollo urbano.
@@ -252,6 +266,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - Ley N.° 8668, Regulación de la Extracción de Materiales de Canteras y Cauces de Dominio Público por Parte de las Municipalidades, arts. 1 y 2: permisos especiales de extracción de materiales para obras de infraestructura cantonal.
 - Ley N.° 3535, Ley de Creación de la Comisión Nacional de Nomenclatura, art. 5: dictamen previo de la Comisión Nacional de Nomenclatura.
 - Ley N.° 9221, Ley marco para la declaratoria de zona urbana litoral y su régimen de uso y aprovechamiento territorial, art. 5: la declaratoria de zona urbana litoral requiere solicitud de la municipalidad y plan regulador costero.
+- Ley N.° 9828, art. 1.
 
 **34. Cultura y patrimonio**
 - CP, art. 89.
@@ -267,6 +282,8 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - Ley N.° 8894, Creación del Sistema Nacional de Educación Musical, art. 9, inciso f), y art. 10: escuelas de música municipales y aportes municipales al sistema.
 - Ley N.° 7440, Ley de Espectáculos Públicos, Materiales Audiovisuales e Impresos, art. 18: la municipalidad nombra las comisiones auxiliares cantonales.
 - Ley N.° 6844, Establece Impuesto a Espectáculos Públicos a favor de Municipalidades, reforma norma Todos bienes muebles e inmuebles, rentas y recursos de Junta Nacional de la Habitación y 'Cooperativas Casas Baratas, La Familia', pasará a la CCSS, arts. 2 y 3: cobro y multa del impuesto de espectáculos públicos.
+- Ley N.° 6990, Incentivos para el Desarrollo Turístico, art. 6 bis: las municipalidades pueden crear una bolsa artística y de identidad cultural.
+- Ley N.° 3481, Ley Orgánica del Ministerio de Educación Pública, art. 58: las bibliotecas municipales integran el servicio bibliotecario.
 
 **35. Deporte y recreación**
 - CP, art. 89.
@@ -283,3 +300,5 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - Ley N.° 10234, Fortalecimiento de la competitividad territorial, arts. 15 y 15 bis.
 - Ley N.° 8724, art. 3; Ley N.° 8828, arts. 2 y 3.
 - Ley N.° 7744, Ley de Concesión y Operación de marinas y atracaderos turísticos, art. 1: la municipalidad del lugar es la autoridad competente para otorgar la concesión.
+- Ley N.° 4179, art. 14; Ley N.° 10718, art. 4.
+- Ley N.° 9036, Transforma el Instituto de Desarrollo Agrario (IDA) en el Instituto de Desarrollo Rural (INDER) y Crea Secretaría Técnica de Desarrollo Rural, art. 5: desarrollo rural en coordinación con los gobiernos locales.
