@@ -39,6 +39,7 @@ Votos que la capa analiza en su propia ficha.
 | [2018-001141](Sentencia%202018-001141.md) | 2018-01-26 | 17-019518-0007-CO | MUNICIPALIDAD DE CARTAGO |  |
 | [2018-011414](Sentencia%202018-011414.md) | 2018-07-17 | 18-001560-0007-CO | la Municipalidad de San Rafael de Heredia (Calle Charquillo) | Sin lugar |
 | [2018-012823](Sentencia%202018-012823.md) | 2018-08-10 | 18-009635-0007-CO | MUNICIPALIDAD DE PUNTARENAS Y EL MINISTERIO DE OBRAS PÚBLICAS Y TRANSPORTES |  |
+| [2019-012823](Sentencia%202019-012823.md) | 2019-07-12 | 19-010339-0007-CO | el Ministerio de Seguridad Pública (despido de un policía alegando alcoholismo; lateral) | Sin lugar |
 | [2020-003020](Sentencia%202020-003020.md) | 2020-02-14 | 20-001488-0007-CO | EL ALCALDE Y EL JEFE DE LA UNIDAD TECNICA DE GESTION VIAL, AMBOS DE LA MUNICIPALIDAD DE GU | Con lugar |
 | [2020-008465](Sentencia%202020-008465.md) | 2020-05-08 | 20-005435-0007-CO | la Municipalidad de Parrita y el MEP (cierre del CECUDI de La Loma) | Sin lugar |
 | [2020-009780](Sentencia%202020-009780.md) | 2020-05-29 | 20-007829-0007-CO | Municipalidad de San José |  |
