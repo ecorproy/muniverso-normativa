@@ -207,6 +207,9 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 **34. Cultura y patrimonio**
 - CP, art. 89.
 - CM, art. 4, inciso l); art. 49: Comisión de Asuntos Culturales; art. 71.
+- CM, art. 195: los fondos de la Ley N.° 6282 pueden utilizarse en la construcción, mantenimiento, reparaciones, material y equipo de las bibliotecas municipales de la jurisdicción.
+- Procuraduría General de la República, dictamen C-363-2014, de 29 de octubre de 2014.
+- Contraloría General de la República, oficio N.° 14467 (DJ-1340), de 9 de octubre de 2018: los fondos de la Ley N.° 6282 tienen destino específico legal y no pueden aplicarse a otras necesidades del cantón.
 - Ley N.° 7555, Patrimonio Histórico-Arquitectónico, arts. 7 y 9.
 - Ley N.° 7739, art. 75.
 
