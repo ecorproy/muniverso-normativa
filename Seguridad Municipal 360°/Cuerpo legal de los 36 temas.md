@@ -34,15 +34,15 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 
 **4. Integridad personal y de bienes**
 - CM, arts. 61 a 68: policía municipal, competencia, atribuciones y carácter de servicio público; art. 83.
-- Ley N.° 9542, Fortalecimiento de la Policía Municipal.
-- Ley N.° 10515, Modernización de la Policía Municipal.
+- Ley N.° 9542, Fortalecimiento de la Policía Municipal, art. 1: adiciona al CM el capítulo de policía municipal (arts. 61 a 69).
+- Ley N.° 10515, Modernización de la Policía Municipal, artículo único: reforma el art. 234, inciso d), de la Ley N.° 9078; el 95% de las multas confeccionadas por los inspectores municipales de tránsito se transfiere a la municipalidad.
 - Ley N.° 7410, General de Policía, arts. 6 bis, 6 ter y 8, inciso j).
 - Ley N.° 7530, Armas y Explosivos, art. 5.
 
 **5. Seguridad vial**
 - Ley N.° 9078, Tránsito por Vías Públicas Terrestres y Seguridad Vial, art. 214: inspectores municipales de tránsito; arts. 131, 132 y 234.
 - Ley N.° 5060, General de Caminos Públicos, art. 1: red vial cantonal.
-- Ley N.° 9329, Transferencia de competencias: atención plena y exclusiva de la red vial cantonal.
+- Ley N.° 9329, Transferencia de competencias, arts. 1 y 2: atención plena y exclusiva de la red vial cantonal por los gobiernos locales.
 - Ley N.° 9976, Movilidad peatonal, arts. 1 y 2.
 - Ley N.° 9660, Movilidad y Seguridad Ciclística, art. 3.
 - Ley N.° 6324, Administración Vial, art. 15.
@@ -65,6 +65,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 **9. Final de la vida**
 - Ley N.° 704, Propiedad y arrendamiento de tumbas en cementerios, art. 1.
 - Ley N.° 5395, General de Salud, arts. 326, 327 y 329.
+- Decreto Ejecutivo N.° 32833, Reglamento General de Cementerios, art. 4: la Administración Municipal puede asumir la prestación del servicio cuando no se integre la junta administradora.
 - CM, art. 71.
 
 ## Cuadrante II. Dignidad (CP, art. 33)
@@ -72,7 +73,6 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 **10. Igualdad y no discriminación**
 - CP, art. 33.
 - CM, art. 4, inciso h); art. 13: perspectiva de género y eliminación de toda forma de discriminación; art. 17: programa de gobierno con enfoque de derechos humanos.
-- Ley N.° 4230, contra la Discriminación Racial.
 - Ley N.° 7600, Igualdad de Oportunidades para las Personas con Discapacidad, art. 9.
 
 **11. Igualdad de género**
@@ -89,7 +89,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - CP, art. 27.
 - LGAP, arts. 113 y 114.
 - Ley N.° 8220, Protección al ciudadano del exceso de requisitos y trámites administrativos, art. 1.
-- Ley N.° 9097, Regulación del Derecho de Petición.
+- Ley N.° 9097, Regulación del Derecho de Petición, arts. 1 y 2: derecho de petición ante cualquier administración pública, centralizada o descentralizada.
 
 **14. Información y transparencia**
 - CP, arts. 11 y 30.
@@ -118,7 +118,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - CM, art. 4, inciso h); art. 88: licencia municipal.
 - Ley N.° 6587, Patentes para ventas ambulantes y estacionarias en las vías públicas, art. 1.
 - Ley N.° 10126, Comercio al aire libre, art. 1.
-- Ley N.° 10254, Comercio sobre ruedas.
+- Ley N.° 10254, Comercio sobre ruedas, arts. 4, 8 y 9: permiso temporal municipal.
 
 ## Cuadrante III. Protección especial (CP, art. 51)
 
@@ -131,18 +131,22 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 
 **21. Niñez**
 - Ley N.° 7739, Código de la Niñez y la Adolescencia, art. 75: espacios culturales y recreativos; art. 96: censo anual municipal de personas menores de edad que trabajan.
+- Ley N.° 7552, Subvención a las Juntas de Educación y Juntas Administrativas por las Municipalidades, art. 1: al menos el 10% de lo recaudado por el impuesto sobre bienes inmuebles.
 - CM, arts. 57 y 71.
 
 **22. Adolescencia y juventud**
 - Ley N.° 8261, General de la Persona Joven, arts. 2 y 24: comités cantonales de la persona joven.
+- Ley N.° 8261, arts. 30 a 34: casas cantonales y distritales de la juventud; préstamo de inmuebles municipales, financiamiento y convenios.
+- Ley N.° 7552, Subvención a las Juntas de Educación y Juntas Administrativas por las Municipalidades, art. 1: al menos el 10% de lo recaudado por el impuesto sobre bienes inmuebles.
 - Ley N.° 10561, arts. 4 y 6.
 - CM, art. 49.
 
 **23. Personas adultas mayores**
 - CM, art. 13, inciso t).
-- Ley N.° 10046, Oficina de la persona adulta mayor y de personas en situación de discapacidad en las municipalidades.
-- Ley N.° 10546, Fortalecimiento de la Oficina Municipal de la persona adulta mayor y de personas en situación de discapacidad.
+- Ley N.° 10046, Oficina de la persona adulta mayor y de personas en situación de discapacidad en las municipalidades: reforma el art. 13, inciso t), del CM.
+- Ley N.° 10546, Fortalecimiento de la Oficina Municipal de la persona adulta mayor y de personas en situación de discapacidad, art. 1: reforma el párrafo tercero del inciso t) del art. 13 del CM.
 - Ley N.° 7935, Integral para la Persona Adulta Mayor, arts. 3 y 28.
+- Ley N.° 10192, Sistema Nacional de Cuidados y Apoyos para Personas Adultas y Personas Adultas Mayores en Situación de Dependencia, art. 8, inciso j): coordinación y articulación con los gobiernos locales; art. 30: autorización a las municipalidades para donar bienes, servicios y recursos a las entidades del sistema.
 
 **24. Personas con discapacidad**
 - CM, art. 13, inciso t); art. 49: Comisión Municipal de Accesibilidad; art. 83 bis.
@@ -152,11 +156,13 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 
 **25. Cuido**
 - Ley N.° 9220, arts. 4 y 5, inciso k).
+- Ley N.° 10192, Sistema Nacional de Cuidados y Apoyos para Personas Adultas y Personas Adultas Mayores en Situación de Dependencia, art. 8, inciso j): coordinación y articulación con los gobiernos locales; art. 30: autorización a las municipalidades para donar bienes, servicios y recursos a las entidades del sistema.
 - CM, art. 13, inciso t).
 
 **26. Violencia doméstica**
 - CM, art. 4, inciso i); art. 49; arts. 61 y 62.
 - Ley N.° 7801, art. 4, inciso e).
+- Ley N.° 8688, Sistema Nacional para la Atención y Prevención de la Violencia contra las Mujeres y la Violencia Intrafamiliar, art. 3, inciso d): redes interinstitucionales y comunitarias para el impulso de políticas locales; art. 13: redes locales de atención y prevención.
 
 **27. Convivencia vecinal**
 - Ley N.° 3859, Desarrollo de la Comunidad, arts. 14 bis y 18.
@@ -170,6 +176,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - CP, art. 50.
 - Ley N.° 1634, General de Agua Potable, arts. 4 y 5.
 - Ley N.° 276, Ley de Aguas, art. 41.
+- Ley N.° 10595, Ley para permitir a las municipalidades la construcción de obra de acueducto y alcantarillado, artículo único: convenios del Instituto Costarricense de Acueductos y Alcantarillados con las municipalidades para construir, ampliar y rehabilitar obras de agua potable y alcantarillado.
 - CM, art. 83.
 
 **29. Residuos y limpieza**
@@ -192,6 +199,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 
 **32. Vivienda**
 - CM, art. 4, inciso k), adicionado por el art. 24 de la Ley N.° 10199, Ley de vivienda municipal; art. 57.
+- Ley N.° 10199, Ley de vivienda municipal, arts. 1, 3, 4 y 5: habilitación para desarrollar y gestionar proyectos de vivienda municipal; uso y adquisición de terrenos.
 - Ley N.° 4240, Planificación Urbana, art. 15.
 - Ley N.° 833, Construcciones, art. 1.
 - Ley N.° 7935, art. 28.
@@ -201,7 +209,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - Ley N.° 833, Construcciones, art. 1.
 - Ley N.° 9976, Movilidad peatonal, arts. 1 y 2: gestión exclusiva de las aceras en la red vial cantonal.
 - Ley N.° 9660, art. 3.
-- Ley N.° 5060, art. 1; Ley N.° 9329.
+- Ley N.° 5060, art. 1; Ley N.° 9329, arts. 1 y 2.
 - CM, arts. 83, 83 bis y 84.
 
 **34. Cultura y patrimonio**
@@ -211,16 +219,19 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - Procuraduría General de la República, dictamen C-363-2014, de 29 de octubre de 2014.
 - Contraloría General de la República, oficio N.° 14467 (DJ-1340), de 9 de octubre de 2018: los fondos de la Ley N.° 6282 tienen destino específico legal y no pueden aplicarse a otras necesidades del cantón.
 - Ley N.° 7555, Patrimonio Histórico-Arquitectónico, arts. 7 y 9.
+- Ley N.° 5176, Faculta a Gobierno y Autónomas para Promover Arte y Cultura Nacionales, art. 1: faculta a las municipalidades a consignar partidas presupuestarias para promover la literatura y las artes.
+- Ley N.° 10025, Fomento a la lectura, el libro y las bibliotecas, art. 9: convenios con los gobiernos locales para bibliotecas comunitarias; art. 34: ferias del libro municipales.
 - Ley N.° 7739, art. 75.
 
 **35. Deporte y recreación**
 - CP, art. 89.
 - CM, arts. 173 a 181: comités cantonales de deportes y recreación.
-- Ley N.° 10626, Fortalecimiento de los Comités Cantonales de Deportes y Recreación.
-- Ley N.° 7800, Instituto Costarricense del Deporte y la Recreación.
+- Ley N.° 10626, Fortalecimiento de los Comités Cantonales de Deportes y Recreación: reforma los arts. 173, 174, 178 y 179 del CM.
+- Ley N.° 10485: reforma los arts. 179 y 180 del CM; administración de áreas deportivas municipales por asociaciones de desarrollo comunal.
+- Ley N.° 7800, Instituto Costarricense del Deporte y la Recreación, art. 59, inciso e): donaciones de las municipalidades; arts. 81 y 85: instalaciones deportivas y recreativas.
 
 **36. Economía local y reparto de la riqueza**
 - CP, art. 50.
 - CM, art. 4, inciso h); art. 88.
-- Ley N.° 8533, art. 3; Ley N.° 6035, art. 1; Ley N.° 6587, art. 1; Ley N.° 10126, art. 1; Ley N.° 10254.
+- Ley N.° 8533, art. 3; Ley N.° 6035, art. 1; Ley N.° 6587, art. 1; Ley N.° 10126, art. 1; Ley N.° 10254, art. 9.
 - Ley N.° 10234, Fortalecimiento de la competitividad territorial, arts. 15 y 15 bis.
