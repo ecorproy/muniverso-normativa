@@ -22,6 +22,7 @@ Votos que la capa analiza en su propia ficha.
 | [2020-013387](Sentencia%202020-013387.md) | 2020-07-17 | 20-010801-0007-CO | la SETENA y el Alcalde de La Unión | Sin lugar |
 | [2020-020109](Sentencia%202020-020109.md) | 2020-10-20 | 20-015847-0007-CO | MUNICIPALIDAD DE POCOCÍ |  |
 | [2020-021381](Sentencia%202020-021381.md) | 2020-11-06 | 20-018512-0007-CO | MUNICIPALIDAD DE TALAMANCA | Sin lugar |
+| [2021-001706](Sentencia%202021-001706.md) | 2021-01-29 | 20-023353-0007-CO | el MINAE, el SINAC y la Municipalidad de Santa Cruz (Concejo y comisiones) | Parcialmente con lugar (justicia pronta, contra el Concejo Municipal de Santa Cruz) |
 | [2021-003949](Sentencia%202021-003949.md) | 2021-02-26 | 21-001961-0007-CO | MUNICIPALIDAD DE TURRIALBA |  |
 | [2021-024259](Sentencia%202021-024259.md) | 2021-10-29 | 21-019572-0007-CO | LA MUNICIPALIDAD DE BUENOS AIRES |  |
 | [2022-004588](Sentencia%202022-004588.md) | 2022-02-25 | 22-001985-0007-CO | MUNICIPALIDAD DE OSA |  |
