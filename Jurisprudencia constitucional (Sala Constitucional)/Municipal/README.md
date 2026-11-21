@@ -32,12 +32,14 @@ Votos que la capa analiza en su propia ficha.
 | [2011-015763](Sentencia%202011-015763.md) | 2011-11-16 | 11-006691-0007-CO | LA MUNICIPALIDAD DE GOICOECHEA |  |
 | [2013-002572](Sentencia%202013-002572.md) | 2013-02-22 | 12-005965-0007-CO |  |  |
 | [2013-014326](Sentencia%202013-014326.md) | 2013-10-29 | 13-011818-0007-CO | la CCSS (refugiado alojado en el Centro Dormitorio municipal de San José; lateral) | Sin lugar |
+| [2014-017860](Sentencia%202014-017860.md) | 2014-10-31 | 14-014682-0007-CO | la Municipalidad de Grecia y la ADI de la Ciudadela San Antonio del INVU II (información s | Parcialmente con lugar, solo para efectos indemnizatorios |
 | [2016-002706](Sentencia%202016-002706.md) | 2016-02-23 | 15-017419-0007-CO | el Ministerio de Seguridad Pública, el Ministerio Público y el OIJ (velo islámico de una s | Con lugar contra la Sección de Cárceles del OIJ; voto salvado |
 | [2016-011545](Sentencia%202016-011545.md) | 2016-08-12 | 16-009192-0007-CO | CONCEJO MUNICIPAL DE LOS CHILES |  |
 | [2018-001141](Sentencia%202018-001141.md) | 2018-01-26 | 17-019518-0007-CO | MUNICIPALIDAD DE CARTAGO |  |
 | [2018-011414](Sentencia%202018-011414.md) | 2018-07-17 | 18-001560-0007-CO | la Municipalidad de San Rafael de Heredia (Calle Charquillo) | Sin lugar |
 | [2018-012823](Sentencia%202018-012823.md) | 2018-08-10 | 18-009635-0007-CO | MUNICIPALIDAD DE PUNTARENAS Y EL MINISTERIO DE OBRAS PÚBLICAS Y TRANSPORTES |  |
 | [2020-003020](Sentencia%202020-003020.md) | 2020-02-14 | 20-001488-0007-CO | EL ALCALDE Y EL JEFE DE LA UNIDAD TECNICA DE GESTION VIAL, AMBOS DE LA MUNICIPALIDAD DE GU | Con lugar |
+| [2020-008465](Sentencia%202020-008465.md) | 2020-05-08 | 20-005435-0007-CO | la Municipalidad de Parrita y el MEP (cierre del CECUDI de La Loma) | Sin lugar |
 | [2020-009780](Sentencia%202020-009780.md) | 2020-05-29 | 20-007829-0007-CO | Municipalidad de San José |  |
 | [2020-011750](Sentencia%202020-011750.md) | 2020-06-26 | 20-007741-0007-CO | Municipalidad de Cartago |  |
 | [2020-013387](Sentencia%202020-013387.md) | 2020-07-17 | 20-010801-0007-CO | la SETENA y el Alcalde de La Unión | Sin lugar |
@@ -58,6 +60,7 @@ Votos que la capa analiza en su propia ficha.
 | [2023-021531](Sentencia%202023-021531.md) | 2023-09-01 | 21-020715-0007-CO | MUNICIPALIDAD DE SAN JOSÉ y el MINISTERIO DE EDUCACIÓN PÚBLICA |  |
 | [2023-027541](Sentencia%202023-027541.md) | 2023-10-27 | 23-016478-0007-CO | MUNICIPALIDAD DE HEREDIA Y EL INSTITUTO NACIONAL DE APRENDIZAJE (INA) |  |
 | [2023-027545](Sentencia%202023-027545.md) | 2023-10-27 | 23-017348-0007-CO | MINISTERIO DE SALUD Y LA MUNICIPALIDAD DE VÁZQUEZ DE CORONADO |  |
+| [2024-021998](Sentencia%202024-021998.md) | 2024-08-01 | 24-016791-0007-CO | el PANI y el IMAS (Red de Cuido y CECUDI municipal de Palmares; lateral) | Sin lugar |
 | [2024-023383](Sentencia%202024-023383.md) | 2024-08-16 | 24-019847-0007-CO | MUNICIPALIDAD DE MATINA |  |
 | [2024-024858](Sentencia%202024-024858.md) | 2024-08-30 | 24-020151-0007-CO | el Ministerio de Educación Pública (Liceo Ambientalista de Horquetas, Sarapiquí) | Sin lugar |
 | [2024-032380](Sentencia%202024-032380.md) | 2024-11-01 | 24-025245-0007-CO | CONSEJO NACIONAL DE VIALIDAD (CONAVI) , la MUNICIPALIDAD DE CARTAGO y la MUNICIPALIDAD DE  |  |
