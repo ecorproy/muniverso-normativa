@@ -13,6 +13,7 @@ Abreviaturas: PGR, Procuraduría General de la República; CGR, Contraloría Gen
 - Fuente PGR: los 2204 dictámenes de la carpeta `Jurisprudencia administrativa (PGR)` del repositorio (años 1983 a 2026).
 - Primer filtro: términos propios de cada tema y leyes de la matriz citadas en el texto de cada dictamen. Segundo filtro: contenido municipal y exclusión de los dictámenes ubicados solo en las áreas de empleo público. Quedaron 440 candidatos.
 - Clasificación: lectura del planteamiento de la consulta y del inicio de la conclusión de cada uno de los 440 candidatos. Se asignaron 253 dictámenes; el resto se descartó por tratar el tema solo de paso.
+- Lectura íntegra aportada por Edward Cortés García: C-134-2020, C-238-2020 (no está en el repositorio), C-240-2020, C-002-2025, C-095-2025, C-112-2025, C-220-2025, C-015-2026, C-027-2026, C-049-2026, C-066-2026 y C-101-2026. De ellos se agregaron cuatro que el filtro no había recogido.
 - Fuente CGR: los 122 oficios de `Oficios citados en la Revista`. Se leyó el asunto de todos y la conclusión de los asignados a un tema: 19 oficios.
 
 ## Cobertura por tema
@@ -31,14 +32,14 @@ Abreviaturas: PGR, Procuraduría General de la República; CGR, Contraloría Gen
 | 10 | Igualdad y no discriminación | 1 | 0 | 0 |
 | 11 | Igualdad de género | 0 | 0 | 0 |
 | 12 | Personas migrantes y refugiadas | 0 | 0 | 0 |
-| 13 | Trato y trámites | 1 | 6 | 0 |
+| 13 | Trato y trámites | 1 | 7 | 0 |
 | 14 | Información y transparencia | 4 | 5 | 0 |
 | 15 | Participación | 1 | 4 | 1 |
 | 16 | Intimidad y datos personales | 2 | 3 | 0 |
 | 17 | Acceso digital | 1 | 8 | 0 |
 | 18 | Trabajo y sustento | 1 | 2 | 0 |
 | 19 | Familia | 1 | 0 | 0 |
-| 20 | Maternidad y primera infancia | 0 | 0 | 0 |
+| 20 | Maternidad y primera infancia | 0 | 1 | 0 |
 | 21 | Niñez | 0 | 0 | 0 |
 | 22 | Adolescencia y juventud | 1 | 3 | 0 |
 | 23 | Personas adultas mayores | 1 | 0 | 0 |
@@ -46,18 +47,18 @@ Abreviaturas: PGR, Procuraduría General de la República; CGR, Contraloría Gen
 | 25 | Cuido | 0 | 0 | 1 |
 | 26 | Violencia doméstica | 0 | 0 | 0 |
 | 27 | Convivencia vecinal | 0 | 0 | 0 |
-| 28 | Agua y saneamiento | 5 | 2 | 1 |
+| 28 | Agua y saneamiento | 6 | 3 | 1 |
 | 29 | Residuos y limpieza | 6 | 3 | 1 |
 | 30 | Ambiente y arbolado | 7 | 34 | 2 |
 | 31 | Animales | 0 | 0 | 0 |
 | 32 | Vivienda | 2 | 5 | 0 |
-| 33 | Espacio público y movilidad | 17 | 42 | 3 |
+| 33 | Espacio público y movilidad | 17 | 43 | 3 |
 | 34 | Cultura y patrimonio | 1 | 8 | 1 |
 | 35 | Deporte y recreación | 3 | 14 | 2 |
 | 36 | Economía local | 2 | 32 | 2 |
 | — | Educación (sin decidir como tema) | 2 | 8 | 0 |
 
-Temas sin pronunciamiento en el repositorio: 2 Salud mental; 8 Personas en situación de calle; 11 Igualdad de género; 12 Personas migrantes y refugiadas; 20 Maternidad y primera infancia; 21 Niñez; 26 Violencia doméstica; 27 Convivencia vecinal; 31 Animales.
+Temas sin pronunciamiento en el repositorio: 2 Salud mental; 8 Personas en situación de calle; 11 Igualdad de género; 12 Personas migrantes y refugiadas; 21 Niñez; 26 Violencia doméstica; 27 Convivencia vecinal; 31 Animales.
 
 ## Cuadrante I. Vida
 
@@ -97,7 +98,7 @@ Temas sin pronunciamiento en el repositorio: 2 Salud mental; 8 Personas en situa
 - B · PGR, dictamen [C-031-2002](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=10968&param2=0), de 24 de enero de 2002 (Consejo de Seguridad Vial): Transferencia a las municipalidades del 10% de las multas de tránsito para proyectos de seguridad vial cantonal.
 
 **6. Emergencias y desastres**
-- A · PGR, dictamen [C-049-2026](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25333&param2=0), de 2 de marzo de 2026 (Municipalidad de Puriscal): Obras de mitigación de la erosión en cauces: alcance del deber municipal (art. 89 de la Ley de Aguas); el uso de fondos corresponde a la CGR.
+- A · PGR, dictamen [C-049-2026](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25333&param2=0), de 2 de marzo de 2026 (Municipalidad de Puriscal): Estado y gobiernos locales están obligados a prevenir desastres para resguardar vida, integridad física y bienes (Ley 8488, arts. 25, 45 y 46 bis); ese deber puede exigir obras que protejan inmuebles privados frente a cauces, y cabe dentro de los intereses y servicios locales del art. 169 constitucional; exige coordinar con la CNE y el MOPT.
 - B · PGR, dictamen [C-287-2024](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24758&param2=0), de 9 de diciembre de 2024 (Sistema de Emergencias 911): Exclusividad del Sistema 9-1-1 para la atención de llamadas de emergencia (Ley 7566).
 - B · PGR, dictamen [C-109-2019](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=21180&param2=0), de 25 de abril de 2019 (Municipalidad de San Carlos): Art. 46 de la Ley 8488: contribución del 3% de las ganancias y del superávit libre al Fondo Nacional de Emergencias.
 - B · PGR, dictamen [C-164-2013](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=17723&param2=0), de 23 de agosto de 2013 (Concejo Municipal de Santa Ana): Reglamento de los comités regionales, municipales y comunales de emergencia.
@@ -154,6 +155,7 @@ Temas sin pronunciamiento en el repositorio: 2 Salud mental; 8 Personas en situa
 - A · PGR, dictamen [C-079-2022](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23394&param2=0), de 18 de abril de 2022 (Municipalidad de Sarchí): Art. 8 de la Ley 8220: no puede exigirse al administrado certificaciones de leyes, decretos o reglamentos (no afectación al impuesto sobre bienes inmuebles).
 - B · PGR, dictamen [C-242-2023](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24166&param2=0), de 24 de noviembre de 2023 (Municipalidad de Sarchí): Reconsideración relacionada con el dictamen PGR-C-079-2022.
 - B · PGR, dictamen [C-142-2022](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23482&param2=0), de 4 de julio de 2022 (Municipalidad de Vázquez de Coronado): Art. 90 del Código Municipal: resolución de solicitudes de licencia.
+- B · PGR, dictamen [C-134-2020](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=21932&param2=0), de 13 de abril de 2020 (Municipalidad de Santo Domingo): La municipalidad que administra el acueducto local puede otorgar disponibilidad de agua condicionada a que el desarrollador costee la infraestructura (art. 38 de la Ley de Planificación Urbana), sujeta a las competencias del AyA; los trámites deben estar publicados (art. 4 de la Ley 8220).
 - B · PGR, dictamen [C-012-2019](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=21099&param2=0), de 16 de enero de 2019 (Municipalidad de Goicoechea): Compatibilidad entre Contralor de Servicios y Oficial de Acceso a la Información en una municipalidad.
 - B · PGR, dictamen [C-333-2018](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=20901&param2=0), de 20 de diciembre de 2018 (Instituto Nacional de Vivienda y Urbanismo): Silencio positivo en los visados del INVU tramitados en la plataforma APC.
 - B · PGR, dictamen [C-282-2016](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=19768&param2=0), de 23 de diciembre de 2016 (Municipalidad de San Rafael de Heredia): Visado de planos de urbanizaciones y fraccionamientos; competencias legales de las instituciones revisoras.
@@ -207,7 +209,7 @@ Temas sin pronunciamiento en el repositorio: 2 Salud mental; 8 Personas en situa
 - A · PGR, dictamen [C-043-2016](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=19356&param2=0), de 26 de febrero de 2016 (Municipalidad de Siquirres): La hipoteca legal preferente por tributos municipales no se aplica a inmuebles afectados a patrimonio familiar (art. 42 del Código de Familia); no hay procedimiento para ejecutarlos.
 
 **20. Maternidad y primera infancia**
-- Sin pronunciamiento en el repositorio.
+- B · PGR, dictamen C-238-2020, de 24 de junio de 2020 (Municipalidad de Desamparados): Dietas de la regidora que asistió a sesiones durante su licencia por maternidad: deben pagarse; la municipalidad puede advertir el riesgo de perder el subsidio, que resuelve la CCSS.
 
 **21. Niñez**
 - Sin pronunciamiento en el repositorio.
@@ -238,11 +240,13 @@ Temas sin pronunciamiento en el repositorio: 2 Salud mental; 8 Personas en situa
 
 **28. Agua y saneamiento**
 - A · PGR, dictamen [C-220-2022](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23575&param2=0), de 6 de octubre de 2022 (Municipalidad de Puriscal): Los certificados de uso de suelo deben consignar nacientes y cuerpos de agua; la municipalidad no puede fijar el tipo de naciente ni el área de protección sin criterio técnico de la Dirección de Aguas.
+- A · PGR, dictamen [C-134-2020](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=21932&param2=0), de 13 de abril de 2020 (Municipalidad de Santo Domingo): La municipalidad que administra el acueducto local puede otorgar disponibilidad de agua condicionada a que el desarrollador costee la infraestructura (art. 38 de la Ley de Planificación Urbana), sujeta a las competencias del AyA; los trámites deben estar publicados (art. 4 de la Ley 8220).
 - A · PGR, dictamen [C-159-2018](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=20546&param2=0), de 29 de junio de 2018 (Municipalidad de Santa Bárbara): Licencias comerciales y de construcción en el área de protección de nacientes (arts. 33 y 34 de la Ley Forestal).
 - A · PGR, dictamen [C-319-2015](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=19176&param2=0), de 23 de noviembre de 2015 (Municipalidad de Escazú): La Municipalidad de Escazú está facultada para fijar tasas por el servicio de manejo de aguas residuales; la ley delega en el gobierno local el diseño del sistema tarifario.
 - A · PGR, dictamen [C-157-2012](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=17211&param2=0), de 25 de junio de 2012 (Municipalidad de Grecia): Permisos de construcción en terrenos que bordean nacientes permanentes; coordinación con el AyA sobre áreas de recarga.
 - A · PGR, dictamen [C-148-2012](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=17196&param2=0), de 12 de junio de 2012 (Municipalidad de Alajuela): Radios de protección de nacientes de la Ley de Aguas y la Ley Forestal.
-- B · PGR, dictamen [C-049-2026](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25333&param2=0), de 2 de marzo de 2026 (Municipalidad de Puriscal): Obras de mitigación de la erosión en cauces: alcance del deber municipal (art. 89 de la Ley de Aguas); el uso de fondos corresponde a la CGR.
+- B · PGR, dictamen [C-049-2026](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25333&param2=0), de 2 de marzo de 2026 (Municipalidad de Puriscal): Estado y gobiernos locales están obligados a prevenir desastres para resguardar vida, integridad física y bienes (Ley 8488, arts. 25, 45 y 46 bis); ese deber puede exigir obras que protejan inmuebles privados frente a cauces, y cabe dentro de los intereses y servicios locales del art. 169 constitucional; exige coordinar con la CNE y el MOPT.
+- B · PGR, dictamen [C-015-2026](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25305&param2=0), de 23 de enero de 2026 (Municipalidad de Puriscal): El servicio de acueductos es nacional, no local: la competencia municipal es residual y subordinada a la rectoría del AyA; la municipalidad no puede asumir por sí sola acueductos nuevos, de ASADAS ni del AyA.
 - B · PGR, dictamen [C-224-2022](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23587&param2=0), de 12 de octubre de 2022 (Municipalidad de Puriscal): Recursos de la Ley 8114 en alcantarillado pluvial sobre ruta nacional.
 - CGR, oficio [10092 (DFOE-SOS-0320)](https://cgrfiles.cgr.go.cr/publico/docs_cgr/2024/SIGYD_D/SIGYD_D_2024011948.pdf), de 17 de junio de 2024: Naturaleza de los fondos que reciben las ASADAS y normas de control aplicables.
 
@@ -268,7 +272,7 @@ Temas sin pronunciamiento en el repositorio: 2 Salud mental; 8 Personas en situa
 - A · PGR, dictamen [C-128-1999](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=7135&param2=0), de 24 de junio de 1999 (Municipalidad de Nandayure): La municipalidad debe respetar las propiedades inscritas en la zona marítimo terrestre mientras subsista la inscripción; quedan fuera de su administración.
 - B · PGR, dictamen [C-199-2026](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25633&param2=0), de 3 de noviembre de 2026 (Municipalidad de La Cruz): Publicación municipal de los espacios concesionables en la zona marítimo terrestre.
 - B · PGR, dictamen [C-080-2026](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25414&param2=0), de 28 de mayo de 2026 (Concejo Municipal de Distrito de Cóbano): Infracciones del concesionario a la Ley 6043.
-- B · PGR, dictamen [C-049-2026](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25333&param2=0), de 2 de marzo de 2026 (Municipalidad de Puriscal): Obras de mitigación de la erosión en cauces: alcance del deber municipal (art. 89 de la Ley de Aguas); el uso de fondos corresponde a la CGR.
+- B · PGR, dictamen [C-049-2026](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25333&param2=0), de 2 de marzo de 2026 (Municipalidad de Puriscal): Estado y gobiernos locales están obligados a prevenir desastres para resguardar vida, integridad física y bienes (Ley 8488, arts. 25, 45 y 46 bis); ese deber puede exigir obras que protejan inmuebles privados frente a cauces, y cabe dentro de los intereses y servicios locales del art. 169 constitucional; exige coordinar con la CNE y el MOPT.
 - B · PGR, dictamen [C-156-2025](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25041&param2=0), de 16 de julio de 2025 (Ministerio de Turismo): Concesiones de marinas donde no es posible un plan regulador costero.
 - B · PGR, dictamen [C-112-2025](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24984&param2=0), de 6 de junio de 2025 (Junta de Administración Portuaria y de Desarrollo Económico de la Vertiente Atlántica): Art. 75 de la Ley 6043 en el Caribe Norte.
 - B · PGR, dictamen [C-227-2024](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24630&param2=0), de 7 de octubre de 2024 (Municipalidad de Hojancha): Propiedades afectadas por zona marítimo terrestre generada por manglar.
@@ -316,7 +320,7 @@ Temas sin pronunciamiento en el repositorio: 2 Salud mental; 8 Personas en situa
 - B · PGR, dictamen [C-240-2000](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=8465&param2=0), de 29 de setiembre de 2000 (Municipalidad de San Isidro de Heredia): Visado de la Dirección de Urbanismo y permisos municipales.
 
 **33. Espacio público y movilidad**
-- A · PGR, dictamen [C-220-2025](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25183&param2=0), de 3 de noviembre de 2025 (Municipalidad de Puriscal): Efectos del visado municipal sobre la naturaleza pública de un camino.
+- A · PGR, dictamen [C-220-2025](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25183&param2=0), de 3 de noviembre de 2025 (Municipalidad de Puriscal): Cuatro supuestos en que la municipalidad puede declarar pública una vía; el visado de planos no equivale a esa declaratoria ni obliga a hacerla, pero puede generar responsabilidad por daños.
 - A · PGR, dictamen [C-195-2024](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24632&param2=0), de 5 de setiembre de 2024 (Municipalidad de Montes de Oca): Art. 10 de la Ley 9976: competencia prevalente de las municipalidades, en vías nacionales y cantonales, para aprobar la colocación de mobiliario en las aceras.
 - A · PGR, dictamen [C-198-2023](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24503&param2=0), de 31 de octubre de 2023 (Ministerio de Obras Públicas y Transportes): Ley 9976: el MOPT debe construir las aceras de la red vial nacional; el propietario no está obligado a construirlas en vías nacionales.
 - A · PGR, dictamen [C-166-2023](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24046&param2=0), de 4 de setiembre de 2023 (Municipalidad de Puriscal): Aceras cuando no hay ancho de vía; los recursos de la Ley 9329 no pueden usarse en propiedad privada; eliminación de barreras para personas con discapacidad.
@@ -335,6 +339,7 @@ Temas sin pronunciamiento en el repositorio: 2 Salud mental; 8 Personas en situa
 - A · PGR, dictamen [C-228-1984](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24317&param2=0), de 25 de junio de 1984 (Municipalidad de Vázquez de Coronado): Cesión gratuita de áreas públicas por fraccionadores en el cuadrante de las ciudades.
 - B · PGR, dictamen [C-184-2026](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25599&param2=0), de 19 de octubre de 2026 (Municipalidad de Upala): Rutas cantonales con derecho de vía inferior a 14 metros.
 - B · PGR, dictamen [C-101-2026](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25475&param2=0), de 24 de junio de 2026 (Ministerio de Hacienda): Interpretación auténtica del art. 5 de la Ley 8114.
+- B · PGR, dictamen [C-027-2026](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25297&param2=0), de 2 de febrero de 2026 (Ministerio de Hacienda): Sigue vigente el impuesto del art. 3 de la Ley 6909 a favor de las municipalidades, con destino exclusivo al mantenimiento de calles urbanas y caminos vecinales.
 - B · PGR, dictamen [C-248-2025](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25341&param2=0), de 17 de diciembre de 2025 (Instituto Nacional de Vivienda y Urbanismo): La aceptación municipal de la donación de un inmueble debe responder a un fin público.
 - B · PGR, dictamen [C-285-2024](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24774&param2=0), de 9 de diciembre de 2024 (Municipalidad de Zarcero): Visados municipales y cobro de tributos como requisito.
 - B · PGR, dictamen [C-133-2024](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24483&param2=0), de 24 de junio de 2024 (Municipalidad de San Isidro de Heredia): Ancho de caminos de la red vial cantonal.
