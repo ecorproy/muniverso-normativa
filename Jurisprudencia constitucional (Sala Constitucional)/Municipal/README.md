@@ -15,6 +15,7 @@ Votos que la capa analiza en su propia ficha.
 | [2003-005006](Sentencia%202003-005006.md) | 2003-06-09 | 03-004802-0007-CO | la Municipalidad de Montes de Oca (suspensión de la recolección de basura) | Con lugar |
 | [2004-000626](Sentencia%202004-000626.md) | 2004-01-30 | 03-010803-0007-CO | la Municipalidad de Curridabat (lote baldío; derecho de petición) | Con lugar solo para efectos indemnizatorios (LJC, art. 52) |
 | [2005-001178](Sentencia%202005-001178.md) | 2005-02-08 | 02-009220-0007-CO | la Municipalidad de Paraíso, el Ministerio de Salud, el Banco Crédito Agrícola de Cartago, | Parcialmente con lugar |
+| [2006-016766](Sentencia%202006-016766.md) | 2006-11-21 | 06-013281-0007-CO | la alcaldesa de Montes de Oca (accesibilidad del edificio municipal, Ley 7600) | Con lugar |
 | [2006-017907](Sentencia%202006-017907.md) | 2006-12-12 | 06-013514-0007-CO | la Municipalidad de Alajuela, el Ministerio de Salud y el AyA (Urbanización Doña Bertilia, | Con lugar (Municipalidad, AyA y Estado; orden a la CGR) |
 | [2007-005051](Sentencia%202007-005051.md) | 2007-04-13 | 07-001941-0007-CO | el alcalde y la presidenta del Concejo de San José (aceras en Paso Ancho) | Con lugar; orden a la CGR; sin lugar contra el MOPT |
 | [2007-009385](Sentencia%202007-009385.md) | 2007-06-28 | 07-002270-0007-CO | el alcalde de San José y el Área Rectora de Salud Hospital-Mata Redonda (lote y vivienda a | Sin lugar contra la Municipalidad; con lugar contra el Ministerio de Salud solo para efectos indemnizatorios |
