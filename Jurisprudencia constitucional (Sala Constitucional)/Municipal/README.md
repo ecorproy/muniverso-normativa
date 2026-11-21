@@ -43,6 +43,7 @@ Votos que la capa analiza en su propia ficha.
 | [2019-012823](Sentencia%202019-012823.md) | 2019-07-12 | 19-010339-0007-CO | el Ministerio de Seguridad Pública (despido de un policía alegando alcoholismo; lateral) | Sin lugar |
 | [2020-003020](Sentencia%202020-003020.md) | 2020-02-14 | 20-001488-0007-CO | EL ALCALDE Y EL JEFE DE LA UNIDAD TECNICA DE GESTION VIAL, AMBOS DE LA MUNICIPALIDAD DE GU | Con lugar |
 | [2020-008465](Sentencia%202020-008465.md) | 2020-05-08 | 20-005435-0007-CO | la Municipalidad de Parrita y el MEP (cierre del CECUDI de La Loma) | Sin lugar |
+| [2020-009186](Sentencia%202020-009186.md) | 2020-05-20 | 20-006767-0007-CO |  | Parcialmente con lugar |
 | [2020-009780](Sentencia%202020-009780.md) | 2020-05-29 | 20-007829-0007-CO | Municipalidad de San José |  |
 | [2020-011750](Sentencia%202020-011750.md) | 2020-06-26 | 20-007741-0007-CO | Municipalidad de Cartago |  |
 | [2020-013387](Sentencia%202020-013387.md) | 2020-07-17 | 20-010801-0007-CO | la SETENA y el Alcalde de La Unión | Sin lugar |
