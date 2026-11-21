@@ -10,6 +10,9 @@ Votos que la capa analiza en su propia ficha.
 
 | Voto | Fecha | Expediente | Contra | Resultado |
 |---|---|---|---|---|
+| [2002-010857](Sentencia%202002-010857.md) | 2002-11-14 | 02-007673-0007-CO | la Municipalidad de San Pablo de Heredia y el Ministerio de Salud (quebrada de Calle Larga | Con lugar (voto salvado parcial de Solano Carrera sobre el plazo) |
+| [2006-017907](Sentencia%202006-017907.md) | 2006-12-12 | 06-013514-0007-CO | la Municipalidad de Alajuela, el Ministerio de Salud y el AyA (Urbanización Doña Bertilia, | Con lugar (Municipalidad, AyA y Estado; orden a la CGR) |
+| [2009-000494](Sentencia%202009-000494.md) | 2009-01-16 | 08-011530-0007-CO | el Concejo Municipal de Distrito de Cóbano, el MINAET, el AyA y el SENARA (pozos en Las De | Parcialmente con lugar (AyA, SENARA y MINAET); sin lugar contra el Concejo Municipal de Distrito y la SETENA |
 | [2011-007502](Sentencia%202011-007502.md) | 2011-06-14 | 11-004666-0007-CO | ALCALDE, EL JEFE DEL ÁREA RECTORA DE SALUD Y EL JEFE DE LA OFICINA LOCAL DEL CONSEJO NACIO |  |
 | [2011-015763](Sentencia%202011-015763.md) | 2011-11-16 | 11-006691-0007-CO | LA MUNICIPALIDAD DE GOICOECHEA |  |
 | [2013-002572](Sentencia%202013-002572.md) | 2013-02-22 | 12-005965-0007-CO |  |  |
@@ -53,6 +56,7 @@ Votos que la capa analiza en su propia ficha.
 | [2025-037535](Sentencia%202025-037535.md) | 2025-11-14 | 25-022952-0007-CO | MUNICIPALIDAD DE DESAMPARADOS |  |
 | [2025-041927](Sentencia%202025-041927.md) | 2025-12-19 | 25-026403-0007-CO | MUNICIPALIDAD DE SAN CARLOS y la ASOCIACIÓN DE DESARROLLO INTEGRAL DE RANCHO GRANDE Y BETE |  |
 | [2026-005199](Sentencia%202026-005199.md) | 2026-02-13 | 25-024523-0007-CO | ASOCIACI Ó N DE DESARROLLO INTEGRAL -ADI- DE RESERVA IND Í GENA DE T É RRABA DE BUENOS AIR |  |
+| [2026-010907](Sentencia%202026-010907.md) | 2026-03-27 | 26-002699-0007-CO | la Municipalidad de Goicoechea (remodelación del Parque Santiago Jara) | Sin lugar |
 | [2026-013450](Sentencia%202026-013450.md) | 2026-04-21 | 26-007565-0007-CO | MUNICIPALIDAD DE LIM Ó N |  |
 | [2026-014326](Sentencia%202026-014326.md) | 2026-04-24 | 25-036370-0007-CO | LA MUNICIPALIDAD DE SAN RAMÓN |  |
 | [2026-014377](Sentencia%202026-014377.md) | 2026-04-24 | 26-006556-0007-CO | MUNICIPALIDAD DE BEL É N |  |
