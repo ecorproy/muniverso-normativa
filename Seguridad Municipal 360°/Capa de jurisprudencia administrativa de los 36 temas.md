@@ -14,6 +14,7 @@ Abreviaturas: PGR, Procuraduría General de la República; CGR, Contraloría Gen
 - Primer filtro: términos propios de cada tema y leyes de la matriz citadas en el texto de cada dictamen. Segundo filtro: contenido municipal y exclusión de los dictámenes ubicados solo en las áreas de empleo público. Quedaron 440 candidatos.
 - Clasificación: lectura del planteamiento de la consulta y del inicio de la conclusión de cada uno de los 440 candidatos. Se asignaron 253 dictámenes; el resto se descartó por tratar el tema solo de paso.
 - Lectura íntegra aportada por Edward Cortés García: C-134-2020, C-238-2020 (no está en el repositorio), C-240-2020, C-002-2025, C-095-2025, C-112-2025, C-220-2025, C-015-2026, C-027-2026, C-049-2026, C-066-2026 y C-101-2026. De ellos se agregaron cuatro que el filtro no había recogido.
+- Aportados por Edward Cortés García el 21 de noviembre de 2026: dictamen C-172-2023 (agregado al repositorio) y oficios CGR 22430 (DFOE-LOC-2366), 12990 (DFOE-LOC-1706) y 14908 (DFOE-DEC-4567), en la carpeta `Criterios CGR`. También aportó C-032-2004, C-218-2020 y C-286-2021, que ya estaban en el repositorio, y la Ley 8828, ya incorporada; se analizan en `Ley 8828 (SPEM) como instrumento del 360.md`.
 - Fuente CGR: los 122 oficios de `Oficios citados en la Revista`. Se leyó el asunto de todos y la conclusión de los asignados a un tema: 19 oficios.
 
 ## Cobertura por tema
@@ -52,7 +53,7 @@ Abreviaturas: PGR, Procuraduría General de la República; CGR, Contraloría Gen
 | 30 | Ambiente y arbolado | 7 | 34 | 2 |
 | 31 | Animales | 0 | 0 | 0 |
 | 32 | Vivienda | 2 | 5 | 0 |
-| 33 | Espacio público y movilidad | 17 | 43 | 3 |
+| 33 | Espacio público y movilidad | 17 | 44 | 6 |
 | 34 | Cultura y patrimonio | 1 | 8 | 1 |
 | 35 | Deporte y recreación | 3 | 14 | 2 |
 | 36 | Economía local | 2 | 32 | 2 |
@@ -380,9 +381,13 @@ Temas sin pronunciamiento en el repositorio: 2 Salud mental; 8 Personas en situa
 - B · PGR, dictamen [C-240-2000](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=8465&param2=0), de 29 de setiembre de 2000 (Municipalidad de San Isidro de Heredia): Visado de la Dirección de Urbanismo y permisos municipales.
 - B · PGR, dictamen [C-235-1999](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=8811&param2=0), de 3 de diciembre de 1999 (Municipalidad de Moravia): Corresponde al Concejo aprobar o improbar la construcción de urbanizaciones.
 - B · PGR, dictamen [C-032-1998](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=10007&param2=0), de 25 de febrero de 1998 (Municipalidad de Alajuela): Plan regulador de Alajuela frente al Plan Regional Metropolitano.
+- B · PGR, dictamen C-172-2023, de 11 de setiembre de 2023 (Municipalidad de Heredia): la Ley 10092 (venta de activos ociosos) es potestativa para las municipalidades; la declaratoria de ociosidad la hace el Concejo, también sobre bienes demaniales, que requieren desafectación legislativa antes de cualquier traspaso.
 - CGR, oficio [07221 (DFOE-LOC-0618)](https://cgrfiles.cgr.go.cr/publico/docs_cgr/2024/SIGYD_D/SIGYD_D_2024008297.pdf), de 30 de abril de 2024: Leyes 8114 y 9329: prioridad de conservar la red vial cantonal existente; papel de la junta vial cantonal.
 - CGR, oficio [20070 (DFOE-LOC-1746)](https://cgrfiles.cgr.go.cr/publico/docs_cgr/2024/SIGYD_D/SIGYD_D_2024023940.pdf), de 27 de noviembre de 2024: Recursos de la Ley 8114 y calles de la red vial nacional.
 - CGR, oficio [23018 (DCA-3230)](https://cgrfiles.cgr.go.cr/publico/docs_cgr/2022/SIGYD_D/SIGYD_D_2022026149.pdf), de 20 de diciembre de 2022: Compra directa de finca para parque en Puriscal: no requiere autorización de la CGR.
+- CGR, oficio [14908 (DFOE-DEC-4567)](https://cgrfiles.cgr.go.cr/publico/docs_cgr/2024/SIGYD_D/SIGYD_D_2024017885.pdf), de 23 de setiembre de 2024 (advertencia a la Municipalidad de San Rafael de Heredia): antes de declarar o constatar una vía como pública hay que verificar que sea bien de dominio público y consultar al INVU; el acto debe ser motivado y con intervención técnica; la inscripción en el Registro Vial y los planos catastrados no dan carácter público; no cabe constatar como públicas servidumbres urbanas ni agrícolas; responden Concejo y Alcaldía por invertir fondos en calles declaradas públicas ilegalmente.
+- CGR, oficio [12990 (DFOE-LOC-1706)](https://cgrfiles.cgr.go.cr/publico/docs_cgr/2023/SIGYD_D/SIGYD_D_2023015565.pdf), de 27 de setiembre de 2023 (Municipalidad de Poás): las aceras forman parte de los proyectos de la red vial cantonal; lo financiado con las Leyes 8114 y 9329 no se recupera de los propietarios, porque esa es una de sus finalidades legales; con recursos libres, cada municipalidad decide si recupera; los convenios participativos y las donaciones de materiales a terceros deben ajustarse a la regulación de cada fuente.
+- CGR, oficio [22430 (DFOE-LOC-2366)](https://cgrfiles.cgr.go.cr/publico/docs_cgr/2022/SIGYD_D/SIGYD_D_2022025236.pdf), de 12 de diciembre de 2022 (Auditoría Interna de Paraíso): el ancho mínimo de 14 metros del art. 4 de la Ley General de Caminos Públicos rige solo para los caminos vecinales; antes de invertir recursos de las Leyes 8114 y 9329, la municipalidad debe verificar las condiciones de cada tipo de vía, sin desatender las vías de la red cantonal con medidas inferiores.
 
 **34. Cultura y patrimonio**
 - A · PGR, dictamen [C-127-2018](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=20653&param2=0), de 8 de junio de 2018 (Municipalidad de Liberia): Ley 9156: las municipalidades de Guanacaste pueden destinar los recursos del impuesto de salida a recuperar patrimonio cultural material e inmaterial, declarado o no.
