@@ -38,37 +38,10 @@
  },
  {
   "tipo": "Ley",
-  "numero": "10199",
-  "carpeta": "Municipal",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "8688",
-  "carpeta": "Social",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
   "numero": "8653",
   "carpeta": "Comercial",
   "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Ley",
-  "numero": "10025",
-  "carpeta": "Social",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
- },
- {
-  "tipo": "Decreto Ejecutivo",
-  "numero": "32833",
-  "carpeta": "Administrativo",
-  "solo_vigentes": true,
-  "prioridad": "Seguridad Municipal 360°"
+  "prioridad": "Seguridad Municipal 360°",
+  "ultimo": "sin coincidencia única en SINALEVI: "
  }
 ]
