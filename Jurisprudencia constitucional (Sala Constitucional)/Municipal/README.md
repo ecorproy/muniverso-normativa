@@ -31,6 +31,7 @@ Votos que la capa analiza en su propia ficha.
 | [2011-007502](Sentencia%202011-007502.md) | 2011-06-14 | 11-004666-0007-CO | ALCALDE, EL JEFE DEL ÁREA RECTORA DE SALUD Y EL JEFE DE LA OFICINA LOCAL DEL CONSEJO NACIO |  |
 | [2011-015763](Sentencia%202011-015763.md) | 2011-11-16 | 11-006691-0007-CO | LA MUNICIPALIDAD DE GOICOECHEA |  |
 | [2013-002572](Sentencia%202013-002572.md) | 2013-02-22 | 12-005965-0007-CO |  |  |
+| [2016-002706](Sentencia%202016-002706.md) | 2016-02-23 | 15-017419-0007-CO | el Ministerio de Seguridad Pública, el Ministerio Público y el OIJ (velo islámico de una s | Con lugar contra la Sección de Cárceles del OIJ; voto salvado |
 | [2016-011545](Sentencia%202016-011545.md) | 2016-08-12 | 16-009192-0007-CO | CONCEJO MUNICIPAL DE LOS CHILES |  |
 | [2018-001141](Sentencia%202018-001141.md) | 2018-01-26 | 17-019518-0007-CO | MUNICIPALIDAD DE CARTAGO |  |
 | [2018-011414](Sentencia%202018-011414.md) | 2018-07-17 | 18-001560-0007-CO | la Municipalidad de San Rafael de Heredia (Calle Charquillo) | Sin lugar |
@@ -47,6 +48,7 @@ Votos que la capa analiza en su propia ficha.
 | [2021-024259](Sentencia%202021-024259.md) | 2021-10-29 | 21-019572-0007-CO | LA MUNICIPALIDAD DE BUENOS AIRES |  |
 | [2022-004588](Sentencia%202022-004588.md) | 2022-02-25 | 22-001985-0007-CO | MUNICIPALIDAD DE OSA |  |
 | [2022-023266](Sentencia%202022-023266.md) | 2022-10-07 | 22-016392-0007-CO | MUNICIPALIDAD DE SANTO DOMINGO DE HEREDIA |  |
+| [2023-001782](Sentencia%202023-001782.md) | 2023-01-27 | 22-025962-0007-CO | la Municipalidad de San Ramón (bloqueo de un usuario en el Facebook institucional y acceso | Con lugar |
 | [2023-005011](Sentencia%202023-005011.md) | 2023-03-03 | 23-002537-0007-CO | MUNICIPALIDAD DE PARAISO |  |
 | [2023-012817](Sentencia%202023-012817.md) | 2023-05-31 | 21-005756-0007-CO |  | Sin lugar por mayoría, con interpretación conforme del art. 9; voto salvado de Cruz Castro, Rueda Leal y Garita Navarro |
 | [2023-020182](Sentencia%202023-020182.md) | 2023-08-18 | 23-016759-0007-CO | MUNICIPALIDAD DE SAN PABLO DE HEREDIA |  |
@@ -68,6 +70,7 @@ Votos que la capa analiza en su propia ficha.
 | [2025-029985](Sentencia%202025-029985.md) | 2025-09-19 | 23-027898-0007-CO | MUNICIPALIDAD DE TALAMANCA, el INSTITUTO NACIONAL DE VIVIENDA Y URBANISMO y el INSTITUTO C |  |
 | [2025-030948](Sentencia%202025-030948.md) | 2025-09-26 | 25-020119-0007-CO | EL INSTITUTO COSTARRICENSE DE ACUEDUCTOS Y ALCANTARILLADOS, EL MINISTERIO DE SALUD Y LA MU |  |
 | [2025-034736](Sentencia%202025-034736.md) | 2025-10-24 | 25-024164-0007-CO | el AyA y el MINAE (Santa María de Rincón de la Vieja, Liberia); la municipalidad no fue pa | Sin lugar |
+| [2025-035627](Sentencia%202025-035627.md) | 2025-10-31 | 25-022663-0007-CO | la Municipalidad de Puntarenas (comentarios restringidos en la transmisión de una comisión | Con lugar, sin costas (art. 52 LJC); voto salvado parcial sobre costas |
 | [2025-037535](Sentencia%202025-037535.md) | 2025-11-14 | 25-022952-0007-CO | MUNICIPALIDAD DE DESAMPARADOS |  |
 | [2025-041927](Sentencia%202025-041927.md) | 2025-12-19 | 25-026403-0007-CO | MUNICIPALIDAD DE SAN CARLOS y la ASOCIACIÓN DE DESARROLLO INTEGRAL DE RANCHO GRANDE Y BETE |  |
 | [2026-005199](Sentencia%202026-005199.md) | 2026-02-13 | 25-024523-0007-CO | ASOCIACI Ó N DE DESARROLLO INTEGRAL -ADI- DE RESERVA IND Í GENA DE T É RRABA DE BUENOS AIR |  |
