@@ -12,12 +12,19 @@ Votos que la capa analiza en su propia ficha.
 |---|---|---|---|---|
 | [2002-003956](Sentencia%202002-003956.md) | 2002-04-30 | 02-001282-0007-CO | la Municipalidad de San Ramón (precario Bajo Tejares en finca municipal) | Con lugar (Municipalidad y Estado) |
 | [2002-010857](Sentencia%202002-010857.md) | 2002-11-14 | 02-007673-0007-CO | la Municipalidad de San Pablo de Heredia y el Ministerio de Salud (quebrada de Calle Larga | Con lugar (voto salvado parcial de Solano Carrera sobre el plazo) |
+| [2003-005006](Sentencia%202003-005006.md) | 2003-06-09 | 03-004802-0007-CO | la Municipalidad de Montes de Oca (suspensión de la recolección de basura) | Con lugar |
 | [2004-000626](Sentencia%202004-000626.md) | 2004-01-30 | 03-010803-0007-CO | la Municipalidad de Curridabat (lote baldío; derecho de petición) | Con lugar solo para efectos indemnizatorios (LJC, art. 52) |
+| [2005-001178](Sentencia%202005-001178.md) | 2005-02-08 | 02-009220-0007-CO | la Municipalidad de Paraíso, el Ministerio de Salud, el Banco Crédito Agrícola de Cartago, | Parcialmente con lugar |
 | [2006-017907](Sentencia%202006-017907.md) | 2006-12-12 | 06-013514-0007-CO | la Municipalidad de Alajuela, el Ministerio de Salud y el AyA (Urbanización Doña Bertilia, | Con lugar (Municipalidad, AyA y Estado; orden a la CGR) |
+| [2007-005051](Sentencia%202007-005051.md) | 2007-04-13 | 07-001941-0007-CO | el alcalde y la presidenta del Concejo de San José (aceras en Paso Ancho) | Con lugar; orden a la CGR; sin lugar contra el MOPT |
 | [2007-009385](Sentencia%202007-009385.md) | 2007-06-28 | 07-002270-0007-CO | el alcalde de San José y el Área Rectora de Salud Hospital-Mata Redonda (lote y vivienda a | Sin lugar contra la Municipalidad; con lugar contra el Ministerio de Salud solo para efectos indemnizatorios |
 | [2007-010102](Sentencia%202007-010102.md) | 2007-07-20 | 07-007053-0007-CO | la Junta Nacional de Ferias del Agricultor y el Centro Agrícola Cantonal de Santo Domingo  | Sin lugar |
 | [2007-010148](Sentencia%202007-010148.md) | 2007-07-20 | 05-011071-0007-CO | la Municipalidad de Oreamuno (proyecto Vista Hermosa) | Sin lugar |
+| [2007-011500](Sentencia%202007-011500.md) | 2007-08-10 | 07-006996-0007-CO | la Municipalidad de Escazú y el Área Rectora de Salud de Escazú (aguas negras al alcantari | Parcialmente con lugar |
 | [2007-017477](Sentencia%202007-017477.md) | 2007-11-30 | 07-014548-0007-CO | el alcalde y el presidente del Concejo de Grecia y el Área Rectora de Salud (acequia pluvi | Con lugar contra la Municipalidad; sin lugar contra el Ministerio de Salud |
+| [2008-005692](Sentencia%202008-005692.md) | 2008-04-11 | 08-002621-0007-CO | la Municipalidad de Pococí, el Ministerio de Salud, las policías y la Licorera Los Castill | Con lugar contra la Municipalidad, el Área Rectora de Salud y el propietario; sin lugar contra las policías |
+| [2008-016445](Sentencia%202008-016445.md) | 2008-10-30 | 08-003550-0007-CO | la alcaldesa y la presidenta del Concejo de Cañas y el Área Rectora de Salud (ruido del sa | Con lugar |
+| [2008-016885](Sentencia%202008-016885.md) | 2008-11-07 | 07-012210-0007-CO | el alcalde y el presidente municipal de Goicoechea, el Área Rectora de Salud y Materiales  | Con lugar |
 | [2008-017231](Sentencia%202008-017231.md) | 2008-11-18 | 08-012699-0007-CO | el alcalde y el presidente del Concejo de Aguirre (demarcación vial en Quepos) | Parcialmente con lugar; orden a la CGR |
 | [2009-000494](Sentencia%202009-000494.md) | 2009-01-16 | 08-011530-0007-CO | el Concejo Municipal de Distrito de Cóbano, el MINAET, el AyA y el SENARA (pozos en Las De | Parcialmente con lugar (AyA, SENARA y MINAET); sin lugar contra el Concejo Municipal de Distrito y la SETENA |
 | [2011-007502](Sentencia%202011-007502.md) | 2011-06-14 | 11-004666-0007-CO | ALCALDE, EL JEFE DEL ÁREA RECTORA DE SALUD Y EL JEFE DE LA OFICINA LOCAL DEL CONSEJO NACIO |  |
