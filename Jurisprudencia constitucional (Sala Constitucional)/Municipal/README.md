@@ -15,6 +15,7 @@ Votos que la capa analiza en su propia ficha.
 | [2004-000626](Sentencia%202004-000626.md) | 2004-01-30 | 03-010803-0007-CO | la Municipalidad de Curridabat (lote baldío; derecho de petición) | Con lugar solo para efectos indemnizatorios (LJC, art. 52) |
 | [2006-017907](Sentencia%202006-017907.md) | 2006-12-12 | 06-013514-0007-CO | la Municipalidad de Alajuela, el Ministerio de Salud y el AyA (Urbanización Doña Bertilia, | Con lugar (Municipalidad, AyA y Estado; orden a la CGR) |
 | [2007-009385](Sentencia%202007-009385.md) | 2007-06-28 | 07-002270-0007-CO | el alcalde de San José y el Área Rectora de Salud Hospital-Mata Redonda (lote y vivienda a | Sin lugar contra la Municipalidad; con lugar contra el Ministerio de Salud solo para efectos indemnizatorios |
+| [2007-010102](Sentencia%202007-010102.md) | 2007-07-20 | 07-007053-0007-CO | la Junta Nacional de Ferias del Agricultor y el Centro Agrícola Cantonal de Santo Domingo  | Sin lugar |
 | [2007-010148](Sentencia%202007-010148.md) | 2007-07-20 | 05-011071-0007-CO | la Municipalidad de Oreamuno (proyecto Vista Hermosa) | Sin lugar |
 | [2007-017477](Sentencia%202007-017477.md) | 2007-11-30 | 07-014548-0007-CO | el alcalde y el presidente del Concejo de Grecia y el Área Rectora de Salud (acequia pluvi | Con lugar contra la Municipalidad; sin lugar contra el Ministerio de Salud |
 | [2008-017231](Sentencia%202008-017231.md) | 2008-11-18 | 08-012699-0007-CO | el alcalde y el presidente del Concejo de Aguirre (demarcación vial en Quepos) | Parcialmente con lugar; orden a la CGR |
