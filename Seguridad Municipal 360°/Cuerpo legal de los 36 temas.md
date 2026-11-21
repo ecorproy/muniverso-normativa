@@ -73,7 +73,6 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - CP, art. 33.
 - CM, art. 4, inciso h); art. 13: perspectiva de género y eliminación de toda forma de discriminación; art. 17: programa de gobierno con enfoque de derechos humanos.
 - Ley N.° 4230, contra la Discriminación Racial.
-- Ley N.° 2694, Prohibición de discriminación en materia laboral.
 - Ley N.° 7600, Igualdad de Oportunidades para las Personas con Discapacidad, art. 9.
 
 **11. Igualdad de género**
@@ -95,7 +94,6 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 **14. Información y transparencia**
 - CP, arts. 11 y 30.
 - CM, art. 17, incisos e), f) y g).
-- Ley N.° 10554, Marco de Acceso a la Información Pública, art. 5.
 - Ley N.° 8422, contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública, art. 7.
 
 **15. Participación**
