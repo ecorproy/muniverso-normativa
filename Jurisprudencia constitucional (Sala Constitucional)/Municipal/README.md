@@ -10,10 +10,14 @@ Votos que la capa analiza en su propia ficha.
 
 | Voto | Fecha | Expediente | Contra | Resultado |
 |---|---|---|---|---|
+| [2002-003956](Sentencia%202002-003956.md) | 2002-04-30 | 02-001282-0007-CO | la Municipalidad de San Ramón (precario Bajo Tejares en finca municipal) | Con lugar (Municipalidad y Estado) |
 | [2002-010857](Sentencia%202002-010857.md) | 2002-11-14 | 02-007673-0007-CO | la Municipalidad de San Pablo de Heredia y el Ministerio de Salud (quebrada de Calle Larga | Con lugar (voto salvado parcial de Solano Carrera sobre el plazo) |
+| [2004-000626](Sentencia%202004-000626.md) | 2004-01-30 | 03-010803-0007-CO | la Municipalidad de Curridabat (lote baldío; derecho de petición) | Con lugar solo para efectos indemnizatorios (LJC, art. 52) |
 | [2006-017907](Sentencia%202006-017907.md) | 2006-12-12 | 06-013514-0007-CO | la Municipalidad de Alajuela, el Ministerio de Salud y el AyA (Urbanización Doña Bertilia, | Con lugar (Municipalidad, AyA y Estado; orden a la CGR) |
+| [2007-009385](Sentencia%202007-009385.md) | 2007-06-28 | 07-002270-0007-CO | el alcalde de San José y el Área Rectora de Salud Hospital-Mata Redonda (lote y vivienda a | Sin lugar contra la Municipalidad; con lugar contra el Ministerio de Salud solo para efectos indemnizatorios |
 | [2007-010148](Sentencia%202007-010148.md) | 2007-07-20 | 05-011071-0007-CO | la Municipalidad de Oreamuno (proyecto Vista Hermosa) | Sin lugar |
 | [2007-017477](Sentencia%202007-017477.md) | 2007-11-30 | 07-014548-0007-CO | el alcalde y el presidente del Concejo de Grecia y el Área Rectora de Salud (acequia pluvi | Con lugar contra la Municipalidad; sin lugar contra el Ministerio de Salud |
+| [2008-017231](Sentencia%202008-017231.md) | 2008-11-18 | 08-012699-0007-CO | el alcalde y el presidente del Concejo de Aguirre (demarcación vial en Quepos) | Parcialmente con lugar; orden a la CGR |
 | [2009-000494](Sentencia%202009-000494.md) | 2009-01-16 | 08-011530-0007-CO | el Concejo Municipal de Distrito de Cóbano, el MINAET, el AyA y el SENARA (pozos en Las De | Parcialmente con lugar (AyA, SENARA y MINAET); sin lugar contra el Concejo Municipal de Distrito y la SETENA |
 | [2011-007502](Sentencia%202011-007502.md) | 2011-06-14 | 11-004666-0007-CO | ALCALDE, EL JEFE DEL ÁREA RECTORA DE SALUD Y EL JEFE DE LA OFICINA LOCAL DEL CONSEJO NACIO |  |
 | [2011-015763](Sentencia%202011-015763.md) | 2011-11-16 | 11-006691-0007-CO | LA MUNICIPALIDAD DE GOICOECHEA |  |
