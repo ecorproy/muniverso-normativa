@@ -262,11 +262,7 @@ Inventario: 1960 dictámenes. Bajados nuevos: 261. Ya estaban: 385. Descartados 
 ## Paginador de SINALEVI
 
 ```
-<ul>
-                <li> <a href="#navPrincipal">Ir al menú principal </a>  </li>
-                <li> <a href="#main">Ir a la sección principal de la página </a> </li>
-                <li> <a href="#footer"> Ir al pie de página</a> </li>
-            </ul>
+(no se leyó)
 ```
 
 ## Sin respuesta (se reintenta en la próxima corrida)
