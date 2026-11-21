@@ -29,6 +29,7 @@ Votos que la capa analiza en su propia ficha.
 | [2008-017231](Sentencia%202008-017231.md) | 2008-11-18 | 08-012699-0007-CO | el alcalde y el presidente del Concejo de Aguirre (demarcación vial en Quepos) | Parcialmente con lugar; orden a la CGR |
 | [2009-000494](Sentencia%202009-000494.md) | 2009-01-16 | 08-011530-0007-CO | el Concejo Municipal de Distrito de Cóbano, el MINAET, el AyA y el SENARA (pozos en Las De | Parcialmente con lugar (AyA, SENARA y MINAET); sin lugar contra el Concejo Municipal de Distrito y la SETENA |
 | [2009-015920](Sentencia%202009-015920.md) | 2009-10-16 | 09-012612-0007-CO | el Ministerio de Salud y la Municipalidad de Grecia (centro de rehabilitación de adiccione | Sin lugar |
+| [2010-001664](Sentencia%202010-001664.md) | 2010-01-27 | 09-012806-0007-CO | el Director del Hospital de Golfito (renuncia implícita de un trabajador alcohólico sin of | Con lugar |
 | [2011-007502](Sentencia%202011-007502.md) | 2011-06-14 | 11-004666-0007-CO | ALCALDE, EL JEFE DEL ÁREA RECTORA DE SALUD Y EL JEFE DE LA OFICINA LOCAL DEL CONSEJO NACIO |  |
 | [2011-015763](Sentencia%202011-015763.md) | 2011-11-16 | 11-006691-0007-CO | LA MUNICIPALIDAD DE GOICOECHEA |  |
 | [2013-002572](Sentencia%202013-002572.md) | 2013-02-22 | 12-005965-0007-CO |  |  |
