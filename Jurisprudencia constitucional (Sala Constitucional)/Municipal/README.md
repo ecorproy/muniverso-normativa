@@ -27,6 +27,7 @@ Votos que la capa analiza en su propia ficha.
 | [2022-023266](Sentencia%202022-023266.md) | 2022-10-07 | 22-016392-0007-CO | MUNICIPALIDAD DE SANTO DOMINGO DE HEREDIA |  |
 | [2023-005011](Sentencia%202023-005011.md) | 2023-03-03 | 23-002537-0007-CO | MUNICIPALIDAD DE PARAISO |  |
 | [2023-020182](Sentencia%202023-020182.md) | 2023-08-18 | 23-016759-0007-CO | MUNICIPALIDAD DE SAN PABLO DE HEREDIA |  |
+| [2023-021531](Sentencia%202023-021531.md) | 2023-09-01 | 21-020715-0007-CO | MUNICIPALIDAD DE SAN JOSÉ y el MINISTERIO DE EDUCACIÓN PÚBLICA |  |
 | [2023-027541](Sentencia%202023-027541.md) | 2023-10-27 | 23-016478-0007-CO | MUNICIPALIDAD DE HEREDIA Y EL INSTITUTO NACIONAL DE APRENDIZAJE (INA) |  |
 | [2023-027545](Sentencia%202023-027545.md) | 2023-10-27 | 23-017348-0007-CO | MINISTERIO DE SALUD Y LA MUNICIPALIDAD DE VÁZQUEZ DE CORONADO |  |
 | [2024-023383](Sentencia%202024-023383.md) | 2024-08-16 | 24-019847-0007-CO | MUNICIPALIDAD DE MATINA |  |
@@ -37,6 +38,7 @@ Votos que la capa analiza en su propia ficha.
 | [2025-012894](Sentencia%202025-012894.md) | 2025-05-02 | 25-006117-0007-CO | MINISTERIO DE OBRAS PÚBLICAS Y TRANSPORTES Y LA MUNICIPALIDAD DE TUCURRIQUE |  |
 | [2025-014445](Sentencia%202025-014445.md) | 2025-05-16 | 25-008508-0007-CO | MUNICIPALIDAD DE SARAPIQUÍ |  |
 | [2025-016121](Sentencia%202025-016121.md) | 2025-05-30 | 25-008481-0007-CO | MUNICIPALIDAD DE SAN PABLO DE HEREDIA Y EL MINISTERIO DE OBRAS PÚBLICAS Y TRASPORTES |  |
+| [2025-018866](Sentencia%202025-018866.md) | 2025-06-20 | 25-013630-0007-CO | MINISTERIO DE EDUCACIÓN PÚBLICA Y LA MUNICIPALIDAD DE ASERRÍ |  |
 | [2025-019603](Sentencia%202025-019603.md) | 2025-06-27 | 25-004852-0007-CO | MUNICIPALIDAD DE TIBÁS |  |
 | [2025-022755](Sentencia%202025-022755.md) | 2025-07-22 | 25-010689-0007-CO | ASOCIACIÓN DE DESARROLLO INTEGRAL (ADI) DE LA CARPINTERA DE LA UNIÓN DE CARTAGO Y LA MUNIC |  |
 | [2025-029985](Sentencia%202025-029985.md) | 2025-09-19 | 23-027898-0007-CO | MUNICIPALIDAD DE TALAMANCA, el INSTITUTO NACIONAL DE VIVIENDA Y URBANISMO y el INSTITUTO C |  |
@@ -100,6 +102,7 @@ Votos que la capa conoce solo porque otro voto los transcribe o los cita, o porq
 | [2011-010339](Citadas%20en%20otros%20votos/Sentencia%202011-010339.md) | 2011-08-05 | 11-005710-0007-CO | Ministerio de Obras Públicas y Transportes y otros |  |
 | [2011-012886](Citadas%20en%20otros%20votos/Sentencia%202011-012886.md) | 2011-09-23 | 11-009615-0007-CO | Municipalidad de Limón, el Instituto Costarricense de Ferrocarriles |  |
 | [2012-002021](Citadas%20en%20otros%20votos/Sentencia%202012-002021.md) | 2012-02-17 | 11-016140-0007-CO | Ministerio de Educación Publica, Ministerio de Cultura, Ministerio de Salud y la Municipal |  |
+| [2012-008000](Citadas%20en%20otros%20votos/Sentencia%202012-008000.md) | 2012-06-19 | 12-005737-0007-CO | DIRECTOR REGIONAL DE PUNTARENAS DEL MINISTERIO DE EDUCACIÓN PÚBLICA Y LA SUPERVISORA DEL C |  |
 | [2012-008915](Citadas%20en%20otros%20votos/Sentencia%202012-008915.md) | 2012-06-29 | 12-004308-0007-CO | COMISIÓN NACIONAL DE PREVENCIÓN DE RIESGOS Y ATENCIÓN DE EMERGENCIAS, y el MINISTERIO DE E |  |
 | [2012-012430](Citadas%20en%20otros%20votos/Sentencia%202012-012430.md) | 2012-09-07 | 12-009093-0007-CO | MINISTERIO DE EDUCACIÓN PÚBLICA |  |
 | [2014-008108](Citadas%20en%20otros%20votos/Sentencia%202014-008108.md) | 2014-06-06 | 14-004940-0007-CO | CONSEJO DE SEGURIDAD VIAL |  |
@@ -113,7 +116,7 @@ Votos que la capa conoce solo porque otro voto los transcribe o los cita, o porq
 | [2016-006368](Citadas%20en%20otros%20votos/Sentencia%202016-006368.md) | 2016-05-13 | 16-002436-0007-CO | EVANS LEIVA BADILLA, CÉDULA 5-03290201, EN SU CONDICIÓN DE ADMINISTRADOR DEL RESIDENCIAL E |  |
 | [2017-016787](Citadas%20en%20otros%20votos/Sentencia%202017-016787.md) | 2017-10-20 | 17-015682-0007-CO |  |  |
 | [2017-019233](Citadas%20en%20otros%20votos/Sentencia%202017-019233.md) | 2017-12-01 | 17-015799-0007-CO | UNIVERSIDAD DE COSTA RICA (UCR) |  |
-| [2018-008599](Citadas%20en%20otros%20votos/Sentencia%202018-008599.md) | 2018-06-01 | 18-006056-0007-CO |  |  |
+| [2018-008599](Citadas%20en%20otros%20votos/Sentencia%202018-008599.md) | 2018-06-01 | 18-006056-0007-CO | Municipalidad de Puntarenas y el Ministerio de Salud, ampliado al Instituto Costarricense  |  |
 | [2018-011704](Citadas%20en%20otros%20votos/Sentencia%202018-011704.md) | 2018-07-20 | 18-007407-0007-CO | MUNICIPALIDAD DE SANTA CRUZ |  |
 | [2018-012095](Citadas%20en%20otros%20votos/Sentencia%202018-012095.md) | 2018-07-24 | 17-019057-0007-CO | Violencia Doméstica |  |
 | [2019-004166](Citadas%20en%20otros%20votos/Sentencia%202019-004166.md) | 2019-03-08 | 19-002401-0007-CO | INSTITUTO DE FOMENTO Y ASESORÍA MUNICIPAL (IFAM) |  |
@@ -128,6 +131,8 @@ Votos que la capa conoce solo porque otro voto los transcribe o los cita, o porq
 | [2020-018269](Citadas%20en%20otros%20votos/Sentencia%202020-018269.md) | 2020-09-25 | 20-014722-0007-CO | CONCEJO DEL DISTRITO DE PAQUERA |  |
 | [2021-008776](Citadas%20en%20otros%20votos/Sentencia%202021-008776.md) | 2021-04-30 | 21-006997-0007-CO | CONCEJO MUNICIPAL DE GRECIA |  |
 | [2021-024807](Citadas%20en%20otros%20votos/Sentencia%202021-024807.md) | 2021-11-05 | 21-016578-0007-CO | MINISTERIO DE AGRICULTURA Y GANADERÍA (MAG) , el MINISTERIO DE SALUD y el MINISTERIO DE AM |  |
+| [2021-026563](Citadas%20en%20otros%20votos/Sentencia%202021-026563.md) | 2021-11-26 | 21-020715-0007-CO | MUNICIPALIDAD DE SAN JOSÉ y el MINISTERIO DE EDUCACIÓN PÚBLICA |  |
+| [2021-028022](Citadas%20en%20otros%20votos/Sentencia%202021-028022.md) | 2021-12-15 | 20-011425-0007-CO | Ley General de la Administración Pública en su artículo 308 | Con lugar parcialmente |
 | [2022-010613](Citadas%20en%20otros%20votos/Sentencia%202022-010613.md) | 2022-05-13 | 22-004536-0007-CO | MINISTERIO DE SALUD |  |
 | [2022-014253](Citadas%20en%20otros%20votos/Sentencia%202022-014253.md) | 2022-06-24 | 22-011453-0007-CO | MUNICIPALIDAD DE ALAJUELA |  |
 | [2022-017550](Citadas%20en%20otros%20votos/Sentencia%202022-017550.md) | 2022-07-29 | 22-011974-0007-CO | Ministerio de Obras Públicas y Transportes y otros |  |
@@ -154,7 +159,7 @@ Votos que la capa conoce solo porque otro voto los transcribe o los cita, o porq
 | [2024-017568](Citadas%20en%20otros%20votos/Sentencia%202024-017568.md) | 2024-06-25 | 24-007095-0007-CO | INSTITUTO COSTARRICENSE DE FERROCARRILES y el SISTEMA NACIONAL DE AREAS DE CONSERVACION |  |
 | [2024-017911](Citadas%20en%20otros%20votos/Sentencia%202024-017911.md) | 2024-06-28 | 24-008574-0007-CO | MUNICIPALIDAD DE MONTES DE ORO |  |
 | [2024-026300](Citadas%20en%20otros%20votos/Sentencia%202024-026300.md) | 2024-09-10 | 14-019174-0007-CO | Plan de Manejo, el Plan Regulador Costero Talamanca y la Directriz 09-2023 del Ministerio  | Se acoge |
-| [2024-035187](Citadas%20en%20otros%20votos/Sentencia%202024-035187.md) | 2024-11-26 | 23-016445-0007-CO |  |  |
+| [2024-035187](Citadas%20en%20otros%20votos/Sentencia%202024-035187.md) | 2024-11-26 | 23-016445-0007-CO | Colegio de Profesionales en Criminologí a, en los siguientes té rminos: “ (… ) Se declara  |  |
 | [2025-000577](Citadas%20en%20otros%20votos/Sentencia%202025-000577.md) | 2025-01-10 | 24-033215-0007-CO | MUNICIPALIDAD DE LIMON |  |
 | [2025-006205](Citadas%20en%20otros%20votos/Sentencia%202025-006205.md) | 2025-02-28 | 25-002705-0007-CO | MINISTERIO DE OBRAS PUBLICAS Y TRANSPORTES |  |
 | [2025-015728](Citadas%20en%20otros%20votos/Sentencia%202025-015728.md) | 2025-05-27 | 25-008508-0007-CO | MUNICIPALIDAD DE SARAPIQUÍ |  |
