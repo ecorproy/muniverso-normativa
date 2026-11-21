@@ -60,6 +60,8 @@ Votos que la capa analiza en su propia ficha.
 | [2023-021531](Sentencia%202023-021531.md) | 2023-09-01 | 21-020715-0007-CO | MUNICIPALIDAD DE SAN JOSÉ y el MINISTERIO DE EDUCACIÓN PÚBLICA |  |
 | [2023-027541](Sentencia%202023-027541.md) | 2023-10-27 | 23-016478-0007-CO | MUNICIPALIDAD DE HEREDIA Y EL INSTITUTO NACIONAL DE APRENDIZAJE (INA) |  |
 | [2023-027545](Sentencia%202023-027545.md) | 2023-10-27 | 23-017348-0007-CO | MINISTERIO DE SALUD Y LA MUNICIPALIDAD DE VÁZQUEZ DE CORONADO |  |
+| [2024-017189](Sentencia%202024-017189.md) | 2024-06-21 | 24-012669-0007-CO | la Municipalidad de Naranjo (ventanilla preferencial y ascensor del edificio municipal) | Con lugar |
+| [2024-019586](Sentencia%202024-019586.md) | 2024-07-12 | 24-011246-0007-CO | el SINAC y la Municipalidad de Heredia (tala de un cedro amargo junto a una acera) | Con lugar contra el SINAC; sin lugar contra la Municipalidad |
 | [2024-021998](Sentencia%202024-021998.md) | 2024-08-01 | 24-016791-0007-CO | el PANI y el IMAS (Red de Cuido y CECUDI municipal de Palmares; lateral) | Sin lugar |
 | [2024-023383](Sentencia%202024-023383.md) | 2024-08-16 | 24-019847-0007-CO | MUNICIPALIDAD DE MATINA |  |
 | [2024-024858](Sentencia%202024-024858.md) | 2024-08-30 | 24-020151-0007-CO | el Ministerio de Educación Pública (Liceo Ambientalista de Horquetas, Sarapiquí) | Sin lugar |
@@ -76,11 +78,13 @@ Votos que la capa analiza en su propia ficha.
 | [2025-029985](Sentencia%202025-029985.md) | 2025-09-19 | 23-027898-0007-CO | MUNICIPALIDAD DE TALAMANCA, el INSTITUTO NACIONAL DE VIVIENDA Y URBANISMO y el INSTITUTO C |  |
 | [2025-030948](Sentencia%202025-030948.md) | 2025-09-26 | 25-020119-0007-CO | EL INSTITUTO COSTARRICENSE DE ACUEDUCTOS Y ALCANTARILLADOS, EL MINISTERIO DE SALUD Y LA MU |  |
 | [2025-034736](Sentencia%202025-034736.md) | 2025-10-24 | 25-024164-0007-CO | el AyA y el MINAE (Santa María de Rincón de la Vieja, Liberia); la municipalidad no fue pa | Sin lugar |
+| [2025-034914](Sentencia%202025-034914.md) | 2025-10-24 | 25-029506-0007-CO | la Municipalidad de Santa Cruz (demolición en la zona marítimo terrestre de playa Avellana | Con lugar |
 | [2025-035627](Sentencia%202025-035627.md) | 2025-10-31 | 25-022663-0007-CO | la Municipalidad de Puntarenas (comentarios restringidos en la transmisión de una comisión | Con lugar, sin costas (art. 52 LJC); voto salvado parcial sobre costas |
 | [2025-037535](Sentencia%202025-037535.md) | 2025-11-14 | 25-022952-0007-CO | MUNICIPALIDAD DE DESAMPARADOS |  |
 | [2025-041927](Sentencia%202025-041927.md) | 2025-12-19 | 25-026403-0007-CO | MUNICIPALIDAD DE SAN CARLOS y la ASOCIACIÓN DE DESARROLLO INTEGRAL DE RANCHO GRANDE Y BETE |  |
 | [2026-005199](Sentencia%202026-005199.md) | 2026-02-13 | 25-024523-0007-CO | ASOCIACI Ó N DE DESARROLLO INTEGRAL -ADI- DE RESERVA IND Í GENA DE T É RRABA DE BUENOS AIR |  |
 | [2026-010907](Sentencia%202026-010907.md) | 2026-03-27 | 26-002699-0007-CO | la Municipalidad de Goicoechea (remodelación del Parque Santiago Jara) | Sin lugar |
+| [2026-010924](Sentencia%202026-010924.md) | 2026-03-27 | 26-003644-0007-CO | la Municipalidad de San Ramón, el MOPT y la CNE (vado en El Socorro de Piedades Sur) | Con lugar solo contra la Municipalidad |
 | [2026-013450](Sentencia%202026-013450.md) | 2026-04-21 | 26-007565-0007-CO | MUNICIPALIDAD DE LIM Ó N |  |
 | [2026-014326](Sentencia%202026-014326.md) | 2026-04-24 | 25-036370-0007-CO | LA MUNICIPALIDAD DE SAN RAMÓN |  |
 | [2026-014377](Sentencia%202026-014377.md) | 2026-04-24 | 26-006556-0007-CO | MUNICIPALIDAD DE BEL É N |  |
@@ -94,6 +98,7 @@ Votos que la capa analiza en su propia ficha.
 | [2026-031941](Sentencia%202026-031941.md) | 2026-08-20 | 26-016045-0007-CO | MUNICIPALIDAD DE LA UNI Ó N |  |
 | [2026-032956](Sentencia%202026-032956.md) | 2026-08-27 | 26-019995-0007-CO | MUNICIPALIDAD DE ALAJUELA |  |
 | [2026-034745](Sentencia%202026-034745.md) | 2026-09-10 | 26-024323-0007-CO | MUNICIPALIDAD DE ASERR Í |  |
+| [2026-036718](Sentencia%202026-036718.md) | 2026-09-24 | 26-029826-0007-CO | el CONAPAM (ubicación de una persona adulta mayor en riesgo de abandono; lateral) | Con lugar, sin costas (art. 52 LJC); votos salvados parciales |
 | [2026-038693](Sentencia%202026-038693.md) | 2026-10-08 | 26-031860-0007-CO | MUNICIPALIDAD DE MONTES DE OCA |  |
 
 ## Citadas en otros votos
