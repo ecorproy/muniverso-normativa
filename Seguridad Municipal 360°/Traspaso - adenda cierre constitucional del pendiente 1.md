@@ -25,7 +25,7 @@ Lectura de trabajo, que es del proyecto y que la Sala no ha formulado como regla
 
 ## Pendiente 5 del traspaso: resuelto en lo normativo
 
-El «interdicto» del Código Procesal Agrario que Edward mencionó es el sumario de derribo: Ley 9609, arts. 275 a 278 (el 277, reformado por la Ley 10779, de 29 de octubre de 2025: la PGR es parte si el árbol está en dominio público). No atribuye funciones a la municipalidad; legitima a «cualquiera que tenga interés». La Sala manda esos casos a esa vía y exige a la municipalidad informarla al vecino y prevenir mientras tanto (2025-016121). Falta verificar en jurisprudencia agraria si una municipalidad ha promovido el sumario como actora.
+El «interdicto» del Código Procesal Agrario que Edward mencionó es el sumario de derribo: Ley 9609, arts. 275 a 278 (el 277, reformado por la Ley 10779, de 29 de octubre de 2025: la PGR es parte si el árbol está en dominio público). No atribuye funciones a la municipalidad; legitima a «cualquiera que tenga interés». La Sala manda esos casos a esa vía y exige a la municipalidad informarla al vecino y prevenir mientras tanto (2025-016121). Falta verificar en jurisprudencia agraria si una municipalidad ha promovido el sumario como actora. Dato lateral: una Junta de Educación de Sarapiquí lo promovió con éxito contra árboles del bosque del SINAC que amenazaban la escuela (Juzgado Agrario del II Circuito Judicial de la Zona Atlántica, expediente 23-000226-0507-AG, resolución N.° 2023000552; mencionado en el voto N.° 2024-024858). Confirma que un ente público puede ser actor; falta un caso municipal.
 
 ## Lo que sigue abierto
 
