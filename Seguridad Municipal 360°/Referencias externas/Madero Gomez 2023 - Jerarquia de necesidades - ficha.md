@@ -2,7 +2,8 @@
 
 - **Referencia (APA 7):** Madero Gómez, S. (2023). Percepción de la jerarquía de necesidades de Maslow y su relación con los factores de atracción y retención del talento humano. *Contaduría y Administración*, *68*(1), 235-259. https://doi.org/10.22201/fca.24488410e.2023.3416
 - **Acceso:** SciELO México, acceso abierto. Versión en línea: https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0186-10422023000100235 · PDF: https://www.scielo.org.mx/pdf/cya/v68n1/0186-1042-cya-68-01-235.pdf
-- **Archivo:** **no se guarda en este repositorio**, que es público. `preparar-taller.sh` baja el PDF del enlace anterior.
+- **Licencia:** acceso abierto bajo licencia Creative Commons, según la declaración de la propia página de SciELO. Por eso el archivo sí se guarda aquí.
+- **Archivo:** `Madero Gomez 2023 - Jerarquia de necesidades.pdf`, con su texto extraído y paginado en `Madero Gomez 2023 - Jerarquia de necesidades - texto extraido (paginado).txt`. `preparar-taller.sh` también puede bajarlo del enlace anterior.
 - **Paginación:** la del PDF es la de la revista, de la 235 a la 259. El texto para cotejo (`madero_pag.txt`) agrega 234 páginas vacías al inicio para que la página del archivo coincida con la impresa.
 - **Nota:** la versión HTML de SciELO, que fue la aportada en la conversación, no trae paginación. Las páginas se tomaron del PDF.
 

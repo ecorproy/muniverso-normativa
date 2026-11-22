@@ -2,7 +2,9 @@
 
 Fuentes que no son normativa ni jurisprudencia costarricense. Para cada una se anota dónde está, si su texto se guarda en este repositorio y si las citas que la invocan se cotejaron contra el original.
 
-Este repositorio es público, de modo que **no se guarda aquí el texto íntegro de obras ajenas**, salvo los documentos oficiales, que no están protegidos, y el Informe ICN, cuyos créditos permiten la reproducción. De las demás queda la ficha, con el enlace y la página de cada cita.
+Este repositorio es público, de modo que **solo se guarda aquí el texto íntegro de una obra ajena cuando su propia licencia permite redistribuirla**: los documentos oficiales, que no están protegidos; el Informe ICN, cuyos créditos permiten la reproducción total o parcial con créditos; y el artículo de Madero Gómez, publicado en acceso abierto con licencia Creative Commons. De las demás queda la ficha, con el enlace y la página de cada cita, que es lo que permite auditar el libro sin redistribuir la obra.
+
+No deben subirse aquí, bajo ninguna circunstancia: la norma ISO 18091, que es de pago y con todos los derechos reservados; el artículo de Pele y el informe de Los Cabos, que no traen declaración de licencia; ni la edición en línea de Tocqueville, cuya traducción no indica traductor ni titular de derechos.
 
 | Fuente | Dónde está | Texto en el repositorio | Citas | Cotejo |
 | --- | --- | --- | --- | --- |
@@ -10,10 +12,10 @@ Este repositorio es público, de modo que **no se guarda aquí el texto íntegro
 | Índice de Gestión de Servicios Municipales 2025 (CGR) | Solo reproducción parcial en vLex | Extracto público | 2 | **Incompleto**, ver abajo |
 | Informe ICN 2026 (CPC) | En este repositorio | Sí, PDF y texto extraído | 12 | Completo, con página |
 | Pele (2015), *Kant y la dignidad humana* | Revista Brasileira de Estudos Políticos, DOI en la ficha | No, hay que adjuntar el PDF | 14 | Completo, con página |
-| Madero Gómez (2023), jerarquía de necesidades | SciELO México, acceso abierto | No, se baja del enlace | 14 | Completo, con página |
+| Madero Gómez (2023), jerarquía de necesidades | SciELO México, acceso abierto con licencia Creative Commons | Sí, PDF y texto extraído | 14 | Completo, con página |
 | Tocqueville, *La democracia en América* | Edición en línea, enlace en la ficha | No, se baja del enlace | 12 | Completo, con página del archivo |
-| ISO 18091:2019 | Norma de pago. Se trabajó con la vista previa gratuita | No, es obra de pago | 2 | Completo, con página de la vista previa |
-| Observatorio Ciudadano Integral de Los Cabos (2020) | PDF aportado | No | 1 | Completo, con página |
+| ISO 18091:2019 | Norma de pago. Se trabajó con la vista previa gratuita | No, y no debe subirse: todos los derechos reservados | 2 | Completo, con página de la vista previa |
+| Observatorio Ciudadano Integral de Los Cabos (2020) | PDF aportado, sin declaración de licencia | No | 1 | Completo, con página |
 | PNUD (1994), *Informe sobre Desarrollo Humano* | Público | No | 0, se parafrasea | No aplica |
 | Maslow (1943); Max-Neef, Elizalde y Hopenhayn (1986) | Obras clásicas | No | 0, se parafrasean; Maslow se expone además a través de Madero Gómez | No aplica |
 

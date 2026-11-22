@@ -1,0 +1,1122 @@
+                                   www.cya.unam.mx/index.php/cya
+
+
+                                Contaduría y Administración 68 (1), 2023, 235-259
+
+
+
+
+       Percepción de la jerarquía de necesidades de
+     Maslow y su relación con los factores de atracción
+             y retención del talento humano
+                 Perception of Maslow's hierarchy of needs and its
+                 relationship to attract and retain the human talent
+
+                                      Sergio Madero Gómez*
+
+                                        Tecnológico de Monterrey, México
+
+
+                        Recibido el 12 de julio de 2021; aceptado el 8 de noviembre de 2022
+                                Disponible en Internet el: 9 de noviembre de 2022
+
+
+
+
+Resumen
+
+Las teorías de motivación fueron desarrolladas desde hace más de 50 años, como consecuencia inmediata
+de los resultados obtenidos en el experimento de Hawthorne, básicamente un movimiento de reacción y
+de oposición a la teoría clásica de la administración y no tenían la perspectiva con la que se cuenta en la
+actualidad respecto a la tecnología, comunicación y aperturas globales. El objetivo de la presente
+investigación además de validar una escala de medida de los factores que integran la pirámide de las
+necesidades de Maslow, trata identificar la relación que tienen con los factores de atracción y/o retención
+del talento en el entorno laboral mexicano. Es una investigación cuantitativa, se utilizó un cuestionario se
+aplicó en formato en línea a una muestra a conveniencia de 416 personas radican en la zona metropolitana
+de Monterrey, Nuevo León, México, entre los hallazgos encontrados se puede mencionar que las
+necesidades de mayor interés son las sociales y las de autoestima, así mismo se concluye que las escalas
+en el cuestionario son válidas y confiables para poder estudiar el tema en otros contextos.
+
+
+Código JEL: J24, M12, M54
+Palabras clave: teorías de motivación; Maslow; atracción de talento; retención de talento; recursos humanos
+
+
+    * Autor para correspondencia
+    Correo electrónico: smadero@tec.mx (S. Madero Gómez).
+    La revisión por pares es responsabilidad de la Universidad Nacional Autónoma de México.
+
+    http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+    0186- 1042/© 2019 Universidad Nacional Autónoma de México, Facultad de Contaduría y Administración. Este
+    es un artículo Open Access bajo la licencia CC BY-NC-SA (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+                                                                                                              235
+                      S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                              http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+Abstract
+
+Motivation theories were developed more than 50 years ago, as an immediate consequence of the results
+obtained in the Hawthorne experiment. It was basically a reaction and opposition to the classical theory
+of management without today's perspective regarding technology, communication, and global openings.
+The aim of this research, in addition to validating a scale of measurement of the factors that make up
+Maslow's pyramid of needs, is to identify the relationship they have with the factors of attraction of human
+talent in the Mexican work environment. This is quantitative research; an online questionnaire was applied
+using a convenience sample of 416 people. These people live in the metropolitan area of Monterrey,
+Nuevo León, Mexico. Amongst the findings, it can be mentioned that the needs of greatest interest are
+social and self-esteem, likewise it is concluded that the scales in the questionnaire are valid and reliable.
+In the future, it is expected to continue evaluating the scale in other contexts.
+
+
+JEL Code: J24, M12, M54
+Keywords: motivation theories; Maslow; human talent attraction; human talen retention; human resource
+management
+
+
+
+
+Introducción
+
+La administración y las ciencias sociales se enfocan principalmente al estudio del comportamiento
+humano definiendo términos y conceptos como: deseos, necesidades, instintos, impulsos, etc. para hacer
+referencia a una fuerza interna del individuo que lo lleva a tener un comportamiento positivo o negativo
+y poder lograr una meta u objetivo previamente planteado, como lo hacen diversos autores en sus
+investigaciones con la finalidad de destacar la relevancia que tienen las personas en los diversos ámbitos
+que se desarrollan. Montoro, Pinazo y Tortosa (2007); Hernández (2011); Madero y Rodríguez (2018);
+Mejía, De la Rosa-Salazar y Huertas-Moreno (2021).
+           Por su parte Araya-Castillo y Pedreros-Gajardo (2013) y Sekhar, Patwardhan y Singh (2013)
+realizan una revisión a las teorías de motivación destacando relevancia y la importancia que tiene estudiar
+estos temas. Griffin, Phillips y Gully (2020) definen la motivación como el conjunto de fuerzas que hace
+que las personas se comporten de cierta forma y mencionan diversas teorías ligadas a la motivación del
+comportamiento, como la de Frederick Herzberg, Abraham Maslow, David Mc Clelland, Douglas Mc
+Gregor y Victor Vroom, principalmente han sido desarrolladas tratando de explicar qué es lo que impulsa
+al ser humano a vivir su día a día cumpliendo con las diversas actividades que realiza. Estas teorías se han
+centrado en la explicación de conductas con base en diferentes aspectos de las necesidades humanas, desde
+lo económico, lo laboral, hasta la supervivencia básica. (Koncar et al., 2022; Shannon, 2017; Kopelman,
+Prottas y Davis, 2008; Carson, 2005).
+
+
+
+
+                                                                                                        236
+                     S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                             http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+          A pesar de que la administración científica mejoró los procesos organizacionales y la
+productividad en las empresas, también aumentó la monotonía en el trabajo afectando la iniciativa y las
+preferencias de las personas ocasionando de alguna manera malestar y molestia entre ellas, pues
+aparecieron una serie de modificaciones en las jornadas laborales, afectando horarios, condiciones de
+trabajo y salarios que no alcanzaban para cubrir las necesidades básicas de las familias de esa época y el
+deterioro social era inevitable debido principalmente a los procesos de automatización, originando con
+ello, el surgimiento de la escuela de las relaciones humanas con la idea de estudiar el comportamiento de
+las personas y poder humanizar a las empresas, centrándose en las actividades realizadas, en las
+aspiraciones y en las motivaciones que tienen las personas, Cardiel (2015), Ahuja y Ranga (2022); Ali y
+Anwar (2021); Dourado y Zambroni-de-Souza (2020); Foncubierta-Rodríguez y Sánchez-Montero
+(2019).
+          Griffin, Phillips y Gully (2020), señalan que el movimiento de las relaciones humanas o también
+llamada escuela de las relaciones humanas destaca que las orientaciones, valores y sentimientos de los
+trabajadores son parte importante de la dinámica y desempeño organizacional. Las principales causas del
+origen de la teoría de las relaciones humanas se basan principalmente en: a) la necesidad de humanizar y
+democratizar la administración, liberándola de los conceptos rígidos y mecanicistas de la teoría clásica.
+b) el desarrollo mismo de las llamadas ciencias humanas, en especial la psicología y la sociología, c) las
+ideas de Elton Mayo quién es considerado el fundador de la escuela; así como algunos de sus seguidores
+como John Dewey, Kurt Lewin, Fritz Roethlisberger y William Dickson y finalmente d) las conclusiones
+del experimento de Hawthorne, llevado a cabo entre 1927 y 1932 bajo la coordinación de Elton Mayo,
+que pusieron en entredicho los principales postulados de la teoría clásica de la administración.
+          En la actualidad se presenta una problemática similar tanto en procesos organizacionales como
+en temas del comportamiento humano, ocasionada por una variedad de factores entre los que destacan la
+implementación y el uso de la tecnología, los esquemas de digitalización en los diversos procesos
+productivos y de gestión empresarial así como el surgimiento de las redes sociales, dando como resultados
+un incremento en la rotación del personal, insatisfacción en los colaboradores, agotamiento físico y mental
+en las personas, falta de motivación e interés por realizar las tareas asignadas ocasionado por no tener las
+competencias requeridas para hacer dicha actividad, que de alguna manera se afectan los procesos de
+atracción y retención del talento en las organizaciones.
+          Después de analizar éstos aspectos se han generado las siguientes preguntas que serán
+importantes hacerse para poder llevar a cabo la presente investigación: ¿Seguirán siendo vigentes las
+teorías de motivación o es necesario hacer ajustes por la dinámica que tienen en la actualidad los procesos
+humanos, como la evolución del trabajo y el uso de la tecnología?, ¿En la actualidad es necesario conocer
+cuáles son los aspectos que las personas le dan más importancia en su vida diaria y en su desarrollo
+
+                                                                                                       237
+                    S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                            http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+profesional?, ¿A qué elemento de la jerarquía de necesidades de Maslow le dan mayor relevancia las
+personas en la actualidad? y finalmente, ¿Cuáles son los aspectos de los procesos de recursos humanos
+que más influyen en la jerarquía de necesidades de Maslow?.
+          Dando continuidad al trabajo realizado por Madero, Rojas y Borbolla (2021) y tomando en
+cuenta una de las conclusiones de los trabajos de Araya-Castillo y Pedreros-Gajardo (2013); Latham y
+Pinder (2005) y de Rasskazova, Ivanova y Sheldon (2016) donde mencionan que es necesario actualizar
+y fundamentar con nuevos modelos o nuevas mediciones los aspectos del comportamiento humano,
+basado en las clasificaciones de motivación aportadas por Abraham Maslow, la presente investigación
+tiene como objetivos analizar la jerarquía de las necesidades que tienen las personas de acuerdo a la época
+que estamos viviendo considerando el entorno laboral mexicano, así como diseñar, adaptar y validar una
+escala de medida de los factores motivadores de la pirámide de necesidades de Maslow, además de
+identificar cuáles son los factores de atracción y retención del talento que más influyen desde la
+perspectiva de la teoría de Maslow.
+          El resto del trabajo está estructurado de la siguiente manera. Primero, procedemos a elaborar
+una revisión de la literatura que existe en el tema, en seguida se establece el método utilizado en la
+investigación donde se explican los aspectos que se consideraron para realizar el trabajo, luego se hace el
+análisis de los resultados de validez y confiabilidad, así como los resultados estadísticos con su análisis
+correspondiente y finalizamos con las conclusiones, limitantes y algunas lecciones reflexivas desde el
+punto de vista empresarial.
+
+
+Revisión de la literatura
+
+Después de la primera guerra mundial, el estudio de los procesos organizacionales se orientó hacia la
+comprensión del rol que tenían los diversos factores humanos y psicológicos, es por eso que en la décadas
+de 1920 y 1930, se les pidió a un equipo de investigadores de la Universidad de Harvard liderados por
+Elton Mayo, Fritz Roethlisberger y William Dickson, que estudiaran las actividades de los diversos grupos
+de trabajo en la planta Hawthorne de la Western Electric, situada en Cicero, Illinois, Estados Unidos, con
+la finalidad de evaluar diversos factores y los efectos que tenían en la productividad, como son premios,
+bonos, incentivos, tiempos de descanso, etc.
+          Los investigadores descubrieron que los comportamientos individuales se modificaron en los
+grupos de trabajo y por ellos mismos, señalando que las personas mejoran algún aspecto de su
+comportamiento o de su desempeño simplemente porque están siendo observadas o evaluadas, en esencia
+los empleados están más motivados cuando creen que la organización para la que trabajan se preocupa
+por ellos y está dispuesta a escucharlos, muchas de estas razone han estado inspirando a realizar
+                                                                                                      238
+                     S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                             http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+investigaciones adicionales de los efectos de las relaciones sociales, la motivación, la comunicación y la
+satisfacción laboral, entre otros tópicos más, (Griffin, 2022; Griffin et al. 2020; Cardiel, 2015).
+          De acuerdo con Robbins y Judge (2017:209), motivación es “el proceso que determina la
+intensidad, dirección y persistencia del esfuerzo de un individuo hacia el logro de una meta”. Además,
+mencionan que la intensidad se refiere a la cantidad de esfuerzo que hace alguien, sin embargo, debe tener
+una dirección, es decir, que el esfuerzo se oriente hacia algo, finalmente la motivación debe tener una
+persistencia, y se refiere por cuanto tiempo la persona es capaz de mantener ese esfuerzo.
+          Por su parte, Mejía, De la Rosa-Salazar y Huertas-Moreno (2021); Touré-Tillery y Fishbach
+(2011) y Fishbach y Ferguson (2007), entre otros más, mencionan que la motivación nace de la creación
+consciente de una meta, pues esto es una representación mental de un estado deseado. Así se puede
+mencionar que la motivación va asociada con la satisfacción, intensidad, provocación e inspiración de
+cumplir una meta como lo mencionan Taylor (2007); Alonso (2008); Naranjo (2009) en sus
+investigaciones relacionadas con el tema.
+          Una de las teorías más conocidas sobre motivación es la de Abraham Maslow, titulada la teoría
+de la jerarquía de las necesidades, apareciendo en 1943 que trata de explicar qué es lo que impulsa la
+conducta humana en la satisfacción de diversas necesidades, la forma en que se conceptualiza la teoría es
+una pirámide que prioriza las necesidades de un individuo. Donde destaca cinco niveles principales los
+cuales mueven al ser humano, siendo estos las necesidades fisiológicas, de seguridad, sociales, de
+autoestima/reconocimiento y la autorrealización. Maslow muestra en su pirámide que, para lograr
+satisfacer una necesidad de nivel alto, es necesario haber satisfecho las de niveles bajos (Maslow,1943;
+Dye, Mills y Weatherbee, 2005; Stum, 2001).
+          De acuerdo con la teoría de Maslow, se puede mencionar que la mayoría de las personas (entre
+1940 y 1950) buscaba la supervivencia como principal motivación, debido al entorno que se vivió previo,
+durante y posterior de la segunda guerra mundial, siendo real el primer nivel propuesto por Maslow, las
+necesidades fisiológicas. Entre ellas se encuentran la necesidad de liberarse de la sed y del hambre, aliviar
+el dolor, el cansancio, así como la necesidad de dormir. Por ende, al cumplir estas necesidades, podían
+aspirar a más, por ejemplo, los individuos estudiaban para así poder tener una profesión que les diera
+ganancia para comer, vivir, tener una casa con temperatura adecuada en sus áreas de interacción, etc.
+(Arango y Ramírez, 2007).
+          El segundo nivel se refiere a las necesidades de seguridad, las que incluyen el cuidado y la
+protección contra los daños físicos y emocionales, se preocupan por ahorrar, por comprar bienes y seguros
+para tener una vida ordenada sin preocupaciones en el futuro, éstas necesidades aparecen una vez que
+están relativamente satisfechas las anteriores, en seguida, en el tercer nivel, están las necesidades de
+pertenencia, es decir, son las que tratan de hacer que el individuo pueda relacionarse con los demás
+
+                                                                                                        239
+                     S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                             http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+miembros de la sociedad o personas que lo rodean, buscando su afecto o bien su interacción o asociación
+con cada uno de ellos, representan la voluntad de reconocer y ser reconocido por los demás, que incluyen
+el afecto, el sentido de pertenencia, la aceptación, la identificación con un grupo y la amistad.
+          El cuarto grupo de necesidades de la jerarquía de Maslow es la de autoestima/reconocimiento,
+es decir, el deseo de realización, dominio de lo que realiza, competencias adquiridas, independencia,
+autonomía y libertad, también puede ser también un deseo de reputación, prestigio, estatus y
+reconocimiento, algunos autores mencionan que es la necesidad de sentirse útil y necesario, finalmente
+las necesidades de autorrealización, es cuando se manifiesta por completo o una realización de las
+actividades realizadas, tanto en aspectos de desarrollo físico, como psicológico o social. Sin embargo,
+hoy en día, las motivaciones y el orden de estas necesidades en una persona son muy distintas que en otra.
+(Montoro, Pinazo y Tortosa, 2007; Barnes y Pressey, 2012).
+          Existen evidencias recientes sobre el estudi,o análisis y aportaciones de la teoría de Maslow que
+se muestran a continuación en la tabla 1.
+
+
+Tabla 1
+Investigaciones aplicadas basadas en la Teoría de Maslow
+                     Autores                                          Aplicación
+  Gambrel y Cianci (2003)                      Perspectiva colectiva y de aplicación internacional
+  Adams, Harris y Martin (2015)                Perspectiva de las pequeñas empresas
+  Rasskazova, Ivanova y Sheldon (2016)         Combinación con el modelo de la teoría de la
+                                               autodeterminación
+  Gallagher et al., (2017)                     Desarrollo y validación de una escala
+  Vargas-Hernández y Arreola-Enríquez Microempresas familiares
+  (2017)
+  Yong, et al., (2017)                         Analizan las necesidades de los consumidores deportivos
+  Acevedo (2018)                               Una perspectiva humanista
+  Tripathi y Moakumla (2018)                   Aspectos relacionados con la calidad de vida de las
+                                               personas
+  Cavalcanti et al., (2019)                    Desarrollo y validación de una escala
+  Genkova (2021)                               Factores macroeconómicos de la sociedad en general
+  Rojas-Rojas, et al., (2021)                  Las necesidades humanas desde la perspectiva de la
+                                               contabilidad
+Fuente: Elaboración propia
+
+          En lo que respecta a los factores de atracción y retención del talento, Araya, Rojas y Varas
+(2021); Dourado y Zambroni-de-Souza (2020); así como Madero (2019), mencionan la relevancia de
+diseñar estrategias, procesos y herramientas de gestión en las áreas de recursos humanos con la finalidad
+de que las personas al momento de ingresar a una empresa estén motivadas y se vayan adaptando a ese
+entorno laboral actual, por su parte las organizaciones tienen que satisfacer las preferencias de las nuevas
+generaciones en los diversos lugares de trabajo con la finalidad de generar una propuesta de valor atractiva
+
+                                                                                                       240
+                     S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                             http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+para que las personas puedan continuar cumpliendo sus funciones, ayudando a la permanencia, destacando
+las oportunidades de crecimiento, el desarrollo de habilidades en las personas, las actividades que
+favorezcan el balance vida trabajo, entre otras prácticas más como un conjunto de elementos para
+considerar en los aspectos motivacionales tanto intrínsecos como extrínsecos de los colaboradores.
+          En ese mismo contexto, pero considerando las preferencias de los buscadores de empleo, Ng,
+Schweitzer y Lyons (2010) mencionan también las oportunidades de avanzar y crecer en la empresa, tener
+buenos líderes al frente de las áreas de trabajo, así como buenos compañeros de trabajo y atractivos planes
+de prestaciones y beneficios, aunque también es importante mencionar la relevancia que tienen las
+compensaciones monetarias y no monetarias como factores motivacionales decisivos para poder analizar
+una alternativa laboral.
+          Por su parte Jerome, et al. (2014) mencionan la importancia de que las políticas empresariales
+relacionadas con la fuerza laboral sean más flexibles, pues las nuevas generaciones prefieren actividades
+con horarios flexibles que favorezcan la realización del trabajo en un formato híbrido, y por lo tanto se
+mantengan los niveles de productividad, el logro de resultados y la permanencia. Estos aspectos son muy
+relevantes en los procesos del comportamiento humano, es especial en términos de motivación.
+
+
+Metodología
+
+En seguida se presenta la metodología en la que se sustenta esta investigación cuantitativa no
+experimental, transeccional de tipo descriptiva y correlacional, realizada en el área metropolitana de la
+ciudad de Monterrey, Nuevo León, México.
+
+
+Estructura y diseño del instrumento de medida
+
+Para continuar con el desarrollo de la presente investigación, se consideró analizar el trabajo realizado por
+Taormina y Gao (2013), por ser una investigación con más de 600 citas y que en su versión original en el
+idioma Inglés consta de 72 ítems en una escala de Likert de 5 puntos, tras hacer una revisión del texto y
+de la información relacionada con la teoría de Maslow, se decidió hacer la adaptación al Castellano para
+aplicarlo en el contexto Mexicano y continuar el trabajo realizado por Madero, Rojas y Borbolla (2021)
+con la finalidad de poder dejar evidencia de los resultados en ambientes hispanoparlantes.
+          En lo que respecta al diseñó del instrumento de medición, se utilizaron y seleccionaron 56 items
+en total, de los cuales 6 items se utilizaron para medir las necesidades fisiológicas, 6 las de seguridad, 9
+las sociales o de afiliación, 7 las de autoestima/reconocimiento y 8 las de autorrealización, (ver en anexos
+las preguntas utilizadas), en lo que respecta a los aspectos de atracción y retención se adaptaron de los
+                                                                                                        241
+                     S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                             http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+trabajos realizados por Madero (2019), Ng, Schweitzer y Lyons (2010) y Madero (2010), obteniéndose
+un total de 20 items, utilizando en todos ellos, escalas tipo Likert, donde 1 es “totalmente en desacuerdo”
+y 5 “totalmente de acuerdo y finalmente se agregaron 6 variables demográficas relacionadas a la persona
+que contesta el cuestionario. La versión final del cuestionario que incluye los ítems antes mencionados se
+desarrolló en un formato electrónico utilizando la plataforma de Google forms.
+          Considerando lo que Hernández, Fernández y Baptista (2014) mencionan, para el desarrollo de
+la presente investigación, se utilizó un muestreo a conveniencia y una técnica de bola de nieve; Para la
+recolección de los datos, la liga de acceso al cuestionario fue compartida de manera individual por medio
+de correo electrónico a los diversos contactos del autor, que fueran mayores de edad y que estuvieran
+trabajando o estudiando algún posgrado en la zona metropolitana de Monterrey, en el norte de México,
+pidiéndoseles que lo compartieron con sus compañeros de estudio o trabajo, para tal efecto se lograron
+aplicar un total de 416 cuestionarios con la información completa, sin embargo, a pesar de ser un número
+estadísticamente significativo para el tamaño de muestra, para la presente investigación, se considera que
+los resultados son propios de los participantes en el momento actual y que no pueden ser generalizados
+para toda la población.
+          Es conveniente mencionar que para el desarrollo de los análisis correspondientes se utilizó el
+software estadístico SPSS versión 24 y así poder realizar los análisis descriptivos de los datos y los
+diversos modelos de regresión lineal múltiple que se presentan posteriormente. Algunas limitaciones
+metodológicas encontradas al realizar la investigación se centran en las medidas utilizadas para recolectar
+los datos pues no hay evidencias de información relacionada con las empresas donde trabajan los
+participantes como son el sector, el tamaño de la empresa, el inicio de operaciones, el mercado que atiende,
+entre otros aspectos más.
+
+
+Análisis de los participantes
+
+En seguida se muestran las características de los participantes en la investigación, que sirven para conocer
+los datos de las personas involucradas, destacando que el 44.7% son del género masculino, el 55.3%
+restante del género femenino, y el 71.6% tiene menos de 40 años, (ver tabla 2).
+
+
+
+
+                                                                                                       242
+                    S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                            http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+Tabla 2
+Características de las personas que respondieron el cuestionario
+               Datos demográficos                          N                        Porcentaje
+ Género
+     Masculino                                            186                         44.7%
+     Femenino                                             230                         55.3%
+ Año de nacimiento
+     Antes de 1980 (inclusive)                            118                         28.4%
+     Entre 1981 y 1996                                    221                         53.1%
+     Después de 1997 (inclusive)                           77                         18.5%
+ Actividad que realiza
+     Trabaja                                              355                         85.3%
+     Trabaja y Estudia                                     61                         14.7%
+ Lugar que ocupa en la familia
+     Mayor                                                176                         42.3%
+     En medio                                              98                         23.6%
+     Menor                                                142                         34.1%
+El tamaño de la muestra es de 416 participantes
+Fuente: Elaboración propia
+
+         Con la finalidad de conocer cuáles son los planes que tienen las personas que participan en la
+investigación, se plantearon dos puntos de vista, uno relacionado con el corto plazo, (en los próximos dos
+años), y otro a mediano plazo haciendo énfasis que se refiere a planes con más de 3 años. De acuerdo con
+los resultados obtenidos, es importante mencionar que en el corto plazo destacan la formación de un
+negocio propio (29.8%), ocupar una posición directiva (25.2%) y continuar trabajando (21.2%),
+identificando que son aspectos de motivación y de atracción y retención del talento, mientras que los
+resultados obtenidos para los planes a mediano plazo, se observa un incremento en la motivación para
+emprender y crear su propio negocio (50.5%), (ver tabla 3).
+
+
+Tabla 3
+Planes de las personas que respondieron el cuestionario en el corto y mediano plazo
+                                                       Corto plazo                Mediano plazo
+                                                    Menos de 2 años               Más de 3 años
+ Ocupar una posición directiva                     105        25.2%                91          21.9%
+ Formar un negocio propio                          124        29.8%              210           50.5%
+ Continuar la empresa familiar                      25         6.0%                24           5.8%
+ Continuar trabajando                               88        21.2%                38           9.1%
+ No tengo planes                                    74        17.8%                53          12.7%
+                                                   416        100.0%             416         100.0%
+Fuente: Elaboración propia
+
+
+
+
+                                                                                                     243
+                      S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                              http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+Análisis descriptivo inicial
+
+Con la finalidad de responder a uno de los objetivos de la investigación, en la siguiente tabla se muestran
+los resultados descriptivos de los diversos items de cada una de las necesidades de Maslow, pudiendo
+identificar que las necesidades de autoestima y de afiliación son las que mayor promedio en la escala de
+medida muestran, (ver tabla 4), hoy en día, de acuerdo con los resultados obtenidos, las motivaciones y el
+orden de estas necesidades parecieran ser distintas a la jerarquía y al orden que se conoce originalmente.
+
+
+Tabla 4
+Relación de las necesidades de Maslow
+ Necesidades e ítems más representativos                                       Promedio      Desv. Est.
+ 1.- Necesidades Fisiológicas                                                    3.53          0.73
+ 2.- Necesidades de Seguridad                                                    3.77          0.71
+ 3.- Necesidades Sociales/ de Afiliación                                         4.14          0.61
+ 4.- Necesidades de Autoestima/Reconocimiento                                    4.16          0.79
+ 5.- Necesidades de Autorrealización                                             3.57          0.89
+Fuente: Elaboración propia
+
+          En seguida se puede observar que los aspectos de la atracción y retención del talento que de
+alguna manera influyen en el desarrollo profesional están enfocados principalmente en aspectos de la
+retribución no monetaria, que algunos autores como Espinoza y Toscano (2020) analizan el salario
+emocional destacando que es un elemento facilitador en el ambiente laboral y ayuda a la empresa para ser
+un buen lugar para trabajar, algunos aspectos son el reconocimiento, la retroalimentación efectiva, el
+diseño de actividades atractivas y retadoras, así como tener un ambiente agradable de trabajo, entre otras
+más, (ver tabla 5).
+
+Tabla 5
+Aspectos de atracción y retención más representativos
+                                                                                Promedio      Desv. Est.
+ 1.- Tener actividades atractivas y sentirte útil                                 4.44          0.81
+ 2.- Tener un ambiente agradable de trabajo                                       4.43          0.89
+ 3.- Tener buen trato de los compañeros de trabajo                                4.43          0.81
+ 4.- Desarrollar nuevos conocimientos                                             4.39          0.90
+ 5.- Aprovechar las redes de contacto para hacer mejor el trabajo                 4.31          0.86
+ 6.- Tener buen trato de los líderes (jefes) de la empresa                        4.31          0.97
+ 7.- Trabajar con proyectos retadores e interesantes                              4.30          0.89
+ 8.- Tener horarios de trabajo flexibles                                          4.30          1.00
+ 9.- Alcanzar calidad y balance de vida en tu trabajo                             4.20          0.92
+ 10.- Participación en la toma de decisiones                                      4.19          0.99
+Fuente: Elaboración propia
+
+
+
+                                                                                                      244
+                      S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                              http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+Análisis de validez y confiabilidad
+
+Como se sabe, el cuestionario es una herramienta de las más utilizadas en el ámbito de la investigación y
+se define como un instrumento que ayuda a recoger datos e información, diseñado específicamente para
+poder universalizar y cuantificar toda la información de manera más sencilla, con el objetivo de poder de
+poder comparar información, tal como lo menciona Arribas (2004).
+          Posterior a la creación de una escala de medición, se debe asegurar que el instrumento sea válido
+y confiable. La validez consiste en que el instrumento de medición creado mida realmente lo que pretende
+medir o para lo que fue creado. Existen múltiples tipos de métodos para validar un instrumento, sin
+embargo, éste es un proceso importante en las investigaciones, siendo así la validez la que permita que se
+realicen interpretaciones o inferencias correctas de las puntuaciones obtenidas a través de la aplicación
+del test. (Luján-Tangarife y Cardona-Arias, 2015). Uno de los métodos de validez utilizados fue la validez
+de expertos, que revisaron en distintas ocasiones el cuestionario e hicieron las modificaciones
+correspondientes en el texto, así como el seguimiento en la traducción de la escala original que estaba en
+el idioma inglés.
+          En cuanto a la confiabilidad de la escala de medición, éste, es el grado en que el instrumento
+mide con precisión cada una de las variables involucradas, la fiabilidad, indica la capacidad del
+instrumento para ser empleado múltiples veces y se obtengan resultados constantes y veraces, de acuerdo
+con Arribas (2004).
+          Para continuar con el análisis de los datos y poder obtener el grado de confiabilidad de cada uno
+de los constructos, se realizaron diversas pruebas estadísticas de análisis multivariado, observando un
+KMO de 0.931, sig=0.000, lo que muestra una alta relación entre las variables y que la prueba del análisis
+factorial sí se puede realizar, en lo que respecta a la primera prueba de validez, los coeficientes resultantes
+de la matriz de correlaciones anti-image mostraron indicadores mayores de 0.5, por lo tanto, todos los
+datos presentan validez.
+          Para cumplir con los objetivos de la investigación previamente mencionados, se realizó un
+análisis factorial exploratorio para conocer las cargas factoriales de cada uno de los ítems de la escala de
+medida de las necesidades de Maslow, observando en la matriz de componentes rotada cargas factoriales
+mayores de 0.5, confirmando la convergencia de cada uno de los ítems de las cinco dimensiones utilizadas
+en el diseño del instrumento de medición (ver tabla 6), sin embargo, hubo un ajuste en los ítems de las
+necesidades de seguridad, pues se agruparon dos que pertenecen a la necesidad de afiliación, (Afiliación6:
+El sentimiento de unión que tengo con mi familia y Afiliación3: El sentimiento de unión que tengo con
+mi familia), pero se consideró conveniente dejarlos en esa dimensión, pues la familia desde la perspectiva
+
+
+
+                                                                                                          245
+                   S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                           http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+cultural en México tiene un rol importante en el desarrollo profesional, tal como lo menciona Madero
+(2010).
+
+
+Tabla 6
+Matriz Rotada de Componentes
+                                            Dimensiones de las necesidades de Maslow
+                        1               2               3               4            5
+AutoEstima5             .841
+AutoEstima6             .838
+AutoEstima2             .761
+AutoEstima3             .755
+AutoEstima7             .740
+AutoEstima1             .660
+AutoEstima4             .630
+Realización7                          .765
+Realización4                          .762
+Realización5                          .756
+Realización8                          .746
+Realización6                          .736
+Realización2                          .612
+Realización3                          .611
+Afiliación4                                          .809
+Afiliación5                                          .773
+Afiliación2                                          .729
+Afiliación9                                          .668
+Afiliación8                                          .628
+Afiliación1                                          .573
+Seguridad1                                                                .796
+Seguridad2                                                                .709
+Seguridad3                                                                .697
+Afiliación6                                                               .569
+Afiliación3                                                               .533
+Fisiológicas7                                                                            .661
+Fisiológicas8                                                                            .645
+Fisiológicas3                                                                            .605
+Fisiológicas4                                                                            .573
+Fisiológicas2                                                                            .543
+Fisiológicas1                                                                            .507
+Método de Extracción: Análisis de Componentes Principales.
+Método de Rotación: Varimax.
+Fuente: Elaboración propia
+
+
+Análisis de los resultados
+
+Como se puede observar en la tabla 6, cada dimensión tiene convergencia y consistencia en sus ítems,
+aunque se tuvieron que eliminar todos aquellos que no la tenían o que mostraban cargas factoriales
+
+                                                                                                246
+                     S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                             http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+menores de 0.5, posteriormente se obtuvieron los índices de confiabilidad con el estadístico alfa de
+cronbach, que resultaron estadísticamente confiables (ver tabla 7). Buscando una posible relación entre
+las distintas necesidades utilizadas en la jerarquía de Maslow, se procede a realizar un análisis de
+correlación, obteniéndose los siguientes resultados:
+
+Tabla 7
+Matriz de correlaciones
+        Variables/Necesidades                    a           1         2           3            4         5
+   1. Fisiológicas                             .698         1.0
+   2. Seguridad                                .778      .39**       1.0
+   3. Afiliación/Sociales                      .868       .39**     .52**         1.0
+   4. AutoEstima/Reconocimiento                .936       .43**     .38**        .50**        1.0
+   5. Autorrealización                         .937       .38**     .42**        .55**       .73**       1.0
+n= 416, **p<0.01; *p<0.05;
+Fuente: Elaboración propia
+
+          Se puede observar que todas las relaciones muestran factores de correlación positivos,
+destacando que las necesidades de autorrealización muestran el porcentaje mayor de correlación con las
+necesidades de autoestima, (R=0.73, sign<=0.01), es decir, cuando las personas saben que hacen las cosas
+bien, que se les reconoce lo que hacen, favorece que se sientan satisfechas, utilizando sus capacidades al
+máximo, en cualquier rol que realicen, aunque en esta investigación se puede analizar desde el punto de
+vista empresarial o laboral, por eso la relevancia de los reconocimientos ya sea de tipo monetario o no
+monetario para que cumplan los objetivos que se tienen planeados en la gestión del tanto humano.
+          Continuando con el análisis de los resultados y con la finalidad de cumplir con los objetivos
+previamente mencionados se hicieron los modelos de regresión para identificar el impacto que tienen los
+diversos factores de atracción y retención en la jerarquía de las necesidades de Maslow.
+          Teniendo como variables dependientes cada una de las cinco necesidades de Maslow y como
+variables independientes los diversos factores de atracción y retención del talento, se obtuvieron los
+siguientes resultados: Para las necesidades fisiológicas, los factores que más influyen son las actividades
+retadoras e interesantes y las retribuciones en especie como son los paquetes de prestaciones y beneficios.
+En lo que respecta a las necesidades de seguridad, se observa que el trato de los compañeros y los aspectos
+de compensación variable con los que más influyen, para lo cual es importante destacar que, en estas
+primeras dos necesidades, se puede observar que hay dos elementos de las compensaciones monetarias
+que sí tienen un efecto estadístico y confirman la relevancia que tienen en la actualidad este tipo de práctica
+en la función de recursos humanos en las empresas, (ver tabla 8).
+
+
+
+
+                                                                                                          247
+                     S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                             http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+Tabla 8
+Resultados de los modelos de las necesidades de Maslow a,b
+                       Modelo 1         Modelo 2      Modelo 3            Modelo 4            Modelo 5
+                     Fisiológicasc     Seguridadc    Afiliaciónc         Autoestimac       Autorrealizaciónc
+                         Retos         TratoComp     Autonomía              BVT                  BVT
+                         0.190            0.178         0.195               0.278               0.255
+                      (0.043)***       (0.043)***    (0.037)***          (0.050)***          (0.051)***
+                        Prest y           CoVa           BVT                Retos            Tecnología
+                         Benef.           0.153         0.142               0.155               0.130
+                         0.163          (0.030)**     (0.039)*            (0.055)*             (0.043)*
+                      (0.034)***
+                                                     Tecnología            AmbTrab
+                                                        0.110               -0.258
+                                                      (0.031)*            (0.059)***
+                                                                           Contactos
+                                                                             0.153
+                                                                           (0.056)*
+  R2                        0.090           0.074           0.130            0.121            0.111
+  R2 adj.                   0.085           0.070           0.123            0.112            0.107
+  Coeficiente de            0.697           0.661           0.594            0.748            0.861
+  variación
+  F-Estadístico            20.383          16.541          20.486         14.102             25.800
+  N                          416             416             416            416                416
+Fuente: Elaboración propia
+a - Coeficientes beta presentados en los modelos de regresión (error estándar en paréntesis).
+b - ***p< 0.001; **p<0.01; *p<0.05; one-tailed test
+c - Los modelos fueron estimados haciendo uso de diferentes variables dependientes. Cada una de las
+
+variables mide las necesidades de Maslow.
+d - Las variables de control fueron incluidas en todas las estimaciones, pero ninguna de ellas reporta
+
+coeficientes estadísticamente significativos y diferentes de cero. Las variables no son reportadas para
+mantener la simplicidad de la tabla y enfocarse en los resultados de mayor interés para esta investigación.
+Los resultados están disponibles previa consulta a los autores.
+
+          En lo que respecta a las necesidades de Afiliación, existe evidencia estadística de tres aspectos
+de atracción y retención que más influyen y son: (1) la autonomía en las actividades que se realizan, (2)
+el balance entre las actividades personales y profesionales y (3) Poder utilizar herramientas tecnológicas
+en el lugar de trabajo
+          Para el caso de las necesidades de autoestima, la evidencia arroja resultados mixtos, es decir, las
+variables de balance vida trabajo, las actividades retadoras e interesantes así como las redes de contacto
+que se tienen y/o que se forman en el lugar de trabajo, tienen un efecto positivo y favorece a que las
+personas hagan bien su trabajo y puedan alcanzar sus objetivos, mientras que el ambiente de trabajo tiene
+un efecto negativo, lo cual hace que las personas se sientan incómodas y al no tener un buen lugar que las
+haga sentirse bien, prefieren buscar trabajo en otra parte y deciden retirarse. Finalmente, para las
+necesidades de autorrealización, destacan nuevamente el balance entre las actividades personales y
+laborales, así como la utilización de herramientas tecnológicas en el lugar de trabajo.
+                                                                                                        248
+                     S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                             http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+          De acuerdo con lo antes mencionado, se presenta la tabla 9, donde se puede observar la manera
+en que los factores de atracción y retención del talento se relacionan con la jerarquía de necesidades,
+destacando los aspectos monetarios y no monetarios, cumpliendo con los aspectos de la teoría de Maslow,
+sin embargo, es importante destacar que en los aspectos no monetarios se observan aspectos relacionados
+con la interacción social en ambientes digitales, como son las redes de contacto y el uso de las diversas
+herramientas tecnológicas existentes.
+
+
+Tabla 9
+Análisis de las jerarquías de necesidades de Maslow y los factores de atracción y retención
+ Jerarquía de Necesidades                        Factores de atracción y retención del talento
+
+                                        Aspectos monetarios                Aspectos No monetarios
+                                                                                       Interacción digital
+ Autorrealización                                                  Bienestar integral
+                                                                    (Balance Vida
+                                                                        Trabajo)
+ Autoestima/Reconocimiento                                           Actividades            Redes de
+                                                                       retadoras e          contacto
+                                                                      interesantes
+
+ Sociales /De Afiliación                                           Bienestar integral           Uso de
+                                                                    (Balance Vida            herramientas
+                                                                       Trabajo)              tecnológicas
+ De Seguridad                           Compensación                 Ambiente de               Acceso a
+                                        Variable                       Trabajo             conectividad en
+                                                                                            los centros de
+                                                                                                trabajo
+ Fisiológicas                           Prestaciones y                Actividades
+                                        Beneficios                     retadoras
+
+
+Fuente: Elaboración propia
+
+          Considerando los resultados antes mencionados y tomando en cuenta la realidad que se vive
+actualmente debido a los aspectos de comunicación y al uso de equipos electrónicos y tecnológicos, según
+el INEGI (2021) en México el 78.3% de la población son usuarios de telefonía celular, y el 75.6% de
+internet, por lo que se requiere analizar la jerarquía de necesidades incluyendo los procesos virtuales, tal
+como lo mencionan Barnes y Pressey (2012), por otra parte, Vélez (2017) indica que el mundo digital ha
+entrado en la vida del ser humano y de alguna manera ha tenido impacto en los temas de la investigación
+que se ha realizado y el uso de la tecnología es cada vez más frecuente en el diario vivir, por lo que se
+propone analizar las necesidades de Maslow de acuerdo a las necesidades de infraestructura, de
+conectividad, de aplicaciones, de aprobación y de interrelación. (ver tabla 10).
+
+                                                                                                       249
+                     S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                             http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+          En lo que respecta a las necesidades básicas de la persona, como son las fisiológicas, además
+del alimento, agua y vestido, en la actualidad se puede considerar como una nueva necesidad tener la
+infraestructura necesaria, algunas de ellas, por ejemplo, es tener un teléfono celular, acceso a internet o
+una computadora para realizar diversas actividades, tanto personales, laborales o académicas, incluso
+puede considerarse que para satisfacer el hambre, las personas con el simple hecho de levantar el teléfono
+celular pueden hacer un pedido al restaurante de su preferencia. En el caso del vestido se pueden realizar
+compras en línea y, de esta forma satisfacer algunas necesidades básicas mediante diversos servicios que
+se ofrecen usando como apoyo alguna herramienta tecnológica. En las necesidades de seguridad, que se
+podrían llamar de conectividad, se podrían considerar las habilidades para poder utilizar múltiples
+aplicaciones que existen como por ejemplo Goggle, Amazon, Cornershop, Uber, Uber eats, Rappi, Waze,
+Google maps y Airbnb, entre otras más, pues son de utilidad porque permite a los usuarios localizar
+información inmediata, así como son fáciles de usar, desarrollando habilidades y conocimientos en las
+personas en cuanto a su funcionalidad en su uso.
+          Para las necesidades sociales o de afiliación, se pueden considerar las aplicaciones y el acceso
+que se tiene a internet para utilizar las diferentes redes sociales que se conocen en la actualidad como son
+Youtube, Whatssapp, Snapchat, Facebook, Instagram, Twitter, o algunos otros que han aparecido
+recientemente con aplicaciones similares, pues mantiene a las personas unidas y comunicadas mediante
+una red de contactos con los que se puede incrementar las 24 horas del día. En lo que respecta a las
+necesidades de autoestima o reconocimiento, se pueden relacionar con el uso de fotografías, edición y
+envío de videos, seguimiento a influencers y/o youtubers, como Facebook, Instagram, Telegram, Spotify,
+y las personas reciben comentarios tanto positivos como negativos de la información que comparten
+favoreciendo el sentirse reconocido al ser aceptado en ese aspecto, favoreciendo la aceptación o
+aprobación en el ambiente de las redes sociales. Finalmente, para las necesidades de autorrealización, se
+pueden relacionar con aquellas actividades en las que hacen que las redes sociales se usen al máximo y en
+las que se demuestran las competencias o habilidades que las personas tienen para realizar una
+determinada actividad, tanto en lo personal como en lo profesional, por ejemplo, Tik-tok, Pinterest y
+Linkedin, que favorecen a la creación de nuevas redes de contacto de las personas y mantener esa
+conectividad e interrelación que se requiere en un ambiente globalizado.
+
+
+
+
+                                                                                                       250
+                    S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                            http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+Tabla 10
+Escala propuesta para medir las necesidades de Maslow y el uso de las redes sociales
+ Necesidades fisiológicas o Necesidades de infraestructura
+    1.- Conocer acerca del uso y aplicación de un teléfono celular
+    2.- Tener las condiciones para usar la tecnología
+    3.- Tener un teléfono celular con diversos usos
+    4.- Tener una computadora para hacer diversas actividades, tanto para uso personal, como de
+    trabajo o en la escuela
+ Necesidades de seguridad o Necesidades de conectividad
+    1.- Dar y recibir un buen trato con los demás es motivo de seguridad
+    2.- Lo seguro/segura que me siento al usar mis redes sociales
+    3.- Saber utilizar las aplicaciones en los dispositivos móviles
+    4.- El espacio disponible para usar diferentes aplicaciones
+    5.- Mi habilidad para usar las aplicaciones tanto para uso personal, como de trabajo o en la escuela
+ Necesidades sociales o Necesidades de aplicaciones
+    1.- La calidad en el acceso a las redes sociales
+    2.- Tener cuenta de Whattsapp, Telegram o Snapchat para mantener mis contactos
+    3.- Tener en el celular aplicaciones como Rappi, Uber o Cornershop
+    4.- Poder accesar internet desde cualquier lugar y estar comunicado
+    5.- La calidad del internet que se tiene, tanto para uso personal como de trabajo o en la escuela
+ Necesidades de autoestima/reconocimiento o Necesidades de aprobación
+    1.- Me siento seguro de mí mismo al tener un “like” cuando subo algo a las redes sociales
+    2.- Las cualidades que tengo son gracias a las redes sociales
+    3.- Gran parte del reconocimiento se logra por medio de las redes sociales
+    4.- Me gusta recibir aprobación en las publicaciones que hago en mis redes sociales
+    5.- Las redes sociales que tengo son un soporte emocional que recibo por parte de mis amigos
+ Necesidades de autorrealización o Necesidades de interrelación
+    1.- Disfruto usar las redes sociales que tengo
+    2.- Uso las redes sociales de la manera que yo quiero, tanto para uso personal, como de trabajo o
+    en la escuela
+    3.- Aprovechar las redes de contacto que tengo para hacer mejor mis actividades
+    4.- Hago las cosas que me gustan hacer, aprovechando las redes sociales
+    5.- La calidad de las redes de contacto que tengo
+Fuente: Elaboración propia
+
+
+Conclusiones
+
+Los resultados empíricos de este estudio permiten elaborar una serie de conclusiones que resultan ser
+interesantes. Una de ellas es que la jerarquía de las diversas necesidades de Maslow es sensible a la
+percepción de cada uno de los participantes y pueden variar de acuerdo con el contexto que se estén
+desarrollando, sin embargo, no se muestra un comportamiento piramidal sino que las necesidades de
+reconocimiento y sociales son las más predominantes, por eso es conveniente señalar que las teorías
+motivacionales requieren seguir siendo investigadas para analizar e identificar los cambios y posibles
+adecuaciones que se requieren realizar en función de los procesos y situaciones actuales que se tienen.
+
+
+
+                                                                                                     251
+                     S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                             http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+          En el caso del instrumento de medida utilizado para identificar la jerarquía de las necesidades
+de Maslow, el proceso de diseño y adaptación de la escala fue muy útil pues de acuerdo con los resultados
+estadísticos obtenidos, se puede concluir que es un instrumento válido y confiable, para la muestra
+participante, lo cual permitió desarrollar una escala con la finalidad de poder medir las necesidades
+actuales considerando el ambiente de tecnología y redes sociales.
+          Para la atracción y retención del talento como aspectos motivadores de acuerdo con la escala de
+necesidades de Maslow, se observa que las necesidades fisiológicas y de seguridad mantienen una relación
+positiva con los componentes monetarios de las compensaciones, mientras que las necesidades sociales,
+de reconocimiento y de autorrealización su relación la tienen con los aspectos no monetarios.
+          Una de las limitaciones que se puede considerar para la presente investigación está relacionado
+con los análisis de la información desde la perspectiva de los datos demográficos y poder incluirlos en el
+instrumento de medida, de todas maneras, los avances mostrados hasta este momento cumplen con los
+objetivos planteados y se consideran relevantes e interesantes en la medición de la jerarquía de las
+necesidades de Maslow así como su relación con los factores de atracción y retención del talento, debido
+a que existe poca evidencia de estos trabajos de investigación. En el futuro se pretende seguir revisando
+la estructura del instrumento y la redacción de los items para mejorar la confiabilidad, además de aplicarlo
+en otros contextos laborales, regiones de México y de ser posible en otros países para hacer estudios
+comparativos con la información obtenida, así como aplicar la escala propuesta de acuerdo con las
+necesidades de Maslow y el uso de las redes sociales.
+          Esto da pie a nuevas investigaciones para que en el futuro se busque analizar los diversos
+conceptos propuestos por Maslow que han seguido evolucionando en la sociedad actual, así mismo,
+considerar, si es posible que alguna necesidad diferente haya surgido en los últimos años, debido a los
+ambientes de conectividad o uso de redes sociales que se han incrementado considerablemente, así como
+al diseño de los lugares de trabajo, como lo mencionan Frankó y Dúll (2020).
+          Así mismo, se recomienda continuar este proyecto con las siguientes preguntas de investigación:
+          ¿Cuáles son las nuevas necesidades o motivadores que tienen las personas en las actividades
+          que realizan, independientemente del contexto en el que se encuentren?
+          ¿Cómo se relacionan las diversas necesidades de la jerarquía de Maslow con el contexto laboral
+          actual?
+          ¿De qué manera han evolucionado los aspectos de motivación en las personas, antes, durante y
+          después de la pandemia del COVID-19?
+          ¿Podrá ser un elemento motivador el diseño de los lugares de trabajo y el ambiente de
+          flexibilidad laboral?
+
+
+
+                                                                                                       252
+                    S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                            http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+Referencias
+
+
+Acevedo, A. (2018). A personalistic Appraisal of Maslow´s Needs Theory of Motivation: From
+         “Humanistic” Psychology to Integral Humanism. Journal of Business Ethics, 148 (4), 741-763.
+         https://doi.org/10.1007/s10551-015-2970-0
+Adams, J., Harris, C., y Martin, K. A. B. (2015). Explaining Small-Business Development: A Small-
+         Business Development Model Combining the Maslow and the Hayes and Wheelwright Models.
+         Journal of the Indiana Academy of the Social Sciences, 18 (1), 26-36.
+         Disponible en:
+https://digitalcommons.butler.edu/cgi/viewcontent.cgi?article=1021&context=jiass          y   Consultado:
+         08/11/2022.
+Ahuja, K., & Ranga, P. (2022). Impact of talent management practices on the motivation of academic
+         employees in selected private universities in Haryana, India. International Journal of Health
+         Sciences, 6 (S4), 664–674. https://doi.org/10.53730/ijhs.v6nS4.5609
+Ali, B. J., & Anwar, G. (2021). An Empirical Study of Employees’ Motivation and its Influence Job
+         Satisfaction. International Journal of Engineering, Business and Management, 5 (2), 21-30.
+         https://doi.org/10.22161/ijebm.5.2.3
+Alonso, M., P. (2008). Estudio comparativo de la satisfacción laboral en el personal de administración,
+         Revista de Psicología del Trabajo y de las Organizaciones, 24 (1), 25-40.
+         Disponible en: https://scielo.isciii.es/pdf/rpto/v24n1/v24n1a02.pdf y Consultado: 08/11/2022.
+Arango, M., y Ramírez, D. (2007). Análisis desde la teoría motivacional de las causas de ingreso y
+         deserción del estudiante universitario. Scientia et Technica, XIII (37), 389-394.
+         https://doi.org/10.22517/23447214.4085
+Araya, S., Rojas, L. y Varas, C. (2021). ¿Qué hace feliz a los millennials en el trabajo? Evidencias desde
+         el sector del entretenimiento en el norte de Chile. Revista Administración & Negocios, 7 (1),
+         65-77. https://doi.org/10.29393/RAN6-7QHSA30007
+Araya-Castillo, L. y Pedreros-Gajardo, M. (2013). Análisis de las teorías de motivación de contenido: Una
+         aplicación al mercado laboral de Chile del año 2009. Revista de Ciencias Sociales (Cr), IV (142),
+         45-61. Disponible en: https://www.redalyc.org/articulo.oa?id=15333870004 y Consultado:
+         08/11/2022.
+Arribas, M. (2004). Diseño y validación de cuestionarios. Matronas Profesión, 5 (17), 23-29. Disponible
+         en: https://www.federacion-matronas.org/wp-content/uploads/2018/01/vol5n17pag23-29.pdf y
+         Consultado: 08/11/2022.
+
+
+                                                                                                     253
+                    S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                            http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+Barnes, S. J., y Pressey, A. D. (2012). Who Needs Real-Life? Examining Needs in Virtual Worlds. The
+         Journal    of     Computer     Information     Systems, 52     (4),   40-48.     Disponible    en:
+         https://www.tandfonline.com/doi/abs/10.1080/08874417.2012.11645575               y   Consultado:
+         08/11/2022.
+Cardiel, J. (2015). Relaciones Humanas: ¿Emancipación o servidumbre?. XX Congreso Internacional de
+         Contaduría Administración e Informática, Ciudad Universitaria UNAM, México, D.F. 7-8 de
+         octubre 2015. https://investigacion.fca.unam.mx/docs/memorias/2015/17.10.pdf
+Carson, C. M. (2005). A historical view of Douglas McGregor's theory Y. Management Decision, 43 (3),
+         450-460. http://dx.doi.org/10.1108/00251740510589814
+Cavalcanti, T. M., Gouveia, V. V., Medeiros, E. D., Mariano, T. E., Moura, H. M., Moizéis, H. B. C.
+         (2019). Jerarquía de Necesidades de Maslow: Validación de un Instrumento. Psicologia: Ciência
+         e Profissão, 39, 1-13. https://doi.org/10.1590/1982-3703003183408
+Dourado, A. y Zambroni-de-Souza, P. (2020). Motivación y trabajo: investigación sobre la experiencia de
+         los jóvenes en el primer empleo. Psicología, Conocimiento y Sociedad, 10 (2), 5-20.
+         http://dx.doi.org/10.26864/pcs.v10.n2.1
+Dye, K., Mills, A. J., y Weatherbee, T. (2005). Maslow: Man interrupted: Reading management theory in
+         context. Management Decision, 43 (10), 1375-1395.
+https://doi.org/10.1108/00251740510634921
+Espinoza, S., A. y Toscano, M., J. (2020). Salario emocional: una solución alternativa para la mejora del
+         rendimiento laboral. Nova Rua, 12 (20), 72-89 http://dx.doi.org/10.20983/novarua.2020.20.5
+Fishbach, A., y Ferguson, M. J. (2007). The goal construct in social psychology. In A. W. Kruglanski &
+         E. T. Higgins (Eds.), Social psychology: Handbook of basic principles (pp. 490–515). The
+         Guilford Press.
+Foncubierta-Rodríguez, M., y Sánchez-Montero, J. (2019). Hacia la felicidad laboral: Atender
+         motivaciones y eliminar «temores digitales». Retos Revista de Ciencias de la Administración y
+         Economía, 9 (18), 239-257. https://doi.org/10.17163/ret.n18.2019.04
+Frankó, L., y Dúll, A. (2020). Can the office environment be a motivator? What makes a good enough
+         working environment on the eve of 2020?. Periodica Polytechnica Social and Management
+         Sciences, 28 (2), 129-139. https://doi.org/10.3311/PPso.14085.
+Gallagher, V., Maher, L., Gallagher, K., y Valle, M. (2017). Development and Validation of a
+         Comprehensive Work-Related Needs Measure. Psychological Reports, 120 (5), 914-942.
+         https://doi.org/10.1177/0033294117709259
+Gambrel, P. A., y Cianci, R. (2003). Maslow's hierarchy of needs: Does it apply in A collectivist
+         culture. Journal of Applied Management and Entrepreneurship, 8 (2), 143-161. Disponible en:
+
+                                                                                                       254
+                    S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                            http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+         https://0-search-proquest-com.biblioteca-ils.tec.mx/scholarly-journals/maslows-hierarchy-
+         needs-does-apply-collectivist/docview/203916225/se-2 y Consultado: 08/11/2022
+Genkova, D. (2021). Modeling of the human needs: An economic interpretation of Maslow´s theory of
+         motivation. WSEAS Transactions on Business and Economics, 18 (26), 253-264. Doi:
+         10.37394/23207.2021.18.26
+Griffin, R. W. (2022). Management. Boston, USA: Cengage.
+Griffin, R., Phillips, J., y Gully, S. (2020). Comportamiento Organizacional: Administración de personas
+         y organizaciones, Cengage Learning, 13ª. Ed. México.
+Hernández H., C. (2011). La motivación y satisfacción laboral de los docentes en dos instituciones de
+         enseñanza media superior. Investigación Administrativa. 40 (108), 69-80. Disponible en:
+         https://www.scielo.org.mx/pdf/ia/v40n108/2448-7678-ia-40-108-69.pdf              y   Consultado:
+         08/11/2022
+Hernández, S, R., Fernández, C, C., y Baptista, L, M. (2014). Metodología de la Investigación, McGraw-
+         Hill Interamericana de España S.L.; 5ª. edición
+INEGI (2021). Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los
+         Hogares (ENDUTIH), Disponible en https://www.inegi.org.mx/programas/dutih/2021/ y
+         Consultado: 08/11/2022.
+Jerome, A., Scales, M., Whithem, C., y Quain, B. (2014). Millennials in the Workforce: Gen Y Workplace
+         Strategies for the Next Century. e-Journal of Social & Behavioral Research in Business, 5 (1),
+         1-12.
+Koncar, P., Santos, T., Strohmaier, M., & Helic, D. (2022). On the application of the Two-Factor Theory
+         to online employer reviews. Journal of Data, Information and Management, 4 (1), 1-23.
+         https://doi.org/10.1007/s42488-021-00061-3
+Kopelman, R. E., Prottas, D. J., y Davis, A. L. (2008). Douglas McGregor's theory X and Y: Toward a
+         construct-valid   measure*:    Journal   of Managerial Issues, 20         (2), 255-271,159-160.
+         https://www.jstor.org/stable/40604607
+Latham, G. P., y Pinder, C. C. (2005). Work Motivation Theory and Research at the Dawn of the Twenty-
+         First Century. Annual Review of Psychology, 56 (1), 485-516.
+         https://doi.org/10.1146/annurev.psych.55.090902.142105
+Luján-Tangarife, J. y Cardona-Arias, J. (2015). Construcción y validación de escalas de medición en
+         salud: revisión de propiedades psicométricas. Archivos de Medicina, 11 (3), 1-10. Disponible
+         en: https://dialnet.unirioja.es/servlet/articulo?codigo=5178935 y Consultado: 08/11/2022
+
+
+
+
+                                                                                                     255
+                     S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                             http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+Madero, S. (2010). Factores relevantes del desarrollo profesional y de compensaciones en la carrera
+         laboral del trabajador. Contaduría y Administración, 232:109-130. Disponible en:
+         https://www.scielo.org.mx/pdf/cya/n232/n232a6.pdf y Consultado 08/11/2022
+Madero, S. (2019). Modelo de Retención Laboral de Millennials, desde la Perspectiva Mexicana.
+         Investigación Administrativa, 48 (124).
+Disponible     en:       https://www.scielo.org.mx/pdf/ia/v48n124/2448-7678-ia-48-124-00001.pdf           y
+         Consultado: 08/11/2022
+Madero, S. y Rodríguez, R. (2018). Análisis de la teoría X y Y de Mc. Gregor, las formas de retribuir y la
+         satisfacción de las personas en su trabajo, Ciencia UAT, 13 (1), 95-107. Disponible en:
+         https://www.scielo.org.mx/pdf/cuat/v13n1/2007-7858-cuat-13-01-95.pdf              y    Consultado:
+         08/11/2022
+Madero, S., Rojas, I., y Borbolla, P. (2021). Estudio sobre la percepción de las cinco necesidades de
+         satisfacción de Maslow: Validación de la escala. Ponencia, XXIV Congreso de Investigación en
+         Ciencias Administrativas ACACIA, 27 al 30 de abril 2021, modalidad virtual.
+Maslow, A. (1943). A theory of human motivation, Psychological Review, 50 (4), 370-396.
+         https://doi.org/10.1037/h0054346
+Mejía, J., De la Rosa-Salazar, D., y Huertas-Moreno, H. (2021). Implicaciones de la COVID-19 sobre el
+         marketing de servicios educativos: un estudio desde las motivaciones y estados de ánimo de
+         universitarios en Colombia. Estudios Gerenciales, 37 (158), 126-137.
+https://doi.org/10.18046/j.estger.2021.158.4271
+Montoro, J., Pinazo, S., y Tortosa, M. (2007). Motivaciones y expectativas de los estudiantes mayores de
+         55 años en los programas universitarios. Revista Española de Geriatría y Gerontología, 42 (3),
+         158-166. https://doi.org/10.1016/S0211-139X(07)73542-4
+Naranjo, M.L. (2009). Motivación: Perspectivas teóricas y algunas consideraciones de su importancia en
+         el     ámbito      educativo.     Educación,          33     (2),     153-170.    Disponible    en:
+         https://www.redalyc.org/pdf/440/44012058010.pdf y Consultado: 08/11/2022
+Ng, E.S.W., Schweitzer, L. y Lyons, S.T. (2010), New Generation, Great Expectations: A Field Study of
+         the     Millennial     Generation. Journal       of        Business    Psychology,    25, 281–292.
+         https://doi.org/10.1007/s10869-010-9159-4
+Rasskazova, E., Ivanova, T., y Sheldon, K. (2016). Comparing the effects of low-level and high-level
+         worker need-satisfaction: A synthesis of the self-determination and Maslow need theories.
+         Motivation & Emotion, 40 (4), 541-555. https://doi.org/10.1007/s11031-016-9557-7
+Robbins, S., y Judge, T. (2017). Comportamiento Organizacional, Pearson Educación de México, SA de
+         CV, 17ª. Ed. México
+
+                                                                                                        256
+                    S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                            http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+Rojas-Rojas, W., Ospina-Zapata, C., Cardona, J., Ocampo-Salazar, C., y García, D. (2021). Perspectivas
+         para la reconceptualización de la Contabilidad en el marco de las necesidades
+         humanas. Innovar, 31 (82). 223-244. https://doi.org/10.15446/innovar.v31n82.98424
+Sekhar, C., Patwardhan, M., y Singh, R. K. (2013). A literature review on motivation. Global Business
+         Perspectives, 1, 471-487. https://doi.org/10.1007/s40196-013-0028-1
+Shannon, E. (2017). Motivating the workforce: beyond the “two factor” model, Australian Health Review,
+         43 (1), 98-102. https://doi.org/10.1071/AH16279
+Stum, D. L. (2001). Maslow revisited: Building the employee commitment pyramid. Strategy &
+         Leadership, 29 (4), 4-9. https://doi.org/10.1108/10878570110400053
+Taormina, R., y Gao, J. (2013). Maslow and the Motivation Hierarchy: Measuring Satisfaction of the
+         Needs.       The    American       Journal      of     Psychology,       126       (2),      155-177.
+         https://doi.org/10.5406/amerjpsyc.126.2.0155
+Taylor, P. (2007). Motives and Motivation… Art Education, 60(1), 4-5. Disponible en:
+         https://www.jstor.org/stable/27696186 y Consultado: 08/11/2022
+Touré-Tillery, M., y Fishbach, A. (2011). The course of motivation. Journal of Consumer Psychology, 21
+         (4), 414-423. https://doi.org/10.1016/j.jcps.2011.04.004
+Tripathi, N., y Moakumla. (2018). A valuation of Abraham Maslow´s theory of self-actualization for the
+         enhancement of quality of life. Indian Journal of Health @ Wellbeing, 9 (3), 499-504.
+https://www.i-scholar.in/index.php/ijhw/article/view/181552
+Vargas-Hernández, J. G., y Arreola-Enríquez, J. A. (2017). The Motivation of Collaborators in Family
+         Micro Companies: Cybercafé. Revista de Administração Mackenzie, 18 (6), 149–176.
+         https://doi.org/10.1590/1678-69712017/administracao.v18n6p149-176
+Vélez,   G.   F.   (2017).   La   pirámide de     Maslow      en   el   mundo    digital.       Disponible    en
+         http://www.stratego.com.pa/la-piramide-de-maslow-en-el-mundo-digital/              y      Consultado:
+         07/07/2021
+Yong, J. K., Yonghwan, C., Wonseok, J., Sagas, M., y Otto, J. (2017). A Hierarchical Approach for
+         Predicting Sport Consumption Behavior: A Personality and Needs Perspective. Journal of Sport
+         Management, 31 (3), 213-228. https://doi.org/10.1123/jsm.2015-0142
+
+
+Anexo
+
+A continuación, se muestran los items de la jerarquía de necesidades de Maslow utilizados en en la escala
+de medición que ha sido adaptada a la presente investigación.
+
+
+
+                                                                                                             257
+                    S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                            http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+Tabla A1
+Necesidades fisiológicas
+ 1. La calidad del alimento que consumo al día.
+
+ 2. La cantidad de comida que consumo al día.
+
+ 3. La cantidad de calor que tengo cuando hace frío.
+
+ 4. La cantidad de frío que tengo cuando hace calor.
+
+ 5. La cantidad de sueño que tengo para estar relajados.
+
+ 6. La calidad de sueño que tengo para sentirme completamente refrescado/ refrescada.
+
+
+Tabla A2
+Necesidades de seguridad
+ 1. La calidad de la casa/departamento en el que vivo.
+
+ 2. El espacio libre para mí en mi casa/departamento.
+
+ 3. Lo seguro/segura que me siento en mi casa/departamento.
+
+ 4. Mi seguridad financiera.
+
+ 5. Mi habilidad para conseguir dinero cuando lo requiero.
+
+ 6. El dinero que reservé para yo tener un retiro seguro.
+
+
+
+Tabla A3
+Necesidades Sociales/Afiliación
+ 1. La cantidad de entendimiento mutuo que comparto con la gente que conozco.
+
+ 2. La calidad de las relaciones que tengo con mis amigos.
+
+ 3. La intimidad que comparto con mi familia inmediata.
+
+ 4. El afecto que me demuestran mis amigos.
+
+ 5. El soporte emocional que recibo por parte de mis amigos.
+
+ 6. El sentimiento de unión que tengo con mi familia.
+
+ 7. Que tanto se preocupa por mi mi pareja/cónyuge.
+
+ 8. La felicidad que comparto con la gente que me acompaña.
+
+ 9. La cercanía que siento con la gente con la que convivo.
+
+                                                                                          258
+                    S. Madero Gómez / Contaduría y Administración 68 (1), 2023, 235-259
+                            http://dx.doi.org/10.22201/fca.24488410e.2023.3416
+
+
+
+
+Tabla A4
+Necesidades de Autoestima/Reconocimiento
+ 1. Que tanto me gusta la persona que soy.
+
+ 2. Que tan seguro soy de mí mismo/misma.
+
+ 3. Cuanto respeto tengo para mí mismo/misma.
+
+ 4. Todas las buenas cualidades que tengo como persona.
+
+ 5. Mi sentido de autoestima.
+
+ 6. La cantidad de estima que tengo sobre mí mismo/misma.
+
+ 7. Qué tan positivo me siento sobre mí mismo/misma como persona.
+
+
+Tabla A5
+Necesidades de autorrealización
+ 1.   Siento que estoy completamente autorrealizado/autorrealizada.
+
+ 2.   Estoy siendo ahora la persona que siempre había querido ser.
+
+ 3.   Me complazco tanto como yo quiero.
+
+ 4.   Estoy ahora disfrutando todo lo que siempre he querido de mi vida.
+
+ 5.   Estoy viviendo mi vida de la manera que yo quiero.
+
+ 6.   Hago las cosas que me gustan hacer cuando yo quiero.
+
+ 7.   Realmente estoy viviendo al máximo de todas mis capacidades.
+
+ 8.   Estoy viviendo mi vida al máximo.
+
+
+
+
+                                                                                          259
