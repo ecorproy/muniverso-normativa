@@ -218,3 +218,21 @@ Votos que la capa conoce solo porque otro voto los transcribe o los cita, o porq
 | [2026-008044](Citadas%20en%20otros%20votos/Sentencia%202026-008044.md) | 2026-03-06 | 25-037393-0007-CO | MUNICIPALIDAD DE SAN RAM Ó N, el INSTITUTO COSTARRICENSE DE ELECTRICIDAD y la SUPERINTENDE |  |
 
 No se encontró en NexusPJ con ese número el voto 2000-009197 (citado en el voto 2025-014445); hay que verificar el número.
+
+## Aportadas para el libro (22 de noviembre de 2026)
+
+Votos que Edward Cortés García aportó desde NexusPJ mientras se escribían los capítulos del libro (temas 28 a 33). Texto íntegro. En el 2018-016612 se sustituyeron el nombre y la cédula de la persona recurrente.
+
+| Voto | Fecha | Expediente | Contra | Resultado |
+|---|---|---|---|---|
+| [2007-005894](Sentencia%202007-005894.md) | 2007-04-27 | 04-008123-0007-CO | Sentencia 2007-005894 de la Sala Constitucional —  |  |
+| [2010-012783](Sentencia%202010-012783.md) | 2010-07-30 | 10-005131-0007-CO | el Ministerio de Salud, la Municipalidad de Corredores, el Instituto de Desarrollo Agrario y otros (zona fronteriza de Paso Canoas) | Parcialmente con lugar |
+| [2012-004620](Sentencia%202012-004620.md) | 2012-04-10 | 12-003343-0007-CO | Eventos Pedregal S. A., la Municipalidad de Belén y el Área Rectora de Salud de Belén (corridas de toros estilo Pamplona) | Con lugar |
+| [2018-016612](Sentencia%202018-016612.md) | 2018-10-05 | 18-014373-0007-CO | la Municipalidad de Limón (alcantarillado pluvial de barrio Pacuare Nuevo) | Con lugar |
+| [2023-013539](Sentencia%202023-013539.md) | 2023-06-09 | 23-010343-0007-CO | el Ministerio de Salud y la Municipalidad de Paraíso (filtración de aguas de la alcantarilla) | Con lugar |
+| [2023-017863](Sentencia%202023-017863.md) | 2023-07-21 | 23-014420-0007-CO | el Servicio Nacional de Salud Animal (petición de información sobre decomiso y sacrificio de aves) | Con lugar |
+| [2023-031213](Sentencia%202023-031213.md) | 2023-11-30 | 23-024106-0007-CO | Sentencia 2023-031213 de la Sala Constitucional —  |  |
+| [2025-002002](Sentencia%202025-002002.md) | 2025-01-24 | 24-021588-0007-CO | Sentencia 2025-002002 de la Sala Constitucional —  |  |
+| [2026-000643](Sentencia%202026-000643.md) | 2026-01-09 | 25-029929-0007-CO | la Municipalidad de La Unión y el Consejo Nacional de Vialidad (hueco en la ruta nacional 251, Tres Ríos) |  |
+| [2026-009053](Sentencia%202026-009053.md) | 2026-03-13 | 26-000171-0007-CO | Sentencia 2026-009053 de la Sala Constitucional —  |  |
+| [2026-029915](Sentencia%202026-029915.md) | 2026-08-06 | 26-022949-0007-CO | la Municipalidad de Pococí y el Ministerio de Salud | Con lugar |
