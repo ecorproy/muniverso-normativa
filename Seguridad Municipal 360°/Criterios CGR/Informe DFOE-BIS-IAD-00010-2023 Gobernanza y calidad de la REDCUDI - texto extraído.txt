@@ -1,0 +1,1571 @@
+INFORME DE AUDITORÍA DE CARÁCTER ESPECIAL
+    SOBRE LA GOBERNANZA Y ESTÁNDARES DE
+      CALIDAD DE LOS SERVICIOS DE CUIDO Y
+        DESARROLLO INFANTIL DE LA REDCUDI
+
+                                       23 de octubre de 2023
+                Informe N.° DFOE-BIS-IAD-00010-2023
+
+
+
+                             Contraloría General de la República
+                         División de Fiscalización Operativa y Evaluativa
+             Área de Fiscalización para el Desarrollo del Bienestar Social
+                  Auditoría Operativa - Compromiso de informe directo
+                                        CONTENIDO
+
+
+
+1. Introducción                                                                                               6
+    Origen de la Auditoría                                                                                    6
+    Objetivos                                                                                                 6
+    Alcance                                                                                                   7
+    Criterios de Auditoría                                                                                    7
+    Metodología aplicada                                                                                      7
+    Limitaciones que afectaron la ejecución de la Auditoría                                                   8
+    Generalidades acerca del objeto auditado                                                                  8
+    Comunicación preliminar de los resultados de la auditoría                                                 9
+    Siglas                                                                                                   10
+
+2. Resultados                                                                                                11
+    Gobernanza de la REDCUDI                                                                                 11
+        Falta de claridad en la definición de los roles y responsabilidades
+        de las instituciones que conforman la REDCUDI                                                        15
+    Debilidades en articulación interinstitucional para la continuidad en
+    la implementación de acciones aprobadas para la Red                                                      18
+    Binomio cobertura-calidad de los servicios de cuido y desarrollo integral                                22
+        Bajo incremento en la cobertura y disparidad en calidad de servicios
+        de cuidado y desarrollo infantil ofrecidos por las alternativas de atención                          22
+
+3. Conclusiones                                                                                              26
+
+4. Disposiciones                                                                                             29
+    A LA COMISIÓN CONSULTIVA DE LA REDCUDI                                                                   29
+    AL LIC. CRISTIAN CARVAJAL COTO, DIRECTOR EJECUTIVO DE
+    LA SECRETARÍA TÉCNICA O A QUIEN EN SU LUGAR OCUPE EL
+    CARGO, Y A LA COMISIÓN TÉCNICA INTERINSTITUCIONAL                                                        31
+    AL LIC. CRISTIAN CARVAJAL COTO, DIRECTOR EJECUTIVO DE
+    LA SECRETARÍA TÉCNICA DE LA REDCUDI O A QUIEN EN SU LUGAR
+    OCUPE EL CARGO                                                                                           32
+
+
+
+
+                                              -2-
+                                                                                            Contraloría General de la República
+                                                      T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                 http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+Resumen Ejecutivo
+¿QUÉ EXAMINAMOS?
+La auditoría de carácter especial tuvo como objetivo determinar si la gobernanza y los
+servicios de la Red Nacional de Cuido y Desarrollo Infantil se ajustaban razonablemente al
+marco normativo y técnico aplicable, y a los estándares de calidad definidos para la Red.
+¿POR QUÉ ES IMPORTANTE?
+La Red Nacional de Cuido y Desarrollo Infantil (Redcudi) fue creada para establecer un
+sistema de cuido y desarrollo infantil que permitiera articular las diferentes modalidades de
+prestación pública y privada de este tipo de servicios. Esto para fortalecer y ampliar las
+alternativas de atención infantil, procurando espacios seguros y estimulantes para el
+desarrollo de la niñez al tiempo que las personas encargadas de su cuido laboran o estudian.
+A diciembre de 2022, esta Red había prestado servicios de cuido a un total de 71.994 niños,
+con una inversión de ₡69.494 millones. De esta forma, considerando los recursos invertidos
+y las repercusiones de la pandemia en el empleo, y por consiguiente, la necesidad de
+expandir los servicios de cuido, incrementar su calidad y articulación con programas de
+inserción educativa y laboral, se estimó oportuno fiscalizar la Redcudi.
+¿QUÉ ENCONTRAMOS?
+La Contraloría General, determinó la existencia de debilidades en materia de Gobernanza y
+servicios de la Redcudi que no permiten asegurar razonablemente el cumplimiento del marco
+normativo y técnico aplicable, así como de los estándares esenciales de calidad definidos
+para esa Red.
+Si bien, en materia de servicios de cuido, el Patronato Nacional de la Infancia, que es una de
+las unidades ejecutoras de la Red, incorporó los citados estándares en los instrumentos de
+supervisión de la calidad de los servicios de cuido que se brinda a los niños con recursos de
+esa institución, y en materia de Gobernanza, se determinó que la Secretaría Técnica tiene
+definido un marco organizacional que identifica los principales procesos, subprocesos y
+personal que requiere para ejecutar su labor, no obstante, se identificaron brechas de
+cumplimiento relevantes en cuanto a los temas que se detallan seguidamente.
+Dentro de este contexto, del análisis de la aplicación de los estándares esenciales de
+calidad y normas de habilitación realizado por el Órgano Contralor en una muestra de 43
+centros de cuido de diferentes regiones del país1, de un total de 1312 adscritos a la Red, se
+identificaron incumplimientos de los estándares y disparidades en la calidad de los servicios
+brindados por las alternativas de atención de las distintas unidades ejecutoras.
+
+Por su parte, en cuanto a los servicios de cuido y desarrollo infantil, se determinó que la
+cobertura creció sólo un 1,6% durante el lapso 2018-2022, muy por debajo de la meta de
+15% establecida en el Plan Estratégico Interinstitucional para ese periodo.
+
+
+1
+ Se visitaron Centros de Educación y Nutrición y de Centros Infantiles de Atención Integral (CEN-CINAI), Centros
+de Atención Diurno de atención Integral (CIDAI), Centros de Cuido y Desarrollo Infantil (CECUDI),
+establecimientos privados (atienden niñez subsidiada por el IMAS), y Hogares Comunitarios, que atienden a
+1970 niños.
+
+                                                     -3-
+                                                                                                    Contraloría General de la República
+                                                              T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                         http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+Así      las    cosas,       se
+encontraron variaciones en         Gráfico: Calificación de cumplimiento de los estándares de calidad por
+las calificaciones obtenidas            dimensión según unidad ejecutora de la alternativa de cuido
+por las alternativas de cuido
+en el cumplimiento de las
+dimensiones        de       los
+estándares esenciales de
+calidad: en Talento Humano,
+oscilaron entre 85% y 62%;
+en Infraestructura, entre
+90% y 83%; en Salud y
+Nutrición, entre 93% y 78%;
+en Gestión Administrativa,
+entre 100% y 77%, y en
+Pedagogía, entre 100% y
+89%. Esta situación conlleva
+un incremento en las              *PANI/IMAS: corresponde a las alternativas de cuido donde unos niños
+brechas en el desarrollo de       pueden ser subvencionados por el IMAS y otros por el PANI.
+la niñez usuaria de estos         Fuente: Elaboración propia.
+servicios, dependiendo de la
+unidad ejecutora a la que
+pertenezca la alternativa, como se puede observar en el gráfico, y no por una correlación con
+la situación de vulnerabilidad de donde ésta se ubica.
+Por otra parte, en el área de Gobernanza, se identificaron debilidades en el
+funcionamiento de la Comisión Consultiva como órgano de coordinación superior de la
+Redcudi, que ocasionaron una baja aprobación de los asuntos sometidos a su discusión, a
+los cuales, en pocas ocasiones, dio carácter vinculante. Así, de 101 acuerdos generados
+entre el 2018 y 2022, sólo 15 se aprobaron, 55 contenían instrucciones para complementar
+los análisis efectuados o realizar estudios nuevos, pero no incluían una decisión final sobre la
+implementación del asunto presentado, mientras que los 31 acuerdos restantes
+correspondieron a recibidos que no generaron instrucciones. Esto, pese a que la principal
+función de la Comisión Consultiva es aprobar, emitir y dar carácter vinculante a las políticas,
+lineamientos, normativa, modelos e instrumentos propuestos, para direccionar el quehacer
+de la Red y asegurar su adecuada operación.
+También, se determinó que los roles y responsabilidades de las instituciones que
+integran las distintas instancias de la Redcudi no están claramente definidos en la Ley
+de Creación de la Red, su Reglamento, ni en el “Marco conceptual, operativo y
+organizacional”. Dicha situación limita las contribuciones que esas instituciones pueden
+efectuar para el logro de los objetivos del sistema, desde sus respectivos ámbitos de acción.
+A esto se suma, que el marco jurídico y técnico citado omite las funciones de las unidades
+ejecutoras de la Red, a pesar del importante rol que ejercen en la prestación de servicios de
+cuido y desarrollo integral.
+Además, se identificó que las prácticas de articulación ejecutadas por la Secretaría
+Técnica de la Redcudi, para la atención, seguimiento y rendición de cuentas acerca de los
+acuerdos emitidos por la Comisión Consultiva, se definen a discreción de la Dirección
+                                                    -4-
+                                                                                                 Contraloría General de la República
+                                                           T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                      http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+Ejecutiva, lo que genera incertidumbre y falta de claridad acerca del accionar entre las
+instancias operativas de la Red, (Secretaría, Comisión Técnica Interinstitucional y Unidades
+Ejecutoras), ante la ausencia de procedimientos formales para la atención, seguimiento y
+rendición de cuentas sobre los acuerdos del órgano superior.
+Aunado a lo anterior, los miembros de la Comisión Técnica Interinstitucional tampoco tienen
+clara la labor de articulación que deben efectuar para implementar acciones dirigidas al
+cumplimiento de los objetivos de la Red. Esto dificulta la efectiva operativización de los
+acuerdos en procura de mejorar los servicios de cuido y desarrollo infantil, la promoción de la
+corresponsabilidad social del cuidado infantil, y la inserción laboral o educativa de las
+personas encargadas.
+¿QUÉ SIGUE?
+Se emiten disposiciones, entre otras, a la Comisión Consultiva para que elabore e
+implemente un procedimiento para la planificación y programación de sus sesiones,
+considerando las fases del proceso, y un reglamento interno para su organización y
+funcionamiento. Además, resolver sobre el carácter vinculante de los Estándares esenciales
+de calidad en los servicios de cuidado y desarrollo integral y definir a los responsables de
+verificar su cumplimiento. También, al Director de la Secretaría Técnica y a la Comisión
+Técnica Interinstitucional: elaborar un análisis de necesidades de la Redcudi y una propuesta
+de los aportes requeridos de las instituciones que la conforman; procedimientos para
+atender, dar seguimiento y rendir cuentas sobre los acuerdos de la Comisión Consultiva; una
+metodología de articulación para los miembros de la Comisión Técnica Interinstitucional; y
+una propuesta de los requisitos que éstos deben reunir como representantes.
+  .
+
+
+
+
+                                               -5-
+                                                                                           Contraloría General de la República
+                                                     T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+                   DIVISIÓN DE FISCALIZACIÓN OPERATIVA Y EVALUATIVA
+                 ÁREA DE FISCALIZACIÓN DE SERVICIOS DE BIENESTAR SOCIAL
+
+       INFORME DE AUDITORÍA DE CARÁCTER ESPECIAL SOBRE LA GOBERNANZA Y
+   ESTÁNDARES DE CALIDAD DE LOS SERVICIOS DE CUIDO Y DESARROLLO INFANTIL DE
+                                  LA REDCUDI
+
+
+1. Introducción
+     ORIGEN DE LA AUDITORÍA
+1.1. La auditoría se ejecutó en cumplimiento del Plan Anual Operativo de la División de
+     Fiscalización Operativa y Evaluativa (DFOE), con fundamento en las competencias
+     conferidas a la Contraloría General en los artículos 183 y 184 de la Constitución Política y
+     12, 17 y 21 de su Ley Orgánica, N.° 7428.
+1.2. La Red Nacional de Cuido y Desarrollo Infantil (REDCUDI) fue creada mediante la Ley
+     N.°9220 del 24 de abril de 2014, con la finalidad principal de ejecutar acciones que
+     permitan la articulación de las diferentes modalidades de prestación pública y privada de
+     servicios en materia de cuido y desarrollo infantil. Lo anterior, con el propósito de
+     fortalecer y ampliar las alternativas de atención infantil integral, y así procurar espacios
+     seguros y estimulantes para el desarrollo de los niños, al tiempo que sus progenitores o
+     encargados laboran o estudian. A diciembre de 2022, esta Red había prestado servicios
+     de cuido a un total de 71.994 niños, con una inversión de ₡69.494 millones.
+1.3. De esta manera, tomando en cuenta la inversión de recursos, la situación fiscal del país,
+     agravada por las repercusiones de la pandemia en la tasa de empleo y en el crecimiento
+     económico, así como el apagón educativo de los últimos años, y la necesidad de expandir
+     los servicios de cuido, incrementando su calidad y la articulación con programas de
+     inserción educativa y laboral, el Órgano Contralor consideró oportuno retomar la
+     fiscalización del servicio brindado por la REDCUDI. Esto, en tanto su expansión,
+     incremento en la calidad de sus servicios y articulación entre modalidades de atención
+     infantil, procurará garantizar gradualmente el derecho de los niños a un desarrollo integral
+     que les brinde mayores oportunidades en el futuro, y facilitar a sus padres o encargados,
+     las posibilidades de inserción laboral y/o educativa, y mejorar las condiciones de vida de
+     la familia a corto o mediano plazo.
+
+     OBJETIVOS
+
+1.4. El propósito de la auditoría fue determinar si la gobernanza y servicios de la REDCUDI se
+     ajustan razonablemente al marco normativo y técnico aplicable, así como a los estándares
+     esenciales de calidad definidos para la Red.
+
+
+                                                   -6-
+                                                                                                   Contraloría General de la República
+                                                             T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                        http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+      ALCANCE
+
+1.5. El estudio se enfocó en la fiscalización de la gobernanza definida para la REDCUDI y en
+     las acciones para aumentar la cobertura y calidad de los servicios de cuido y desarrollo
+     infantil de esa Red durante el periodo 2018-2022, el cual fue ampliado cuando se
+     consideró necesario.
+
+      CRITERIOS DE AUDITORÍA
+
+1.6. Los criterios de auditoría se presentaron el 21 de febrero de 2023 a los siguientes
+     funcionarios de la Secretaría Técnica de la Red Nacional de Cuido y Desarrollo Integral:
+     Lic. Cristian Carvajal Coto, Director Ejecutivo; Licda. Nohelia Brenes López, Profesional
+     en Planificación y Formación Social; Licda. Damaris Jiménez Artavia, Abogada y Lic.
+     Danny Esquivel Lobo, Politólogo. Posteriormente, fueron remitidos mediante oficio N.°
+     03705 (DFOE-BIS-0206) del 28 de marzo de 2023
+
+      METODOLOGÍA APLICADA
+
+1.7. La auditoría se realizó de conformidad con las Normas Generales de Auditoría para el
+     Sector Público, el Manual General de Fiscalización Integral de la Contraloría General de la
+     República y el Procedimiento de Auditoría vigente, establecido por la División de
+     Fiscalización Operativa y Evaluativa.
+1.8. Para el desarrollo de está auditoría se utilizó información suministrada en entrevistas con
+     funcionarios de la Secretaría Técnica de la REDCUDI (STRC) y la Auditoría Interna del
+     Instituto Mixto de Ayuda Social y las respuestas a las consultas planteadas por escrito.
+     Además, la información brindada mediante oficios por parte de funcionarios del Ministerio
+     de Salud, Ministerio de Trabajo y Seguridad Social, Ministerio de Educación Pública,
+     Instituto Mixto de Ayuda Social, Patronato Nacional de la Infancia, Caja Costarricense de
+     Seguro Social, Instituto Nacional de las Mujeres, Dirección Nacional de CEN-CINAI,
+     Instituto Nacional de Aprendizaje, Dirección Nacional de Desarrollo de la Comunidad y la
+     Dirección Ejecutiva de la STRC.
+1.9. Asimismo, se efectuó una revisión de las actas de la Comisión Consultiva del 01 de enero
+     de 2018 al 31 de diciembre de 2022, con el fin de analizar la naturaleza de los temas
+     presentados, los tipos de acuerdos y sus características, así como si las sesiones de ese
+     órgano superior se realizaron conforme lo establecido en el marco normativo de la Red y
+     la Ley General de la Administración Pública, en lo relativo a órganos colegiados.
+1.10. En lo correspondiente al análisis de la calidad de los servicios de cuido y desarrollo infantil
+      brindados, de las 1312 alternativas de cuido incluidas en la base de datos de las
+      alternativas de atención adscritas a la Red suministrada por la STRC, se determinó una
+      muestra de 43 centros. Estos incluyen Centros de Educación y Nutrición y de Centros
+      Infantiles de Atención Integral (CEN-CINAI), Centros de Atención Diurno de atención
+      Integral (CIDAI), Centros de Cuido y Desarrollo Infantil (CECUDI), establecimientos
+      privados (atienden niñez subsidiada por el IMAS), y Hogares Comunitarios, que en total
+      atienden a 1970 niños (ver anexo).
+1.11. El tamaño de la muestra fue definida mediante la metodología de muestreo por auditoría o
+      de aceptación, a partir de la función de probabilidad de Poisson y la tabla predefinida para
+                                                   -7-
+                                                                                                Contraloría General de la República
+                                                          T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                     http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+      un nivel de confianza del 95%, a la que se ingresó con una tasa de error tolerable2 del
+      15% y una tasa de error esperado3 del 2%. Además, en la selección de las alternativas de
+      cuido se consideraron criterios de vulnerabilidad socio-estructural, mediante el Índice de
+      Progreso Social 20194, así como algunos de sus indicadores5, los cuales fueron
+      priorizados por funcionarios de la STRC y los representantes de la CTI, conforme su
+      conocimiento y experiencia.
+
+      LIMITACIONES QUE AFECTARON LA EJECUCIÓN DE LA AUDITORÍA
+
+1.12. Durante el desarrollo de la auditoría se dio el traslado de la Secretaría Técnica de la
+      REDCUDI del Instituto Mixto de Ayuda Social al Patronato Nacional de la Infancia, de
+      conformidad a lo estipulado en el artículo 2 de la Ley N.°10038; situación que generó
+      limitaciones en la entrega de información en tiempo y forma.
+
+      GENERALIDADES ACERCA DEL OBJETO AUDITADO
+
+1.13. La Red de Cuido y Desarrollo Integral tiene la finalidad de "...establecer un sistema de
+      cuido y desarrollo infantil de acceso público, universal y de financiamiento solidario, que
+      articule las diferentes modalidades de prestación pública y privada de servicios en materia
+      de cuido y desarrollo infantil, para fortalecer y ampliar las alternativas de atención infantil
+      integral"6.
+1.14. Entre sus objetivos se establecen: a) garantizar el derecho de los niños a programas de
+      cuido que le procuren un desarrollo integral según sus necesidades, conforme la
+      modalidad de atención que requieran; b) promover la corresponsabilidad social en el cuido
+      con la participación de los diversos sectores sociales; c) articular los diferentes actores,
+      alternativas y servicios de cuido y desarrollo infantil, d) procurar que los servicios de cuido
+      y desarrollo infantil permitan la inserción laboral y educativa de los progenitores o
+      encargados.
+1.15. Para ello, la Red cuenta con tres órganos de gestión7; el primero de ellos, la Comisión
+      Consultiva, como órgano superior, de coordinación política y de dirección. Los dos
+      restantes, de carácter técnico-operativo y de articulación, a saber: la Comisión Técnica
+      Interinstitucional, cuyos miembros deben encargarse de articular a lo interno de las
+      instituciones que representan y entre éstas; y la Secretaría Técnica, a la que corresponde
+
+      2
+       Porcentaje máximo de errores que se toleran, o límite superior de confianza en las estimaciones en un
+      intervalo.Es la diferencia máxima que el auditor está dispuesto a aceptar entre el valor muestral y el
+      poblacional (entre más alto el riesgo de control y menor confianza en los controles, este porcentaje es más
+      alto).
+      3
+        Es el porcentaje de error que el auditor espera encontrar en la población con base en el juicio profesional, el
+      conocimiento del entorno y la entidad obtenido a partir de su experiencia histórica y análisis preliminar.
+      4
+        Desarrollado por el Centro Latinoamericano para la Competitividad y Desarrollo Sostenible del INCAE. Mide
+      los resultados de decisiones de política o inversión en tres dimensiones: necesidades básicas, fundamentos
+      de bienestar y oportunidades en cada cantón.
+      5
+        Esos indicadores fueron: Desnutrición infantil, Nacimientos en madres adolescentes, Sobrepeso y obesidad
+      infantil, Escolaridad promedio de las mujeres, Balance de empleos formales, Tasa de repitencia en primaria,
+      Asentamientos informales, Tasa de vacunación, Graduados educación técnica, Potabilidad, Acceso a
+      saneamiento mejorado, Acceso a energía eléctrica, Cobertura del servicio de recolección de residuos.
+      6
+        Creada mediante la Ley N.°9220 del 24 de abril de 2014.
+      7
+        Artículos 7, 9 y 12 de la Ley N.° 9220.
+                                                            -8-
+                                                                                                          Contraloría General de la República
+                                                                    T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                               http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+     articular a las dos comisiones citadas, así como a los actores públicos y privados y las
+     diferentes actividades desarrolladas en el país en materia de cuido y desarrollo infantil,
+     órgano que además, tiene máxima desconcentración y personalidad jurídica instrumental
+     y presupuestaria e independencia técnica y funcional.
+1.16. Asimismo, la Red cuenta con tres unidades ejecutoras (Dirección Nacional de CEN-CINAI,
+      IMAS y PANI), las cuales se citan de forma genérica en la Ley y su Reglamento como
+      receptoras de los recursos girados por el Fondo de Desarrollo Social y Asignaciones
+      Familiares (Fodesaf), y a través de ellas provee servicios de cuido y desarrollo integral
+      mediante siete modalidades: los CIDAI, los CEN-CINAI, los CECUDI Municipales,
+      Hogares Comunitarios, Casas de la Alegría, ONG y Centros Privados.
+1.17. Para la prestación de los servicios, la Red Nacional de Cuido y Desarrollo Infantil cuenta
+      con recursos del 4% del total de ingresos anuales de FODESAF (ordinarios y
+      extraordinarios). Si bien, la Ley de Reactivación y reforzamiento de la red nacional de
+      cuido y desarrollo infantil N.°9941 del 15 de febrero de 2021, incluyó recursos por el 1%
+      del impuesto sobre la renta trasladado al PANI; los superávits libres acumulados del PANI
+      y el INAMU (100% y 50%, respectivamente), y otros provenientes de recursos nacionales
+      o internacionales, estos no pueden ser transferidos a la Red por limitaciones de la Regla
+      Fiscal.
+
+     COMUNICACIÓN PRELIMINAR DE LOS RESULTADOS DE LA AUDITORÍA
+
+1.18. En el oficio N.°14208 (DFOE-BIS-0865) del 10 de octubre de 2023, se remitió el borrador
+      del informe a la Licda. Kennly Garza Sánchez, Presidenta Ejecutiva del PANI y Presidenta
+      a la Comisión Consultiva de la REDCUDI, con el propósito de que formularan y remitieran
+      las observaciones que consideraran pertinentes sobre su contenido. Al respecto, mediante
+      oficio N.° PANI-PE-STRCD-OF-292-2023 del 18 de octubre de 2023; lo resuelto sobre el
+      particular se comunicó en el oficio N.° 14944 (DFOE-BIS-911) del 23 de octubre del
+      mismo año.
+1.19. Asimismo, el 13 de octubre de 2023, se realizó la presentación de resultados a la
+      Administración Activa del Patronato Nacional de la Infancia y la Secretaría Técnica de la
+      Red Nacional de Cuido y Desarrollo Infantil, con la participación de las siguientes
+      personas: Licda. Kennly Garza Sánchez, Presidenta Ejecutiva del Patronato Nacional de
+      la Infancia (PANI), en su calidad de Presidenta de la Comisión Consultiva; Licda. María
+      Auxiliadora Chaves Campos, Auditora Interna y Katherine Valverde, funcionarias del PANI;
+      Lic. Cristian Carvajal Coto, Director Ejecutivo; Licda Damaris Jiménez, Abogada y Licda.
+      Nohelia Brenes, profesional en Planificación y Formación Social, funcionarios de la
+      Secretaría Técnica de la Red Nacional de Cuido y Desarrollo Infantil (REDCUDI.
+
+
+
+
+                                                 -9-
+                                                                                             Contraloría General de la República
+                                                       T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                  http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+SIGLAS
+
+
+
+SIGLA       Significado
+
+CAI         Consejo de Atención Integral
+
+CC          Comisión Consultiva
+
+CCSS        Caja Costarricense de Seguro Social
+
+CECUDI      Centro de Cuido y Desarrollo Integral
+
+CEN-CINAI   Centro de Educación y Nutrición-Centro Infantil de Atención Integral
+
+CGR         Contraloría General de la República
+
+CIDAI       Centro Infantil Diurno de Atención Integral
+
+CTI         Comisión Técnica Interinstitucional
+
+DINADECO    Dirección Nacional de Desarrollo
+
+DNCC        Dirección Nacional de CEN-CINAI
+
+DFOE        División de Fiscalización Operativa y Evaluativa de la CGR
+
+IMAS        Instituto Mixto de Ayuda Social
+
+INA         Instituto Nacional de Aprendizaje
+
+INAMU       Instituto Nacional de la Mujer
+
+MEP         Ministerio de Educación Pública
+
+MS          Ministerio de Salud
+
+MTSS        Ministerio de Trabajo y Seguridad Social
+
+REDCUDI     Red Nacional de Cuido y Desarrollo Infantil
+
+STRC        Secretaría Técnica de la Red Nacional de Cuido y Desarrollo Integral
+
+
+
+                                              - 10 -
+                                                                                             Contraloría General de la República
+                                                       T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                  http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+2. Resultados
+2.1. Los resultados de la auditoría refieren a dos grandes áreas temáticas: la Gobernanza de
+     la REDCUDI, que es el conjunto de políticas, normas y órganos mediante los cuales se
+     dirige, administra y controla la gestión de la Red, con el fin de impulsar el cumplimiento de
+     sus objetivos y satisfacer las necesidades de sus usuarios y partes interesadas; y por otro,
+     el Binomio cobertura-calidad de los servicios de cuido y desarrollo integral, que
+     comprende la cobertura y calidad de esos servicios, aspectos relevantes para los fines de
+     la Red.
+
+     GOBERNANZA DE LA REDCUDI
+
+
+     Debilidades en el funcionamiento de la Comisión Consultiva limita la toma de
+     decisiones para la operación de la REDCUDI
+2.2. El funcionamiento de la Comisión Consultiva (CC) de la REDCUDI limita la aprobación y
+     emisión de las políticas, lineamientos, normativa e instrumentos necesarios para la
+     operación de la Red e impulso del logro de sus objetivos. Entre el 2018 y 2022, de las 37
+     sesiones efectuadas (22 eran ordinarias y 15 extraordinarias), sólo en 2 participaron todos
+     sus miembros8. Esto a pesar de que el Reglamento a la Ley N.°9220 indica que sus
+     integrantes no pueden delegar el ejercicio de su representación y atribuciones (Art.11
+     inciso d) y por tanto sus ausencias afectan el quehacer de la Red. En el Gráfico N.°1 se
+     muestra la participación de los miembros en las sesiones durante el periodo en estudio.
+
+                                                     Gráfico N.° 1
+
+
+
+
+                          Fuente: elaboración propia, a partir de actas de la Comisión Consultiva.
+
+     8
+         Las cuales fueron las primeras 2 sesiones realizadas tras el cambio de Gobierno en 2022.
+                                                             - 11 -
+                                                                                                               Contraloría General de la República
+                                                                         T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                                    http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+2.3. A lo anterior se suma que sólo en 21 sesiones se cubrieron todos los temas de la Orden
+     del día aprobada, y de éstas, 12 fueron sesiones extraordinarias. Además, de las 22
+     sesiones ordinarias9 efectuadas en el periodo, en 5 casos éstas se distanciaron entre 3,5
+     y 5 meses de la anterior, mientras que entre el 26 de mayo de 2022 y el 15 de febrero de
+     2023, transcurrieron 9 meses sin sesiones ordinarias10, en lugar de las cuales se
+     efectuaron 5 sesiones extraordinarias.
+
+2.4. Esa práctica de sesionar en forma extraordinaria fue adoptada por la Comisión para cubrir
+     los temas pendientes, pese a no tratarse de asuntos que requerían atención inmediata y
+     de que sólo se podían abarcar uno o dos temas por sesión. Esto, no obstante lo indicado
+     en el Dictamen C-247-2001 de la Procuraduría General de la República del 17/09/2001,
+     acerca de que: “las sesiones extraordinarias están diseñadas para conocer de asuntos
+     especiales o urgentes, los cuales, dadas sus implicaciones para el interés público,
+     requieren de su atención inmediata, no pudiendo por ello el colegio esperarse a que
+     acontezca la sesión ordinaria” (el subrayado no es del original).
+
+2.5. Por otra parte, de los 76 asuntos sometidos a su discusión, relacionados con políticas,
+     lineamientos, normativa, modelos e instrumentos para aplicarse en la Red y otros, cabe
+     destacar que 45 eran propuestas finales, en tanto 31 eran temas aún “en proceso”, los
+     cuales generaron instrucciones intermedias reiterativas, más propias de la metodología
+     SCRUM11 que de un equipo técnico colegiado como la Comisión Técnica Interinstitucional,
+     que se reúne en forma periódica (bimensual) para elaborar propuestas y presentarlas a
+     discusión de un órgano superior (Comisión Consultiva), también con sesiones poco
+     frecuentes (bimensuales) y cuyos miembros (ministros, viceministros y jerarcas) cuentan
+     con tiempo disponible limitado para ello.
+2.6. Adicionalmente, aunque la Comisión Consultiva es el encargado de emitir las políticas
+     generales y los lineamientos estratégicos del sistema de cuido y desarrollo infantil, de la
+     coordinación competencial interinstitucional y las relativas a las diversas modalidades de
+     prestación de servicios de la Red de Cuido (Art.8 de la Ley N.°9220), y según el
+     Reglamento a su ley de creación, le corresponde emitir y hacer vinculantes los acuerdos
+     (Art.9 inciso c), de los 101 acuerdos generados a partir de los asuntos sometidos a su
+     discusión, sólo 1512 se aprobaron, 55 contenían instrucciones para complementar los
+     análisis efectuados o realizar estudios nuevos, pero no incluían una decisión final sobre la
+     implementación del asunto presentado, mientras que 31 acuerdos fueron dados por
+     Recibidos o Conocidos, sin generar instrucción alguna.
+
+
+     9
+       Representan un 59% del total de sesiones ordinarias.
+     10
+        Las sesiones ordinarias son bimensuales, por lo que debieron celebrarse al menos 4 en este lapso.
+     11
+        El Scrum es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para
+     trabajar colaborativamente, en equipo, y obtener el mejor resultado posible de un proyecto.Se ejecuta en ciclos
+     temporales cortos y de duración fija (iteraciones), usualmente de entre 2 y 4 semanas máximo. Cada iteración
+     tiene que proporcionar un resultado completo, un incremento de producto final que sea susceptible de ser
+     entregado con el mínimo esfuerzo al cliente cuando lo solicite. Ver https://proyectosagiles.org/que-es-scrum/
+     12
+        De estos acuerdos aprobados, sólo 2 proponían acciones para hacerlos vinculantes y están contemplados
+     en los 8 citados en el siguiente párrafo.
+                                                          - 12 -
+                                                                                                       Contraloría General de la República
+                                                                 T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                            http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+2.7. A esto se suma que sólo 8% de los acuerdos del total incluían instrucciones para hacer
+     vinculante lo propuesto; un 36% de los casos no se contenía ninguna indicación en ese
+     sentido, y en el 56% restante, se consideró que no aplicaba proponer ninguna acción con
+     ese objetivo, por tratarse de asuntos en proceso, informes de gestión, asuntos
+     administrativos relacionados con la STRC, o instrucciones para ampliar o complementar lo
+     presentado.
+2.8. Asimismo, del total de acuerdos, hubo 82 en que se giró algún tipo de instrucción, no
+     obstante, aunque en 65 de ellos se indicó qué hacer en torno al asunto presentado, sólo
+     en 47 se indicó al responsable de ejecutar lo instruido, y únicamente en 29 se estableció
+     un plazo para su atención.
+2.9. Por otro lado, según lo establecido en el Principio VI de los Principios de Gobierno
+     Corporativo de la OCDE y del G20, y el Art.4° de la Directriz 099-MP13, ambos
+     relacionados con las responsabilidades de los órganos de dirección, es responsabilidad
+     de la Comisión Consultiva, entre otras, dar seguimiento a sus acuerdos y supervisar los
+     resultados de las acciones de la Red, no obstante, se constató que sólo en 9 de las 37
+     sesiones se dio seguimiento a los acuerdos, y únicamente 7 de los 76 temas discutidos
+     durante el periodo 2018-2022 se relacionaron con rendición de cuentas ante el órgano
+     superior (supervisión). En el Gráfico N.°2 se muestran la naturaleza de los temas
+     sometidos a discusión de la Comisión Consultiva.
+
+                                                    Gráfico N.° 2
+
+
+
+
+              Fuente: elaboración propia, a partir de actas de la Comisión Consultiva periodo 2018-2022.
+
+
+     13
+       Directriz para la Revisión de las funciones de órganos de dirección y fortalecimiento de su rol estratégico en
+     las empresas propiedad del estado e instituciones autónomas,emitida el 19 de febrero de 2018, y vigente a
+     partir del 22 de marzo de 2018.
+
+
+
+                                                          - 13 -
+                                                                                                         Contraloría General de la República
+                                                                   T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                              http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+2.10. Las situaciones encontradas se originan en la falta de una mejor planificación y
+      programación de los temas más importantes o urgentes por someter a discusión de la
+      Comisión Consultiva, que considere la frecuencia bimensual de esas sesiones establecida
+      en la Ley N.°9220 (Art.8) y el tiempo disponible de los jerarcas.
+2.11. Además, en la carencia de un reglamento interno para ese órgano, que establezca al
+      menos las responsabilidades y atribuciones de sus miembros, las causas y requisitos que
+      justifican sus ausencias o retiros de las sesiones, las reglas que rigen las sesiones
+      (cuórum, aprobación de orden del día, mociones, etc.) y las votaciones sobre acuerdos y
+      actas (cuando no participa alguno de los miembros en la deliberación de los asuntos), la
+      naturaleza de las sesiones extraordinarias (atención de asuntos impostergables por sus
+      implicaciones) y los requisitos por cumplir, tanto de los asuntos sometidos a su discusión
+      como los acuerdos asociados, y la instancia de la Red que debe fungir como una
+      secretaría del órgano consultivo (lo cual ha sido asumido por la STRC como parte del
+      subproceso de apoyo a la gestión de las sesiones de la CC y la CTI14).
+2.12. Por su parte, la práctica de presentar propuestas aún en proceso, es resultado de una
+      débil estructura organizativa y falta de personal idóneo en la STRC para desarrollar las
+      labores que le corresponden dentro de la Red; esto por cuanto aún no se ha logrado
+      implementar la primera etapa de la organización aprobada desde enero de 201815,
+      correspondiente a los procesos de Estrategia y Formulación de Políticas y sus
+      subprocesos (entre éstos el de Apoyo y asesoría a ambos órganos colegiados). Dicha
+      situación, también incide en su capacidad de elaborar propuestas finales (aun
+      apoyándose en la CTI), ser contraparte en las consultorías contratadas y luego
+      procesarlas para identificar si es factible lo propuesto, así como para procurar a la
+      Comisión Consultiva información precisa, oportuna y pertinente para la toma de
+      decisiones fundamentadas y objetivas en favor de la Red.
+2.13. Finalmente, conviene puntualizar que los asuntos discutidos en el seno de la Comisión
+      Consultiva, y sus respectivos acuerdos, son de importancia para el buen funcionamiento
+      de la Red, su atención forma parte de las responsabilidades de ese órgano y requieren de
+      decisiones oportunas para ponerlos en práctica, lo cual, sin embargo, no se está dando y
+      genera retrasos en la implementación dentro de la Red, de normativa, estándares,
+      procesos, modelos e instrumentos que coadyuvan a lograr los objetivos de la REDCUDI,
+      lo que a la postre incide negativamente en los servicios de cuido y desarrollo integral que
+      se brindan, pues esos elementos impulsan que los servicios se suministren en
+      condiciones de igualdad, calidad, acceso y cobertura en las diferentes zonas del país, y
+      respondan a las necesidades de los padres o encargados que trabajan o estudian.
+
+
+
+
+     14
+        Ver apartado 5. Los procesos y subprocesos de la Secretaría Técnica del Marco organizacional de la
+     REDCUDI, pág.37.
+     15
+        Ver Apartados 5, 6 y 7 del Marco organizacional de la REDCUDI: Articulación de la Comisión Consultiva,
+     Comisión Técnica Interinstitucional y Secretaría Técnica de la Red Nacional de Cuido y Desarrollo Infantil, que
+     forma parte del Marco conceptual, operativo y organizacional aprobado en sesión ordinaria 01-2018
+                                                         - 14 -
+                                                                                                        Contraloría General de la República
+                                                                  T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                             http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+     Falta de claridad en la definición de los roles y responsabilidades de las
+     instituciones que conforman la REDCUDI
+2.14. Se determinó que las instituciones con los roles más diversificados dentro de la
+      REDCUDI16, por ser parte de sus diferentes instancias (Comisión Consultiva, CC;
+      Comisión Técnica Interinstitucional, CTI, y Unidades Ejecutoras, UE), no tienen claro su
+      rol ni sus responsabilidades en los procesos en que participan.
+2.15. Además, el marco que define el quehacer de los diferentes actores públicos de la Red
+      está constituido, primordialmente, por lo establecido en la Ley N.° 9220, su Reglamento, y
+      el “Marco Conceptual, Operativo y Organizacional”17, sin embargo, éstos son instrumentos
+      de carácter general y no puntualizan las diferencias de roles, el alcance de las
+      responsabilidades ni los aportes que las entidades deben realizar para el cumplimiento de
+      objetivos de la Red, según el órgano o proceso en que intervengan.
+2.16. Sobre el particular, el Art.60 de la Ley General de la Administración Pública señala que
+      para determinar la competencia de un órgano, entre otras, debe considerarse la función
+      que tiene dentro de los procedimientos en que participa.
+2.17. En términos generales, las acciones ejecutadas por las instituciones en las instancias que
+      conforman la REDCUDI, muestran una participación en mesas de trabajo, actividades
+      educativas para el desarrollo del personal de atención directa de las alternativas de
+      cuidado y desarrollo infantil, así como colaboración en planes de capacitaciones,
+      asignación de personal de las oficinas locales para probar formularios y otras actividades
+      operativas, todo ello a solicitud de la Secretaría Técnica de la REDCUDI. A esto se
+      adiciona el giro de subsidios, cuando son Unidades Ejecutoras, aportes que efectúan
+      según la Ley N.° 9220 y sus reformas, y el marco de sus leyes orgánicas.
+2.18. Instancias como la Dirección Nacional de CEN-CINAI (DNCC) estiman que los roles en la
+      CTI no están establecidos de manera clara, ni han recibido algún tipo de guía por parte de
+      la Secretaría Técnica para ese efecto, y el IMAS, aunque identifica su participación en los
+      distintos órganos de la Red y como unidad ejecutora, delimita su trabajo a lo establecido
+      en la normativa de su institución con respecto al beneficio para Cuido y Desarrollo Infantil
+      (ver recuadro N.°1), sin tomar en cuenta lo consignado en el marco conceptual de la Red
+      y el de articulación18 de los órganos que la conforman, que promueven acciones de
+      articulación desde diferentes aristas de las instituciones para coadyuvar al logro de los
+      objetivos de la REDCUDI.
+
+
+
+
+     16
+        Dirección Nacional de CEN-CINAI (DNCC), Instituto Mixto de Ayuda Social (IMAS), Patronato Nacional de la
+     Infancia (PANI), Centros de Atención Integral- Ministerio de Salud (CAI-MS). También se incluyó el Ministerio
+     de Trabajo y Seguridad Social (MTSS) por ser usualmente el rector del sector social y por su papel en el
+     financiamiento de la Red.
+     17
+        Este documento incluye un cuadro genérico con los deberes de las instituciones participantes en la Red
+     (páginas 109-113).
+     18
+        Su nombre completo es Marco organizacional de la REDCUDI: Articulación de la Comisión Consultiva,
+     Comisión Técnica Interinstitucional y Secretaría Técnica de la Red Nacional de Cuido y Desarrollo Infantil.
+                                                          - 15 -
+                                                                                                      Contraloría General de la República
+                                                                T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                           http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+                                                    Recuadro N.° 1
+
+      OFICIO IMAS-SGDS-0447-2023 del 12 de abril de 2023:
+      “Como parte de la oferta programática orientada a población en situación de pobreza extrema
+      y pobreza, el IMAS cuenta con el beneficio Cuidado y Desarrollo Infantil, el cual promueve el
+      acceso de niños y niñas hasta los doce años de edad cumplidos, y personas menores de edad
+      con discapacidad, al servicio que brindan las Alternativas de Atención, facilitando con ello
+      condiciones de protección y desarrollo.….
+      Por lo tanto, el IMAS, a través del giro de los subsidios aprobados mediante el beneficio Cuidado y
+      Desarrollo Infantil, cumple su rol como unidad ejecutora de la REDCUDI, utilizando para ello los
+      recursos asignados en el artículo 15 de la Ley N°9220 y sus reformas. Y es a partir de la ejecución
+      de dicho beneficio, así como de las competencias institucionales establecidas en el marco
+      jurídico respectivo, es que el IMAS interviene y realiza aportes en los espacios superiores y técnicos
+      de la REDCUDI.”
+
+
+
+
+2.19. Por su parte, el PANI enmarca su participación en la REDCUDI en su rol como rector de
+      los derechos de la niñez y adolescencia y presidente de la Comisión Consultiva, en el
+      apoyo a la Secretaría Técnica en su transición a ser órgano desconcentrado de esa
+      institución, así como en la construcción de la Ruta de la Red de Cuido, pero no hace
+      alusión a su labor como Unidad Ejecutora, ni a la que le correspondería desarrollar en la
+      CTI. Mientras que el Ministerio de Trabajo y Seguridad Social, por su lado, brinda
+      financiamiento directo y complementario a la Red y Unidades Ejecutoras19, pero no
+      plantea acciones para promover la empleabilidad de los progenitores con hijos
+      beneficiarios de los servicios de cuido, ni provee a la REDCUDI información sobre las
+      asociaciones solidaristas y sindicales que debe registrar según su normativa (Ley
+      N.°1860), lo cual le podría ayudar a promocionar la corresponsabilidad social del cuido
+      entre ellas y hasta establecer alianzas para conformar centros con ese fin.
+2.20. Finalmente, el Ministerio de Salud enfoca su participación en la REDCUDI en la labor de
+      la Dirección CEN-CINAI dentro de la Comisión Técnica Interinstitucional (sin precisar que
+      es una Unidad Ejecutora20), y en los centros de cuido CEN-CINAI, a los cuales, no
+      obstante, identifica como unidades ejecutoras, siendo en realidad una de las alternativas
+      de cuido. Lo anterior, a pesar de que el Consejo de Atención Integral, adscrito a ese
+      Ministerio, está incluido en el “Marco conceptual, operativo y organizacional” de la
+      REDCUDI, y el Reglamento a la Ley N.° 9220 lo establece como integrante de la CTI;
+      además de que ese Consejo tiene la responsabilidad de autorizar, supervisar, fiscalizar y
+
+
+
+     19
+        Por ejemplo a través del convenio MTSS-Desaf-municipalidades suscrito con municipalidades o consejos de
+     distrito.
+     20
+        Una unidad ejecutora es la encargada de conducir la ejecución de operaciones orientadas a la gestión de
+     los fondos que administran, conforme a las normas y procedimientos establecidos, por lo que son
+     responsables directas de los ingresos y egresos que administran.
+                                                        - 16 -
+                                                                                                     Contraloría General de la República
+                                                               T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                          http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+      coordinar el funcionamiento de las modalidades de atención integral de personas menores
+      hasta de 12 años de edad21.
+2.21. En general, lo señalado no es consistente con los Principios de Gobierno Corporativo de
+      la OCDE y del G20, pues para que un gobierno corporativo sea eficaz, requiere de un
+      marco legislativo, reglamentario e institucional sólido, basado en leyes, reglamentos y
+      sistemas de autorregulación; que promueva la transparencia, la equidad, sea coherente
+      con el Estado de Derecho y respalde una supervisión y ejecución eficaces (Principio I).
+      Para ello es menester que las responsabilidades se definan en forma clara y se diseñen
+      para servir los intereses generales (subprincipio C), así como que las autoridades en
+      supervisión, y regulación y garantía del cumplimiento, tengan las facultades, integridad y
+      recursos suficientes para cumplir sus obligaciones con profesionalismo, objetividad y en
+      forma oportuna, transparente y fundamentada (Subprincipio E).
+2.22. Las situaciones determinadas, tienen su origen en que los órganos técnico operativos de
+      gestión de la REDCUDI (STRC y CTI), no han realizado un análisis de las necesidades de
+      la Red de Cuido para cumplir con los objetivos establecidos en su ley de creación, entre
+      éstos brindar servicios de cuido y desarrollo integral que faciliten la inserción
+      laboral/educativa de sus padres o encargados, de modo que puedan identificar y precisar
+      los aportes de las instituciones que la conforman, en función de las competencias
+      establecidas en el marco normativo de cada una de ellas, y de los órganos de la Red en
+      que participan. A esto se suma la falta de definición de los roles y responsabilidades que
+      les corresponden a esas instituciones en cada una de las instancias que constituyen la
+      Red, los cuales se desprenden del análisis de necesidades mencionado y los aportes
+      requeridos de las instituciones, conforme el proceso o procedimiento en que participen.
+2.23. Asimismo, se dificulta que las instituciones definan acciones para impulsar el logro de los
+      objetivos de la REDCUDI y articulen con las otras instituciones públicas de la Red para
+      fortalecer y ampliar las alternativas de atención infantil o facilitar la inclusión laboral y/o
+      educativa de los padres o encargados de los niños beneficiados, pues no logran
+      dimensionar su papel en la corresponsabilidad social22 del cuidado infantil. Así, por
+      ejemplo, aunque la CCSS cuenta con el Programa del Niño Sano y otros servicios de
+      salud (fisioterapia, nutrición, atención psicológica, odontología, etc.), no participa
+      sistemáticamente23 en el aseguramiento de la salud y nutrición de los niños que están en
+      servicios de cuido y desarrollo integral, a través de los EBAIS o Áreas de Salud aledaños.
+2.24. Por otro lado, también han derivado en una serie de ineficiencias en el uso de los
+      recursos, como por ejemplo, traslapes entre la STRC y algunas unidades ejecutoras en la
+
+      21
+         Artículo 6 de la Ley General de Centros de Atención Integral. Publicada en La Gaceta N.° 181 del 21 de
+      setiembre del 2000.
+      22
+         Derecho de las mujeres a la intervención de otros actores (hombres, el Estado y el sector privado
+      empresarial), en el cuido de las personas dependientes (niños, adolescentes, o adultos mayores enfermos o
+      con discapacidad, de modo que el trabajo de cuido no recaiga sólo en ellas, afectando sus oportunidades de
+      capacitación, autocuidado, autonomía económica e inserción en el mundo productivo remunerado,
+      contribuyendo a la ruptura de la segmentación sexual del trabajo. Marco conceptual, operativo y
+      organizacional, REDCUDI, pág.72
+      23
+         En el oficio N.° DDSS-AAIP-0370-2023 del 21 de abril de 2023, del Área de Atención Integral a las Personas
+      de la Dirección de Desarrollo de Servicios de Salud, no se indica aportes en este sentido, y sólo en algunas de
+      las 43 alternativas de atención visitadas se indicó trabajar en coordinación con los EBAIS y Áreas de Salud a
+      las que pertenecen.
+                                                            - 17 -
+                                                                                                        Contraloría General de la República
+                                                                  T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                             http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+     elaboración de normas o estándares para los servicios de cuido, o de modelos de costo
+     de los servicios brindados; omisiones o vacíos en cuanto al establecimiento de las
+     responsabilidades de las Unidades Ejecutoras en la supervisión de los servicios de cuido
+     brindados y de la STRC en el control, y hasta duplicación de funciones en la acreditación
+     de alternativas de atención, definidas tanto en el CAI como en la STRC, todo lo cual hace
+     que se incurra en gastos adicionales que podrían emplearse para mejorar la cobertura y/o
+     calidad de los servicios.
+
+     Debilidades en articulación interinstitucional para                      la    continuidad           en      la
+     implementación de acciones aprobadas para la Red
+2.25. Se determinó que las prácticas de articulación ejecutadas por la
+      Secretaría Técnica de la REDCUDI (STRC) para la atención,
+      seguimiento y rendición de los acuerdos emitidos por la
+      Comisión Consultiva, son establecidas a discreción del Director
+      Ejecutivo de turno, de modo que cuando hay cambio de
+      Dirección Ejecutiva, se genera incertidumbre y falta de claridad
+      entre los funcionarios de la STRC y las instancias que
+      conforman la Red, acerca de cómo se atenderán los acuerdos
+      emitidos por la Comisión Consultiva (CC). Dicha situación,
+      dificulta la continuidad de ese       proceso de atención e
+      implementación de los acuerdos.
+2.26. Durante el periodo 2018-2022, la Directora Ejecutiva asignaba los acuerdos según
+      temática, a los funcionarios responsables de temas similares en el Plan Operativo
+      Gerencial (POGE) derivado del PEI 2018-2022, y éstos se encargaban de atenderlos
+      directamente, o de articular con los actores vinculados con la temática de los acuerdos.
+      Esta práctica todavía persiste, con el inconveniente de que para el periodo en curso aún
+      no se han elaborado ni el PEI 2023-2027 ni el POGE 2023.
+2.27. Adicionalmente, cuando la atención del acuerdo le correspondía a la Comisión Técnica
+      Interinstitucional, éste se incluía en agenda, lo valoraban en plenaria, y según el tema y la
+      competencia de las instituciones integrantes de ese órgano, se asignaba a los
+      responsables       (representantes     de   las     instituciones
+      competentes), se definía la ruta por seguir y la metodología
+      de trabajo, y esa decisión se plasmaba en acuerdos, para
+      luego ser comunicados a los actores vinculados con el
+      asunto.
+2.28. Empero, los representantes de las instituciones que
+      conforman la CTI, no tienen claro el concepto de articulación
+      ― implica trabajar por objetivos comunes, con un enfoque
+      centrado en el usuario― ni los alcances de su labor en la
+      implementación de acciones dirigidas al cumplimiento de los
+      objetivos de la REDCUDI (acciones que además son afines a
+      objetivos de la institución que representan). Situación que no se ajusta a lo indicado en el
+      Marco conceptual de la Red, en cuanto al trabajo en red, aprovechar la organización
+
+
+                                                  - 18 -
+                                                                                                 Contraloría General de la República
+                                                           T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                      http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+     intra-institucional existente de las instituciones que conforman la Red, y las
+     consideraciones para alcanzar un trabajo efectivo de la Red en los espacios creados24.
+2.29. Sobre el particular, buenas prácticas como la Metodología de Articulación para la
+      Competitividad- ArCo, señala que la articulación de los instrumentos25 de política pública
+      que ofrecen las instituciones, requiere de un enfoque centrado en los usuarios y no en las
+      entidades, coordinar entre instituciones y a nivel interno de éstas, y trabajar con base en
+      un marco de entendimiento común, con acciones concretas, medibles y realizables.
+2.30. Así, esa metodología propone efectuar una revisión y evaluación de los instrumentos,
+      primero a lo interno de cada entidad, para prescindir de aquéllos que no respondan a las
+      necesidades de los usuarios y fusionar los que brindan un mismo tipo de apoyo, con el
+      mismo objetivo al mismo usuario; y luego entre entidades, para integrar instrumentos de
+      éstas que den el mismo tipo de apoyo, con el mismo objetivo al mismo usuario y definir
+      una instancia única que los ofrezca, hacer paquetes de instrumentos entre entidades que
+      den diferentes tipos de apoyo orientados a un mismo objetivo y mismo usuario, y,
+      finalmente, generar rutas de atención que integren paquetes de distintas entidades con
+      diferentes apoyos, orientados a distintos objetivos para un mismo usuario.
+2.31. No obstante, aun las instituciones con Unidades Ejecutoras efectúan sus análisis
+      usualmente encasilladas en el marco de su normativa interna (posición que se muestra en
+      el Recuadro N.° 2), sin valorar la pertinencia de realizar modificaciones para coadyuvar al
+      logro de los objetivos de la Red, desde el marco de sus competencias, y aunque se han
+      efectuado algunos esfuerzos, como los proyectos piloto propuestos por el IMAS y el PANI
+      para implementar el Modelo de Copago, éstos son parciales. Tal es el caso del IMAS,
+      cuya intervención se limita a trasladar el subsidio mediante el uso de la figura “páguese a”,
+      obviando lo establecido en el Marco conceptual, operativo y organizacional de la
+      REDCUDI acerca de la corresponsabilidad social del Estado en el cuido de la niñez, y en
+      el Art. 5 del Reglamento a la Ley 9220 sobre la aspiración de la Red a prestar servicios de
+      calidad a la población objetivo, pues argumenta que esa responsabilidad recae en la
+      familia.
+
+                                                      Recuadro N.° 2
+
+          OFICIO IMAS-SGDS-0447-2023 del 12 de abril de 2023:
+          “Comisión   Técnica   Interinstitucional:   Se    discuten      y    elaboran,       desde       un    enfoque
+          técnico-operativo, propuestas, lineamientos y acciones sobre temas relevantes para el alcance
+          los objetivos de la REDCUDI, los cuales se emiten como insumos para la toma de decisiones en el
+          ámbito político de la Comisión Consultiva de la REDCUDI. Cabe indicar que el IMAS posiciona en
+          este espacio sus particularidades en la ejecución del beneficio Cuidado y Desarrollo Infantil,
+
+
+
+     24
+       Ver apartados 2.4.2, 4.3.3 y 4.3.4 del Marco conceptual, operativo y organizacional de la Red.
+     25
+        Instrumentos: medios para alcanzar un determinado objetivo de política pública, que permite promover la
+     realización de inversiones, incentivos o beneficios en áreas o sectores que se consideran estratégicos para
+     los países. (Pág.1, apartado.1. Antecedente y justificación, de la Metodología de Articulación para la
+     Competitividad- ArCo, Manual de Herramientas).
+
+                                                           - 19 -
+                                                                                                          Contraloría General de la República
+                                                                    T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                               http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+       exponiendo posibilidades y limitaciones, de acuerdo con el marco jurídico que le respalda.” (lo
+       destacado no es del original).
+
+
+
+
+2.32. Otro ejemplo de esa falta de comprensión de la labor articuladora de los integrantes de la
+      CTI, es la gestión de la Dirección Nacional de Desarrollo de la Comunidad (DINADECO)
+      ante la STRC para ser excluida de la Red, bajo el argumento de que esa Dirección ya no
+      tiene competencias con las asociaciones pro CEN-CINAI ni les gira recursos (ver
+      Recuadro N.° 3), obviando lo establecido en el artículo 12 de la ley de creación de la
+      REDCUDI, y de esa manera las acciones que podría efectuar con las asociaciones
+      comunales, entre otras, mediante la difusión del concepto de corresponsabilidad social del
+      cuidado y la promoción de alianzas para fundar centros de cuido en ellas, que a su vez
+      provean nuevas fuentes de empleo, en procura de mejores condiciones para la niñez y la
+      comunidad misma.
+
+                                                   Recuadro N.° 3
+
+       OFICIO DINADECO-OF-CIIS-OF-005-2023 del 14 de abril de 2023:
+       “La participación de DINADECO, respondía a la obligación institucional de dar contención a las
+       Asociaciones de Desarrollo Específicas Pro CEN CINAI, mismas que se han convertido en Comités
+       CEN CINAI y no tienen ninguna adscripción a la ley 3859 actualmente, dado a una transición que
+       se hizo desde 2017./…En enero 2021, luego de que Asesoría Jurídica de Dinadeco brindara
+       criterio AJ-017-2021, se hace solicitud a la Comisión Técnica Interinstitucional de la Red de Cuido
+       de salir de la Red oficialmente, mediante oficio DND-020-2021 argumentando que luego de la
+       promulgación de la Ley N° 8809 Dinadeco ya no es parte de las instituciones que tienen
+       competencias con los Centros de Cuido.”
+
+
+       OFICIO DND-020-2021 del 18 de enero de 2021:
+       “Desde el 30 de mayo de 2017, la gaceta N°101 publica la decisión del Consejo Nacional de
+       Desarrollo de la Comunidad de suspender el giro de los recursos a favor de las Asociaciones de
+       Desarrollo Específicas Pro Cen Cinai y Bienestar Comunal, así como a girar las respectivas
+       autorizaciones para que aquellos bienes que fueron adquiridos con fondos que girara este
+       órgano, fueran traspasados a los Comités Cen Cinai./… Siendo esta la razón principal por la que
+       no es necesaria la permanencia de esta Dirección dentro de los entes, órganos e instituciones
+       que, según el artículo 5 de la Ley N° 9220, conforman la Red Nacional de Cuido y Desarrollo
+       Infantil.”
+
+
+
+
+2.33. Así, lo encontrado no permite asegurar la efectiva ejecución de las funciones que a la
+      Secretaría Técnica (STRC) le corresponden, en cuanto a articular a los diferentes actores
+
+
+                                                      - 20 -
+                                                                                                     Contraloría General de la República
+                                                               T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                          http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+     vinculados con los servicios de cuido y desarrollo infantil26, entre éstos los otros órganos
+     de gestión27, con el fin de impulsar los objetivos de la Red, primero mediante la
+     elaboración de políticas, lineamientos, normativa, modelos e instrumentos, y luego, a
+     través de su implementación, lo cual debe realizar en conjunto con la Comisión Técnica
+     Interinstitucional (CTI)28. Tampoco contar con propuestas técnicas para promover el
+     trabajo en red y la articulación interinstitucional, así como procurar espacios de diálogo
+     para ese efecto29, funciones que según los incisos d,e,h,i del Art.25 del Reglamento a la
+     Ley, corresponden al Director Ejecutivo de la STRC.
+
+2.34. Las debilidades identificadas por la Contraloría General, son atribuibles a la falta de
+      procedimientos formales en la STRC y la CTI, que definan al menos las actividades y
+      responsables, para la atención, seguimiento y rendición de cuentas de los acuerdos
+      emitidos por la Comisión Consultiva, con el fin de que sean implementados en la Red.
+      Esto de forma tal que exista una guía para los funcionarios del nivel operativo de la STRC
+      y de la CTI, para garantizar la continuidad del trabajo de la Red. Sobre el particular
+      destaca, que desde enero de 2023, con el cambio de Dirección Ejecutiva, la STRC se
+      encuentra trabajando en la definición de procedimientos que faciliten la articulación con
+      los distintos actores que conforman la Red.
+
+2.35. A lo anterior se suma que no existe una metodología formal para la articulación de la
+      normativa, instrumentos y servicios brindados por las instituciones que integran la CTI,
+      con un enfoque centrado en el usuario, que guíe a los representantes designados por las
+      instituciones en su trabajo como enlace, en procura del logro de los objetivos de la Red
+      desde esas instituciones, sin dejar de lado sus propios objetivos. Ello incide en que las
+      instituciones desarrollen su tarea según su conocimiento, y con las limitaciones derivadas
+      de designar representantes sin poder de decisión a nivel operativo ni acceso al máximo
+      jerarca.
+
+2.36. Lo expuesto afecta la labor de la Comisión Técnica Interinstitucional en la elaboración de
+      análisis o propuestas para someterlas a la CC, pues se generan productos incompletos,
+      que no incluyen el estudio de distintos escenarios para determinar la mejor opción por
+      implementar, tanto desde el punto de vista técnico como financiero (de ahí la cantidad de
+      acuerdos de la CC solicitando complementar, ampliar o reelaborar análisis o propuestas).
+      Esto, dificulta la toma de decisiones, y afecta el adecuado funcionamiento de la Red, la
+      cobertura y/o calidad de los servicios de cuido y desarrollo infantil que se brindan a los
+      niños, así como la inserción laboral y/o educativa de sus padres o encargados, o bien,
+      dificulta alcanzar los resultados esperados con respecto a los objetivos de la Red.
+2.37. Asimismo, la falta de articulación ha generado omisiones como la clara definición del
+      alcance de la labor que deben efectuar las unidades ejecutoras, la Secretaría Técnica de
+      la REDCUDI y el Ministerio de Salud con respecto al control y supervisión de la calidad de
+      los servicios de cuido y desarrollo integral, así como duplicidad de funciones, como la
+      acreditación de las alternativas de atención, que se señala tanto en la Ley 8017 para el
+      CAI como en la Ley 9220 para la STRC; y traslape en la elaboración de normas o
+     26
+        Art.9 de la Ley N.°9220.
+     27
+        Art.21 del Reglamento a la Ley N.°9220.
+     28
+        Arts. 12 y 13 de la Ley N.°9220.
+     29
+        Ver incisos d, e, h, i del Art.25 del Reglamento de la Ley N.°9220.
+                                                             - 21 -
+                                                                                                         Contraloría General de la República
+                                                                   T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                              http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+     estándares para los servicios de cuido y desarrollo integral, o de modelos de costo de los
+     servicios brindados.
+
+     BINOMIO COBERTURA-CALIDAD DE LOS SERVICIOS DE CUIDO Y DESARROLLO INTEGRAL
+
+     Bajo incremento en la cobertura y disparidad en calidad de servicios de cuidado y
+     desarrollo infantil ofrecidos por las alternativas de atención
+2.38. La Contraloría General de la República determinó que la cobertura de los servicios de
+      cuidado y desarrollo infantil en la Red apenas alcanzó un 7,6% de la población entre 0 y
+      12 años (1,6% más que en diciembre de 2018, cuando se atendieron 57,561 niños), muy
+      por debajo de la meta establecida en el Plan Estratégico Red Nacional de Cuido y
+      Desarrollo Infantil (REDCUDI) 2018-2022, que planteó aumentar un 15% la cantidad de
+      niños, niñas, y adolescentes cubiertos por la Red en ese periodo30. Esto como parte de la
+      iniciativa estratégica para la ampliación de la cobertura de los servicios, mediante la
+      articulación de diversos actores sociales públicos y privados, considerando perfiles
+      poblacionales de todos los estratos socioeconómicos, condiciones geográficas y edades,
+      entre otros factores (IE.3.6).
+2.39. Por otra parte, el Órgano Contralor visitó una muestra de 43 centros ubicados en
+      diferentes regiones del país (de un total de 1312 adscritos a la Red), de las modalidades
+      CEN-CINAI, CIDAI, CECUDI, Hogares Comunitarios y establecimientos privados31, que en
+      conjunto atendían a 1970 niños, a efectos de constatar la aplicación de los Estándares
+      esenciales de calidad32 definidos para las alternativas de atención adscritas a la Red.
+2.40. Al respecto, se determinaron brechas en la aplicación de esos estándares y disparidades
+      en la calidad de los servicios brindados por las alternativas de atención de las diferentes
+      unidades ejecutoras de la REDCUDI, que abarcan aspectos relacionados con las
+      dimensiones establecidas en los citados estándares, a saber: “Talento Humano”, “Gestión
+      y Administración”, “Infraestructura y Seguridad”, “Salud y Nutrición” y “Pedagógica” de los
+      Estándares esenciales de calidad, en los centros de cuido y desarrollo integral, así como
+      incumplimientos en las de “Documentación”, “Infraestructura”, “Seguridad” y “Nutrición” de
+      las Normas de Habilitación, en los Hogares Comunitarios.
+2.41. Para el grupo de los centros de cuido y desarrollo integral, los resultados generales por
+      dimensión se muestran en el Gráfico N.°3, según la unidad ejecutora a la que pertenecen.
+
+
+
+
+     30
+        Mediante el artículo 3 de la Ley de Reactivación y reforzamiento de la nacional de cuido y desarrollo infantil
+     N.° 9941, del 15 de febrero de 2021, entre otros aspectos, se incluyó como parte de la población objetivo de la
+     REDCUDI, lo siguiente “de acuerdo con las necesidades específicas de las comunidades y familias atendidas,
+     y la disponibilidad presupuestaria, se podrán incluir niños y niñas hasta de doce años de edad o menores de
+     dieciocho años, si poseen alguna discapacidad, de acuerdo con la priorización que establezca la Secretaría
+     Técnica de la Redcudi”.
+     31
+        Se trata de centros privados que reciben niños beneficiados por subsidios del IMAS.
+     32
+        Estándares esenciales de calidad en los servicios de cuidado y desarrollo infantil de Costa Rica, cuya
+     implementación fue aprobada en sesión de la Comisión Consultiva, Acuerdo N° 03-01-2021 del 27 de enero
+     de 2021.
+                                                           - 22 -
+                                                                                                         Contraloría General de la República
+                                                                   T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                              http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+                                                   Gráfico N.° 3
+          Calificación de cumplimiento de los estándares de calidad por dimensión según unidad
+                                   ejecutora de la alternativa de cuido
+
+
+
+
+     *PANI/IMAS: corresponde a las alternativas de cuido donde unos niños pueden ser subvencionados por el
+     IMAS y otros por el PANI. /** El gráfico no incluye Hogares Comunitarios.
+     Fuente: elaboración propia, a partir de los datos recolectados en las visitas consignados en el PT_03_Análisis
+     Info_CEN-CINAI_Privados_CECUDI
+
+
+2.42. Así, en el caso de los CEN-CINAI se identificaron brechas en la dimensión de “Talento
+      Humano”, en la cual obtuvo una calificación por cumplimiento del 62,02%, pues se
+      identificó sobrecarga de funciones del personal de atención directa33, y debilidades en la
+      contratación oportuna de ese personal, lo cual incluso ha generado la suspensión del
+      servicio de cuido nocturno. En lo referente a “Gestión y Administración”, obtuvo un
+      81,25%, por no contar con el Modelo de Atención34 aplicado en el centro, falta de listas de
+      asistencia para visitantes y de un protocolo para la atención de situaciones violatorias de
+      los derechos de los niños. Mientras que, en lo correspondiente a “Infraestructura y
+      Seguridad”, cuya calificación de cumplimiento fue 83,67%, se observó el mal estado de
+      algunos centros, falta de certificado de verificación del estado de la instalación eléctrica
+      vigente en la mayoría de ellos, e incumplimientos de la Ley 7600 (falta de aceras y
+      barandas para personas con discapacidad), así como falta de preparación del personal en
+      primeros auxilios o utilización de los extintores.
+
+     33
+       Una sola docente puede tener a cargo hasta 26 niños de edades entre los 2 y los 5 años.
+     34
+       Documento que especifica la población por atender, la condición socioeconómica de los padres
+     beneficiarios, los recursos existentes, el reglamento operativo de acuerdo con las edades de los (as) niños
+     (as) que se atienden, la organización administrativa básica y el personal con que se cuenta (Art.16, Ley
+     N°.8017).
+                                                         - 23 -
+                                                                                                       Contraloría General de la República
+                                                                 T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                            http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+2.43. En los centros privados, donde la atención a los niños es subsidiada por el IMAS, se
+      identificaron debilidades en las dimensiones de “Salud y Nutrición”, “Talento Humano” y
+      “Gestión y Administración”. En el primer caso, la calificación fue de 77,79%, por cuanto
+      faltaban registros de los tamizajes para identificar el estado de salud física y desarrollo de
+      los niños y emprender acciones de intervención, de ser necesario35. En la segunda
+      dimensión la calificación fue de 76,57%, principalmente porque el personal no contaba
+      con la capacitación anual mínima requerida. Mientras que en la tercera, donde también
+      obtuvo la calificación más baja con un 77,86%, se debió a la ausencia del registro de
+      asistencia del personal y visitantes, de la aplicación de encuestas de satisfacción sobre la
+      calidad del servicio de los centros de cuido entre padres o encargados de los niños, y de
+      protocolos para el manejo de situaciones violatorias de los derechos del niño.
+2.44. En los centros subsidiados por el PANI, las calificaciones en general estuvieron por
+      encima del 90%, con excepción de la dimensión de “Talento Humano”, y debido
+      básicamente a la falta de capacitación reportada por el personal.
+2.45. Con respecto a la dimensión Pedagógica, en términos generales, se evidencian
+      oportunidades de mejora en el registro de los niños que reciben apoyo para potenciar su
+      aprendizaje; esto a pesar de que todas las alternativas obtuvieron resultados entre un
+      87,34% y un 100%. Además, en esta dimensión destaca un alto uso de la “Guía
+      pedagógica para niños y niñas desde el nacimiento hasta los 4 años de edad”36, y un
+      esfuerzo marcado de las alternativas, por realizar trabajo en conjunto con las familias
+      mediante celebraciones, charlas y/o talleres
+2.46. Por otra parte, en cuanto a los Hogares Comunitarios que funcionan con el aporte de
+      recursos del IMAS, al revisar la aplicación de las normas para la habilitación37 de ese tipo
+      de centros, se determinó una calificación de cumplimiento promedio del 87,50% en
+      “Infraestructura”y de 80,24% en “Seguridad”. En el primer caso, principalmente, por la falta
+      de anclaje del mobiliario y equipo propenso a caída o volcamiento, la presencia de aristas
+      y puntas filosas en muebles, así como porque el acabado y estado de paredes, pisos y
+      cielorrasos no cumplen lo especificado. Mientras que en el segundo caso, se debió al
+      manejo de sustancias inflamables y otros productos químicos al alcance de los niños, así
+      como a la falta de ubicación visible de números telefónicos de emergencia (Cruz Roja,
+      Bomberos, Centro de Intoxicaciones, Centro de Salud, Unidad de Quemados del HNN,
+      para denuncia de maltrato o abuso OIJ, PANI, Guardia Rural) y de los padres o
+      encargados, y falta de dispositivos de protección contra la entrada de fauna nociva (p. ej.
+      roedores).
+2.47. También, se identificaron debilidades en cuanto a la “Documentación”, cuya calificación
+      promedio fue de 89,02%, pues se requieren mejoras en la gestión de expedientes de la
+      Madre Comunitaria38, del Hogar39 y del Niño40, así como en el planeamiento de las
+
+
+      35
+         De agudeza visual y auditiva, salud bucodental y desarrollo psicomotor.
+      36
+         Emitida por el Ministerio de Educación Pública en el año 2018.
+      37
+         Normas para la Habilitación de Hogares Comunitarios, Decreto Ejecutivo N.° 30695-S, del 23 de agosto de
+      2002.
+      38
+         Faltaba incluir constancia de salud y de la condición física de la madre comunitaria para el cuido, y una
+      copia del convenio con el IMAS.
+      39
+         Falta incluir un procedimiento para recibir sugerencias/quejas y un plan de emergencia y evacuación.
+      40
+         Falta incluir fotografía, copia de carné de vacunas y constancia de nacimiento del niño.
+                                                             - 24 -
+                                                                                                       Contraloría General de la República
+                                                                 T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                            http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+      actividades diarias; finalmente, en “Nutrición” la nota promedio fue 96,77%, sin embargo
+      son necesarias mejoras en el almacenamiento de alimentos.
+2.48. En cuanto a lo señalado con respecto a la aplicación de los Estándares esenciales de
+      calidad, es importante considerar que de acuerdo con el Art.5 del Reglamento a la Ley
+      N.°9220, la REDCUDI, como sistema de cuido y desarrollo infantil de acceso público,
+      universal y de financiamiento solidario, aspira a prestar servicios de calidad a la población
+      objetivo y alcanzar la progresividad en cobertura, acompañada de estrategias paralelas
+      para avanzar en la calidad de los servicios. Además, el Art.26 establece que las
+      Alternativas de Atención (AA) adscritas a la Red deben asumir la visión, los enfoques y
+      principios establecidos en el Marco Conceptual, Operativo y Organizacional (el cual
+      incluye un apartado sobre estándares de calidad), y el Art.28, que las alternativas privadas
+      de la REDCUDI deben aplicarlos e implementarlos.
+2.49. Sobre el particular, también debe considerarse que el Plan Estratégico Red Nacional de
+      Cuido y Desarrollo Infantil (REDCUDI) 2018-2022, incluyó la iniciativa para establecer un
+      sistema de seguimiento y evaluación basado en estándares esenciales de calidad,
+      (emitidos desde el 2019), cuya aplicación es gradual y progresiva, orientado a mejorar las
+      intervenciones y alternativas de cuidado y desarrollo infantil, públicas y privadas.
+2.50. De esta forma, los resultados expuestos se atribuyen a diferentes razones, entre ellas a
+      que la Secretaría Técnica de la REDCUDI no ha ejecutado un estudio para determinar la
+      factibilidad para obtener financiamiento alterno con el fin de aumentar la cobertura y
+      mejorar la calidad de los servicios de cuido y desarrollo integral, conforme lo solicitara la
+      Comisión Consultiva en el acuerdo N°09-02-2022 de la sesión ordinaria N.°01-2022 del 02
+      de febrero de 2022 y lo expuesto en la sesión extraordinaria N.°02-2022 del 1° de julio de
+      ese mismo año41. Sobre este particular, la STRC señala que estos objetivos de la
+      REDCUDI se vieron afectados por la declaratoria de emergencia sanitaria provocada por
+      la enfermedad covid-19.
+2.51. A lo anterior se adiciona que los “Estándares esenciales de calidad” no son de carácter
+      vinculante para las Unidades Ejecutoras, las cuales, a pesar de haber participado en su
+      elaboración, no se incluyeron entre los responsables de verificar su cumplimiento.
+      Además, dichos estándares no han sido divulgados entre la totalidad de las alternativas
+      de atención adscritas a la Red, y el Ministerio de Salud no efectúa la labor de
+      fiscalización42 que le corresponde a través de la Secretaría Ejecutiva del Consejo de
+      Atención Integral, con respecto al cumplimiento de las normas de habilitación de esos
+      centros43. Esto resulta fundamental a efectos de procurar la implementación progresiva de
+      los citados estándares.
+2.52. Todo ello tiene como consecuencia, que las Unidades Ejecutoras, con excepción del
+      PANI, no hayan incorporado esos estándares en los parámetros que utilizan para la
+
+
+
+
+     41
+        Ver ​"Consultoría para la Generación de un Marco Normativo Institucional Administrativo y Financiero que
+     Promueva la Universalización Progresiva de los Servicios de Cuidado y Desarrollo Integral para Niños y Niñas
+     entre el Nacimiento y los 12 Años".
+     42
+        Fiscalización: consiste en examinar una actividad para comprobar si cumple con las normativas vigentes.
+     43
+        Los estándares esenciales de calidad en los servicios de cuidado y desarrollo integral en Costa Rica se
+     basan en las Normas para la Habilitación de Centros de Atención Integral del Ministerio de Salud
+                                                          - 25 -
+                                                                                                      Contraloría General de la República
+                                                                T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                           http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+      supervisión44, monitoreo45 y seguimiento46 de la calidad de los servicios de cuido y
+      desarrollo integral que brindan o financian. Por consiguiente, esas Unidades manejan
+      distintos niveles de exigencia al respecto, propiciando así diferencias de calidad entre las
+      alternativas de cuido e inequidad en el acceso a servicios de calidad, lo cual puede
+      incrementar las brechas en el desarrollo de los niños y niñas que hacen uso de éstos.
+2.53. Además, cabe indicar que el proceso de universalización progresiva y de la inversión
+      para el mejoramiento de la calidad de los servicios de cuido y desarrollo integral
+      brindados, se ve ralentizado, y que las Unidades Ejecutoras, al tener distintos niveles de
+      exigencia en la calidad de los servicios de cuido y desarrollo infantil que brindan o
+      financian, asumen distintos niveles de corresponsabilidad social con respecto al cuido, en
+      tanto que las alternativas de atención infantil, por desconocimiento de la existencia de los
+      estándares de calidad que deberían aplicar, pierden oportunidades de mejora en los
+      servicios que brindan.
+
+
+3. Conclusiones
+3.1. La creación de la Red Nacional de Cuido y Desarrollo Infantil (REDCUDI), pretende
+     establecer un sistema de cuido y desarrollo infantil, en el cual se articule la prestación de
+     dichos servicios a nivel público y privado, en aras de fortalecerlo y ampliar el acceso a
+     esos servicios. No obstante, las debilidades identificadas por la Contraloría General, no
+     permiten afirmar que la Gobernanza y servicios de la REDCUDI se ajustan al marco
+     normativo y técnico aplicable, así como a los estándares esenciales de calidad definidos
+     para esa Red.
+3.2. Sobre el particular, en materia de Gobernanza de la REDCUDI, las debilidades en el
+     funcionamiento de la Comisión Consultiva (CC) conllevó a una baja aprobación de los
+     asuntos sometidos a su discusión, a los cuales, en pocas ocasiones, dio carácter
+     vinculante. Lo anterior, a pesar de que su función principal consiste en aprobar, emitir y
+     dar carácter vinculante a las políticas, lineamientos, normativa, modelos e instrumentos
+     propuestos, necesarios para el direccionamiento y quehacer de la Red.
+3.3. Por su parte, la falta de claridad en los roles y responsabilidades de las instituciones que
+     integran las distintas instancias de la REDCUDI, establecidos en la Ley 9220 y su
+     Reglamento, así como en el “Marco conceptual, operativo y organizacional”, limita las
+     contribuciones que estas instituciones tienen la posibilidad de efectuar a partir del ámbito
+     de acción definido en el marco legal de cada una de ellas. Dicho marco, también omite
+     definir las funciones de las unidades ejecutoras de la Red, a pesar del papel tan relevante
+     que cumplen para hacer efectiva la prestación de servicios de cuidado y desarrollo integral
+     a través de las alternativas de atención adscritas.
+3.4. Adicionalmente, la ausencia de procedimientos formales para la atención, seguimiento y
+     rendición de cuentas sobre los acuerdos del órgano superior, tanto para la Secretaría
+     44
+        Supervisión: vigilancia o dirección de la realización de una actividad determinada por parte de una persona
+     con autoridad o capacidad para ello.
+     45
+        Monitoreo: consiste en observar y recolectar información de cada proceso.
+     46
+        Seguimiento: análisis sistemático de todos los procesos en su conjunto para así verificar si sigue “en el
+     rumbo” correcto.
+                                                            - 26 -
+                                                                                                      Contraloría General de la República
+                                                                T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                           http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+      Técnica como para la Comisión Técnica Interinstitucional (CTI), han llevado a que el
+      Director Ejecutivo de turno defina cómo se efectuará esa tarea, de manera que cada
+      cambio de Director genera incertidumbre y falta de claridad acerca de cómo se continuará
+      efectuando esa labor.
+3.5. A esto se suma que los miembros de la CTI, cuya función es servir de enlaces entre la
+     Red y las instituciones que representan, no tienen claro el concepto ni la labor de
+     articulación que deben efectuar para implementar acciones dirigidas al cumplimiento de
+     los objetivos de la REDCUDI (los cuales, además, son afines a algunos de sus propias
+     instituciones). Aspecto que dificulta la efectiva operativización de las políticas,
+     lineamientos, modelos, alternativas de atención, normas, estándares e instrumentos,
+     desarrollados en el seno de la Red para la mejora de los servicios de cuido y desarrollo
+     infantil, la promoción de la corresponsabilidad social del cuidado infantil, y para facilitar la
+     inserción laboral o educativa de los padres o encargados, sobre todo de la mujer, cuyas
+     oportunidades de estudio y trabajo se han visto históricamente limitadas por el recargo de
+     esa labor.
+3.6. Sobre el particular, los citados enlaces, pese a conocer los procesos de sus instituciones
+     que podrían coadyuvar a satisfacer las necesidades de la Red, no tienen claridad de la
+     coordinación con las unidades internas a cargo que les corresponde, para identificar la
+     normativa, instrumentos y servicios institucionales relacionados con los servicios finales
+     de la REDCUDI, y, con un enfoque centrado en los usuarios, evaluar si los potencian, y
+     por tanto deben articularse con esos servicios de la Red, o si por el contrario, los
+     obstaculizan, y requieren modificaciones en la medida en que la naturaleza de sus
+     instituciones lo permitan. Esta articulación, por ejemplo, permitiría que una institución
+     como la CCSS desarrolle su Programa del Niño Sano, coordinando con aquellos centros
+     infantiles de la Red ubicados en las áreas de adscripción de sus propios centros de salud
+     de atención primaria, al tiempo que los centros de cuido pueden referir a los niños que
+     requieran atención en salud.
+3.7. Además, es importante la revisión de la Gobernanza de la REDCUDI a la luz de los
+     resultados obtenidos, con base en un enfoque centrado en los usuarios de la Red y sus
+     necesidades, y teniendo presente los aportes efectivos que las instituciones integrantes
+     pueden brindar para satisfacerlas desde sus propios servicios, sin perder de vista que la
+     Red también puede aportarles servicios a ellas. Lo anterior, implica una valoración de sus
+     integrantes, así como identificar los procesos y procedimientos en que deben intervenir,
+     para posteriormente definir sus roles y responsabilidades, y desarrollar los mecanismos
+     necesarios para el adecuado funcionamiento de la Red.
+3.8. De lo contrario, la REDCUDI no podrá cumplir con sus objetivos de garantizar a los niños
+     acceso a servicios de cuido de calidad que procuren su desarrollo integral, según sus
+     necesidades y en las modalidades de atención que requieran, ni promover la
+     corresponsabilidad social del cuido (con el Estado como uno de los principales actores),
+     de modo que estos servicios lleguen a ser de acceso universal y permitan la inserción
+     laboral y educativa de los padres o encargados.
+3.9. Los resultados sobre cobertura de los servicios de cuidado y desarrollo infantil en la Red
+     durante el periodo 2018-2022 así lo demuestran, pues, aunque se pretendía brindar
+
+
+                                                   - 27 -
+                                                                                                  Contraloría General de la República
+                                                            T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                       http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+      servicios a un 15% de la población de 0 a 12 años y a adolescentes, se alcanzó sólo la
+      mitad de ese porcentaje, pero del total de niños de ese grupo etario.
+3.10. Al respecto debe señalarse que esos resultados no se deben a falta de capacidad
+      instalada, pues por ejemplo, de las alternativas de cuido visitadas, en los centros con
+      niños subsidiados por el IMAS se trabaja al 74% del cupo autorizado47, situación que
+      también se presentó en los Hogares Comunitarios (60%) subsidiados por esa misma
+      institución, sino a limitaciones financieras, de manera que, para aumentar la cobertura, es
+      menester tomar algunas decisiones, entre éstas, la principal es analizar la posibilidad de
+      fuentes de financiamiento alternas.
+3.11. En cuanto al cumplimiento de los estándares esenciales de calidad en los servicios de
+      cuido y desarrollo integral en la Red, se concluye que no se logra brindar los servicios con
+      una calidad estandarizada entre las alternativas de atención de las unidades ejecutoras
+      (CEN-CINAI, IMAS y PANI). En particular llama la atención el caso de los CEN-CINAI,
+      pues éstos no están logrando ajustarse a la relación niños/cuidador, a pesar de ser uno de
+      los parámetros más sensibles para obtener buenos resultados en el desarrollo integral.
+3.12. La REDCUDI aumentó un poco la cobertura durante el periodo 2018-2022, empero ello no
+      conllevó una mejora en la calidad de los servicios, por lo cual los esfuerzos para articular y
+      homologar la calidad de los servicios brindados por los centros de las diferentes unidades
+      ejecutoras, resultan fundamentales. Esto en beneficio del bienestar de los niños
+      atendidos, así como de sus padres o encargados, quienes tendrían mayor oportunidad de
+      contar con diferentes opciones de centros de cuidado y desarrollo infantil, con niveles de
+      calidad estandarizados.
+
+
+
+
+      47
+        En sentido descendente, los otros centros obtuvieron los siguientes porcentajes en el uso de la capacidad
+      instalada: PANI obtuvo un 98%; los CEN-CINAI, 82,24% y los centros mixtos PANI-IMAS, 80,74%.
+                                                         - 28 -
+                                                                                                      Contraloría General de la República
+                                                                T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                           http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+4. Disposiciones
+4.1. De conformidad con las competencias asignadas en los artículos 183 y 184 de la
+     Constitución Política, los artículos 12 y 21 de la Ley Orgánica de la Contraloría General
+     de la República, N.° 7428, y el artículo 12 inciso c) de la Ley General de Control Interno,
+     se emiten las siguientes disposiciones, las cuales son de acatamiento obligatorio y
+     deberán ser cumplidas dentro del plazo (o en el término) conferido para ello, por lo que
+     su incumplimiento no justificado constituye causal de responsabilidad.
+4.2. Para la atención de las disposiciones incorporadas en este informe deberán observarse
+     los “Lineamientos generales para el cumplimiento de las disposiciones y
+     recomendaciones emitidas por la Contraloría General de la República en sus informes
+     de auditoría”, emitidos mediante resolución N.° R-DC-144-2015, publicados en La
+     Gaceta N.° 242 del 14 de diciembre del 2015, los cuales entraron en vigencia desde el 4
+     de enero de 2016
+4.3. Este órgano contralor se reserva la posibilidad de verificar, por los medios que considere
+     pertinentes, la efectiva implementación de las disposiciones emitidas, así como de
+     valorar el establecimiento de las responsabilidades que correspondan, en caso de
+     incumplimiento injustificado de tales disposiciones.
+
+     A LA COMISIÓN CONSULTIVA DE LA REDCUDI
+
+4.4. Elaborar, divulgar e iniciar la implementación de un procedimiento para planificar y
+     programar las sesiones de la Comisión Consultiva, el cual contemple al menos: a) la
+     programación de las sesiones, recepción de temas para discusión, preparación de la
+     orden del día y documentos base para el análisis y toma de decisiones, convocatoria, y
+     celebración de la sesión, b) los requisitos para la presentación de los temas por discutir,
+     entre ellos, información por aportar y características de las propuestas de acuerdo, y c)
+     los criterios de priorización de los temas sometidos a discusión de la Comisión
+     Consultiva. Remitir a la Contraloría una certificación en la cual se acredite la elaboración
+     y divulgación del procedimiento, a más tardar al 29 de marzo de 2024; además una
+     certificación del inicio de la implementación del procedimiento a más tardar el 31 de
+     mayo de 2024. (Ver párrafos del 2.2 al 2.13).
+4.5. Elaborar e implementar un reglamento interno de organización y funcionamiento de la
+     Comisión Consultiva que al menos establezca: a) las responsabilidades y atribuciones
+     de sus miembros; b) las causas y requisitos que justifiquen sus ausencias o retiros de
+     las sesiones; c) las reglas que rigen las sesiones y votaciones sobre actas y acuerdos
+     (considerando la posibilidad de ausencia de alguno de los miembros participantes en las
+     deliberaciones); d) la naturaleza de las sesiones extraordinarias; e) la instancia de la
+     REDCUDI que debe asumir las funciones de una secretaría del órgano consultivo.
+     Remitir a la Contraloría General de la República una certificación en la que conste la
+     elaboración del reglamento, a más tardar al 31 de mayo de 2024; además una
+     certificación del inicio de la implementación de dicho reglamento, a más tardar el 31 de
+     julio de 2024. (Ver párrafos del 2.2 al 2.13).
+                                                 - 29 -
+                                                                                                  Contraloría General de la República
+                                                            T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                       http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+4.6. Resolver acerca del plan de acción para completar la primera etapa de la estructura
+     organizativa de la Secretaría Técnica de la REDCUDI, remitido por esa Secretaría.
+     Remitir a la Contraloría General una certificación en la cual se acredite lo resuelto por
+     esa Comisión, a más tardar al 31 de enero de 2024. (Ver párrafos del 2.2 al 2.13).
+4.7. Resolver acerca del análisis para la identificación de necesidades y propuesta de
+     aportes requeridos a las instituciones que conforman la REDCUDI (incluida la Secretaría
+     Técnica de la REDCUDI), remitidos por la Secretaría Técnica y la Comisión Técnica
+     Interinstitucional de la REDCUDI. Remitir a la Contraloría General una certificación en la
+     cual se acredite lo resuelto por esa Comisión, a más tardar al 12 de abril de 2024. (Ver
+     párrafos del 2.14 al 2.24).
+4.8. Resolver acerca de la propuesta para definir los roles y responsabilidades asociados a
+     cada una de las instituciones que conforman las instancias de la REDCUDI, remitida por
+     la Secretaría Técnica de la REDCUDI. Remitir a la Contraloría General una certificación
+     en la cual se acredite lo resuelto por esa Comisión, a más tardar el 14 de octubre de
+     2024. (Ver párrafos del 2.14 al 2.24).
+4.9. Resolver acerca de la propuesta de procedimiento de la Secretaría Técnica de la
+     REDCUDI y la Comisión Técnica Interinstitucional para atender, dar seguimiento y rendir
+     cuentas sobre la ejecución de los acuerdos emitidos por la Comisión Consultiva. Remitir
+     a la Contraloría General una certificación en la cual se acredite lo resuelto por esa
+     Comisión, a más tardar al 14 de junio de 2024. (Ver párrafos del 2.25 al 2.37).
+4.10. Resolver lo que corresponda acerca de la propuesta de metodología de articulación para
+      las instituciones integrantes de la CTI, remitidos por la Secretaría Técnica de la
+      REDCUDI y la Comisión Técnica Interinstitucional. Remitir a la Contraloría General una
+      certificación en la cual se acredite lo resuelto por esa Comisión, a más tardar el 30 de
+      octubre de 2024. (Ver párrafos del 2.25 al 2.37)
+4.11. Resolver lo que corresponda con respecto a la propuesta de requisitos que deben reunir
+      los representantes de las instituciones que conforman la Comisión Técnica
+      Interinstitucional, remitidos por la Secretaría Técnica de la REDCUDI y la Comisión
+      Técnica Interinstitucional. Remitir a la Contraloría General una certificación en la cual se
+      acredite lo resuelto por esa Comisión, a más tardar el 15 de diciembre de 2023. (Ver
+      párrafos del 2.25 al 2.37).
+4.12. Resolver lo que corresponda con respecto a los resultados del estudio para determinar
+      la factibilidad de obtener financiamiento alterno para el aumento en la cobertura y la
+      mejora de la calidad de los servicios de cuidado y desarrollo integral de la REDCUDI,
+      que le remita la Secretaría Técnica de la REDCUDI. Remitir a la Contraloría General una
+      certificación en la cual se acredite lo resuelto por esa Comisión, a más tardar el 16 de
+      agosto de 2024. (Ver párrafos del 2.38 al 2.53).
+4.13. Definir y divulgar el carácter vinculante de los “Estándares esenciales de calidad en los
+      servicios de cuidado y desarrollo integral en Costa Rica”, así como la responsabilidad
+      de las instituciones públicas de verificar su cumplimiento. Para dar por acreditada esta
+      disposición, a más tardar el 31 de enero de 2024, remitir a la Contraloría General de la
+      República una certificación en la cual conste lo resuelto sobre su carácter vinculante de
+      los estándares y la definición de las instituciones responsables de verificar su
+
+                                                 - 30 -
+                                                                                                Contraloría General de la República
+                                                          T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                     http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+     cumplimiento, y a más tardar al 15 de febrero de 2024, una certificación en la que se
+     acredite su divulgación. (Ver párrafos del 2.38 al 2.53).
+
+     AL LIC. CRISTIAN CARVAJAL COTO, DIRECTOR EJECUTIVO DE LA SECRETARÍA
+     TÉCNICA O A QUIEN EN SU LUGAR OCUPE EL CARGO, Y A LA COMISIÓN
+     TÉCNICA INTERINSTITUCIONAL
+
+4.14. Elaborar, someter a valoración de la Comisión Consultiva y divulgar un análisis para la
+      identificación de necesidades y propuesta de aportes requeridos a las instituciones que
+      conforman la REDCUDI (incluida la Secretaría Técnica de la REDCUDI), para impulsar
+      el cumplimiento de los objetivos de la REDCUDI, tanto en los servicios de cuido y
+      desarrollo integral, como en los de inserción laboral/educativa de los padres o
+      encargados. Remitir a la Contraloría General de la República una certificación en la cual
+      conste que el análisis y la propuesta de aportes de las instituciones se remitieron a la
+      Comisión Consultiva, a más tardar al 5 de abril de 2024; además, una certificación de
+      que el análisis fue divulgado, al 10 de mayo de 2024. (Ver párrafos del 2.14 al 2.24).
+4.15. Elaborar, someter a valoración de la Comisión Consultiva, divulgar e iniciar con la
+      implementación de un procedimiento interno de la Secretaría Técnica de la REDCUDI y
+      la Comisión Técnica Interinstitucional para atender, dar seguimiento y rendir cuentas
+      sobre la ejecución de los acuerdos emitidos por la Comisión Consultiva. Remitir a la
+      Contraloría General de la República una certificación en la cual conste la remisión del
+      procedimiento a la Comisión Consultiva, a más tardar al 31 de mayo de 2024; además
+      una certificación en la cual conste la divulgación e inicio de la implementación del
+      procedimiento, al 31 de julio de 2024. (Ver párrafos del 2.25 al 2.37)
+4.16. Elaborar, someter a valoración de la Comisión Consultiva, divulgar e iniciar con la
+      implementación de una metodología de articulación para las instituciones integrantes de
+      la Comisión Técnica Interinstitucional, centrada en el usuario, que considere al menos la
+      articulación de la normativa, instrumentos y servicios de dichas instituciones, para
+      implementar los acuerdos e impulsar el cumplimiento de los objetivos de la Red. Remitir
+      a la Contraloría General de la República una certificación en la cual conste el envío de la
+      metodología de articulación a la Comisión Consultiva, a más tardar al 30 de setiembre
+      de 2024; además, una certificación de la divulgación e inicio de la implementación de la
+      metodología, al 15 de noviembre de 2024. (Ver párrafos del 2.25 al 2.37)
+4.17. Elaborar, someter a valoración de la Comisión Consultiva y divulgar la propuesta de los
+      requisitos que deben reunir los representantes de las instituciones que conforman la
+      Comisión Técnica Interinstitucional, considerando al menos que sean personas
+      funcionarias con poder de decisión para implementar los acuerdos e impulsar el
+      cumplimiento de los objetivos de la Red, conforme lo establecido en el Marco
+      conceptual, operativo y organizacional de la REDCUDI. Remitir a la Contraloría General
+      de la República una certificación en la cual conste la elaboración y envío de la propuesta
+      de requisitos a la Comisión Consultiva, a más tardar al 30 de noviembre de 2023;
+      además, al 31 de enero de 2024, una certificación de que dicha definición fue divulgada.
+      (Ver párrafos del 2.25 al 2.37)
+
+
+
+                                                 - 31 -
+                                                                                                Contraloría General de la República
+                                                          T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                     http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+     AL LIC. CRISTIAN CARVAJAL COTO, DIRECTOR EJECUTIVO DE LA SECRETARÍA
+     TÉCNICA DE LA REDCUDI O A QUIEN EN SU LUGAR OCUPE EL CARGO
+
+4.18. Elaborar, someter a valoración de la Comisión Consultiva e implementar un plan de
+      acción para completar la primera etapa de la estructura organizativa de la Secretaría
+      Técnica de la REDCUDI, en lo relacionado con los procesos de Estrategia y Formulación
+      de Políticas, de conformidad con el “Marco conceptual, operativo y organizacional” de la
+      REDCUDI, aprobado por la Comisión Consultiva en el acuerdo 05-01-2018 de la sesión
+      ordinaria 01-2018 del 22 de enero de 2018, que contemple al menos las actividades, los
+      responsables y el plazo para llevarlas a cabo. Remitir a la Contraloría General de la
+      República una certificación en la cual conste que el plan de acción fue enviado a la
+      Comisión Consultiva, a más tardar al 31 de enero de 2024. Asimismo, remitir dos
+      informes de avance acerca de la implementación de dicho plan, el primero al 31 de julio
+      de 2024 y el segundo al 16 de diciembre de 2024. (Ver párrafos del 2.2 al 2.13).
+4.19. Elaborar, someter a valoración de la Comisión Consultiva y divulgar la propuesta de
+      definición de los roles y responsabilidades asociados a cada una de las instituciones que
+      conforman las instancias de la REDCUDI, a saber Comisión Consultiva, Comisión
+      Técnica Interinstitucional y Unidades Ejecutoras, que considere al menos lo siguiente: a)
+      el análisis de necesidades y propuesta de aportes requeridos en la disposición 4.14, b)
+      Instancia o proceso de la REDCUDI en que participa y c) procedimiento en el que
+      interviene. Remitir a la Contraloría General de la República una certificación en la cual
+      conste que la propuesta se remitió a la Comisión Consultiva, a más tardar al 30
+      setiembre de 2024; además, una certificación de que el análisis fue divulgado al 7 de
+      octubre de 2024. (Ver párrafos del 2.14 al 2.24).
+4.20. Elaborar y someter a valoración de la Comisión Consultiva un estudio para determinar la
+      factibilidad de obtener financiamiento alterno para el aumento en la cobertura y la mejora
+      de la calidad de los servicios de cuidado y desarrollo integral de la REDCUDI, de
+      conformidad con el acuerdo N°09-02-2022 de la sesión ordinaria N.°01-2022 de la
+      Comisión Consultiva de la REDCUDI. Para dar por acreditada esta disposición, remitir a
+      la Contraloría General de la República una certificación en la cual conste lo resuelto por
+      la Comisión Consultiva al respecto y que se instruyó realizar lo pertinente a partir de los
+      resultados obtenidos, a más tardar al 30 de julio de 2024. (Ver párrafos del 2.38 al 2.53).
+
+
+               Lic. Manuel Corrales Umana                                    Lic. Marvin Mejía Vargas
+                     Gerente de Área                                            Asistente Técnico
+
+
+                Ing. Giselle Castro Salazar                                Licda. Teresita León Peralta
+                      Coordinadora                                                Colaboradora
+
+
+
+
+                                                 - 32 -
+                                                                                                Contraloría General de la República
+                                                          T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                                     http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+                                    Anexo
+
+            Centros de cuido y hogares comunitarios visitados
+
+
+Provincia    Cantón          Nombre del centro de cuido
+SAN JOSÉ     SAN JOSÉ        EL GATO CON BOTAS
+SAN JOSÉ     SAN JOSÉ        CENTRO INTEGRAL 15 DE SETIEMBRE
+SAN JOSÉ     SAN JOSÉ        ESTRELLITAS DE COLORES
+                             ASOC. DE BIENESTAR SOCIAL CENTRO INFANTIL DE
+SAN JOSÉ     SAN JOSÉ        HATILLO
+SAN JOSÉ     SAN JOSÉ        CENTRO INTEGRAL INFANTIL MANOS AMIGAS
+SAN JOSÉ     SAN JOSÉ        KINDER LITTLE DREAMERS SEDE #2
+SAN JOSÉ     ALAJUELITA S.J. ALAJUELITA S.J.
+SAN JOSÉ     SAN JOSÉ        CENTRO INFANTIL JARDÍN DE SUEÑOS
+SAN JOSÉ     SAN JOSÉ        CECUDI PAVAS
+SAN JOSÉ     SAN JOSÉ        CENTRO DE ESTIMULACIÓN TEMPRANA DULCE NIÑO
+CARTAGO      LA UNIÓN        CENTRO INFANTIL GOTITAS DE AMOR
+             VALVERDE
+ALAJUELA     VEGA            SARCHÍ NORTE DE VALVERDE VEGA 1
+ALAJUELA     SAN RAMÓN       CENTRO INFANTIL LA ORUGA
+CARTAGO      TURRIALBA       TALLER INFANTIL GRANDES GENIOS JORGE DE BRAVO
+CARTAGO      TURRIALBA       LA SUIZA TURRIALBA
+ALAJUELA     SAN RAMÓN       SAN JUAN DE SAN RAMÓN
+LIMÓN        SIQUIRRES       LA ALEGRIA SIQUIRRES
+PUNTARENAS PUNTARENAS        PUNTARENAS
+LIMÓN        POCOCÍ          COLONIA CARIARI POCOCÍ LIMÓN
+PUNTARENAS PUNTARENAS        SARDINAL DE PUNTARENAS
+LIMÓN        TALAMANCA       FINCA MARGARITA
+ALAJUELA     UPALA           SANTA CLARA UPALA
+LIMÓN        TALAMANCA       EL JARDÍN DE LOS SUEÑOS
+                             CENTRO DE CUIDO Y DE DESARROLLO INFANTIL
+GUANACASTE LA CRUZ           BARRIO IRVIN
+
+                                     - 33 -
+                                                                                    Contraloría General de la República
+                                              T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                         http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+PUNTARENAS BUENOS AIRES SANTA MARTA DE BUENOS AIRES
+PUNTARENAS AGUIRRE       SILENCIO DE AGUIRRE-PUNTARENAS
+PUNTARENAS PUNTARENAS    CEN CINAI BARRANCA MANUEL MORA
+LIMÓN       POCOCÍ       BARRA DE TORTUGUERO
+LIMÓN       TALAMANCA    CECUDI HONE CREEK
+PUNTARENAS COTO BRUS     LA PINTADA DE COTO BRUS PUNTARENAS
+PUNTARENAS COTO BRUS     LAS MELLIZAS
+Provincia   Cantón       Nombre del hogar comunitario
+PUNTARENAS PUNTARENAS    HOGAR COMUNITARIO LA CASITA DE ARCOIRIS
+PUNTARENAS PUNTARENAS    HOGAR COMUNITARIO LOS SÚPER CAMPEONES
+PUNTARENAS PUNTARENAS    HOGAR COMUNITARIO DALIMA
+PUNTARENAS PUNTARENAS    HOGAR COMUNITARIO CASITA DE NIÑOS
+PUNTARENAS PUNTARENAS    HOGAR COMUNITARIO EL PAYASITO
+PUNTARENAS PUNTARENAS    HOGAR COMUNITARIO LA TÍA KALLITA 0399
+PUNTARENAS PUNTARENAS    HOGAR COMUNITARIO EL POLLITO FELIZ
+PUNTARENAS PUNTARENAS    HOGAR COMUNITARIO LA TÍA MARY
+PUNTARENAS PUNTARENAS    HOGAR COMUNITARIO SHEJINA
+PUNTARENAS PUNTARENAS    HOGAR COMUNITARIO LA TÍA JUANITA
+PUNTARENAS PUNTARENAS    HOGAR COMUNITARIO GUADALUPE
+
+
+
+
+                                 - 34 -
+                                                                                Contraloría General de la República
+                                          T: (506) 2501-8000, F: (506) 2501-8100 C: contraloria.general@cgrcr.go.cr
+                                                     http://www.cgr.go.cr/ Apdo. 1179-1000, San José, Costa Rica
+
