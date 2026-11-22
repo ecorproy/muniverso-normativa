@@ -1,0 +1,25 @@
+CITAS TEXTUALES: 329 | OK: 327
+  [all.md] 14p | O:IGSM | LITERAL (sin localización que cotejar) | "refleja cómo las municipalidades organizan y operan los serv"
+  [all.md] 13p | O:IGSM | LITERAL (sin localización que cotejar) | "76% de las municipalidades tienen una capacidad baja para ge"
+
+UBICACIONES VERIFICADAS A MANO (7):
+  [all.md] T:2009-002416:considerando VII: "una sanción mínima que no guarda relación alguna c" (segmentador: ['VI'])
+  [all.md] T:2015-000321:considerando IV: "un verdadero y único gobierno local, constituido p" (segmentador: ['I'])
+  [all.md] T:2015-000321:considerando IV: "no es posible que el Concejo Municipal se introduz" (segmentador: ['I'])
+  [all.md] V:2025-029985:considerando VII: "cuando menos existe una necesidad de ser tomados e" (segmentador: ['IV'])
+  [all.md] V:2025-034914:considerando III: "haya coordinado previamente con el Consejo Naciona" (segmentador: ['RESULTANDO', 'II', 'II'])
+  [all.md] T:2023-003972:considerando III: "no es irrestricta" (segmentador: ['V'])
+  [all.md] T:2023-003972:considerando III: "no podía ser genérica, ni estar alojada en un acue" (segmentador: ['V'])
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (7):
+  [all.md] vocabulario «clave»: … servicio prestado a cada persona.  Palabras clave: seguridad humana, gobierno municipal, …
+  [all.md] vocabulario «Fundamentales»: …Pele, 2015, p. 21). La Carta de los Derechos Fundamentales de la Unión Europea lo expresa …
+  [all.md] vocabulario «fomenta»: …pación diaria, que es la que el Código manda fomentar, no tiene medida.  La *intimidad y l…
+  [all.md] vocabulario «Integral»: … documento con que el Observatorio Ciudadano Integral de Los Cabos lo aplicó durante la pa…
+  [all.md] vocabulario «Integral»: …iza la evaluación "" (Observatorio Ciudadano Integral de Los Cabos, 2020, p. 2) repartidos…
+  [all.md] vocabulario «Integral»: …ambiental sostenible (Observatorio Ciudadano Integral de Los Cabos, 2020, pp. 7, 93, 123 y…
+  [all.md] vocabulario «Integral»: …, a modo de semáforo (Observatorio Ciudadano Integral de Los Cabos, 2020, pp. 4-5). La lis…
