@@ -48,17 +48,27 @@ Municipalidad de Santa Ana. (2014, 16 de diciembre). *Reglamento de Organizació
 
 Municipalidad de Zarcero. (2020, 27 de abril). *Reglamento para la solicitud de licencias municipales en el Cantón de Zarcero*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=91324&param2=125656&param3=1
 
+Sala Constitucional de la Corte Suprema de Justicia. (2005, 14 de setiembre). *Voto N.° 2005-012698, de las 16:35 horas* (expediente 05-009165-0007-CO). NexusPJ.
+
+Sala Constitucional de la Corte Suprema de Justicia. (2007, 26 de junio). *Voto N.° 2007-009162, de las 16:51 horas* (expediente 06-015495-0007-CO). NexusPJ.
+
 Sala Constitucional de la Corte Suprema de Justicia. (2008, 11 de abril). *Voto N.° 2008-005692, de las 13:08 horas* (expediente 08-002621-0007-CO). NexusPJ.
 
 Sala Constitucional de la Corte Suprema de Justicia. (2008, 30 de octubre). *Voto N.° 2008-016445, de las 19:44 horas* (expediente 08-003550-0007-CO). NexusPJ.
 
 Sala Constitucional de la Corte Suprema de Justicia. (2008, 7 de noviembre). *Voto N.° 2008-016885, de las 13:42 horas* (expediente 07-012210-0007-CO). NexusPJ.
 
+Sala Constitucional de la Corte Suprema de Justicia. (2010, 11 de junio). *Voto N.° 2010-010119, de las 9:06 horas* (expediente 10-006097-0007-CO). NexusPJ.
+
 Sala Constitucional de la Corte Suprema de Justicia. (2026, 27 de agosto). *Voto N.° 2026-032956, de las 9:40 horas* (expediente 26-019995-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1422735
+
+Tribunal Contencioso Administrativo, Sección IX. (2009, 31 de agosto). *Resolución N.° 79-2009, de las 16:25 horas* (expediente 04-001291-0163-CA). NexusPJ.
 
 Tribunal Contencioso Administrativo, Sección III. (2011, 15 de abril). *Resolución N.° 123-2011, de las 9:45 horas* (expediente 10-000524-1027-CA). NexusPJ.
 
 Tribunal Contencioso Administrativo, Sección III. (2012, 6 de diciembre). *Resolución N.° 528-2012, de las 16:10 horas* (expediente 11-005046-1027-CA). NexusPJ.
+
+Tribunal Contencioso Administrativo, Sección III. (2013, 20 de junio). *Resolución N.° 251-2013, de las 14:05 horas* (expediente 12-005723-1027-CA). NexusPJ.
 
 Tribunal Contencioso Administrativo, Sección III. (2016, 21 de julio). *Resolución N.° 334-2016, de las 8:50 horas* (expediente 16-002182-1027-CA). NexusPJ.
 

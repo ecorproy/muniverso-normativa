@@ -566,6 +566,11 @@ src = src.replace(g1, "            if macro and '|' in macro:\n                e
 g2 = "    # 3) expansión\n    out = re.sub(MACRO_RE, lambda m: expand(m.group(1)), text)"
 assert src.count(g2) == 1
 src = src.replace(g2, "    # 3) expansión (en forma corta, la primera mención se cuenta por capítulo)\n    if CORTA:\n        vistos.clear(); first_v.clear(); first_s1.clear()\n    out = re.sub(MACRO_RE, lambda m: expand(m.group(1)), text)\n    if CORTA:\n        out = manual_corta(out)")
+
+# secciones del Tribunal Contencioso más allá de la IV (tema 27: Sección IX)
+_e = "secs = {'I': 'Sección I', 'II': 'Sección II', 'III': 'Sección III', 'IV': 'Sección IV'}"
+assert src.count(_e) == 1
+src = src.replace(_e, "secs = {k: f'Sección {k}' for k in ('I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X')}")
 open('/home/claude/mis_scripts/build_libro.py', 'w', encoding='utf-8').write(src)
 c = open('/home/claude/scripts/cite.py', encoding='utf-8').read().replace('/home/claude/scripts/build.py', '/home/claude/mis_scripts/build_libro.py')
 open('/home/claude/mis_scripts/cite_libro.py', 'w', encoding='utf-8').write(c)
