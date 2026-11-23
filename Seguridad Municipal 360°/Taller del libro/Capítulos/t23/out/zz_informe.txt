@@ -1,0 +1,14 @@
+CITAS TEXTUALES: 11 | OK: 10
+  [t23.md] 18p | L:10163:artículo único | LITERAL (sin localización que cotejar) | "dirigidos especialmente a la atención de la niñez y la adole"
+
+UBICACIONES VERIFICADAS A MANO (0):
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (4):
+  [t23.md] vocabulario «fundamentales»: …una situación de disminución de sus derechos fundamentales (voto 2007-005051, cons. V). Or…
+  [t23.md] vocabulario «Integral»: …s.  ## Quién es persona adulta mayor  La Ley Integral para la Persona Adulta Mayor define …
+  [t23.md] vocabulario «integral»: …as de salud, nutrición, vivienda, desarrollo integral y seguridad social de esta población…
+  [t23.md] vocabulario «integral»: …y riesgo social, desde un modelo de atención integral (Municipalidad de Mora, 2022, art. 1…
