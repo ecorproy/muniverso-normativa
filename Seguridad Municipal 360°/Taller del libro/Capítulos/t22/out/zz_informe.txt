@@ -1,0 +1,10 @@
+CITAS TEXTUALES: 18 | OK: 18
+
+UBICACIONES VERIFICADAS A MANO (1):
+  [t22.md] L:10475:art. 17: "será destinado, dentro de su presupuesto instituci" (segmentador: ['37'])
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (0):

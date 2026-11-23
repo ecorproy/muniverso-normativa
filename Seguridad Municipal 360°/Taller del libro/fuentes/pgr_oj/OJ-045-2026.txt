@@ -1,0 +1,649 @@
+Opinión Jurídica : 045 - del 06/04/2026
+06 de abril del 2026
+
+PGR-OJ-045-2026
+
+ 
+
+Licenciada
+
+Ana Julia Araya Alfaro
+
+Jefa de Área
+
+Área de Comisiones Legislativas II
+
+Asamblea Legislativa
+
+ 
+
+Estimada licenciada:
+
+ 
+
+Con la aprobación del señor Procurador General de la República, me refiero a su oficio n° AL-CPASOC-0030-2026 del 09 de febrero del 2026, código interno n° 1587-2026, mediante el cual la Comisión Permanente de Asuntos Sociales, dispuso consultar nuestro criterio sobre el expediente n.º 24.965, denominado “REFORMA DE LOS ARTÍCULOS 105, 136, 138, 140, 143, 145, 177, 284, 301, 310 Y ADICIÓN DE UN ARTÍCULO136 BIS AL CÓDIGO DE TRABAJO, LEY N°2 DEL 27 DE AGOSTO DE 1943, Y REFORMA DEL INCISO D) DELARTÍCULO 2, ADICIÓN DE UN INCISO F) Y REFORMA DEL ARTÍCULO 15 DE LA LEY QUE CREA LA RED NACIONAL DE CUIDO Y DESARROLLO INFANTIL, LEY N° 9220 DEL 24 DE MARZO DEL 2014. LEY PARA LA MODERNIZACIÓN DE LA JORNADA ORDINARIA”. Texto base que fue publicado el 13 de mayo del 2025, en el Diario Oficial La Gaceta n° 85, Alcance 59, del que se adjuntó una copia.
+
+ 
+
+ 
+
+I.                   Carácter de este pronunciamiento
+
+ 
+
+En virtud de lo regulado por nuestra Ley Orgánica (n.°6815 del 27 de setiembre de 1982), los criterios emanados de este órgano asesor en cuanto a los alcances y contenido de un proyecto de ley, no poseen la obligatoriedad propia de aquellos referidos a asuntos surgidos del ejercicio de la función administrativa y, por esa razón, este criterio es vertido por medio de una opinión jurídica no vinculante que pretende ser un insumo en el ejercicio de la importante labor legislativa. Por otra parte, al no encontrarnos en los supuestos establecidos por el artículo 157 del Reglamento de la Asamblea Legislativa, este pronunciamiento no se encuentra sujeto al plazo de ocho días establecido en el oficio n.° AL-CPASOC-0030-2026.
+
+ 
+
+II.- BREVE SINOPSIS GENERAL DEL PROYECTO DE LEY
+
+ 
+
+Conforme se extrae de la exposición de motivos, el texto base del proyecto de ley 24.965, sobre el cual se nos confirió audiencia, propone una reforma del Código de Trabajo “para modernizar la jornada laboral ordinaria mediante la incorporación de nuevas modalidades de dividir diariamente las horas máximas de las jornadas ordinarias diurnas, mixtas y nocturnas, así como la reducción de la cantidad de horas laborables máximas diarias y semanales, con el fin de promover una transformación de los procesos productivos en la economía costarricense que incrementen la productividad laboral en beneficio de que las personas trabajadoras dispongan más tiempo de vida para dedicar al ejercicio de su libertad”.
+
+ 
+
+Asimismo, el referido proyecto plantea una reforma del inciso d) del artículo 2, una adición de un inciso f) y una reforma del ordinal 15 de la “Ley que crea la Red Nacional de Cuido y Desarrollo Infantil”, Ley n° 9220 del 24 de marzo del 2014. Además, incorpora cuatro normas transitorias.
+
+ 
+
+De hecho, la iniciativa legislativa luego de realizar una comparación con la legislación de otros países, como por ejemplo la chilena y citar algunos datos estadísticos e ilustraciones por sectores, refiere lo siguiente:
+
+ 
+
+“(…) Es por ello que se propone incorporar nuevas modalidades de la jornada ordinaria junto con la reducción de sus límites sin la disminución de las remuneraciones, tanto diarios como semanales, y se inscribe en el marco de la normativa internacional que Costa Rica ha ratificado recientemente, como es el caso del Convenio 156, “Convenio sobre la Igualdad de oportunidades y de trato entre trabajadores y trabajadoras: trabajadores con responsabilidades familia”, Ley N° 9608 del 14 de setiembre del 2018 sobre trabajadores con responsabilidades familiares
+[1]
+, ya que esta iniciativa de ley debe contribuir a una mejor repartición de las jornadas de trabajo en general, no solo las remuneradas sino también en las no remuneradas, como es el caso de las tareas domésticas y las de cuidados, cultural e históricamente sobrecargadas en los hombros de las mujeres, y con ello favorecer la socialización del cuidado mediante la articulación entre hogares, el Estado, los mercados y las entidades sin fines de lucro (“Diamante de los cuidados”)(ONU Mujeres, 2018:17)
+[2]
+, ya que como quedó claro con los procesos de reducción de jornada de trabajo en los países europeos durante los 90, la viabilidad de este tipo de política viene determinada por “su puesta en marcha en un marco amplio de acuerdo social” (Muñoz, 1998: 87)
+[3]
+
+Es por ello que también debe tomarse acciones en relación con la Red Nacional de Cuido y Desarrollo Infantil, creada mediante la ley N° 9220 del 24 de marzo del 2010, de tal forma que se evite que el mayor tiempo libre profundice la feminización de los cuidados, fenómeno que se manifiesta en que “las mujeres dedican, en promedio, un mayor tiempo social y efectivo a la realización de actividades de trabajo doméstico, el cual se desprende de su menor participación en actividades catalogadas como productivas” (Artavia-Jiménez y Quirós, 2020: 6)
+[4]
+
+(…)
+
+Así, el fortalecimiento y promoción de la corresponsabilidad debe ir de la mano con la reducción progresiva de las jornadas ordinarias y la incorporación de nuevas modalidades de jornadas ordinarias que permitan una mejor distribución del tiempo, sin la reducción de las remuneraciones ni la destrucción de los empleos.
+
+Este último asunto fue fundamental en la discusión del expediente legislativo N° 23905, “Reforma de los Artículos 89, 105, 136, 138, 140, 143, 145, 177, 205, 273, 274, 278, 281, 283, 284, 288, 301, 310 del Código de Trabajo, ley n°2 del 27 de agosto de 1943, Ley para la Reducción de la Jornada Ordinaria” ya que instituciones públicas y cámaras privadas manifestaron que “al tratarse de una disminución de la cantidad de horas de trabajo sin disminución de las remuneraciones, se traduce en un aumento de los salarios por hora de trabajo que no analiza el impacto económico tanto para el sector público como para el privado." (Instituto Costarricense de Electricidad, Oficio 256-185-2023, del 18 de octubre del 2023)
+
+Este razonamiento consiste en aplicar una regla de tres, tal que si el salario actual son 48 mil colones por una semana de 48 horas, el salario por hora es de mil colones la hora, al reducir la jornada semanal a 40 horas y mantener el salario semanal constante, el salario por hora sería de 1200 colones, es decir, sería un aumento del 20% del salario por hora, pese a que el salario total seguiría siendo 48 mil colones semanales.
+
+Si como en el citado expediente legislativo, se plantea un plazo de implementación de la reducción de la jornada ordinaria de hasta 8 años para la reducción progresiva de la jornada ordinaria, y si se reduce una hora al año, el aumento en el salario por hora sería de 2.5% cada año, hasta completar el 20% total que implica la iniciativa de ley.
+
+Sobre esto, cabe recordar que actualmente el Ministerio de Trabajo y Seguridad Social en Costa Rica maneja una metodología para la fijación de los salarios mínimos del sector privado que reconoce dos factores principales: la inflación -costo de la vida- y el crecimiento de la productividad -medido como PIB per cápita-. Por una salvaguarda de esa misma metodología, cuya última revisión es del 2021 cuando el desempleo supera los dos dígitos en el último año, los salarios mínimos del sector privado  no crecen por ese rubro– lo que constituye una ancla para el resto de la fijación salarial-, por lo que a nivel de política pública, la implementación de esta iniciativa de ley implicará que el Ministerio de Trabajo y Seguridad Social asuma un rol preponderante en varios aspectos, entre ellos, las recomendaciones para una integración exitosa en la economía del aumento de los costos por hora antes citados.
+
+Como se ha argumentado, el que la productividad del trabajo venga presentando una tendencia creciente, y que haya un desenganche con los salarios reales, constituye una condición favorable para una implementación progresiva de la reducción de la jornada ordinaria en la economía costarricense, pero además es importante conocer las características de la demanda de trabajo, para determinar las pautas que deberían seguirse según sector y tamaño de empresa”.
+
+ 
+
+Partiendo de lo anterior, exponen los proponentes que el espíritu de nuestra Constitución Política es incorporar los avances a nivel mundial en materia de derechos laborales. La redacción de los límites constitucionales de la jornada ordinaria, tanto diurna como nocturna, define límites máximos como mecanismo de protección de las personas trabajadoras, por lo que a raíz de los cambios históricos en el desarrollo de las fuerzas productivas, los beneficios en salud y productividad que se generan por jornadas más cortas y en reconocimiento de los avances progresivos en materia de derechos internacionales, como el convenio 47 de la OIT que define una jornada semanal máxima de 40 horas, es razonable que la legislación positiva en materia laboral en Costa Rica avance en la reducción de las jornadas ordinarias diaria y semanal.
+
+ 
+
+Se afirma que la iniciativa se soporta en el reconocimiento de la justicia social, como un derecho fundamental consignado en la decisión histórica de incorporar el capítulo de las Garantías Sociales en la Constitución Política de 1949, como queda manifiesto en el artículo 50 en la medida que instruye a que “el Estado procurará el mayor bienestar a todos los habitantes del país, organizando y estimulando la producción y el más adecuado reparto de la riqueza”.
+
+ 
+
+Así entonces, se busca promover formas de organización del trabajo que racionalicen el uso de la fuerza de trabajo, y estimular la producción mediante el aumento de la productividad laboral, al disminuir la jornada laboral ordinaria preservando las remuneraciones salariales, para cumplir con el postulado de la Constitución Política y garantizar un adecuado reparto de la riqueza generado por una mayor productividad laboral.
+
+ 
+
+Se enfatiza que en relación con dicho artículo 50, cuando consigna que “Toda persona tiene derecho a un ambiente sano y ecológicamente equilibrado”, desde la economía ecológica se ha planteado la reducción del tiempo de trabajo como una prometedora respuesta para algunos de los mayores retos de nuestras sociedades ambientalmente insostenibles.
+
+ 
+
+En este contexto, se asegura que una adecuada implementación de la reducción de las jornadas ordinarias en Costa Rica tendría efectos positivos en la productividad laboral, en el bienestar de las personas trabajadoras, y no provocaría una destrucción de empleos.
+
+ 
+
+En suma, según sus proponentes este proyecto se asienta en uno de los pilares fundamentales de una sociedad próspera, que es una legislación laboral en función del bienestar del país, parte integral de las bases de la Constitución Política de 1949, donde no solo se reiteró un rango constitucional a las garantías sociales, sino además derechos laborales considerados fundamentales, como al salario digno, jornada ordinaria máxima, pago de horas extra y el derecho al descanso, como consta el texto mismo de la Carta Magna y en las actas de la Asamblea Nacional Constituyente de 1949.
+
+ 
+
+Para mayor claridad, se transcribe a continuación el texto base de la iniciativa legislativa, sobre la cual se solicita nuestro criterio:
+
+ 
+
+“LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE COSTA RICA
+
+DECRETA:
+
+ 
+
+REFORMA DE LOS ARTÍCULOS 105, 136, 138, 140, 143, 145, 177, 284, 301, 310 Y ADICIÓN DE UN ARTÍCULO 136 BIS AL CÓDIGO DE TRABAJO, LEY N°2 DEL 27 DE AGOSTO DE 1943, Y REFORMA DEL INCISO d) DEL ARTÍCULO 2, ADICIÓN DE UN INCISO f) Y REFORMA DEL ARTÍCULO 15 DE LA LEY QUE CREA LA RED NACIONAL DE CUIDO Y DESARROLLO INFANTIL, LEY N° 9220 DEL 24 DE MARZO DEL 2014, LEY PARA LA MODERNIZACIÓN DE LA JORNADA ORDINARIA
+
+ 
+
+ ARTÍCULO 1-         Reformas.
+
+Se reforman los siguientes artículos del Código de Trabajo, Ley N°2 del 27 de agosto de 1943 y sus reformas: el inciso b) del Artículo 105; los dos primeros párrafos del Artículo 136; el Artículo 138; el Artículo 140; el segundo párrafo del Artículo 143; el Artículo 145; el Artículo 273; el inciso b) del Artículo 274; el Artículo 281; el inciso 10) del Artículo 283; el párrafo final del Artículo 288; y el Artículo 301, y adelante se leerán de la siguiente manera:
+
+“ARTÍCULO 105-   
+
+Las personas trabajadoras domésticas remuneradas se regirán por las siguientes disposiciones especiales:
+
+[…]
+
+b)       Estarán sujetas a una jornada ordinaria efectiva, máxima de siete horas en jornada diurna y de cinco horas en jornada nocturna, con una jornada semanal de cuarenta horas en jornada diurna y de treinta horas en jornada nocturna. Sin embargo, podrá estipularse una jornada ordinaria diurna hasta de nueve horas y una mixta hasta de siete horas diarias, siempre que el trabajo semanal no exceda de las cuarenta horas, de acuerdo con lo previsto en el segundo párrafo del artículo 136 de este Código.  También se podrá establecer una jornada ordinaria de 8 horas diarias por cinco días consecutivos para un máximo de 40 horas, de acuerdo con el artículo 136 bis de este Código. En todos los casos, dentro del tiempo de trabajo efectivo, tendrán derecho, como mínimo, a una hora de descanso.  Cuando se trate de jornadas inferiores a siete horas diarias, pero superiores a tres horas diarias, el derecho al descanso será proporcional a estas jornadas.  Se podrá pactar una jornada extraordinaria hasta de cuatro horas diarias, sin que esta, sumada a la ordinaria, sobrepase las once horas diarias.  Este tipo de acuerdos deberá remunerarse según el artículo 139 de este Código.  La jornada extraordinaria que se convenga no podrá ser de carácter permanente.
+
+[…]”
+
+“ARTICULO 136-
+
+La jornada diurna ordinaria no podrá ser mayor de siete horas diarias ni de cuarenta horas semanales de trabajo efectivo.
+
+La jornada nocturna ordinaria no podrá ser mayor de cinco horas diarias ni de treinta horas semanales de trabajo efectivo.
+
+Sin embargo, en los trabajos que por su propia condición no sean insalubres o peligrosos, por mutuo acuerdo o convención colectiva, podrá estipularse una jornada ordinaria diurna hasta de nueve horas y una jornada mixta hasta de siete horas, siempre que el trabajo semanal no exceda de las cuarenta horas.
+
+[…]”
+
+“ARTICULO 138-   
+
+Salvo lo dicho en el artículo 136, la jornada mixta en ningún caso excederá de seis horas, pero se calificará de nocturna cuando se trabajen tres horas o más entre las diecinueve y las cinco horas.”
+
+“ARTICULO 140-   
+
+La jornada extraordinaria, sumada a la ordinaria, no podrá exceder de once horas, salvo que por siniestro ocurrido o riesgo inminente peligren las personas, los establecimientos, las máquinas o instalaciones, los plantíos, los productos o cosechas y que, sin evidente perjuicio, no puedan sustituirse los trabajadores o suspenderse las labores de los que están trabajando.”
+
+“ARTICULO 143-
+
+[…]
+
+Sin embargo, estas personas no estarán obligadas a permanecer más de once horas diarias en su trabajo y tendrán derecho, dentro de esa jornada, a un descanso mínimo de una hora y media.”
+
+“ARTICULO 145-
+
+El Poder Ejecutivo, de los estudios que haga el Ministerio de Trabajo y Seguridad Social resulta mérito para ello, fijará límites inferiores a los del artículo 136 para los trabajos que se realicen en el interior de las minas, en las fábricas de vidrios, en los que los tiempos de exposición y riesgos ambientales sean especialmente nocivos; su realización implique un extraordinario esfuerzo físico o en las que concurran circunstancias de especial fatiga derivadas de condiciones anormales de temperatura o humedad; en las cuales se identifique un riesgo de fatiga por la continua operación de maquinarias, vehículos automotores o similares; en los que represente un peligro inminente para la persona operadora, así como para las personas usuarias o presentes en el lugar de la actividad; y demás actividades con riesgo para la salud o las personas usuarias.
+
+Además, a través de esos estudios deberá determinar en qué circunstancias y dentro de qué plazos podrán autorizarse excepciones a límites de las jornadas ordinarias establecidas en los artículos 136, 136 bis y 136 ter según las etapas por rama, sector y tamaño de empresa,  de acuerdo con el principio de la reducción progresiva de la duración normal del trabajo, y dando prioridad a las industrias y ocupaciones que entrañen un esfuerzo físico o mental especial o un riesgo para la salud de las personas trabajadoras, especialmente cuando la mano de obra empleada esté integrada principalmente por mujeres y jóvenes.”
+
+ARTÍCULO 2-          Adiciones
+
+Se adiciona un artículo 136 bis; un párrafo al Artículo 177; un inciso e) al Artículo 284; y un subinciso 3) al inciso f) del Artículo 310, todos del Código de Trabajo, Ley N°2 del 27 de agosto de 1943, y adelante se leerán de la siguiente manera:
+
+“ARTÍCULO 136 BIS-
+
+En los trabajos que por su propia condición no sean insalubres o peligrosos, por acuerdo mutuo, individual o colectivo, se podrá definir una jornada semana de 5 días consecutivos, la misma podrá definir una jornada ordinaria diurna de hasta 8 horas diarias para un total de 40 horas semanales; así como una jornada ordinaria nocturna de 6 horas diarias para un total de 30 horas semanales.
+
+De igual forma, La jornada mixta de 5 días podrá estipularse siete horas diarios, para un total de 35 horas semanales.
+
+“ARTICULO 177-
+
+[…]
+
+La reducción progresiva de jornadas ordinarias no facultará ni al empleador ni a la Consejo Nacional de Salarios a modificar los salarios promedio por hora en perjuicio de sus personas empleadas.”
+
+“ARTICULO 284-    Sin perjuicio de lo establecido en otras disposiciones de este Código, será obligación del patrono:
+
+[…]
+
+e)       Implementar tecnologías de producción y métodos de organización del proceso de trabajo que aproveche el uso racional de la fuerza de trabajo de acuerdo con las jornadas ordinarias para el beneficio de los trabajadores, según el principio de la reducción progresiva de la duración normal del trabajo.”
+
+“Artículo 310- Se impondrá al empleador o empleadora una multa de acuerdo con lo previsto en el artículo 398 de este Código, en los siguientes casos.
+
+[…]
+
+f)        Cuando ocurra un riesgo del trabajo por falta inexcusable, en los siguientes casos:
+
+[…]
+
+3-       Incumplimiento del límite de horas máximo definido para las jornadas ordinarias.”
+
+[…]
+
+ARTÍCULO 3-          Reforma y adición a otras leyes
+
+Se reforma el inciso d) del artículo 2; se adiciona un inciso f) y se modifica el segundo párrafo del artículo 15 de la Ley que Crea la Red Nacional de Cuido y Desarrollo Infantil, Ley N° 9220 del 24 de marzo del 2014, y en adelante se leerán:
+
+“Artículo 2-  Objetivos. Los objetivos de la Red Nacional de Cuido y Desarrollo Infantil son los siguientes:
+
+[…]
+
+d)       Procurar que los servicios de cuido y desarrollo infantil permitan la inserción laboral y educativa de los padres y las madres, con especial énfasis en las madres jefas de hogar que realizan trabajo remunerado.”
+
+“Artículo 15- Financiamiento. Además de los recursos con que cuentan las entidades y los órganos integrantes, se dota a la Redcudi con recursos provenientes de las siguientes fuentes:
+
+[…]
+
+f)        Las multas que se cobren por el incumplimiento del límite de horas máximo definido para las jornadas ordinarias, según el subinciso 3 del inciso f) del artículo 310 del Código de Trabajo.
+
+Los recursos presupuestarios asignados a la Redcudi no podrán considerarse dentro del ocho por ciento (8%) del PIB, que el artículo 78 constitucional establece como el financiamiento mínimo a la educación estatal.
+
+[…]”
+
+DISPOSICIONES TRANSITORIAS
+
+Transitorio I-
+
+Seis meses después de la entrada en vigencia de la presente ley, a las personas trabajadoras que tengan una jornada de trabajo ordinaria semanal de 48 horas, se les aplicará la jornada ordinaria diurna y mixta de 40 horas de forma progresiva en ocho años, de la siguiente manera: se reducirá la jornada a 45 horas durante los primeros cinco años, a 43 horas en el siguiente año, a 41 horas durante el siguiente año y en octavo año se fijará definitivamente en 40 horas. Sin embargo, se podrá aplicar la jornada de 40 horas en un menor plazo por previo acuerdo, individual o colectivo, por escrito entre las partes. La reducción de la jornada ordinaria nocturna se hará de la siguiente manera: disminuirá 33 horas con 30 minutos los primeros cinco años, a 32 horas en año sexto, a 31 horas en el sétimo año y en el octavo se fijará en 30 horas.
+
+Transitorio II-
+
+El Poder Ejecutivo tendrá un plazo máximo de un año contado a partir de la publicación de la presente ley, para realizar los ajustes administrativos y presupuestarios con la finalidad de fortalecer la Dirección Nacional de Inspección del Trabajo, de manera tal que se garantice su independencia funcional y se protejan efectivamente los derechos laborales.
+
+Transitorio III-
+
+El Ministerio de Trabajo y Seguridad Social, en un plazo no mayor a seis meses a partir de la publicación de esta ley, deberá fiscalizar, e implementará las acciones necesarias para cumplir la disminución de la cantidad de horas de trabajo de las jornadas ordinarias según el principio de la reducción progresiva de la duración normal del trabajo.
+
+TRANSITORIO IV-
+
+Las personas trabajadores, que por convenio colectivo o por contrato individual, se encuentren trabajando en jornadas semanales de 40 horas a la entrada en vigencia de esta ley, podrán adaptar su modalidad laboral de acuerdo al artículo 136 bis en un plazo de hasta 2 años.”
+
+Rige a partir de su publicación”.
+
+ 
+
+ 
+
+III.-     CRITERIO NO VINCULANTE DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA RESPECTO AL TEXTO BASE DEL PROYECTO DE LEY
+
+ 
+
+Como bien se extrae del acápite que precede, el texto base del proyecto que nos ocupa tiene como finalidad la reforma de los siguientes artículos: inciso b) del 105; los dos primeros párrafos del 136; el 138; el 140; el segundo párrafo del 143; y el 145; la adición de los ordinales 136 bis; un párrafo al 177; un inciso e) al 284; y un subinciso 3) al inciso f) del 310, todos del Código de Trabajo. Igualmente, se propone reformar el inciso d) del artículo 2; se adicione un inciso f) y se modifique el segundo párrafo del numeral 15, ambos de la Ley que crea la Red Nacional de Cuido y Desarrollo Infantil (Redcudi), y se agreguen 4 normas transitorias, para la modernización y reducción de la jornada ordinaria en nuestro país.
+
+ 
+
+Tal y como se desprende de la exposición de motivos de este proyecto de ley, Costa Rica es el segundo país de la Organización para la Cooperación y Desarrollo Económico (OCDE), en el que se trabajan más horas al año
+[5]
+. Este expediente busca una reforma del Código de Trabajo para reducir el tiempo de trabajo sin afectación salarial y establecer nuevos límites a la jornada laboral, tanto diaria como semanal, de modo que la jornada ordinaria diurna sea de 7 horas diarias y hasta 40 semanales, la jornada nocturna de 5 horas diarias y 30 semanales, y la mixta no podrá exceder las 6 horas diarias y 40 semanales.
+
+ 
+
+En resumen, la iniciativa pretende reformar y adicionar algunas normas del Código de Trabajo, para reducir la jornada laboral ordinaria en Costa Rica, de manera progresiva, sin afectación salarial, así como la creación de una fuente de financiamiento a la Redcudi, por medio del cobro de multas a los empleadores que no cumplan con la jornada establecida.
+
+ 
+
+Dicho lo anterior, importa resaltar, en primer lugar, que esta Procuraduría al analizar el contenido del proyecto de ley 23.905, denominado: “Reforma de los artículos 89, 105, 136, 138, 140, 143, 145, 177, 205, 273, 274, 278, 281, 283, 284, 288, 301, 310 del Código de Trabajo, Ley n°2 del 27 de agosto de 1943, Ley para la reducción de la jornada ordinaria”, realizó un amplio análisis sobre la reducción del tiempo de trabajo -tema de interés de esta nueva iniciativa y que guarda similitud con el expediente legislativo mencionado-, el que por su pertinencia y claridad se reafirma en esta ocasión. Específicamente, se trata de la opinión jurídica n° PGR-OJ-046-2024 del 18 de abril del 2024, mediante la cual señalamos, en lo conducente:
+
+ 
+
+“El tiempo de trabajo, es decir, la cantidad de horas trabajadas
+[2]
+[6]
+y la manera en que se distribuyen durante el día, la semana y el mes, tienen importantes consecuencias tanto para los trabajadores como para los empleadores, pues no sólo afectan a la calidad del trabajo sino también a la vida fuera del lugar de trabajo y constituye uno de los factores importantes para determinar la productividad, la rentabilidad y sostenibilidad de las empresas.
+
+Por ello, las cuestiones relativas al tiempo de trabajo -su organización y ordenación- han ocupado un lugar central en los debates, no sólo entre trabajadores y empleadores, sino en la sociedad en general. Y la siguen teniendo quizás con mayor acentuación debido a las transformaciones que están teniendo lugar en el mundo del trabajo, facilitadas por los avances y mejoras tecnológicas y las comunicaciones, que inciden en aspectos tradicionales relacionados con la dimensión temporal y espacial del trabajo -en cualquier momento y en cualquier lugar-.
+[3]
+[7]
+Aspectos que, sin duda, involucran una mayor flexibilidad y variabilidad de las horas de trabajo, por modalidades no tradicionales o formas atípicas de empleo que inevitablemente van surgiendo.
+
+Según se reseña, la preocupación respecto a la excesiva duración de la jornada de trabajo ya estaba presente antes y durante la conformación de la OIT en 1919. Véase que los principios de la jornada laboral de 8 horas o de la semana de trabajo de 48 horas ya estaban consagrados en el Tratado de Versalles, como un método y principio para regular las condiciones de trabajo, que todas las comunidades industriales deberían procurar aplicar, en la medida en que lo permitan sus circunstancias particulares
+[4]
+[8]
+. Así, en el Preámbulo de la Constitución de la OIT se señala que es urgente mejorar la «reglamentación de las horas de trabajo» y la «fijación de la duración máxima de la jornada y de la semana de trabajo».
+
+Por ello, el tiempo de trabajo ha sido objeto primordial de las actividades normativas de la OIT, que ha adoptado una serie de instrumentos generales que cubren en particular las horas de trabajo
+[5]
+[9]
+y algunos otros instrumentos sectoriales específicos que contienen disposiciones sobre el tiempo de trabajo
+[6]
+[10]
+.
+
+Sin mayores pretensiones que abreviar un largo y complejo proceso histórico normativo a nivel internacional, nos centraremos brevemente en, al menos, tres convenios: el Convenio sobre las horas de trabajo (industria), 1919 (núm. 1); el Convenio sobre las horas de trabajo (comercio y oficinas), 1930 (núm. 30), y el Convenio sobre las cuarenta horas, 1935 (núm. 47), y en una Recomendación, a saber, la Recomendación sobre la reducción de la duración del trabajo, 1962 (núm. 116).
+
+La Conferencia Internacional del Trabajo (CIT) adoptó el Convenio núm. 1, como su primera norma internacional del trabajo que, sobre la materia de interés, incorporaba una combinación de los dos principios de las 8 y las 48 horas como una limitación legal a las horas diarias y semanales de trabajo en el sector industrial, con un reconocimiento del principio de 24 horas de descanso a la semana. Además, el Convenio núm. 1 autoriza un número limitado de excepciones específicas que permiten la prolongación de las horas normales de trabajo.
+
+Una protección análoga se hizo extensiva, en 1930, a los empleados asalariados en el comercio y las oficinas, con la adopción en la 14.ª reunión de la CIT del Convenio núm. 30.
+
+Los convenios nos. 1 y 30 abarcan la gran mayoría de los sectores económicos -públicos y privados-, aunque existen algunas exclusiones importantes, como los trabajadores agrícolas y domésticos, hospitales e instituciones similares, hoteles, restaurantes, cafés o teatros. De este modo, la conjunción copulativa de los Convenios nº 1 y nº 30 de la OIT aglutinaría las bases, pretendidamente universales, de la regulación de la jornada de trabajo.
+
+A raíz del desempleo generalizado que se afronta a nivel mundial después de la Gran Depresión en 1929, y bajo la conveniencia de que los trabajadores también participen de los beneficios del progreso tecnológico, se adopta el Convenio núm. 47 que exige a los países ratificantes que aprueben el principio de la semana de 40 horas, a fin de que el nivel de vida no se vea reducido como consecuencia de ello.
+
+Como norma general, el Convenio núm. 47 no establece normas detalladas, sino que insta a los Estados que adopten o faciliten las medidas prácticas, razonables y apropiadas, para garantizar la semana laboral de 40 horas. Como dato importante, el Preámbulo de la Recomendación núm. 116, adoptada en 1962, indica que el principio establecido en el Convenio núm. 47 es una norma social que debe alcanzarse por etapas, si fuere necesario. Es decir, este instrumento internacional propone una reducción “progresiva” de las horas de trabajo, teniendo en cuenta las diferentes condiciones económicas y sociales en los diversos países, así como la variedad de las prácticas nacionales sobre la regulación de las horas y otras condiciones de trabajo, y, por otro lado, esboza, en términos generales, los métodos por los cuales podrían aplicarse tales medidas prácticas, sin que ello suponga rebaja alguna de los derechos retributivos de los trabajadores.
+
+Es así, como la Recomendación núm. 116 fue diseñada para complementar y facilitar la aplicación de los instrumentos internacionales existentes sobre la duración del trabajo. Y para ello, teniendo en cuenta las diversas condiciones económicas y sociales existentes en los diversos países, indica una serie de medidas para alcanzar y reglamentar la reducción progresiva de la duración y demás condiciones de trabajo. Si bien no especifica su ámbito de aplicación, excluye la agricultura, el transporte y la pesca marítimas.
+
+Ahora bien, como datos relevantes
+[7]
+[11]
+:
+
+A nivel mundial, las horas de trabajo semanales en promedio es de aproximadamente 43 horas.
+
+Con la excepción de América del Norte, Europa Oriental, y Europa Septentrional, Meridional y Occidental, el promedio de horas de trabajo semanales para la mayoría de las subregiones supera la norma de las 40 horas establecida en el Convenio núm. 47.
+
+Las subregiones de Europa Septentrional, Meridional y Occidental registran el promedio más bajo notificado, con 36,4 horas por semana, seguidas de América del Norte y Europa Oriental, ambas con un promedio de 38,7 horas y el continente africano con un promedio de 43,3 horas.
+
+En cambio, en las subregiones de Asia Meridional y Asia Oriental el tiempo de trabajo semanal notificado alcanza el promedio más alto, a saber, 46,6 y 46,3 horas respectivamente, seguido del notificado en los Estados árabes, de 45,8 horas.
+
+En general, el promedio semanal de horas de trabajo remunerado es más alto entre hombres que entre mujeres.
+
+Las horas de trabajo excesivas se definen como horas habituales que superan las 48 horas semanales, tal como recomendó la Reunión tripartita de expertos sobre la medición del trabajo decente (OIT: Medición del trabajo decente. Documento de debate para la Reunión tripartita de expertos sobre la medición del trabajo decente, 2008, pág. 9.).
+
+Motivados especialmente en las disposiciones normativas del Convenio núm. 47 y de la Recomendación núm. 116, ambas de la OIT, a nivel internacional se ha venido dando un avance en la tendencia a la reducción de las horas de trabajo.
+
+Así, algunos de los países han tomado medidas para reducir las horas de trabajo hasta 40 o menos, especialmente a través de medidas legislativas, que son aplicables a todos los trabajadores. Por ejemplo, Francia, en el 2002 estableció la jornada laboral estándar en 35 horas a la semana; regulación pionera en Europa occidental al disponer una de las jornadas laborales más cortas. La República de Corea redujo la semana de 44 horas a 40 horas de trabajo y lo hizo de forma escalonada entre 2004 y 2011. Nueva Zelandia, en el año 2000, estableció en 40 el número máximo de horas de trabajo semanales, salvo acuerdo en contrario con el empleador.
+
+Ecuador fue país pionero en la reducción de la jornada en América Latina, pues desde 1997 la ley ecuatoriana establece un máximo estándar de 40 horas semanales, con un límite de 8 horas diarias.
+
+Recientemente, a nivel latinoamericano, en el 2023, México y Chile
+[8]
+[12]
+redujeron progresivamente la jornada laboral de 48-45 a 40 horas semanales.
+
+B.- Observaciones jurídicas específicas al proyecto.
+
+La cuestión que primero aflora en este estudio, es la de cuál es el nivel de cumplimiento, por parte de Costa Rica, de los estándares fijados por la OIT en materia de duración y distribución de la jornada de trabajo. La respuesta inmediata sería que la normativa nacional sí se ajusta a las previsiones fijadas en los Convenios nº 1 y nº 30.
+
+Según hemos reconocido, nuestro ordenamiento jurídico regula, de forma general, las jornadas máximas a las que pueden someterse las personas trabajadoras -arts. 58 constitucional, 135 y ss. del Código de Trabajo-. Regulación normativa límite de las jornadas de trabajo, con vocación de generalidad y de innegable orden público que, a falta de regulación especial y diferenciada en la materia, resulta aplicable incluso a las Administraciones Públicas (Dictamen PGR-C-128-2022 de 8 de junio de 2022).
+
+Efectivamente, Costa Rica, pese a no tener ratificado ninguno de los convenios internacionales aludidos
+[9]
+[13]
+, establece, como límite general máximo obligatorio, una semana de trabajo diurno de 48 horas normales u ordinarias (art. 58
+[10]
+[14]
+ constitucional), cumpliendo así lo previsto tanto en el art. 1 del Convenio núm. 1, como en el art. 3 del Convenio núm. 30, que prevén una duración del trabajo que no podrá exceder de 8 horas por día y de 48 por semana.
+
+Sin embargo, es notorio que no ha existido, por mucho tiempo, un avance en una reducción paulatina de la jornada laboral, como la propuesta en el Convenio núm. 47 y Recomendación núm. 116 de la OIT.
+
+Y si bien los instrumentos internacionales de la OIT aludidos, no han sido ratificados por Costa Rica, y por ende, no vienen a formar parte de nuestro ordenamiento jurídico al tenor de los artículos 7, 48 de la Constitución Política, 5º del Código Civil y 6º, inciso b) de la Ley General de la Administración Pública, es innegable que sus disposiciones sirven como un importante marco de referencia no solo interpretativo de la legislación o normativa nacional, sino en el marco configurador de nuestro derecho interno, máxime cuando éste se ha inspirado en los convenios respectivos –como es el caso en examen-, o para aplicar principios reconocidos en la Constitución Nacional y no reglamentados, o bien para aplicar el derecho interno conforme a principios internacionales, y por ello los aludimos en este estudio, a fin de reforzar la alternativa jurídica dada al tema de fondo, basada en la reconfiguración del derecho interno.
+
+De ahí que el legislador derivado u ordinario, dentro del margen máximo dado por la norma constitucional, desde una dimensión cuantitativa, puede normar la disminución de las horas de trabajo como la propuesta. Y es más que aconsejable hacerlo con un enfoque gradual, transicional o por etapas, como se plantea, según ha sido la tónica en experiencias similares alrededor del mundo.
+
+Un aspecto destacable es que la reforma propuesta prevé expresamente que la reducción de las horas de trabajo no afecta las retribuciones, pues los trabajadores tienen derecho a preservar y recibir los mismos salarios. Consagrándose el principio de indemnidad salarial (Introducción de un párrafo adicional al art. 177 del Código de Trabajo).
+
+Igualmente preserva el límite máximo de la jornada mixta, las excepciones temporales a las horas de trabajo normales, el derecho al pago (compensación financiera) de las horas extra o jornada extraordinaria y el descanso obligatorio, todo a favor de la salud y bienestar de los trabajadores.
+
+Por último, es importante indicar que la propia OIT ha reconocido el papel desempeñado por el diálogo social en la aplicación de las normas relativas al tiempo de trabajo, el cual varía en función de los distintos sistemas de relaciones laborales instaurado. Pero innegablemente los interlocutores sociales participan en la regulación del tiempo de trabajo de diversas formas, en particular, colaborando con el gobierno en consultas y diálogos tripartitos para velar por el carácter inclusivo y efectivo de la legislación sobre el tiempo de trabajo.
+
+Véase que la Recomendación sobre reducción de la duración del trabajo, 1962 (núm. 116), insta a la autoridad competente a «consultar siempre a las organizaciones más representativas de empleadores y de trabajadores sobre todas las disposiciones relacionadas con la aplicación» de la Recomendación (párrafo 20, 1), y establece una lista de cuestiones que deben ser objeto de consulta.
+
+Por ello, dada la importancia de la normación básica de las horas de trabajo y, en particular, de la duración máxima de la jornada y la semana de trabajo para los trabajadores, sugerimos socializar el proyecto de ley, por medio de audiencia pública, para contar con la opinión de actores implicados, especialmente organizaciones de empleadores y trabajadores; lo cual busca la mayor participación de la sociedad civil, para que puedan aportar elementos que permitan enriquecer la normativa propuesta y que permitan balancear los distintos objetivos e intereses en juego”. (El destacado y subrayado no pertenece al original)
+
+ 
+
+Luego, tomando como base lo transcrito, en la citada opinión jurídica concluimos que el proyecto de ley 23.905 no presentaba mayor inconveniente a nivel jurídico y sugerimos valorar las observaciones efectuadas acerca de la socialización de la propuesta legislativa a los diversos interlocutores sociales, a fin de mejorarla y consensuarla, siendo su aprobación o no un asunto de política legislativa que le competía en forma exclusiva a ese Poder de la República.
+
+ 
+
+Si bien dicho proyecto a la fecha del presente estudio se encuentra en la corriente legislativa, con un vencimiento cuatrienal previsto para el 28 de agosto del 2027, lo cierto del caso es que cuenta con un dictamen negativo de mayoría, fechado el 16 de octubre del 2024, a través del cual se recomendó: “De conformidad con el análisis expuesto, así como aspectos técnicos de oportunidad y conveniencia, las suscritas diputaciones que integramos la Comisión Permanente Ordinaria de Asuntos Jurídicos recomendamos respetuosamente al Plenario Legislativo ARCHIVAR el expediente N° 23.905 “REFORMA DE LOS ARTÍCULOS 89, 105, 136, 138, 140, 143, 145, 177, 205, 273, 274, 278, 281, 283, 284, 288, 301, 310 DEL CÓDIGO DE TRABAJO, LEY N°2 DEL 27 DE AGOSTO DE 1943,  LEY PARA LA REDUCCIÓN DE LA JORNADA ORDINARIA”. Recomendación que debe ser valorada al momento del análisis de esta nueva propuesta de ley, debido a su similitud.
+
+ 
+
+III.I.- OBSERVACIONES PUNTUALES AL PROYECTO DE LEY 24965
+
+ 
+
+Realizadas las anteriores acotaciones generales, importa advertir que de una revisión de las normas que se pretende reformar y las indicadas tanto en el título del proyecto como en su artículo 1, se evidencia una imprecisión, pues los artículos 273; el inciso b) del 274; 281; el inciso 10) del 283; el párrafo final del 288; y el 301, todos del Código de Trabajo, no se encuentran dentro del contenido de la reforma formulada a dicho Código, a pesar de estar referenciados tanto en el título (en el caso del 301) como en el párrafo primero del artículo 1 del proyecto (el resto de las normas señaladas).
+
+ 
+
+Es decir, no forman parte de la presente iniciativa, lo cual podría ser un error al momento de redactar el contenido del proyecto 24.965; sin embargo, debe ser corregido o bien si se omitió incluir el texto de la reforma que se propone a dicha normativa, sería conveniente hacerlo.
+
+ 
+
+También, se detecta un error al momento de redactar la modificación del artículo 145 del Código de Trabajo, ya que en su segundo párrafo se hace expresa mención del ordinal “136 ter”, el cual no se incorporó en el presente proyecto, ni forma parte del Código de Trabajo vigente.
+
+ 
+
+Veamos, la propuesta establece: “Además, a través de esos estudios deberá determinar en qué circunstancias y dentro de qué plazos podrán autorizarse excepciones a límites de las jornadas ordinarias establecidas en los artículos 136, 136 bis y 136 ter según las etapas por rama, sector y tamaño de empresa,  de acuerdo con el principio de la reducción progresiva de la duración normal del trabajo, y dando prioridad a las industrias y ocupaciones que entrañen un esfuerzo físico o mental especial o un riesgo para la salud de las personas trabajadoras, especialmente cuando la mano de obra empleada esté integrada principalmente por mujeres y jóvenes.” (La negrita es nuestra)
+
+ 
+
+Todos estos aspectos de técnica legislativa o imprecisiones formales necesariamente deben ser revisados y ajustados en el caso que se continúe con el trámite correspondiente.
+
+ 
+
+Realizada las anteriores observaciones formarles, iniciaremos nuestro análisis de fondo con respecto a las reformas y adiciones que se pretenden a los artículos del Código de Trabajo reseñados anteriormente, para reducir la jornada laboral ordinaria en nuestro país, de manera progresiva, y sin afectación salarial.
+
+ 
+
+Ciertamente, nuestra Constitución Política en el numeral 58, define los períodos de tiempo máximos que debe comprender la jornada laboral ordinaria diurna y nocturna, así como el reconocimiento salarial que tiene que hacerse en el caso de las jornadas extraordinarias, definiendo puntualmente que:
+
+ 
+
+"ARTICULO 58.- La jornada ordinaria de trabajo diurno no podrá exceder de ocho horas diarias y cuarenta y ocho horas a la semana. La jornada ordinaria de trabajo nocturno no podrá exceder de seis horas diarias y treinta y seis a la semana. El trabajo en horas extraordinarias deberá ser remunerado con un cincuenta por ciento más de los sueldos o salarios estipulados. Sin embargo, estas disposiciones no se aplicarán en los casos de excepción muy calificados, que determine la ley." (El destacado no es del texto original.)
+
+ 
+
+Conforme se extrae de la norma constitucional, se establece como límite general máximo obligatorio, 8 horas diarias y 48 horas semanales de trabajo diurno ordinario, así como la jornada ordinaria de trabajo nocturno no podrá exceder de 6 horas diarias y 36 a la semana, lo cual se replica en el artículo 135 y siguientes del Código de Trabajo.
+
+ 
+
+Dicha regulación normativa conforme lo hemos aceptado en nuestros pronunciamientos, contempla un límite máximo de las jornadas de trabajo, con una clara vocación de generalidad y de innegable orden público que, a falta de regulación especial y diferenciada en la materia, resulta aplicable incluso a las Administraciones Públicas (Pronunciamientos PGR-C-128-2022 de 8 de junio del 2022 y PGR-OJ-046-2024 citado).
+
+ 
+
+Como bien lo hicimos ver al momento de analizar el expediente legislativo 23.905, la normativa nacional mencionada sí se ajusta a las previsiones fijadas en los Convenios nº 1 -art. 1- y nº 30 -art. 3- de la OIT, que prevén una duración del trabajo que no podrá exceder de 8 horas por día y de 48 por semana.
+
+ 
+
+A pesar de ello, debemos reiterar que nada impide para que el legislador ordinario, puede normar la disminución de las horas de trabajo como la que se pretende en el presente expediente, siempre y cuando se mantenga dentro del margen máximo dado por el artículo 58 constitucional.
+
+ 
+
+Incluso, la reducción de jornada propuesta será progresiva en un periodo de 8 años, lo cual resulta viable y recomendable. Veamos: se reducirá la jornada a 45 horas durante los primeros cinco años, a 43 horas en el siguiente año, a 41 horas durante el siguiente año y en octavo año se fijará definitivamente en 40 horas. Sin embargo, se podrá aplicar la jornada de 40 horas en un menor plazo por previo acuerdo, individual o colectivo, por escrito entre las partes. La reducción de la jornada ordinaria nocturna se hará de la siguiente manera: disminuirá 33 horas con 30 minutos los primeros cinco años, a 32 horas en año sexto, a 31 horas en el sétimo año y en el octavo se fijará en 30 horas -transitorio I-.
+
+ 
+
+Sumando a lo expuesto, un tema importante es que la adición propuesta al numeral 177 del Código de Trabajo, regula que la reducción progresiva de jornadas ordinarias no facultará ni al empleador ni a la Consejo Nacional de Salarios a modificar los salarios promedio por hora en perjuicio de sus personas empleadas. Es decir, la reducción de las horas de trabajo no afecta las retribuciones, pues los trabajadores tienen derecho a preservar y recibir los mismos salarios. Consagrándose con ello el principio de indemnidad salarial.
+
+ 
+
+Adicional a la reforma propuesta a los ordinales 136 y 138 del Código de Trabajo, se propone modificar los artículos 140 y 143 de ese mismo cuerpo normativo, en el sentido que la jornada extraordinaria, sumada a la ordinaria, no podrá exceder de 11 horas, salvo las excepciones allí definidas. Y en el caso de las personas que se encuentran excluidas de la limitación de la jornada de trabajo -señaladas en el 143- no estarán obligadas a permanecer más de 11 horas diarias en su trabajo y tendrán derecho, dentro de esa jornada, a un descanso mínimo de una hora y media, lo cual es congruente con el resto de la propuesta en estudio.
+
+ 
+
+Asimismo, se amplía el ámbito de aplicación definido en el art. 145 y se adiciona un art. 136 bis para que en los trabajos que por su propia condición no sean insalubres o peligrosos, por acuerdo mutuo, individual o colectivo, se podrá definir una jornada semana de 5 días consecutivos, la misma podrá definir una jornada ordinaria diurna de hasta 8 horas diarias para un total de 40 horas semanales; así como una jornada ordinaria nocturna de 6 horas diarias para un total de 30 horas semanales, y la jornada mixta de 5 días podrá estipularse siete horas diarios, para un total de 35 horas semanales.
+
+ 
+
+De igual manera, se reduce para las personas trabajadoras domésticas remuneradas, a 7 horas diarias y 40 semanales, en jornada diurna, y a 5 horas diarias y 30 semanales, en jornada nocturna, con las excepciones contempladas -art. 105-.
+
+ 
+
+Las anteriores modificaciones guardan armonía con la reducción a la jornada laboral ordinaria que se pretende realizar y que desde nuestra óptica de análisis resulta jurídicamente viable.
+
+ 
+
+Adicional a todo lo expuesto, se introduce otra obligación para los patronos -art. 284, inciso e)- que se relaciona con la implementación de tecnologías de producción y métodos de organización del proceso de trabajo que aproveche el uso racional de la fuerza de trabajo de acuerdo con las jornadas ordinarias para el beneficio de los trabajadores, según el principio de la reducción progresiva de la duración normal del trabajo. Y se propone imponer al empleador o empleadora una multa de acuerdo con lo previsto en el artículo 398 del Código de Trabajo, cuando ocurra un riesgo del trabajo por falta inexcusable, en caso de incumplimiento del límite de horas máximo definido para las jornadas ordinarias -subinciso 3 del inciso f) del art. 310-, lo que se visualiza razonable para la adecuada implementación de la futura reforma al Código de Trabajo, para el evento que la propuesta se convierta en Ley de la República y vendría a reforzar la eficacia normativa.
+
+ 
+
+En cuanto a las normas transitorias II y III se dispone que el Poder Ejecutivo tendrá un plazo máximo de 1 año contado a partir de la publicación de la ley, para realizar los ajustes administrativos y presupuestarios con la finalidad de fortalecer la Dirección Nacional de Inspección del Trabajo, y el Ministerio de Trabajo y Seguridad Social (MTSS), en un plazo no mayor a 6 meses, deberá fiscalizar, e implementar las acciones necesarias para cumplir la disminución de la cantidad de horas de trabajo de las jornadas ordinarias, según el principio de la reducción progresiva de la duración normal del trabajo.
+
+ 
+
+Plazos que a nuestro juicio son proporcionales y razonables para la implementación de la propuesta legislativa; no obstante, sería conveniente que se le otorgue audiencia al MTSS, si a la fecha no se ha realizado, para que se refiera a los alcances del proyecto y brinde sus observaciones concretas.
+
+ 
+
+Por otro lado, en el transitorio IV, se contempla el caso de las personas trabajadoras, que por convenio colectivo o por contrato individual, se encuentren trabajando en jornadas semanales de 40 horas a la entrada en vigencia de la ley, podrán adaptar su modalidad laboral de acuerdo al artículo 136 bis en un plazo de hasta 2 años; disposición de carácter temporal que brinda una opción a las personas trabajadoras que se encuentren en el supuesto que regula la norma.
+
+ 
+
+En otro orden de ideas, el expediente legislativo en estudio plantea una reforma al inciso d) del numeral 2 de la Ley que crea la Red Nacional de Cuido y Desarrollo Infantil (Redcudi), n° 9220, para procurar que los servicios de cuido y desarrollo infantil permitan la inserción laboral y educativa de los padres y las madres, con especial énfasis en las madres jefas de hogar que realizan trabajo remunerado. Y, adiciona un inciso f) del art. 15 de dicha ley, para dotar a la Redcudi con recursos provenientes de las multas que se cobren por el incumplimiento del límite de horas máximo definido para las jornadas ordinarias, según el subinciso 3 del inciso f) del art. 310 del Código de Trabajo.
+
+ 
+
+Bajo esa óptica, se modifica el segundo párrafo del art. 15 para que se leerá de la siguiente manera: “Los recursos presupuestarios asignados a la Redcudi no podrán considerarse dentro del ocho por ciento (8%) del PIB, que el artículo 78 constitucional establece como el financiamiento mínimo a la educación estatal”.
+
+ 
+
+Al respecto, es importante que se tome en consideración lo manifestado por el órgano contralor, en el criterio n° DJ-0350-2026 del 20 de febrero de 2026 (oficio n.º 2043), que consta agregado al expediente legislativo:
+
+ 
+
+“(…) en relación con la adición del inciso f) al artículo 15 de la Ley de la Red Nacional de Cuido y Desarrollo Infantil, se interpreta, a partir de la exposición de motivos y del objeto del proyecto de ley, que los ingresos que percibirá la Redcudi por concepto de multas impuestas a empleadores por el incumplimiento de la jornada laboral, constituyen un recurso "adicional". Esto implica que dichos fondos no deben contabilizarse dentro del ocho por ciento (8%) del Producto Interno Bruto (PIB) que el artículo 78 de la Constitución Política establece como financiamiento mínimo para la educación estatal.
+
+Tomando en cuenta lo expuesto, al examinar la redacción propuesta para el Artículo 15 de la Ley 9220, se identifica una ambigüedad que podría llevar a una interpretación notablemente amplia, lo cual, de materializarse, impactaría directamente las finanzas públicas. El texto indica lo siguiente:
+
+“f) Las multas que se cobren por el incumplimiento del límite de horas máximo definido para las jornadas ordinarias, según el subinciso 3 del inciso f) del artículo 310 del Código de Trabajo. Los recursos presupuestarios asignados a la Redcudi no podrán considerarse dentro del ocho por ciento (8%) del PIB, que el artículo 78 constitucional establece como el financiamiento mínimo a la educación estatal.” (lo subrayado en negrita no forma parte del original).
+
+La mención de "los recursos presupuestarios" en la norma, no se restringe únicamente al dinero de las nuevas multas del inciso f). En una interpretación amplia, esto implicaría la exclusión de la totalidad de la partida presupuestaria de la Redcudi del cálculo del 8% destinado a educación.
+
+En este sentido, de aprobarse la reforma, el gasto que implica la Redcudi se clasificaría como un gasto "adicional" al financiamiento mínimo constitucional establecido en el artículo 78 de la Constitución. Este gasto no se consideraría necesariamente un gasto nuevo, pero dejaría de ser catalogado como una obligación de naturaleza constitucional.
+
+Al respecto, este Órgano Contralor advierte que, este gasto "adicional" podría incidir en el déficit ya dado a la Institución y que actualmente, forma parte del 8% del PIB. Una eventual exclusión de los recursos presupuestarios de la Redcudi de dicho 8%, podría generar la necesidad de incrementar el presupuesto destinado a la educación, con el fin de dar cumplimiento al mandato constitucional y obligación legal de financiar el cuido.
+
+En virtud de lo expuesto, se recomienda a las señoras y señores legisladores precisar la redacción del artículo 15, a fin de evitar interpretaciones que pretendan excluir la totalidad de los recursos presupuestarios de la Redcudi del cómputo del 8% del PIB. Una interpretación de tal alcance forzaría un aumento en el gasto educativo para completar dicho umbral, comprometiendo la sostenibilidad de las finanzas públicas. Por consiguiente, resulta imperativo acotar dicha exclusión únicamente a los recursos nuevos provenientes de las multas, asegurando la sostenibilidad del presupuesto estatal”. (La negrita no pertenece al original)
+
+ 
+
+De igual forma debemos destacar la importancia de socializar el proyecto de ley, por medio de audiencia pública, para contar con la opinión de actores implicados, especialmente organizaciones de empleadores y trabajadores; lo cual busca la mayor participación de la sociedad civil, para que puedan aportar elementos que permitan enriquecer la normativa propuesta y que permitan balancear los distintos objetivos e intereses en juego, tal y como lo hicimos ver en la opinión jurídica n° PGR-OJ-046-2024 citada.
+
+ 
+
+Como un aspecto final, no podemos dejar de acotar que "Indudablemente la ley es un acto político, cuya emisión le compete exclusivamente a los diputados como representantes de la soberanía popular (artículo 105 constitucional); quienes de acuerdo con su ideología, sus compromisos políticos y sociales, con su promulgación buscan satisfacer una necesidad social imperiosa o un interés público imperativo”
+[15]
+; en consecuencia, el análisis del texto propuesto, no entra a considerar la conveniencia o no de la reducción de las jornadas laborales propuestas, por ser un aspecto de discrecionalidad legislativa que compete exclusivamente al Órgano Legislador.
+
+ 
+
+ 
+
+IV.-     Conclusión
+
+           
+
+El texto base del proyecto de ley 24.965 sometido a nuestro conocimiento no presenta mayor inconveniente a nivel jurídico, conforme se analizó. No obstante, se sugiere examinar las observaciones que hemos formulado.
+
+ 
+
+Su aprobación o no es un asunto de política legislativa que le compete en forma exclusiva a ese Poder de la República.
+
+ 
+
+En los términos expuestos se deja evacuada su consulta.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Yansi Arias Valverde
+
+Procuradora adjunta
+
+Dirección de la Función Pública
+
+YAV/gcc
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+[1]
+Organización Internacional del Trabajo (2019a) Costa Rica ratifica el Convenio sobre los trabajadores con responsabilidades familiares, 1981 (núm. 156)
+
+Disponible en
+https://www.ilo.org/global/standards/subjects-covered-by-international-labour-standards/equality-of-opportunity-and-treatment/WCMS_717960/lang--es/index.htm#:~:text=El%2011%20de%20julio%20de,en%20haber%20ratificado%20este%20Convenio
+. (Consultado el 1/03/2023)
+
+[2]
+ONU Mujeres (2018) Reconocer, Redistribuir y Reducir el Trabajo de Cuidados. Prácticas inspiradoras en América Latina y el Caribe. Disponible en
+https://lac.unwomen.org/es/digiteca/publicaciones/2018/11/estudio-reconocer-redistribuir-y-reducir-el-trabajo-de-cuidados
+(Consultado el 31/05/2023)
+
+[3]
+Muñoz del Bustillo, Rafael (1998) Reducción de la jornada de trabajo y generación de empleo. Pp 69-90 Disponible en
+https://dialnet.unirioja.es/descarga/articulo/226119.pdf
+(Consultado el 19/06/2023)
+
+[4]
+Artavia-Jiménez, María Leonela; Quirós Segura, Fabiola (2020) La feminización del cuidado en Costa Rica. Trabajo doméstico, precario e informal. Apuntes. Friedrich Ebert Stiftung Disponible en   
+https://library.fes.de/pdf-files/bueros/fesamcentral/16149.pdf
+   (Consultado el 17/03/2025)
+
+[5]
+OCDE (2023) Horas trabajadas. Estadísticas.  Disponible en
+https://www.oecd.org/espanol/estadisticas/horas-trabajadas.htm
+(Consultado el 12/04/2023)
+
+[6]
+[2]
+La Resolución sobre estadísticas de las horas de trabajo, adoptada por la Conferencia Internacional de Estadígrafos del Trabajo (CIET) en 1962, define las «horas efectivamente trabajadas» como el tiempo dedicado por los trabajadores al desempeño de actividades laborales durante un período de referencia determinado.
+
+[7]
+[3]
+“Garantizar un tiempo de trabajo decente para el futuro”, 107.A CONFERENCIA INTERNACIONAL DEL TRABAJO REUNIÓN, 2018. Estudio General relativo a los instrumentos sobre el tiempo de trabajo. Oficina Internacional del Trabajo, Ginebra.
+
+[8]
+[4]
+Tratado de Versalles, 1919, Parte XIII, Sección II, Principios Generales, art. 427.
+
+[9]
+[5]
+Horas de trabajo, Estudio general de las memorias relativas al Convenio sobre las horas de trabajo (industria), 1919 (núm. 1) y al Convenio sobre las horas de trabajo (comercio y oficinas), 1930 (núm. 30) y el Convenio sobre las cuarenta horas, 1935 (núm. 47), y la Recomendación sobre la reducción de la duración del trabajo, 1962 (núm. 116), Informe III (parte III), 51.ª reunión de la CIT, Ginebra, 1967, párr. 2.
+
+[10]
+[6]
+Convenio sobre las plantaciones, 1958 (núm. 110) y su Protocolo de 1982, el Convenio sobre duración del trabajo y períodos de descanso (transportes por carretera), 1979 (núm. 153), la Recomendación sobre duración del trabajo y períodos de descanso (transportes por carretera), 1979 (núm. 161), el Convenio sobre las condiciones de trabajo (hoteles y restaurantes), 1991 (núm. 172), el Convenio sobre las horas de trabajo a bordo y la dotación de los buques, 1996 (núm. 180), el Convenio sobre las trabajadoras y los trabajadores domésticos, 2011 (núm. 189), la Recomendación sobre las trabajadoras y los trabajadores domésticos, 2011 (núm. 201) y el Convenio sobre el trabajo marítimo, 2006, en su versión enmendada (MLC, 2006).
+
+[11]
+[7]
+“Garantizar un tiempo de trabajo decente para el futuro”, op. cit. pág. 10. Basado en cálculos de la OIT basados en ILOSTAT y microdato.
+
+[12]
+[8]
+En el caso de Chile, a fines del año 2001 se legisló la reducción de la jornada laboral de 48 a 45 horas a la semana, para ser implementada a comienzos de 2005. De esta forma se otorgaban tres años para que las empresas se pudieran ir ajustando a este nuevo parámetro. Sánchez, R. (2013). “Do reductions of standard hours affect employment transitions? Evidence from Chile”, en Labour Economics, vol. 20.
+
+[13]
+[9]
+“Garantizar un tiempo de trabajo decente para el futuro”, op. cit. págs. 19 y 20.
+
+[14]
+[10]
+“ARTÍCULO 58.- La jornada ordinaria de trabajo diurno no podrá exceder de ocho horas diarias y cuarenta y ocho horas a la semana. La jornada ordinaria de trabajo nocturno no podrá exceder de seis horas diarias y treinta y seis a la semana. El trabajo en horas extraordinarias deberá ser remunerado con un cincuenta por ciento más de lo sueldos o salarios estipulados. Sin embargo, estas disposiciones no se aplicarán en los casos de excepción muy calificados, que determine la ley.”
+
+[15]
+Véase, entre otras, las opiniones jurídicas de este órgano asesor n°s OJ-122-2003 del 23 de julio del 2003, OJ-144-2015 del 11 de diciembre del 2015 y OJ-181-2020 del 26 de noviembre del 2020.
+
+© 2026 Procuraduría de la Republica. Todos los derechos reservados.
+2
