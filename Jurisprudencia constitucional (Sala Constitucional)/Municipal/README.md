@@ -237,3 +237,6 @@ Votos que Edward Cortés García aportó desde NexusPJ mientras se escribían lo
 | [2026-009053](Sentencia%202026-009053.md) | 2026-03-13 | 26-000171-0007-CO | Sentencia 2026-009053 de la Sala Constitucional —  |  |
 | [2026-029915](Sentencia%202026-029915.md) | 2026-08-06 | 26-022949-0007-CO | la Municipalidad de Pococí y el Ministerio de Salud | Con lugar |
 | [2019-021447](Sentencia%202019-021447.md) | 2019-11-01 | 19-018898-0007-CO | el Ministerio de Seguridad Pública y la Policía Municipal de Escazú (decomiso del arma de reglamento a un policía municipal con medidas de protección; aportado el 23 de noviembre de 2026) | Sin lugar |
+| [2005-012698](Sentencia%202005-012698.md) | 2005-09-14 | 05-009165-0007-CO | la Municipalidad de Santa Ana y el Ministerio de Salud (ruido de un bar y discoteca temporal en las fiestas cívicas; aportado el 23 de noviembre de 2026) | Con lugar |
+| [2007-009162](Sentencia%202007-009162.md) | 2007-06-26 | 06-015495-0007-CO | la Municipalidad de Flores y el Área Rectora de Salud de Belén-Flores (ruido de un bar y una sala de eventos; aportado el 23 de noviembre de 2026) | Con lugar |
+| [2010-010119](Sentencia%202010-010119.md) | 2010-06-11 | 10-006097-0007-CO | la Municipalidad de Atenas y el Área Rectora de Salud de Atenas (ruido de una discoteca; orden de fijar horario; aportado el 23 de noviembre de 2026) | Con lugar |
