@@ -25,7 +25,13 @@ MANUAL.update({
 })
 '''
 # criterios de la Contraloría que el libro agrega (van dentro del diccionario CGR, que deexp también lee)
-cgr_extra = """    '07359': dict(cita='oficio N.° 07359 [DFOE-DL-0517], 2017', file='/home/claude/libro/fuentes/of07359.txt',
+cgr_extra = """    'REDCUDI': dict(cita='informe N.° DFOE-BIS-IAD-00010-2023, 2023', file='/home/claude/repo/360/Seguridad Municipal 360°/Criterios CGR/Informe DFOE-BIS-IAD-00010-2023 Gobernanza y calidad de la REDCUDI - texto extraído.txt',
+                  ref='Contraloría General de la República. (2023, 23 de octubre). *Informe de auditoría de carácter especial sobre la gobernanza y estándares de calidad de los servicios de cuido y desarrollo infantil de la REDCUDI* (informe N.° DFOE-BIS-IAD-00010-2023).',
+                  key=(2023, 10, 23)),
+    'R-DCP-SICOP-00770-2024': dict(cita='resolución N.° R-DCP-SICOP-00770-2024, 2024', file='/home/claude/repo/360/Seguridad Municipal 360°/Criterios CGR/Resolución 8072024000000797-2024 (recurso de apelación) CECUDI de Palmares - texto extraído.txt',
+                  ref='Contraloría General de la República. (2024, 31 de mayo). *Resolución N.° R-DCP-SICOP-00770-2024. Recurso de apelación contra la declaratoria de desierta de la licitación mayor 2023LY-000001-0002500001 de la Municipalidad de Palmares (operador y administrador del CECUDI)*.',
+                  key=(2024, 5, 31)),
+    '07359': dict(cita='oficio N.° 07359 [DFOE-DL-0517], 2017', file='/home/claude/libro/fuentes/of07359.txt',
                   ref='Contraloría General de la República. (2017, 29 de junio). *Oficio N.° 07359 (DFOE-DL-0517). Emisión de criterio respecto a las donaciones en especie que realizan las Municipalidades a las Asociaciones Comunales, para el desarrollo de obras*.',
                   key=(2017, 6, 29)),
     '16049': dict(cita='oficio N.° 16049 [DFOE-LOC-1430], 2024', file='/home/claude/libro/fuentes/of16049.txt',
@@ -172,6 +178,9 @@ RM = {
     'puntarenas-ruedas': 'Puntarenas/Puntarenas/Reglamento para regular el comercio sobre ruedas en el Cantón Central de la Provincia de Puntarenas (2025).md',
     'sarchi-residencias': 'Alajuela/Sarchí/Reglamento a la aplicación de la Ley N.° 10594 que reforma los artículos 88 del Código Municipal y 29 de la Le (2025).md',
     'moravia-ruedas': 'San José/Moravia/Reglamento para regular el otorgamiento de licencias comerciales para ejercer el comercio sobre ruedas en el c (2025).md',
+    'belen-cecudi': 'Heredia/Belén/Reglamento para regular el funcionamiento y operación de los centros de cuido y desarrollo infantil gestionado (2025).md',
+    'escazu-cecudi': 'San José/Escazú/Reglamento para regular el funcionamiento y operación de los Centros de Cuido y Desarrollo Infantil CECUDI del (2023).md',
+    'parrita-cecudi': 'Puntarenas/Parrita/Reglamento para regular el funcionamiento y operación del centro de cuido y desarrollo infantil CECUDI del Can (2014).md',
     'escazu-ayudas': 'San José/Escazú/Reglamento para otorgar ayudas temporales a vecinos del Cantón de Escazú en situación transitoria de desgracia (2025).md',
     'poas-ayudas': 'Alajuela/Poás/Reglamento para ayudas temporales y subvenciones del Cantón de Poás (2025).md',
     'pococi-becas': 'Limón/Pococí/Reglamento para el otorgamiento de becas, donaciones, subvenciones y ayudas temporales ante estado de desgraci (2025).md',
