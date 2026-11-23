@@ -1,0 +1,11 @@
+CITAS TEXTUALES: 21 | OK: 19
+  [t25.md] 9p | RM:sanisidro-genero:objetivo específico 2 | LITERAL (sin localización que cotejar) | "el cuido como trabajo ha sido invisibilizado y desvalorizado"
+  [t25.md] 3p | RM:sanisidro-genero:objetivo específico 2 | LITERAL (sin localización que cotejar) | "en el 2021"
+
+UBICACIONES VERIFICADAS A MANO (0):
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (0):
