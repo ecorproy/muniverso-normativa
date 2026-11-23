@@ -1,13 +1,13 @@
-CITAS TEXTUALES: 28 | OK: 27
+CITAS TEXTUALES: 42 | OK: 41
   [t19.md] 10p | L:9137:transitorio II | LITERAL (sin localización que cotejar) | "para integrarse y suministrar al Sistema toda la información"
 
 UBICACIONES VERIFICADAS A MANO (7):
   [t19.md] D:C-043-2016:apartado I: "manifiestamente irrazonable o desproporcionado el " (segmentador: ['II'])
   [t19.md] D:C-043-2016:apartado I: "a fin de asegurar la vivienda familiar en caso de " (segmentador: ['III'])
   [t19.md] D:C-043-2016:apartado I: "como por ejemplo la falta de pago de tributos muni" (segmentador: ['III'])
-  [t19.md] D:C-043-2016:apartado I: "Lo que sí contiene la norma es una declaración de " (segmentador: ['III'])
-  [t19.md] D:C-043-2016:apartado I: "en aquellos casos en que sea material y jurídicame" (segmentador: ['III'])
   [t19.md] RM:poas-ayudas:art. 7 bis: "prioritariamente" (segmentador: ['7'])
+  [t19.md] O:IGSMF:p. 95: "Medios de impugnación y órganos encargados de reso" (segmentador: ['4', '29', '57', '82'])
+  [t19.md] O:IGSMF:p. 95: "con carencias económicas, culturales, educativas y" (segmentador: ['96', '99', '103', '104'])
   [t19.md] O:IGSMF:p. 99: "promover un desarrollo local participativo e inclu" (segmentador: ['17', '34', '67', '90'])
 
 ERRORES (0):
