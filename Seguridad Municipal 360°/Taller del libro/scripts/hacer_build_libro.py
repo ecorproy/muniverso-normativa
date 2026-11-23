@@ -25,7 +25,16 @@ MANUAL.update({
 })
 '''
 # criterios de la Contraloría que el libro agrega (van dentro del diccionario CGR, que deexp también lee)
-cgr_extra = """    '03933': dict(cita='oficio N.° 03933 [DJ-0647-2026], 2026', file='/home/claude/libro/fuentes/of03933.txt',
+cgr_extra = """    '07359': dict(cita='oficio N.° 07359 [DFOE-DL-0517], 2017', file='/home/claude/libro/fuentes/of07359.txt',
+                  ref='Contraloría General de la República. (2017, 29 de junio). *Oficio N.° 07359 (DFOE-DL-0517). Emisión de criterio respecto a las donaciones en especie que realizan las Municipalidades a las Asociaciones Comunales, para el desarrollo de obras*.',
+                  key=(2017, 6, 29)),
+    '16049': dict(cita='oficio N.° 16049 [DFOE-LOC-1430], 2024', file='/home/claude/libro/fuentes/of16049.txt',
+                  ref='Contraloría General de la República. (2024, 8 de octubre). *Oficio N.° 16049 (DFOE-LOC-1430). Opinión sobre el texto dictaminado Reforma del artículo 71 del Código Municipal, Ley n.° 7794, del 30 de abril de 1998 y sus reformas, correspondiente al expediente legislativo n.° 23.777*.',
+                  key=(2024, 10, 8)),
+    '21709': dict(cita='oficio N.° 21709 [DJ-2194], 2025', file='/home/claude/libro/fuentes/of21709.txt',
+                  ref='Contraloría General de la República. (2025, 3 de noviembre). *Oficio N.° 21709 (DJ-2194). Solicitud de criterio relacionado con el proyecto de Ley n° 25.082 \"Ley de autorización a la Municipalidad de Grecia para donar un inmueble de su propiedad a la Asociación Cruz Roja Costarricense\"*.',
+                  key=(2025, 11, 3)),
+    '03933': dict(cita='oficio N.° 03933 [DJ-0647-2026], 2026', file='/home/claude/libro/fuentes/of03933.txt',
                   ref='Contraloría General de la República. (2026, 8 de abril). *Oficio N.° 03933 (DJ-0647-2026). Se atiende consulta sobre el uso de instalaciones municipales para estacionamiento de vehículos particulares de los funcionarios*.',
                   key=(2026, 4, 8)),
     '07545': dict(cita='oficio N.° 07545 [DCA-2092], 2021', file='/home/claude/libro/fuentes/of07545.txt',
