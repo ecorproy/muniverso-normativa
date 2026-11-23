@@ -236,3 +236,4 @@ Votos que Edward Cortés García aportó desde NexusPJ mientras se escribían lo
 | [2026-000643](Sentencia%202026-000643.md) | 2026-01-09 | 25-029929-0007-CO | la Municipalidad de La Unión y el Consejo Nacional de Vialidad (hueco en la ruta nacional 251, Tres Ríos) |  |
 | [2026-009053](Sentencia%202026-009053.md) | 2026-03-13 | 26-000171-0007-CO | Sentencia 2026-009053 de la Sala Constitucional —  |  |
 | [2026-029915](Sentencia%202026-029915.md) | 2026-08-06 | 26-022949-0007-CO | la Municipalidad de Pococí y el Ministerio de Salud | Con lugar |
+| [2019-021447](Sentencia%202019-021447.md) | 2019-11-01 | 19-018898-0007-CO | el Ministerio de Seguridad Pública y la Policía Municipal de Escazú (decomiso del arma de reglamento a un policía municipal con medidas de protección; aportado el 23 de noviembre de 2026) | Sin lugar |
