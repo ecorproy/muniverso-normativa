@@ -320,6 +320,48 @@ src = src.replace(e12, "    if kind == 'S1':\n        return cita_s1(p[1], p[2] 
 e13 = "        elif kind == 'T':\n            f = f_tca(p[1])"
 assert src.count(e13) == 1
 src = src.replace(e13, "        elif kind == 'S1':\n            f = f_s1(p[1])\n            if f:\n                raw = read(f)\n                res = ('cons', seg_considerandos(raw), norm(raw))\n" + e13)
+
+# tribunales laterales (penal, familia): [[J:TASP-2017-001529:considerando III]]
+jur_code = """
+JUR = {
+    'TASP': dict(org='Tribunal de Apelación de Sentencia Penal del II Circuito Judicial de San José', sig='TASP', pref='Sentencia TASP'),
+    'TF': dict(org='Tribunal de Familia', sig='TF', pref='Sentencia TF'),
+}
+first_j = set()
+
+
+def f_j(x):
+    t, num = x.split('-', 1)
+    f = f'{R}/Jurisprudencia penal y de familia (laterales)/{JUR[t]["pref"]} {num}.md'
+    return f if os.path.exists(f) else None
+
+
+def cita_j(x, loc):
+    f = f_j(x)
+    t, num = x.split('-', 1)
+    yy, n = num.split('-')
+    cod = f'{int(n)}-{yy}'
+    org = JUR[t]['org']
+    if not f:
+        errors.append(f'TRIBUNAL sin archivo: {x}')
+        return f'({org}, resolución N.° {cod}, {loc})'
+    d = meta(f)
+    y, mo, da = fdate(d['fecha'])
+    h = hora(d['hora'])
+    hs = f', de las {h} horas' if h else ''
+    exp = f' (expediente {d["expediente"]})' if d['expediente'] else ''
+    add_ref('J' + x, (org.lower(), y, mo, da, x), f'{org}. ({y}, {da} de {MES[mo]}). *Resolución N.° {cod}{hs}*{exp}. NexusPJ.')
+    if x not in first_j:
+        first_j.add(x)
+        base = f'{org} [{t}], resolución N.° {cod}, de las {h} horas del {da} de {MES[mo]} de {y}' if h else f'{org} [{t}], resolución N.° {cod}, del {da} de {MES[mo]} de {y}'
+    else:
+        base = f'{org}, resolución N.° {cod}'
+    return f'({base}, {loc})' if loc else f'({base})'
+
+"""
+src = src.replace(e11, jur_code + e11, 1)
+src = src.replace("    if kind == 'S1':\n        return cita_s1(", "    if kind == 'J':\n        return cita_j(p[1], p[2] if len(p) > 2 else '')\n    if kind == 'S1':\n        return cita_s1(", 1)
+src = src.replace("        elif kind == 'S1':\n            f = f_s1(p[1])\n", "        elif kind == 'J':\n            f = f_j(p[1])\n            if f:\n                raw = read(f)\n                res = ('cons', seg_considerandos(raw), norm(raw))\n        elif kind == 'S1':\n            f = f_s1(p[1])\n", 1)
 e14 = "(?!\\d)(?:\\s*(bis|ter)\\b)?\\s*[\\.\\-—–:º°o*]')"
 assert src.count(e14) == 1, src.count(e14)
 src = src.replace(e14, "(?!\\d)(?:[\\s*]*(bis|ter|qu[aá]ter|quinquies|sexies)\\b)?[\\s*]*[\\.\\-—–:º°o*]')")
@@ -426,6 +468,11 @@ def expand_corta(macro, larga):
         if k not in vistos:
             vistos.add(k); return larga
         return _par(p[1], abrev(loc))
+    if kind == 'J':
+        t, num = p[1].split('-', 1); yy, n = num.split('-'); cod = f'{int(n)}-{yy}'; k = 'J' + p[1]
+        if k not in vistos:
+            vistos.add(k); return larga
+        return _par(f'{t}, {cod}', abrev(loc))
     if kind == 'S1':
         yy, num = p[1].split('-'); cod = f'{num}-F-S1-{yy}'; k = 'S1' + p[1]
         if k not in vistos:

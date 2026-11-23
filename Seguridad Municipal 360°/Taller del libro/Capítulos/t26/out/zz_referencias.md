@@ -41,3 +41,9 @@ Procuraduría General de la República. (2010, 2 de noviembre). *Dictamen C-216-
 Procuraduría General de la República. (2019, 13 de diciembre). *Dictamen C-372-2019*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=21727&param2=0
 
 Procuraduría General de la República. (2025, 23 de enero). *Dictamen C-010-2025*.
+
+Sala Constitucional de la Corte Suprema de Justicia. (2019, 1 de noviembre). *Voto N.° 2019-021447, de las 9:20 horas* (expediente 19-018898-0007-CO). NexusPJ.
+
+Tribunal de Apelación de Sentencia Penal del II Circuito Judicial de San José. (2017, 18 de diciembre). *Resolución N.° 1529-2017, de las 15:20 horas* (expediente 16-001500-1283-PE). NexusPJ.
+
+Tribunal de Familia. (2020, 25 de febrero). *Resolución N.° 73-2020, de las 16:15 horas* (expediente 19-000850-1431-VD). NexusPJ.

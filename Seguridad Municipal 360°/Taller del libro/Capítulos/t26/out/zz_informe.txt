@@ -1,6 +1,7 @@
-CITAS TEXTUALES: 19 | OK: 19
+CITAS TEXTUALES: 23 | OK: 23
 
-UBICACIONES VERIFICADAS A MANO (0):
+UBICACIONES VERIFICADAS A MANO (1):
+  [t26.md] J:TASP-2017-001529:considerando III: "la labor preventiva que realiza la Fuerza Pública " (segmentador: ['RESULTANDO'])
 
 ERRORES (0):
 
