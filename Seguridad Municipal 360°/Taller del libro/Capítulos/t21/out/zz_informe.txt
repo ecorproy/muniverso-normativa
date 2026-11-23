@@ -1,0 +1,11 @@
+CITAS TEXTUALES: 15 | OK: 15
+
+UBICACIONES VERIFICADAS A MANO (1):
+  [t21.md] O:IGSMF:p. 51: "son administrados por los gobiernos locales, a los" (segmentador: ['52'])
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (1):
+  [t21.md] vocabulario «Integral»: …esa colaboración en un Sistema de Protección Integral formado por el Consejo Nacional de l…
