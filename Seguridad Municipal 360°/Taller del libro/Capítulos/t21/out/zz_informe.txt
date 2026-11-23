@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 15 | OK: 15
+CITAS TEXTUALES: 21 | OK: 21
 
 UBICACIONES VERIFICADAS A MANO (1):
   [t21.md] O:IGSMF:p. 51: "son administrados por los gobiernos locales, a los" (segmentador: ['52'])

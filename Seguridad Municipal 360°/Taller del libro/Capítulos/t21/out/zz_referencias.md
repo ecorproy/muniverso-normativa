@@ -18,6 +18,8 @@ Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la Repúblic
 
 Ley N.° 9047, *Ley de Regulación y Comercialización de bebidas con contenido alcohólico*. (2012). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=73058&param2=128922&param3=1
 
+Ley N.° 9220, *Crea la Red Nacional de Cuido y Desarrollo Infantil*. (2014). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=77044&param2=148296&param3=1
+
 Ley N.° 10476, *Prevención, detección temprana y respuesta de la violencia contra la niñez y adolescencia*. (2024). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=102133&param2=141076&param3=1
 
 Municipalidad de Alajuelita. (2022, 22 de junio). *Política de niñez y adolescencia para el cantón de Alajuelita 2019-2029*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=98459&param2=133925&param3=1
@@ -29,6 +31,18 @@ Municipalidad de Oreamuno. (2018, 12 de noviembre). *Reglamento para la instalac
 Municipalidad de San Pablo. (2010, 20 de enero). *Reglamento para el uso de parques y juegos infantiles*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=67689&param2=129376&param3=1
 
 Municipalidad de Tarrazú. (2025, 6 de agosto). *Política Cantonal de la Niñez y la Adolescencia de Tarrazú 2025-2035*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=105263&param2=147593&param3=1
+
+Procuraduría General de la República. (2018, 12 de abril). *Dictamen C-067-2018*.
+
+Procuraduría General de la República. (2020, 20 de febrero). *Dictamen C-062-2020*.
+
+Procuraduría General de la República. (2021, 25 de marzo). *Dictamen C-090-2021*.
+
+Procuraduría General de la República. (2021, 27 de julio). *Dictamen C-214-2021*.
+
+Procuraduría General de la República. (2022, 31 de octubre). *Dictamen C-236-2022*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23965&param2=0
+
+Procuraduría General de la República. (2026, 27 de julio). *Dictamen C-124-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25518&param2=0
 
 Sala Constitucional de la Corte Suprema de Justicia. (2025, 28 de marzo). *Voto N.° 2025-009557, de las 9:15 horas* (expediente 25-005433-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1284936
 
