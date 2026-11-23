@@ -14,7 +14,7 @@ M="$BASE/repo/main"
 
 echo "== programas"
 mkdir -p "$BASE/mis_scripts"
-cp "$T"/scripts/*.py "$BASE/mis_scripts/"
+cp "$T"/scripts/*.py "$T"/scripts/*.sh "$BASE/mis_scripts/"
 ls "$BASE/mis_scripts" | wc -l | sed 's/^/  archivos: /'
 
 echo "== bitácora y notas"
@@ -25,6 +25,7 @@ cp "$T"/notas/* "$BASE/libro/"
 echo "== fuentes que el verificador busca en /home/claude/libro/fuentes"
 cp "$T"/fuentes/* "$BASE/libro/fuentes/"
 cp "$M/Leyes y decretos nacionales/Ambiental/Ley 10939.md" "$BASE/libro/fuentes/"
+cp "$M/Leyes y decretos nacionales/Municipal/Ley 10594.md" "$BASE/libro/fuentes/"
 cp "$M/Leyes y decretos nacionales/Ambiental/Decreto Ejecutivo 42075.md" "$BASE/libro/fuentes/"
 cp "$M/Leyes y decretos nacionales/Municipal/Reglamento de Construcciones INVU (2018).md" "$BASE/libro/fuentes/"
 cp "$M/Jurisprudencia de casación (Sala Primera)/Municipal/"Sentencia\ Sala\ Primera\ *.md "$BASE/libro/fuentes/sala1/"

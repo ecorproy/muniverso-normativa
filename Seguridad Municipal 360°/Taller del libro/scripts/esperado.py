@@ -3,7 +3,7 @@
 # y lo compara con el sha256 y el tamaño del blob del documento.
 import sys, hashlib
 t = open(sys.argv[1], encoding='utf-8').read()
-e = t.replace('[', '\\[').replace(']', '\\]')
+e = t.replace('[', '\\[').replace(']', '\\]').replace('_', '\\_')  # el exportador escapa corchetes y guiones bajos
 b = e.encode('utf-8'); h = hashlib.sha256(b).hexdigest()
 open(sys.argv[1].replace('.md', '') + '_esperado.md', 'wb').write(b)
 print('bytes esperados:', len(b), '| bytes documento:', sys.argv[3], '| diferencia:', len(b) - int(sys.argv[3]))

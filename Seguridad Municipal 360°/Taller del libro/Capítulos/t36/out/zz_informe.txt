@@ -1,9 +1,14 @@
-CITAS TEXTUALES: 29 | OK: 29
+CITAS TEXTUALES: 69 | OK: 66
+  [t36.md] 10p | D:C-249-2020:respuesta a la pregunta c | LITERAL (sin localización que cotejar) | "una exención genérica subjetiva de todo tributo y patentes m"
+  [t36.md] 9p | T:2015-000082:voto salvado | LITERAL (sin localización que cotejar) | "escapa del poder tributario de la Municipalidad de Tibás"
+  [t36.md] 12p | L:6587:transitorio 1 | LITERAL (sin localización que cotejar) | "la tarifa más baja, existente en la respectiva ley de patent"
 
-UBICACIONES VERIFICADAS A MANO (3):
+UBICACIONES VERIFICADAS A MANO (5):
   [t36.md] D:C-029-2023:apartado III: "dejó en manos de las municipalidades la aplicación" (segmentador: [])
-  [t36.md] D:C-029-2023:apartado III: "por motivos de conveniencia socio-económica en el " (segmentador: [])
   [t36.md] D:C-029-2023:apartado III: "ciertas desigualdades favorables a las personas o " (segmentador: [])
+  [t36.md] D:C-251-2020:apartado II: "es el ejercicio de actividades lucrativas organiza" (segmentador: ['III'])
+  [t36.md] D:C-355-2015:apartado II: "la dirección del uso de sus ganancias no varía la " (segmentador: ['I'])
+  [t36.md] D:C-298-2008:apartado III: "no sea financiado por medio de los tributos munici" (segmentador: ['VII'])
 
 ERRORES (0):
 
