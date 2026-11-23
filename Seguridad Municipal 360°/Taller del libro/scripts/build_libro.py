@@ -233,6 +233,9 @@ CGR = {
     '16050': dict(cita='oficio N.° 16050 [DFOE-LOC-1431], 2024', file='/home/claude/libro/fuentes/of16050.txt',
                   ref='Contraloría General de la República. (2024, 8 de octubre). *Oficio N.° 16050 (DFOE-LOC-1431). Emisión de criterio sobre el uso de recursos provenientes de la Ley sobre la Zona Marítimo Terrestre, N.° 6043*.',
                   key=(2024, 10, 8)),
+    '10008': dict(cita='oficio N.° 10008 [DFOE-LOC-1351], 2023', file='/home/claude/libro/fuentes/of10008.txt',
+                  ref='Contraloría General de la República. (2023, 28 de julio). *Oficio N.° 10008 (DFOE-LOC-1351). Emisión de criterio solicitado por la alcaldesa de la Municipalidad de Puriscal respecto a la posibilidad de comprar un terreno para inversión en tractos y su inclusión en presupuestos ordinarios*.',
+                  key=(2023, 7, 28)),
     '01840': dict(cita='oficio N.° 01840 [DFOE-LOC-0259], 2026', file='/home/claude/libro/fuentes/of01840.txt',
                   ref='Contraloría General de la República. (2026, 16 de febrero). *Oficio N.° 01840 (DFOE-LOC-0259). Emisión de criterio sobre los recursos contenidos en el inciso b) del artículo 59 de la Ley sobre la Zona Marítimo Terrestre*.',
                   key=(2026, 2, 16)),
@@ -555,6 +558,8 @@ RM = {
     'launion-opamdis': 'Cartago/La Unión/Reglamento para regular el funcionamiento y operación de la Oficina Municipal de la Persona Adulta Mayor y de (2024).md',
     'cartago-centrodiurno': 'Cartago/Cartago/Reglamento Interno para el ingreso y el uso del Centro Diurno de Atención a la persona Adulta Mayor (2015).md',
     'sanisidro-genero': 'Heredia/San Isidro de Heredia/Política de Igualdad y Equidad de Género 2025-2035 (2025).md',
+    'moravia-policia': 'San José/Moravia/Reglamento del Cuerpo de la Policía Municipal Moravia (2014).md',
+    'pz-seguridad': 'San José/Pérez Zeledón/Reglamento para la regulación de las funciones y servicios del subproceso de control y seguridad ciudadana de (2017).md',
     'desamparados-ninez': 'San José/Desamparados/Política cantonal de niñez y adolescencias del cantón de Desamparados, y su plan de acción interinstitucional (2023).md',
     'guatuso-raos': 'Alajuela/Guatuso/Reglamento Autónomo de Organización y Servicios de la Municipalidad del Cantón de Guatuso (2018).md',
     'grecia-opamdis': 'Alajuela/Grecia/Reglamento para la oficina municipal de la persona adulta mayor y de la persona con discapacidad de Grecia (2025).md',
@@ -615,6 +620,42 @@ def cita_s1(x, loc):
         base = f'Sala Primera, resolución N.° {cod}, de las {h} horas del {da} de {MES[mo]} de {y}' if h else f'Sala Primera, resolución N.° {cod}, del {da} de {MES[mo]} de {y}'
     else:
         base = f'Sala Primera, resolución N.° {cod}'
+    return f'({base}, {loc})' if loc else f'({base})'
+
+
+JUR = {
+    'TASP': dict(org='Tribunal de Apelación de Sentencia Penal del II Circuito Judicial de San José', sig='TASP', pref='Sentencia TASP'),
+    'TF': dict(org='Tribunal de Familia', sig='TF', pref='Sentencia TF'),
+}
+first_j = set()
+
+
+def f_j(x):
+    t, num = x.split('-', 1)
+    f = f'{R}/Jurisprudencia penal y de familia (laterales)/{JUR[t]["pref"]} {num}.md'
+    return f if os.path.exists(f) else None
+
+
+def cita_j(x, loc):
+    f = f_j(x)
+    t, num = x.split('-', 1)
+    yy, n = num.split('-')
+    cod = f'{int(n)}-{yy}'
+    org = JUR[t]['org']
+    if not f:
+        errors.append(f'TRIBUNAL sin archivo: {x}')
+        return f'({org}, resolución N.° {cod}, {loc})'
+    d = meta(f)
+    y, mo, da = fdate(d['fecha'])
+    h = hora(d['hora'])
+    hs = f', de las {h} horas' if h else ''
+    exp = f' (expediente {d["expediente"]})' if d['expediente'] else ''
+    add_ref('J' + x, (org.lower(), y, mo, da, x), f'{org}. ({y}, {da} de {MES[mo]}). *Resolución N.° {cod}{hs}*{exp}. NexusPJ.')
+    if x not in first_j:
+        first_j.add(x)
+        base = f'{org} [{t}], resolución N.° {cod}, de las {h} horas del {da} de {MES[mo]} de {y}' if h else f'{org} [{t}], resolución N.° {cod}, del {da} de {MES[mo]} de {y}'
+    else:
+        base = f'{org}, resolución N.° {cod}'
     return f'({base}, {loc})' if loc else f'({base})'
 
 
@@ -696,6 +737,11 @@ def expand_corta(macro, larga):
         if k not in vistos:
             vistos.add(k); return larga
         return _par(p[1], abrev(loc))
+    if kind == 'J':
+        t, num = p[1].split('-', 1); yy, n = num.split('-'); cod = f'{int(n)}-{yy}'; k = 'J' + p[1]
+        if k not in vistos:
+            vistos.add(k); return larga
+        return _par(f'{t}, {cod}', abrev(loc))
     if kind == 'S1':
         yy, num = p[1].split('-'); cod = f'{num}-F-S1-{yy}'; k = 'S1' + p[1]
         if k not in vistos:
@@ -766,6 +812,8 @@ def expand_larga(macro):
         return cita_vt(p[1], p[2], p[3])
     if kind == 'D':
         return cita_pgr(p[1], p[2] if len(p) > 2 else '')
+    if kind == 'J':
+        return cita_j(p[1], p[2] if len(p) > 2 else '')
     if kind == 'S1':
         return cita_s1(p[1], p[2] if len(p) > 2 else '')
     if kind == 'T':
@@ -843,6 +891,11 @@ def source_units(macro=None, manual=None):
                 concl = raw[i[-1]:] if i else ''
                 secs = [(lab, txt) for lab, txt in seg_considerandos(raw) if lab != 'POR TANTO']
                 res = ('pgr', [('conclusión', norm(concl))] + secs, norm(raw))
+        elif kind == 'J':
+            f = f_j(p[1])
+            if f:
+                raw = read(f)
+                res = ('cons', seg_considerandos(raw), norm(raw))
         elif kind == 'S1':
             f = f_s1(p[1])
             if f:
