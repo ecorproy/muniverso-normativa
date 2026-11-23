@@ -117,7 +117,7 @@ src = src[:j] + '\n' + extra + src[j:]
 # leyes que no están en el repositorio y se leen del diario oficial
 e1 = "ESPECIALES = {'7135': '/home/claude/repo/main/Leyes y decretos nacionales/Constitucional/Ley Jurisdicción Constitucional.md'}"
 assert src.count(e1) == 1
-src = src.replace(e1, e1 + "\nESPECIALES['10939'] = '/home/claude/libro/fuentes/Ley 10939.md'\nESPECIALES['8799'] = '/home/claude/libro/fuentes/Ley 8799.md'\nESPECIALES['9458'] = '/home/claude/libro/fuentes/Ley 9458.md'\nESPECIALES['10594'] = '/home/claude/libro/fuentes/Ley 10594.md'\nFUENTE_LEY = {'10939': 'La Gaceta N.° 91, Alcance N.° 59, 20 de mayo de 2026.'}")
+src = src.replace(e1, e1 + "\nESPECIALES['10939'] = '/home/claude/libro/fuentes/Ley 10939.md'\nESPECIALES['8799'] = '/home/claude/libro/fuentes/Ley 8799.md'\nESPECIALES['9458'] = '/home/claude/libro/fuentes/Ley 9458.md'\nESPECIALES['10594'] = '/home/claude/libro/fuentes/Ley 10594.md'\nESPECIALES['8661'] = '/home/claude/libro/fuentes/Ley 8661.md'\nESPECIALES['7948'] = '/home/claude/libro/fuentes/Ley 7948.md'\nFUENTE_LEY = {'10939': 'La Gaceta N.° 91, Alcance N.° 59, 20 de mayo de 2026.'}")
 e2 = "Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.{url}')\n    return y"
 assert src.count(e2) == 1
 src = src.replace(e2, "Asamblea Legislativa de la República de Costa Rica. {FUENTE_LEY.get(n, 'Sistema Costarricense de Información Jurídica.')}{url}')\n    return y")
@@ -202,6 +202,12 @@ RM = {
     'mora-redcuido-am': 'San José/Mora/Reglamento del programa red de atención progresiva para el cuido integral de las personas adultas mayores en e (2022).md',
     'sanjose-opamdis': 'San José/San José/Reglamento para el funcionamiento y operación de la Oficina para la Persona Adulta Mayor y la Persona con Disc (2024).md',
     'golfito-10359': 'Puntarenas/Golfito/Reglamento municipal de Golfito apoyo municipal para adultos mayores en pobreza, ley N° 10359 (2023).md',
+    'heredia-comad': 'Heredia/Heredia/Reglamento de la Comisión de Accesibilidad y Discapacidad (COMAD) (2011).md',
+    'escazu-transporte': 'San José/Escazú/Reglamento para regular el otorgamiento y funcionamiento del servicio municipal de transporte para personas co (2025).md',
+    'moravia-opdis': 'San José/Moravia/Reglamento para regular el funcionamiento y operación de la Oficina de las personas con Discapacidad Municipal (2023).md',
+    'launion-peatonal': 'Cartago/La Unión/Reglamento de movilidad peatonal del Cantón de La Unión (2025).md',
+    'oreamuno-atencion': 'Cartago/Oreamuno/Manual de atención y servicio al usuario de la Municipalidad de Oreamuno (2019).md',
+    'paraiso-comad': 'Cartago/Paraíso/Reglamento de la comisión de accesibilidad y discapacidad COMAD de la Municipalidad de Paraíso (2021).md',
     'desamparados-ninez': 'San José/Desamparados/Política cantonal de niñez y adolescencias del cantón de Desamparados, y su plan de acción interinstitucional (2023).md',
     'guatuso-raos': 'Alajuela/Guatuso/Reglamento Autónomo de Organización y Servicios de la Municipalidad del Cantón de Guatuso (2018).md',
     'grecia-opamdis': 'Alajuela/Grecia/Reglamento para la oficina municipal de la persona adulta mayor y de la persona con discapacidad de Grecia (2025).md',

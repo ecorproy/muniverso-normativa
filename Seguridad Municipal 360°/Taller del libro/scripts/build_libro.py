@@ -69,6 +69,9 @@ ESPECIALES = {'7135': '/home/claude/repo/main/Leyes y decretos nacionales/Consti
 ESPECIALES['10939'] = '/home/claude/libro/fuentes/Ley 10939.md'
 ESPECIALES['8799'] = '/home/claude/libro/fuentes/Ley 8799.md'
 ESPECIALES['9458'] = '/home/claude/libro/fuentes/Ley 9458.md'
+ESPECIALES['10594'] = '/home/claude/libro/fuentes/Ley 10594.md'
+ESPECIALES['8661'] = '/home/claude/libro/fuentes/Ley 8661.md'
+ESPECIALES['7948'] = '/home/claude/libro/fuentes/Ley 7948.md'
 FUENTE_LEY = {'10939': 'La Gaceta N.° 91, Alcance N.° 59, 20 de mayo de 2026.'}
 
 
@@ -149,6 +152,36 @@ CGR = {
                      file='/home/claude/cgr/Resolución 8072024000000797-2024 (recurso de apelación) CECUDI de Palmares.txt',
                      ref='Contraloría General de la República. (2024, 31 de mayo). *Resolución N.° R-DCP-SICOP-00770-2024 (documento N.° 8072024000000797). Recurso de apelación en la licitación mayor N.° 2023LY-000001-0002500001, Municipalidad de Palmares*. https://cgrfiles.cgr.go.cr/publico/docs_cgr/2024/SIGYD_D/SIGYD_D_2024011182.pdf',
                      key=(2024, 5, 31)),
+    'REDCUDI': dict(cita='informe N.° DFOE-BIS-IAD-00010-2023, 2023', file='/home/claude/repo/360/Seguridad Municipal 360°/Criterios CGR/Informe DFOE-BIS-IAD-00010-2023 Gobernanza y calidad de la REDCUDI - texto extraído.txt',
+                  ref='Contraloría General de la República. (2023, 23 de octubre). *Informe de auditoría de carácter especial sobre la gobernanza y estándares de calidad de los servicios de cuido y desarrollo infantil de la REDCUDI* (informe N.° DFOE-BIS-IAD-00010-2023).',
+                  key=(2023, 10, 23)),
+    'R-DCP-SICOP-00770-2024': dict(cita='resolución N.° R-DCP-SICOP-00770-2024, 2024', file='/home/claude/repo/360/Seguridad Municipal 360°/Criterios CGR/Resolución 8072024000000797-2024 (recurso de apelación) CECUDI de Palmares - texto extraído.txt',
+                  ref='Contraloría General de la República. (2024, 31 de mayo). *Resolución N.° R-DCP-SICOP-00770-2024. Recurso de apelación contra la declaratoria de desierta de la licitación mayor 2023LY-000001-0002500001 de la Municipalidad de Palmares (operador y administrador del CECUDI)*.',
+                  key=(2024, 5, 31)),
+    '07359': dict(cita='oficio N.° 07359 [DFOE-DL-0517], 2017', file='/home/claude/libro/fuentes/of07359.txt',
+                  ref='Contraloría General de la República. (2017, 29 de junio). *Oficio N.° 07359 (DFOE-DL-0517). Emisión de criterio respecto a las donaciones en especie que realizan las Municipalidades a las Asociaciones Comunales, para el desarrollo de obras*.',
+                  key=(2017, 6, 29)),
+    '16049': dict(cita='oficio N.° 16049 [DFOE-LOC-1430], 2024', file='/home/claude/libro/fuentes/of16049.txt',
+                  ref='Contraloría General de la República. (2024, 8 de octubre). *Oficio N.° 16049 (DFOE-LOC-1430). Opinión sobre el texto dictaminado Reforma del artículo 71 del Código Municipal, Ley n.° 7794, del 30 de abril de 1998 y sus reformas, correspondiente al expediente legislativo n.° 23.777*.',
+                  key=(2024, 10, 8)),
+    '21709': dict(cita='oficio N.° 21709 [DJ-2194], 2025', file='/home/claude/libro/fuentes/of21709.txt',
+                  ref='Contraloría General de la República. (2025, 3 de noviembre). *Oficio N.° 21709 (DJ-2194). Solicitud de criterio relacionado con el proyecto de Ley n° 25.082 "Ley de autorización a la Municipalidad de Grecia para donar un inmueble de su propiedad a la Asociación Cruz Roja Costarricense"*.',
+                  key=(2025, 11, 3)),
+    '03933': dict(cita='oficio N.° 03933 [DJ-0647-2026], 2026', file='/home/claude/libro/fuentes/of03933.txt',
+                  ref='Contraloría General de la República. (2026, 8 de abril). *Oficio N.° 03933 (DJ-0647-2026). Se atiende consulta sobre el uso de instalaciones municipales para estacionamiento de vehículos particulares de los funcionarios*.',
+                  key=(2026, 4, 8)),
+    '07545': dict(cita='oficio N.° 07545 [DCA-2092], 2021', file='/home/claude/libro/fuentes/of07545.txt',
+                  ref='Contraloría General de la República. (2021, 25 de mayo). *Oficio N.° 07545 (DCA-2092). Se atiende solicitud de criterio sobre la procedencia de permiso de uso*.',
+                  key=(2021, 5, 25)),
+    '03078': dict(cita='oficio N.° 03078 [DCA-0690], 2022', file='/home/claude/libro/fuentes/of03078.txt',
+                  ref='Contraloría General de la República. (2022, 24 de febrero). *Oficio N.° 03078 (DCA-0690). Se emite criterio sobre la posibilidad de que una Municipalidad realice mediante un convenio intermunicipal con otra municipalidad la adquisición de un bien o un servicio, pagando una contraprestación económica por ese servicio o bien, con esa municipalidad*.',
+                  key=(2022, 2, 24)),
+    '15562': dict(cita='oficio N.° 15562 [DCA-2950], 2016', file='/home/claude/libro/fuentes/of15562.txt',
+                  ref='Contraloría General de la República. (2016, 28 de noviembre). *Oficio N.° 15562 (DCA-2950). Se da respuesta a la solicitud de criterio sobre la facultad del Ministerio de Economía, Industria y Comercio para suscribir convenios con entes de derecho público o privado, con el fin de que se encarguen de la logística de eventos donde se reciban recursos públicos o aportes económicos*.',
+                  key=(2016, 11, 28)),
+    'R-DC-00080-2024': dict(cita='resolución N.° R-DC-00080-2024, 2024', file='/home/claude/libro/fuentes/rdc00080-2024.txt',
+                  ref='Contraloría General de la República. (2024, 20 de agosto). *Resolución N.° R-DC-00080-2024. Lineamientos para la declaración jurada sobre la situación patrimonial de sujetos privados que administren o custodien fondos y actividades públicas*.',
+                  key=(2024, 8, 20)),
     '14467': dict(cita='oficio N.° 14467 [DJ-1340], 2018', file='/home/claude/libro/fuentes/of14467.txt',
                   ref='Contraloría General de la República. (2018, 9 de octubre). *Oficio N.° 14467 (DJ-1340). Consulta relacionada con los fondos de la Ley n.º 6282 del 14 de agosto 1979*.',
                   key=(2018, 10, 9)),
@@ -489,9 +522,36 @@ RM = {
     'puntarenas-ruedas': 'Puntarenas/Puntarenas/Reglamento para regular el comercio sobre ruedas en el Cantón Central de la Provincia de Puntarenas (2025).md',
     'sarchi-residencias': 'Alajuela/Sarchí/Reglamento a la aplicación de la Ley N.° 10594 que reforma los artículos 88 del Código Municipal y 29 de la Le (2025).md',
     'moravia-ruedas': 'San José/Moravia/Reglamento para regular el otorgamiento de licencias comerciales para ejercer el comercio sobre ruedas en el c (2025).md',
+    'belen-cecudi': 'Heredia/Belén/Reglamento para regular el funcionamiento y operación de los centros de cuido y desarrollo infantil gestionado (2025).md',
+    'escazu-cecudi': 'San José/Escazú/Reglamento para regular el funcionamiento y operación de los Centros de Cuido y Desarrollo Infantil CECUDI del (2023).md',
+    'parrita-cecudi': 'Puntarenas/Parrita/Reglamento para regular el funcionamiento y operación del centro de cuido y desarrollo infantil CECUDI del Can (2014).md',
     'escazu-ayudas': 'San José/Escazú/Reglamento para otorgar ayudas temporales a vecinos del Cantón de Escazú en situación transitoria de desgracia (2025).md',
     'poas-ayudas': 'Alajuela/Poás/Reglamento para ayudas temporales y subvenciones del Cantón de Poás (2025).md',
     'pococi-becas': 'Limón/Pococí/Reglamento para el otorgamiento de becas, donaciones, subvenciones y ayudas temporales ante estado de desgraci (2025).md',
+    'tarrazu-ninez': 'San José/Tarrazú/Política Cantonal de la Niñez y la Adolescencia de Tarrazú 2025-2035 (2025).md',
+    'alajuelita-ninez': 'San José/Alajuelita/Política de niñez y adolescencia para el cantón de Alajuelita 2019-2029 (2022).md',
+    'sanpablo-parques': 'Heredia/San Pablo de Heredia/Reglamento para el uso de parques y juegos infantiles (2010).md',
+    'oreamuno-juegos': 'Cartago/Oreamuno/Reglamento para la instalación de salas de juegos y máquinas pinball en el Cantón de Oreamuno (2018).md',
+    'escazu-ccpj': 'San José/Escazú/Reglamento para la conformación, organización y funcionamiento del Comité Cantonal de la Persona Joven de Esca (2024).md',
+    'cervantes-ccpj': 'Cartago/Concejo Municipal de Distrito de Cervantes/Reglamento del Comité de la Persona Joven de Cervantes (2026).md',
+    'naranjo-parques': 'Alajuela/Naranjo/Reglamento sobre la Protección, Uso y Mantenimiento de Parques y Espacios Públicos de Competencia Municipal (2009).md',
+    'naranjo-opamdis': 'Alajuela/Naranjo/Reglamento interno de la oficina municipal de la persona adulta mayor y de la persona con discapacidad de la M (2025).md',
+    'escazu-legado': 'San José/Escazú/Reglamento General Programa Municipal para la persona adulta mayor Legado de Alegría (2026).md',
+    'cartago-subsidios-am': 'Cartago/Cartago/Reglamento para otorgar subsidios a personas adultas mayores en condición de riesgo social con fondos municipa (2026).md',
+    'sarchi-10359': 'Alajuela/Sarchí/Reglamento para la aplicación de la Ley N° 10359 _Apoyo municipal para adultos mayores en pobreza_ y para la condonación administrativa de obligacione (2025).md',
+    'coronado-10359': 'San José/Vázquez de Coronado/Reglamento a la Ley N° 10359 Apoyo Municipal para adultos mayores en pobreza de la Municipalidad de Vázquez de (2025).md',
+    'curridabat-10359': 'San José/Curridabat/Reglamento apoyo municipal para adultos mayores en pobreza de la Municipalidad de Curridabat (2026).md',
+    'santacruz-10359': 'Guanacaste/Santa Cruz/Plan de condonación de conformidad con los parámetros dispuestos por la Ley 10359 apoyo municipal para adultos mayores (2023).md',
+    'quepos-comudam': 'Puntarenas/Quepos/Reglamento para la Comisión Municipal de Discapacidad y Adulto Mayor (COMUDAM) de la Municipalidad de Quepos (2025).md',
+    'mora-redcuido-am': 'San José/Mora/Reglamento del programa red de atención progresiva para el cuido integral de las personas adultas mayores en e (2022).md',
+    'sanjose-opamdis': 'San José/San José/Reglamento para el funcionamiento y operación de la Oficina para la Persona Adulta Mayor y la Persona con Disc (2024).md',
+    'golfito-10359': 'Puntarenas/Golfito/Reglamento municipal de Golfito apoyo municipal para adultos mayores en pobreza, ley N° 10359 (2023).md',
+    'heredia-comad': 'Heredia/Heredia/Reglamento de la Comisión de Accesibilidad y Discapacidad (COMAD) (2011).md',
+    'escazu-transporte': 'San José/Escazú/Reglamento para regular el otorgamiento y funcionamiento del servicio municipal de transporte para personas co (2025).md',
+    'moravia-opdis': 'San José/Moravia/Reglamento para regular el funcionamiento y operación de la Oficina de las personas con Discapacidad Municipal (2023).md',
+    'launion-peatonal': 'Cartago/La Unión/Reglamento de movilidad peatonal del Cantón de La Unión (2025).md',
+    'oreamuno-atencion': 'Cartago/Oreamuno/Manual de atención y servicio al usuario de la Municipalidad de Oreamuno (2019).md',
+    'paraiso-comad': 'Cartago/Paraíso/Reglamento de la comisión de accesibilidad y discapacidad COMAD de la Municipalidad de Paraíso (2021).md',
     'desamparados-ninez': 'San José/Desamparados/Política cantonal de niñez y adolescencias del cantón de Desamparados, y su plan de acción interinstitucional (2023).md',
     'guatuso-raos': 'Alajuela/Guatuso/Reglamento Autónomo de Organización y Servicios de la Municipalidad del Cantón de Guatuso (2018).md',
     'grecia-opamdis': 'Alajuela/Grecia/Reglamento para la oficina municipal de la persona adulta mayor y de la persona con discapacidad de Grecia (2025).md',
@@ -555,7 +615,135 @@ def cita_s1(x, loc):
     return f'({base}, {loc})' if loc else f'({base})'
 
 
-def expand(macro):
+
+# ---------- forma corta de las citas: CITA=corta ----------
+# Primera mención por capítulo: cita completa (APA 7) con la sigla entre corchetes si la fuente la tiene.
+# Menciones siguientes: forma corta. Sin CITA=corta, el verificador produce la forma larga de siempre.
+CORTA = os.environ.get('CITA', '').lower() == 'corta'
+SIGLAS = {'CP': 'CP', '7794': 'CM', '6227': 'LGAP', '30': 'CC', '2': 'CT', '7135': 'LJC', '4755': 'CNPT',
+          '8508': 'CPCA', '4240': 'LPU', '5395': 'LGS', '7739': 'CNA', '9609': 'CPA', '9342': 'CPC',
+          '7554': 'LOA', '9986': 'LGCP', '4573': 'CPen'}
+MANUAL_CORTA = {
+    'Consejo para la Promoción de la Competitividad, 2026': (
+        'Consejo para la Promoción de la Competitividad, Índice de Competitividad Nacional [ICN], 2026', 'ICN'),
+}
+vistos = set()
+
+
+def abrev(loc):
+    s = loc
+    for a, b in [(r'\bconsiderandos\b', 'cons.'), (r'\bconsiderando\b', 'cons.'), (r'\bapartados\b', 'aps.'),
+                 (r'\bapartado\b', 'ap.'), (r'\bconclusiones\b', 'concls.'), (r'\bconclusión\b', 'concl.'),
+                 (r'\bresultandos\b', 'result.'), (r'\bresultando\b', 'result.'), (r'\bartículos\b', 'arts.'),
+                 (r'\bartículo\b', 'art.')]:
+        s = re.sub(a, b, s)
+    return s
+
+
+def _par(base, loc):
+    return f'({base}, {loc})' if loc else f'({base})'
+
+
+def _cgr_nombre():
+    if 'CGR' in vistos:
+        return 'CGR'
+    vistos.add('CGR')
+    return 'Contraloría General de la República [CGR]'
+
+
+def expand_corta(macro, larga):
+    p = [x.strip() for x in macro.replace('!', '').split(':')]
+    kind = p[0]
+    loc = p[2] if len(p) > 2 else ''
+    if kind == 'CP':
+        loc = p[1] if len(p) > 1 else ''
+        if 'CP' not in vistos:
+            vistos.add('CP')
+            return _par('Constitución Política de la República de Costa Rica [CP], 1949', loc)
+        return _par('CP', abrev(loc))
+    if kind == 'L':
+        n = p[1]; sig = SIGLAS.get(n); k = 'L' + n
+        if k not in vistos:
+            vistos.add(k)
+            if not sig:
+                return larga
+            m = re.match(r'\(Ley N\.° \S+, ([^,]+), ', larga + ', ')
+            y = m.group(1).rstrip(')') if m else ''
+            return _par(f'Ley N.° {n} [{sig}], {y}', loc)
+        return _par(sig or f'Ley {n}', abrev(loc))
+    if kind == 'DE':
+        k = 'DE' + p[1]
+        if k not in vistos:
+            vistos.add(k); return larga
+        return _par(f'Decreto Ejecutivo {p[1]}', abrev(loc))
+    if kind == 'RM':
+        return larga
+    if kind == 'V':
+        k = 'V' + p[1]
+        if k not in vistos:
+            vistos.add(k); return larga
+        return _par(f'voto {p[1]}', abrev(loc))
+    if kind == 'VT':
+        k = 'V' + p[2]
+        if k not in vistos:
+            vistos.add(k); return larga
+        return f'(voto {p[1]}, transcrito en el voto {p[2]}, {abrev(p[3])})'
+    if kind == 'D':
+        k = 'D' + p[1]
+        if k not in vistos:
+            vistos.add(k); return larga
+        return _par(p[1], abrev(loc))
+    if kind == 'S1':
+        yy, num = p[1].split('-'); cod = f'{num}-F-S1-{yy}'; k = 'S1' + p[1]
+        if k not in vistos:
+            vistos.add(k); return larga
+        return _par(f'Sala Primera, {cod}', abrev(loc))
+    if kind == 'T':
+        k = 'T' + p[1]
+        m = re.match(r'\(Tribunal Contencioso Administrativo(?:, Sección (\w+))?, resolución N\.° (\S+?)[,)]', larga)
+        sec = m.group(1) if m else None; num = m.group(2) if m else p[1]
+        sig = f'TCA {sec}' if sec else 'TCA'
+        if k not in vistos:
+            vistos.add(k)
+            org = f'Tribunal Contencioso Administrativo, Sección {sec}' if sec else 'Tribunal Contencioso Administrativo'
+            return _par(f'{org} [{sig}], resolución N.° {num}', loc)
+        return _par(f'{sig}, {num}', abrev(loc))
+    if kind == 'O':
+        c = p[1]; k = 'O' + c
+        if c in ('IGSM', 'IGSMF'):
+            if k not in vistos:
+                vistos.add(k)
+                nom = _cgr_nombre()
+                if c == 'IGSM':
+                    vistos.add('IGSM-sigla')
+                    return _par(f'{nom}, Índice de Gestión de Servicios Municipales 2025 [IGSM], informe N.° DFOE-LOC-SGP-00002-2025, 2025', loc)
+                t = 'fichas de indicadores del IGSM 2025' if 'IGSM-sigla' in vistos else 'fichas de indicadores del Índice de Gestión de Servicios Municipales 2025'
+                vistos.add('IGSM-sigla')
+                return _par(f'{nom}, {t} [IGSM, fichas], 2025', loc)
+            return _par('IGSM' if c == 'IGSM' else 'IGSM, fichas', loc)
+        cita = CGR[c]['cita']
+        if k not in vistos:
+            vistos.add(k)
+            return _par(f'{_cgr_nombre()}, {cita}', loc)
+        m = re.match(r'(oficio|informe|resolución) N\.° (\S+)', cita)
+        doc = f'{m.group(1)} {m.group(2).rstrip(",")}' if m else cita
+        return _par(f'CGR, {doc}', abrev(loc))
+    return larga
+
+
+def manual_corta(text):
+    for key, (primera, sig) in MANUAL_CORTA.items():
+        def rep(mm):
+            resto = mm.group(1)
+            if key not in vistos:
+                vistos.add(key)
+                return f'({primera}{resto})'
+            return f'({sig}{resto})'
+        text = re.sub(r'\(' + re.escape(key) + r'((?:, [^()]*)?)\)', rep, text)
+    return text
+
+
+def expand_larga(macro):
     macro = macro.replace('!', '')
     p = [x.strip() for x in macro.split(':')]
     kind = p[0]
@@ -583,6 +771,26 @@ def expand(macro):
         return cita_cgr(p[1], p[2] if len(p) > 2 else '')
     errors.append(f'MACRO desconocida: {macro}')
     return f'[[{macro}]]'
+
+
+
+def expand(macro):
+    partes = [x for x in macro.split('|') if x.strip()]
+    if len(partes) > 1:
+        # dentro de un grupo, el autor que se repite en la fuente siguiente no se vuelve a escribir
+        piezas, prev = [], None
+        for x in partes:
+            s = expand(x)[1:-1]
+            aut = s.split(', ')[0]
+            if prev and aut == prev and len(s.split(', ')) > 2:
+                s = s[len(aut) + 2:]
+            prev = aut
+            piezas.append(s)
+        return '(' + '; '.join(piezas) + ')'
+    larga = expand_larga(macro)
+    if not CORTA or larga.startswith('[['):
+        return larga
+    return expand_corta(macro, larga)
 
 
 # ---------- cotejo ----------
@@ -727,6 +935,9 @@ def process(fname, text):
         is_block = line.startswith('>')
         for m in QUOTE_RE.finditer(line):
             q, sp, macro, paren = m.group(1), m.group(2), m.group(3), m.group(4)
+            if macro and '|' in macro:
+                errors.append(f'[{fname}] CITA TEXTUAL con macro agrupada: "{q[:50]}"')
+                continue
             if macro:
                 p = [x.strip() for x in macro.split(':')]
                 loc = p[-1] if len(p) > 2 or p[0] == 'CP' else ''
@@ -752,8 +963,12 @@ def process(fname, text):
         if '(' + k in text or k in text:
             kk = v.get('alias', k)
             add_ref('M' + kk, (re.sub(r'[^a-z]', '', unicodedata.normalize('NFD', kk.lower())),), v['ref'])
-    # 3) expansión
+    # 3) expansión (en forma corta, la primera mención se cuenta por capítulo)
+    if CORTA:
+        vistos.clear(); first_v.clear(); first_s1.clear()
     out = re.sub(MACRO_RE, lambda m: expand(m.group(1)), text)
+    if CORTA:
+        out = manual_corta(out)
     # 4) estilo
     body = re.sub(r'"[^"]*"', '""', out)
     for pat, msg in [(r'[—–]', 'raya'), (r'[«»“”]', 'comillas no rectas'), (r'(?m)^\s*[-*•]\s', 'viñeta'),
