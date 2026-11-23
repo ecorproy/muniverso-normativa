@@ -1,0 +1,12 @@
+CITAS TEXTUALES: 12 | OK: 9
+  [t02.md] 21p | RM:desamparados-ninez:eje Salud | LITERAL (sin localización que cotejar) | "Las personas adolescentes identificaron como la principal pr"
+  [t02.md] 14p | RM:desamparados-ninez:lineamiento 12 | LITERAL (sin localización que cotejar) | "Declarar emergencia cantonal la atención y gestión efectiva "
+  [t02.md] 15p | RM:desamparados-ninez:recomendación 12, letra b | LITERAL (sin localización que cotejar) | "con una afectación importante sobre la salud mental de las p"
+
+UBICACIONES VERIFICADAS A MANO (0):
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (0):

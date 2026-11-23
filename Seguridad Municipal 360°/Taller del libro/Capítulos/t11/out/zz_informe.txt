@@ -1,0 +1,11 @@
+CITAS TEXTUALES: 12 | OK: 11
+  [t11.md] 16p | L:10327:art. único | LITERAL (sin localización que cotejar) | "se respetará el principio constitucional de paridad de géner"
+
+UBICACIONES VERIFICADAS A MANO (1):
+  [t11.md] O:IGSMF:p. 95: "tales como: CECUDI, oficina de la mujer, becas" (segmentador: ['96'])
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (0):

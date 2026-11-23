@@ -1,0 +1,14 @@
+CITAS TEXTUALES: 20 | OK: 19
+  [t07.md] 13p | V:2009-015920:considerando único | LITERAL (sin localización que cotejar) | "la medida de cierre provocaría un impacto inmediato negativo"
+
+UBICACIONES VERIFICADAS A MANO (4):
+  [t07.md] T:2009-002416:considerando VII: "una sanción mínima que no guarda relación alguna c" (segmentador: ['VI'])
+  [t07.md] T:2009-002416:considerando VII: "¿habrá acaso que esperar que en una de esas balace" (segmentador: ['VI'])
+  [t07.md] T:2009-002416:considerando VII: "un abierto abandono por parte del gobierno local, " (segmentador: ['VI'])
+  [t07.md] D:C-276-2014:conclusión: "Las Corporaciones municipales poseen la competenci" (segmentador: ['IV'])
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (0):

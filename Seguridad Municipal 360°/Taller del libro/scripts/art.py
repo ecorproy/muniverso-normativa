@@ -1,15 +1,20 @@
-# Imprime artículos de una ley del repositorio: art.py <archivo> <máx. caracteres> <art> [<art> ...]
-import re, sys
-t = open(sys.argv[1], encoding='utf-8').read()
-mx = int(sys.argv[2])
-ART = re.compile(r'(?im)^\W{0,6}(?:ART[IÍ]CULO|Art[ií]culo|Articulo)\s+(\d+)(?:\s*(bis|ter))?\s*[º°o]?\s*[\.\-—–:]')
-ms = list(ART.finditer(t))
-for want in sys.argv[3:]:
-    hit = False
-    for i, m in enumerate(ms):
-        k = m.group(1) + (' ' + m.group(2).lower() if m.group(2) else '')
-        if k == want:
-            end = ms[i+1].start() if i+1 < len(ms) else len(t)
-            s = re.sub(r'\s+', ' ', t[m.start():end]).strip()
-            print(f'[{want}] ' + s[:mx] + (' …' if len(s) > mx else '')); hit = True; break
-    if not hit: print(f'[{want}] NO HALLADO')
+# art.py LEY ART [ART...] : texto de los artículos pedidos de una ley del repositorio (Leyes y decretos nacionales/*/Ley N.md)
+import sys, glob, re
+R = '/home/claude/repo/main/Leyes y decretos nacionales'
+n = sys.argv[1]
+fs = glob.glob(f'{R}/*/Ley {n}.md') + glob.glob(f'{R}/*/Ley {n}.md.md')
+if n == '7794':
+    fs = glob.glob(f'{R}/*/Ley 7794*.md') or fs
+if not fs:
+    print('no está:', n); sys.exit()
+t = open(fs[0], encoding='utf-8').read()
+print('archivo:', fs[0])
+for a in sys.argv[2:]:
+    pat = re.compile(r'(?im)^\W*(?:art[íi]culo|artículo)\s+' + re.escape(a) + r'(?![\w])')
+    ms = list(pat.finditer(t))
+    if not ms:
+        print(f'--- art. {a}: no hallado'); continue
+    for m in ms[:2]:
+        nxt = re.search(r'(?im)^\W*art[íi]culo\s+\d', t[m.end():])
+        fin = m.end() + (nxt.start() if nxt else 3000)
+        print(f'--- art. {a} @{m.start()}:', re.sub(r'\s+', ' ', t[m.start():min(fin, m.start()+3500)]))

@@ -1,0 +1,11 @@
+CITAS TEXTUALES: 42 | OK: 42
+
+UBICACIONES VERIFICADAS A MANO (2):
+  [t12.md] O:IGSMF:p. 5: "edad, sexo, condición étnica o localización territ" (segmentador: ['6', '7', '31', '58'])
+  [t12.md] O:IGSMF:p. 109: "etnia, sexo, salud, credo, nacionalidad" (segmentador: ['110', '119', '126', '159'])
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (0):

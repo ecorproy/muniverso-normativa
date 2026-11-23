@@ -1,0 +1,13 @@
+CITAS TEXTUALES: 27 | OK: 27
+
+UBICACIONES VERIFICADAS A MANO (4):
+  [t13.md] O:IGSMF:p. 39: "Trámites reconocidos internacionalmente como mayor" (segmentador: ['40'])
+  [t13.md] O:IGSMF:p. 40: "en el diario oficial La Gaceta y en un diario de c" (segmentador: ['41'])
+  [t13.md] O:IGSMF:p. 41: "Base de datos con los trámites que se hayan resuel" (segmentador: ['42'])
+  [t13.md] O:IGSMF:p. 50: "Si el promedio supera los 30 días naturales, se pi" (segmentador: ['51'])
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (0):

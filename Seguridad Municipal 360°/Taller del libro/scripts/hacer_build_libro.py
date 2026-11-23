@@ -16,10 +16,58 @@ MANUAL.update({
     'Wilches-Chaux, 2007': dict(
         file='/home/claude/libro/fuentes/wilches_pag.txt',
         ref='Wilches-Chaux, G. (2007). Lo local-municipal como unidad de gestión. *Medio Ambiente y Urbanización*, (67), 113-126.'),
+    'Ley N.° 9059, 2012': dict(
+        file=None,
+        ref='Ley N.° 9059, *Declara de interés público el desarrollo de una zona económica en la provincia de Cartago*. (2012). Asamblea Legislativa de la República de Costa Rica. Alcance N.° 118 a La Gaceta N.° 162, 23 de agosto de 2012.'),
+    'Decreto Ejecutivo N.° 40446-MTSS-MEIC, 2017': dict(
+        file=None,
+        ref='Decreto Ejecutivo N.° 40446-MTSS-MEIC, *Declara de interés público la creación de una zona económica especial en los cantones de Golfito, Osa, Buenos Aires, Coto Brus y Corredores que promueva el desarrollo económico y la creación de fuentes de empleo*. (2017). Poder Ejecutivo de la República de Costa Rica. La Gaceta N.° 197, 19 de octubre de 2017. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=85067&param2=109896&param3=1'),
 })
 '''
 # criterios de la Contraloría que el libro agrega (van dentro del diccionario CGR, que deexp también lee)
-cgr_extra = """    '10092': dict(cita='oficio N.° 10092 [DFOE-SOS-0320], 2024', file='/home/claude/libro/fuentes/of10092.txt',
+cgr_extra = """    '14467': dict(cita='oficio N.° 14467 [DJ-1340], 2018', file='/home/claude/libro/fuentes/of14467.txt',
+                  ref='Contraloría General de la República. (2018, 9 de octubre). *Oficio N.° 14467 (DJ-1340). Consulta relacionada con los fondos de la Ley n.º 6282 del 14 de agosto 1979*.',
+                  key=(2018, 10, 9)),
+    '01889': dict(cita='oficio N.° 01889 [DFOE-IAF-0037], 2023', file='/home/claude/libro/fuentes/of01889.txt',
+                  ref='Contraloría General de la República. (2023, 20 de febrero). *Oficio N.° 01889 (DFOE-IAF-0037). Emisión de criterio solicitado por diputado de la Asamblea Legislativa, sobre el mecanismo legal que disponen los Comités Cantonales de Deportes para asignar viáticos a sus atletas*.',
+                  key=(2023, 2, 20)),
+    '00415': dict(cita='oficio N.° 00415 [DFOE-LOC-0073], 2024', file='/home/claude/libro/fuentes/of00415.txt',
+                  ref='Contraloría General de la República. (2024, 19 de enero). *Oficio N.° 00415 (DFOE-LOC-0073). Atención de consulta relacionada al Plan Cantonal de Desarrollo Humano Local (PCDHL)*.',
+                  key=(2024, 1, 19)),
+    '09880': dict(cita='oficio N.° 09880 [DFOE-CAP-0934], 2025', file='/home/claude/libro/fuentes/of09880.txt',
+                  ref='Contraloría General de la República. (2025, 22 de mayo). *Oficio N.° 09880 (DFOE-CAP-0934). Criterio sobre acceso por parte de la Auditoría Interna a sistemas de monitoreo y cámaras de vigilancia*.',
+                  key=(2025, 5, 22)),
+    '06784': dict(cita='oficio N.° 06784 [DFOE-LOC-0510], 2024', file='/home/claude/libro/fuentes/of06784.txt',
+                  ref='Contraloría General de la República. (2024, 23 de abril). *Oficio N.° 06784 (DFOE-LOC-0510). Atención de consulta relacionada con el presupuesto de los Comités Cantonales de Deportes y Recreación*.',
+                  key=(2024, 4, 23)),
+    '11709': dict(cita='oficio N.° 11709 [DFOE-SOS-0279], 2022', file='/home/claude/libro/fuentes/of11709.txt',
+                  ref='Contraloría General de la República. (2022, 13 de julio). *Oficio N.° 11709 (DFOE-SOS-0279). Atención de consulta referente a la presentación de informes económicos, pago de impuestos, fiscalización y rendición de cuentas de los Centros Agrícolas Cantonales*.',
+                  key=(2022, 7, 13)),
+    '09492': dict(cita='oficio N.° 9492 [DJ-0857], 2025', file='/home/claude/libro/fuentes/of09492.txt',
+                  ref='Contraloría General de la República. (2025, 14 de mayo). *Oficio N.° 9492 (DJ-0857). Se atiende consulta sobre la donación de un terreno por parte de determinada Municipalidad a un tercero por medio de un acuerdo del Concejo Municipal*.',
+                  key=(2025, 5, 14)),
+    '14031': dict(cita='oficio N.° 14031 [DFOE-LOC-1515], 2025', file='/home/claude/libro/fuentes/of14031.txt',
+                  ref='Contraloría General de la República. (2025, 5 de agosto). *Oficio N.° 14031 (DFOE-LOC-1515). Emisión de criterio solicitado por el alcalde con relación a los artículos 45 y 46 bis de la Ley Nacional de Emergencias y Prevención del Riesgo*.',
+                  key=(2025, 8, 5)),
+    '22608': dict(cita='oficio N.° 22608 [DFOE-LOC-2154], 2025', file='/home/claude/libro/fuentes/of22608.txt',
+                  ref='Contraloría General de la República. (2025, 21 de noviembre). *Oficio N.° 22608 (DFOE-LOC-2154). Emisión de criterio solicitado por el alcalde sobre la utilización de recursos públicos para la atención o mitigación de riesgos ubicados en bienes de propiedad privada con afectación comunal*.',
+                  key=(2025, 11, 21)),
+    '01835': dict(cita='oficio N.° 01835 [DFOE-LOC-0217], 2025', file='/home/claude/libro/fuentes/of01835.txt',
+                  ref='Contraloría General de la República. (2025, 4 de febrero). *Oficio N.° 01835 (DFOE-LOC-0217). Emisión de criterio solicitado por el Alcalde Municipal de Osa, sobre la posibilidad de las administraciones municipales de realizar donaciones de instrumentos a bandas comunales*.',
+                  key=(2025, 2, 4)),
+    '12990': dict(cita='oficio N.° 12990 [DFOE-LOC-1706], 2023', file='/home/claude/libro/fuentes/of12990.txt',
+                  ref='Contraloría General de la República. (2023, 27 de setiembre). *Oficio N.° 12990 (DFOE-LOC-1706). Emisión de criterio relativo a la inversión de recursos en aceras*.',
+                  key=(2023, 9, 27)),
+    '22430': dict(cita='oficio N.° 22430 [DFOE-LOC-2366], 2022', file='/home/claude/libro/fuentes/of22430.txt',
+                  ref='Contraloría General de la República. (2022, 12 de diciembre). *Oficio N.° 22430 (DFOE-LOC-2366). Emisión de criterio relativo a aclarar si el análisis brindado a través de los oficios n.os 11545 (DFOE-LOC-0617)-2021 y 13004 (DFOE-LOC-1320)-2022, es extensible al concepto que aparece en el artículo 2 inciso a) del Decreto Ejecutivo n.° 40137-MOPT*.',
+                  key=(2022, 12, 12)),
+    '14908': dict(cita='oficio N.° 14908 [DFOE-DEC-4567], 2024', file='/home/claude/libro/fuentes/of14908.txt',
+                  ref='Contraloría General de la República. (2024, 23 de setiembre). *Oficio N.° 14908 (DFOE-DEC-4567). Advertencia relacionada con el cumplimiento del marco legal en la constatación de vías como públicas, la declaratoria de estas con fundamento en instrumentos públicos existentes, e inversión de recursos públicos en dichas vías*.',
+                  key=(2024, 9, 23)),
+    'IGSMF': dict(cita='fichas de indicadores del IGSM 2025, 2025', file='/home/claude/repo/360/Seguridad Municipal 360°/Criterios CGR/IGSM 2025 - fichas de indicadores - texto extraído.txt',
+                  ref='Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].',
+                  key=(2025, 8, 6)),
+    '10092': dict(cita='oficio N.° 10092 [DFOE-SOS-0320], 2024', file='/home/claude/libro/fuentes/of10092.txt',
                   ref='Contraloría General de la República. (2024, 17 de junio). *Oficio N.° 10092 (DFOE-SOS-0320). Emisión de criterio solicitado sobre la naturaleza jurídica de los fondos que reciben las ASADAS*.',
                   key=(2024, 6, 17)),
     '22620': dict(cita='oficio N.° 22620 [DCA-3192], 2022', file='/home/claude/libro/fuentes/of22620.txt',
@@ -52,6 +100,62 @@ RM = {
     'oreamuno-construccion': 'Cartago/Oreamuno/Reglamento de Construcción e infraestructura (2025).md',
     'cartago-cmeca': 'Cartago/Cartago/Reglamento de Organización y Funcionamiento del Centro Municipal de Educación para el Cuido Animal (2016).md',
     'invu-construcciones': '/home/claude/libro/fuentes/Reglamento de Construcciones INVU (2018).md',
+    'sanrafael-precario': 'Heredia/San Rafael de Heredia/Reglamento de Autorizaciones de Permiso de Uso en Precario de Viviendas en la Municipalidad de San Rafael de H (2016).md',
+    'montesdeoro-vivienda': 'Puntarenas/Montes de Oro/Reglamento para el Programa de Vivienda Municipal (2006).md',
+    'mora-ayudas': 'San José/Mora/Reglamento para el otorgamiento de ayudas temporales a sujetos privados y públicos del Cantón de Mora que enfr (2023).md',
+    'heredia-cementerios': 'Heredia/Heredia/Reglamento de los cementerios de la Municipalidad de Heredia (2026).md',
+    'santaana-ayudas': 'San José/Santa Ana/Reglamento para otorgar ayudas temporales en caso de desgracia o infortunio (2022).md',
+    'belen-comad': 'Heredia/Belén/Reglamento de la Comisión Permanente de la Condición de la Mujer de la Municipalidad de Belén (2024).md',
+    'cobano-ofim': 'Puntarenas/Concejo Municipal de Distrito de Cóbano/Reglamento general del servicio de la Oficina de la mujer del Concejo Municipal del Distrito de Cóbano (2023).md',
+    'poas-violencia': 'Alajuela/Poás/Reglamento para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en la política de la Municipalidad de Poás (2024).md',
+    'sanjose-becas': 'San José/San José/Reglamento para el otorgamiento de Becas para personas habitantes del Cantón de San José, contempladas en el C (2026).md',
+    'upala-becas': 'Alajuela/Upala/Reglamento para el otorgamiento de becas para estudio a los munícipes de Upala (2022).md',
+    'sanrafael-becas': 'Heredia/San Rafael de Heredia/Reglamento para el otorgamiento de becas de estudio a estudiantes del cantón de San Rafael de Heredia (2023).md',
+    'escazu-becas': 'San José/Escazú/Reforma Integral Reglamento para el otorgamiento de becas para estudio a munícipes de Escazú (2025).md',
+    'cartago-tmc': 'Cartago/Cartago/Reforma integral Reglamento del programa de transferencia monetaria condicionada de la Municipalidad de Cartago (2026).md',
+    'liberia-ayudas': 'Guanacaste/Liberia/Reglamento para ayudas y becas de la Municipalidad de Liberia (2019).md',
+    'matina-ayudas': 'Limón/Matina/Reglamento de ayudas temporales a las y los habitantes del Cantón de Matina (2020).md',
+    'alajuela-ventas': 'Alajuela/Alajuela/Reglamento de ventas ambulantes y estacionarias de la Municipalidad de Alajuela (2021).md',
+    'curridabat-licencias': 'San José/Curridabat/Reforma integral Reglamento para licencias municipales de la Municipalidad de Curridabat (2017).md',
+    'upala-casa': 'Alajuela/Upala/Reglamento Interno de la Casa de los Derechos de las Mujeres (2014).md',
+    'coronado-tramites': 'San José/Vázquez de Coronado/Reglamento de simplificación, digitalización de trámites e implementación de firma digital, Ley 8220 y Ley 845 (2025).md',
+    'parrita-atencion': 'Puntarenas/Parrita/Reglamento para Regular la Atención al Público (2006).md',
+    'desamparados-redes': 'San José/Desamparados/Reglamento de comunicación, página web y redes sociales de la Municipalidad de Desamparados (2024).md',
+    'belen-redes': 'Heredia/Belén/Reglamento de uso de redes sociales, de la Municipalidad de Belén (2024).md',
+    'sanpablo-redes': 'Heredia/San Pablo de Heredia/Reglamento para el uso de dispositivos móviles institucionales y redes sociales oficiales de la Municipalidad (2026).md',
+    'sarapiqui-concejo': 'Heredia/Sarapiquí/Reglamento interno de funcionamiento del Concejo Municipal de Sarapiquí (2021).md',
+    'sancarlos-concejo': 'Alajuela/San Carlos/Reglamento de funcionamiento del Concejo Municipal de la Municipalidad de San Carlos (2022).md',
+    'sancarlos-distritos': 'Alajuela/San Carlos/Reglamento para el funcionamiento de los Concejos de Distrito en el cantón de San Carlos (2026).md',
+    'parrita-sesiones': 'Puntarenas/Parrita/Reglamento de sesiones del concejo municipal de Parrita y sus comisiones (2025).md',
+    'buenosaires-sesiones': 'Puntarenas/Buenos Aires/Reglamento de Sesiones del Concejo Municipal del Cantón de Buenos Aires (2026).md',
+    'moravia-concejo': 'San José/Moravia/Reglamento del concejo municipal de Moravia (2019).md',
+    'quepos-concejo': 'Puntarenas/Quepos/Reglamento del Concejo Municipal de Quepos (2021).md',
+    'grecia-consultas': 'Alajuela/Grecia/Reglamento para la celebración de consultas populares en el Cantón de Grecia (2021).md',
+    'moravia-participacion': 'San José/Moravia/Reglamento de participación ciudadana de la Municipalidad de Moravia (2026).md',
+    'montesdeoca-audiencia': 'San José/Montes de Oca/Reglamento para la audiencia pública del proceso de actualización y modificación del Plan Regulador del Cantón (2026).md',
+    'palmares-participacion': 'Alajuela/Palmares/Manual de participación ciudadana en los procesos de planificación, presupuesto y rendición de cuentas, presup (2015).md',
+    'sanjose-video': 'San José/San José/Reglamento de video protección del Cantón Central de San José (2024).md',
+    'heredia-vigilancia': 'Heredia/Heredia/Reglamento regulador para la vigilancia de vías públicas mediante dispositivos tecnológicos o técnicos (except (2019).md',
+    'escazu-sipco': 'San José/Escazú/Reglamento del Sistema Integral Policial de Comando y Control de Escazú (SIPCO) (2020).md',
+    'quepos-video': 'Puntarenas/Quepos/Reglamento del Centro de Video Protección y Monitoreo de Municipalidad de Quepos (2026).md',
+    'santaana-policia': 'San José/Santa Ana/Reglamento para la Policía Municipal de la Municipalidad de Santa Ana (2026).md',
+    'paraiso-comisiones': 'Cartago/Paraíso/Reglamento de comisiones permanentes y especiales Virtuales de la Municipalidad de Paraíso (2022).md',
+    'santaana-telecom': 'San José/Santa Ana/La Municipalidad de Santa Ana se adhiere al Reglamento a la Ley para Incentivar y Promover la Construcción de Infraestructura de Telecomunicaciones en (2025).md',
+    'vazquez-telecom': 'San José/Vázquez de Coronado/Reglamento a la Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Cos (2025).md',
+    'alajuelita-ventas': 'San José/Alajuelita/Reglamento para la regulación y el otorgamiento de licencias para ventas ambulantes y estacionarias (2025).md',
+    'tarrazu-decomisos': 'San José/Tarrazú/Reglamento para el procedimiento de decomisos de mercadería por ventas ambulantes de la Municipalidad de Tarra (2025).md',
+    'leoncortes-ventas': 'San José/León Cortés/Reglamento de ventas ambulantes, estacionarias y comercio sobre ruedas en espacios y vías públicas (2025).md',
+    'puntarenas-ruedas': 'Puntarenas/Puntarenas/Reglamento para regular el comercio sobre ruedas en el Cantón Central de la Provincia de Puntarenas (2025).md',
+    'sarchi-residencias': 'Alajuela/Sarchí/Reglamento a la aplicación de la Ley N.° 10594 que reforma los artículos 88 del Código Municipal y 29 de la Le (2025).md',
+    'moravia-ruedas': 'San José/Moravia/Reglamento para regular el otorgamiento de licencias comerciales para ejercer el comercio sobre ruedas en el c (2025).md',
+    'escazu-ayudas': 'San José/Escazú/Reglamento para otorgar ayudas temporales a vecinos del Cantón de Escazú en situación transitoria de desgracia (2025).md',
+    'poas-ayudas': 'Alajuela/Poás/Reglamento para ayudas temporales y subvenciones del Cantón de Poás (2025).md',
+    'pococi-becas': 'Limón/Pococí/Reglamento para el otorgamiento de becas, donaciones, subvenciones y ayudas temporales ante estado de desgraci (2025).md',
+    'desamparados-ninez': 'San José/Desamparados/Política cantonal de niñez y adolescencias del cantón de Desamparados, y su plan de acción interinstitucional (2023).md',
+    'guatuso-raos': 'Alajuela/Guatuso/Reglamento Autónomo de Organización y Servicios de la Municipalidad del Cantón de Guatuso (2018).md',
+    'grecia-opamdis': 'Alajuela/Grecia/Reglamento para la oficina municipal de la persona adulta mayor y de la persona con discapacidad de Grecia (2025).md',
+    'santaana-ensueno': 'San José/Santa Ana/Reglamento para la admisión, permanencia y egreso de personas beneficiarias del Centro Diurno Municipal de adultos mayores Ensueño de Oro (2024).md',
+    'escazu-ccdr': 'San José/Escazú/Reforma Integral Reglamento para el nombramiento y funcionamiento del Comité Cantonal de Deportes y Recreación del Cantón de Escazú y de los Comités C (2025).md',
     'tarrazu-bienestar': 'San José/Tarrazú/Política Cantonal de Bienestar Animal de Tarrazú (2026).md',
 }
 MESES_RM = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'setiembre', 'octubre', 'noviembre', 'diciembre']
@@ -73,6 +177,7 @@ def cita_rm(k, loc):
     fecha = f'{fd[0]}, {fd[2]} de {MESES_RM[fd[1] - 1]}' if fd else ''
     url = f' {d["enlace"]}' if d['enlace'] else ''
     autor = d['ente_emisor'].strip()
+    autor = {'Municipalidad de León Cortes': 'Municipalidad de León Cortés'}.get(autor, autor)
     add_ref('RM' + k, (autor.lower(), y), f'{autor}. ({fecha}). *{d["nombre"].strip()}*. Sistema Costarricense de Información Jurídica.{url}')
     return f'({autor}, {y}, {loc})' if loc else f'({autor}, {y})'
 
@@ -172,6 +277,10 @@ src = src.replace(e19, e19 + "f'{R}/Jurisprudencia de casación (Sala Primera)/M
 e20 = "'/home/claude/libro/fuentes/Reglamento de Construcciones INVU (2018).md'"
 assert src.count(e20) == 1
 src = src.replace(e20, "'/home/claude/repo/main/Leyes y decretos nacionales/Municipal/Reglamento de Construcciones INVU (2018).md'")
+# leyes cuya ficha no trae fecha: se toma de la nota del propio texto
+e21 = "    fd = fdate(d['fecha_norma']) or fdate(d['fecha'])\n    if not fd:\n        errors.append(f'LEY sin fecha: {n}')"
+assert src.count(e21) == 1, src.count(e21)
+src = src.replace(e21, "    fd = fdate(d['fecha_norma']) or fdate(d['fecha']) or fdate({'30': '19/04/1885'}.get(n, ''))\n    if not fd:\n        errors.append(f'LEY sin fecha: {n}')")
 open('/home/claude/mis_scripts/build_libro.py', 'w', encoding='utf-8').write(src)
 c = open('/home/claude/scripts/cite.py', encoding='utf-8').read().replace('/home/claude/scripts/build.py', '/home/claude/mis_scripts/build_libro.py')
 open('/home/claude/mis_scripts/cite_libro.py', 'w', encoding='utf-8').write(c)

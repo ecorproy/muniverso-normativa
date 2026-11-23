@@ -1,0 +1,17 @@
+CITAS TEXTUALES: 68 | OK: 68
+
+UBICACIONES VERIFICADAS A MANO (8):
+  [all.md] V:1999-005445:considerando VI: "se trata de una competencia originaria de la munic" (segmentador: ['RESULTANDO', 'IV'])
+  [all.md] V:1999-005445:considerando VI: "si la municipalidad está o no en capacidad real y " (segmentador: ['RESULTANDO', 'IV'])
+  [all.md] V:1999-005445:considerando VI: "cuando el problema desborda la circunscripción ter" (segmentador: ['RESULTANDO', 'IV'])
+  [all.md] D:C-287-2024:apartado II: "deberá analizarse en cada caso concreto si una com" (segmentador: ['V'])
+  [all.md] D:C-287-2024:apartado II: "es el legislador y el juez quienes definen lo 'loc" (segmentador: ['V'])
+  [all.md] D:C-287-2024:apartado II: "Los intereses nacionales pueden ser también locale" (segmentador: ['V'])
+  [all.md] D:C-287-2024:apartado II: "Lo local y lo nacional no puede ni debe ser objeto" (segmentador: ['V'])
+  [all.md] D:C-287-2024:apartado II: "garantizar su simbiosis en aras del bien común" (segmentador: ['V'])
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (0):

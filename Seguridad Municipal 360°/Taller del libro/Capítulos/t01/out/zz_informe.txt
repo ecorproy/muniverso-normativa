@@ -1,0 +1,10 @@
+CITAS TEXTUALES: 21 | OK: 21
+
+UBICACIONES VERIFICADAS A MANO (1):
+  [t01.md] O:IGSMF:p. 87: "eliminar las aguas pluviales de forma adecuada y s" (segmentador: ['88'])
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (0):

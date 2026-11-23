@@ -1,0 +1,10 @@
+CITAS TEXTUALES: 29 | OK: 28
+  [t06.md] 28p | V:2020-003020:considerando, sobre el caso concreto | LITERAL (sin localización que cotejar) | "los accesos viales, así como la integridad de los vecinos de"
+
+UBICACIONES VERIFICADAS A MANO (0):
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (0):

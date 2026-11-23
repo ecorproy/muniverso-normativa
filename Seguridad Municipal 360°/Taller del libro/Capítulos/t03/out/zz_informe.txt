@@ -1,0 +1,11 @@
+CITAS TEXTUALES: 10 | OK: 8
+  [t03.md] 3p | D:C-243-1997:planteamiento de la consulta | LITERAL (sin localización que cotejar) | "legal y moralmente"
+  [t03.md] 11p | D:C-243-1997:planteamiento de la consulta | LITERAL (sin localización que cotejar) | "no podrían valorar el ajuste moral de una posible decisión a"
+
+UBICACIONES VERIFICADAS A MANO (0):
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (0):

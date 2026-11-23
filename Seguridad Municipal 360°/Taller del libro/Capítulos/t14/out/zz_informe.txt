@@ -1,0 +1,13 @@
+CITAS TEXTUALES: 60 | OK: 57
+  [t14.md] 17p | D:C-285-2012:apartado A | LITERAL (sin localización que cotejar) | "tampoco soporta que la libertad a la información pública sea"
+  [t14.md] 20p | D:C-285-2012:apartado A | LITERAL (sin localización que cotejar) | "se caracterizan por su sencillez, por evitar la burocratizac"
+  [t14.md] 30p | D:C-012-2019:apartado A | LITERAL (sin localización que cotejar) | "no modifica la competencia decisoria de la Administración Ac"
+
+UBICACIONES VERIFICADAS A MANO (1):
+  [t14.md] V:2025-014445:por tanto: "en forma íntegra y fiel, en un sitio digital desig" (segmentador: ['RESULTANDO', 'VI'])
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (0):

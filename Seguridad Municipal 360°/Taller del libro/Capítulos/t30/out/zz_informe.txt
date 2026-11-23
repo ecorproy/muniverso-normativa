@@ -1,0 +1,12 @@
+CITAS TEXTUALES: 93 | OK: 91
+  [t30.md] 34p | L:10939:transitorio I | LITERAL (sin localización que cotejar) | "Las municipalidades tendrán un plazo de doce meses, a partir"
+  [t30.md] 12p | D:C-263-2020:parte final | LITERAL (sin localización que cotejar) | "ejecutar las medidas de desalojo y demolición dispuestas en "
+
+UBICACIONES VERIFICADAS A MANO (1):
+  [t30.md] V:2025-016121:considerando V: "no consta que las autoridades de la Municipalidad " (segmentador: ['IV'])
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (0):

@@ -1,0 +1,12 @@
+CITAS TEXTUALES: 29 | OK: 29
+
+UBICACIONES VERIFICADAS A MANO (3):
+  [t36.md] D:C-029-2023:apartado III: "dejó en manos de las municipalidades la aplicación" (segmentador: [])
+  [t36.md] D:C-029-2023:apartado III: "por motivos de conveniencia socio-económica en el " (segmentador: [])
+  [t36.md] D:C-029-2023:apartado III: "ciertas desigualdades favorables a las personas o " (segmentador: [])
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (0):

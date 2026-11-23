@@ -1,0 +1,15 @@
+CITAS TEXTUALES: 67 | OK: 66
+  [t16.md] 34p | D:C-088-2025:planteamiento de la consulta | LITERAL (sin localización que cotejar) | "basado en sus potestades reconocidas en la Ley General de Co"
+
+UBICACIONES VERIFICADAS A MANO (5):
+  [t16.md] D:C-088-2025:apartado II: "como ocurre en el caso de los policías municipales" (segmentador: [])
+  [t16.md] D:C-088-2025:apartado II: "no existe una facultad del auditor interno para so" (segmentador: [])
+  [t16.md] D:C-088-2025:apartado II: "se encuentra vedado por el principio de autodeterm" (segmentador: [])
+  [t16.md] O:IGSMF:p. 156: "Servicio de vigilancia por medio de soluciones tec" (segmentador: ['157'])
+  [t16.md] O:IGSMF:p. 156: "Derechos de los usuarios respecto a los servicios" (segmentador: ['4', '29', '57', '82'])
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (0):
