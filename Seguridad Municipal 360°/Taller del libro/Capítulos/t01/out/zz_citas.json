@@ -36,62 +36,6 @@
  },
  {
   "archivo": "t01.md",
-  "palabras": 31,
-  "fuente": "L:5412:art. 55",
-  "estado": "OK",
-  "cita": "no menos del 20% de sus entradas anuales para los servicios "
- },
- {
-  "archivo": "t01.md",
-  "palabras": 21,
-  "fuente": "L:5412:art. 55",
-  "estado": "OK",
-  "cita": "atenderán todas las medidas sanitarias que el Ministerio ind"
- },
- {
-  "archivo": "t01.md",
-  "palabras": 8,
-  "fuente": "L:5395:art. 285",
-  "estado": "OK",
-  "cita": "la formación de criaderos de vectores y enfermedades"
- },
- {
-  "archivo": "t01.md",
-  "palabras": 7,
-  "fuente": "L:7554:art. 60",
-  "estado": "OK",
-  "cita": "en áreas fundamentales para la salud ambiental"
- },
- {
-  "archivo": "t01.md",
-  "palabras": 12,
-  "fuente": "L:9028:art. 36",
-  "estado": "OK",
-  "cita": "clausurar los locales que incumplan las obligaciones estipul"
- },
- {
-  "archivo": "t01.md",
-  "palabras": 2,
-  "fuente": "L:10942:art. 3",
-  "estado": "OK",
-  "cita": "deberán fiscalizar"
- },
- {
-  "archivo": "t01.md",
-  "palabras": 20,
-  "fuente": "D:C-136-2020:conclusión",
-  "estado": "OK",
-  "cita": "se encuentra sujeta a las disposiciones de los artículos 169"
- },
- {
-  "archivo": "t01.md",
-  "palabras": 16,
-  "fuente": "D:C-058-2013:conclusión",
-  "estado": "OK",
-  "cita": "tampoco las municipalidades pueden autorizar o extender pate"
- },
- {
-  "archivo": "t01.md",
   "palabras": 29,
   "fuente": "V:2008-016885:considerando III",
   "estado": "OK",
@@ -106,10 +50,38 @@
  },
  {
   "archivo": "t01.md",
-  "palabras": 22,
-  "fuente": "V:2008-016885:considerando VII",
+  "palabras": 21,
+  "fuente": "L:5412:art. 55",
   "estado": "OK",
-  "cita": "el poder de policía ejercido mediante las órdenes de clausur"
+  "cita": "atenderán todas las medidas sanitarias que el Ministerio ind"
+ },
+ {
+  "archivo": "t01.md",
+  "palabras": 20,
+  "fuente": "D:C-136-2020:conclusión",
+  "estado": "OK",
+  "cita": "se encuentra sujeta a las disposiciones de los artículos 169"
+ },
+ {
+  "archivo": "t01.md",
+  "palabras": 31,
+  "fuente": "L:5412:art. 55",
+  "estado": "OK",
+  "cita": "no menos del 20% de sus entradas anuales para los servicios "
+ },
+ {
+  "archivo": "t01.md",
+  "palabras": 7,
+  "fuente": "L:7554:art. 60",
+  "estado": "OK",
+  "cita": "en áreas fundamentales para la salud ambiental"
+ },
+ {
+  "archivo": "t01.md",
+  "palabras": 8,
+  "fuente": "L:5395:art. 285",
+  "estado": "OK",
+  "cita": "la formación de criaderos de vectores y enfermedades"
  },
  {
   "archivo": "t01.md",
@@ -134,10 +106,24 @@
  },
  {
   "archivo": "t01.md",
-  "palabras": 9,
-  "fuente": "O:IGSMF:p. 87",
+  "palabras": 5,
+  "fuente": "L:5412:art. 55",
   "estado": "OK",
-  "cita": "eliminar las aguas pluviales de forma adecuada y sanitaria"
+  "cita": "para prevenir y combatir epidemias"
+ },
+ {
+  "archivo": "t01.md",
+  "palabras": 22,
+  "fuente": "V:2008-016885:considerando VII",
+  "estado": "OK",
+  "cita": "el poder de policía ejercido mediante las órdenes de clausur"
+ },
+ {
+  "archivo": "t01.md",
+  "palabras": 16,
+  "fuente": "D:C-058-2013:conclusión",
+  "estado": "OK",
+  "cita": "tampoco las municipalidades pueden autorizar o extender pate"
  },
  {
   "archivo": "t01.md",
@@ -145,5 +131,61 @@
   "fuente": "L:5395:art. 218 bis",
   "estado": "OK",
   "cita": "siempre y cuando se cuente con los servicios públicos necesa"
+ },
+ {
+  "archivo": "t01.md",
+  "palabras": 12,
+  "fuente": "L:9028:art. 36",
+  "estado": "OK",
+  "cita": "clausurar los locales que incumplan las obligaciones estipul"
+ },
+ {
+  "archivo": "t01.md",
+  "palabras": 7,
+  "fuente": "L:10141:art. 2",
+  "estado": "OK",
+  "cita": "en beneficio directo de la salud pública"
+ },
+ {
+  "archivo": "t01.md",
+  "palabras": 2,
+  "fuente": "L:10942:art. 3",
+  "estado": "OK",
+  "cita": "deberán fiscalizar"
+ },
+ {
+  "archivo": "t01.md",
+  "palabras": 9,
+  "fuente": "L:7800:art. 1",
+  "estado": "OK",
+  "cita": "por estar comprometida la salud integral de la población"
+ },
+ {
+  "archivo": "t01.md",
+  "palabras": 7,
+  "fuente": "L:7794:art. 173",
+  "estado": "OK",
+  "cita": "y de estilos de vida saludable cantonales"
+ },
+ {
+  "archivo": "t01.md",
+  "palabras": 19,
+  "fuente": "V:2025-019603:considerando II",
+  "estado": "OK",
+  "cita": "el mal estado de un parque que compromete la seguridad, vida"
+ },
+ {
+  "archivo": "t01.md",
+  "palabras": 9,
+  "fuente": "O:IGSMF:p. 87",
+  "estado": "OK",
+  "cita": "eliminar las aguas pluviales de forma adecuada y sanitaria"
+ },
+ {
+  "archivo": "t01.md",
+  "palabras": 13,
+  "fuente": "L:30:art. 8",
+  "estado": "OK",
+  "cita": "contra su observancia no puede alegarse desuso ni costumbre "
  }
 ]
