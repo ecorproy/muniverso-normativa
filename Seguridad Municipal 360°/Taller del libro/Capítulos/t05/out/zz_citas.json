@@ -1,17 +1,17 @@
 [
  {
   "archivo": "t05.md",
+  "palabras": 17,
+  "fuente": "V:2026-000643:considerando IV",
+  "estado": "OK",
+  "cita": "no ha permanecido ajena a la situación ni ha adoptado una po"
+ },
+ {
+  "archivo": "t05.md",
   "palabras": 29,
   "fuente": "V:2008-017231:considerando V",
   "estado": "OK",
   "cita": "la Municipalidad de Aguirre no cumple con su rol de garante "
- },
- {
-  "archivo": "t05.md",
-  "palabras": 5,
-  "fuente": "CP:art. 21",
-  "estado": "OK",
-  "cita": "La vida humana es inviolable"
  },
  {
   "archivo": "t05.md",
@@ -22,16 +22,44 @@
  },
  {
   "archivo": "t05.md",
-  "palabras": 26,
-  "fuente": "D:C-088-2017:conclusión",
-  "estado": "OK",
-  "cita": "las municipalidades asumieron la competencia plena para plan"
- },
- {
-  "archivo": "t05.md",
   "palabras": 18,
   "fuente": "V:2025-012894:considerando VI",
   "estado": "OK",
   "cita": "por demostrarse que la vía objeto de este proceso se trata d"
+ },
+ {
+  "archivo": "t05.md",
+  "palabras": 5,
+  "fuente": "CP:art. 21",
+  "estado": "OK",
+  "cita": "La vida humana es inviolable"
+ },
+ {
+  "archivo": "t05.md",
+  "palabras": 13,
+  "fuente": "D:C-088-2017:conclusión",
+  "estado": "OK",
+  "cita": "no requieren de la autorización de la Dirección de la Ingeni"
+ },
+ {
+  "archivo": "t05.md",
+  "palabras": 5,
+  "fuente": "D:C-013-2024:conclusión",
+  "estado": "OK",
+  "cita": "por derogación tácita debe ceder"
+ },
+ {
+  "archivo": "t05.md",
+  "palabras": 10,
+  "fuente": "RM:santaana-reductores:art. 8",
+  "estado": "OK",
+  "cita": "más del cincuenta por ciento de los jefes de familia"
+ },
+ {
+  "archivo": "t05.md",
+  "palabras": 13,
+  "fuente": "RM:naranjo-policia:art. 17",
+  "estado": "OK",
+  "cita": "no podrá tenerse como un recargo que derive en complemento o"
  }
 ]

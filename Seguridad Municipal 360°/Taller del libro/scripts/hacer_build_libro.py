@@ -243,6 +243,11 @@ RM = {
     'sancarlos-donaciones': 'Alajuela/San Carlos/Reglamento para entrega de donaciones de la Municipalidad de San Carlos (2026).md',
     'oreamuno-decomisos': 'Cartago/Oreamuno/Reglamento para Decomisos de Mercadería por Ventas en la Vía Pública y Fería del Agricultor (2015).md',
     'tarrazu-bienestar': 'San José/Tarrazú/Política Cantonal de Bienestar Animal de Tarrazú (2026).md',
+    'naranjo-policia': 'Alajuela/Naranjo/Reglamento de la policía municipal e inspectores municipales de tránsito de la Municipalidad de Naranjo (2025).md',
+    'acosta-reductores': 'San José/Acosta/Reglamento para la instalación y eliminación de reductores de velocidad en las vías públicas terrestres de acu (2018).md',
+    'santaana-reductores': 'San José/Santa Ana/Reglamento para la Instalación de Reductores de Velocidad en las Vías Cantonales (2009).md',
+    'poas-colosevi': 'Alajuela/Poás/Reglamento del Consejo Local de Seguridad Vial (COLOSEVI-POÁS) (2008).md',
+    'atenas-colosevi': 'Alajuela/Atenas/Reglamento del Consejo local de Seguridad Vial (COLOSEVI) de la Municipalidad de Atenas (2012).md',
 }
 MESES_RM = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'setiembre', 'octubre', 'noviembre', 'diciembre']
 
