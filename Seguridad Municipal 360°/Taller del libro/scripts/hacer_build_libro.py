@@ -248,6 +248,10 @@ RM = {
     'santaana-reductores': 'San José/Santa Ana/Reglamento para la Instalación de Reductores de Velocidad en las Vías Cantonales (2009).md',
     'poas-colosevi': 'Alajuela/Poás/Reglamento del Consejo Local de Seguridad Vial (COLOSEVI-POÁS) (2008).md',
     'atenas-colosevi': 'Alajuela/Atenas/Reglamento del Consejo local de Seguridad Vial (COLOSEVI) de la Municipalidad de Atenas (2012).md',
+    'sanjose-riesgo': 'San José/San José/Reglamento para la Gestión Ambiental, Gestión de Riesgo, Atención de Emergencias y Desastres (2005).md',
+    'curridabat-riesgo': 'San José/Curridabat/Reglamento para la Gestión de Riesgo y Atención de Emergencias y Desastres en el cantón de Curridabat (2007).md',
+    'sanjose-ayudas-emergencia': 'San José/San José/Reglamento para el otorgamiento de ayudas temporales en el cantón San José para situaciones de emergencias o d (2016).md',
+    'escazu-brigadistas': 'San José/Escazú/Reglamento para brigadistas ad-honorem de seguridad vial y atención de emergencias y monitoreos preventivos (2018).md',
 }
 MESES_RM = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'setiembre', 'octubre', 'noviembre', 'diciembre']
 

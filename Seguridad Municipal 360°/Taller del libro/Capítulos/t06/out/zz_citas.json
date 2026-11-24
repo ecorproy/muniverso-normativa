@@ -22,13 +22,6 @@
  },
  {
   "archivo": "t06.md",
-  "palabras": 10,
-  "fuente": "V:2022-022677:considerando IV",
-  "estado": "OK",
-  "cita": "es prioritario que se efectúe un dragado del río Purisil"
- },
- {
-  "archivo": "t06.md",
   "palabras": 14,
   "fuente": "V:2023-005011:considerando V",
   "estado": "OK",
@@ -40,13 +33,6 @@
   "fuente": "V:2023-005011:considerando VII",
   "estado": "OK",
   "cita": "la corporación municipal tardó todo ese tiempo para apenas c"
- },
- {
-  "archivo": "t06.md",
-  "palabras": 25,
-  "fuente": "V:2023-005011:considerando VII",
-  "estado": "OK",
-  "cita": "la obligación de las Municipalidades de ejecutar acciones ef"
  },
  {
   "archivo": "t06.md",
@@ -64,20 +50,6 @@
  },
  {
   "archivo": "t06.md",
-  "palabras": 5,
-  "fuente": "CP:art. 21",
-  "estado": "OK",
-  "cita": "La vida humana es inviolable"
- },
- {
-  "archivo": "t06.md",
-  "palabras": 8,
-  "fuente": "L:8488:art. 25",
-  "estado": "OK",
-  "cita": "Es responsabilidad del Estado costarricense prevenir los des"
- },
- {
-  "archivo": "t06.md",
   "palabras": 8,
   "fuente": "L:8488:art. 3",
   "estado": "OK",
@@ -92,66 +64,38 @@
  },
  {
   "archivo": "t06.md",
-  "palabras": 26,
-  "fuente": "L:8488:art. 10",
+  "palabras": 11,
+  "fuente": "V:2022-017550:considerando VII",
   "estado": "OK",
-  "cita": "en los cuales recae, en primera instancia, la responsabilida"
+  "cita": "ni ejerció su facultades de planeamiento ni ahora las de pol"
  },
  {
   "archivo": "t06.md",
-  "palabras": 24,
-  "fuente": "L:8488:art. 45",
+  "palabras": 5,
+  "fuente": "L:8488:art. 14",
   "estado": "OK",
-  "cita": "incluirán en sus presupuestos una partida presupuestaria des"
+  "cita": "en ningún caso, podrán desaplicarlas"
  },
  {
   "archivo": "t06.md",
-  "palabras": 9,
-  "fuente": "L:8488:art. 46 bis",
+  "palabras": 18,
+  "fuente": "V:2019-012783:considerando VII",
   "estado": "OK",
-  "cita": "incluidas aquellas no amparadas a un decreto de emergencia"
- },
- {
-  "archivo": "t06.md",
-  "palabras": 14,
-  "fuente": "L:8228:art. 10",
-  "estado": "OK",
-  "cita": "deberá contar con un plan básico para prevenir y atender sit"
- },
- {
-  "archivo": "t06.md",
-  "palabras": 7,
-  "fuente": "L:833:art. 87",
-  "estado": "OK",
-  "cita": "debidamente instalados y conectados a sus fuentes"
+  "cita": "en pleno conocimiento de la situación de peligro ante la que"
  },
  {
   "archivo": "t06.md",
   "palabras": 6,
-  "fuente": "D:C-109-2019:conclusión",
+  "fuente": "V:2026-010924:considerando IV",
   "estado": "OK",
-  "cita": "son contribuyentes del impuesto ahí regulado"
+  "cita": "únicamente se encontraban valorando algunas soluciones"
  },
  {
   "archivo": "t06.md",
-  "palabras": 16,
-  "fuente": "D:C-287-2024:conclusión",
+  "palabras": 5,
+  "fuente": "L:8488:art. 30",
   "estado": "OK",
-  "cita": "no pueden operar líneas de atención de emergencias de manera"
- },
- {
-  "archivo": "t06.md",
-  "palabras": 30,
-  "fuente": "D:C-049-2026:conclusión",
-  "estado": "OK",
-  "cita": "tanto el Estado como los Gobiernos Locales están obligados a"
- },
- {
-  "archivo": "t06.md",
-  "palabras": 27,
-  "fuente": "D:C-049-2026:conclusión",
-  "estado": "OK",
-  "cita": "puede requerir la ejecución de obras para proteger inmuebles"
+  "cita": "las actividades ordinarias de prevención"
  },
  {
   "archivo": "t06.md",
@@ -162,10 +106,45 @@
  },
  {
   "archivo": "t06.md",
-  "palabras": 27,
-  "fuente": "O:22608:p. 7",
+  "palabras": 9,
+  "fuente": "L:8488:art. 46 bis",
   "estado": "OK",
-  "cita": "no puede válidamente excusarse en la participación de otros "
+  "cita": "incluidas aquellas no amparadas a un decreto de emergencia"
+ },
+ {
+  "archivo": "t06.md",
+  "palabras": 6,
+  "fuente": "RM:sanjose-riesgo:art. 89",
+  "estado": "OK",
+  "cita": "podrá ser determinado por la Municipalidad"
+ },
+ {
+  "archivo": "t06.md",
+  "palabras": 18,
+  "fuente": "RM:curridabat-riesgo:art. 2",
+  "estado": "OK",
+  "cita": "puede hacerse vía decreto ejecutivo o en el ámbito local med"
+ },
+ {
+  "archivo": "t06.md",
+  "palabras": 20,
+  "fuente": "RM:sanjose-riesgo:art. 7",
+  "estado": "OK",
+  "cita": "la intervención municipal no es de primera respuesta sino de"
+ },
+ {
+  "archivo": "t06.md",
+  "palabras": 26,
+  "fuente": "L:8488:art. 10",
+  "estado": "OK",
+  "cita": "en los cuales recae, en primera instancia, la responsabilida"
+ },
+ {
+  "archivo": "t06.md",
+  "palabras": 30,
+  "fuente": "D:C-049-2026:conclusión",
+  "estado": "OK",
+  "cita": "tanto el Estado como los Gobiernos Locales están obligados a"
  },
  {
   "archivo": "t06.md",
@@ -173,6 +152,13 @@
   "fuente": "O:22608:p. 7",
   "estado": "OK",
   "cita": "los gobiernos locales pueden destinar recursos para la preve"
+ },
+ {
+  "archivo": "t06.md",
+  "palabras": 12,
+  "fuente": "O:22608:p. 7",
+  "estado": "OK",
+  "cita": "no puede válidamente excusarse en la participación de otros "
  },
  {
   "archivo": "t06.md",
@@ -197,9 +183,44 @@
  },
  {
   "archivo": "t06.md",
-  "palabras": 7,
-  "fuente": "L:8488:art. 46 bis",
+  "palabras": 8,
+  "fuente": "RM:sanjose-ayudas-emergencia:art. 5",
   "estado": "OK",
-  "cita": "no amparadas a un decreto de emergencia"
+  "cita": "extranjero(a) legalmente radicado(a) en nuestro país"
+ },
+ {
+  "archivo": "t06.md",
+  "palabras": 21,
+  "fuente": "L:8488:art. 3",
+  "estado": "OK",
+  "cita": "Quienes se encuentran en el territorio nacional deben ser pr"
+ },
+ {
+  "archivo": "t06.md",
+  "palabras": 8,
+  "fuente": "D:C-287-2024:conclusión",
+  "estado": "OK",
+  "cita": "de manera independiente al Sistema 9-1-1"
+ },
+ {
+  "archivo": "t06.md",
+  "palabras": 8,
+  "fuente": "RM:escazu-brigadistas:art. 2",
+  "estado": "OK",
+  "cita": "monitoreos preventivos de eventos en riesgo de emergencia"
+ },
+ {
+  "archivo": "t06.md",
+  "palabras": 6,
+  "fuente": "D:C-109-2019:conclusión",
+  "estado": "OK",
+  "cita": "son contribuyentes del impuesto ahí regulado"
+ },
+ {
+  "archivo": "t06.md",
+  "palabras": 13,
+  "fuente": "V:2022-017550:considerando VI",
+  "estado": "OK",
+  "cita": "La falta de personal o presupuesto no son razones que legiti"
  }
 ]
