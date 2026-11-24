@@ -15,6 +15,13 @@
  },
  {
   "archivo": "t04.md",
+  "palabras": 8,
+  "fuente": "D:C-131-1997:conclusión",
+  "estado": "OK",
+  "cita": "tiene los mismos límites que cualquier fuerza policial"
+ },
+ {
+  "archivo": "t04.md",
   "palabras": 23,
   "fuente": "L:7794:art. 13, inciso s",
   "estado": "OK",
@@ -29,10 +36,10 @@
  },
  {
   "archivo": "t04.md",
-  "palabras": 10,
-  "fuente": "L:7794:art. 68",
+  "palabras": 20,
+  "fuente": "RM:grecia-policia:art. 1",
   "estado": "OK",
-  "cita": "una orientación civilista, democrática y defensora de los de"
+  "cita": "resguardar el orden público y asegurar la integridad física "
  },
  {
   "archivo": "t04.md",
@@ -43,9 +50,58 @@
  },
  {
   "archivo": "t04.md",
+  "palabras": 3,
+  "fuente": "D:C-131-1997",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "un instrumento más"
+ },
+ {
+  "archivo": "t04.md",
+  "palabras": 10,
+  "fuente": "L:7794:art. 68",
+  "estado": "OK",
+  "cita": "una orientación civilista, democrática y defensora de los de"
+ },
+ {
+  "archivo": "t04.md",
+  "palabras": 9,
+  "fuente": "RM:grecia-policia:art. 2",
+  "estado": "OK",
+  "cita": "siempre respetando lo establecido por la ley N°8968"
+ },
+ {
+  "archivo": "t04.md",
+  "palabras": 9,
+  "fuente": "D:C-339-2019",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "se encuentran temporalmente bajo su custodia y su responsabi"
+ },
+ {
+  "archivo": "t04.md",
+  "palabras": 19,
+  "fuente": "V:2025-019603:considerando II",
+  "estado": "OK",
+  "cita": "el mal estado de un parque que compromete la seguridad, vida"
+ },
+ {
+  "archivo": "t04.md",
   "palabras": 16,
   "fuente": "D:C-108-2021:conclusión",
   "estado": "OK",
   "cita": "las entidades municipales no pueden financiar el servicio de"
+ },
+ {
+  "archivo": "t04.md",
+  "palabras": 12,
+  "fuente": "RM:grecia-policia:art. 3",
+  "estado": "OK",
+  "cita": "los recursos propios de los demás servicios relacionados a l"
+ },
+ {
+  "archivo": "t04.md",
+  "palabras": 7,
+  "fuente": "RM:grecia-policia:art. 3",
+  "estado": "OK",
+  "cita": "los recursos propios de los demás servicios"
  }
 ]

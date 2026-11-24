@@ -1,4 +1,6 @@
-CITAS TEXTUALES: 7 | OK: 7
+CITAS TEXTUALES: 15 | OK: 13
+  [t04.md] 3p | D:C-131-1997 | LITERAL (sin localización que cotejar) | "un instrumento más"
+  [t04.md] 9p | D:C-339-2019 | LITERAL (sin localización que cotejar) | "se encuentran temporalmente bajo su custodia y su responsabi"
 
 UBICACIONES VERIFICADAS A MANO (0):
 
