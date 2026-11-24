@@ -15,6 +15,13 @@
  },
  {
   "archivo": "t08.md",
+  "palabras": 10,
+  "fuente": "V:2008-017231:considerando VI",
+  "estado": "OK",
+  "cita": "se llevó a cabo un desalojo pacífico de las instalaciones"
+ },
+ {
+  "archivo": "t08.md",
   "palabras": 12,
   "fuente": "CP:art. 50",
   "estado": "OK",
@@ -50,6 +57,97 @@
  },
  {
   "archivo": "t08.md",
+  "palabras": 1,
+  "fuente": "L:7794:art. 4, inciso j",
+  "estado": "OK",
+  "cita": "necesarios"
+ },
+ {
+  "archivo": "t08.md",
+  "palabras": 5,
+  "fuente": "L:7794:art. 71",
+  "estado": "OK",
+  "cita": "vecinos y vecinas del cantón"
+ },
+ {
+  "archivo": "t08.md",
+  "palabras": 5,
+  "fuente": "L:7794:art. 71",
+  "estado": "OK",
+  "cita": "una vez demostrada dicha condición"
+ },
+ {
+  "archivo": "t08.md",
+  "palabras": 3,
+  "fuente": "RM:mora-ayudas:art. 3",
+  "estado": "OK",
+  "cita": "condición de calle"
+ },
+ {
+  "archivo": "t08.md",
+  "palabras": 11,
+  "fuente": "RM:barva-ayudas:art. 2",
+  "estado": "OK",
+  "cita": "personas habitantes de calle en condiciones de pobreza extre"
+ },
+ {
+  "archivo": "t08.md",
+  "palabras": 8,
+  "fuente": "RM:orotina-parques:art. 19",
+  "estado": "OK",
+  "cita": "Alojarse o pernoctar en parques y espacios públicos"
+ },
+ {
+  "archivo": "t08.md",
+  "palabras": 11,
+  "fuente": "RM:montesdeoca-parques:art. 14",
+  "estado": "OK",
+  "cita": "tampoco durante el día se permitirá usar esos espacios para "
+ },
+ {
+  "archivo": "t08.md",
+  "palabras": 5,
+  "fuente": "RM:montesdeoca-parques:art. 11",
+  "estado": "OK",
+  "cita": "expulsar, de los espacios públicos"
+ },
+ {
+  "archivo": "t08.md",
+  "palabras": 13,
+  "fuente": "RM:naranjo-mercado:art. 29",
+  "estado": "OK",
+  "cita": "la presencia de personas en situación de calle, en estado et"
+ },
+ {
+  "archivo": "t08.md",
+  "palabras": 7,
+  "fuente": "RM:atenas-mercado:art. 30",
+  "estado": "OK",
+  "cita": "la formación de grupos de personas indigentes"
+ },
+ {
+  "archivo": "t08.md",
+  "palabras": 6,
+  "fuente": "L:5395:art. 378",
+  "estado": "OK",
+  "cita": "aquellas personas en situación de calle"
+ },
+ {
+  "archivo": "t08.md",
+  "palabras": 10,
+  "fuente": "L:9542:art. 68",
+  "estado": "OK",
+  "cita": "una orientación civilista, democrática y defensora de los de"
+ },
+ {
+  "archivo": "t08.md",
+  "palabras": 8,
+  "fuente": "RM:santaana-policia:art. 3",
+  "estado": "OK",
+  "cita": "y con absoluto respeto a los derechos humanos"
+ },
+ {
+  "archivo": "t08.md",
   "palabras": 13,
   "fuente": "L:4760:art. 4",
   "estado": "OK",
@@ -57,9 +155,23 @@
  },
  {
   "archivo": "t08.md",
+  "palabras": 6,
+  "fuente": "RM:heredia-cementerios:art. 20",
+  "estado": "OK",
+  "cita": "para personas en calidad de indigentes"
+ },
+ {
+  "archivo": "t08.md",
   "palabras": 4,
   "fuente": "L:10009:art. 3",
   "estado": "OK",
   "cita": "indicadas en esta ley"
+ },
+ {
+  "archivo": "t08.md",
+  "palabras": 1,
+  "fuente": "L:7794:art. 4, inciso j",
+  "estado": "OK",
+  "cita": "necesarios"
  }
 ]
