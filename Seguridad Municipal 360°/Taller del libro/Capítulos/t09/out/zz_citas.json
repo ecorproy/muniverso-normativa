@@ -22,13 +22,6 @@
  },
  {
   "archivo": "t09.md",
-  "palabras": 17,
-  "fuente": "D:C-321-2019:apartado A",
-  "estado": "LITERAL (sin localización que cotejar)",
-  "cita": "tutelar el ius inferendi, sea el derecho de una persona a da"
- },
- {
-  "archivo": "t09.md",
   "palabras": 14,
   "fuente": "D:C-321-2019:conclusión",
   "estado": "OK",
@@ -50,24 +43,10 @@
  },
  {
   "archivo": "t09.md",
-  "palabras": 16,
-  "fuente": "L:5395:art. 327",
+  "palabras": 19,
+  "fuente": "L:30:art. 261",
   "estado": "OK",
-  "cita": "Los propietarios y administradores de cementerios quedan obl"
- },
- {
-  "archivo": "t09.md",
-  "palabras": 10,
-  "fuente": "DE:32833:art. 4",
-  "estado": "OK",
-  "cita": "la Administración Municipal correspondiente, podrá asumir la"
- },
- {
-  "archivo": "t09.md",
-  "palabras": 23,
-  "fuente": "DE:32833:art. 5",
-  "estado": "OK",
-  "cita": "Todo habitante de la República que fallezca tendrá derecho a"
+  "cita": "Son cosas públicas las que, por ley, están destinadas de un "
  },
  {
   "archivo": "t09.md",
@@ -78,6 +57,13 @@
  },
  {
   "archivo": "t09.md",
+  "palabras": 20,
+  "fuente": "D:C-217-2015:apartado III",
+  "estado": "OK",
+  "cita": "el camposanto se considera como un bien demanial, lo que imp"
+ },
+ {
+  "archivo": "t09.md",
   "palabras": 15,
   "fuente": "DE:32833:art. 41",
   "estado": "OK",
@@ -85,10 +71,10 @@
  },
  {
   "archivo": "t09.md",
-  "palabras": 19,
-  "fuente": "L:30:art. 261",
+  "palabras": 21,
+  "fuente": "D:C-217-2015:apartado V",
   "estado": "OK",
-  "cita": "Son cosas públicas las que, por ley, están destinadas de un "
+  "cita": "Cuando se ha realizado un arrendamiento a perpetuidad, ese c"
  },
  {
   "archivo": "t09.md",
@@ -99,17 +85,45 @@
  },
  {
   "archivo": "t09.md",
-  "palabras": 20,
-  "fuente": "D:C-217-2015:apartado III",
+  "palabras": 8,
+  "fuente": "L:6227:art. 154",
   "estado": "OK",
-  "cita": "el camposanto se considera como un bien demanial, lo que imp"
+  "cita": "la revocación no deberá ser intempestiva ni arbitraria"
  },
  {
   "archivo": "t09.md",
-  "palabras": 21,
-  "fuente": "D:C-217-2015:apartado V",
+  "palabras": 17,
+  "fuente": "D:C-321-2019:apartado A",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "tutelar el ius inferendi, sea el derecho de una persona a da"
+ },
+ {
+  "archivo": "t09.md",
+  "palabras": 14,
+  "fuente": "D:C-321-2019:conclusión",
   "estado": "OK",
-  "cita": "Cuando se ha realizado un arrendamiento a perpetuidad, ese c"
+  "cita": "no ostentan derecho alguno que pueda ser cedido, donado o ve"
+ },
+ {
+  "archivo": "t09.md",
+  "palabras": 12,
+  "fuente": "RM:escazu-cementerios:art. 14",
+  "estado": "OK",
+  "cita": "o bien a favor de una tercera persona física de su elección"
+ },
+ {
+  "archivo": "t09.md",
+  "palabras": 7,
+  "fuente": "RM:escazu-cementerios:art. 12",
+  "estado": "OK",
+  "cita": "acción que no tiene mecanismo recursivo alguno"
+ },
+ {
+  "archivo": "t09.md",
+  "palabras": 10,
+  "fuente": "DE:32833:art. 4",
+  "estado": "OK",
+  "cita": "la Administración Municipal correspondiente, podrá asumir la"
  },
  {
   "archivo": "t09.md",
@@ -134,6 +148,55 @@
  },
  {
   "archivo": "t09.md",
+  "palabras": 23,
+  "fuente": "DE:32833:art. 5",
+  "estado": "OK",
+  "cita": "Todo habitante de la República que fallezca tendrá derecho a"
+ },
+ {
+  "archivo": "t09.md",
+  "palabras": 6,
+  "fuente": "RM:escazu-cementerios:art. 2",
+  "estado": "OK",
+  "cita": "con la debida consideración y respeto"
+ },
+ {
+  "archivo": "t09.md",
+  "palabras": 16,
+  "fuente": "DE:32833:art. 27",
+  "estado": "OK",
+  "cita": "un número no menor del 5% del total de los nichos para perso"
+ },
+ {
+  "archivo": "t09.md",
+  "palabras": 15,
+  "fuente": "RM:buenosaires-cementerios:art. 63",
+  "estado": "OK",
+  "cita": "digna sepultura a indigentes, personas desconocidas o cuyos "
+ },
+ {
+  "archivo": "t09.md",
+  "palabras": 11,
+  "fuente": "RM:goicoechea-cementerios:art. 72",
+  "estado": "OK",
+  "cita": "oferta del servicio al costo y otorgamiento de facilidades d"
+ },
+ {
+  "archivo": "t09.md",
+  "palabras": 16,
+  "fuente": "RM:santaana-ayudas:art. 16",
+  "estado": "OK",
+  "cita": "el costo del funeral, préstamo de bóveda municipal según dis"
+ },
+ {
+  "archivo": "t09.md",
+  "palabras": 17,
+  "fuente": "L:10245:art. 6, inciso a",
+  "estado": "OK",
+  "cita": "Los cuidados paliativos deben ir y acompañar a la persona af"
+ },
+ {
+  "archivo": "t09.md",
   "palabras": 17,
   "fuente": "V:2021-024259:considerando II",
   "estado": "OK",
@@ -152,13 +215,6 @@
   "fuente": "RM:heredia-cementerios:art. 43",
   "estado": "OK",
   "cita": "con el objetivo de asegurar la disponibilidad de espacios pa"
- },
- {
-  "archivo": "t09.md",
-  "palabras": 16,
-  "fuente": "RM:santaana-ayudas:art. 16",
-  "estado": "OK",
-  "cita": "el costo del funeral, préstamo de bóveda municipal según dis"
  },
  {
   "archivo": "t09.md",

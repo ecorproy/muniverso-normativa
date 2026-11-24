@@ -260,6 +260,12 @@ RM = {
     'grecia-licores': 'Alajuela/Grecia/Reglamento de Regulación y Comercialización de Bebidas con Contenido Alcohólico de la Municipalidad de Grecia (2015).md',
     'poas-licores': 'Alajuela/Poás/Reglamento de patentes de licores del Cantón de Poás (2022).md',
     'zarcero-trabajo': 'Alajuela/Zarcero/Reglamento interno de trabajo de la Municipalidad de Zarcero (2018).md',
+    'escazu-cementerios': 'San José/Escazú/Reglamento municipal de cementerios para el Cantón de Escazú (2017).md',
+    'golfito-cementerios': 'Puntarenas/Golfito/Reglamento para la administración de los cementerios Municipales del cantón de Golfito (2021).md',
+    'poas-cementerios': 'Alajuela/Poás/Reforma integral Reglamento General de Cementerios Municipalidad del cantón de Poás (2024).md',
+    'goicoechea-cementerios': 'San José/Goicoechea/Reglamento de organización y funcionamiento de la junta administrativa de cementerios del cantón de Goicoechea (2023).md',
+    'buenosaires-cementerios': 'Puntarenas/Buenos Aires/Reglamento autónomo para la planificación, dirección y administración de los cementerios municipales del cantó (2026).md',
+    'tilaran-cementerios': 'Guanacaste/Tilarán/Reglamento de operación y mantenimiento del cementerio municipal de Tilarán (2018).md',
     'escazu-brigadistas': 'San José/Escazú/Reglamento para brigadistas ad-honorem de seguridad vial y atención de emergencias y monitoreos preventivos (2018).md',
 }
 MESES_RM = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'setiembre', 'octubre', 'noviembre', 'diciembre']

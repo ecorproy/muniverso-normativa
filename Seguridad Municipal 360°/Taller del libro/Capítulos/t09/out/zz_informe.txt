@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 24 | OK: 21
+CITAS TEXTUALES: 32 | OK: 29
   [t09.md] 17p | D:C-321-2019:apartado A | LITERAL (sin localización que cotejar) | "tutelar el ius inferendi, sea el derecho de una persona a da"
   [t09.md] 17p | D:C-236-2016:planteamiento de la consulta | LITERAL (sin localización que cotejar) | "Por desconocimiento y costumbre se ha utilizado entregar un "
   [t09.md] 22p | D:C-429-2020:planteamiento de la consulta | LITERAL (sin localización que cotejar) | "vender a los empleados e inclusive a los Directores actuales"
