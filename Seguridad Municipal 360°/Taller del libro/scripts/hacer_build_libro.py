@@ -236,6 +236,12 @@ RM = {
     'sancarlos-acoso': 'Alajuela/San Carlos/Reglamento para prevenir, investigar y sancionar el acoso laboral en la Municipalidad de San Carlos (2019).md',
     'santabarbara-so': 'Heredia/Santa Bárbara/Reglamento de salud ocupacional de la Municipalidad de Santa Bárbara (2023).md',
     'sanisidro-teletrabajo': 'Heredia/San Isidro de Heredia/Reglamento para la aplicación del teletrabajo en la Municipalidad de San Isidro de Heredia (2024).md',
+    'cnp-pai': '/home/claude/repo/main/Leyes y decretos nacionales/Administrativo/Reglamento del Programa de Abastecimiento Institucional CNP (2023).md',
+    'goicoechea-mercadolibre': 'San José/Goicoechea/Reglamento de Organización y Funcionamiento del Mercado Libre de Guadalupe (2005).md',
+    'canas-feria': 'Guanacaste/Cañas/Reglamento de la Feria Municipal del Mercado Libre del Agricultor (2004).md',
+    'alajuela-mercado': 'Alajuela/Alajuela/Reglamento del Mercado Municipal de Alajuela (2014).md',
+    'sancarlos-donaciones': 'Alajuela/San Carlos/Reglamento para entrega de donaciones de la Municipalidad de San Carlos (2026).md',
+    'oreamuno-decomisos': 'Cartago/Oreamuno/Reglamento para Decomisos de Mercadería por Ventas en la Vía Pública y Fería del Agricultor (2015).md',
     'tarrazu-bienestar': 'San José/Tarrazú/Política Cantonal de Bienestar Animal de Tarrazú (2026).md',
 }
 MESES_RM = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'setiembre', 'octubre', 'noviembre', 'diciembre']

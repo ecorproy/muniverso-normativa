@@ -41,6 +41,10 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - CM, art. 57: los concejos de distrito proponen beneficiarios de bonos de alimentación; art. 71.
 - Ley N.° 10750, art. 9.
 - Ley N.° 10718, Ley para la Creación de la Política Nacional de Ferias Institucionales y Comerciales, art. 4: las municipalidades pueden solicitar su incorporación y coordinar la realización de ferias institucionales y municipales.
+- Ley N.° 2035, Orgánica del Consejo Nacional de Producción, art. 9 (texto de la Ley 8700, 2008): los entes públicos deben proveerse del CNP de los suministros genéricos de su tráfico; art. 9 bis (Ley 10317, 2023): acceso preferente de organizaciones de mujeres y de personas con discapacidad. Reglamento del Programa de Abastecimiento Institucional (CNP, 2023, reformado en 2026), arts. 9, 16, 20, 25, 44 y 46: clientes institucionales, origen nacional y patente municipal como requisito del suplidor.
+- Ley N.° 8533, arts. 12, 16 y 39: lista semanal de precios de referencia del CNP; voz municipal en las asambleas de la Junta Nacional; plan de desechos orgánicos de cada feria.
+- Ley N.° 6035, art. 9: el reglamento ejecutivo de los mercados libres debe impedir la especulación y el acaparamiento.
+- Ley N.° 8591, Actividad Agropecuaria Orgánica, arts. 3, 9, 14, 17 y 18: certificación participativa para ferias y venta a instituciones; puestos de venta de productos orgánicos en los espacios de comercialización.
 
 **4. Integridad personal y de bienes**
 - CM, arts. 61 a 68: policía municipal, competencia, atribuciones y carácter de servicio público; art. 83.

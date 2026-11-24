@@ -15,6 +15,13 @@
  },
  {
   "archivo": "t03.md",
+  "palabras": 7,
+  "fuente": "RM:goicoechea-mercadolibre:art. 1",
+  "estado": "OK",
+  "cita": "dentro de un contexto de sana competencia"
+ },
+ {
+  "archivo": "t03.md",
   "palabras": 27,
   "fuente": "CP:art. 46",
   "estado": "OK",
@@ -50,10 +57,17 @@
  },
  {
   "archivo": "t03.md",
-  "palabras": 18,
-  "fuente": "L:7794:art. 57",
+  "palabras": 7,
+  "fuente": "RM:canas-feria:art. 1",
   "estado": "OK",
-  "cita": "las becas de estudio, los bonos de vivienda y alimentación, "
+  "cita": "Feria Municipal del Mercado Libre del Agricultor"
+ },
+ {
+  "archivo": "t03.md",
+  "palabras": 11,
+  "fuente": "RM:oreamuno-decomisos:art. 3",
+  "estado": "OK",
+  "cita": "o cualquier otra causa a juicio de la Municipalidad de Oream"
  },
  {
   "archivo": "t03.md",
@@ -64,9 +78,79 @@
  },
  {
   "archivo": "t03.md",
+  "palabras": 9,
+  "fuente": "RM:goicoechea-mercadolibre:art. 11",
+  "estado": "OK",
+  "cita": "los precios recomendados por el Consejo Nacional de Producci"
+ },
+ {
+  "archivo": "t03.md",
+  "palabras": 6,
+  "fuente": "RM:alajuela-mercado:art. 2",
+  "estado": "OK",
+  "cita": "en condición de centro de abastecimiento"
+ },
+ {
+  "archivo": "t03.md",
+  "palabras": 8,
+  "fuente": "D:C-158-2023:apartado I",
+  "estado": "OK",
+  "cita": "un representante de la Unión de Gobiernos Locales"
+ },
+ {
+  "archivo": "t03.md",
+  "palabras": 6,
+  "fuente": "L:8591:art. 3",
+  "estado": "OK",
+  "cita": "el adecuado reparto de la riqueza"
+ },
+ {
+  "archivo": "t03.md",
+  "palabras": 7,
+  "fuente": "L:8533:art. 12",
+  "estado": "OK",
+  "cita": "regirá para todas las ferias del país"
+ },
+ {
+  "archivo": "t03.md",
+  "palabras": 28,
+  "fuente": "L:2035:art. 9",
+  "estado": "OK",
+  "cita": "Los entes públicos están obligados a proveerse del Consejo N"
+ },
+ {
+  "archivo": "t03.md",
+  "palabras": 14,
+  "fuente": "RM:cnp-pai:art. 25",
+  "estado": "OK",
+  "cita": "o Patente Comercial extendida por la Municipalidad respectiv"
+ },
+ {
+  "archivo": "t03.md",
+  "palabras": 18,
+  "fuente": "L:7794:art. 57",
+  "estado": "OK",
+  "cita": "las becas de estudio, los bonos de vivienda y alimentación, "
+ },
+ {
+  "archivo": "t03.md",
+  "palabras": 5,
+  "fuente": "RM:oreamuno-decomisos:art. 3",
+  "estado": "OK",
+  "cita": "cualquier otra causa a juicio"
+ },
+ {
+  "archivo": "t03.md",
   "palabras": 2,
   "fuente": "D:C-243-1997:conclusión",
   "estado": "OK",
   "cita": "en principio"
+ },
+ {
+  "archivo": "t03.md",
+  "palabras": 3,
+  "fuente": "L:2035:art. 9",
+  "estado": "OK",
+  "cita": "Los entes públicos"
  }
 ]

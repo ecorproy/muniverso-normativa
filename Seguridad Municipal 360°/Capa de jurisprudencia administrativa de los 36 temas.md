@@ -74,6 +74,7 @@ Temas sin pronunciamiento en el repositorio: 8 Personas en situación de calle; 
 - B · PGR, dictamen C-205-2025 (Ministerio de Salud): los recursos del Consejo Técnico de Asistencia Médico Social para promoción y prevención de la salud mental tienen destino específico.
 
 **3. Alimentación**
+- B · PGR, dictamen C-158-2023 (PIMA): transcribe la integración del consejo directivo del PIMA, con el presidente ejecutivo del IFAM y un representante de la Unión de Gobiernos Locales. Agregado al tema 3 el 23 de noviembre de 2026.
 - B · PGR, dictamen [C-243-1997](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=9881&param2=0), de 16 de diciembre de 1997 (Municipalidad de Goicoechea): Consulta del Concejo de Goicoechea sobre ferias del agricultor; se remitió copia a la Junta Nacional de Ferias del Agricultor.
 
 **4. Integridad personal y de bienes**

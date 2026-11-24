@@ -1,8 +1,9 @@
-CITAS TEXTUALES: 10 | OK: 8
+CITAS TEXTUALES: 22 | OK: 20
   [t03.md] 3p | D:C-243-1997:planteamiento de la consulta | LITERAL (sin localización que cotejar) | "legal y moralmente"
   [t03.md] 11p | D:C-243-1997:planteamiento de la consulta | LITERAL (sin localización que cotejar) | "no podrían valorar el ajuste moral de una posible decisión a"
 
-UBICACIONES VERIFICADAS A MANO (0):
+UBICACIONES VERIFICADAS A MANO (1):
+  [t03.md] D:C-158-2023:apartado I: "un representante de la Unión de Gobiernos Locales" (segmentador: ['II'])
 
 ERRORES (0):
 
