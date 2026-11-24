@@ -72,6 +72,9 @@ Tanda 7: se agregaron dos votos (2023-021531 y 2025-018866), aportados por Edwar
 
 ### Cuadrante I. Vida (CP, art. 21)
 
+**2. Salud mental**
+- Sin voto propio sobre programas municipales de salud mental. El tema 2 (régimen nuevo, 23 de noviembre de 2026) usa votos de otros temas: Pococí 2008-005692 (cons. III: el ruido nocturno y sus efectos sobre la salud mental y el sueño; cons. VII: deber municipal de vigilar la actividad autorizada; tema 27); Belén 2012-004620 (cons. VI: posición del Colegio de Psicólogos sobre la salud mental y la violencia hacia los animales; por tanto con orden al alcalde y a la presidenta del Concejo; tema 31); Goicoechea 2008-016885 (cons. IV); Escazú 2007-011500 (cons. III); San José 2024-032554 y la regla del voto 2010-001664 sobre la rehabilitación previa a la sanción de la persona servidora con alcoholismo (tema 7).
+
 **3. Alimentación**
 - Lateral: voto N.° 2007-010102, de las 10:46 horas del 20 de julio de 2007 (expediente 07-007053-0007-CO, contra la Junta Nacional de Ferias del Agricultor y el Centro Agrícola Cantonal de Santo Domingo de Heredia; la municipalidad no fue parte). Sin lugar; redacta la magistrada Calzada Miranda. Un vendedor de café molido de la feria de Tibás fue excluido verbalmente porque el ente emisor de carnés, tras inspeccionar su finca, informó que no producía lo que vendía; tenía el carné y los permisos sanitarios vencidos. La Sala: no hay lesión al debido proceso, porque la Junta abrió audiencia y el procedimiento seguía en curso, y exigir requisitos para vender en la feria (ser productor, vender lo que produce, portar el carné) no limita el derecho al trabajo, sino que organiza la feria en beneficio de vendedores y consumidores (Ley 8533). Toca también el tema 18.
 

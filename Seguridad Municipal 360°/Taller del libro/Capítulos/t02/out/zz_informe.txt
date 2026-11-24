@@ -1,7 +1,8 @@
-CITAS TEXTUALES: 12 | OK: 9
+CITAS TEXTUALES: 22 | OK: 18
   [t02.md] 21p | RM:desamparados-ninez:eje Salud | LITERAL (sin localización que cotejar) | "Las personas adolescentes identificaron como la principal pr"
   [t02.md] 14p | RM:desamparados-ninez:lineamiento 12 | LITERAL (sin localización que cotejar) | "Declarar emergencia cantonal la atención y gestión efectiva "
   [t02.md] 15p | RM:desamparados-ninez:recomendación 12, letra b | LITERAL (sin localización que cotejar) | "con una afectación importante sobre la salud mental de las p"
+  [t02.md] 22p | D:C-050-2023 | LITERAL (sin localización que cotejar) | "podría existir una afectación para el trabajador en su salud"
 
 UBICACIONES VERIFICADAS A MANO (0):
 

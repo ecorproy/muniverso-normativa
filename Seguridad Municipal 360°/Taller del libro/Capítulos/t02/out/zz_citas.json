@@ -36,10 +36,24 @@
  },
  {
   "archivo": "t02.md",
-  "palabras": 15,
-  "fuente": "L:10412:art. 2",
+  "palabras": 3,
+  "fuente": "V:2008-005692:considerando III",
   "estado": "OK",
-  "cita": "pueden ejercer un rol fundamental en la promoción de la salu"
+  "cita": "la salud mental"
+ },
+ {
+  "archivo": "t02.md",
+  "palabras": 9,
+  "fuente": "V:2008-005692:considerando III",
+  "estado": "OK",
+  "cita": "es prerrequisito para el buen funcionamiento fisiológico y m"
+ },
+ {
+  "archivo": "t02.md",
+  "palabras": 18,
+  "fuente": "V:2008-005692:considerando VII",
+  "estado": "OK",
+  "cita": "debe velar por que la actividad comercial que autorizó no ca"
  },
  {
   "archivo": "t02.md",
@@ -64,10 +78,59 @@
  },
  {
   "archivo": "t02.md",
-  "palabras": 5,
-  "fuente": "D:C-205-2025:conclusión",
+  "palabras": 13,
+  "fuente": "RM:heredia-palacio:art. 3",
   "estado": "OK",
-  "cita": "únicamente por el legislador ordinario"
+  "cita": "de interés en mejora de la salud mental y física de la comun"
+ },
+ {
+  "archivo": "t02.md",
+  "palabras": 16,
+  "fuente": "L:10412:art. 7",
+  "estado": "OK",
+  "cita": "y a eliminar el estigma y la discriminación a personas con t"
+ },
+ {
+  "archivo": "t02.md",
+  "palabras": 9,
+  "fuente": "RM:cartago-adicciones:art. 5",
+  "estado": "OK",
+  "cita": "no podrán ser sujetas a ningún tipo de discriminación"
+ },
+ {
+  "archivo": "t02.md",
+  "palabras": 8,
+  "fuente": "RM:sancarlos-acoso:art. 3",
+  "estado": "OK",
+  "cita": "destruir psicológicamente, intimidar, infundir miedo, terror"
+ },
+ {
+  "archivo": "t02.md",
+  "palabras": 11,
+  "fuente": "D:C-157-2019:conclusión",
+  "estado": "OK",
+  "cita": "aún cuando el servidor denunciante ya no labore en la instit"
+ },
+ {
+  "archivo": "t02.md",
+  "palabras": 22,
+  "fuente": "D:C-050-2023",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "podría existir una afectación para el trabajador en su salud"
+ },
+ {
+  "archivo": "t02.md",
+  "palabras": 20,
+  "fuente": "V:2010-001664:considerando III",
+  "estado": "OK",
+  "cita": "la oportunidad de someterse a rehabilitación para superar su"
+ },
+ {
+  "archivo": "t02.md",
+  "palabras": 16,
+  "fuente": "V:2024-032554:considerando IV",
+  "estado": "OK",
+  "cita": "Por ende no se demostró su condición de alcoholismo ante la "
  },
  {
   "archivo": "t02.md",
@@ -75,6 +138,13 @@
   "fuente": "D:C-163-2024:conclusión",
   "estado": "OK",
   "cita": "y no solo aquellos bajo la Rectoría de MIDEPLAN"
+ },
+ {
+  "archivo": "t02.md",
+  "palabras": 5,
+  "fuente": "D:C-205-2025:conclusión",
+  "estado": "OK",
+  "cita": "únicamente por el legislador ordinario"
  },
  {
   "archivo": "t02.md",

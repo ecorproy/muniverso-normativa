@@ -229,6 +229,13 @@ RM = {
     'grecia-opamdis': 'Alajuela/Grecia/Reglamento para la oficina municipal de la persona adulta mayor y de la persona con discapacidad de Grecia (2025).md',
     'santaana-ensueno': 'San José/Santa Ana/Reglamento para la admisión, permanencia y egreso de personas beneficiarias del Centro Diurno Municipal de adultos mayores Ensueño de Oro (2024).md',
     'escazu-ccdr': 'San José/Escazú/Reforma Integral Reglamento para el nombramiento y funcionamiento del Comité Cantonal de Deportes y Recreación del Cantón de Escazú y de los Comités C (2025).md',
+    'goicoechea-estigma': 'San José/Goicoechea/Política publica cantonal declaratoria del cantón libre de estigma y discriminación (2021).md',
+    'santaana-joven': 'San José/Santa Ana/Reglamento del comité de la persona joven del cantón de Santa Ana (2025).md',
+    'cartago-adicciones': 'Cartago/Cartago/Reglamento para la atención de las adicciones al alcohol y otras sustancias psicoactivas de las personas colab (2024).md',
+    'heredia-palacio': 'Heredia/Heredia/Reglamento para la administración y funcionamiento del Palacio de los Deportes de Heredia (2026).md',
+    'sancarlos-acoso': 'Alajuela/San Carlos/Reglamento para prevenir, investigar y sancionar el acoso laboral en la Municipalidad de San Carlos (2019).md',
+    'santabarbara-so': 'Heredia/Santa Bárbara/Reglamento de salud ocupacional de la Municipalidad de Santa Bárbara (2023).md',
+    'sanisidro-teletrabajo': 'Heredia/San Isidro de Heredia/Reglamento para la aplicación del teletrabajo en la Municipalidad de San Isidro de Heredia (2024).md',
     'tarrazu-bienestar': 'San José/Tarrazú/Política Cantonal de Bienestar Animal de Tarrazú (2026).md',
 }
 MESES_RM = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'setiembre', 'octubre', 'noviembre', 'diciembre']

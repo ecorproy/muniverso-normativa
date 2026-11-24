@@ -22,7 +22,7 @@ Abreviaturas: PGR, Procuraduría General de la República; CGR, Contraloría Gen
 | N.° | Tema | PGR A | PGR B | CGR |
 |---|---|---|---|---|
 | 1 | Salud física | 1 | 1 | 0 |
-| 2 | Salud mental | 0 | 0 | 0 |
+| 2 | Salud mental | 2 | 2 | 0 |
 | 3 | Alimentación | 0 | 1 | 0 |
 | 4 | Integridad personal y de bienes | 4 | 7 | 0 |
 | 5 | Seguridad vial | 3 | 9 | 0 |
@@ -59,7 +59,7 @@ Abreviaturas: PGR, Procuraduría General de la República; CGR, Contraloría Gen
 | 36 | Economía local | 2 | 32 | 2 |
 | — | Educación (sin decidir como tema) | 2 | 8 | 0 |
 
-Temas sin pronunciamiento en el repositorio: 2 Salud mental; 8 Personas en situación de calle; 11 Igualdad de género; 12 Personas migrantes y refugiadas; 21 Niñez; 26 Violencia doméstica; 27 Convivencia vecinal; 31 Animales.
+Temas sin pronunciamiento en el repositorio: 8 Personas en situación de calle; 11 Igualdad de género; 12 Personas migrantes y refugiadas; 21 Niñez; 26 Violencia doméstica; 27 Convivencia vecinal; 31 Animales.
 
 ## Cuadrante I. Vida
 
@@ -68,7 +68,10 @@ Temas sin pronunciamiento en el repositorio: 2 Salud mental; 8 Personas en situa
 - B · PGR, dictamen [C-058-2013](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=17597&param2=0), de 10 de abril de 2013 (Municipalidad de Heredia): Ventas ambulantes de alimentos: ni las autoridades de salud ni las municipalidades pueden autorizarlas; por excepción y con carácter temporal, patentes o permisos en ferias, previo permiso del Ministerio de Salud.
 
 **2. Salud mental**
-- Sin pronunciamiento en el repositorio.
+- A · PGR, dictamen [C-157-2019](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=21528&param2=0), de 4 de junio de 2019 (Municipalidad de Acosta): Acoso laboral: la denuncia seria obliga a abrir de oficio el procedimiento disciplinario contra el denunciado aunque el denunciante ya no labore en la institución; el cuerpo transcribe una descripción de los efectos del acoso sobre la salud, hasta el suicidio. Agregado al tema 2 el 23 de noviembre de 2026; toca también el tema 18.
+- A · PGR, dictamen [C-050-2023](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23840&param2=0), de 16 de marzo de 2023 (Municipalidad de Palmares): La jornada extraordinaria del servidor municipal debe ser excepcional, ocasional y discontinua; la habitual y permanente está prohibida, entre otras razones por su efecto sobre la salud mental y física del trabajador. Agregado al tema 2 el 23 de noviembre de 2026; toca también el tema 18.
+- B · PGR, dictamen C-163-2024 (IAFA): vacaciones profilácticas, factibles en todas las entidades cubiertas por la Ley Marco de Empleo Público con estudio técnico de salud ocupacional.
+- B · PGR, dictamen C-205-2025 (Ministerio de Salud): los recursos del Consejo Técnico de Asistencia Médico Social para promoción y prevención de la salud mental tienen destino específico.
 
 **3. Alimentación**
 - B · PGR, dictamen [C-243-1997](https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=9881&param2=0), de 16 de diciembre de 1997 (Municipalidad de Goicoechea): Consulta del Concejo de Goicoechea sobre ferias del agricultor; se remitió copia a la Junta Nacional de Ferias del Agricultor.
