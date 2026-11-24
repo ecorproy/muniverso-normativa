@@ -455,7 +455,7 @@ def cita_tca(x, loc):
     sec = os.path.basename(f).split()[2]
     yy, num = x.split('-')
     num = str(int(num))
-    secs = {'I': 'Sección I', 'II': 'Sección II', 'III': 'Sección III', 'IV': 'Sección IV'}.get(sec)
+    secs = {k: f'Sección {k}' for k in ('I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X')}.get(sec)
     org = f'Tribunal Contencioso Administrativo, {secs}' if secs else 'Tribunal Contencioso Administrativo'
     orgref = f'Tribunal Contencioso Administrativo, {secs}' if secs else 'Tribunal Contencioso Administrativo y Civil de Hacienda'
     hs = f', de las {h} horas' if h else ''
@@ -560,12 +560,38 @@ RM = {
     'sanisidro-genero': 'Heredia/San Isidro de Heredia/Política de Igualdad y Equidad de Género 2025-2035 (2025).md',
     'moravia-policia': 'San José/Moravia/Reglamento del Cuerpo de la Policía Municipal Moravia (2014).md',
     'pz-seguridad': 'San José/Pérez Zeledón/Reglamento para la regulación de las funciones y servicios del subproceso de control y seguridad ciudadana de (2017).md',
+    'curridabat-espectaculos': 'San José/Curridabat/Reglamento de espectáculos públicos de la Municipalidad de Curriidabat (2024).md',
+    'sanjose-perifoneo': 'San José/San José/Reglamento que regula la actividad de perifoneo y otras fuentes emisoras de sonido dentro de la jurisdicción d (2016).md',
+    'zarcero-licencias': 'Alajuela/Zarcero/Reglamento para la solicitud de licencias municipales en el Cantón de Zarcero (2020).md',
+    'alajuela-espectaculos': 'Alajuela/Alajuela/Reglamento de espectáculos públicos, actividades y eventos de la Municipalidad de Alajuela (2021).md',
+    'santaana-casajusticia': 'San José/Santa Ana/Reglamento de Organización, Funcionamiento y Ética de La Casa de Justicia de Santa Ana (2014).md',
+    'grecia-policia': 'Alajuela/Grecia/Reglamento de policía municipal del Cantón de Grecia (2026).md',
+    'sanjose-casajusticia': 'San José/San José/Reglamento interno de organización, funcionamiento y ética de la Casa de Justicia (2015).md',
+    'ifam-casajusticia': 'Entes intermunicipales/IFAM/Reglamento de Organización, Funcionamiento y Ética de las Casas de Justicia (2015).md',
     'desamparados-ninez': 'San José/Desamparados/Política cantonal de niñez y adolescencias del cantón de Desamparados, y su plan de acción interinstitucional (2023).md',
     'guatuso-raos': 'Alajuela/Guatuso/Reglamento Autónomo de Organización y Servicios de la Municipalidad del Cantón de Guatuso (2018).md',
     'grecia-opamdis': 'Alajuela/Grecia/Reglamento para la oficina municipal de la persona adulta mayor y de la persona con discapacidad de Grecia (2025).md',
     'santaana-ensueno': 'San José/Santa Ana/Reglamento para la admisión, permanencia y egreso de personas beneficiarias del Centro Diurno Municipal de adultos mayores Ensueño de Oro (2024).md',
     'escazu-ccdr': 'San José/Escazú/Reforma Integral Reglamento para el nombramiento y funcionamiento del Comité Cantonal de Deportes y Recreación del Cantón de Escazú y de los Comités C (2025).md',
+    'goicoechea-estigma': 'San José/Goicoechea/Política publica cantonal declaratoria del cantón libre de estigma y discriminación (2021).md',
+    'santaana-joven': 'San José/Santa Ana/Reglamento del comité de la persona joven del cantón de Santa Ana (2025).md',
+    'cartago-adicciones': 'Cartago/Cartago/Reglamento para la atención de las adicciones al alcohol y otras sustancias psicoactivas de las personas colab (2024).md',
+    'heredia-palacio': 'Heredia/Heredia/Reglamento para la administración y funcionamiento del Palacio de los Deportes de Heredia (2026).md',
+    'sancarlos-acoso': 'Alajuela/San Carlos/Reglamento para prevenir, investigar y sancionar el acoso laboral en la Municipalidad de San Carlos (2019).md',
+    'santabarbara-so': 'Heredia/Santa Bárbara/Reglamento de salud ocupacional de la Municipalidad de Santa Bárbara (2023).md',
+    'sanisidro-teletrabajo': 'Heredia/San Isidro de Heredia/Reglamento para la aplicación del teletrabajo en la Municipalidad de San Isidro de Heredia (2024).md',
+    'cnp-pai': '/home/claude/repo/main/Leyes y decretos nacionales/Administrativo/Reglamento del Programa de Abastecimiento Institucional CNP (2023).md',
+    'goicoechea-mercadolibre': 'San José/Goicoechea/Reglamento de Organización y Funcionamiento del Mercado Libre de Guadalupe (2005).md',
+    'canas-feria': 'Guanacaste/Cañas/Reglamento de la Feria Municipal del Mercado Libre del Agricultor (2004).md',
+    'alajuela-mercado': 'Alajuela/Alajuela/Reglamento del Mercado Municipal de Alajuela (2014).md',
+    'sancarlos-donaciones': 'Alajuela/San Carlos/Reglamento para entrega de donaciones de la Municipalidad de San Carlos (2026).md',
+    'oreamuno-decomisos': 'Cartago/Oreamuno/Reglamento para Decomisos de Mercadería por Ventas en la Vía Pública y Fería del Agricultor (2015).md',
     'tarrazu-bienestar': 'San José/Tarrazú/Política Cantonal de Bienestar Animal de Tarrazú (2026).md',
+    'naranjo-policia': 'Alajuela/Naranjo/Reglamento de la policía municipal e inspectores municipales de tránsito de la Municipalidad de Naranjo (2025).md',
+    'acosta-reductores': 'San José/Acosta/Reglamento para la instalación y eliminación de reductores de velocidad en las vías públicas terrestres de acu (2018).md',
+    'santaana-reductores': 'San José/Santa Ana/Reglamento para la Instalación de Reductores de Velocidad en las Vías Cantonales (2009).md',
+    'poas-colosevi': 'Alajuela/Poás/Reglamento del Consejo Local de Seguridad Vial (COLOSEVI-POÁS) (2008).md',
+    'atenas-colosevi': 'Alajuela/Atenas/Reglamento del Consejo local de Seguridad Vial (COLOSEVI) de la Municipalidad de Atenas (2012).md',
 }
 MESES_RM = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'setiembre', 'octubre', 'noviembre', 'diciembre']
 
