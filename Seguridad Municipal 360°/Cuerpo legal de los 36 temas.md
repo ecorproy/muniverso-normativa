@@ -29,7 +29,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - Ley N.° 9028, Control del Tabaco, arts. 32, 34 y 36: fiscalización, decomiso y clausura.
 - Ley N.° 7554, Orgánica del Ambiente, art. 60: prevención y control de la contaminación.
 - Ley N.° 5412, Ley Orgánica del Ministerio de Salud, art. 55: las municipalidades deben destinar no menos del 20% de sus entradas anuales a los servicios de salud de sus localidades y atender las medidas sanitarias que indique el Ministerio; art. 56: obras públicas de carácter sanitario.
-- Ley N.° 10942, Ley para el cumplimiento, control y penalización de las quemas en terrenos de aptitud agrícola y pecuaria, arts. 3 y 4: fiscalización municipal de las quemas y solicitud de suspensión por riesgo para la salud, la seguridad o el ambiente.
+- Ley N.° 10942, Ley para el cumplimiento, control y penalización de las quemas en terrenos de aptitud agrícola y pecuaria, arts. 3 y 4: fiscalización municipal de las quemas y solicitud de suspensión por riesgo para la salud, la seguridad o el ambiente. La misma ley reformó el art. 24 de la Ley 7779: representación municipal posible en los comités locales de control de quemas.
 
 **2. Salud mental**
 - Ley N.° 10412, Ley de salud mental, art. 23: facultad municipal de coordinar con la Secretaría Técnica de Salud Mental y de desarrollar programas, proyectos y capacitaciones; art. 30: representación de los gobiernos locales.
@@ -237,7 +237,7 @@ Normas que atribuyen o reconocen competencia al Gobierno Municipal en cada tema.
 - Ley N.° 7788, Biodiversidad, art. 29.
 - Ley N.° 6043, Ley sobre la Zona Marítimo Terrestre, art. 3: compete a las municipalidades velar por el cumplimiento de la ley; el usufructo y la administración de la zona marítimo terrestre corresponden a la municipalidad de la jurisdicción.
 - Ley N.° 7317, Ley de Conservación de la Vida Silvestre, arts. 13 y 84: colaboración municipal y refugios de vida silvestre en terrenos municipales.
-- Ley N.° 7779, Uso, Manejo y Conservación de Suelos, arts. 24 y 34: representación municipal en los comités de uso, manejo y conservación de suelos.
+- Ley N.° 7779, Uso, Manejo y Conservación de Suelos, art. 24 (reformado por la Ley 10942, 2026): los comités locales de control de quemas pueden integrar un representante de la municipalidad, delegable en una organización distrital o cantonal; art. 34: un representante de cada gobierno municipal en el comité por área de manejo de suelos; art. 36, inciso g: ese comité emite criterio técnico sobre los planes reguladores antes de que la municipalidad los oficialice; art. 48: en la revaloración general, el uso acorde con la capacidad del suelo es criterio para asignar un valor menor; art. 49: exoneración del 40 % del impuesto sobre bienes inmuebles a terrenos agrícolas usados según su capacidad y con prácticas de conservación. Texto confirmado con el aportado por el autor el 23 de noviembre de 2026 (idéntico al de `main`).
 - Ley N.° 68, Ley de Protección de las Cuencas Hidrograficas, arts. 2 y 4.
 - Ley N.° 10124, Ley para la conservación y desarrollo sostenible de los ecosistemas de humedales de San Vito de Coto Brus, art. 3: zonificación de cuencas en coordinación con el gobierno local.
 
