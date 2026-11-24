@@ -20,6 +20,8 @@ Ley N.° 5412, *Ley Orgánica del Ministerio de Salud*. (1973). Asamblea Legisla
 
 Ley N.° 7554, *Ley Orgánica del Ambiente*. (1995). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=27738&param2=152294&param3=1
 
+Ley N.° 7779, *Uso, Manejo y Conservación de Suelos*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=26421&param2=152980&param3=1
+
 Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40197&param2=152716&param3=1
 
 Ley N.° 7800, *Crea Instituto del Deporte y Recreación (ICODER) y su Régimen Jurídico*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=26290&param2=132169&param3=1
