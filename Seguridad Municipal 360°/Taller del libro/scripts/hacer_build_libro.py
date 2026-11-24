@@ -251,6 +251,9 @@ RM = {
     'sanjose-riesgo': 'San José/San José/Reglamento para la Gestión Ambiental, Gestión de Riesgo, Atención de Emergencias y Desastres (2005).md',
     'curridabat-riesgo': 'San José/Curridabat/Reglamento para la Gestión de Riesgo y Atención de Emergencias y Desastres en el cantón de Curridabat (2007).md',
     'sanjose-ayudas-emergencia': 'San José/San José/Reglamento para el otorgamiento de ayudas temporales en el cantón San José para situaciones de emergencias o d (2016).md',
+    'grecia-licores': 'Alajuela/Grecia/Reglamento de Regulación y Comercialización de Bebidas con Contenido Alcohólico de la Municipalidad de Grecia (2015).md',
+    'poas-licores': 'Alajuela/Poás/Reglamento de patentes de licores del Cantón de Poás (2022).md',
+    'zarcero-trabajo': 'Alajuela/Zarcero/Reglamento interno de trabajo de la Municipalidad de Zarcero (2018).md',
     'escazu-brigadistas': 'San José/Escazú/Reglamento para brigadistas ad-honorem de seguridad vial y atención de emergencias y monitoreos preventivos (2018).md',
 }
 MESES_RM = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'setiembre', 'octubre', 'noviembre', 'diciembre']

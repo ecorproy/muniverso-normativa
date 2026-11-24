@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 20 | OK: 19
+CITAS TEXTUALES: 24 | OK: 23
   [t07.md] 13p | V:2009-015920:considerando único | LITERAL (sin localización que cotejar) | "la medida de cierre provocaría un impacto inmediato negativo"
 
 UBICACIONES VERIFICADAS A MANO (4):

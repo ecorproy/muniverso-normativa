@@ -43,10 +43,17 @@
  },
  {
   "archivo": "t07.md",
-  "palabras": 21,
-  "fuente": "L:9047:art. 3",
+  "palabras": 8,
+  "fuente": "L:9047:art. 1",
   "estado": "OK",
-  "cita": "La comercialización al detalle de bebidas con contenido alco"
+  "cita": "y previene el consumo abusivo de tales productos"
+ },
+ {
+  "archivo": "t07.md",
+  "palabras": 13,
+  "fuente": "V:2009-015920:considerando único",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "la medida de cierre provocaría un impacto inmediato negativo"
  },
  {
   "archivo": "t07.md",
@@ -57,45 +64,24 @@
  },
  {
   "archivo": "t07.md",
-  "palabras": 8,
-  "fuente": "L:9047:art. 6",
+  "palabras": 4,
+  "fuente": "RM:grecia-licores:art. 8",
   "estado": "OK",
-  "cita": "toleren conductas ilegales, violencia dentro de sus establec"
+  "cita": "de puerta a puerta"
  },
  {
   "archivo": "t07.md",
-  "palabras": 13,
-  "fuente": "L:9047:art. 25",
+  "palabras": 5,
+  "fuente": "RM:grecia-licores:art. 8",
   "estado": "OK",
-  "cita": "Las municipalidades serán las responsables de velar por el c"
+  "cita": "centros de recuperación para adicciones"
  },
  {
   "archivo": "t07.md",
-  "palabras": 27,
-  "fuente": "L:7786:art. 15",
+  "palabras": 9,
+  "fuente": "L:9047:art. 2",
   "estado": "OK",
-  "cita": "Las municipalidades del país no podrán extender nuevas paten"
- },
- {
-  "archivo": "t07.md",
-  "palabras": 13,
-  "fuente": "D:C-276-2014:conclusión",
-  "estado": "OK",
-  "cita": "Las Corporaciones municipales poseen la competencia exclusiv"
- },
- {
-  "archivo": "t07.md",
-  "palabras": 18,
-  "fuente": "D:C-166-2014:conclusión",
-  "estado": "OK",
-  "cita": "El Transitorio II de la Ley No. 9047 dispone la obligación d"
- },
- {
-  "archivo": "t07.md",
-  "palabras": 10,
-  "fuente": "D:C-213-2013:conclusión",
-  "estado": "OK",
-  "cita": "una sanción de carácter administrativo a cargo de las munici"
+  "cita": "previo cumplimiento de requisitos y pago de ese derecho"
  },
  {
   "archivo": "t07.md",
@@ -113,10 +99,52 @@
  },
  {
   "archivo": "t07.md",
+  "palabras": 14,
+  "fuente": "T:2008-000018:considerando VIII",
+  "estado": "OK",
+  "cita": "el tema de patentes de licores es materia de resorte o compe"
+ },
+ {
+  "archivo": "t07.md",
+  "palabras": 4,
+  "fuente": "L:9047:art. 3",
+  "estado": "OK",
+  "cita": "no constituye un activo"
+ },
+ {
+  "archivo": "t07.md",
   "palabras": 13,
-  "fuente": "V:2009-015920:considerando único",
-  "estado": "LITERAL (sin localización que cotejar)",
-  "cita": "la medida de cierre provocaría un impacto inmediato negativo"
+  "fuente": "D:C-276-2014:conclusión",
+  "estado": "OK",
+  "cita": "Las Corporaciones municipales poseen la competencia exclusiv"
+ },
+ {
+  "archivo": "t07.md",
+  "palabras": 9,
+  "fuente": "L:9047:art. 20",
+  "estado": "OK",
+  "cita": "deberán decomisar el producto y levantar el parte correspond"
+ },
+ {
+  "archivo": "t07.md",
+  "palabras": 10,
+  "fuente": "D:C-213-2013:conclusión",
+  "estado": "OK",
+  "cita": "una sanción de carácter administrativo a cargo de las munici"
+ },
+ {
+  "archivo": "t07.md",
+  "palabras": 8,
+  "fuente": "L:9047:art. 6",
+  "estado": "OK",
+  "cita": "toleren conductas ilegales, violencia dentro de sus establec"
+ },
+ {
+  "archivo": "t07.md",
+  "palabras": 27,
+  "fuente": "L:7786:art. 15",
+  "estado": "OK",
+  "cita": "Las municipalidades del país no podrán extender nuevas paten"
  },
  {
   "archivo": "t07.md",
