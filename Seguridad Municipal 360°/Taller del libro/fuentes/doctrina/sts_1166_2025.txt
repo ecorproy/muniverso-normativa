@@ -1,0 +1,448 @@
+                                                                         www.civil-mercantil.com
+
+
+
+TRIBUNAL SUPREMO
+Sentencia núm. 1166/2025, de 17 de julio de 2025
+Sala de lo Civil
+Rec. núm. 5962/2024
+
+
+SUMARIO:
+
+
+Derecho a la intimidad. Instalación de mirilla con potencial grabación de imágenes. Zonas
+comunes. Interior de la vivienda. Finalidad con la que se instala el dispositivo. Juicio de
+proporcionalidad.
+
+El derecho a la intimidad garantiza a la persona un ámbito reservado de su vida coincidente con
+aquel en que se desarrollan las relaciones de tal naturaleza, pues permite mantenerlo excluido
+tanto del conocimiento como de las intromisiones de terceros, se trate de poderes públicos o de
+particulares, en contra de su voluntad. Tal derecho fundamental, que deriva del principio de
+respeto a la dignidad de la persona que reconoce el artículo 10 de la Constitución, implica la
+existencia de un ámbito propio y reservado frente a la acción y el conocimiento de los demás,
+necesario, según las pautas de nuestra cultura, para mantener una calidad mínima de la vida
+humana.
+
+Existen ciertas afectaciones a la intimidad de los vecinos que han de considerarse legítimas por
+tratarse de limitaciones del antedicho derecho fundamental acordes a los usos sociales que
+delimitan su protección y que se encuentran justificadas por la protección de la seguridad de las
+personas que viven en el edificio y de sus bienes, y por el adecuado servicio al edificio. Entre
+esas afectaciones legitimadas por los usos sociales se encuentran la existencia de mirillas en las
+puertas de las viviendas o la existencia de un servicio de conserjería en el edificio.
+
+La instalación de cámaras de videovigilancia en las zonas comunes del edificio en régimen
+de propiedad horizontal no es irrelevante para la intimidad de quienes habitan en las distintas
+viviendas del edificio. Aunque la captación de imágenes en esas zonas comunes no afecta al
+derecho a la intimidad de esos vecinos tan intensamente como afectaría la captación de
+imágenes en el interior de sus viviendas, la posibilidad de que pueda conocerse quién entra en
+el edificio y accede a una de las viviendas del mismo, y en qué circunstancias lo hace, supone
+una afectación de la intimidad de los vecinos. Sin embargo, es proporcionada y, por tanto,
+legítima la instalación de un servicio de videovigilancia idónea para la finalidad legítima de
+proteger la seguridad de los vecinos y de sus bienes cuando su necesidad se encuentra
+razonablemente justificada por el acaecimiento de actos de vandalismo en el edificio con
+anterioridad a su instalación. Así, la afectación al derecho a la intimidad personal y familiar no es
+desproporcionada cuando la instalación y puesta en funcionamiento de las cámaras es conocida
+por los vecinos, solo se captan imágenes de las zonas comunes del edificio (no del interior de
+ninguna vivienda) y existen cautelas adoptadas para custodiar las imágenes y para que el acceso
+a tales imágenes esté muy limitado.
+
+En el presente caso, la instalación del dispositivo de captación, transmisión y, al menos
+potencialmente, grabación de imágenes supone una afectación relevante de la intimidad
+personal y familiar de los demandantes pues se activa cada vez que alguien acude a su vivienda
+o sale de ella y permite ver en el interior de la misma, y esa afectación no es proporcionada con
+el beneficio que supone para la satisfacción de intereses de los demandados dignos de
+protección. Los argumentos que se exponen en el recurso sobre la falta de prueba de que el
+dispositivo grabe efectivamente imágenes son irrelevantes porque basta con que permita captar
+y transmitir las imágenes, y potencialmente, grabarlas.
+
+
+PONENTE: Excmo. Sr. D. Rafael Saraza Jimena
+
+                                                 1
+                                                                     www.civil-mercantil.com
+
+
+
+
+SENTENCIA
+
+Magistrados/as
+IGNACIO SANCHO GARGALLO
+RAFAEL SARAZA JIMENA
+PEDRO JOSE VELA TORRES
+MANUEL ALMENAR BELENGUER
+TRIBUNALSUPREMO
+Sala de lo Civil
+Sentencia núm. 1.166/2025
+Fecha de sentencia: 17/07/2025
+Tipo de procedimiento: RECURSO DE CASACIÓN
+Número del procedimiento: 5962/2024
+Fallo/Acuerdo:
+Fecha de Votación y Fallo: 09/07/2025
+Ponente: Excmo. Sr. D. Rafael Sarazá Jimena
+Procedencia: Audiencia Provincial de Madrid, Sección Decimotercera
+Letrada de la Administración de Justicia: Ilma. Sra. Dña. Aurora Carmen Garcia Alvarez
+Transcrito por: ACS
+Nota:
+RECURSO DE CASACIÓN núm.: 5962/2024
+Ponente: Excmo. Sr. D. Rafael Sarazá Jimena
+Letrada de la Administración de Justicia: Ilma. Sra. Dña. Aurora Carmen Garcia Alvarez
+TRIBUNAL SUPREMO
+Sala de lo Civil
+Sentencia núm. 1166/2025
+Excmos. Sres.
+D. Ignacio Sancho Gargallo, presidente
+D. Rafael Sarazá Jimena
+D. Pedro José Vela Torres
+D. Manuel Almenar Belenguer
+En Madrid, a 17 de julio de 2025.
+Esta Sala ha visto el recurso de casación respecto de la sentencia 238/2024 de 9 de mayo,
+dictada en grado de apelación por la Sección Decimotercera de la Audiencia Provincial de
+Madrid, como consecuencia de autos de juicio ordinario núm. 1035/2020 del Juzgado de Primera
+Instancia núm. 14 de Madrid, sobre vulneración del derecho a la intimidad.
+
+                                              2
+                                                                         www.civil-mercantil.com
+
+
+Es parte recurrente D.ª Enriqueta y D. Fulgencio, representados por el procurador D. Juan
+Torrecilla Jiménez y bajo la dirección letrada de D. Mario Bonacho Caballero y D.ª Marisa
+Herrero-Tejedor Albert.
+Es parte recurrida D.ª Fermina y D. Adolfo, representados por la procuradora D.ª Silvia Menor
+Barrilero y bajo la dirección letrada de D. Juan Verdasco Giralt.
+Ha sido parte el Ministerio Fiscal.
+Ha sido ponente el Excmo. Sr. D. Rafael Sarazá Jimena.
+ANTECEDENTES DE HECHO
+PRIMERO.- Tramitación en primera instancia.
+1.-La procuradora D.ª Silvia Menor Barrilero, en nombre y representación de D.ª Fermina y D.
+Adolfo, interpuso demanda de juicio ordinario contra D.ª Enriqueta y D. Fulgencio, en la que
+solicitaba se dictara sentencia:
+«[...] por la que se estime íntegramente la demanda y:
+» 1) Declare una intromisión al Derecho a la intimidad de Doña Fermina y Don Adolfo cometida
+por Don Fulgencio y Doña Enriqueta;
+» 2) Condene a Don Fulgencio y Doña Enriqueta a cesar en la intromisión ilegítima y, para ello,
+retire a su costa la cámara/mirilla electrónica instalada en la puerta de su domicilio;
+» 3) Indemnicen los demandados solidariamente con la cantidad de 1.550.-€ a Doña Fermina y
+con la cantidad de 1.550.-€ a y Don Adolfo, de acuerdo con lo expuesto en el escrito de demanda
+y, por último;
+» 4) Condene a los demandados a las costas procesales causadas».
+2.-La demanda fue presentada el 3 de septiembre de 2020 y, repartida al Juzgado de Primera
+Instancia núm. 14 de Madrid, fue registrada con el núm. 1035/2020. Una vez fue admitida a
+trámite, se procedió al emplazamiento de la parte demandada.
+3.-El Ministerio Fiscal emitió informe contestando a la demanda.
+El procurador D. Juan de la Ossa Montes, en representación de D.ª Enriqueta y D. Fulgencio,
+contestó a la demanda, solicitando su desestimación y la expresa condena en costas a la parte
+actora.
+4.-Tras seguirse los trámites correspondientes, la Magistrada-juez del Juzgado de Primera
+Instancia núm. 14 de Madrid, dictó sentencia 28/2023, de 20 de febrero, cuyo fallo dispone:
+«Que estimando, en parte, la demanda interpuesta por Dª Fermina y D. Adolfo contra D.
+Fulgencio y Dª Enriqueta:
+» 1.- Debo declarar y declaro una intromisión al Derecho a la intimidad de Doña Fermina y Don
+Adolfo cometida por Don Fulgencio y Doña Enriqueta;
+» 2.- Debo condenar y condeno a Don Fulgencio y Doña Enriqueta a cesar en la intromisión
+ilegítima y, para ello, retire a su costa la cámara/mirilla electrónica instalada en la puerta de su
+domicilio.
+» 3.- Debo condenar y condeno a dichos demandados solidariamente con la cantidad de 300€ a
+Doña Fermina y con la cantidad de 300€ y a Don Adolfo, con intereses previstos en el artículo
+576 de la Ley de Enjuiciamiento Civil.
+» 4.- Todo ello sin hacer expresa condena en costas a ninguna de las partes».
+SEGUNDO.- Tramitación en segunda instancia.
+1.-La sentencia de primera instancia fue recurrida en apelación por la representación de D.ª
+Enriqueta y de D. Fulgencio.
+El Ministerio Fiscal y la representación de D.ª Fermina y de D. Adolfo se opusieron al recurso.
+
+
+                                                 3
+                                                                           www.civil-mercantil.com
+
+
+2.-La resolución de este recurso correspondió a la Sección Decimotercera de la Audiencia
+Provincial de Madrid, que lo tramitó con el número de rollo 760/2023, y tras seguir los
+correspondientes trámites dictó sentencia 238/2024, de 9 de mayo, que desestimó el recurso,
+con imposición de costas y pérdida del depósito constituido para recurrir.
+TERCERO.- Interposición y tramitación del recurso de casación
+1.-El procurador D. Juan Torrecilla Jiménez, en representación de D.ª Enriqueta y D. Fulgencio,
+interpuso recurso de casación.
+El motivo del recurso de casación fue:
+«Único.- Infracción del artículo 7 de la Ley Orgánica 1/1982, de 5 de mayo de 1982, en relación
+a la intromisión en el derecho a la intimidad personal y familiar y vulneración del art. 18.1 de la
+Constitución Española. Instalación de mirilla en puerta de vivienda con funciones de grabación.
+No apreciación ni visualización por parte de los demandados de aspectos de la vida privada de
+los demandantes, ni concurrencia de expectativa razonable de privacidad en una zona común
+del edificio y, por tanto, no existencia de intromisión ilegítima».
+2.-Las actuaciones fueron remitidas por la Audiencia Provincial a esta Sala, y las partes fueron
+emplazadas para comparecer ante ella. Una vez recibidas las actuaciones en esta Sala y
+personadas ante la misma las partes por medio de los procuradores mencionados en el
+encabezamiento, se dictó auto el 18 de septiembre de 2024, que admitió el recurso y acordó dar
+traslado a la parte recurrida personada y al Ministerio Fiscal para que formalizaran su oposición.
+3.-D.ª Fermina y D. Adolfo D. se opusieron al recurso.
+El Ministerio Fiscal interesó la desestimación del recurso.
+4.-Al no solicitarse por todas las partes la celebración de vista pública, se señaló para votación y
+fallo el día 9 de julio de 2025, en que ha tenido lugar.
+FUNDAMENTOS DE DERECHO
+PRIMERO.- Antecedentes del caso
+1.-Son hechos relevantes para la resolución de este litigio los que se expresan a continuación:
+i) Los demandantes son propietarios de la vivienda sita en la DIRECCION000- y los demandados
+viven en el piso DIRECCION001 -en adelante, vivienda DIRECCION001- del mismo edificio. Las
+puertas de acceso a cada vivienda están enfrentadas con apenas 1,5 metros de distancia entre
+ellas. Desde ambas viviendas se accede a un pasillo o rellano donde se encuentra la puerta del
+ascensor y el acceso a las escaleras del edificio donde ambas viviendas se ubican. El edificio
+está situado dentro de un recinto cerrado donde se encuentran también los edificios
+correspondientes a los números DIRECCION002. La comunidad que engloba a esos edificios
+dispone de un servicio de consejería de lunes a viernes, con un horario de 7:30 horas a 13:30
+horas y de 17:30 horas a 19:30 horas.
+ii) En la puerta de ambas viviendas existe una mirilla que permite ver lo que hay al otro lado de
+la puerta. En la vivienda DIRECCION001 se ha instalado en la mirilla un dispositivo electrónico
+que no cumple solamente una función de visor, sino que detecta automáticamente el movimiento
+y se puede configurar para tomar una instantánea y enviar una alerta al teléfono, o comenzar a
+grabar vídeo cuando se detecta movimiento, tiene una vista de 180 grados, visión nocturna
+infrarroja, habla directamente con quien está en la puerta, conexión wifi para transmitir vídeo y
+almacenamiento en la nube. Cuando se accede al espacio existente entre las puertas de ambas
+viviendas y, concretamente, cuando se abre la puerta de la vivienda de los demandantes, suena
+un «clic» y se enciende el piloto rojo del dispositivo de la mirilla de la puerta de la vivienda de los
+demandados durante unos segundos.
+2.-Los propietarios de la vivienda DIRECCION000 interpusieron una demanda contra quienes
+viven en la vivienda DIRECCION001 en la que solicitaron que se declarara que los demandados
+habían incurrido en una intromisión en su derecho a la intimidad, se condenara a los demandados
+a cesar en la intromisión ilegítima y, para ello, a retirar a su costa la cámara/mirilla electrónica
+instalada en la puerta de su domicilio y se les condenara solidariamente a indemnizar a cada uno
+de los demandantes en 300 euros.
+
+
+                                                  4
+                                                                         www.civil-mercantil.com
+
+
+3.-La sentencia de primera instancia estimó la demanda porque consideró que la afectación del
+derecho a la intimidad de los demandantes no superaba el juicio de proporcionalidad porque la
+finalidad del mismo no era la seguridad sino la simple comodidad, pues no consta que la vivienda
+se encuentre en un lugar que exija adoptar especiales medidas de seguridad ni concurren
+circunstancias que lo exijan y porque encontrándose los demandados fuera de dicha vivienda
+algunas temporadas, quieren estar al tanto de si reciben alguna notificación, correo o paquete, y
+existen otras medidas de seguridad (sensores de movimiento en la vivienda, alarmas conectadas
+con empresas de seguridad) que no son intrusivas en la intimidad de los demandantes.
+Encontrándose las puertas de las viviendas enfrentadas y muy cercanas la una a la otra, cuando
+la capacidad de ver por la mirilla pasa de ser accidental a ser continua, resulta invasiva pues el
+dispositivo enfoca la puerta de la vivienda de los demandantes y el control de las entradas de
+personas que viven o acuden a tal vivienda pertenece a su esfera privada. Dado que el dispositivo
+se activa siempre que alguien acude a la vivienda de los demandantes, el visionado no es
+accidental, es constante, con la posibilidad de grabar o captar fotografías.
+Por tales razones, con base en la doctrina sentada en las sentencias de esta sala 799/2010, de
+10 de diciembre, y 600/2019, de 7 de noviembre, la sentencia de primera instancia consideró que
+la instalación del dispositivo en la mirilla de la vivienda de los demandados constituía una
+intromisión ilegítima en el derecho a la intimidad de los demandantes y estimó las pretensiones
+formuladas en la demanda.
+4.-Los demandados apelaron la sentencia de primera instancia. Su recurso de apelación fue
+desestimado. La sentencia de segunda instancia rechazó el argumento de los demandados de
+que, aunque el dispositivo electrónico instalado en la mirilla de la puerta de su vivienda tiene una
+opción para grabar imágenes, dicha opción no se encuentra activada al no tener insertada una
+tarjeta de memoria por lo que dicho dispositivo funciona como una mirilla tradicional a excepción
+de que dichas imágenes pueden ser vistas desde el teléfono móvil y desde el visor electrónico.
+Consideró relevante que el propio demandado, en el interrogatorio, reconociera que el dispositivo
+«podría grabar imágenes» aunque «no está activa ahora mismo porque no tiene tarjeta de
+grabación». Con cita y transcripción parcial de otras sentencias, afirmó que «el mero riesgo de
+que una cámara de vigilancia esté emplazada de forma que permita captar imágenes que
+pudieran corresponder con el ámbito de la intimidad del actor y su familia, ya constituye "per se"
+una intromisión ilegítima y permite la adopción de todas las medidas necesarias para poner fin o
+prevenir las intromisiones en cuestión». Y asumió plenamente los razonamientos de la sentencia
+recurrida, que confirmó.
+5.-Los demandados han interpuesto un recurso de casación basado en un motivo, que ha sido
+admitido.
+SEGUNDO.- Motivo único del recurso
+1.- Planteamiento. En el encabezamiento del motivo se alega la «[i]nfracción del artículo 7 de la
+Ley Orgánica 1/1982, de 5 de mayo de 1982, en relación a la intromisión en el derecho a la
+intimidad personal y familiar y vulneración del art. 18.1 de la Constitución Española. Instalación
+de mirilla en puerta de vivienda con funciones de grabación. No apreciación ni visualización por
+parte de los demandados de aspectos de la vida privada de los demandantes, ni concurrencia
+de expectativa razonable de privacidad en una zona común del edificio y, por tanto, no existencia
+de intromisión ilegítima».
+En el desarrollo del motivo se alega que la sentencia recurrida no concreta qué tipo de escenario
+familiar o privado se invade con la instalación del dispositivo pues ese ámbito reservado no puede
+venir referido al rellano de un edificio en régimen de propiedad horizontal, en el que poca
+expectativa de privacidad se tiene. La mirilla instalada solo tiene por objeto visualizar lo que hay
+en el rellano que no es un lugar en que se desarrollen actividades que afecten al ámbito de la
+intimidad.
+También se critica la falta de prueba que se imputa a los demandados sobre las funcionalidades
+del dispositivo.
+2.- Decisión de la sala. El recurso debe ser desestimado por las razones que a continuación se
+expresan.
+El art. 18.1 de la Constitución garantiza el derecho a la intimidad personal y familiar como
+derecho fundamental, con las garantías previstas en su art. 53, en concreto, en el apartado 2.
+
+                                                 5
+                                                                         www.civil-mercantil.com
+
+
+Como hemos declarado en ocasiones anteriores, el derecho a la intimidad garantiza a la persona
+un ámbito reservado de su vida coincidente con aquel en que se desarrollan las relaciones de tal
+naturaleza, pues permite mantenerlo excluido tanto del conocimiento como de las intromisiones
+de terceros, se trate de poderes públicos o de particulares, en contra de su voluntad. Tal derecho
+fundamental, que deriva del principio de respeto a la dignidad de la persona que reconoce
+el artículo 10 de la Constitución, implica «la existencia de un ámbito propio y reservado frente a
+la acción y el conocimiento de los demás, necesario, según las pautas de nuestra cultura, para
+mantener una calidad mínima de la vida humana» ( SSTC 209/1988, de 27 de octubre, 231/1988,
+de 1 de diciembre, 197/1991, de 17 de octubre, 99/1994, de 11 de abril, 143/1994, de 9 de
+mayo, 207/1996, de 16 de diciembre, y 98/2000, de 10 de abril, entre otras).
+El art. 7 de la Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la
+intimidad personal y familiar y a la propia imagen, al desarrollar la protección de este derecho
+fundamental, establece, en lo que respecta a los dispositivos que captan o graban la imagen, lo
+siguiente:
+«Tendrán la consideración de intromisiones ilegítimas en el ámbito de protección delimitado por
+el artículo segundo de esta Ley:
+» 1. El emplazamiento en cualquier lugar de aparatos de escucha, de filmación, de dispositivos
+ópticos o de cualquier otro medio apto para grabar o reproducir la vida íntima de las personas.
+» 2. La utilización de aparatos de escucha, dispositivos ópticos, o de cualquier otro medio para
+el conocimiento de la vida íntima de las personas o de manifestaciones o cartas privadas no
+destinadas a quien haga uso de tales medios, así como su grabación, registro o reproducción.
+[...]
+» 5. La captación, reproducción o publicación por fotografía, filme, o cualquier otro procedimiento,
+de la imagen de una persona en lugares o momentos de su vida privada o fuera de ellos, salvo
+los casos previstos en el artículo octavo, dos».
+3.-Esta sala ya se ha pronunciado en varias ocasiones sobre la afectación que la instalación de
+dispositivos electrónicos con capacidad de captar la imagen, e incluso transmitirla o grabarla,
+puede tener para el derecho a la intimidad. En la argumentación de esas sentencias hemos
+reconocido que la instalación de dispositivos de captación y/o grabación de imágenes que
+permiten captar quién entra o sale de domicilios ajenos afecta al derecho a la intimidad.
+Asimismo, hemos tenido en cuenta la trascendencia del principio de proporcionalidad en la
+valoración del conflicto que se produce entre el derecho a la intimidad de aquellos a quienes
+afectan esos dispositivos de captación y/o grabación de imágenes y los intereses perseguidos
+por quienes han instalado el dispositivo.
+En la sentencia 799/2010, de 10 de diciembre, en la que la intromisión ilegítima en el derecho a
+la intimidad se imputaba a un dispositivo que grababa imágenes y que recogía imágenes de las
+entradas del domicilio del demandante, la sala aceptó el razonamiento de la Audiencia Provincial
+en el sentido de que «la grabación de las entradas y salidas del domicilio afectan, aun cuando
+solo fuera tangencialmente, a la esfera íntima donde se desarrolla la vida del actor y suponen un
+control o vigilancia sobre una faceta que toda persona reserva para sí misma o su círculo íntimo»,
+y se añadía:
+«Por tanto, si bien en un principio se puede considerar que la instalación de las cámaras
+respondía a motivos de seguridad al situarse la vivienda en una zona aislada y sin iluminación,
+sin embargo, no supera el juicio de proporcionalidad, pues se ha producido una intromisión
+ilegítima en el derecho a la intimidad personal y familiar del recurrido en aras de la seguridad de
+su vecino.
+» El sistema de grabación instalado en la propiedad privada del recurrente por motivos de
+seguridad no ha resultado idóneo, pues quedan grabadas las entradas y salidas de su domicilio
+del recurrido o de cualquier otro miembro de su familia por cualquiera de las tres puertas que
+tiene su vivienda y como pone de manifiesto el Ministerio Fiscal al impugnar el recurso las
+cámaras se podrían haber instalado de otra forma sin grabar las puertas del domicilio del
+recurrido.
+» En suma, esta Sala considera que la intromisión que supone la grabación de las entradas y
+salidas del domicilio del recurrido no se revela como necesaria para lograr un fin
+
+                                                 6
+                                                                         www.civil-mercantil.com
+
+
+constitucionalmente legítimo, proporcionada para alcanzarlo y que se lleve a cabo utilizando solo
+los medios necesarios para lograr una mínima afectación del ámbito garantizado por el derecho
+a la intimidad. Además, la instalación adicional de los focos de luz que permiten la grabación de
+imágenes nocturnas con sucesivos episodios de encender y apagar es una molestia adicional
+para el recurrido».
+La sentencia 600/2019, de 7 de noviembre, también abordó esta cuestión y consideró que
+bastaba que el dispositivo electrónico tuviera la potencialidad de captación o grabación de
+imágenes que, por afectar al domicilio del demandante, afectan al ámbito de su vida privada,
+para que se produzca la intromisión ilegítima en el derecho a la intimidad, sin necesidad de que
+tal captación o grabación de la imagen se estuviera produciendo efectivamente, y en este sentido
+declaramos:
+«El derecho del demandante a la tranquilidad de su vida privada comprende también el de no
+tener que soportar una incertidumbre permanente acerca de si la cámara orientada hacia su finca
+es o no operativa, pues su apariencia externa le impide comprobarlo y, en cambio, la demandada
+siempre tendría la posibilidad de sustituir la cámara no operativa por otra operativa».
+Por tal razón, los argumentos que se exponen en el recurso sobre la falta de prueba de que el
+dispositivo grabe efectivamente imágenes son irrelevantes porque basta con que permita captar
+y transmitir las imágenes, y potencialmente, grabarlas si se le instala una tarjeta de grabación de
+la que los demandados aseguran que no dispone en estos momentos el dispositivo.
+Por último, la sentencia 1399/2024, de 23 de octubre, aborda la cuestión de la instalación de
+cámaras en zonas comunes del edificio. En esta sentencia nos hemos pronunciado sobre la
+afectación del derecho a la intimidad que la instalación de dispositivos de captación y/o grabación
+de imagen en un edificio en régimen de propiedad horizontal puede suponer. Hemos declarado
+al respecto:
+«Expuesto lo anterior, hemos de precisar que, al contrario de lo que afirma la recurrente en su
+recurso, en la instancia se ha descartado que las cámaras instaladas en las zonas comunes del
+edificio permitan captar imágenes en el interior de la vivienda de la demandante. Por tanto, solo
+las captan en las zonas comunes del edificio.
+» Ello no significa que la instalación de cámaras de videovigilancia en las zonas comunes del
+edificio en régimen de propiedad horizontal sea completamente irrelevante para la intimidad de
+quienes habitan en las distintas viviendas del edificio. Aunque la captación de imágenes en esas
+zonas comunes no afecta al derecho a la intimidad de esos vecinos tan intensamente como
+afectaría la captación de imágenes en el interior de sus viviendas, la posibilidad de que pueda
+conocerse quién entra en el edificio y accede a una de las viviendas del mismo, y en qué
+circunstancias lo hace, supone una afectación de la intimidad de los vecinos».
+También consideramos en esa sentencia que existían ciertas afectaciones a la intimidad de los
+vecinos que habían de considerarse legítimas por tratarse de limitaciones de dicho derecho
+fundamental acordes a los usos sociales que delimitan su protección ( art. 2.1 de la Ley Orgánica
+1/1982, de 5 de mayo) y que se encuentran justificadas por la protección de la seguridad de las
+personas que viven en el edificio y de sus bienes, y por el adecuado servicio al edificio. Entre
+esas afectaciones legitimadas por los usos sociales enumeramos, a título de ejemplo, la
+existencia de mirillas en las puertas de las viviendas o la existencia de un servicio de conserjería
+en el edificio.
+En esa sentencia se realizó también el juicio de proporcionalidad para concluir que la afectación
+de la intimidad de los demandantes, vecinos del edificio, era proporcionada y, por tanto, legítima:
+la instalación del servicio de videovigilancia era idónea para la finalidad legítima de proteger la
+seguridad de los vecinos y de sus bienes; su necesidad se encontraba razonablemente
+justificada por el acaecimiento de actos de vandalismo en el edificio con anterioridad a su
+instalación; y la afectación al derecho a la intimidad personal y familiar de la demandante no era
+desproporcionada, no solo porque la instalación y puesta en funcionamiento de las cámaras era
+conocida por los vecinos, entre ellos la demandante, y porque solo se captan imágenes de las
+zonas comunes del edificio (no del interior de ninguna vivienda), sino también por las cautelas
+adoptadas para custodiar las imágenes y para que el acceso a tales imágenes grabadas por el
+sistema estuviera muy limitado (solo tenían acceso a las grabaciones el técnico o el propio
+administrador sin que en ningún caso su acceso fuera libre, no se conservaban las imágenes por
+
+                                                 7
+                                                                                       www.civil-mercantil.com
+
+
+un plazo superior a 30 días, y solo se había accedido una vez a esas imágenes para aportarlas
+a un procedimiento judicial).
+4.-En el presente caso, el juicio de proporcionalidad realizado por las sentencias de instancia es
+correcto y lleva a una conclusión distinta de la alcanzada en la sentencia 1399/2024, de 23 de
+octubre. La instalación del dispositivo en el caso objeto del presente recurso no respondió a
+problemas de seguridad (se trata de un edificio encuadrado en un recinto cerrado en el que
+existen otros dos edificios y dotado de un servicio de conserjería, y no existían problemas de
+seguridad), sino a la simple comodidad de los demandados, que estaban ausentes durante
+temporadas y tenían interés por saber si iba alguien a entregar algún paquete a su vivienda; el
+dispositivo se activa siempre que alguien acude a la vivienda de los demandantes, por la cercanía
+entre ambas puertas, sin necesidad de que hayan llamado al timbre de la vivienda de los
+demandados o intentado abrir su puerta; la situación enfrentada de ambas puertas, a una
+distancia mínima, supone que cuando se abre la puerta de la vivienda de los demandantes el
+dispositivo permite ver el interior de esa vivienda; no existen garantías de limitación al acceso de
+esas imágenes, antes al contrario, los demandados pueden hacer uso de ellas sin control, por lo
+que tampoco se cumplen las limitaciones impuestas por el art. 22.1 de la Ley Orgánica 3/2018,
+de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+En conclusión, el juicio de proporcionalidad realizado por las sentencias de instancia es correcto.
+La instalación del dispositivo de captación, transmisión y, al menos potencialmente, grabación
+de imágenes supone una afectación relevante de la intimidad personal y familiar de los
+demandantes pues se activa cada vez que alguien acude a su vivienda o sale de ella y permite
+ver en el interior de la misma, y esa afectación no es proporcionada con el beneficio que supone
+para la satisfacción de intereses de los demandados dignos de protección.
+Por tal razón, el recurso debe ser desestimado.
+TERCERO.- Costas y depósito
+1.-De acuerdo con lo previsto en el artículo 398.1 en relación con el 394.1, ambos de la Ley de
+Enjuiciamiento Civil, las costas del recurso de casación deben ser impuestas a la recurrente.
+2.-Procede acordar también la pérdida del depósito constituido de conformidad con la disposición
+adicional 15.ª, apartado 9, de la Ley Orgánica del Poder Judicial.
+FALLO
+Por todo lo expuesto, en nombre del Rey y por la autoridad que le confiere la Constitución, esta
+sala ha decidido
+1.º-Desestimar el recurso de casación interpuesto por D.ª Enriqueta y D. Fulgencio contra
+la sentencia 238/2024, de 9 de mayo, dictada por la Sección Decimotercera de la Audiencia
+Provincial de Madrid, en el recurso de apelación núm. 760/2023.
+2.º-Condenar a los recurrentes al pago de las costas del recurso de casación que desestimamos
+y acordar la pérdida del depósito constituido.
+Líbrese a la mencionada Audiencia la certificación correspondiente con devolución de los autos
+y rollo de apelación remitidos.
+Notifíquese esta resolución a las partes e insértese en la colección legislativa.
+Así se acuerda y firma.
+
+
+
+
+      El contenido de la presente resolución respeta fielmente el suministrado de forma oficial por el Centro de
+                                        Documentación Judicial (CENDOJ).
+
+
+
+
+                                                          8
+

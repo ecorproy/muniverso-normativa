@@ -10,7 +10,21 @@ Decreto Ejecutivo N.° 37554, *Reglamento a la Ley de Protección de la Persona 
 
 Decreto Ejecutivo N.° 44615, *Reglamento RAC-RPAS Regulaciones Aeronáuticas Costarricenses, Operaciones con el Sistema de Aeronave piloteadas a Distancia*. (2023). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
 
+España. Audiencia Provincial de Santa Cruz de Tenerife, Sección Sexta. Sentencia 60/2026, de 23 de marzo (rollo 729/2025). ECLI:ES:APTF:2026:624.
+
+España. Tribunal Supremo, Sala de lo Civil. Sentencia 1166/2025, de 17 de julio (recurso 5962/2024).
+
+España. Tribunal Supremo, Sala de lo Penal. Sentencia 797/2025, de 2 de octubre (recurso 10005/2025). ECLI:ES:TS:2025:4225.
+
+España. Tribunal Supremo, Sala de lo Penal. Sentencia 264/2026, de 6 de abril (recurso 10648/2025). ECLI:ES:TS:2026:1661.
+
+*Fearn and others v Board of Trustees of the Tate Gallery* [2023] UKSC 4 (1 de febrero de 2023). Supreme Court of the United Kingdom.
+
 Harvard Law Review. (2025). Fourth Amendment — Unreasonable searches — Michigan Supreme Court holds exclusionary rule inapplicable in the civil context. Long Lake Township v. Maxon, 15 N.W.3d 118 (Mich. 2024). *Harvard Law Review*, *138*, 1941-1950.
+
+Instituto Nacional de Vivienda y Urbanismo. (2018, 15 de marzo). *Reglamento de construcciones*. Sistema Costarricense de Información Jurídica.
+
+Italia. Corte di Cassazione, Sezione V penale. Sentenza n. 28146, depositata il 31 luglio 2025.
 
 *Katz v. United States*, 389 U.S. 347 (1967). Supreme Court of the United States.
 

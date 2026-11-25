@@ -13,5 +13,4 @@ ERRORES (0):
 
 AVISOS (0):
 
-NOTAS DE VOCABULARIO (1):
-  [t16.md] vocabulario «no solo»: …an en la conclusión, protegen la intimidad y no solo ordenan la gestión.  ## Los drones  L…
+NOTAS DE VOCABULARIO (0):

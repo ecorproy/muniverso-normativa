@@ -19,6 +19,18 @@ MANUAL.update({
     'Leaders of a Beautiful Struggle v. Baltimore Police Department, 2021': dict(
         file='/home/claude/libro/fuentes/doctrina/baltimore_pag.txt',
         ref='*Leaders of a Beautiful Struggle v. Baltimore Police Department*, No. 20-1495 (4th Cir. 24 de junio de 2021) (en banc). United States Court of Appeals for the Fourth Circuit.'),
+    'STS 797/2025': dict(alias='Espana Tribunal Supremo Penal 2025 797', file='/home/claude/libro/fuentes/doctrina/sts_797_2025.txt',
+        ref='España. Tribunal Supremo, Sala de lo Penal. Sentencia 797/2025, de 2 de octubre (recurso 10005/2025). ECLI:ES:TS:2025:4225.'),
+    'STS 264/2026': dict(alias='Espana Tribunal Supremo Penal 2026 264', file='/home/claude/libro/fuentes/doctrina/sts_264_2026.txt',
+        ref='España. Tribunal Supremo, Sala de lo Penal. Sentencia 264/2026, de 6 de abril (recurso 10648/2025). ECLI:ES:TS:2026:1661.'),
+    'STS 1166/2025': dict(alias='Espana Tribunal Supremo Civil 2025 1166', file='/home/claude/libro/fuentes/doctrina/sts_1166_2025.txt',
+        ref='España. Tribunal Supremo, Sala de lo Civil. Sentencia 1166/2025, de 17 de julio (recurso 5962/2024).'),
+    'SAP Santa Cruz de Tenerife 60/2026': dict(alias='Espana Audiencia Provincial Santa Cruz de Tenerife 2026', file='/home/claude/libro/fuentes/doctrina/sap_tf_60_2026.txt',
+        ref='España. Audiencia Provincial de Santa Cruz de Tenerife, Sección Sexta. Sentencia 60/2026, de 23 de marzo (rollo 729/2025). ECLI:ES:APTF:2026:624.'),
+    'Cass. pen. 28146/2025': dict(alias='Italia Corte di Cassazione 2025', file='/home/claude/libro/fuentes/doctrina/cass_28146_2025.txt',
+        ref='Italia. Corte di Cassazione, Sezione V penale. Sentenza n. 28146, depositata il 31 luglio 2025.'),
+    'Fearn v Board of Trustees of the Tate Gallery, 2023': dict(file='/home/claude/libro/fuentes/doctrina/fearn_2023.txt',
+        ref='*Fearn and others v Board of Trustees of the Tate Gallery* [2023] UKSC 4 (1 de febrero de 2023). Supreme Court of the United Kingdom.'),
     'Long Lake Township v. Maxon, 2024': dict(
         file='/home/claude/libro/fuentes/doctrina/maxon_msc_pag.txt',
         ref='*Long Lake Township v. Maxon*, No. 164948 (Mich. 3 de mayo de 2024). Supreme Court of the State of Michigan.'),
