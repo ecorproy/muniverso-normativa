@@ -35,3 +35,7 @@ Total: 29 (22 dictámenes y 7 opiniones jurídicas). Descargados el 24 de noviem
 | [C-350-2020](<Dictamen C-350-2020.md>) | 02/09/2020 | art. 1; art. 7; art. 20 |  |
 | [C-310-2021](<Dictamen C-310-2021.md>) | 18/11/2021 | art. 16; art. 20 |  |
 | [C-210-2023](<Dictamen C-210-2023.md>) | 14/11/2023 | art. 1; art. 3; art. 5; art. 6; art. 7; art. 8; art. 15; art. 16 |  |
+
+## Jurisprudencia administrativa de Hacienda
+
+El SCIJ de Hacienda asocia a la Ley 7789 un solo documento: el [oficio 988 de la Dirección General de Tributación, del 7 de setiembre de 1999](<Oficio DGT-988-1999 (Hacienda).md>), sobre exoneración de tributos (renta, ventas, activos y consumo). El sitio publica su ficha, pero no su texto.
