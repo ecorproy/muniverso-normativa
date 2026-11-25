@@ -16,6 +16,9 @@ MANUAL.update({
     'Katz v. United States, 1967': dict(
         file='/home/claude/libro/fuentes/doctrina/katz_pag.txt',
         ref='*Katz v. United States*, 389 U.S. 347 (1967). Supreme Court of the United States.'),
+    'Leaders of a Beautiful Struggle v. Baltimore Police Department, 2021': dict(
+        file='/home/claude/libro/fuentes/doctrina/baltimore_pag.txt',
+        ref='*Leaders of a Beautiful Struggle v. Baltimore Police Department*, No. 20-1495 (4th Cir. 24 de junio de 2021) (en banc). United States Court of Appeals for the Fourth Circuit.'),
     'Long Lake Township v. Maxon, 2024': dict(
         file='/home/claude/libro/fuentes/doctrina/maxon_msc_pag.txt',
         ref='*Long Lake Township v. Maxon*, No. 164948 (Mich. 3 de mayo de 2024). Supreme Court of the State of Michigan.'),

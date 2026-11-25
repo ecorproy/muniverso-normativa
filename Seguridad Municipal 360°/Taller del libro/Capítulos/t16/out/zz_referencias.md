@@ -14,6 +14,8 @@ Harvard Law Review. (2025). Fourth Amendment — Unreasonable searches — Michi
 
 *Katz v. United States*, 389 U.S. 347 (1967). Supreme Court of the United States.
 
+*Leaders of a Beautiful Struggle v. Baltimore Police Department*, No. 20-1495 (4th Cir. 24 de junio de 2021) (en banc). United States Court of Appeals for the Fourth Circuit.
+
 Ley N.° 30, *Código Civil*. (1885). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
 
 Ley N.° 833, *Ley de Construcciones*. (1949). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=36307&param2=143894&param3=1
