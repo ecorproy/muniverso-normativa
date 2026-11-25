@@ -16,6 +16,8 @@ Harvard Law Review. (2025). Fourth Amendment — Unreasonable searches — Michi
 
 Ley N.° 30, *Código Civil*. (1885). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
 
+Ley N.° 833, *Ley de Construcciones*. (1949). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=36307&param2=143894&param3=1
+
 Ley N.° 4573, *Código Penal*. (1970). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=5027&param2=151473&param3=1
 
 Ley N.° 6723, *Ley del Registro y Archivos Judiciales*. (1982). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=34614&param2=139997&param3=1
@@ -27,6 +29,8 @@ Ley N.° 8292, *Ley General de Control Interno*. (2002). Asamblea Legislativa de
 Ley N.° 8968, *Ley de Protección de la Persona frente al tratamiento de sus datos personales*. (2011). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=70975&param2=85989&param3=1
 
 Ley N.° 10554, *Ley Marco de Acceso a la Información Pública*. (2024). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
+
+*Long Lake Township v. Maxon*, No. 164948 (Mich. 3 de mayo de 2024). Supreme Court of the State of Michigan.
 
 *Long Lake Township v. Maxon*, No. 349230 (Mich. Ct. App. 18 de marzo de 2021). Court of Appeals of the State of Michigan.
 
