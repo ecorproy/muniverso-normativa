@@ -417,13 +417,14 @@ jur_code = """
 JUR = {
     'TASP': dict(org='Tribunal de Apelación de Sentencia Penal del II Circuito Judicial de San José', sig='TASP', pref='Sentencia TASP'),
     'TF': dict(org='Tribunal de Familia', sig='TF', pref='Sentencia TF'),
+    'TSE': dict(org='Tribunal Supremo de Elecciones', sig='TSE', pref='Resolución TSE', dir='Jurisprudencia electoral (TSE)/Municipal', base=''),
 }
 first_j = set()
 
 
 def f_j(x):
     t, num = x.split('-', 1)
-    f = f'{R}/Jurisprudencia penal y de familia (laterales)/{JUR[t]["pref"]} {num}.md'
+    f = f'{R}/{JUR[t].get("dir", "Jurisprudencia penal y de familia (laterales)")}/{JUR[t]["pref"]} {num}.md'
     return f if os.path.exists(f) else None
 
 
@@ -437,11 +438,15 @@ def cita_j(x, loc):
         errors.append(f'TRIBUNAL sin archivo: {x}')
         return f'({org}, resolución N.° {cod}, {loc})'
     d = meta(f)
+    _mcod = re.search(r'(?m)^codigo:\\s*"([^"]*)"', read(f)[:3000])
+    cod = _mcod.group(1).strip() if _mcod else cod
     y, mo, da = fdate(d['fecha'])
     h = hora(d['hora'])
     hs = f', de las {h} horas' if h else ''
     exp = f' (expediente {d["expediente"]})' if d['expediente'] else ''
-    add_ref('J' + x, (org.lower(), y, mo, da, x), f'{org}. ({y}, {da} de {MES[mo]}). *Resolución N.° {cod}{hs}*{exp}. NexusPJ.')
+    bd = JUR[t].get('base', 'NexusPJ')
+    bd = f' {bd}.' if bd else ''
+    add_ref('J' + x, (org.lower(), y, mo, da, x), f'{org}. ({y}, {da} de {MES[mo]}). *Resolución N.° {cod}{hs}*{exp}.{bd}')
     if x not in first_j:
         first_j.add(x)
         base = f'{org} [{t}], resolución N.° {cod}, de las {h} horas del {da} de {MES[mo]} de {y}' if h else f'{org} [{t}], resolución N.° {cod}, del {da} de {MES[mo]} de {y}'
@@ -561,6 +566,8 @@ def expand_corta(macro, larga):
         return _par(p[1], abrev(loc))
     if kind == 'J':
         t, num = p[1].split('-', 1); yy, n = num.split('-'); cod = f'{int(n)}-{yy}'; k = 'J' + p[1]
+        _mc = re.search(r'resolución N\.° (\S+?)[,)]', larga)
+        if _mc: cod = _mc.group(1)
         if k not in vistos:
             vistos.add(k); return larga
         return _par(f'{t}, {cod}', abrev(loc))

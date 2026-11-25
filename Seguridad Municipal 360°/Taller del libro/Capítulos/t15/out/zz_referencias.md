@@ -20,6 +20,8 @@ Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la Repúblic
 
 Ley N.° 8261, *Ley General de la Persona Joven*. (2002). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=48550&param2=151401&param3=1
 
+Ley N.° 8765, *Código Electoral*. (2009). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=66148&param2=152385&param3=1
+
 Ley N.° 8801, *Ley General de transferencia de competencias del Poder Ejecutivo a las Municipalidades*. (2010). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=67855&param2=80560&param3=1
 
 Ley N.° 10561, *Ley para promover la participación, la prevención de la violencia y el cumplimiento de derechos de las personas jóvenes en los espacios públicos*. (2024). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=103225&param2=143177&param3=1
@@ -68,4 +70,18 @@ Tribunal Contencioso Administrativo, Sección III. (2009, 19 de junio). *Resoluc
 
 Tribunal Contencioso Administrativo, Sección III. (2010, 23 de abril). *Resolución N.° 1483-2010, de las 14:40 horas* (expediente 09-001490-1027-CA). NexusPJ.
 
+Tribunal Contencioso Administrativo, Sección III. (2012, 31 de julio). *Resolución N.° 300-2012, de las 14:10 horas* (expediente 11-005619-1027-CA). NexusPJ.
+
+Tribunal Contencioso Administrativo, Sección III. (2014, 12 de marzo). *Resolución N.° 108-2014, de las 9:05 horas* (expediente 12-000342-1027-CA). NexusPJ.
+
+Tribunal Contencioso Administrativo, Sección III. (2016, 27 de octubre). *Resolución N.° 474-2016, de las 9:25 horas* (expediente 15-008234-1027-CA). NexusPJ.
+
+Tribunal Contencioso Administrativo, Sección III. (2019, 8 de mayo). *Resolución N.° 243-2019, de las 11:40 horas* (expediente 18-006750-1027-CA). NexusPJ.
+
 Tribunal Contencioso Administrativo, Sección III. (2020, 29 de setiembre). *Resolución N.° 574-2020, de las 11:45 horas* (expediente 19-002740-1027-CA). NexusPJ.
+
+Tribunal Supremo de Elecciones. (2004, 28 de octubre). *Resolución N.° 2794-E-2004, de las 15:00 horas* (expediente 185-S-2004).
+
+Tribunal Supremo de Elecciones. (2012, 12 de enero). *Resolución N.° 221-E4-2012, de las 14:10 horas* (expediente 511-Z-2011).
+
+Tribunal Supremo de Elecciones. (2012, 27 de enero). *Resolución N.° 790-E1-2012, de las 9:00 horas* (expediente 012-E-2012).
