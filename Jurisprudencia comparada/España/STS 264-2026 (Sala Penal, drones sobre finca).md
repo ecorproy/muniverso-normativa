@@ -1,0 +1,1848 @@
+---
+numero: "264/2026"
+nombre: "Tribunal Supremo, Sala de lo Penal, Sentencia 264/2026, de 6 de abril (fotografías con drones sobre una finca; FJ 7 y 20)"
+ecli: "ES:TS:2026:1661"
+ponente: "Manuel Marchena Gómez"
+fecha: "2026-04-06"
+fuente: "Texto aportado por el autor (copia de un repertorio en línea)"
+---
+
+T R I B U N A L S U P R E M O
+
+Sala de lo Penal
+
+Sentencia núm. 264/2026
+
+Fecha de sentencia: 06/04/2026
+
+Tipo de procedimiento: RECURSO CASACION (P)
+
+Número del procedimiento: 10648/2025 P
+
+Fallo/Acuerdo:
+
+Fecha de Votación y Fallo: 25/03/2026
+
+Ponente: Excmo. Sr. D. Manuel Marchena Gómez
+
+Procedencia: Tribunal Superior de Justicia de Castilla-La Mancha
+
+Letrado de la Administración de Justicia: Ilmo. Sr. D. Tomás Yubero Martínez
+
+Transcrito por: ICR
+
+Nota:
+
+RECURSO CASACION (P) núm.: 10648/2025 P
+
+Ponente: Excmo. Sr. D. Manuel Marchena Gómez
+
+Letrado de la Administración de Justicia: Ilmo. Sr. D. Tomás Yubero Martínez
+
+TRIBUNAL SUPREMO
+
+Sala de lo Penal
+
+Sentencia núm. 264/2026
+
+Excmos. Sres.
+
+D. Juan Ramón Berdugo Gómez de la Torre
+
+D. Manuel Marchena Gómez
+
+D. Pablo Llarena Conde
+
+D. Ángel Luis Hurtado Adrián
+
+D. Javier Hernández García
+
+En Madrid, a 6 de abril de 2026.
+
+Esta Sala ha visto el recurso de casación por quebrantamiento de forma, infracción de ley y de precepto constitucional, interpuesto por D. Leon, D. Luis, D. Teodosio, D. Pedro Antonio, D. Abel, D. Leoncio y D. Inocencio, representados por el procurador D. Ubaldo César Boyano Adánez, bajo la dirección letrada de D. Roberto Rodríguez Casas; D. Raimundo, representado por el procurador D. Juan Torrecilla Jiménez, bajo la dirección letrada de D. Jorge Alberto Rodríguez Pérez; Dña. Inmaculada, D. Abelardo y D. Zulima, representados por el procurador D. Ubaldo César Boyano Adánez, bajo la dirección letrada de Dña. María Concepción Mendoza Calvo; D. Cipriano, representado por el procurador D. Ubaldo César Boyano Adánez, bajo la dirección letrada de Dña. Raquel Linares Fernández; D. Benigno, representado por el procurador D. Ubaldo César Boyano Adánez, bajo la dirección letrada de Dña. Marina Fernández Núñez; D. Benito, representado por la procuradora Dña. Inés García de la Cruz, bajo la dirección letrada de D. Gonzalo Rodríguez Mendoza; contra la sentencia núm. 77/25, 29 de octubre, dictada por la Sala de lo Civil y Penal del Tribunal Superior de Justicia de Castilla-La Mancha, al resolver el recurso de apelación promovido contra la sentencia 6/2025, 10 de marzo, dictada por la Audiencia Provincial de Guadalajara, Sección Primera. Siendo parte el Ministerio Fiscal.
+
+Ha sido ponente el Excmo. Sr. D. Manuel Marchena Gómez.
+
+ANTECEDENTES DE HECHO
+
+PRIMERO
+La Audiencia Provincial de Guadalajara, Sección Primera, dictó sentencia núm. 6/2025, 10 de marzo, rollo de Sala PO 2/2024, procedente del Juzgado de instrucción nº 3 de Guadalajara, sumario 1/23, seguida por delitos contra la salud pública, organización criminal, cohecho, revelación de secretos y tenencia de armas; contiene los siguientes hechos probados:
+
+Probado y así se declara que:
+
+I.El procesado Leon alias " Bucanero o Gamba", mayor de edad, nacido en Méjico, con NIE NUM000, con situación administrativa regular para residir en territorio nacional, no tiene antecedentes penales; el procesado Luis alias " Picon", mayor de edad, nacido en Méjico, con DNI NUM001, con situación administrativa regular para residir en territorio nacional, no tiene antecedentes penales; el procesado Abelardo, mayor de edad, nacido en Méjico con NIE NUM002, con situación administrativa regular para residir en territorio nacional, no tiene antecedentes penales; la procesada Inmaculada alias " Pitusa", mayor de edad, nacida en Méjico con DNI NUM003, no tiene antecedentes penales; el procesado Teodosio, mayor de edad, nacido en Méjico, con NIE NUM004, con situación administrativa regular para residir en territorio nacional, no tiene antecedentes penales; el procesado Zulima alias " Chillon", mayor de edad, nacido en Méjico, con NIE NUM005, con situación administrativa irregular para residir en España, no ha aportado documentación alguna que le permita permanecer y tampoco consta la existencia de razón alguna que justifique su permanencia en España, y no tiene antecedentes penales; el procesado Cipriano, mayor de edad, nacido en Méjico, con nº de pasaporte NUM006, con situación administrativa irregular para residir en España, no ha aportado documentación alguna que le permita permanecer y tampoco consta la existencia de razón alguna que justifique su permanencia en España, no tiene antecedentes penales; el procesado Benigno, mayor de edad, nacido en Méjico con NIE NUM007, con situación administrativa regular para residir en territorio nacional, no tiene antecedentes penales; el procesado Pedro Antonio, mayor de edad, nacido en Méjico, con nº de pasaporte NUM008, con situación administrativa irregular para residir en España, no ha aportado documentación alguna que le permita permanecer y tampoco consta la existencia de razón alguna que justifique su permanencia en España, no tiene antecedentes penales; Abel, mayor de edad, nacido en Méjico, con nº de pasaporte NUM009, con situación administrativa irregular para residir en España, no ha aportado documentación alguna que le permita permanecer y tampoco consta la existencia de razón alguna que justifique su permanencia en España, no tiene antecedentes penales; Inocencio, mayor de edad, con NIE NUM010, con situación administrativa regular para residir en territorio nacional, no tiene antecedentes penales; Leoncio, mayor de edad, nacido en Méjico, con NIE NUM011, con situación administrativa irregular para residir en España, no ha aportado documentación alguna que le permita permanecer y tampoco consta la existencia de razón alguna que justifique su permanencia en España, no tiene antecedentes penales; Benito mayor de edad, con DNI NUM012, no tiene antecedentes penales; y Raimundo mayor de edad, con DNI NUM013, no tiene antecedentes penales.
+
+II.Desde al menos el mes de junio del año 2020 y hasta el momento en que se produjeron las entradas y registros el 17 de mayo de 2022, el procesado Leon, alias " Bucanero", lideraba el clan familiar Ceferino, proveniente de Méjico, integrado por miembros de su familia extensa: sus padres los procesados Abelardo y Inmaculada; su hermano el procesado Luis; sus tíos el procesado Teodosio, el procesado Zulima, y el procesado Benigno; su primo el procesado Leoncio, y el procesado Inocencio; por otros ciudadanos de origen Mejicano que al tiempo habían prestado servicios a su persona en Méjico traslados a España con el mismo cometido, como el procesado Cipriano, el procesado Pedro Antonio y el procesado Abel; y otros ciudadanos de origen español trabajadores al servicio del clan familiar como el procesado Benito y el procesado, subinspector de Policía Nacional Raimundo. Todos ellos integraban dicha organización formando una trama constituida y estructurada a merced a las relaciones personales y medios materiales dispuestos por ellos, que tenía como finalidad última y exclusiva, el cultivo, elaboración y distribución de marihuana a través de cultivos indoor, y la elaboración y fabricación de cocaína, dedicándose concertadamente tanto en el propósito como en la acción, a obtener un provecho económico irregular según reglas de reparto que más adelante se determinaran, de una manera organizada, estable y con una duración indefinida, con fines de cultivo, elaboración, adquisición, manipulación y distribución a favor de terceras personas de sustancias estupefacientes, concretamente marihuana y cocaína a gran escala, utilizando para ello naves e invernaderos indoor, a cambio de un precio, desentendiendo el cierto y grave menoscabo que su consumo causaba a los destinatarios últimos, consecuencias que bien conocían, anteponiendo su afán de enriquecimiento individual, para distribuir a nivel nacional y europeo, estableciendo contactos con miembros de otras organizaciones, como ciudadanos de origen chino o individuos de la Cañada Real Galiana (Madrid) vinculados al tráfico de sustancias estupefacientes.
+
+III.La organización, encabezada por el procesado Leon " Bucanero", al que los subordinados se referían a él como " Orejas" o " Gamba", se asentó en España a mediados del mes de junio del año 2020, provenientes de Tijuana (México), lugar de origen, dónde inicialmente desempeñaban una actividad empresarial ligada a las casas de cambio de divisas, las mercantiles DIRECCION000 y DIRECCION001, y de donde se derivó su soporte estructural y económico, moviendo dinero para cárteles de la droga mexicanos lo que les generó importantes ingresos. Su llegada a España fue facilitada por el procesado Raimundo, subinspector de la Policía Nacional, con el que contactaron, actuando éste como mediador para organizar los vuelos privados y gestionar la documentación necesaria para los vuelos Tijuana-Madrid Barajas. Desde su llegada a España, el procesado Leon junto con el resto de procesados, en concreto con los miembros de su familia extensa, residieron en diferentes lugares de la Comunidad de Madrid ( DIRECCION002, DIRECCION003, DIRECCION004, DIRECCION005) y la provincia de Guadalajara (Guadalajara, DIRECCION006, DIRECCION007), adquiriendo viviendas y vehículos de alta gama, dotándose de infraestructuras que daban soporte al cultivo, elaboración y almacenaje de sustancias estupefacientes como la finca de DIRECCION008 en la localidad de DIRECCION007 (Guadalajara) adquirida por la sociedad DIRECCION009, representada por la procesada Inmaculada, con 97.824 m2 de parcela para uso agrario, donde desarrollaron fundamentalmente labores de cultivo, elaboración y manipulación de marihuana a través de la creación de invernaderos indoor. Toda la infraestructura al servicio de la organización estaba dotada de grandes medidas de seguridad allí donde se encontraban asentados, y desempeñaban el cultivo, elaboración, manipulación y distribución de las sustancias estupefacientes con armas, férreos controles de acceso, sistemas de avisos a través de banderas ondeantes colocadas en la finca y personal armado, manteniendo el control de las comunicaciones, transmitiéndose las órdenes, instrucciones e indicaciones entre los distintos miembros de la trama, directamente o por teléfono mediante un lenguaje críptico.
+
+En concreto el procesado Leon desde su llegada a España llegó a cambiar hasta en cinco ocasiones de residencia, incautándosele al tiempo su detención en su última residencia sita en la DIRECCION010 en la localidad de DIRECCION004 (Madrid) hasta 29 teléfonos móviles, además de otros efectos como aparatos de geolocalización, "fundidores de teléfonos", o el proyecto de construcción de un bunker para la finca de DIRECCION007 (Guadalajara). En el seno de la organización existían distintos niveles y responsabilidades, cuyos específicos cometidos se detallarán a continuación. El liderazgo era desempeñado por el procesado Leon que controlaba, dirigía y supervisaba toda la organización criminal, gestionando funciones relacionadas con la custodia de su persona, familia y encargos de los cultivos en la finca de DIRECCION007 (Guadalajara), procesamiento, distribución y movimientos de dinero. Los beneficios obtenidos del tráfico ilícito de sustancias estupefacientes los destinaba a constituir un entramado societario que le ayudaba a ocultar la titularidad del patrimonio cuyo origen era el tráfico de estupefacientes, dando una apariencia de legalidad a fondos con origen en las actividades descritas y, sin perjuicio, obviamente, de conseguir para sí en el desarrollo de estas actividades un alto rédito económico que ha sido objeto de investigación en pieza separada procedimiento previas 2094/2022 seguidas ante el Juzgado de Instrucción nº 3 de Guadalajara.
+
+La finca de DIRECCION007 (Guadalajara) era el centro de operaciones de la organización y donde imperaban las mayores medidas de seguridad para su custodia, estaba inmersa en un paraje de difícil acceso y dotada de material armamentístico al personal que en ella trabajaba, donde el flujo de entradas y salidas desde trabajadores de la finca a personas relacionadas con el mundo del tráfico de sustancias era continuo. Una de las obsesiones del procesado Leon era blindarla de toda sospecha y para ello quiso dar apariencia de legalidad al cultivo de marihuana como si se tratara de cultivo de cáñamo y comercialización de CBD con fines industriales, autorización que no ostentaba en la Agencia Española de Medicamentos y Productos Sanitarios.
+
+A fecha 17 de mayo de 2022, la recolección del cultivo en la finca de DIRECCION007 acababa de tener lugar por lo que solo se pudo incautar en la entrada y registro realizada 35,51 gramos de hoja de planta de Cannabis, con una riqueza media expresada en THC del 0,76%. Fueron hallados muchos efectos tales como: terminales móviles, documentación, joyas y relojes de alta gama, instrumentos para el cultivo y recolección, los vehículos BMW modelo 520 con placa de matrícula NUM014, OPEL modelo VIVARO con placa de matrícula NUM015 y RANGE ROVER con placa de matrícula NUM016, 1395 euros y 27 dólares en efectivo. Además se encontraron las siguientes armas: un cartucho percutido de calibre 9 m Parabellum; un cartucho sin percutir de la marca "Luger", carabina de la marca "Gamo", modelo "Magnum Jungle", con número de serie NUM017; carabina de la marca "Gamo" modelo "Magnum Jungle", con número de serie NUM018; dos subfusiles de procedencia checa, de color negro, con los números de serie borrados, y un cargador de munición para cada uno; dos cargadores extras de subfusil; una caja de 50 cartuchos de calibre 9 mm Parabellum; tres pistolas con número de series, NUM019, NUM020, NUM021; siete cartuchos y cuatro cartuchos de calibre 9 mm Parabellum. Los subfusiles ametralladores fabricados por la firma CSA, acrónimo de la compañía CZECH SMALL ARMS, con sede en Jablunka, en la antigua Checoslovaquia, actual República Checa, con la denominación "Sa vz.61 Pistol" cal. 9mm y "Sa vz.61 Pistol" cal. 9mm B y son consideradas armas de fuego automáticas, consideradas como armas de guerra, estando prohibida su adquisición, tenencia y uso por particulares. Todas las armas estaban al servicio de la organización, ya que los procesados Leon, Abelardo, Inmaculada, -estos dos últimos residían en la finca de DIRECCION007-, el procesado Luis, el procesado Teodosio, el procesado Zulima, el procesado Benigno, el procesado Leoncio, el procesado Inocencio, el procesado Cipriano, el procesado Pedro Antonio, el procesado Abel, y el procesado Benito -todos ellos trabajadores de la finca de DIRECCION007-, se encontraban en posesión, a pesar de tener conocimiento de su carácter prohibido.
+
+Otro de los centros operativos de su actividad era su vivienda sita en DIRECCION010 en la localidad de DIRECCION004 (Madrid) donde residía junto a su hermano el procesado Luis y su primo Leoncio, y donde se hallaba un laboratorio para el procesamiento de cocaína. Estas dos localidades eran dotadas de cobertura a través de otros domicilios donde residían los miembros de la organización y de naves industriales donde se trasladaban y distribuían las sustancias, tales como la nave industrial DIRECCION011 sita en DIRECCION012 de la localidad de DIRECCION003 (Madrid).
+
+IV.En una escala inmediatamente inferior al procesado Leon estaban los procesados Abelardo, Inmaculada, Luis y Teodosio.
+
+a). El procesado Luis, alias " Picon", hermano de " Bucanero" participaba de todos los negocios de la familia, residiendo con el procesado Leon en la DIRECCION010 en DIRECCION004, desempeñando fundamentalmente actividades relacionadas con la coordinación de compras en la finca de DIRECCION007, con la custodia de dinero en metálico y los pagos a los trabajadores de la finca. Así, sobre las 19:47 del día 6 de septiembre de 2021 el procesado Leon desde el terminal nº NUM022 se puso en contacto con el procesado Luis alias " Picon" con terminal nº NUM023 diciéndole: "Dale once mil. Es que lo que no quiero tampoco es que me vaya a quitar a Benito, y ahorita cuando más lo necesitamos"..."Once doscientos cuarenta y uno, ok. Oye y qué ¿pero qué hago wey? ¿le doy los de quinientos o de doscientos o qué?"..."de quinientos wey".
+
+Gestionaba el desarrollo de la plantación de la finca de DIRECCION007 interesándose por el mantenimiento de la maquinaria, así en la llamada realizada a la mercantil " DIRECCION013", el procesado Luis contactó con una persona de nombre " Ernesto" sobre las 16:06 del día 20/10/21 desde su terminal nº NUM023 que tras ser preguntado "qué tal va la cosecha?" contestó: "Bien, va bastante bien, justo estaba pensando porque cuando acabemos este rollo quería ver si te mandaba las máquinas o así, como para hacerles el mantenimiento, no sé, no sé si tiene ese servicio".
+
+El procesado Luis actuaba siempre en coordinación con el procesado Leon gestionando la recolección y envasado de las sustancias estupefacientes. Sobre las 12:58 del día 30 de septiembre de 2021 el procesado Leon " Bucanero" desde el terminal nº NUM022 llamó al procesado Luis " Picon" al terminal nº NUM023 diciéndole: "me tiene preocupadísimo eso de la gente wey. Si se echa a perder es una locura." " Picon" contestó: "sí, pues obviamente wey ¿y no se puede hacer nada? De, de, de lo...o sea, todo hacerlo así bien y lo demás secándolo así, na más volteándolas o algo así. Cortarlas y voltearlas". " Bucanero" respondió: "no, no se wey, es una buena idea, pero voy a preguntar". " Picon" dijo: "o sea, que yo qué sé, la mitad y mitad o algo así. O sea que la otra no quede tan top, pero bueno que no se tire a la basura tampoco. Las que van de plano vean que se van a echar a perder, pues yo que se, cortar y voltearlas", " Bucanero" insistió: "Pues gordo, no perdamos el tiempo. Tráete diez de veinte o veinticinco, como sean para doscientos metros. Que mira: si ocupan cien. Serian cuatro, serían cinco por bodega. Si ocupa lo de cien, pero bueno, yo creo que con cuatro debería de, de, de... porque si te fijas wey. La bodega, la chica, ahí, ahí hay solo uno y está bien."..."Compra, compra esa madre para enchufar muchos. O sea cómprate unas seis de esas regletas."..."Ah, pues si te pidió de esas, tráele de esas, pero también trae regletas para enchufar los humidificadores, wey." Finalmente " Bucanero" preguntó a " Picon" sobre el número de trabajadores: "¿Y cuantos constaste ayer?", a lo que " Picon" contestó: "Ayer éramos veinte (20) hombre y dos (2) mujeres. Que hoy debe ser lo mismo".
+
+Sobre las 10:49 del día 1 de octubre de 2021 el procesado Luis " Picon" contactó con Leon " Bucanero" comentándole la posibilidad de introducir en la caballerizas las plantas que han cortado para ponerlas a secar: así Picon pregunta Picon: "Oye, pero wey, te iba a decir: Pero ¿qué hacemos? porque ves que en las caballerizas vamos a ocupar, vamos a ocupar la máquina esta ¿no? el humidificador" Bucanero contesta " Sí, man", Picon pregunta: "compro, yo qué sé, unos tres o cuatro de una vez, que estoy aquí abajo." Bucanero contesta "Pues sí wey, sí, sí, sí." (...) ¿Sabes qué sería bueno gordo? traerse otros dos generadores porque este falla porque de por sí valen trescientos euros y lo tenemos prendido todo el día, wey." Picon contesta: "Sí man. Dos generadores y ¿cuántos humidificadores" Bucanero ordena: "Mmmmm... Yo qué sé, wey, tráete... Si encuentras grandes es mejor", Picon pregunta "¿Cuántos tres? no, son cinco caballerizas. ¿Cuántos compro? grandes que los chiquitos wey", Picon le dice: "Lo ideal sería que fueran cinco de cuarenta", Bucanero contesta: "la marca me da igual."
+
+b). Los procesados Abelardo y Inmaculada, padres del procesado Leon, tenían un lugar destacado en la organización, y fueron unos de los primeros integrantes en llegar a España, residiendo en un primer momento en la DIRECCION014 de DIRECCION015, DIRECCION002 (Madrid), y posteriormente en la finca de DIRECCION007 (Guadalajara), siendo conocedores del desarrollo de los cultivos, la problemática y el control de la misma.
+
+Así, sobre las 13:03 del día 21 de junio de 2021 el procesado Luis desde el terminal nº NUM023 realizó una llamada a su padre el procesado Abelardo con nº de terminal NUM024 preguntándole si el total de los productos que encargaron eran doce mil, respondiéndole que le confirma que son tres mil y el total son seis mil quinientos o así, tiene que llevar la mitad. Picon le pregunta si ya tienen el veneno de las hormigas. Abelardo le dice que se lo va a servir un sitio que está cerca de Guadalajara. Picon le comenta que como ya hay dinero tienen que encargarlo y le pregunta el horario del sitio al que tiene que ir a por el material. Abelardo queda en confirmarle el horario. A las 02:39 horas: Abelardo: "Oye, aprovechando que está Bucanero nada más. Este... dile de favor". Picon: "Ahá". Abelardo: "O pregúntale. Ma mandó unos chips y un teléfono. ¿para quiénes son?" Picon: "Los chips y el teléfono para los muchachos de.... ah, bueno, que se lo des a Ruperto, porfa. Dáselo a Ruperto y ya Bucanero le dijo a Ruperto".
+
+Por su parte, la procesada Inmaculada alias " Pitusa" desempeñó un papel muy importante como testaferro en el seno de la actividad de la organización, figurando como titular en los negocios y asuntos del procesado Leon, además de conocedora del objeto y procedencia de cada una de las operaciones cerradas. Así sobre las 10:50 horas del día 22 de junio de 2021 la procesada Inmaculada llamó desde el terminal nº NUM025 a su hijo el procesado Leon diciéndole en referencia al resto miembros de la organización "te digo que te pongas abusador con eso, no te pelees con nadie, hijo, pero que te vean, que no eres tonto y que eres cabrón. Porque ya les ayudaste mucho" De la misma manera poniendo en conocimiento de su hijo los avances en la plantación de DIRECCION007 le dijo "Y eso de que si no están haciendo nada, hijo, bueno, que...les vas a dar vacaciones, pero si están ahí, hijo, porque, te acomoden tu sala, que te laven la alberca, que está espantosa, que cojan..., horita que ahí, hijo, porque, te acomoden tu sala, que te laven la alberca, que está espantosa, que cojan..., horita que llegue si no lo has dicho a nadie, vas a ver cómo está el rancho, hijo, yo me asomo y digo, ¡ay!. Bueno yo ya lo hubiera recogido ules, yo ya hubiera acomodado cosas, hijo. Ya los he visto que el otro día, andaban sacando cosas, era Pedro Antonio y el otro, en la camioneta, yo creo que fueron las máquinas que te trajeron. Pero nada más, hijo, te digo, porque yo lo único que te digo, pues, no le digas cuando vas, ellos no tienen que saber, cuando vas." Sobre las 19:10 del día 5 de diciembre de 2021 la procesada Mercedes realizó desde su terminal nº NUM025 una llamada a un número extranjero respondiendo su madre, en un momento de la conversación la procesada " Pitusa" le dijo que le pida a Dios por Bucanero porque él es el que los mantiene, que si no fuera por él quien sabe que haríamos, que le pida a Dios para que Bucanero salga para adelante. Pitusa le dice a su madre que "mi Bucanero me da mis cosas y me da mi dinero". Pitusa le dice "por eso te pido por mi Bucanero porque él es la cabeza mami y por mi Picon porque él maneja el dinero".
+
+c). El procesado Teodosio, era el tío del procesado Leon, desempeñando el papel de contable dentro de la organización, controlando todas las cuentas bancarias, movimientos de capitales, sociedades, pagos de inversiones de bienes inmuebles, gestión relacionada con los vehículos, sueldos, gastos de manutención, alquileres, facturas, declaraciones tributarias, impuestos, pagos a proveedores. Encontrándose al tiempo de la detención en el domicilio del procesado Leon en el DIRECCION010 de DIRECCION004. Así se plasmó en las distintas llamadas realizadas por el procesado Teodosio desde su número de teléfono NUM026 el día 6 de julio de 2021 sobre las 11:40 en las que gestionaba la formalización de un contrato de suministros de la gasolinera de DIRECCION006, la llamada del día 14 de julio de 2021 sobre las 13:12 con una trabajadora de la asesoría fiscal "Servicios Reunidos Peña" de Guadalajara donde gestionaba la contabilidad de la sociedad DIRECCION009. de aquellos trámites que requerían de cobertura legal para su actuación. Dicho control de los gastos y las cuentas no solo se llevaba a cabo en solitario por el procesado Teodosio sino que la procesada Mercedes participaba activamente las operaciones que requerían de representación a través de facturas cuyas firmas eran necesarias para cerrar operaciones con bancos u otros organismos, así las llamadas realizadas entre el procesado Teodosio desde su número de teléfono NUM026 y la procesada Mercedes desde el número de teléfono NUM025 el día 29 de septiembre de 2021 sobre las 12:55 y las 18:49 donde concretan los pagos de facturación y transferencias de DIRECCION009 por orden del procesado Leon. El procesado Teodosio participaba del control y la estructura organizativa de la finca de DIRECCION007, así el día 20 de mayo de 2021 sobre las 12:22 horas recibió en su teléfono móvil NUM027 una llamada telefónica al procesado Benigno comentándole "que no pueden dejar el rancho solo, y que Abelardo le ha pedido que vaya"(...) Luis le comenta que le llamó Cesareo y le dijo "que iban a una misión suicida, se los iban a llevar a todos y no querían que el rancho quedase solo".
+
+V.En escala inferior operarían dentro de la organización el procesado Zulima, el procesado Benigno, el procesado Leoncio, el procesado Inocencio, el procesado Cipriano, el procesado Pedro Antonio, el procesado Abel, el procesado Benito y el procesado Raimundo.
+
+a). El procesado Zulima, alias " Chillon", tío de Leon, realizaba trabajos y cultivos en la finca de DIRECCION007, de procesamiento y envasado de la sustancia, así como almacenaje en otros lugares para su posterior distribución, el control de los trabajadores en la plantación, procesado y envasado de la sustancia estupefaciente, así como se derivó de los medios de investigación autorizados judicialmente, el traslado de sustancias estupefacientes entre diferentes lugares de almacenamiento previo a su venta y distribución. En fecha 27 de abril de 2022 se interceptó una llamada telefónica entre el procesado Zulima con número de móvil NUM028 y el procesado Benito desde el número de teléfono NUM029 a las 16:50, 17:12, 17:18 donde se daban indicaciones para llegar a la nave industrial DIRECCION011 sita en DIRECCION012 de la localidad de DIRECCION003 (Madrid) donde se almacenaba gran cantidad de droga y se ubicaba un laboratorio para procesado de cocaína. Como posteriormente se relatará en esta nave se hallaron, entre otros efectos, 729 kilogramos de marihuana repartidos en bolsas de gran tamaño, un laboratorio para el procesado de cocaína, una bolsa de plástico de unos 200 gramos de peso conteniendo 179 gramos de cocaína en vacío, diferentes útiles para el procesado de la sustancia, como garrafas de acetona y disolvente, bandejas, barreños y cucharones impregnados con sustancia pulverulenta blanca que dio positivo en cocaína, balanzas de pesaje, papel secante logotipado para envolver la sustancia estupefaciente, bolsas de café de Colombia donde se ocultaba la sustancia, y 32 sacos de 20 kilos de carbonato cálcico entre otros efectos.
+
+b). El procesado Cipriano era una de las personas de confianza de " Bucanero", era conocido como el "cocinero" ya que se encargaba de preparar tarros, bolsas y paquetes mediante encargo, realizando actividades relacionadas con el cultivo, almacenaje, compras de semillas, así como asesorando al procesado Leon sobre el estado de las plantas y cuando debían ser distribuidas. Así, el 5 de agosto de 2021 sobre las 11:46 el procesado Cipriano desde el número de teléfono NUM030 llamó al procesado Leon al número de teléfono NUM022 diciéndole Bucanero: "Oye güey para lo de las semillas le marcas a este güey para ver que te dice?. Isaac: "¿Cuántas quieres? ¿Cuántas necesitamos? porque eso lo puedo ver ahorita con el pinche Bernardo". Bucanero: "Pero no, de los de Barcelona mejor. Para que vas a hablar con el pendejo ese". Bucanero: "Como 20.000 wey". Isaac: "¿Con que las vamos a pagar?" Bucanero: "Pues con el culo wey". Isaac: "Pues será con el tuyo porque yo no alcanzo con eso. Con tarjeta o con efectivo cabrón". Bucanero: "Con lo que sea. Pa ? las que sea tengo." Así el 6 de agosto de 2021 sobre las 13:22 el procesado Cipriano desde el número de teléfono NUM030 llamó al procesado Leon al número de teléfono NUM022 preguntándole acerca de la distribución en paquetes de la marihuana. El procesado Cipriano desempeñó también un importante papel en la organización como vendedor de las sustancias estupefacientes tratando de cerrar acuerdos con compradores, muchos de ellos situados fuera de España como es Francia o Reino Unido o Países Bajos. Así en el terminal móvil de su titularidad se hallaron capturas de conversaciones realizadas durante el año 2021. Así en fecha 24 de marzo de 2021 con un individuo que no ha sido localizado de nombre " Abilio" que se encontraba en Francia, en fecha 20 de marzo de 2021 con un individuo que no ha sido localizado de nombre " Alfredo" que se encontraba en Reino Unido, en fecha 28 de marzo de 2023 con un individuo que no ha sido localizado de nombre " Anton" que se encontraba en un país extranjero, en fecha 24 de marzo de 2023 con un individuo que no ha sido localizado de nombre " Adrian" que se encontraba en Países Bajos. Como en un negocio cerrado con individuos no identificados provenientes de Holanda en fecha 18 de agosto de 2021.
+
+c). El procesado Benigno, tío del procesado Leon, trabajador de la finca de DIRECCION007, realizaba trabajos controlando y supervisando acciones de otros miembros a nivel operativo como de procesado y envasado de sustancia estupefaciente, llegando a residir en la finca de DIRECCION007 en los periodos de cosecha. Para ello recibía órdenes no solo del procesado Leon, sino también del procesado Luis. En conversaciones del procesado Benigno con su mujer Carina del día 28 de mayo de 2021 sobre las 22:39 desde su número de teléfono NUM031 puso de manifiesto su temor a " Bucanero" diciendo: " Carina: con lo que allá te digan, yo sé que tú vas a apechugar. Si te dicen: "Mira tío, ya hablé con Luis, y ya le dije que, a lo mejor, incluso hasta lo asesinan". Y Tú:?"Pues sí, pues sí, pues bueno esperemos que no". A ver". Luis: "No, pues si dice eso, pues bueno yo le contesté: ¿cómo crees? Pues no, pues no tiene que pasarle eso. No, no, no ósea no ponerme, tampoco, pues no... en ningún momento. En ningún momento". Carina: "Pero también de tu boca tiene que salir. Y claro que de aquí para allá tampoco vaya a haber ninguna represalia. También tú hacérselo ver a él, es tu sobrino ¿o Quieres que se lo haga ver yo?" (...)" Carina: Que le dijo: "Qué Hortensia, tú sabes entra uno. En Méjico entra uno a este tipo de negocios. Y pues tú sabes, entras, pero no sales". Luis: "No sales..." Carina: "Pero aquí, aquí nos hicieron entrar sin ni siquiera pedirnos nuestra opinión". Luis: "Sí, exacto". Carina: "Y primero diciendo que era medicinal y Tenga su banana ¿no?" Luis: "Exactamente. Sí, así es". Carina: "Yo lo único para lo que también quiero, es que no te estés, no te estés sentado en tus laureles, Luis. Y que no apechugues cuando " Bucanero" te haga ciertos comentarios ciertamente de la decisión que Luis ha tomado. ¿eh?" En conversación del procesado Benigno con su hijo Joaquín desde el número de teléfono NUM031 el 9 de junio de 2021 sobre las 18:45 le comenta los negocios que se estaban llevando a cabo en el interior de la finca de DIRECCION007, manifestando que " Bucanero", " Picon", Isaac y Raimundo han cargado en la Finca la furgoneta negra (en referencia al vehículo Cadillac Escalade de color negro con placa matrícula NUM032) con diez-quince bolsas de lo que quedaba y la que estaba dentro de la casa, con las plantas envasadas que estaban empaquetadas, abandonando el lugar seguidamente. Hablan igualmente de la producción y que esperan unas 20.000 plantas si bien su idea inicial eran las 100.000, estando la producción en siembra hasta el día 20 de junio, quedando únicamente de la anterior unos 5 o 10 kilos y que han estado haciendo "Hoyos".
+
+d). El procesado Pedro Antonio era uno de los miembros de seguridad del procesado Leon, acompañando al " Orejas" y al procesado Victorio en algunas reuniones a modo de escolta. Así, en una llamada realizada por el procesado Luis desde el número de teléfono NUM023 a Victorio el día 2 de septiembre de 2021 sobre las 14:04, el procesado Leon le ordena al procesado Victorio que se dirija al restaurante " DIRECCION016" de la localidad de DIRECCION017 para que realice labores de escolta-seguridad a "su socio de laboratorio" en referencia al procesado Victorio. Además de labores de escolta dando seguridad en las operaciones de compraventa de droga, el procesado Pedro Antonio intervino en las labores de procesado y envasado de la droga, así el día 18 de septiembre de 2021 en conversación telefónica a las 15:30 horas con el procesado Isaac desde el nº de teléfono NUM027 al NUM033 se le dio indicaciones acerca del envasado de 300 gr de cocaína en bolsas de plástico, o bien en fecha 19 de junio de 2021 indicaciones en la coordinación del traslado de una "máquina de vacío" a una bodega para el envasado de sustancias estupefacientes y como se pone de manifiesto en las distintas llamadas realizadas entre él desde el número de teléfono NUM027 y el procesado Cipriano con número de teléfono NUM033 del día 25 de agosto de 2021 a las 9:28 y a las 22:24 horas. También realizó tareas en la finca de DIRECCION007 comprando material envasado y procesado para cosechas de las plantaciones de cannabis, como realizando entregas de mercancías con las plantaciones de DIRECCION007 en otras provincias.
+
+e). El procesado Abel era otro de los escoltas del procesado Leon y su familia, dando cobertura de seguridad en las reuniones y las visitas que llegaban al domicilio de " Bucanero". De la misma manera, el procesado Abel intervino en el procesamiento de 39 kg de cocaína interceptados en la DIRECCION010 de DIRECCION004 (Madrid) mezclando en un barreño de plástico la mezcla de la sustancia estupefaciente con acetona para la formación de los bloques/ladrillos de cocaína.
+
+f). El procesado Inocencio, era trabajador de la finca de DIRECCION007 desempeñando tareas de mantenimiento y de vigilancia, así como almacenaje y manipulación de la droga en los invernaderos de la finca de DIRECCION007 como en la Nave DIRECCION012 del Polígono Industrial DIRECCION011 de la localidad de DIRECCION003 (Madrid).
+
+g). El procesado Leoncio era trabajador al servicio del procesado Leon interviniendo en el almacenaje y manipulación de la cocaína incautada en la Nave DIRECCION012 del Polígono Industrial DIRECCION011 de la localidad de DIRECCION003 (Madrid).
+
+h). El procesado Benito era trabajador de la finca de DIRECCION007 (Guadalajara) realizando labores de mantenimiento, distribución y envasado de la sustancia estupefaciente a tenor de las indicaciones del procesado Leon, supervisaba a los demás trabajadores, actuando siempre bajo el control del procesado Leon o del procesado Zulima. El procesado Benito participó también en el almacenaje y traslado de la droga incautada en la Nave DIRECCION012 del Polígono Industrial DIRECCION011 de la localidad de DIRECCION003 (Madrid), además de contactar con otros clanes u organizaciones dedicadas a la compraventa de sustancias en España negociando con ellas el precio, la cantidad y demás condiciones. Así, el día 19 de noviembre de 2021 desde su número de teléfono móvil NUM029 mantuvo una conversación con un tercero no identificado para materializar la transacción diciéndole a las 20:07 horas "si quieres, en el caso de que tal, si le da confianza, pueden venir a ver otra cosa, que también tengo otra cosa, vale?" diciéndole que lo pueden probar sin problema, en referencia a las distintas "variedades de muestras de marihuana" de la cosecha de la finca de DIRECCION007.
+
+i). El procesado Raimundo, subinspector de la Policía Nacional que estaba destinado en la Brigada Provincial de Información de San Sebastián, entre el mes de junio de 2020 hasta el 17 de mayo de 2022, actuó bajo las indicaciones del procesado Leon, accediendo a requerimientos de aquel a los registros informáticos reservados de dicho cuerpo policial para obtener y facilitarle a continuación datos personales, patrimoniales, antecedentes penales o implicación en investigaciones policiales, relativos a personas relacionadas con el procesado. Así, desempeñó un papel importante en el seno de la organización, intermedió como facilitador en su asentamiento en España, y a partir del 3 de junio de 2020 comenzó a gestionar la llegada de los distintos miembros a través de vuelos chárter en contacto con el procesado Leon y un bróker del departamento de vuelos privados de la compañía "ACS España Servicios de Chárter Aéreo" para la entrada de 20 ciudadanos mejicanos provenientes de Tijuana. Propiciando la llegada del procesado Leon, el procesado Teodosio, el procesado Leoncio, el procesado Zulima, Benigno, el procesado Inocencio y el procesado Luis. Por su parte también concertó entre el 10 de septiembre de 2020 y el 17 de mayo de 2022 hasta seis citas para la tramitación y expedición de la documentación de algunos de los procesados, como de la procesada Inmaculada en la expedición de DNI y de pasaporte, y del procesado Luis, valiéndose de su condición como miembro de la policía nacional. A su vez realizó las siguientes búsquedas de datos en los sistemas informáticos del citado cuerpo policial, todas ellas ajenas a su actividad profesional y relacionadas con personas vinculadas con el procesado y a requerimiento de éste, como se ha dicho:
+
+- El 02.06.20 (17:47 horas), desde el terminal con IP NUM034 ubicado en la Unidad Central de Delincuencia Económica y Fiscal de la Comisaría General de Policía Judicial, realizó 13 consultas de bastidores en 5 minutos, infiriéndose que los 17 caracteres alfanuméricos de cada bastidor fueron copiados desde algún dispositivo de almacenaje externo.
+
+- El 20.06.20 (08:55 - 08:59 horas), desde el terminal con IP NUM034 ubicado en la Unidad Central de Delincuencia Económica y Fiscal de la Comisaría General de Policía Judicial, realiza un total de 9 consultas por bastidor y 1 por matrícula.
+
+- El 09.12.20 (17:55 horas), desde el terminal con IP NUM035 ubicado en la Comisaría Provincial de Información de San Sebastián, consulta a 2 trabajadores de la finca de DIRECCION007, Guadalajara, Pedro Antonio y Abel.
+
+- El 29.12.20 (11:31 horas), desde el terminal con IP NUM036 ubicado en la Comisaría Provincial de Información de San Sebastián, consulta el vehículo Lamborghini AVENTADOR con matrícula NUM037 de la empresa " DIRECCION009", conducido habitualmente por el procesado Leon. Dicho vehículo fue consultado igualmente el 04.01.21 (entre las 13:01 horas y 13:06 horas) y 26.01.21 (11:33 horas); 25.02.21 (22:30 horas) desde el terminal con IP NUM035 ubicado en la Comisaría Provincial de Información de San Sebastián.
+
+- El 25.01.21 (18:11 horas); el 22.02.21 (11:58 horas); el 08.04.21 (11:58 horas); el 31.05.21 (15:52 horas); el 24.06 21 (20:01 horas y 20:30 horas); el 13.07.21 (09:11 horas); 04.08.21 (15:51 horas); el 26.08.21 (18:06 horas) y el 14.09.21 (12:41 horas), desde los terminales ubicados en la Comisaría Provincial de Información de San Sebastián, consulta al procesado Leon.
+
+- El 25.02.21 (entre las 10:35 y las 22:33 horas), desde el terminal con IP NUM035 ubicado en la Comisaría Provincial de Información de San Sebastián, efectuó hasta un total de 57 consultas sobre diferentes vehículos, entre ellos los turismos pertenecientes a la empresa " DIRECCION009".
+
+- El 08.04.21 (10:28 horas), desde el terminal con IP NUM035 ubicado en la Comisaría Provincial de Información de San Sebastián consulta 4 veces la matrícula NUM032 de la empresa " DIRECCION009", vehículo utilizado por el clan familiar Ceferino. A las 13:32 horas, desde el terminal con IP NUM038 ubicado en la Comisaría Provincial de Información de San Sebastián, consulta a Inmaculada.
+
+- Desde el 20.04.21 hasta principios del mes de julio, desde los terminales con IP NUM038 NUM035 y NUM036, ubicados en la Comisaría Provincial de Información de San Sebastián, Raimundo realizó más de 100 consultas de vehículos por matrículas y bastidor, entre ellos los de la mercantil " DIRECCION009".
+
+El procesado llevó a cabo la conducta referida a pesar de tratarse de información reservada por encontrarse inserta en registros informáticos oficiales y aprovechándose de que su condición de funcionario de la Policía Nacional le confería acceso a los mismos.
+
+Como contraprestaciones correspondientes a la obtención de esa información, el procesado Leon le hizo entrega de cantidades indeterminadas de dinero, encontrándose al tiempo de la entrada y registro en su domicilio sito en DIRECCION018 de la localidad de DIRECCION019 (Cantabria) donde se le intervino 22.160€ en billetes fraccionados, 28 monedas de oro y dos lingotes de oro valorados en la cuantía de 47.744,25€.
+
+Desde la llegada del procesado Leon, el procesado Raimundo mantuvo una relación muy estrecha con él, participando de reuniones y citas con terceros vinculados a los negocios del procesado Leon en su condición de miembro de la Policía Nacional, dotando de cobertura las actuaciones y operaciones de la organización, haciendo uso de los vehículos de la organización como del vehículo Volkswagen SIROCCO con matrícula NUM039 que llegó a estar asegurado a su nombre con la compañía "Allianz Seguros" figurando como conductor habitual o el vehículo JEEP RENEGADE con matrícula NUM040 o el vehículo BMW X6 con matrícula NUM041 asegurado a su nombre con la compañía "Axa Seguros Generales S.A." figurando como conductor habitual, todos ellos titularidad de DIRECCION009.
+
+VI.A las 10:45 horas del día 6 de mayo de 2022, se llevó a cabo la entrada y registro en la nave industrial DIRECCION011 sita en DIRECCION012 de la localidad de DIRECCION003 (Madrid), con los hallazgos que a continuación se detallan:
+
+- Ciento cincuenta y cinco (155) bolsas conteniendo sustancia vegetal verde con marcado aroma, que una vez secos, arrojaron un peso neto total de 729 kg (setecientos veintinueve kilogramos) de materia vegetal verde con una riqueza de 0,2 %, en D 9- tetrahidrocannabinol presentado en forma de cannabis.
+
+- Una bolsa precintada de una sustancia blanca, que arrojó un peso neto total de 147,61 gr (ciento cuarenta y siete gramos y sesenta y un miligramos) netos de cocaína con una riqueza media de 75,2%.
+
+- Un laboratorio procesamiento de cocaína en el que se encontraron treinta y dos (32) bolsas de una sustancia carbonato cálcico. Dos balanzas de pesaje, una analógica y otra digital, una envasadora de vacío, junto con cientos de bolsas de plástico, un bulto rectangular, embalado en plástico de color negro que una vez se procede a su apertura se trató de dos tableros de mesa tipo Ikea modelo "Lack" pegadas sobre su base donde se hallaban ocultas en su interior ocho bolsas termoselladas al vacío de un peso aproximado de 500 gramos cada una, recipientes de plástico y barreño con restos de sustancia, a y ocho garrafas de acetona.
+
+- 770 € en dinero en efectivo.
+
+La sustancia estupefaciente marihuana intervenida en el mercado ilícito alcanzaría un precio orientativo de 1.396.290,15 euros (un millón trescientos noventa y seis mil doscientos noventa con quince céntimos). La sustancia estupefaciente cocaína intervenida alcanzaría en el mercado ilícito un precio orientativo de 14.676,94 euros (catorce mil seiscientos setenta y seis con noventa y cuatro céntimos).
+
+VII.Se llevó a cabo la entrada y registro en los domicilios que se señalan, con los hallazgos que a continuación se detallan:
+
+1. A las 7:00 horas del mismo día 17 de mayo de 2022 (J.I. nº 3 de Guadalajara), se llevó a cabo el registro practicado en el domicilio sito en DIRECCION020, de Guadalajara, en el que se intervinieron:
+
+- Una bolsa de plástico conteniendo una sustancia blanca polvorienta, que arrojó un peso neto total de la sustancia contenida de 6,69 gg (seis gramos y sesenta y nueve miligramos) netos de cocaína con una riqueza media de 77,93%.
+
+- Un total de 10.185 euros en billetes fraccionados.
+
+La sustancia estupefaciente marihuana intervenida en el mercado ilícito alcanzaría un precio orientativo de 683,20 euros (seiscientos ochenta y tres con veinte céntimos).
+
+2. A las 7:00 horas del mismo día 17 de mayo de 2022, se llevó a cabo el registro de la finca de la DIRECCION010 de DIRECCION004 (Madrid) y en el que se intervinieron:
+
+- Una caja de cartón con 37 ladrillos blancos cada conteniendo cada bloque rectangular una sustancia blanca polvorienta, que arrojó un peso neto total de la sustancia contenida de 39,237 kg (treinta y nueve kilos y doscientos treinta y siete gramos) netos de cocaína con una riqueza media de 74,3%.
+
+- Un total de 85.480 euros en billetes fraccionados.
+
+- Los siguientes vehículos:
+
+· Lamborghini matrícula NUM042.
+
+· Rolls Royce matrícula NUM043.
+
+· Cadillac Escalade matrícula NUM032.
+
+· Land Rover Sport matrícula NUM044.
+
+· Mercedes GLE Coupé matrícula NUM045.
+
+· Renault Megane matrícula NUM046.
+
+· Volkswagen Tiguan matrícula NUM047.
+
+- Veintinueve terminales móviles, seis tablet, tarjetas prepago, placas de matrícula, dispositivo para detectar baliza, discos duros, barreño blanco cuadrado y transparente con una masa blanca, apelmazada dentro de un líquido, lámparas de pie circulares, máquina de termo sellado, una maleta roja de grandes dimensiones que contiene papel de secado, un contenedor metálico, papel film y bolsas de plástico, un videograbador, una maleta negra en cuyo interior se encuentran 10 botes de "CAFEÍNA ANHIDRA PURA" 1 KILO 8/1000 SCRAM SPECIAL CHEMICALS 8 RAW MATERIALS y 43 botes de FENACETINA 1 KILO COD QD001/1000 tiendas MR 886, cuatro piezas de la prensa más otros dos, un cuadrado gris y otro rectangular, dos básculas, un embudo negro, un tubo verde, tijeras, destornilladores, boles, pala, cucharas y microondas.
+
+- joyas y relojes de alta gama.
+
+- máquina de contar dinero.
+
+- mil cuatrocientos diecisiete (1417) billetes de 50 euros, quince (15) billetes 500 euros, tres (3) billetes de 200 euros, cuarenta y tres (43) billetes de 100 euros, sesenta y cinco (65) billetes de 20 euros, setenta y seis (76) billetes de 10 euros y treinta y cuatro (34) billetes de 5 euros.
+
+La sustancia estupefaciente cocaína intervenida alcanzaría en el mercado ilícito un precio orientativo de 1.489.103,17 euros (un millón cuatrocientos ochenta y nueve mil ciento tres con diecisiete céntimos).
+
+3. A las 7:10 horas del mismo día 17 de mayo de 2022 se llevó a cabo el registro de la finca de la DIRECCION021 de la localidad de DIRECCION005 (Madrid) y en el que se intervinieron:
+
+- 49 bolsas de plástico con restos de marihuana; cogollos, una vez secos, arrojaron un peso neto total de 63,904 kilos (sesenta y tres kilos y novecientos cuatro gramos) de materia vegetal verde con una riqueza de 0,2 %, en D 9- tetrahidrocannabinol presentado en forma de cannabis.
+
+- Envoltorios de las bolsas de envasado al vacío y báscula.
+
+La sustancia estupefaciente marihuana intervenida alcanzaría en el mercado ilícito un precio orientativo de 120.667,05 euros (ciento veinte mil seiscientos sesenta y siete con cinco céntimos).
+
+4-. A las 13:00 horas del mismo día 17 de mayo de 2022 se llevó a cabo el registro de la finca de la DIRECCION022 en la localidad de DIRECCION023 (Madrid) y en el que se intervinieron:
+
+- Una bolsa de plástico con restos de marihuana; cogollos, una vez secos, arrojaron un peso neto total de 4,994 kilos (cuatro kilo y novecientos noventa y cuatro gramos) de materia vegetal verde con una riqueza de 0,2 %, en D 9- tetrahidrocannabinol presentado en forma de cannabis.
+
+La sustancia estupefaciente marihuana intervenida alcanzaría en el mercado ilícito un precio orientativo de 9.565,26 euros (nueve mil quinientos sesenta y cinco con veinte seis céntimos).
+
+A las 4:30 horas del día 31 de mayo de 2022, en el DIRECCION024, DIRECCION025 de la localidad de DIRECCION026 (Madrid) tuvieron lugar los siguientes hallazgos:
+
+- Sesenta (60) cajas conteniendo sustancia vegetal verde con marcado aroma, que una vez seca, arrojaron un peso neto total de 166,483 kg (ciento sesenta y seis kilogramos con cuatrocientos ochenta y tres gramos) de materia vegetal verde con una riqueza de 0,2 %, en D 9-tetrahidrocannabinol presentado en forma de cannabis.
+
+La sustancia estupefaciente marihuana intervenida alcanzaría en el mercado ilícito un precio orientativo de 293.527,38 euros (doscientos noventa y tres mil quinientos veintisiete con treinta y ocho céntimos).
+
+La cuantificación de las sustancias intervenidas a tenor de la valoración realizada por los agentes actuantes asciende a la cantidad de 3.324.512,95 euros obtenida por las actividades de la organización.
+
+VIII.El procesado Leon se encuentra cumpliendo prisión preventiva desde el 19 de mayo de 2022 acordada por el Juzgado de Instrucción nº 4 de Colmenar Viejo, ratificada mediante Auto de fecha 1 de junio de 2022 por el Juzgado de Instrucción nº 3 de Guadalajara, detenido en fecha 17 de mayo de 2022. Por auto de fecha 13 de mayo de 2024 se acordó la prórroga de la medida.
+
+SEGUNDO
+En la citada sentencia se dictó el siguiente pronunciamiento:
+
+FALLAMOS: (i).-Que debemos condenar y condenamos a Leon, como autor penalmente responsable de un delito contra la salud publica referido a sustancias que causan grave daño a la salud en cantidad de notoria importancia en condición de jefe, de un delito de dirección de organización criminal para la comisión de delito grave con disposición de armas u instrumentos peligrosos, un delito continuado de aprovechamiento de la revelación de información, un delito de cohecho del art. 424 CP, y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+- Por el delito contra la salud pública, la pena de DOCE AÑOS Y UN DIA DE PRISIÓN e inhabilitación absoluta durante el tiempo que dure la condena y MULTA de 13.300.000 euros.
+
+- Por el delito de pertenencia a una organización criminal, la pena de 6 AÑOS Y UN DIA DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena. Se le impone igualmente la inhabilitación especial para todas aquellas actividades económicas o negocios jurídicos relacionados con la actividad de la organización criminal o con su actuación en el seno de los mismos en relación con el objeto social por tiempo superior en 6 años a la duración de la pena de prisión impuesto.
+
+- Por el delito de cohecho la pena de TRES AÑOS DE PRISIÓN, inhabilitación especial para el ejercicio del derecho de sufragio pasivo durante el tiempo que dure la condena, MULTA DE DOCE MESES a razón de una cuota diaria de 15€ con responsabilidad personal subsidiaria para caso de impago del art. 53 del CP.
+
+- Por el delito de aprovechamiento de la revelación de información, con la pena de multa de 9.000€ con responsabilidad personal subsidiaria en caso de impago de CUATRO meses del art. 53 del CP. E igualmente se le impone igualmente la pérdida de la posibilidad de obtener subvenciones o ayudas públicas y del derecho a gozar de beneficios o incentivos fiscales o de la Seguridad Social por tiempo de uno año.
+
+- Por el delito de tenencia ilícita de armas prohibidas UN AÑO DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+Se procederá al abono del tiempo de la prisión preventiva, a contar desde fecha de 17 de mayo de 2022.
+
+(ii).Que debemos condenar y condenamos a Inmaculada, como autora penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud en cantidad de notoria importancia, de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos, y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+- Por el delito contra la salud pública la pena de NUEVE AÑOS DE PRISIÓN y la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y MULTA DE 3.325.000 Euros.
+
+- Por el delito de pertenencia a una organización criminal la pena de DOS AÑOS DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+- Por el delito de tenencia ilícita de armas prohibidas UN AÑO DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+(iii).Que debemos condenar y condenamos a Abelardo, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud en cantidad de notoria importancia, de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos, y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+- Por el delito contra la salud pública la pena de NUEVE AÑOS DE PRISIÓN y la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y MULTA DE 3.325.000 Euros.
+
+- Por el delito de pertenencia a una organización criminal la pena de DOS AÑOS DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+- Por el delito de tenencia ilícita de armas prohibidas UN AÑO DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+(iv).Que debemos condenar y condenamos a Luis, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud en cantidad de notoria importancia, de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos, y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+- Por el delito contra la salud pública la pena de NUEVE AÑOS DE PRISIÓN y la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y MULTA DE 3.325.000 Euros.
+
+- Por el delito de pertenencia a una organización criminal la pena de DOS AÑOS DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+- Por el delito de tenencia ilícita de armas prohibidas UN AÑO DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+(v).Que debemos condenar y condenamos a Teodosio, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud en cantidad de notoria importancia, de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos, y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+- Por el delito contra la salud pública la pena de NUEVE AÑOS DE PRISIÓN y la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y MULTA DE 3.325.000 Euros.
+
+- Por el delito de pertenencia a una organización criminal la pena de DOS AÑOS DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+- Por el delito de tenencia ilícita de armas prohibidas UN AÑO DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+(vi).Que debemos condenar y condenamos a Zulima, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud en cantidad de notoria importancia, de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos, y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+- Por el delito contra la salud pública la pena de NUEVE AÑOS DE PRISIÓN y la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y MULTA DE 3.325.000 Euros.
+
+- Por el delito de pertenencia a una organización criminal la pena de DOS AÑOS DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+- Por el delito de tenencia ilícita de armas prohibidas UN AÑO DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+(vii).Que debemos condenar y condenamos a Cipriano, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud en cantidad de notoria importancia, de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos, y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+- Por el delito contra la salud pública la pena de NUEVE AÑOS DE PRISIÓN y la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y MULTA DE 3.325.000 Euros.
+
+- Por el delito de pertenencia a una organización criminal la pena de DOS AÑOS DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+- Por el delito de tenencia ilícita de armas prohibidas UN AÑO DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+(viii).Que debemos condenar y condenamos a Benigno, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud en cantidad de notoria importancia, de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos, y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+- Por el delito contra la salud pública la pena de NUEVE AÑOS DE PRISIÓN y la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y MULTA DE 3.325.000 Euros.
+
+- Por el delito de pertenencia a una organización criminal la pena de DOS AÑOS DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+- Por el delito de tenencia ilícita de armas prohibidas UN AÑO DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+(ix).Que debemos condenar y condenamos a Pedro Antonio, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud en cantidad de notoria importancia, de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos, y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+- Por el delito contra la salud pública la pena de NUEVE AÑOS DE PRISIÓN y la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y MULTA DE 3.325.000 Euros.
+
+- Por el delito de pertenencia a una organización criminal la pena de DOS AÑOS DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+- Por el delito de tenencia ilícita de armas prohibidas UN AÑO DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+(x).Que debemos condenar y condenamos a Abel, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud en cantidad de notoria importancia, de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos, y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+- Por el delito contra la salud pública la pena de NUEVE AÑOS DE PRISIÓN y la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y MULTA DE 3.325.000 Euros.
+
+- Por el delito de pertenencia a una organización criminal la pena de DOS AÑOS DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+- Por el delito de tenencia ilícita de armas prohibidas UN AÑO DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+(xi).Que debemos condenar y condenamos a Inocencio, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud en cantidad de notoria importancia, de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos, y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+- Por el delito contra la salud pública la pena de NUEVE AÑOS DE PRISIÓN y la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y MULTA DE 3.325.000 Euros.
+
+- Por el delito de pertenencia a una organización criminal la pena de DOS AÑOS DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+- Por el delito de tenencia ilícita de armas prohibidas UN AÑO DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+(xii).Que debemos condenar y condenamos a Leoncio, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud en cantidad de notoria importancia, de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos, y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+- Por el delito contra la salud pública la pena de NUEVE AÑOS DE PRISIÓN y la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y MULTA DE 3.325.000 Euros.
+
+- Por el delito de pertenencia a una organización criminal la pena de DOS AÑOS DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+- Por el delito de tenencia ilícita de armas prohibidas UN AÑO DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+(xiii).Que debemos condenar y condenamos a Benito, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud en cantidad de notoria importancia, de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos, y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+- Por el delito contra la salud pública la pena de NUEVE AÑOS DE PRISIÓN y la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y MULTA DE 3.325.000 Euros.
+
+- Por el delito de pertenencia a una organización criminal la pena de DOS AÑOS DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+- Por el delito de tenencia ilícita de armas prohibidas UN AÑO DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+(xiv).Que debemos condenar y condenamos a Raimundo, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud en cantidad de notoria importancia en su condición de funcionario público, un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos, un delito de cohecho pasivo propio, y un delito continuado de revelación de secretos por funcionario público, imponiéndole las penas siguientes:
+
+- Por el delito contra la salud pública la pena de NUEVE AÑOS DE PRISIÓN y la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y MULTA DE 3.325.000 Euros.
+
+- Por el delito de pertenencia a una organización criminal la pena de DOS AÑOS DE PRISIÓN, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+- Por el delito de cohecho la pena de TRES AÑOS DE PRISIÓN, inhabilitación especial para el derecho de sufragio pasivo durante el tiempo de la condena y MULTA DE DOCE MESES, con una cuota diaria de DOCE euros, cuya falta de pago determinará UN día de privación de libertad por cada dos cuotas no satisfechas, e inhabilitación especial para empleo o cargo público y para el ejercicio del derecho de sufragio pasivo durante NUEVE AÑOS.
+
+- Por el delito de revelación secretos la pena de MULTA DE DIECISEIS MESES Y UN DIA, a razón de una cuota diaria de 12€, e inhabilitación especial para empleo o cargo público por tiempo de DOS AÑOS Y UN DIA.
+
+Se condena a los procesados al abono de las costas procesales en la proporción que legalmente corresponda.
+
+Procédase al decomiso y la destrucción de la sustancia ocupada, de la forma prevista, si no se hubiera realizado ya. Y en relación con los demás objetos intervenidos que constan relacionados en los hechos probados, procédase al decomiso de los mismos, dándose a estos el destino legalmente establecido.
+
+Procédase a la destrucción de las grabaciones originales que existan en la unidad central del sistema SITEL y de todas las copias, conservando solamente de forma segura las entregadas a la autoridad judicial, y verificando en ejecución de sentencia, una vez firme, que tal destrucción se ha producido.
+
+Se mantienen la medida de prisión provisional acordada respecto de Leon en auto de 19 de mayo de 2022 del Juzgado de Instrucción n. 4 de Colmenar Viejo, ratificada mediante auto de fecha 1 de junio de 2022 por el Juzgado de Instrucción n. 3 de Guadalajara, y prorrogada por auto de esta Audiencia de 13 de mayo de 2024, hasta la firmeza de la presente resolución, y en su caso las demás medidas cautelares adoptadas.
+
+Se mantienen las medidas cautelares adoptadas respectos a los demás penados hasta la firmeza de la presente resolución.
+
+A todos los condenados les será abonados, para el cumplimiento de estas penas, los días que hayan estado privados de libertad por esta causa y compensada, en la proporción que corresponda, las medidas cautelares sufridas en la presente causa.
+
+TERCERO
+Contra la anterior sentencia se interpuso recurso de apelación por las representaciones procesales de D. Leon y otros, la Sala de lo Civil y Penal del Tribunal Superior de Justicia de Castilla-La Mancha, dictó sentencia núm. 77/25, 29 de octubre, cuyo fallo es como sigue:
+
+FALLAMOS:SE DESESTIMAN los recursos interpuestos por Leon, Luis, Teodosio, Pedro Antonio, Abel, Leoncio y Inocencio, representados por el Procurador Sr. Boyano Adanez y asistidos del Letrado Sr. Rodríguez Casas; Inmaculada, Abelardo y Zulima, representados por el Procurador Sr. Boyano Adanez y asistidos de la Letrada Sra. Mendoza Calvo; Cipriano, representado por el Procurador Sr. Boyano Adanez y asistido de la Letrada Sra. Linares Fernández; Benigno, representado por el Procurador Sr. Boyano Adanez y asistido de la Letrada Sra. Fernández Núñez; Benito, representado por la Procuradora Sra. García de la Cruz y asistido del Letrado Sr. Rodríguez Mendoza; y Raimundo, representado por la Procuradora Sra. Rivero Ortiz y asistido por el Letrado Sr. Rodríguez Mendoza.
+
+Y acogiendo la alegación en el acto de la vista del Ministerio Fiscal, de acuerdo con el principio de legalidad de la pena y la aplicación del concurso de normas:
+
+SE RECTIFICA LA CONDENA DE LOS PROCESADOS, PROCEDIENDO LA CONDENA DE LOS MISMOS COMO AUTORES DE UN DELITO CONTRA LA SALUD PÚBLICA DE SUSTANCIAS QUE NO CAUSAN GRAVE DAÑO A LA SALUD EN CONCURSO DE NORMAS CON UN DELITO CONTRA LA SALUD PÚBLICA DE SUSTANCIAS QUE CAUSAN GRAVE DAÑO A LA SALUD DEL ART. 369 BIS EN RELACIÓN CON EL ART. 368, 369.1. 5, EN CONCURSO DE NORMAS CON UN DELITO DE PERTENENCIA A ORGANIZACIÓN CRIMINAL DEL ART. 570 BIS 1. Y 2 DEL CÓDIGO PENAL.
+
+PROCEDIENDO IMPONERLES LA PENA YA CONSIDERADA EN LA SENTENCIA APELADA PARA EL DELITO CONTRA LA SALUD PÚBLICA DEL ART. 369 BIS EN RELACIÓN CON EL ART. 368, 369.1 Y 5 Y SIN QUE PROCEDA LA IMPOSICIÓN DE LAS PENAS REFLEJADAS EN LA SENTENCIA APELADA POR EL REFERIDO DELITO DE PERTENENCIA A ORGANIZACIÓN CRIMINAL.
+
+SE CONFIRMA EL RESTO DE LOS PRONUNCIAMIENTOS DE LA RESOLUCIÓN RECURRIDA.
+
+Notifíquese la presente a las partes, A TRAVÉS DE SU RESPECTIVA REPRESENTACIÓN PROCESAL, SIN QUE SEA NECESARIO HACERLO PERSONALMENTE (conforme con la doctrina contenida, entre otros muchos, en AATS 5/12/20 -Recurso: 2286/2019 - y 1/12/29 - Recurso: 20109/2020 - y todos los que en ellos se citan); haciéndoles saber que no es firme y que contra la misma cabe recurso de casación de conformidad con el artículo 847 LECRIM, cuya preparación debe solicitarse dentro de los cinco días siguientes al de su última notificación, a tenor de los artículos 855 y 856 de la referida Ley.
+
+CUARTO
+Notificada en forma la anterior resolución, se preparó recurso de casación por las representaciones procesales de D. Leon y otros que se tuvieron por anunciados, remitiéndose a esta Sala Segunda del Tribunal Supremo las certificaciones necesarias para su sustanciación y resolución, formándose el correspondiente rollo y formalizándose los recursos.
+
+QUINTO
+Las representaciones de los recurrentes formalizaron el recurso alegando los motivos siguientes:
+
+RECURSO DE D. Leon, D. Luis, D. Teodosio, D. Pedro Antonio, D. Abel, D. Leoncio y D. Inocencio.
+
+Primero.- Al amparo del art. 852 LECrim., falta de motivación suficiente de la sentencia de apelación, vulneración del derecho a la tutela judicial efectiva ( art. 24.1 CE) y del deber de motivación (art. 120.3 C·).
+
+Segundo.- Al amparo del art. 852 LECrim., ilicitud de las intervenciones telefónicas, vulneración del derecho fundamental al secreto de las comunicaciones ( art. 18.3 CE) y del derecho a un proceso con garantías ( art. 24.2 CE).
+
+Tercero.- Al amparo del art. 852 LECrim., entrada y registro domiciliario antes de la hora autorizada, vulneración del derecho fundamental a la inviolabilidad del domicilio ( art. 18.2 CE) y a un proceso con garantías.
+
+Cuarto.- Al amparo del art. 852 LECrim., entrada y registro ilícitos en la nave industrial de DIRECCION003, vulneración del derecho fundamental a la inviolabilidad del domicilio ( art. 18.2 CE) y a un proceso con todas las garantías.
+
+Quinto.- Al amparo del art. 852 LECrim., captación de imágenes aéreas sin autorización judicial, vulneración del derecho fundamental a la intimidad personal y familiar y a la propia imagen ( art. 18.1 CE) en relación con el derecho a un proceso con garantías.
+
+Sexto.- Al amparo del art. 852 LECrim., falta de imparcialidad objetiva del tribunal sentenciador, vulneración del derecho fundamental a un juez imparcial ( art. 24.2 CE).
+
+Séptimo.- Al amparo del art. 852 LECrim. y art. 5.4 LOPJ, vulneración del derecho fundamental a la presunción de inocencia respecto del delito de cohecho.
+
+Octavo.- Al amparo del art. 852 LECrim., vulneración del derecho a la presunción de inocencia y del principio de culpabilidad personal en la condena por tenencia ilícita/prohibida de armas, por falta de prueba de dominio o responsabilidad individual.
+
+Noveno.- Al amparo del art. 852 LECrim., vulneración del derecho al juez predeterminado por la ley por fraccionamiento indebido de la causa ("Operación Silene"), infracción de los arts. 24.2 CE y 25.1 CE, en relación con los arts. 23 y 65 LOPJ.
+
+Décimo.- Al amparo del art. 849.1 LECrim., mantenimiento inalterado de las penas pese a eliminar la condena por organización criminal, indebida aplicación de las reglas de determinación de la pena ( art. 66 CP); infracción del principio de proporcionalidad.
+
+Undécimo.- Al amparo del art. 849.1 LECrim., errónea calificación jurídico-penal del material vegetal intervenido, indebida aplicación del art. 368 CP (delito contra la salud pública), debiendo apreciarse atipicidad o tipo atenuado por tratarse de cáñamo industrial no psicoactivo.
+
+Duodécimo.- Al amparo del art. 849.1 LECrim., imposición de pena superior por jefatura no probada, indebida aplicación de los arts. 66 y 72 CP en la individualización de la pena, vulnerando el art. 24.1 CE.
+
+Decimotercero.- Al amparo del art. 849.1 LECrim., inaplicación indebida de la atenuante de dilaciones indebidas ( art. 21.6ª CP), infracción del art. 66.1.2ª CP.
+
+Decimocuarto.- Al amparo del art. 850.1 LECrim., denegación inmotivada de pruebas esenciales, con violación del derecho a utilizar medios de prueba ( art. 24.2 CE).
+
+RECURSO DE D. Raimundo.
+
+Primero.- Por infracción de precepto constitucional con base en lo dispuesto en el art. 852 de la LECrim. y 5.4 de la LOPJ, por vulneración de los derechos a la intimidad personal y familiar y a la inviolabilidad del domicilio, del art. 18.1 y 2 de la CE, así como por vulneración del derecho al secreto de las comunicaciones del art. 18.3 de la CE y de los derechos a la presunción de inocencia, derecho de defensa y a un proceso con todas las garantías, del art. 24.2 de la CE.
+
+Segundo.- Infracción de ley, con base en lo dispuesto en el art. 849.1 de la LECrim., infracción de los arts. 369.bis, 368 y 369.1.1ª y 5ª, e infracción de los arts. 72, 74, 417, 418, 419 y 424 del CP, e infracción del art. 21.6 del CP en relación con el art. 66 del CP al no apreciar la circunstancia atenuante de dilaciones indebidas.
+
+Tercero.- Por error de hecho en la valoración de la prueba, con base en lo dispuesto en el art. 849.2 de la LECrim.
+
+Cuarto.- Por quebrantamiento de forma, con base en lo dispuesto en los arts. 850.1º y 851.1º y 3º de la LECrim.
+
+RECURSO DE Dª Inmaculada, D. Abelardo y D. Zulima.
+
+Primero.- Por vulneración de la tutela judicial efectiva ( art. 24.1 CE), del derecho a un proceso con todas las garantías ( art. 24.2 CE) y del deber de motivación ( art. 120.3 CE), por falta de motivación suficiente y ausencia de revisión judicial efectiva.
+
+Segundo.- Por vulneración del secreto de las comunicaciones ( art. 18.3 CE) y del derecho a un proceso con todas las garantías ( art. 24.2 CE), por ilicitud de las intervenciones telefónicas ( arts. 588 bis LECrim; art. 11.1 LOPJ; art. 852 LECrim.)
+
+Tercero.- Por vulneración de la inviolabilidad del domicilio y del derecho a un proceso con todas las garantías, por comienzo de la entrada y registro antes de la hora autorizada ( art. 18.2 CE; arts. 5.4 y 11.1 LOPJ; art. 852 LECrim.)
+
+Cuarto.- Por vulneración de la inviolabilidad del domicilio y del derecho a un proceso con todas las garantías, por la entrada y registro ilícitos en la nave de DIRECCION003. ( arts. 18.2 y 24.2 CE; arts. 5.4 y 11.1 LOPJ; art. 852 LECrim.
+
+Quinto.- Por vulneración del derecho a la intimidad ( art. 18.1 CE) y del derecho a un proceso con todas las garantías, por captación y grabación de imágenes aéreas sin autorización judicial ( art. 18.1 CE; arts. 5.4 y 11.1 LOPJ; art. 852 LECrim.).
+
+Sexto.- Por falta de imparcialidad objetiva del Tribunal ( art. 24.2 CE; art. 5.4 LOPJ; art. 852 LECrim, art. 6 CEDH).
+
+Séptimo.- Por vulneración de la presunción de inocencia y del principio de culpabilidad personal, por la condena por tenencia de armas sin prueba de dominio ni individualización de responsabilidad ( arts. 24.2 y 25 CE; art. 852 LECrim.; arts. 564 y 567 CP; art. 5.4 LOPJ).
+
+Octavo.- Por vulneración del derecho al juez predeterminado por la ley y por fraccionamiento indebido de causas (Operación "Silene") ( art. 24.2 CE; arts. 23 y 65 LOPJ; art. 5.4 LOPJ; art. 852 LECrim.).
+
+Noveno.- Por mantener inalteradas las penas pese a excluir la pertenencia a organización criminal. Indebida aplicación de las reglas de determinación de la pena. Infracción del principio de proporcionalidad. ( art. 849.1 LECrim. y art. 66 CP).
+
+Décimo.- Por errónea subsunción del material vegetal intervenido por THC ínfimo. ( art. 849.1 LECrim. y art. 368 CP).
+
+Decimoprimero.- Por indebida aplicación de los arts. 564 y 567 CP (armas): error de subsunción ( art. 849.1 LECrim. y artículos 564 y 567 del CP). ( art. 849.1 LECrim.; arts. 564 y 567 CP).
+
+Decimosegundo.- Por indebida aplicación de los arts. 368, 369.1º y 5º y 369 bis 1º y 2º CP. ( art. 849.1 LECrim.)
+
+Decimotercero.- Por denegación inmotivada de pruebas esenciales ( art. 851.1 LECrim.; art. 24 CE).
+
+RECURSO DE Cipriano.
+
+Primero.- Vulneración del derecho a la tutela judicial efectiva y a la motivación de las resoluciones judiciales ( arts. 24.1 y 120.3 CE.
+
+Segundo.- Vulneración del derecho al secreto de las comunicaciones ( art. 18.3 CE; arts. 588 bis a y ss. LECrim.)
+
+Tercero.- Vulneración del derecho a la inviolabilidad del domicilio y de las garantías procesales ( art. 18.2 CE; art. 11.1 LOPJ).
+
+Cuarto.- Lesión del derecho a la intimidad personal y familiar ( art. 18.1 CE).
+
+Quinto.- Vulneración del derecho de defensa y del principio de contradicción en la práctica de la prueba digital ( arts. 24 CE y 11.1 LOPJ).
+
+Sexto.- Vulneración del derecho a la presunción de inocencia ( art. 24.2 CE).
+
+Séptimo.- Vulneración del derecho a a imparcialidad judicial ( art. 24.2 CE; art. 6 CEDH).
+
+Octavo.- Lesión del derecho a un proceso con todas las garantías en la condena por tenencia ilícita de armas ( arts. 24.2 y 25 CE; arts. 564 y 567 CP).
+
+Noveno.- Vulneración del derecho al juez predeterminado por la ley ( art. 24.2 CE.
+
+Noveno bis.- Vulneración del principio "non bis in idem" ( art. 25.1 CE).
+
+Décimo.- Infracción del art. 368 del CP; inexistencia de sustancia con aptitud para el consumo y errónea subsunción jurídica.
+
+Decimoprimero.- Errónea valoración de la prueba pericial y desconocimiento del principio in dubio pro reo.
+
+Decimosegundo.- Inaplicación de la doctrina del error invencible del tipo y del error vencible de prohibición ( arts. 14 y 14.3 CP).
+
+Decimotercero.- Indebida aplicación de las reglas de individualización de la pena ( art. 66 CP).
+
+Decimocuarto.- Omisión de la atenuante de dilaciones indebidas ( art. 21.6 CP).
+
+Decimoquinto.- Falta de aplicación del principio de proporcionalidad y de los fines de la pena ( arts. 9.3 y 25.2 CE).
+
+Decimosexto.- Error en la calificación jurídica de la conducta en relación con el art. 369 bis CP.
+
+Decimoséptimo.- Denegación inmotivada de pruebas esenciales solicitadas por la defensa.
+
+Decimoctavo.- Falta de claridad y contradicciones en la redacción de la sentencia ( art. 851.3º LECrim.).
+
+Decimonoveno.- Omisión de pronunciamiento sobre las cuestiones de nulidad planteadas en apelación.
+
+Decimonoveno bis.- Infracción del deber de motivación reforzada en materia de prueba indiciaria y valoración ilógica del acervo probatorio ( arts. 24.1 y 24.2 CE).
+
+RECURSO DE Benigno.
+
+Primero.- Falta de motivación suficiente de la sentencia de apelación, vulneración del derecho a la tutela judicial efectiva ( art. 24.1 CE) y del deber de motivación ( art. 120.3 CE).
+
+Segundo.- Ilicitud de las intervenciones telefónicas, vulneración del derecho fundamental al secreto de las comunicaciones ( art. 18.3 CE) y del derecho a un proceso con garantías ( art. 24.2 CE).
+
+Tercero.- Entrada y registro domiciliario antes de la hora autorizada, vulneración del derecho fundamental a la inviolabilidad del domicilio ( art. 18.2 CE) y a un proceso con garantías.
+
+Cuarto.- Entrada y registro ilícitos en la nave industrial de DIRECCION003, vulneración del derecho fundamental a la inviolabilidad del domicilio ( art. 18.2 CE) y a un proceso con todas las garantías.
+
+Quinto.- Captación de imágenes aéreas sin autorización judicial, vulneración del derecho fundamental a la intimidad personal y familiar y a la propia imagen ( art. 18.1 CE) en relación con el derecho a un proceso con garantías.
+
+Sexto.- Falta de imparcialidad objetiva del tribunal sentenciador, vulneración del derecho fundamental a un juez imparcial ( art. 24.2 CE).
+
+Séptimo.- Vulneración del derecho a la presunción de inocencia y del principio de culpabilidad personal en la condena por tenencia ilícita/prohibida de armas, por falta de prueba de dominio o responsabilidad individual.
+
+Octavo.- Vulneración del derecho al juez predeterminado por la ley por fraccionamiento indebido de la causa ("Operación Silene"), infracción de los arts. 24.2 CE y 25.1 CE, en relación con los arts. 23 y 65 LOPJ.
+
+Noveno.- Mantenimiento inalterado de las penas pese a eliminar la condena por organización criminal, indebida aplicación de las reglas de determinación de la pena ( art. 66 CP); infracción del principio de proporcionalidad.
+
+Décimo.- Errónea calificación jurídico-penal del material vegetal intervenido, indebida aplicación del art. 368 CP (delito contra la salud pública), debiendo apreciarse atipicidad o tipo atenuado por tratarse de cáñamo industrial no psicoactivo.
+
+Undécimo.- Inaplicación indebida de la atenuante de dilaciones indebidas ( art. 21.6ª CP), infracción del art. 66.1.2ª CP.
+
+Duodécimo. Denegación inmotivada de pruebas esenciales, con violación del derecho a utilizar medios de prueba ( art. 24.2 CE), quebrantamiento de forma del art. 850.1 LECrim.
+
+RECURSO DE Benito.
+
+Primero.- Por vulneración del derecho fundamental a la tutela judicial efectiva del art. 24.1 de la CE y el derecho a la presunción de inocencia del art. 24.2 CE y a un proceso con todas las garantías por falta de motivación suficiente y ausencia de revisión judicial efectiva.
+
+Segundo.- Por vulneración del derecho fundamental reconocido en el art. 18.3 de la CE al secreto de las comunicaciones y a un proceso con todas las garantías por ilicitud de las intervenciones telefónicas.
+
+Tercero.- Por vulneración del derecho fundamental a la inviolabilidad del domicilio y a un proceso con todas las garantías por entrada y registro antes de la hora autorizada.
+
+Cuarto.- Por vulneración del derecho fundamental a la inviolabilidad del domicilio y a un proceso con todas las garantías por entradas y registros ilícitos en la nave de DIRECCION003 y parcela en DIRECCION023 ( art. 18.2, 24.2 CE y art. 11.1 LOPJ).
+
+Quinto.- Por vulneración del derecho fundamental reconocido en el art. 18.1 CE al honor, intimidad personal y familiar y a la propia imagen, y a un proceso con todas las garantías por captación de imágenes aéreas sin autorización judicial, vulnerando el derecho a la intimidad ( art. 18.1 CE).
+
+Sexto.- Por vulneración del derecho fundamental a la imparcialidad judicial, integrante del art. 24.2 CE a un proceso con todas las garantías por falta de imparcialidad objetiva del tribunal ( art. 5.4 LOPJ y art. 24.2 CE).
+
+Séptimo.- Por vulneración del derecho a la presunción de inocencia y el principio de culpabilidad personal por condena por delito de tenencia ilícita de armas sin prueba de dominio ni individualización de responsabilidad ( arts. 24.2 y 25 CE, art. 563 CP).
+
+Octavo.- Por vulneración del derecho al juez predeterminado por la ley y por fraccionamiento indebido de causas (Operación SILENE) ( art. 24.2 CE).
+
+Noveno.- Por indebida aplicación ( art. 66 CP).
+
+Décimo.- Por indebida aplicación del art. 368 CP por errónea subsunción en cuanto al material vegetal intervenido (THC 0,2%)
+
+Undécimo.- Por aplicación indebida de los art. 66 y 72 del CP y reglas de individualización de la pena por imposición de pena superior.
+
+Duodécimo.- Aplicación indebida de los arts. 368, 369 (1º y 5º), 369 bis y 570 bis CP, 1º y 2º del CP.
+
+Decimotercero.- Por inaplicación de la atenuante de dilaciones indebidas ( art. 21.6ª CP y art. 66 CP).
+
+Decimocuarto.- Denegación inmotivada de pruebas esenciales, con consecuente indefensión ( art. 850.1 LECrim. y art. 24 CE).
+
+SEXTO
+Instruidas las partes personadas de los recursos interpuestos; la Sala los admitió a trámite, quedando conclusos los autos para señalamiento de fallo cuando por turno correspondiera.
+
+SÉPTIMO
+Realizado el señalamiento, se celebró la deliberación y votación prevenida el día 25 de marzo de 2026.
+
+FUNDAMENTOS DE DERECHO
+
+-La sentencia 6/2025, 10 de marzo, dictada por la Sección Primera de la Audiencia Provincial de Guadalajara en el marco del sumario ordinario núm. 2/2024, incoado por el Juzgado de instrucción núm. 3 de Guadalajara, condenó a los siguientes acusados:
+
+1.1.- Leon, como autor penalmente responsable de un delito contra la salud publica referido a sustancias que causan grave daño a la salud, en cantidad de notoria importancia, en condición de jefe; de un delito de dirección de organización criminal para la comisión de delito grave con disposición de armas u instrumentos peligrosos; un delito continuado de aprovechamiento de la revelación de información; un delito de cohecho del art. 424 CP, y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+Por el delito contra la salud pública, la pena de 12 años y 1 día de prisión e inhabilitación absoluta durante el tiempo que dure la condena y multa de 13.300.000 euros.
+
+Por el delito de pertenencia a una organización criminal, la pena de 6 años y 1 día de prisión, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena. Se le impuso igualmente la inhabilitación especial para todas aquellas actividades económicas o negocios jurídicos relacionados con la actividad de la organización criminal o con su actuación en el seno de los mismos en relación con el objeto social por tiempo superior en 6 años a la duración de la pena de prisión impuesta.
+
+Por el delito de cohecho, la pena de 3 años de prisión, inhabilitación especial para el ejercicio del derecho de sufragio pasivo durante el tiempo que dure la condena, multa de 12 meses a razón de una cuota diaria de 15 euros, con la responsabilidad personal subsidiaria para caso de impago del art. 53 del CP.
+
+Por el delito de aprovechamiento de la revelación de información, con la pena de multa de 9.000 euros, con responsabilidad personal subsidiaria en caso de impago de 4 meses del art. 53 del CP. También se le impuso igualmente la pérdida de la posibilidad de obtener subvenciones o ayudas públicas y del derecho a gozar de beneficios o incentivos fiscales o de la Seguridad Social por tiempo de uno año.
+
+Por el delito de tenencia ilícita de armas prohibidas, 1 año de prisión, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+1.2.- Inmaculada, como autora penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud en cantidad de notoria importancia, de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos, y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+Por el delito contra la salud pública, la pena de 9 años de prisión e inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y multa de 3.325.000 euros.
+
+Por el delito de pertenencia a una organización criminal, la pena de 2 años de prisión, con inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+Por el delito de tenencia ilícita de armas prohibidas, 1 año de prisión, con inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+1.3.- Abelardo, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud, en cantidad de notoria importancia; de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos; y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+Por el delito contra la salud pública, la pena de 9 años de prisión e inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y multa de 3.325.000 euros.
+
+Por el delito de pertenencia a una organización criminal, la pena de 2 años de prisión, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+Por el delito de tenencia ilícita de armas prohibidas, 1 año de prisión, con inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+1.4.- Luis, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud, en cantidad de notoria importancia, de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos; y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+Por el delito contra la salud pública, la pena de 9 años de prisión e inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y multa 3.325.000 euros.
+
+Por el delito de pertenencia a una organización criminal, la pena de 2 años de prisión, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+Por el delito de tenencia ilícita de armas prohibidas, 1 año de prisión, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+1.5.- Teodosio, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud, en cantidad de notoria importancia, de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos; y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+Por el delito contra la salud pública, la pena de 9 años de prisión e inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y multa de 3.325.000 euros.
+
+Por el delito de pertenencia a una organización criminal, la pena de 2 años de prisión, con inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+Por el delito de tenencia ilícita de armas prohibidas, 1 año de prisión, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+1.6.- Zulima, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud, en cantidad de notoria importancia; de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos; y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+Por el delito contra la salud pública, la pena de 9 años de prisión e inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y multa de 3.325.000 euros.
+
+Por el delito de pertenencia a una organización criminal, la pena de 2 años de prisión, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+Por el delito de tenencia ilícita de armas prohibidas, 1 año de prisión, con inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+1.7.- Cipriano, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud, en cantidad de notoria importancia; de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos; y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+Por el delito contra la salud pública, la pena de 9 años de prisión e inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y multa de 3.325.000 euros.
+
+Por el delito de pertenencia a una organización criminal, la pena de 2 años de prisión, con inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+Por el delito de tenencia ilícita de armas prohibidas, 1 año de prisión, con inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+1.8.- Benigno, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud, en cantidad de notoria importancia; de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos; y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+Por el delito contra la salud pública, la pena de 9 años de prisión e inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y multa 3.325.000 euros.
+
+Por el delito de pertenencia a una organización criminal, la pena de 2 años de prisión, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+Por el delito de tenencia ilícita de armas prohibidas, 1 año de prisión, con inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+1.9.- Pedro Antonio, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud, en cantidad de notoria importancia; de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos; y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+Por el delito contra la salud pública, la pena de 9 años de prisión e inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y multa de 3.325.000 euros.
+
+Por el delito de pertenencia a una organización criminal, la pena de 2 años de prisión, con inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+Por el delito de tenencia ilícita de armas prohibidas, 1 año de prisión, con inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+1.10.- Abel, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud, en cantidad de notoria importancia; de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos; y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+Por el delito contra la salud pública, la pena de 9 años de prisión e inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y multa de 3.325.000 euros.
+
+Por el delito de pertenencia a una organización criminal, la pena de 2 años de prisión, con inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+Por el delito de tenencia ilícita de armas prohibidas, 1 año de prisión, con inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+1.11.- Inocencio, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud, en cantidad de notoria importancia; de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos; y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+Por el delito contra la salud pública, la pena de 9 años de prisión e inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y multa de 3.325.000 euros.
+
+Por el delito de pertenencia a una organización criminal, la pena de 2 años de prisión, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+Por el delito de tenencia ilícita de armas prohibidas, 1 año de prisión e inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+1.12.- Leoncio, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud, en cantidad de notoria importancia; de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos; y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+Por el delito contra la salud pública la pena de 9 años de prisión e inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y multa de 3.325.000 euros.
+
+Por el delito de pertenencia a una organización criminal, la pena de 2 años de prisión, con inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+Por el delito de tenencia ilícita de armas prohibidas, 1 año de prisión, con inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+1.13.- Benito, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud, en cantidad de notoria importancia; de un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos; y un delito de tenencia ilícita de armas prohibidas, imponiéndole las penas siguientes:
+
+Por el delito contra la salud pública la pena de 9 años de prisión e inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y multa de 3.325.000 euros.
+
+Por el delito de pertenencia a una organización criminal, la pena de 2 años de prisión, con inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+Por el delito de tenencia ilícita de armas prohibidas, 1 año de prisión, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+1.14.- Raimundo, como autor penalmente responsable de un delito contra la salud pública referido a sustancias que causan grave daño a la salud, en cantidad de notoria importancia, en su condición de funcionario público; un delito de pertenencia a organización criminal para la comisión de delito grave con disposición de armas o instrumentos peligrosos; un delito de cohecho pasivo propio; y un delito continuado de revelación de secretos por funcionario público, imponiéndole las penas siguientes:
+
+Por el delito contra la salud pública, la pena de 9 años de prisión e inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena y multa de 3.325.000 euros.
+
+Por el delito de pertenencia a una organización criminal, la pena de 2 años de prisión, con la inhabilitación especial para el ejercicio de derecho de sufragio pasivo durante el tiempo que dure la condena.
+
+Por el delito de cohecho, la pena de 3 años de prisión, inhabilitación especial para el derecho de sufragio pasivo durante el tiempo de la condena y multa de 12 meses, con una cuota diaria de 12 euros, cuya falta de pago determinará 1 día de privación de libertad por cada 2 cuotas no satisfechas, e inhabilitación especial para empleo o cargo público y para el ejercicio del derecho de sufragio pasivo durante 9 años.
+
+Por el delito de revelación secretos la pena de multa de 16 meses y 1 día a razón de una cuota diaria de 12 euros e inhabilitación especial para empleo o cargo público por tiempo de 2 años y 1 día.
+
+1.15.-Contra esta resolución se interpuso recurso de apelación, que fue conocido y resuelto por el Tribunal Superior de Justicia de Castilla-La Mancha en la sentencia 77/2025, 29 de octubre. En su parte dispositiva se desestimaron las respectivas impugnaciones de los apelantes, pero se acordó lo siguiente:
+
+...Acogiendo la alegación en el acto de la vista del Ministerio Fiscal, de acuerdo con el principio de legalidad de la pena y la aplicación del concurso de normas:
+
+Se rectifica la condena de los procesados, procediendo la condena de los mismos como autores de un delito contra la salud pública de sustancias que no causan grave daño a la salud en concurso de normas con un delito contra la salud pública de sustancias que causan grave daño a la salud del art. 369 bis, en relación con el art. 368 , 369.1. 5, en concurso de normas con un delito de pertenencia a organización criminal del art. 570 bis 1 y 2 del código penal , procediendo imponerles la pena ya considerada en la sentencia apelada para el delito contra la salud pública del art. 369 bis, en relación con el art. 368, 369.1 y 5 y sin que proceda la imposición de las penas reflejadas en la sentencia apelada por el referido delito de pertenencia a organización criminal.
+
+Se confirma el resto de los pronunciamientos de la resolución recurrida
+
+.
+
+1.16.-Por las respectivas representaciones legales de Leon, Luis, Teodosio, Pedro Antonio, Abel, Leoncio y Inocencio, Inmaculada, Abelardo, Zulima; Benigno, Benito, Cipriano y Raimundo, se interpone recurso de casación.
+
+Se formaliza un total de 87 motivos que van a ser objeto de tratamiento individualizado, sin perjuicio de las obligadas remisiones sistemáticas con el fin de evitar reiteraciones innecesarias.
+
+RECURSO DE Leon, Luis, Teodosio, Pedro Antonio, Abel, Leoncio Y Inocencio.
+
+-Con encomiable pulcritud sistemática, la defensa de los recurrentes formaliza tres bloques de impugnaciones en los que se incluyen motivos por vulneración de derechos fundamentales, infracción de ley y quebrantamiento de forma.
+
+2.1.-Con el fin de ajustar nuestra respuesta a las exigencias impuestas por los arts. 901 bis a) y b) de la LECrim, vamos a dar prioridad al motivo decimocuarto. En él se denuncia la denegación inmotivada de pruebas esenciales, con violación del derecho a utilizar los medios de prueba del art. 24.2 de la CE, en relación con el art. 850.1 de la LECrim.
+
+Razona la defensa que, durante la fase de instrucción y preparación del juicio oral, el Tribunal de instancia denegó, sin motivación suficiente, diversas pruebas propuestas, causando indefensión material a los acusados. En los hechos del proceso, la defensa solicitó la práctica de varias diligencias probatorias cruciales, oportunamente interesadas conforme a la ley, que fueron rechazadas injustificadamente. Entre dichas pruebas denegadas destacan: a) la citación del responsable de la DAO de la Guardia Civil (Dirección de Apoyo Operativo) para que informase sobre la coordinación (o falta de ella) entre la Operación «Papaver»de Guadalajara y la Operación «Silene»de la Fiscalía Europea -diligencia clave para acreditar la mencionada duplicidad de investigaciones-; b) un requerimiento de información a la Fiscalía Europea sobre las actuaciones simultáneas en la Audiencia Nacional, también relevante para la cuestión del fraccionamiento de la causa; c) la testifical de varios agentes del GEO que intervinieron en los registros, a fin de esclarecer circunstancias dudosas (como la hora exacta de entrada); y d) una pericial informática sobre la autenticidad e integridad de ciertas pruebas digitales (mensajes de texto y archivos) aportadas por la acusación, cuya cadena de custodia se impugnó.
+
+El motivo no es viable.
+
+2.1.1.-La sentencia dictada por el Tribunal Superior de Justicia al resolver el recurso de apelación -verdadero objeto del recurso de casación- da adecuada respuesta a esta petición, hecha valer por varios de los recurrentes.
+
+En el FJ 1º se razona que la solicitud de nulidad se basa «...en sospechas de irregularidades o duplicidad de investigaciones»que llevan al recurrente a sugerir la posible «manipulación de la competencia»y «ocultación de investigaciones previas o diligencias por parte de la policía».
+
+Pues bien, el órgano de apelación, para rechazar la procedencia de esta petición, recuerda que, salvo la excepción representada por Leon no con respecto a estos oficios, sino a un dictamen pericial sobre blanqueo de capitales, ninguna de estas diligencias fue interesada en el momento procesal que habilita el art. 790.3 de la LECrim, según el cual «en el mismo escrito de formalización podrá pedir el recurrente la práctica de las diligencias de prueba que (...) propuestas le fueron indebidamente denegadas, siempre que hubiera formulado en su momento la oportuna protesta...».
+
+Pero no se trata ya de un problema de extemporaneidad, que por sí solo debilita la firmeza del motivo que ahora se esgrime en casación, sino del correcto juicio de impertinencia que impide la aceptación de esa batería probatoria que, de ser estimada, conduciría a la nulidad de la sentencia recurrida para la práctica de diligencias que son propias de la fase de instrucción y que -reiteramos- no fueron reivindicadas, después de su rechazo, en el momento de la formalización del recurso de apelación. Carece de sentido atribuir a la Policía un propósito deliberado de manipulación de la competencia cuando su determinación jurisdiccional es ajena a cualquier criterio policial y, por si fuera poco, fue objeto de una cuestión previa resuelta en la instancia con la imperativa intervención del Ministerio Fiscal, que rechazó la inhibición a favor de la Audiencia Nacional. Esta alegación fue abordada, al amparo del art. 786.2 de la LECrim y de la jurisprudencia de esta Sala que ha proclamado el principio de ubicuidad como determinante de la definición de la competencia objetiva y funcional, al comienzo del juicio oral ante la Audiencia Provincial, tal y como se refleja en el FJ 1º, apartado a) de la sentencia de instancia.
+
+Ni la declaración del DAO de la Guardia Civil para que informase sobre la coordinación de dos operaciones policiales, ni el requerimiento a la Fiscalía Europea, referido a un posible fraccionamiento de la causa, tienen idoneidad potencial para alterar la competencia que ha llevado a residenciar la investigación y enjuiciamiento de los hechos en los órganos jurisdiccionales de Guadalajara. Nuestro sistema jurídico arbitra vías impugnativas para evitar, en su caso, cualquier posible doble incriminación por unos mismos hechos, para el caso en que, como se denuncia, se hubiera producido un fraccionamiento de la causa que haya dado lugar a investigaciones paralelas.
+
+Tampoco la declaración testifical de los agentes del GEO que intervinieron en los registros, con el fin de que precisaran la hora exacta de acceso al lugar que iba a ser registrado, puede determinar -como razonamos infra-la nulidad de una diligencia que había sido judicialmente autorizada.
+
+Por último, la simple impugnación de la cadena de custodia sobre la autenticidad e integridad de algunas de las pruebas digitales no justifica una segunda prueba pericial para dar respuesta a una cuestión que también ha sido objeto de análisis y razonable respuesta por la sentencia recurrida.
+
+2.1.2.-Hemos dicho en numerosos precedentes que este motivo de casación no trata de resolver denegaciones formales de prueba, sino que es preciso que tal denegación haya producido indefensión, de manera que el motivo exige «...demostrar, de un lado, la relación existente entre los hechos que se quisieron y no se pudieron probar por las pruebas inadmitidas, y de otro lado debe argumentar convincentemente que la resolución final del proceso a quo podría haberle sido favorable de haberse aceptado la prueba objeto de controversia»( SSTS 300/2015, 19 de mayo; 1023/2012, 12 de diciembre; 104/2002, 29 de enero; 181/2007, 13 de abril y 421/2007, 24 de mayo).
+
+Se desestima el motivo ( art. 885.1 y 2 de la LECrim).
+
+-Atendiendo ahora lo motivos que denuncian, al amparo de los arts. 5.4 de la LOPJ y 852 de la LECrim, vulneración de derechos fundamentales, la primera de las quejas esgrime la vulneración del derecho a la tutela judicial efectiva y del deber de motivación de la sentencia dictada en apelación ( arts. 24.1 y 120.3 de la CE).
+
+3.1.-Alega la defensa que, en los hechos, la Sala de apelación se limitó a reproducir acríticamente el razonamiento de la Audiencia Provincial, utilizando fórmulas genéricas del tipo «la valoración de la prueba fue correcta»,sin realizar un análisis propio ni dar respuesta concreta a las alegaciones de los recurrentes. Esta motivación aparentemente estándar y escueta impide conocer las razones verdaderas de la desestimación del recurso de apelación, dejando indefensos a los acusados y vulnerando su derecho a una resolución judicial motivada.
+
+3.2.-La Sala no puede identificarse con la crítica que atribuye a la sentencia recurrida la utilización de fórmulas genéricas y estereotipadas. Y es que, en el desarrollo del motivo, la defensa incurre en el defecto que adjudica a la resolución impugnada. Se limita a censurar la falta de motivación, pero la queja no precisa qué aspectos concretos, qué pasajes de la sentencia que se cuestiona adolecen de falta de motivación. No basta afirmar que «...en los hechos, la Sala de apelación se limitó a reproducir acríticamente el razonamiento de la Audiencia Provincial».
+
+La mejor muestra de que la resolución combatida no es ajena al deber constitucional de motivación es el meticuloso trabajo impugnativo que refleja el escrito de formalización del recurso.
+
+Se impone la desestimación ( art. 885.1 de la LECrim).
+
+-El segundo de los motivos invoca la ilicitud de las intervenciones telefónicas, con vulneración del derecho al secreto de las comunicaciones ( art. 18.3 de la CE) y del derecho a un proceso con todas las garantías ( art. 24.2 de la CE).
+
+4.1.-Al amparo del art. 852 LECrim, se denuncia que las escuchas telefónicas que dieron origen a la causa (Operación «Papaver»)fueron autorizadas y prorrogadas sin base fáctica suficiente, lesionando el derecho al secreto de las comunicaciones. En cuanto a los hechos, la investigación policial se inició de forma prospectiva, sin indicios objetivos de delito concreto: las intervenciones telefónicas se acordaron a partir de meras sospechas o rumores sobre la posible implicación de los ahora recurrentes en actividades ilícitas, pero sin datos sólidos ni verificados que justificaran una injerencia tan grave en sus comunicaciones privadas. Además, varias prórrogas de las escuchas se solicitaron y concedieron fuera de plazo, sin control judicial y material riguroso, extendiendo la medida de forma prácticamente automática. Toda la evidencia obtenida de estas intervenciones masivas (conversaciones grabadas, mensajes, etc.) contaminó el procedimiento desde su inicio.
+
+Razona la defensa que la policía conocía que la familia Ceferino había traído de Méjico más de diez millones de euros, perfectamente declarados en aduana -efectivo y oro de inversión- y bancariamente, dato que ocultó al juzgado cuando solicitó la intromisión en el derecho a las comunicaciones, justificando su petición en que se trata de personas con un alto nivel de vida y manejo de efectivo (por pagar en efectivo en IKEA).
+
+Considera el recurrente que si estos datos hubieran sido expuestos al Juzgado y que el origen de su nivel de vida había sido objeto de declaración en aduana, posiblemente el Juzgado habría tomado la decisión de denegar la intromisión. Se afirma que «...bajo ningún concepto de puede legitimar que la policía mienta al Juzgado, bien haciéndolo directamente u ocultándole información esencial».
+
+4.2.-La Sala no detecta razones que justifiquen la vulneración constitucional que se denuncia.
+
+4.2.1.-Esta queja -compartida por otros recurrentes que aluden a una finalidad policial de «cazar»a los investigados, al carácter prospectivo de la indagación inicial y a la adopción de prórrogas extemporáneas- no toma en consideración la suficiencia que la sentencia recurrida atribuye al informe policial de 12 de mayo de 2021.
+
+La sentencia cuestionada concreta en su FJ 2º las razones que descartan la quiebra del derecho a la inviolabilidad de las comunicaciones telefónicas. Expresa que la Audiencia Provincial ha razonado detalladamente la desestimación de estas alegaciones que fueron objeto de una cuestión previa debatida al comienzo del juicio oral. Tal y como consta en el atestado inicial de fecha 12 de mayo de 2021, la existencia de una base sólida para la injerencia está fuera de dudas. El Tribunal de instancia ponderó minuciosamente los indicios tenidos en cuenta por el Juez instructor, destacando la improcedencia de disgregar los mismos por separado, pues no se trata de que «...unos ciudadanos mexicanos hagan múltiples compras, coches de alta gama o adquieran inmuebles costosos y una finca en un paraje remoto o mal comunicado».Se trata, por el contrario, de ponderar en un juicio ex anteo previo a la adopción de la medida la suficiencia del conjunto de datos o indicios aportados por la investigación policial como fundamento coherente para la investigación por la presunta comisión de los delitos objeto de esta causa. De ahí que avale el razonamiento hecho valer en la instancia acerca de la suficiencia de los indicios que justificaron la adopción de la medida, conforme se revelan en el oficio o informe policial, que lejos de fundarse en simples valoraciones subjetivas, cobran pleno valor indiciario.
+
+También ha descartado el Tribunal Superior de Justicia el carácter prospectivo de las medidas de investigación adoptadas y la insuficiente base objetiva para su adopción. El auto inicial de 17 de mayo de 2021 contiene una motivación suficiente, en la que se valoran los indicios que son el resultado de la investigación policial contenida en el atestado, atendiendo a la gravedad de los presuntos hechos cometidos y a la indiciaria participación de los investigados en los mismos. De igual modo, el Tribunal de apelación ha avalado el respaldo fáctico de las sucesivas intervenciones autorizadas por autos de 18 de junio y 14 de julio, 16 de julio de prórroga y portabilidad, 13 de septiembre de altas y ceses de intervenciones telefónicas y prórrogas y 13 de octubre, respecto a los investigados afectados.
+
+4.2.2.-Las razones por las que la sentencia recurrida ha confirmado la corrección del criterio que expresa la sentencia de instancia, en relación con las quejas sobre las intervenciones telefónicas, son entendibles a partir de la lectura del apartado d) del FJ 1º.
+
+A su íntegro contenido nos remitimos. Baste ahora señalar que en varias de sus páginas se da cuenta del inicio de la investigación policial a raíz de una vigilancia y seguimiento motivada por el cúmulo de circunstancias anómalas que presidieron el viaje de Lucas para traer a España a tres ciudadanos mexicanos desde Eslovenia. Se precisa que ese viaje había suscitado el interés policial al haber sido varias veces detenido por delitos de fraude fiscal, blanqueo de capitales y pertenencia a organización criminal. Además, el vehículo Mercedes NUM048 estaba registrado a nombre de INTERNATIONAL TRADE CARS BUSSINES S.L, entidad investigada por emisión de facturas falsas. Se daba cuenta también del manejo de importantes cantidades de dinero en metálico con el que se hacían pagos en establecimientos comerciales y se explicaba en el atestado que «...entre junio y octubre de 2020 DIRECCION009 recibió transferencias por importe de 2,9 millones de euros procedentes de personas físicas y jurídicas no relacionadas con su nueva actividad, destacando los investigadores las procedentes de DIRECCION027. de C.V., dedicada a la prestación de servicios de cobros comerciales, préstamos, y agencia de trabajo temporal, por importe total de 1.200.183,93 euros; DIRECCION028., empresa radicada en Palma de Mallorca y con objeto social relacionado con el sector informático y de telecomunicaciones, y dedicada al intercambio de criptomonedas en México, por importe total de 405.863,24 euros; DIRECCION029., dedicada a operaciones con productos electrónicos, por importe total de 185.000 euros; DIRECCION030., sociedad dedicada a la relojería y joyería de alta gama, por importe total de 148.500 euros; DIRECCION031., dedicada a la telefonía, por importe total de 103.978,20 euros; DIRECCION032., empresa dedicada a la comercialización de vehículos, por importe total de 87.500 euros...».
+
+Esas y otras operaciones minuciosamente descritas por la sentencia de instancia, con fundamento en el atestado que las defensas consideran insuficiente y prospectivo, eran lo evidentemente anómalas como para llamar la atención de los investigadores, toda vez que la operativa de la sociedad fue en todo momento opaca, «...sin que se hayan acreditado las actividades de la misma en relación con su objeto social ampliado desde que fue adquirida por Mercedes, a lo que se unía el carácter igualmente poco claro que tenía ya desde su constitución».
+
+Como resultado de la investigación pudo conocerse, además, que en la finca de DIRECCION007 se construyó «...un invernadero de grandes dimensiones, junto al que había un gran generador conectado con mangueras de cable hacia el interior, y en el cual ya desde las primeras vigilancias los agentes apreciaron que podían estar cultivándose plantas de marihuana. Los trabajos de remodelación de la finca, incluyendo la vivienda sita en ella, determinaron pagos a la empresa DIRECCION033. por importe total de 80.000 euros, y, posiblemente, a Celestino, por importe de 44.956 euros».
+
+La sentencia se detiene, en su labor ponderativa de los indicios que justificaron la injerencia en las comunicaciones de los principales investigados, en el contacto de los miembros de la familia Ceferino con personas vinculadas con actividades relacionadas con el tráfico de drogas en España. En esta línea se pudo comprobar la presencia de «... Santiago, a quien le constan antecedentes por tráfico de drogas bajo varias identidades, en la vivienda de la DIRECCION034, de DIRECCION002, adquirida por DIRECCION009».
+
+En términos conclusivos, la Audiencia Provincial proclamó, con el respaldo de la sentencia de apelación, que «...de todo ello resulta, en resumen, que los Agentes del Grupo investigador, valorando de forma conjunta e interrelacionada una serie de indicios de la posible comisión de hechos con apariencia delictiva, iniciaron de forma correcta y plenamente justificada una investigación autónoma, cuyo resultado inicial, ya desligado de la figura de Lucas, presentaron al Juzgado en funciones de guardia de Guadalajara».
+
+4.2.3.-La jurisprudencia de esta Sala ha delimitado con precisión los fundamentos que legitiman la injerencia del Estado en las comunicaciones de cualquier ciudadano al que, en el plano indiciario que define la primera fase del procedimiento, se atribuye participación en un hecho de carácter delictivo.
+
+Hemos dicho en numerosos precedentes que la crítica a la insuficiencia del oficio policial que determinó la autorización judicial para la interceptación de las comunicaciones no puede realizarse fragmentando los indicios ofrecidos a la consideración del Juez instructor. Esa información forma parte de un cuadro indiciario único, de carácter global. Como tal ha de ser analizado. La descomposición interesada de cada uno de esos indicios, para proceder después a una glosa parcial, en la que su idoneidad incriminatoria se concluye sin conexión con los restantes, conduce a un desenlace valorativo que siempre estará lastrado por un método erróneo, que ha obtenido sus conclusiones descontextualizando la información puesta a disposición del órgano jurisdiccional (cfr. SSTS 718/2020, 28 de diciembre; 143/2020, 13 de mayo; 698/2014,28 de octubre; 250/2014,14 de marzo).
+
+Procede la desestimación del motivo ( art. 885.1 de la LECrim).
+
+-El tercer motivo, con la misma cobertura que el precedente, denuncia la vulneración del derecho fundamental a la inviolabilidad del domicilio ( art. 18.2 de la CE) y al derecho a un proceso con todas las garantías ( art. 24.2 de la CE).
+
+La defensa denuncia que se practicó un registro domiciliario fuera del horario judicialmente autorizado, quebrantando así la inviolabilidad del domicilio de los moradores. En los hechos consta que la entrada y registro en los domicilios de DIRECCION004 (Madrid) y de la finca rural en DIRECCION007 (Guadalajara) por parte del Grupo Especial de Operaciones (GEO), se llevó a cabo aproximadamente a las 6:15 horas de la mañana, pese a que el auto judicial habilitante fijaba expresamente la entrada no antes de las 7:00 horas. Es decir, los agentes adelantaron la diligencia 45 minutos al margen de la autorización judicial, irrumpiendo de madrugada en los inmuebles cuando aún no estaba vigente el marco horario permitido. Esta actuación policial ultra viressupuso una flagrante extralimitación de la orden de entrada y registro, obteniéndose pruebas (drogas en la casa de DIRECCION004, armas en la finca de DIRECCION007 u otros objetos incautados) mediante una vulneración directa de la garantía constitucional de inviolabilidad domiciliaria. Entrar antes de la hora habilitada sin flagrancia convierte el registro en un allanamiento.
+
+La irregularidad se hace más patente -se aduce- por el hecho de que el responsable en Madrid de los GEO negó haber tenido participación en ese registro, en contraste con el testimonio de todos los policías que participaron en él y que así lo reconocieron.
+
+La queja carece de consistencia.
+
+5.1.-La sentencia dictada por el Tribunal Superior de Justicia da también una respuesta razonada al respaldar el criterio de la sentencia de instancia. La intervención de los GEOS no tuvo otro significado que una medida preventiva de aseguramiento y cobertura a la comisión judicial, sin que puedan apreciarse razones para la nulidad que se reivindica.
+
+Dentro de las medidas preventivas de aseguramiento -se razona- la jurisprudencia ha examinado diferentes supuestos, abarcando «...aquellas tomadas por decisión policial con anterioridad incluso a que se hubiera obtenido el auto habilitante, aquellas en las que se cuenta con mandamiento y se produce la entrada anticipada en las que no se justificaba la misma en ninguna circunstancia que habilitase la necesidad de tales medidas, y aquellas otras que pudieran incardinarse dentro del concepto de medidas de aseguramiento, y en las que, una vez producido el mismo, se produce el acceso de la comisión judicial con la notificación por el LAJ del auto de entrada y registro».
+
+5.2.-Conviene recordar que la jurisprudencia de esta Sala se ha pronunciado en más de una ocasión sobre los pretendidos efectos invalidantes de la práctica de una entrada y registro fuera del horario inicialmente autorizado.
+
+Es el caso, por ejemplo, de la STS 163/2015, 24 de marzo, que consideró «...más que evidente (...) la falta de pertinencia de la objeción».La diligencia había sido autorizada, en el supuesto de hecho que dio lugar a ese pronunciamiento, durante las horas diurnas del día 11 de febrero de 2013 y la madrugada del siguiente. Entendimos entonces que el hecho de que el registro se prolongará más allá de las 00,00 horas no afectaba a la validez constitucional de esa medida. Esta resolución tiene un significado especial en relación con el presente caso. En efecto, la queja del recurrente en el supuesto entonces contemplado se centraba en la prolongación durante más de 40 minutos respecto del horario autorizado y ahora se alude a una anticipación de 45 minutos.
+
+La proporcionalidad exigida en toda medida jurisdiccional limitativa de derechos fundamentales no se vio, desde luego, alterada por la entrada anticipatoria de los GEOS con el fin de garantizar la seguridad de la comisión judicial y asegurar la efectividad del registro. No existe dato alguno que permita afirmar que esa desviación horaria incrementó cualitativamente la intensidad de la injerencia, que amplió el ámbito material del registro judicialmente definido o que agravó la afectación de los moradores. No puede hablarse, por tanto, de una indefensión material de alcance constitucional. Se respetaron los requisitos estructurales que legitiman la autorización judicial impuesta por el art. 18.2 de la CE -la competencia del Juez instructor, la motivación de la resolución habilitante y la delimitación del objeto del inmueble que iba a ser registrado-, de suerte que esa desviación horaria afectó tan solo a condiciones accesorias de la ejecución de la diligencia. No hubo, en fin, una elusión fraudulenta, arbitraria y ventajista de los agentes de policía para ensanchar, más de lo tolerable, la autorización judicial.
+
+Sobre la ausencia de capacidad anulatoria de una infracción tan poco relevante del horario previsto habla el hecho de que esta Sala haya apuntado, incluso, que la omisión del día y hora del registro en el auto habilitante no supone vulneración del derecho fundamental a la inviolabilidad del domicilio. Así se resuelve -con cita de la STS 12 enero 1994- en las SSTS 250/2014,14 de marzo; 478/2013, 6 de junio y 77/2011, 23 de febrero, que niegan relevancia constitucional a la omisión de ese dato. La innecesariedad de que el auto exprese la hora de comienzo y fin de la diligencia también ha sido también apuntada por la STS 22 de noviembre de 2001.
+
+No puede hablarse, por consiguiente, de vulneración del derecho fundamental a la inviolabilidad del domicilio. De ahí que proceda la desestimación del motivo por su falta de fundamento ( art. 885.1 de la LECrim).
+
+-El cuarto motivo reitera una nueva vulneración del derecho a la inviolabilidad del domicilio del art. 18.2 de la CE.
+
+6.1.-Sostiene la defensa que el registro de la nave industrial sita en la DIRECCION012 de DIRECCION003 (Madrid) -vinculada a los acusados- se practicó sin orden judicial previa, en el marco de la Operación «Papaver»,vulnerándose el derecho del art. 18.2 CE. En cuanto a los hechos, dicha nave industrial, utilizada por la presunta organización para almacenamiento, fue objeto de una actuación policial sin que mediara mandamiento de entrada y registro vigente, y sin testigos válidos, según la doctrina del Tribunal Supremo, al ser policías locales. Los agentes de policía accedieron al recinto y lo inspeccionaron, encontrando en su interior gran cantidad de plantas y material vegetal (cannabis), comunicando tardíamente lo actuado al Juzgado de Instrucción núm. 3 de Guadalajara. Solo a posteriori se trató de regularizar la diligencia, «...aportando además información inexacta al juez -concretamente sobre el porcentaje de THC (mintió la policía al informar que era del 18 % THC cuando de los análisis de farmacia era de 0,2 % THC, de las plantas halladas- para justificar la intervención. En definitiva, la policía efectuó un registro anticipado por su cuenta y riesgo, fuera de los cauces legales, pretendiendo convalidarlo a posteriori».
+
+La flagrancia -se alega- es más que cuestionable, pues los policías que testificaron en el juicio oral manifestaron que llevaban varios días antes de la entrada preparándola. Y en esa preparación sorprende que no pusieran en conocimiento de la autoridad judicial la que iba a ser su intervención.
+
+No tiene razón el recurrente.
+
+6.2.-El relato de hechos probados refleja que a las 10:45 horas del día 6 de mayo de 2022, se llevó a cabo la entrada y registro en la nave industrial DIRECCION011 sita en DIRECCION012 de la localidad de DIRECCION003 (Madrid).
+
+En su interior fueron hallados «...ciento cincuenta y cinco (155) bolsas conteniendo sustancia vegetal verde con marcado aroma, que una vez secos, arrojaron un peso neto total de 729 kg (setecientos veintinueve kilogramos) de materia vegetal verde con una riqueza de 0,2 %, en D 9- tetrahidrocannabinol presentado en forma de cannabis. - Una bolsa precintada de una sustancia blanca, que arrojó un peso neto total de 147,61 gr (ciento cuarenta y siete gramos y sesenta y un miligramos) netos de cocaína con una riqueza media de 75,2%. - Un laboratorio de procesamiento de cocaína en el que se encontraron treinta y dos (32) bolsas de una sustancia carbonato cálcico. Dos balanzas de pesaje, una analógica y otra digital, una envasadora de vacío, junto con cientos de bolsas de plástico, un bulto rectangular, embalado en plástico de color negro que una vez se procede a su apertura se trató de dos tableros de mesa tipo Ikea modelo "Lack" pegadas sobre su base donde se hallaban ocultas en su interior ocho bolsas termoselladas al vacío de un peso aproximado de 500 gramos cada una, recipientes de plástico y barreño con restos de sustancia, a y ocho garrafas de acetona. -770 € en dinero en efectivo. La sustancia estupefaciente marihuana intervenida en el mercado ilícito alcanzaría un precio orientativo de 1.396.290,15 euros (un millón trescientos noventa y seis mil doscientos noventa con quince céntimos). La sustancia estupefaciente cocaína intervenida alcanzaría en el mercado ilícito un precio orientativo de 14.676,94 euros (catorce mil seiscientos setenta y seis con noventa y cuatro céntimos)».
+
+De entrada, la supuesta mentira que el recurrente adjudica a los agentes de policía, referida al grado de concentración del cannabis, no tiene cabida en la descripción que refleja el juicio histórico. Se alude a una riqueza del 0,2% y, como pone de manifiesto la sentencia recurrida, no puede prescindirse del hecho de que también fue hallada una bolsa de cocaína con un peso de 147,61 gramos y una riqueza media del 75,2%.
+
+6.3.-Sea como fuere, lo verdaderamente relevante es que no existe el más mínimo dato acerca de que en esa nave industrial se desarrollaran las actividades propias de la vida doméstica, que son las razones que explican y justifican la protección constitucional que dispensa el art. 18.2 de la CE.
+
+Esta idea forma parte de una jurisprudencia plenamente asentada que niega a las naves industriales la protección constitucional. Hemos dicho recientemente que no puede admitirse que el uso de una nave destinada al almacenaje pueda generar una expectativa de privacidad equiparable a la que se decanta del espacio domiciliar (cfr. SSTS 512/2025, 4 de junio; 1046/2024, 29 de noviembre). El mismo criterio inspira la STS 315/2023, 3 de mayo, que cita la doctrina consagrada, entre otros muchos precedentes, en las SSTS 399/2015, 18 de junio; 912/2016, 1 de diciembre y 560/2010, 7 de junio).
+
+En todo caso, como expresa la sentencia de instancia, por mucho que la defensa haga alusión a la presencia de colchones en alguna de las estancias, estos no están reseñados en el acta policial de entrada y registro. Además, su presencia, por sí sola, no implica la existencia de elementos indispensables para dar por acreditado el destino funcional de domicilio o desarrollo de la vida privada de una persona.
+
+Se impone, por consiguiente, la desestimación del motivo ( art. 885.1 y 2 de la LECrim).
+
+-El quinto motivo, con la misma cobertura que el precedente, denuncia la captación de imágenes aéreas sin autorización judicial, con la consiguiente vulneración del derecho fundamental a la intimidad personal y familiar y a la propia imagen ( art. 18.1 de la CE), en relación con el derecho a un proceso con todas las garantías ( art. 24.2 de la CE).
+
+7.1.-Aduce la defensa la obtención de imágenes y vídeos mediante drones u otros medios aéreos sobre la finca rústica de DIRECCION007 (Guadalajara) sin autorización judicial supuso la vulneración del derecho a la intimidad de los moradores. Durante la fase de investigación la Policía Nacional utilizó drones o cámaras aéreas para sobrevolar y grabar el interior de dicha finca -residencia de algunos acusados, como así consta en los hechos probados, en el número tercero- captando imágenes, aparentemente, de plantas de cannabis y de movimientos de vegetales en el interior de la propiedad.
+
+Esta vigilancia aérea -se subraya- se realizó sin ninguna resolución judicial que la habilitara. Posteriormente sólo se aportaron al procedimiento fotogramas sueltos obtenidos de esos vuelos, sin la grabación íntegra ni los datos de geolocalización precisos, ni constancia formal de quién y cómo realizó la captación. En su momento, la defensa denunció que no se había acreditado siquiera la fecha en que los acusados comenzaron a ocupar la finca ni cuándo se tomaron las imágenes, generando serias dudas sobre la legitimidad de la medida y sobre la fiabilidad de dichas fotografías no autenticadas, que podían ser de esa finca o de otra cualquiera.
+
+El motivo no puede ser acogido.
+
+7.2.-La utilización por agentes de policía de un dron que obtiene imágenes aéreas de una finca está sujeta a límites infranqueables que actúan en garantía del derecho a la inviolabilidad domiciliaria. Así lo hemos proclamado en la STS 797/2025, 2 de octubre.
+
+7.2.1.-Sin embargo, antes de proyectar la doctrina allí sentada al caso que ahora nos ocupa, conviene dar cumplida respuesta al razonamiento del recurrente, según el cual «...las STS 329/2016 y STS 224/2017 han anulado diligencias de vigilancia con drones realizadas sin orden judicial, al estimar que vulneran el derecho a la intimidad y a la propia imagen de los afectados».
+
+La cita de estos dos precedentes no es correcta.
+
+La STS 224/2017 dictada por esta Sala con fecha 30 de marzo, no aborda cuestión alguna relacionada con la utilización de drones en la investigación penal. De hecho, se refiere al engaño típico que da vida al delito de estafa y a la posible suficiencia de éste para determinar el desplazamiento patrimonial que origina el perjuicio.
+
+Tampoco puede citarse la STS 329/2016, 29 de abril, como precedente de sentencia anulatoria de las pruebas obtenidas mediante un dron. En aquel caso se trataba de decidir acerca de la validez de la observación realizada por los agentes de la policía del interior de la vivienda del principal acusado -situada en el NUM049 de un edificio de viviendas- desde un inmueble próximo, valiéndose para ello de unos prismáticos. No hay referencia alguna a la utilización de drones como riesgo potencial de afectación de la inviolabilidad domiciliaria.
+
+Sí es cierto -así lo hemos anunciado- que la doctrina entonces proclamada puede servir de inspiración para evitar la identificación de la intromisión ilegal en el domicilio de un tercero con la presencia física de alguien extraño a los moradores. Las nuevas tecnologías permiten una injerencia físicamente remota pero con capacidad para captar imágenes observables con la misma -o mejor- calidad que las que podría lograr el ojo humano.
+
+En el supuesto que analizamos en la sentencia 329/2016, citada por el recurrente con la equívoca identificación de unos prismáticos y un dron, los Jueces de instancia concluyeron que no había existido intromisión ilegítima en el ámbito de la intimidad, pues «... la observación del interior de la morada se produce a través de aquello que los moradores han permitido ver a través de la ventana».
+
+Esta Sala rechazó este criterio como pauta para definir el contenido material del derecho a la inviolabilidad del domicilio ( art. 18.2 CE) y lo hizo con el siguiente argumento: «...es cierto que ningún derecho fundamental vulnera el agente que percibe con sus ojos lo que está al alcance de cualquiera. El agente de policía puede narrar como testigo cuanto vio y observó cuando realizaba tareas de vigilancia y seguimiento. Nuestro sistema constitucional no alza ningún obstáculo para llevar a cabo, en el marco de una investigación penal, observaciones y seguimientos en recintos públicos. A juicio de la Sala, sin embargo, la fijación del alcance de la protección constitucional que dispensa el art. 18.2 de la CE sólo puede obtenerse adecuadamente a partir de la idea de que el acto de injerencia domiciliaria puede ser de naturaleza física o virtual. En efecto, la tutela constitucional del derecho proclamado en el apartado 2 del art. 18 de la CE protege, tanto frente la irrupción inconsentida del intruso en el escenario doméstico, como respecto de la observación clandestina de lo que acontece en su interior, si para ello es preciso valerse de un artilugio técnico de grabación o aproximación de las imágenes. El Estado no puede adentrarse sin autorización judicial en el espacio de exclusión que cada ciudadano dibuja frente a terceros. Lo proscribe el art. 18.2 de la CE . Y se vulnera esa prohibición cuando sin autorización judicial y para sortear los obstáculos propios de la tarea de fiscalización, se recurre a un utensilio óptico que permite ampliar las imágenes y salvar la distancia entre el observante y lo observado».
+
+7.2.2.-Las razones que descartan la nulidad de los elementos de prueba aportados por el Fiscal, a partir de las imágenes captadas por drones que sobrevolaron la finca de DIRECCION007, se desprenden del régimen jurídico introducido por la reforma de la LECrim operada por la LO 13/2015, de 5 de octubre.
+
+Establece el art. 588 quinquies a), bajo el epígrafe «captación de imágenes en lugares o espacios públicos»,lo siguiente:
+
+1. La Policía Judicial podrá obtener y grabar por cualquier medio técnico imágenes de la persona investigada cuando se encuentre en un lugar o espacio público, si ello fuera necesario para facilitar su identificación, para localizar los instrumentos o efectos del delito u obtener datos relevantes para el esclarecimiento de los hechos.
+
+2. La medida podrá ser llevada a cabo aun cuando afecte a personas diferentes del investigado, siempre que de otro modo se reduzca de forma relevante la utilidad de la vigilancia o existan indicios fundados de la relación de dichas personas con el investigado y los hechos objeto de la investigación
+
+.
+
+Es este precepto el que presta cobertura normativa a la utilización de drones para la investigación penal. Los aspectos administrativos se regulan en el Real Decreto 517/2024, de 4 de junio, por el que se desarrolla el régimen jurídico para la utilización civil de vehículos aéreos no tripulados (UAS), en cuyo ámbito se incluye la utilización de estos ingenios cuando lleven a cabo actividades o servicios de policía.
+
+Conforme al art. 588 quinquies a), la capacidad de la Policía Judicial para captar, por propia iniciativa, esas imágenes, está exclusivamente restringida a lo que el propio texto denomina «lugares o espacios públicos».La determinación del alcance de esta locución ha de obtenerse por contraposición al «domicilio o lugar cerrado»al que alude el art. 588 quater a), en el que, siempre y en todo caso, será indispensable la autorización judicial para la toma de imágenes.
+
+En la ya citada STS 797/2025, 2 de octubre, nos hacíamos eco de las críticas de algún sector de la dogmática con la idea de que el art. 588 quinquies a) de la LECrim avale la idea de que en los espacios calificables como públicos nunca está comprometida la intimidad, de suerte que fuera del recinto domiciliario no hay expectativa alguna de privacidad y, por consiguiente, los agentes de policía carecen de cualquier limitación constitucional para obtener imágenes. La intimidad puede verse afectada -se razona- cuando quien investiga obtiene información personal de un tercero. Se habla así de la dimensión negativa de la intimidad. Pero también puede verse comprometida cuando la grabación de imágenes de quien sabe que puede estar siendo vigilado condiciona su libre capacidad para desarrollar las facetas ordinarias de la vida. Sea como fuere, el legislador español no ha considerado digna de la protección reforzada que concede la autorización judicial la obtención de imágenes por los agentes de policía en espacios públicos. Se trata, por tanto, de un concepto locativo de la privacidad que para definir el contenido del derecho constitucional garantizado por el art. 18.1 y 2 de la CE exige un análisis prioritario del espacio doméstico o público en el que se ha desarrollado la injerencia.
+
+Cobra pleno sentido -decíamos en el anterior precedente- la casuística jurisprudencial que ofrece respuesta a la cuestión acerca de qué lugares gozan de la protección constitucional que ofrecen los apartados 1º y 2º del art. 18.2 de la CE. Son éstos los que van a exigir, para la captación de imágenes, la autorización contenida en una resolución judicial motivada. La protección constitucional de la inviolabilidad domiciliaria -como recuerda de modo insistente la jurisprudencia- se residencia de manera exclusiva en el domicilio, esto es, en la morada en la que el investigado desarrolla su propia actividad vital y que, precisamente por ello, genera una expectativa de privacidad que cuenta con la tutela constitucional. En consecuencia, la toma de imágenes del investigado en lugares o espacios públicos -incluyendo aquí, con carácter general, todos aquellos ajenos a la protección constitucional dispensada por el art. 18.2 de la CE a la inviolabilidad domiciliaria o por el art. 18.1 a la intimidad- podrá ser decidida por propia iniciativa de los agentes de policía.
+
+No resulta fácil obtener unas reglas precisas, con vocación de generalidad y susceptibles de una rígida aplicación que orille las singularidades de cada caso concreto. Se ha estimado innecesaria la autorización judicial para la incorporación al proceso de imágenes obtenidas por las cámaras de seguridad de El Corte Inglés ( STS 124/2014, 3 de febrero) o instaladas en una nave industrial, próxima a la carretera ( STS 129/2014, 26 de febrero); tampoco se ha reputado indispensable la habilitación judicial cuando se trata de secuencias grabadas por las cámaras instaladas en el domicilio de los propios moradores ( STS 67/2014, 28 de enero).
+
+La doctrina jurisprudencial de esta Sala, (sentencias de 6 de mayo de 1993, 7 de febrero, 6 de abril y 21 de mayo de 1994, 18 de diciembre de 1995, 27 de febrero de 1996, 5 de mayo de 1997, 968/1998 de 17 de julio, 188/1999, de 15 de febrero, 1207/1999, de 23 de julio, 387/2001, de 13 de marzo, 27 de septiembre de 2002, y 180/2012 de 14 de marzo, entre otras muchas) ha considerado legítima y no vulneradora de derechos fundamentales la filmación de escenas presuntamente delictivas que suceden en espacios o vías públicas, estimando que la captación de imágenes de actividades que pueden ser constitutivas de acciones delictivas se encuentra autorizada por la ley en el curso de una investigación criminal, siempre que se limiten a la grabación de lo que ocurre en espacios públicos fuera del recinto inviolable del domicilio o de lugares específicos donde tiene lugar el ejercicio de la intimidad.
+
+Por ello cuando el emplazamiento de aparatos de filmación o de escucha invada el espacio restringido reservado para la intimidad de las personas (domicilio) sólo puede ser acordado en virtud de mandamiento judicial que constituye un instrumento habilitante para la intromisión en un derecho fundamental. No estarían autorizados, sin el oportuno plácet judicial, aquellos medios de captación de la imagen o del sonido que filmaran escenas en el interior del domicilio prevaliéndose de los adelantos y posibilidades técnicas de estos aparatos grabadores, aun cuando la captación tuviera lugar desde emplazamientos alejados del recinto domiciliario.
+
+7.2.3.-En el presente caso, la sentencia recurrida hace suyo el razonamiento expresado por el Tribunal de instancia, basado en la falta de constancia de que en las fechas en las que fueron tomadas esas fotografías el espacio abarcado desde imágenes aéreas comprometiera la intimidad de los moradores. De hecho, no consta que Inmaculada y Abelardo -o cualquier otra persona- tuvieran su residencia en esa finca. Su primera residencia fue la vivienda de la DIRECCION014 de DIRECCION015, en las Rozas, Madrid.
+
+...Las fotografías tomadas con medios aéreos, concretamente drones, obrantes en las páginas 52 a 55 del oficio de 12 de mayo de 2021, y realizadas en diciembre de 2020, 19 de enero, 18 de febrero, y 2 de abril de 2021, muestran únicamente los invernaderos construidos en la finca, que está situada en una hondonada, aislada, alejada de núcleos de población, y es de difícil acceso. Difícilmente podría seguirse ninguna investigación, sin riesgo de ser descubierta ya desde un inicio, sin el empleo de estos medios, atendiendo a que, como es por todos conocido, las medidas de protección son máximas en la actividad de tráfico, con colaboradores en muchos casos imposibles de identificar que se dedican de manera exclusiva a vigilar
+
+.
+
+Para descartar la alegada vulneración del derecho a la inviolabilidad domiciliaria, añade la sentencia recurrida:
+
+...Sobre el desconocimiento de los medios empleados para la captación de fotografías conviene precisar que, si bien algunos de los agentes que depusieron como testigos afirmaron desconocer los mismos, fue conveniente aclarado por otros testigos agentes policiales que se solicitó la colaboración al área de sistemas del Cuerpo Nacional de policía para la captación de dichas imágenes. Como se señala en el precedente párrafo de la Sentencia de la Audiencia Provincial, en las páginas 52 a 55 del oficio de 12 de mayo de 2021, se incluyen las fotografías cuestionadas y la fecha: en diciembre de 2020, 19 de enero, 18 de febrero, y 2 de abril de 2021. Se señala que fueron precedidas de una investigación a pie, realizada el 14 de diciembre de 2020, pudiendo observar la construcción de un gran invernadero (de tamaño de un campo de fútbol), con varios operarios trabajando por grúas de 70 a 80 metros. Igualmente se señala en dicho atestado u oficio iniciador que a unos 70 m. había una unifamiliar de grandes dimensiones y que la finca contaba con un picadero de caballos. Y si bien es cierto que obra dicha referencia a una unifamiliar, las captaciones fotográficas aéreas se toman desde altura -no a muy baja altura- y las subsiguientes, también tomadas en altura, se centran en los invernaderos. Las fotografías aéreas, aunque fueran tomadas por drones, carecen de sustantividad lesiva a derecho fundamental alguno, en concreto de la protección de su privacidad o intimidad. No contiene imágenes ni datos que puedan conducir a estimar dicha vulneración. Las defensas tratan de sembrar la duda la posibilidad de captación de imágenes del presunto domicilio de los procesados, por la ausencia de aportación de la "grabación completa", más del contenido del oficio policial, como de lo expresado por los agentes que depusieron como testigos, no se deduce en modo alguno base objetiva para entender se captaron imágenes más allá de las fotografías aportadas y menos que supusiesen una grabación ni que alcanzase a la vivienda
+
+.
+
+7.2.4.-En definitiva, no existen razones objetivas que permitan concluir que la utilización de drones para identificar una vasta plantación de marihuana hachís en invernaderos implica, siempre y en todo caso, una vulneración del derecho reconocido por el art. 18.2 de la CE.
+
+No estamos propugnando, desde luego, un criterio que legitime la captación clandestina de imágenes en una finca cuando la observación queda plasmada en fotogramas que se proyectan sobre el interior de un inmueble o que dejan al descubierto espacios destinados al ejercicio de los actos que definen la rutina vital de cualquier persona.
+
+Tampoco sugiere la Sala una desprotección de todo aquello que se sitúe fuera del estricto recinto domiciliario. De hecho, el art. 241.3 del CP, cuando define el concepto de casa habitada a efectos de tipificar el tipo agravado de robo, considera «dependencias de casa habitada o de edificio o local abiertos al público, sus patios, garajes y demás departamentos o sitios cercados y contiguos al edificio y en comunicación interior con él, y con el cual formen una unidad física».
+
+De lo que se trata, en fin, es de valorar en cada caso el respeto por la fuerza actuante a los principios de proporcionalidad y necesidad ( art. 588 bis a.1 de la LECrim). Y en el presente caso, a la vista de la gravedad de los hechos que estaban siendo investigados y de la singular orografía en la que la finca se ubicaba, no identificamos una quiebra de esos principios legitimadores.
+
+El motivo decae ( art. 885.1 de la LECrim).
+
+-El sexto motivo denuncia la falta de imparcialidad objetiva del Tribunal sentenciador, con la consiguiente quiebra del derecho a un Juez imparcial ( art. 24.2 de la CE).
+
+8.1.-Razona el recurrente que la sentencia de instancia incluyó expresiones y valoraciones que denotan un prejuicio negativo hacia los acusados. Concretamente, el tribunal sentenciador realizó en sus fundamentos de derecho consideraciones peyorativas y ajenas estrictamente a los hechos probados -como referencias a la «peligrosidad del clan mexicano»o la «necesidad ejemplarizante de la pena»,que revelan una posible predisposición condenatoria más allá de la fría valoración probatoria. Asimismo, en la motivación de la sentencia se aprecia un tono despectivo hacia las tesis de la defensa, calificándolas de «meros artificios dilatorios»,lo que pone en entredicho la objetividad judicial. Pese a que en apelación se invocó esta causa de recusación -imparcialidad-, el Tribunal Superior de Justicia la desestimó sin un análisis profundo.
+
+En apoyo de la tesis defendida, además de una referencia a la doctrina del TEDH sobre la indispensable imparcialidad como fuente legitimadora de la actividad jurisdiccional, se cita la sentencia de esta Sala 700/2014, 29 de octubre. Sin embargo, también ahora, este precedente está desconectado de aquello que se quiere probar. Enjuiciábamos entonces el supuesto de la introducción en España de 1068,7 gramos de cocaína en el interior de los senos de una mujer, a modo de prótesis mamarias, destinada a ser distribuida entre terceras personas. El núcleo argumental giraba en torno a la posible ilicitud probatoria de las evidencias obtenidas después de una operación quirúrgica practicada para su extracción, sin que existiera certeza acreditada del consentimiento de la acusada. La sentencia invocada no dice aquello que la defensa sostiene que dijo.
+
+El mismo defecto de una errónea identificación de precedentes de apoyo a la tesis vinculada a la falta de imparcialidad lo apreciamos en la referencia a la STS 205/2019, 12 de abril, que alude a un delito de abusos sexuales imputados a un orientador en un centro de educación especial, sobre una alumna de quince años de edad en situación social y familiar de especial vulnerabilidad y con inteligencia límite.
+
+En ninguno de estos precedentes se cuestionaba la imparcialidad del órgano decisorio.
+
+8.2.-No hay pérdida de imparcialidad por las razones invocadas. Tampoco por los argumentos añadidos por otros recurrentes y que dejamos aquí anotados para dar respuesta a todos ellos.
+
+Para las defensas, además de las expresiones destacadas en el antecedente anterior, la falta de imparcialidad se evidencia del hecho de la admisión «extemporánea»de la carta de la DEA sobre los vínculos de los procesados con el cártel de Sinaloa que presentó el Ministerio Fiscal el primer día de las sesiones del juicio; de la inadmisión de pruebas de descargo, como el informe de la defensa con el que se pretendía acreditar la ausencia de blanqueo capitales por parte de la mercantil DIRECCION009; o la posibilidad de verificar la actuación extemporánea de los GEO; la ausencia de fiscalización de «los abusos en las diligencias policiales»;así como asumir «acríticamente»la tesis de la acusación.
+
+La Sala no aprecia la quiebra del principio de imparcialidad.
+
+Es más que evidente que el desacuerdo con el juicio de pertinencia de las pruebas propuestas por la acusación pública y las defensas no puede servir de base para formalizar un motivo que traduzca esa discrepancia en el cuestionamiento de la imparcialidad del órgano decisorio. De hecho, el rechazo injustificado de las pruebas que cada parte pretenda hacer valer conoce otras vías impugnativas distintas, ligadas a la vulneración del derecho constitucional a utilizar los medios de prueba pertinentes ( art. 24.2 de la CE). La generalización de la tesis que defiende el motivo llevaría a la inadmisible paradoja de que, tras la declaración de pertinencia o impertinencia dictada por un órgano judicial, en cumplimiento de los deberes impuestos por los arts. 659 y 785 de la LECrim, se ocultaría una anticipada toma de postura a favor de la parte a la que hubieran sido admitidos los medios propuestos en el escrito de conclusiones y, a la inversa, un prejuicio contrario a quien viera rechazados algunos de los medios de prueba formulados.
+
+En palabras de la sentencia recurrida:
+
+...La calificación de extemporánea de la aportación de una prueba documental el primer día de sesiones desde la tesis subjetiva de las defensas, o la apreciación de que se le denegaron indebidamente pruebas, no conlleva la apreciación de falta de parcialidad del Tribunal. La Audiencia admitió y denegó las pruebas conforme estimó procedente en derecho, sin que dicha decisión pueda tildarse de arbitraria, habiéndose admitido las preguntas referidas a la hora de entrada de los GEO y siendo examinada dicha circunstancia en la Sentencia. En cuanto al informe pericial sobre la empresa relativo al blanqueo de capitales, no siendo objeto la presente causa de dicho delito, no puede entenderse arbitraria su denegación.
+
+En realidad, se fundamenta tal pretendida falta de objetividad en el disenso con la valoración de la prueba practicada y la línea defensiva en la que se fundamentan las pretensiones absolutorias de su representados. No puede estimarse la falta de imparcialidad del Tribunal por el hecho de que no acoja las tesis de la defensa o califique, con libertad de criterio y en su libre valoración de la prueba, las alegaciones constantes de las defensas sobre la manipulación o corrupción policial, ni tampoco por no "fiscalizar abusos en las diligencias policiales" que la Sentencia, examinado dichas alegaciones y la prueba practicada, no entiende producidos
+
+.
+
+8.3.-La Sala no advierte tampoco que las expresiones enfatizadas por la defensa como demostrativas de esa falta de imparcialidad puedan generar la quiebra de ninguno de los derechos proclamados en el art. 24 de la CE.
+
+Más allá del acierto que pueda predicarse de cada una de ellas, lo cierto es que referirse a la «peligrosidad del clan mexicano»implica constatar una evidencia que se obtiene a la vista del arsenal de armas que fue aprehendido en poder de los acusados, de nacionalidad mexicana, a raíz de los registros policiales practicados y cuya descripción consta en el relato de hechos probados. La expresión «necesidad ejemplarizante de la pena»,tampoco sitúa al Juez fuera de los principios que definen la imparcialidad. Con mayor o menor tacto, se está refiriendo a lo que la dogmática penal considera la doble dimensión del efecto de prevención general y especial asociable a las penas impuestas. Tampoco implica un tono despectivo hacia la tesis de la defensa calificar alguna de las propuestas como «meros artificios dilatorios».Y es que frente a la legitimidad de cualquier estrategia defensiva dirigida a retrasar la celebración del juicio, con el consiguiente efecto en la duración de las medidas cautelares, se alza la capacidad del órgano jurisdiccional para rechazar cualquier intento que conduzca a la vulneración del derecho a un proceso sin dilaciones indebidas ( art. 24.2 de la CE).
+
+El motivo no puede prosperar ( art. 885.1 de la LECrim).
+
+-El motivo séptimo denuncia, con apoyo en los arts. 5.4 de la LOPJ y 852 de la LECrim, vulneración del derecho fundamental a la presunción de inocencia respecto del delito de cohecho.
+
+9.1.-Entiende la defensa que la condena por cohecho activo impuesta a varios de los acusados -en particular a Leon- quebranta su derecho a la presunción de inocencia ( art. 24.2 CE), al sustentarse únicamente en inferencias sin prueba directa. En cuanto a los hechos, el cohecho objeto de condena consistiría en sobornos supuestamente ofrecidos por los líderes del grupo criminal a un agente de la Policía Nacional ( Raimundo, también procesado) a cambio de información privilegiada sobre operativos policiales y otras actuaciones. Sin embargo, no existe prueba de cargo directa de ninguna entrega de dinero ni promesa concreta de dádivas, ni mucho menos de que el Sr. Raimundo haya facilitado información sobre investigaciones. Sólo se ha acreditado que mirara en las bases de datos de la policía titularidades de vehículos. Sólo eso, nada de información sensible. Lo cual encajaría con la figura penal del cohecho impropio. La sentencia deduce la existencia del cohecho de indicios circunstanciales: la amistad y contactos frecuentes entre el agente Raimundo y los Ceferino, la posesión por aquel de ciertos bienes de valor (vehículo, dinero) no plenamente justificados, y el hecho de que les filtró información reservada. A partir de ahí el tribunal infirió que debió mediar un acuerdo corrupto. Pero ningún testigo presenció pago alguno, no hubo intervención de dinero marcado, o transferencia bancaria. Incluso el propio agente Raimundo negó haber recibido sobornos, aduciendo que su relación con Abelardo era de confianza/informador. Por tanto, la condena por cohecho se basó en un razonamiento presuntivo, hilvanando conjeturas (posesión de bienes = debió recibir soborno) sin prueba directa, lo que a juicio de la defensa resulta insuficiente para destruir la presunción de inocencia.
+
+No se ha vulnerado el derecho a la presunción de inocencia.
+
+9.2.-La queja del recurrente, referida a la falta de pruebas para sustentar la condena por el delito de cohecho, lo que verdaderamente cuestiona es que pueda condenarse con arreglo al delito previsto en el art. 424 del CP y, sin embargo, no exista acreditación de la entrega de dinero.
+
+Quien así razona prescinde de la idea de que el delito de cohecho no puede sujetarse artificialmente a una interpretación monetarista en la que si no se detecta un flujo dinerario el delito no puede llegar a cometerse.
+
+En el registro de la vivienda de Raimundo -el policía a quien Abelardo sobornaba a cambio de una actividad colaborativa que facilitara la introducción y el tratamiento de distintas sustancias estupefacientes- fueron hallados 22.160 euros en billetes fraccionados, 28 monedas de oro y dos lingotes de oro, tasados pericialmente en la suma de 47.744,25 euros. Preguntado sobre este particular -explica la sentencia de instancia-, Raimundo ofreció una versión poco creíble, afirmando que el dinero provenía de regalos de boda en metálico que él había guardado, de dinero que dejó una tía al fallecer en 2020, de una vivienda que tuvo en alquiler, y una comisión; ningún dato concreto facilitó, ni llegó a especificar qué cantidad correspondería a cada concepto, ni acreditar ninguna de estas circunstancias. Tampoco prueba haber comprado a Bucanero ni las monedas ni los lingotes de oro.
+
+La sentencia recurrida ha hecho suyo el razonamiento de la resolución de instancia, en la que puede leerse lo siguiente:
+
+Se trataba de informaciones que no estaban al alcance general, que sólo podían obtenerse a través de las bases de datos de acceso restringido, y que resultaban útiles para las actividades delictivas de la organización. No es creíble que estos actos los realizase Raimundo por simpatía, por empatía con la situación de los otros acusados, o por mero deseo de ayudarlos. De hecho, se ha constatado que Bucanero le pagó al menos una parte de un viaje a Disneyland París, y que Raimundo ha hecho uso de vehículos de la organización, todo lo cual representa una retribución en especie, y, en consecuencia, un beneficio personal asociado a su contribución a las actividades de la organización. Tampoco es creíble la explicación que dio a la suma de dinero y las monedas y lingotes de oro hallados en el registro de su vivienda, al no haber aportado datos concretos y pruebas que destruyan el indicio de que los mismos constituían otra forma de retribución. Tampoco es creíble que un agente de Policía con su trayectoria se arriesgase a que sus actividades fueran detectadas, como así ocurrió, sin la perspectiva de obtener algo a cambio, teniendo conocimiento, como sin duda tenía, de las consecuencias de sus actos
+
+.
+
+9.3.-Por consiguiente, no hay quiebra alguna del derecho a la presunción de inocencia que reivindica el recurrente. Para llegar a la proclamación de la secuencia fáctica sobre la que se ha formulado el juicio de autoría por el delito de cohecho previsto en el art. 424 del CP, la Audiencia Provincial no se apartó del canon de valoración probatoria impuesto por los derechos a la presunción de inocencia y a un proceso con todas las garantías. Fue valorada prueba lícita, de significado netamente incriminatorio y con análisis de la tesis de descargo ofrecida por la defensa. La validación de ese caudal probatorio por el Tribunal Superior de Justicia añade razones para la desestimación del recurso.
+
+-El octavo motivo, con la misma cobertura que el precedente, considera vulnerada la presunción de inocencia por vulneración del derecho reconocido en el art. 24.2 de la CE, ante la falta de pruebas para afirmar el dominio o responsabilidad individual en el delito de tenencia ilícita de armas.
+
+10.1.-se denuncia que la condena impuesta a todos los acusados por el delito de tenencia ilícita de armas de fuego y/o tenencia de armas prohibidas ( arts. 564 y 567 CP) carece de base probatoria individualizada, violando la presunción de inocencia ( art. 24.2 CE) y el principio de responsabilidad personal ( art. 25 CE). En los hechos, durante las entradas y registros se incautaron diversas armas de fuego y armas prohibidas (como defensas extensibles, tasers, etc.), algunas en locales o vehículos relacionados con la supuesta organización criminal. La sentencia recurrida condena por igual a todos los procesados por este ilícito, sin distinguir quién poseía materialmente cada arma ni quién tenía dominio o conocimiento de las mismas. Básicamente, se atribuyó una tenencia colectiva de todo el arsenal a todos los integrantes del grupo, argumentando que formaban parte de la organización y que las armas estaban a disposición de ésta. Sin embargo, no existe prueba directa de que cada acusado (muchos de los cuales ni siquiera residían en los lugares donde se hallaron las armas) tuviera conocimiento o disponibilidad efectiva de tales artefactos. Por ejemplo, algunas armas fueron halladas en el domicilio de uno de los acusados concretos; otras, en la guantera de un vehículo usado por otro; otras, en un almacén común. Aun así, la sentencia extiende la autoría a todos, sin concretar actos ni tenencias individuales. La jurisprudencia exige, en cambio, prueba individualizada de posesión o disponibilidad.
+
+10.2.-Es cierto que la jurisprudencia exige para afirmar la tipicidad del delito de tenencia ilícita de armas previsto en los arts. 564 y 567 del CP, que quede acreditada una disponibilidad, aun potencial, de las armas de las que ilícitamente se dispone. Pero esa misma jurisprudencia no identifica tenencia con posesión material. Conviene insistir, una vez más, en que el delito no exige un contacto material y físico, de carácter permanente, con el arma en cuestión ( STS 478/2013, 6 de junio). Tenencia equivale a gozar de la posesión actual de una cosa y poseer consiste en tener un objeto con ánimo de conservarlo, obviamente, con una potencialidad de uso ( STS 425/2003, 31 de octubre). Hemos dicho que la exigencia del tipo penal se satisface con el hecho de que tal relación del sujeto con el arma se dé de forma que haga posible la posesión y la disponibilidad de la misma con plena autonomía ( STS 1257/2002, 4 de julio). Basta al efecto la posesión y la disponibilidad del arma, condiciones que sin duda se dan en quien a sabiendas mantiene un objeto de esa naturaleza en su entorno más inmediato y de forma que lo hace perfectamente utilizable ( STS 425/2003, 31 de octubre).
+
+En el hecho probado se detalla el hallazgo de armas en el registro de la finca de DIRECCION007: «un cartucho percutido de calibre 9 m Parabellum; un cartucho sin percutir de la marca "Luger", carabina de la marca "Gamo", modelo "Magnum Jungle", con número de serie NUM017; carabina de la marca "Gamo" modelo "Magnum Jungle", con número de serie NUM018; dos subfusiles de procedencia checa, de color negro, con los números de serie borrados, y un cargador de munición para cada uno; dos cargadores extras de subfusil; una caja de 50 cartuchos de calibre 9 mm Parabellum; tres pistolas con número de series, NUM019, NUM020, NUM021; siete cartuchos y cuatro cartuchos de calibre 9 mm Parabellum. Los subfusiles ametralladores fabricados por la firma CSA, acrónimo de la compañía CZECH SMALL ARMS, con sede en Jablunka, en la antigua Checoslovaquia, actual República Checa, con la denominación "Sa vz.61 Pistol" cal. 9mm y "Sa vz.61 Pistol" cal. 9mm B y son consideradas armas de fuego automáticas, consideradas como armas de guerra, estando prohibida su adquisición, tenencia y uso por particulares».
+
+Todas estas armas se encontraban en el domicilio de Abelardo y Inmaculada, padre y madre de los dos principales acusados, Leon y Luis. Entender, como pretende la defensa, que los dos progenitores, también condenados como miembros activos de la organización criminal, desconocían la existencia de ese arsenal custodiado en su propio domicilio y puesto a disposición de todos los llamados a defender con esas armas la tenencia clandestina de droga, carece de lógica.
+
+El relato de hechos probados añade que la existencia de esas armas era conocida por el resto de los trabajadores de la finca de DIRECCION007, todos ellos procesados como pertenecientes a la organización criminal destinada al cultivo y a la introducción de sustancias estupefacientes. Es el caso de los acusados Teodosio, Zulima, Benigno, Leoncio, Inocencio, Cipriano, Pedro Antonio, Abel y Benito.
+
+La disponibilidad de las armas por los progenitores usuarios de la vivienda - Abelardo y Mercedes-, por los dos principales acusados - Abelardo y Joaquín- y por el resto de los trabajadores que volcaban sus servicios en las labores clandestinas al servicio del tráfico de drogas, lo deduce la sentencia recurrida «...no solo del hallazgo y su localización, permitiendo su disponibilidad, sino también es consonante con el propio resultado de las vigilancias policiales que ratifican, y así se declara probado, el uso de altas medidas de seguridad en dicha finca».
+
+Esa inferencia no es el resultado de una intuición probatoria carente de apoyo, ha sido obtenida por el Tribunal de instancia -y respaldada por el órgano de apelación- «...a la vista de la ratificación en el plenario por los agentes actuantes y el hallazgo de las armas a disponibilidad de los referidos procesados».
+
+La STS 960/2007, 29 de noviembre, recuerda, es cierto, que estamos en presencia de un delito de propia mano, que comete aquél que de forma exclusiva y excluyente goza de la posesión del arma, aunque a veces pueda pertenecer a distintas personas o, en último caso, pueda estar a disposición de varios con indistinta utilización, razón por la cual extiende sus efectos, en concepto de tenencia compartida, a todos aquellos que conociendo su existencia en la dinámica delictiva, la tuvieron indistintamente a su libre disposición a pesar de que físicamente no pudiera ser detentada más que por uno solo si de la generación de un delito subsiguiente se tratare ( SSTS 891/1999, 1 de junio, 963/2000, 2 de junio, 2123/2002, 16 de diciembre, 674/2003, 30 de abril), siendo lo importante a estos efectos, prescindiendo de que con el arma se llevan a cabo cualquier otra infracción, que ese goce plural, en cuanto a los sujetos intervinientes, sea consecuencia de su común conocimiento, de una tácita unión de voluntades, de una especie de «societas scaelaris»que lleva en fin todos los copartícipes a una responsabilidad por participación compartida ( STS 1128/1993, 14 de mayo).
+
+El motivo decae ( art. 885.1 de la LECrim).
+
+-Al amparo de los arts. 5.4 de la LOPJ y 852 de la LECrim, la defensa denuncia la vulneración del derecho al juez predeterminado por la ley, por fraccionamiento indebido de la causa («Operación Silene»).
+
+11.1.-Considera el Letrado recurrente que la investigación y enjuiciamiento de los hechos se realizó por un órgano judicial territorialmente incompetente debido a una fragmentación artificial del caso, privando a los acusados de su derecho a ser juzgados por el juez natural predeterminado por la ley. En cuanto a los hechos, paralelamente al sumario seguido en Guadalajara (denominado Operación «Papaver»),existía ya con anterioridad, otra investigación penal de los mismos hechos delictivos en la Audiencia Nacional -dirigida por el Juzgado Central de Instrucción núm. 2 en coordinación con la Fiscalía Europea- referida a la denominada «Operación Silene».Ambas investigaciones versaban sobre actividades del mismo supuesto clan criminal de origen mexicano, con coincidencia objetiva -tráfico transnacional de drogas- y subjetiva -varios investigados comunes-.
+
+Sin embargo, la Policía Judicial -sigue razonando la defensa- ocultó al Juzgado de Instrucción de Guadalajara la existencia de esa causa paralela, continuando cada investigación por separado. Así, el Juzgado de Instrucción núm. 3 de Guadalajara asumió la competencia sobre hechos que en realidad tenían dimensión supraprovincial e internacional, cuya competencia objetiva correspondería a la Audiencia Nacional, al haber indicios de delitos cometidos en varias provincias e incluso en el extranjero, vinculados a un grupo criminal organizado. Este fraccionamiento indebido de las actuaciones, mantenido hasta el juicio, alteró el fuero natural: los acusados debieron ser investigados y enjuiciados por el órgano legalmente competente, probablemente la Audiencia Nacional y no por la Audiencia de Guadalajara. La falta de conexión de expedientes, realizada a propósito por la Policía, impidió además una visión completa de los hechos, con potencial perjuicio para la defensa y para la determinación correcta de la competencia.
+
+11.2.-Conviene hacer una precisión inicial. Y es que el proceso penal concede a las partes muy distintas vías para reivindicar la investigación y enjuiciamiento por el juez competente, sobre todo en aquellas ocasiones en las que sobre su trabajo planea la sospecha de una -en este caso no acreditada- manipulación policial. Los arts. 26 y ss. de la LECrim facultan a las partes para promover las cuestiones de competencia por inhibitoria o declinatoria. El art. 666.1 les permite promover un artículo de previo pronunciamiento mediante la declinatoria de jurisdicción. En este último caso, el art. 668 faculta al promovente a aportar «...los documentos justificativos de los hechos en que la funde, y si no los tuviere a su disposición, designará clara y determinadamente el archivo u oficina donde se encuentren, pidiendo que el Tribunal los reclame de quien corresponda».La formalización de un artículo de previo pronunciamiento, pues, abre un incidente de prueba que define el marco procesal adecuado para cuestionar las bases que, hasta ese momento, han determinado la competencia.
+
+La defensa no incluye en su argumentario haber promovido un artículo de previo pronunciamiento con este objetivo. En esta situación, limitarse a invocar una actuación manipuladora de la Policía para que los hechos fueran conocidos por lo que llama «un foro de conveniencia local»no deja de ser un desahogo admisible sólo en términos de defensa.
+
+Es llamativo que a estas alturas del proceso, en la instancia casacional, todavía la defensa no se pronuncie acerca de cuál es el órgano judicial competente. Se limita a apuntar que «...los acusados debieron ser investigados y enjuiciados por el órgano legalmente competente -probablemente la Audiencia Nacional y no por la Audiencia de Guadalajara-».La queja competencial, ya en el procedimiento ante esta Sala, a favor de la Audiencia Nacional que, «probablemente»,es el órgano que debió haber asumido la investigación y enjuiciamiento de la causa, carece de todo fundamento.
+
+11.3.-No asiste razón al recurrente cuando atribuye al Tribunal Superior de Justicia una falta de respuesta a la cuestión suscitada en apelación. En la sentencia recurrida se avala la corrección del criterio del instructor y la tesis competencial defendida en la sentencia de instancia:
+
+...Obra en las actuaciones respuesta remitida por la UDEV al oficio librado por el Órgano instructor de fecha 18 de enero de 2023 sobre las diferentes provincias en las que se podrían haber materializado las actividades delictivas, emitiendo con fecha 22 de febrero de 2023 informe el Ministerio Fiscal contrario a la competencia de la Audiencia Nacional, por considerar centro operativo de la actividad delictiva la finca de DIRECCION007. La Audiencia invoca la doctrina plasmada en la STS 1013/22 de 12 de enero , en orden a la interpretación restrictiva de la competencia de la Audiencia Nacional conforme al art. 65.1 de la Ley Orgánica del Poder Judicial , no siendo cuestión suficiente para entender que produciría efectos en determinados territorios que la cantidad intervenida sea relevante, que se interviniese sustancia en otro territorio, se hubieran realizado actividades secundarias o fueran detenidos en otras provincias, ni tampoco lo determinan actos de transporte o tenencia y ello no ocurre cuando los hechos nucleares se centran fundamentalmente en una provincia.
+
+Abierto el trámite de plenario, como señala la Sentencia recurrida, la Audiencia Provincial asumió la competencia, siendo el momento preclusivo para no admitir cuestiones de competencia el auto de apertura del juicio oral
+
+.
+
+11.4.-La Sala no puede asumir la conclusión a la que llega el recurrente, según la cual toda vulneración de las normas de competencia funcional ha de implicar la nulidad de lo actuado al menoscabar el derecho constitucional al Juez predeterminado por la ley. No es así como la jurisprudencia constitucional ha abordado esta cuestión, que en numerosos precedentes sostiene que las cuestiones relativas a la interpretación de las normas sobre atribución de competencias a los órganos jurisdiccionales son de legalidad ordinaria y ajenas, por tanto, al derecho al juez ordinario predeterminado por la Ley, salvo que esa interpretación suponga una manipulación manifiestamente arbitraria de las reglas legales sobre atribución de competencias (por todas, STC 115/2006, de 24 de abril, F. 9). No puede confundirse, por tanto, el contenido de este derecho fundamental con el derecho a que las normas sobre distribución de competencias entre los órganos jurisdiccionales se interpreten en un determinado sentido (entre muchas, SSTC 238/1998, de 15 de diciembre, F. 3; 49/1999, de 5 de abril, F. 2; 183/1999, de 11 de octubre, F. 2; 164/2008, de 15 de diciembre, F. 4).
+
+Al margen de lo anterior, la defensa muestra su preferencia por una investigación que «probablemente»debió haber sido llevada en un Juzgado Central de instrucción. Sin embargo, la doctrina de esta Sala ha entendido que las normas que regulan los conflictos de competencia entre la Jurisdicción ordinaria y la especializada representada por la Audiencia Nacional «deben resolverse interpretando restrictivamente las normas de atribución competencial en favor de la Audiencia Nacional en base precisamente a la clara e inequívoca concurrencia de las notas que constituyen tal atribución competencial específica y que le convertirían en el Juez predeterminado por la Ley, por lo que de no concurrir aquellas notas corresponderá la competencia al Juez territorialmente competente»(cfr. SSTS 593/2009, 8 de junio; 966/2002, 24 de mayo y AATS 10 diciembre 2003, 20 julio y 3 de abril de 2000).
+
+-El décimo motivo, con invocación del art. 849.1 de la LECrim, sostiene la indebida aplicación de las reglas de determinación de la pena ( art. 66 del CP), al haber mantenido inalterada las penas iniciales, pese a eliminar la condena por organización criminal.
+
+12.1.-A juicio de la defensa, el Tribunal Superior de Justicia, pese a estimar que no procedía una condena separada por pertenencia a organización criminal, por aplicación del concurso de normas, no adaptó las penas impuestas a tal circunstancia, conservando íntegramente las mismas cuantías de prisión. La sentencia de apelación del Tribunal Superior de Justicia, acogiendo una alegación del Ministerio Fiscal en la vista, declaró que concurría un concurso de normas entre el delito de tráfico de drogas agravado y el de pertenencia a organización criminal, de modo que esta última infracción no debía castigarse separadamente para evitar una doble punición.
+
+En consecuencia, el Tribunal Superior de Justicia «excluyó la doble punición por el delito de pertenencia a organización criminal»,dejando subsumida la responsabilidad por la agrupación delictiva en la pena del delito contra la salud pública del art. 369 bis CP. Sin embargo, a renglón seguido, la resolución mantiene las penas privativas de libertad en la misma duración que habían sido fijadas en primera instancia, no disminuyéndolas a pesar de haber desaparecido una condena autónoma de 2-6 años por la organización criminal. En concreto, por el delito de tráfico de drogas agravado -que pasa a englobar la conducta de organización-, Leon continúa con 12 años y 1 día de prisión, exactamente la misma pena que antes se le atribuía solo por la agravación del art. 369 bis; y casos similares concurren en otros condenados principales. Es decir, no hubo un reajuste de las penas pese a la desaparición formal de uno de los delitos, lo que en la práctica implica que la pena del delito de drogas no se redujo ni un solo día, absorbiendo de facto la pena del delito suprimido. Ello infringe las reglas del art. 66 CP, que obligan a individualizar la pena conforme a las circunstancias del hecho y del autor, y vulnera el principio de proporcionalidad penal. Lo lógico habría sido, reconociendo el error de la Audiencia de Guadalajara, que el Tribunal Superior de Justicia de Castilla-La Mancha hubiera en todo caso penado el delito en su grado medio, como máximo, o en el mínimo en beneficio de los reos, los cuales carecen de antecedentes penales.
+
+12.2.-Es cierto que el Tribunal Superior de Justicia, acogiendo el informe del Fiscal en la vista, declaró que la relación entre el delito de organización criminal del art. 570 bis del CP y el delito de tráfico de drogas en el seno de una organización criminal del art. 369 bis del CP es la propia de un concurso de normas, en el que el mayor desvalor del delito contra la salud pública, ejecutado en el marco de una organización criminal, absorbe el desvalor propio de la organización criminal. Su punición conjunta implicaría, claro es, un desbordamiento de la medida de culpabilidad. Así lo hemos declarado en numerosos precedentes (cfr. SSTS 324/2025, 7 de abril; 457/2019, 8 de octubre; 746/2022, 21 de julio; 132/2019, 12 de marzo; 93/2016, 17 de febrero; 223/2012, 20 de marzo).
+
+Precisamente por ello, lo que hizo el órgano de apelación fue dejar sin efecto -anular- la condena autónoma impuesta por la Audiencia Provincial respecto del delito de organización criminal. Es evidente que la anulación de una condena por un delito que ha sido castigado de forma autónoma implica ya una readecuación ajustada al principio de proporcionalidad, sobre todo teniendo en cuenta que las penas asociadas a la conducta descrita en el art. 369 bis fueron impuestas en el tramo inferior. Además, la sustitución de la regla punitiva -lo que antes se penaba por separado con arreglo a una norma concursal de delitos ahora se castiga conjuntamente conforme a las reglas del concurso de normas que han llevado a la anulación de una de las condenas- no implica, frente a lo que razona la defensa, que los hechos calificados como constitutivos de un delito de organización criminal ahora desaparezcan del cuadro fáctico. Lo que sucede es, simple y llanamente, que su castigo lo ofrece ahora la tipicidad descrita en el art. 369 bis del CP. De ahí que deducir que la anulación de la regla punitiva contemplada en la instancia para sancionar los dos delitos tiene que traducirse en la apelación en una rebaja punitiva, carece de sentido.
+
+Se desestima el motivo ( art. 885.1 de la LECrim).
+
+-El undécimo motivo también invoca el error de derecho en la aplicación del art. 368 del CP -delito contra la salud pública- debiendo apreciarse la atipicidad o el tipo atenuado por tratarse de cáñamo industrial no psicoactivo.
+
+13.1.-Se alega que la sustancia estupefaciente ocupada a los acusados, cannabis sativa, no encaja en el tipo penal aplicado, bien por no superar los umbrales legales para considerarse droga ilícita, bien por concurrir circunstancias que obligarían a un subtipo menos grave. Durante la investigación se incautaron 166,483 kg de cogollos y plantas de cannabis -operación en la finca de DIRECCION007-, cuya riqueza en THC -principal componente psicoactivo- fue determinada oficialmente en apenas 0,2% de ?9-THC. Este porcentaje es extremadamente bajo, equiparable al cáñamo industrial autorizado para fines comerciales, cuya legislación española y de la UE suele fijar límites de hasta 0,2-0,3% de THC para considerarlo cáñamo legal. Los acusados sostenían que el cultivo de esas plantas estaba relacionado con una actividad industrial/legal (por ejemplo, producción de fibra de cáñamo o CBD no psicoactivo) y que disponían de registros o licencias para ello. Sin embargo, la sentencia consideró dichas plantas como sustancia estupefaciente ilícita objeto de tráfico, aplicando incluso la agravación de «causar grave daño a la salud»a una parte de la sustancia. Concretamente, se les condenó tanto por un delito de tráfico de sustancias que causan grave daño a la salud ( art. 368 en relación con el art. 369.1.5 del CP) -presumiblemente refiriéndose a otro material incautado, quizá aceite de cannabis concentrado- como por otro delito de tráfico de sustancias que no causan grave daño (la propia marihuana), entendiéndose luego en concurso de normas. Se alega que esta subsunción es errónea: el material vegetal aprehendido, dada su bajísima concentración de THC (0,2%), no debía ni siquiera considerarse droga ilícita en sentido penal, pues carece de aptitud psicoactiva relevante; subsidiariamente, de serlo, se trataría del supuesto atenuado del art. 368 último párrafo (droga de escasa eficacia o consistencia).
+
+Esta alegación es compartida por otros recurrentes, que alegan que el Reglamento de la UE 1307/2013 permite el cultivo de cáñamo con un contenido de THC inferior al 0,3% y que la sentencia incurre en error al considerar se precisa la autorización de la AEMPS, ya que se reiteró por los técnicos y responsables de la AEMPS en el acto del juicio que el cultivo de cáñamo industrial no precisa su autorización previa, sino comunicación a la Consejería de la Comunidad Autónoma. Reiteran que el cultivo de cáñamo industrial estaba inscrito en la Consejería de Agricultura de la Comunidad Autónoma, se utilizaban semillas certificadas, el contenido de THC era sometido a control y documentado y el SEPRONA hacía verificaciones rutinarias de la finca.
+
+13.2.-El razonamiento que inspira esta queja es también suscrito por varios recurrentes.
+
+Sin embargo, la sentencia de instancia -avalada en este punto por el Tribunal Superior de Justicia- dio adecuada respuesta a esta tesis. En efecto, los recurrentes iniciaron una producción con construcción de invernaderos y cultivo indoor;adoptaron fuertes medidas de vigilancia que sugieren la finalidad de evitar el descubrimiento de dicho fin ilícito; en el momento del registro la cosecha había sido recogida, no pudiéndose comprobar su porcentaje de THC, de modo que las únicas plantas -jóvenes- restantes halladas en la misma mostraron un THC muy superior al 0,3%. A la vista de estos presupuestos, es una inferencia más que lógica que el fin de la explotación no era otro que la distribución a terceros.
+
+Añade la sentencia recurrida:
+
+...Cierto que registro efectuado en la localidad de DIRECCION003, al margen de la cocaína y elementos compatibles con un laboratorio para su procesamiento, se hallaron 155 bolsas con un peso total de 729 kg., presentados en forma de cannabis y una riqueza de 0,2. En el registro de la finca de la DIRECCION021 de la localidad de DIRECCION005 se hallaron 49 bolsas de plástico con restos de marihuana, cogollos que una vez secos arrojaron un peso neto total de 63, 904 Kg, presentados en forma de cannabis y con una riqueza de 0,2. En el registro de la finca de la localidad Fuentidueña se halló una bolsa de plástico con restos de marihuana, cogollos que una vez secos arrojaron un peso neto total de 4,994 kg, presentados en forma de cannabis, con una riqueza de 0,2. En el registro realizado en DIRECCION024, de la localidad de DIRECCION026, se hallaron 60 cajas conteniendo una sustancia, presentada en forma de cannabis, con un peso neto de 166,483 kg, con una riqueza de 0,2. Riqueza que no desvirtúa las consideraciones anteriores y descartan la existencia de un error en la apreciación de la prueba
+
+.
+
+El rechazo a la idea de que el cultivo de marihuana se explicaba por una finalidad industrial, ajena a toda distribución clandestina, está coherentemente justificado con el siguiente razonamiento:
+
+...Aunque los procesados pretendieran dar apariencia de legalidad, comunicando una plantación de cáñamo industrial o que se afirme mediaron visitas del SEPRONA, no se evidencia error alguno de valoración en la Sentencia apelada, pues en todo caso del conjunto de la prueba practicada infiere el fin ilícito del cultivo realizado bajo altas medidas de seguridad y su destino a la distribución a terceros. El hallazgo de las presentaciones en forma de cannabis y de cogollos, la ausencia del control requerido incluso para su almacenaje, la ausencia de trazabilidad en el origen de semillas certificadas y la ausencia de constancia a finalidad autorizada (en todo caso, atendida la presentación, no la alegada finalidad industrial) y la disposición a su distribución a terceros, ratifica dicha consideración.
+
+Y ello al margen de los importantes hallazgos de cocaína en poder del clan y elementos destinados a su procesamiento que justifican de por sí ya la condena por el delito contra la salud pública de sustancias que causen grave daño a la salud. (En el registro de la nave sita en DIRECCION003 141,61 gramos de cocaína con una riqueza media de 75,2 gramos y elementos y útiles compatibles con un laboratorio de cocaína; en el registro del domicilio sito en la DIRECCION020 6,69 gr. De cocaína, con una riqueza media de 77, 93 gr; en el registro de la finca de la urbanización de DIRECCION004 una caja con 37 ladrillos de cocaína, con una riqueza media de 74,3 por ciento y un peso total de 39,237 Kg.)
+
+.
+
+A la vista de estas cantidades y porcentajes, la calificación jurídica de los hechos como constitutivos de un delito previsto en los arts. 368 y 369.1.5 del CP está plenamente justificada, en la medida en que la posesión de la cocaína, por sí sola, más allá del índice de pureza del cannabis, legitima la corrección de los preceptos que se dicen erróneamente aplicados. La pretensión subsidiaria que formaliza el recurrente, relativa a un posible error de subsunción por no haber sido calificados los hechos conforme al tipo atenuado del párrafo segundo del art. 368 del CP, pierde toda justificación.
+
+13.3.-Al margen de lo ya expuesto, conviene no olvidar que la vía casacional seleccionada por la defensa para expresar su desacuerdo con la condena - art. 849.1 de la LECrim- exige la aceptación como premisa de la descripción fáctica declarada como probada, a partir del cual ha de construirse el argumentario para justificar el error de derecho en el juicio de subsunción. Pues bien, su lectura no pone de manifiesto finalidad alguna que no estuviera relacionada con el tráfico clandestino de la marihuana y del resto de sustancias estupefacientes de las que se incautaron los agentes de policía que practicaron el registro.
+
+El juicio histórico -insistimos, obligado punto de partida en el razonamiento impugnatorio- no deja duda alguna sobre la finalidad de los procesados:
+
+Los acusados representaban «...una trama constituida y estructurada a merced a las relaciones personales y medios materiales dispuestos por ellos, que tenía como finalidad última y exclusiva, el cultivo, elaboración y distribución de marihuana a través de cultivos indoor, y la elaboración y fabricación de cocaína, dedicándose concertadamente tanto en el propósito como en la acción, a obtener un provecho económico irregular (...) de una manera organizada, estable y con una duración indefinida, con fines de cultivo, elaboración, adquisición, manipulación y distribución a favor de terceras personas de sustancias estupefacientes, concretamente marihuana y cocaína a gran escala, utilizando para ello naves e invernaderos indoor, a cambio de un precio, desentendiendo el cierto y grave menoscabo que su consumo causaba a los destinatarios últimos, consecuencias que bien conocían, anteponiendo su afán de enriquecimiento individual, para distribuir a nivel nacional y europeo, estableciendo contactos con miembros de otras organizaciones, como ciudadanos de origen chino o individuos de la DIRECCION035 (Madrid) vinculados al tráfico de sustancias estupefacientes».
+
+La ausencia de toda referencia a esa finalidad industrial sometida a autorización administrativa obliga a la desestimación del motivo ( art. 884.3 y 4 y 885.1 de la LECrim).
+
+-El motivo duodécimo, con invocación del art. 849.1 de la LECrim, censura la imposición de una pena superior al recurrente Abelardo «...y eventualmente a algún otro acusado)por una jefatura de la organización no probada, denunciando así la indebida aplicación de los arts. 66 y 72 del CP referidos a la individualización de la pena, con la consiguiente vulneración del derecho a una resolución judicial debidamente motivada.
+
+14.1.-Sostiene la defensa que a Leon se le impuso la pena en su grado máximo bajo la consideración de ser « Orejas» de la organización, sin que tal jefatura esté acreditada con la certeza exigible. En los hechos, la sentencia de instancia calificó a Abelardo (alias « Bucanero») como «autor en condición de Orejas» de la organización criminal, atribuida a la facción familiar de los Ceferino, y ello sirvió para agravar sus penas. Sin embargo, durante el juicio no quedó claramente demostrada la estructura jerárquica interna ni que Abelardo ostentase mando sobre los demás coacusados de manera permanente. De hecho, hay indicios de que otros encausados podían tener roles igualmente directivos. Pese a esas dudas, la Audiencia le impuso a Abelardo la pena del delito de tráfico de drogas en el tope de la horquilla (12 años y 1 día, muy próxima al máximo legal) apoyándose implícitamente en su supuesto liderazgo, a la par que los demás recibieron penas inferiores. Tras la apelación, al suprimirse la condena separada de organización, la consideración de jefatura quedó difuminada, pero las penas no se reajustaron -como se expuso en el Motivo Décimo-. Persisten, pues, las consecuencias punitivas de un liderazgo no demostrado suficientemente.
+
+14.2.-El motivo que se hace valer por el recurrente engloba quejas de distinta naturaleza que habrían aconsejado un tratamiento diferenciado. Su ubicación sistemática en el capítulo de los motivos por infracción de ley y la referencia expresa al art. 849.1 de la LECrim, permiten a la Sala rechazar las quejas que en el desarrollo argumental se deslizan sobre la falta de prueba de la jefatura.
+
+En efecto, el relato de hechos probados es inequívoco en este sentido:
+
+...La organización, encabezada por el procesado Leon " Bucanero", al que los subordinados se referían a él como " Orejas" o " Gamba", se asentó en España a mediados del mes de junio del año 2020, provenientes de Tijuana (México), lugar de origen, dónde inicialmente desempeñaban una actividad empresarial ligada a las casas de cambio de divisas, las mercantiles DIRECCION000 y DIRECCION001, y de donde se derivó su soporte estructural y económico, moviendo dinero para cárteles de la droga mexicanos lo que les generó importantes ingresos
+
+.
+
+Y el liderazgo en esa organización queda también nítidamente reflejado en el factum que, conforme a reiterada jurisprudencia de esta Sala, de innecesaria cita, constituye la obligada referencia para hacer valer el desacuerdo en el juicio de subsunción:
+
+...En el seno de la organización existían distintos niveles y responsabilidades, cuyos específicos cometidos se detallarán a continuación. El liderazgo era desempeñado por el procesado Leon que controlaba, dirigía y supervisaba toda la organización criminal, gestionando funciones relacionadas con la custodia de su persona, familia y encargos de los cultivos en la finca de DIRECCION007 (Guadalajara), procesamiento, distribución y movimientos de dinero. Los beneficios obtenidos del tráfico ilícito de sustancias estupefacientes los destinaba a constituir un entramado societario que le ayudaba a ocultar la titularidad del patrimonio cuyo origen era el tráfico de estupefacientes, dando una apariencia de legalidad a fondos con origen en las actividades descritas y, sin perjuicio, obviamente, de conseguir para sí en el desarrollo de estas actividades un alto rédito económico
+
+.
+
+14.3.-No ha existido tampoco el déficit de motivación que la defensa atribuye a la sentencia recurrida al individualizar la pena. Las quejas referidas a un error en la aplicación de los arts. 66.1 y 72 del CP ya han sido abordadas por la Sala al dar respuesta en el FJ 12 de esta resolución, al motivo décimo de los que han sido formalizados.
+
+Se impone la desestimación ( arts. 884.3 y 4 y 885.1 de la LECrim).
+
+-El decimotercer motivo denuncia la indebida inaplicación de la atenuante de dilaciones indebidas, con la consiguiente infracción de los arts. 21.6 y 66.1.2 del CP.
+
+15.1.-Estima el recurrente que la sentencia impugnada no apreció la atenuante muy cualificada de dilaciones indebidas solicitada por la defensa, pese a concurrir los requisitos exigidos por la doctrina para su estimación. El procedimiento se ha caracterizado por una duración excesiva no imputable a los acusados. Las investigaciones se iniciaron en 2021, con detenciones en mayo de 2022, y el juicio oral ante la Audiencia Provincial no concluyó hasta marzo de 2025. Hubo periodos de notable inactividad procesal durante la instrucción (varios meses sin diligencias mientras se esperaban informes periciales o comisiones rogatorias), así como demoras en señalar la vista oral por sobrecarga de la agenda judicial.
+
+Además, uno de los acusados principales ( Leon) sufrió prisión preventiva durante más de 3 años hasta la sentencia de primera instancia. De hecho, en este momento lleva preso casi 4 años, lo cual realza la repercusión de las demoras. La defensa invocó expresamente la concurrencia de dilaciones indebidas, al amparo del art. 21.6 del CP, pidiendo se atenuaran las penas. Sin embargo, la Audiencia Provincial rechazó su aplicación sin motivación detallada, y el Tribunal Superior de Justicia confirmó tal criterio de forma genérica.
+
+15.2.-No han existido demoras que justifiquen la degradación punitiva al amparo del art. 21.6 del CP.
+
+Una lectura detenida del factum evidencia la imposibilidad material de convertir la investigación y enjuiciamiento de unos hechos de tanta gravedad como los que han sido objeto de la presente causa en un procedimiento de alta velocidad, con el consecuente riesgo de que, al abrigo de la precipitación en la toma de decisiones de alta incidencia en los derechos fundamentales, se vulneren derechos del máximo rango axiológico.
+
+En palabras del órgano de apelación:
+
+...Las defensas afirman la indebida inaplicación de dicha atenuante, invocando el tiempo transcurrido desde los hechos al enjuiciamiento, sin concretar tiempos con entidad y determinados de paralización en la causa. Las alegaciones se centran en el retardo en la presentación del informe de la UCDEV, y no en la paralización de las diligencias, así como el tiempo transcurrido desde el Auto de procesamiento al acto del juicio. La complejidad de la causa no permite acoger que la simple invocación del tiempo transcurrido pueda dar lugar a la apreciación de dicha atenuante
+
+.
+
+En el desarrollo del motivo, la defensa sí señala plazos que, a su juicio, deberían justificar la aplicación de la atenuante. Aduce que desde los hechos (2019-2021) y las detenciones (2022) hasta la sentencia de apelación (2025) transcurrieron más de tres años y medio, tiempo que, si bien podría considerarse habitual en asuntos complejos, aquí incluye fases de paralización evitables. Por ejemplo, hubo una espera de casi 8 meses entre la conclusión del sumario y el auto de apertura de juicio oral; la vista se demoró otros 6 meses más desde el auto de acusación.
+
+Sin embargo, conviene no perder de vista que la referencia inicial para el cómputo del tiempo de la alegada dilación no debe ser considerada a partir de la fecha de comisión de los hechos, sino del momento de la imputación. Hemos dicho en numerosos precedentes que no existe el derecho a ser imputado con anticipación al momento en que así lo imponga el desarrollo de las diligencias de investigación. El derecho de todo imputado a ser enjuiciado en un plazo razonable no puede degenerar en un derecho de todo delincuente a ser descubierto con prontitud ( STS 216/2020, 22 de mayo y 940/2009, 30 de septiembre, entre otras).
+
+Critica la defensa que la fase intermedia, desde la conclusión del sumario a la apertura del juicio oral, agotó un plazo de espera de casi 8 meses, que sumado al retraso obligado para el señalamiento de la vista, hacen aplicable la atenuante.
+
+Es obvio que la tramitación de cualquier fase del procedimiento debe ajustarse a un modelo de celeridad que descarte paralizaciones injustificadas. También lo es que todo plazo invertido en la investigación y enjuiciamiento de un hecho delictivo admite una revisión crítica. En el presente caso, sin embargo, tratándose de un procedimiento tramitado conforme a las reglas del sumario ordinario, con 14 procesados, es más que entendible que la fase intermedia que abrió el auto de conclusión del sumario, seguida de la resolución que acordaba la apertura del juicio oral, la formulación del escrito de conclusiones y el señalamiento de fecha para el plenario, no puede considerarse, desde luego, vulneradora de ningún derecho constitucional.
+
+La circunstancia de que el principal recurrente - Leon- se halle en la actualidad en prisión, más allá del efecto que es propio de esta medida cautelar, no añade razones para sostener la aplicación de la atenuante prevista en el art. 21.6 del CP. La fijación de los plazos señalados en el art. 504 de la LECrim actúan como límite para evitar la indebida prolongación de una pérdida de libertad que, hasta la firmeza, sólo se basa en indicios. Pero asociar una prolongada prisión preventiva, siempre dentro de los plazos legales, a una dilación indebida con traducción en una rebaja de la pena carece de respaldo legal.
+
+Se desestima el motivo ( art. 884.3 y 4 y 885.1 de la LECrim).
+
+RECURSO DE Inmaculada, Abelardo Y Zulima.
+
+-El primero de los motivos se formaliza al amparo de los arts. 5.4 de la LOPJ y 852 de la LECrim. Denuncia vulneración del derecho a la tutela judicial efectiva del art. 24.1 de la CE y del deber de motivación impuesto por el art. 120.3 de la LECrim, a la vista de falta de motivación suficiente y la ausencia de una revisión judicial efectiva.
+
+16.1.-La sentencia recurrida -arguye la defensa- vulnera la tutela judicial efectiva y el deber constitucional de motivación reforzada al desestimar cuestiones esenciales con una motivación insuficiente o meramente aparente, sin revisión real de las quejas sustantivas de la defensa, en particular las relativas a licitud de diligencias (intervenciones telefónicas, entradas y registros, captación de imágenes) y a la contaminación probatoria. En supuestos de alegación de lesión de derechos fundamentales, la exigencia de motivación es reforzada, debiendo exteriorizarse un razonamiento suficiente, específico y no estereotipado, que permita controlar la racionalidad de la decisión y la ausencia de arbitrariedad.
+
+16.2.-La queja no puede ser aceptada. Está fuera de cualquier duda que el derecho a la tutela judicial efectiva hace acreedor al ciudadano de una motivación coherente, lógica y razonable en toda resolución judicial que le afecte. En la STC 31/2012, 12 de marzo, el Tribunal Constitucional recuerda que el derecho a la tutela judicial efectiva requiere respuestas judiciales fundadas en Derecho, como garantía de que la decisión no sea consecuencia de una aplicación arbitraria de la legalidad, no resulte manifiestamente irrazonada o irrazonable o incurra en un error patente, pues, en tal caso, la aplicación de la legalidad sería tan sólo una mera apariencia ( SSTC 147/1999, de 4 de agosto, FJ 3; 25/2000, de 31 de enero, FJ 2; 82/2001, de 26 de marzo, FJ 2; 55/2003, de 24 de marzo, FJ 6; y 223/2005, de 12 de septiembre, FJ 3).
+
+Sin embargo, para detectar este error de motivación no basta con anunciar en términos genéricos que la respuesta del Tribunal Superior de Justicia no satisface al recurrente. Sobre la licitud de las intervenciones telefónicas, las entradas y registros, la captación de imágenes y la contaminación probatoria, tanto la sentencia de instancia como la que ahora es objeto de recurso contienen un discurso justificativo de la procedencia de estas medidas en el que no apreciamos la más mínima quiebra del canon de motivación impuesto por el art. 24.1 de la CE. Y así lo hemos subrayado al dar respuesta a los motivos esgrimidos en esa misma dirección por la representación legal de Leon y otros recurrentes.
+
+Se desestima el motivo ( art. 885.1 de la LECrim).
+
+-El segundo motivo invoca la vulneración del secreto de las comunicaciones ( art. 189.3 de la CE) y del derecho a un proceso con todas las garantías ( art. 24.2 de la CE), por ilicitud de las intervenciones telefónicas ( arts. 588 bis de la LECrim, 11 de la LOPJ y 852 de la LECrim).
+
+17.1.-Con cita de la jurisprudencia constitucional y de esta Sala que considera aplicable al supuesto de hecho que ahora examinamos, la defensa insiste en la insuficiente motivación de las resoluciones habilitantes y denuncia la existencia de lapsos durante los que se prolongó la intervención sin cobertura judicial. Tampoco las prórrogas posteriores satisfacen al estándar constitucional. En todas ellas se reproduce, de forma prácticamente literal, el contenido del auto inicial, sin valorar los resultados obtenidos durante las semanas precedentes ni justificar por qué la medida debía mantenerse.
+
+De ahí que inste la declaración de ilicitud probatoria con la consiguiente contaminación procesal que llevaría a la absolución de los recurrentes.
+
+17.2.-No han existido las vulneraciones constitucionales que denuncia el motivo. En el FJ 4º de esta misma resolución, hemos dado ya repuesta a las alegaciones de otros recurrentes que ahora se hacen valer con argumentos de similar inspiración. A lo allí razonado nos remitimos.
+
+17.2.1.-La defensa pone el acento en la duración de algunas de esas intervenciones más allá del período por el que inicialmente fueron habilitadas y en la falta de motivación de las prórrogas que fueron posteriormente acordadas.
+
+Sin embargo, la sentencia recurrida anticipa que las intervenciones telefónicas y la medida de balizas sobre el vehículo Mercedes matrícula NUM050 y el vehículo matrícula NUM051 se ajustaron al deber constitucional de motivación. La resolución dictada en la instancia realiza una exposición minuciosa de las intervenciones autorizadas, altas, ceses y prorrogas, concluyendo que los ocasionales lapsos entre la finalización de la fecha de una autorización y prórroga de la siguiente no afectan a la validez de la diligencia.
+
+17.2.2.-Esta respuesta de la sentencia dictada por el Tribunal Superior de Justicia, que hace suyo el razonamiento vertido por la Audiencia Provincial, tiene pleno apoyo en la jurisprudencia constitucional.
+
+En principio, no basta para reivindicar la ausencia de control judicial de las prórrogas que la defensa haga una manifestación de desacuerdo en tal sentido. El contenido material del derecho a la inviolabilidad de las comunicaciones no impone un formato predefinido, incluso documentado, para dejar constancia de que ese control ha existido.
+
+Así lo ha declarado el Tribunal Constitucional:
+
+«...Es indudable que una prórroga acordada de forma automática, sin un efectivo control jurisdiccional, puede menoscabar el derecho a la inviolabilidad de las comunicaciones recogido en el art. 18.3 de la CE . Ello acontecerá siempre que el Juez no efectúa un seguimiento de las vicisitudes del desarrollo y del cese de la intervención o no conozca los resultados de la investigación. Sin embargo, esa exigencia puede quedar cumplida por distintas vías. La primera, cuando el Juez tenga conocimiento de los resultados de la medida a través de los informes que le ofrece la policía; la segunda, mediante la trascripción parcial de las cintas ( SSTC 205/2005, de 18 de julio FJ. 4 ; 239/2006, de 17 de julio , FJ. 4). Así, "si bien es cierto que hemos declarado que la autorización de prórroga de la medida debe tener en cuenta los resultados obtenidos previamente [...] a tal fin no resulta necesario, como pretenden los recurrentes, que se entreguen las cintas en ese momento por la autoridad que lleve a cabo la medida, pues el Juez puede tener puntual información de los resultados de la intervención telefónica a través de los informes de quien la lleva a cabo" ( ATC 11/2007, 15 de enero ). Dicho con otras palabras, no resulta necesario a tal fin ni la aportación de las transcripciones literales íntegras, ni la audición directa por el Juez de las cintas originales ( SSTC 82/2002, de 22 de abril FJ. 5 ; 184/2003, de 23 de octubre, FJ 12 ; 205/2005, de 18 de julio FJ. 4; 26/2006, de 30 de enero ).
+
+El verdadero alcance de la exigencia de motivación de las prórrogas ha sido también objeto de análisis por la jurisprudencia de esta Sala:
+
+La propia significación gramatical del término prorrogar, evoca la idea de continuar, extender algo por un tiempo determinado. De ahí que la exigencia de una renovada motivación fáctica en todas y cada una de las resoluciones que acuerdan la prórroga, supone desconocer esta idea. En efecto, se prorroga aquello que ya ha sido objeto de decisión previa. Es esa primera resolución la que exige, siempre y en todo caso, la concurrencia de razones y sospechas debidamente razonadas. En las sucesivas resoluciones la legitimidad constitucional de la medida exigirá que el control judicial siga siendo efectivo, pero no que se expresen renovados presupuestos fácticos que, por definición, pueden ser los mismos que los que motivaron la inicial autorización de la injerencia
+
+(cfr. SSTS 636/2012, 13 de julio; 195/2014, 3 de marzo; 121/2010, 12 de febrero; 598/2008, 3 de octubre, entre otras muchas).
+
+Esta idea se repite en numerosos pronunciamientos. Es el caso de la STS 537/2018, 8 de noviembre, en la que razonábamos en los siguientes términos:
+
+...Las prórrogas no necesitan una motivación ni renovada ni reforzada: basta con constatar que no han desaparecido las razones que aconsejaban la medida. Una prórroga no requiere que en el periodo ya transcurrido de escuchas se hayan identificado diálogos relevantes o reveladores de la supuesta dedicación. Puede ser suficiente que no se hayan desvanecido los indicios y subsistan las razones que justificaron la intervención. Conforme avanza el tiempo si no surgen resultados se debilitan esas razones y la intervención acabará por perder su fundamento. Pero, desde luego, en actividades delictivas como la aquí investigada, que en un mes no se haya individualizado ninguna conversación especialmente significativa o determinante no aboca ineludiblemente a cancelar la medida
+
+.
+
+En consecuencia, la queja sobre la insuficiencia de la motivación de los autos de prórroga se ha formalizado por el recurrente sin atenerse a la jurisprudencia constitucional y de esta Sala que queda reflejada en los pronunciamientos transcritos.
+
+17.2.3.-En respuesta a otra de las alegaciones que dan vida al motivo, la sentencia recurrida se hace eco de la jurisprudencia que ha relativizado el efecto derivable de una prórroga acordada fuera del plazo en que inicialmente fue habilitada la interceptación o, en su caso, la ulterior prórroga.
+
+En algunos precedentes, la Sala había estimado, al amparo de la redacción previgente del art. 579 de la LECrim, que si hubiera existido un periodo de tiempo entre la conclusión del plazo inicialmente concedido y el inicio de la siguiente prórroga, el propio Juez de instrucción habría subsanado, con sus resoluciones posteriores, lo que no pasa de ser una mera irregularidad que no viola derecho fundamental alguno (cfr. STS 1060/2009, 22 de octubre).
+
+Tras la reforma operada por la LO 13/2015, de 5 de octubre, el art. 588 bis e) de la LECrim, en su tercer apartado, señala que «transcurrido el plazo por el que resultó concedida la medida, sin haberse acordado su prórroga, o, en su caso, finalizada ésta, cesará a todos los efectos».
+
+De la interpretación de este precepto, subrayado por el recurrente como fundamento de su queja, se ha ocupado la STS 537/2018, 8 de noviembre. En su FJ 15.a) decíamos lo siguiente:
+
+...Que se acabase el plazo de una intervención sin solicitar la prórroga por haberlo omitido inadvertidamente la policía y volver a interesar por tal razón unos días después la misma intervención, habiéndose respetado escrupulosamente el cese, no es una irregularidad. Nada se opone a ese tipo de actuación si persisten los indicios para mantener la intervención. No caduca la posibilidad de intervención porque haya finalizado el plazo de la autorización sin pedirse prórroga. La nueva intervención puede ser, en contra de lo que dice uno de los recurrentes y siempre que sea fundada, una forma de remediar la omisión indebida de la petición de prórroga
+
+.
+
+17.2.4.-Nuestro sistema constitucional no asocia la expiración de un plazo temporal de injerencia a la nulidad de todo lo actuado. Sobrepasar el período de tiempo fijado por el Juez como límite habilitante puede afectar a la eficacia de lo que en ese período ha podido investigarse, pero no genera una infracción estructural que aboque necesariamente a la nulidad, como sugiere la defensa.
+
+Las resoluciones judiciales dictadas por el Juez instructor -como ya hemos razonado en el FJ 4 de esta misma resolución- cumplían las exigencias constitucionales de idoneidad, necesidad y proporcionalidad. Los indicios objetivos que justificaron judicialmente la intromisión de los investigadores en el derecho a la inviolabilidad de las comunicaciones eran persistentes y seguían conectados a la investigación de delitos de especial gravedad. Las resoluciones que ahora cuestiona la defensa se adscribían a una finalidad legítima, la misma finalidad que estaba en el origen de la decisión inicial. De ahí que los autos que acordaron la prórroga en la injerencia, si bien se mira, no precipitaron una medida ex novo,sino que prolongaron una situación jurídica válidamente constituida. La existencia de un breve y limitado desajuste cronológico no puede traer como consecuencia la pretendida declaración de ilicitud probatoria.
+
+Es correcto el criterio del órgano de apelación cuando sostiene que «... lo único que pudiera plantearse es la validez en su caso de lo intervenido en dichos lapsos sin auto autorizante».Pero nada de esto reivindica la defensa, que no subraya ningún dato conocido y aprovechado por los investigadores que haya sido obtenido en esos brevísimos períodos de desfase cronológico.
+
+La desestimación del motivo resulta obligada ( art. 885.1 de la LECrim).
+
+-El tercer motivo se hace valer por vulneración de la inviolabilidad del domicilio y del derecho a un proceso con todas las garantías, por comienzo de la entrada y registro antes de la hora autorizada ( art. 18.2 CE; arts. 5.4 y 11.1 LOPJ; art. 852 LECrim).
+
+18.1.-Sostiene la defensa que la habilitación judicial delimita la injerencia domiciliaria, también en su dimensión temporal. La sentencia recurrida, sin negar los hechos, limitándose a ofrecer una racionalización de la actuación policial, valida la entrada pese a que los agentes accedieron a los inmuebles sobre las 06,15 horas, mucho antes de las 07,00 horas, momento a partir del cual, y solo a partir de él, se autorizaba judicialmente la injerencia. La sentencia del Tribunal Superior de Justicia, en sus hechos probados, reconoce la entrada extemporánea. En la finca de DIRECCION007, de igual forma, la propia secuencia temporal acredita que los agentes ya estaban actuando en el interior cuando la Letrada de la Administración de Justicia llegó a las 07'04 horas, lo que implica necesariamente que el acceso se produjo antes de la hora fijada. Cabe recordar que no existe en la causa discrepancia sobre este extremo: todos los agentes reconocieron en el acto del juicio oral que el aseguramiento y la penetración inicial se llevaron a cabo con anterioridad al margen temporal habilitado judicialmente, alegando razones operativas y de seguridad que el auto no contempla. Y, por supuesto, en ambos casos sin rastro de la intervención de los GEO en las actas levantadas al efecto por los Letrados de la Administración de Justicia.
+
+18.2.-La queja acerca de la posible vulneración del derecho a la inviolabilidad domiciliaria ha obtenido ya respuesta en los FFJJ 5 y 6 de esta misma resolución. A lo allí razonado nos remitimos.
+
+En apoyo de la petición de nulidad, el argumentario del recurrente se enriquece ahora con la cita de la STC 94/1999, 31 de mayo. Sin embargo, este precedente no contempla, desde luego, la anticipación en 45 minutos de un registro por razones de seguridad, como sucedió en el caso que centra nuestra atención. De lo que se trataba entonces era de validar un segundo registro practicado un día después con el pretendido apoyo de la resolución inicial que hizo posible el primero de ellos. La transcripción del FJ 5º de la sentencia señalada por la defensa resulta de especial interés:
+
+... La lectura de las actuaciones, más concretamente la del relato fáctico de la sentencia impugnada, nos lleva a afirmar, en contra del criterio expresado por la sentencia de casación, que se llevaron a efecto dos registros, y no uno solo realizado en dos fases.
+
+Tal afirmación encuentra sustento en dos datos básicos: en primer lugar, las circunstancias concurrentes en el registro cuestionado eran muy distintas de las que se daban en el inicial: en oposición a los datos con que se contaba el día anterior, tal y como fueron puestos de manifiesto ante el juez, el día 16 Nov. uno de los sospechosos de ser arrendatario de la vivienda se hallaba no sólo identificado sino detenido; la policía, aunque mantenía dudas al respecto, conoció a través del portero de la vivienda, quiénes eran los usuarios habituales de la misma; se habían encontrado en el primer registro documentos que vinculaban al recurrente con la vivienda -sus fotografías y el contrato de alquiler-, y se contaba, además, con el dato negativo de no haber hallado ninguna cantidad de droga en el registro anterior. Además, la razón de ser del segundo registro fue una nueva confidencia que confirmaba la presencia de la droga en el lugar ya infructuosamente registrado.
+
+Este conjunto de circunstancias, así como la nueva confidencia recibida, debió ser puesto en conocimiento del JI para que, una vez conocidos los resultados del anterior registro, y a la vista del tiempo ya trascurrido desde su práctica (más de doce horas), sopesara su entidad y suficiencia a efectos de alzar nuevamente la inviolabilidad domiciliaria. Por esta razón, cabe concluir que la resolución judicial inicial, cualquiera que fuera la hora en que el segundo registro se efectuase y cualesquiera que sean las diversas interpretaciones posibles acerca de su extensión temporal, no era apta para alzar por segunda vez, conforme a la CE, inviolabilidad domiciliaria del recurrente
+
+.
+
+Fueron estas circunstancias, no un obligado desfase cronológico vinculado a fundadas razones de seguridad, las que llevaron al Tribunal Constitucional a declarar la nulidad del registro practicado y a otorgar el amparo. Las razones se justifican por sí solas:
+
+Los funcionarios policiales omitieron someter a valoración judicial estas nuevas razones y circunstancias supliéndola por su propio criterio, y violentaron, así, el art. 18.2 CE al sortear la garantía judicial en la limitación del derecho fundamental (TC S 160/1991), y con ella el instrumento de tutela que la CE ha arbitrado para protegerlo. La estimación de tal vulneración, acaecida en la fase preliminar de investigación de un delito, nos obliga ahora a determinar su alcance en el proceso penal subsiguiente, lo que enlaza con las alegadas lesiones del derecho a un proceso con todas las garantías, y más allá, del derecho a ser presumido inocente
+
+.
+
+Para reforzar la petición de nulidad de la entrada y registro, también señala la defensa la sentencia de esta Sala 48/2020, en la que habríamos declarado que «...la entrada anticipada, aun por minutos, determina la nulidad de la diligencia al tratarse de una actuación que excede el mandato escrito del auto y vulnera un derecho fundamental».Sin embargo, esa sentencia, fechada el 11 de febrero de 2020, dictada en el recurso de casación núm. 2799/2018, no se pronuncia sobre la legitimidad de un registro practicado fuera de hora, sino sobre un delito contra la seguridad de tráfico, descartando la posibilidad de una tentativa en delitos de peligro abstracto.
+
+También yerra en la cita la referencia a la STC 22/2003, 10 de febrero. En este caso, el Tribunal Constitucional se pronuncia sobre la legitimidad de una entrada y registro en el domicilio del investigado sin otra habilitación que el permiso concedido por la esposa del morador que, a su vez, era víctima del delito investigado. No hay, por tanto, referencia alguna a los problemas que fueron abordados en la sentencia recurrida.
+
+Se desestima el motivo ( art. 885.1 de la LECrim).
+
+-El motivo cuarto reitera la queja acerca de la vulneración del derecho al a inviolabilidad del domicilio y a un proceso con todas las garantías ( arts. 18.2 y 24.2 de la CE), que se habrían violentado con ocasión del registro practicado en la nave de DIRECCION003.
+
+19.1.-La vulneración de alcance constitucional se habría producido por el hecho de haber registrado la nave en la que fueron halladas importantes piezas de convicción, sin haber obtenido la previa autorización judicial indispensable para la legitimidad de la diligencia. Se impone -alega la defensa- la declaración de nulidad a que obliga el art. 11.1 de la LOPJ.
+
+No existía flagrancia, ni se estaba cometiendo delito en ese instante, ni concurría peligro inmediato de destrucción de pruebas, ni circunstancia objetiva que impidiera solicitar autorización judicial previa. La policía accedió a la nave sin auto alguno, basándose exclusivamente en criterios operativos y en la dinámica interna de la investigación, no en una necesidad real e ineludible.
+
+19.2.-Está fuera de discusión el hecho de que allí donde haya un espacio de titularidad o uso privado destinado al desarrollo de las funciones propias de la vida doméstica, la injerencia del Estado exige previa habilitación judicial, más allá de la legitimidad que confiere a esa entrada el consentimiento del morador o la flagrancia del delito. Así lo ha proclamado la jurisprudencia constitucional y así lo hemos señalado en numerosos precedentes de esta Sala, en estricta aplicación del derecho reconocido en el art. 18.2 de la CE.
+
+En el FJ 6º damos respuesta a la alegación de otros recurrentes que también han impugnado la legalidad constitucional de la irrupción de los agentes en la nave industrial de DIRECCION003. Ahí reflejamos las razones que justifican el rechazo del motivo ( art. 885.1 de la LECrim).
+
+-El quinto motivo anuncia, al amparo de los arts. 18.1 de la CE, 5.4 de la LOPJ y 852 de la LECrim, vulneración del derecho a la intimidad personal y familiar.
+
+20.1.-La captación de imágenes mediante dispositivos aéreos -drones u otros medios de filmación aérea- sin que existiera previa autorización judicial, pese a que dichas imágenes tuvieron relevancia directa en la configuración de los indicios que sustentaron las posteriores diligencias de registro y la propia valoración probatoria de la sentencia recurrida, vulneró la protección constitucional, al no haber sido autorizada mediante resolución judicial.
+
+La Sala de apelación ha validado esta actuación policial afirmando que se trataba de una actividad de vigilancia ordinaria, cuando en realidad -sostiene la defensa- se trató de una captación de imágenes de espacios privados no visibles desde la vía pública, dotada de una intensidad y permanencia que exceden con mucho la noción de simple observación externa del domicilio.
+
+20.2.-La cuestión suscitada por la defensa del recurrente ya ha sido abordada de forma extensa en el FJ 7 de esta resolución. Los argumentos que allí hemos expuesto son plenamente válidos para justificar el rechazo del motivo.
+
+Baste ahora añadir que unas imágenes obtenidas de una finca de las características de la que fue objeto de investigación, sin otro objetivo que acreditar las plantaciones de marihuana que allí se cultivaban y que no han implicado, en modo alguno, una penetración ilegítima en el espacio de privacidad que el art. 18.2 de la CE garantiza a todo ciudadano, nunca pueden ser etiquetadas como prueba ilícita.
+
+Se desestima el motivo ( art. 885.1 de la LECrim).
+
+-El sexto motivo, con la misma cobertura que el anterior, considera vulnerado el derecho a un Juez imparcial ( art. 24.2 de la CE).
+
+21.1.-Con cita de la jurisprudencia constitucional y del TEDH, en las que se subraya la dimensión del derecho a ser juzgado por un Tribunal imparcial, el recurrente señala como elementos que habrían contribuido a la quiebra de ese presupuesto de legitimidad en el ejercicio de la función jurisdiccional, los siguientes datos: a) interrupciones reiteradas a las defensas mientras exponían cuestiones esenciales; b) aceptación sin contraste de determinadas afirmaciones de la acusación; c) desestimación sistemática de pruebas propuestas por la defensa sin motivación suficiente; e) expresiones que revelaban un juicio anticipado.
+
+21.2.-Esta Sala no puede valorar el alcance de la queja formalizada, pues la defensa se limita a unos reproches generales que no van seguidos de la precisa indicación acerca de qué expresiones, interrupciones o prejuicios serían expresivos de esa pérdida anticipada de imparcialidad. La aceptación de las tesis de la acusación o el rechazo de pruebas propuestas por la defensa no implica, sin más, una pérdida de imparcialidad del órgano decisorio. Todas las alegaciones y propuestas probatorias de las defensas fueron hechas valer en el plenario y rechazadas con una motivación que, gustará o no al recurrente, colma las exigencias impuestas por el canon constitucional. Esas alegaciones, en fin, fueron hechas valer en apelación y están siendo ahora defendidas ante esta Sala.
+
+En el FJ 8 hemos dado respuesta a una queja en idéntica dirección, si bien el motivo formalizado sí transcribía frases concretas reflejadas en la sentencia o actitudes del Tribunal que se reputaban la mejor prueba de la falta de imparcialidad. A lo entonces expuesto nos remitimos.
+
+El motivo no es viable ( art. 885.1 de la LECrim).
+
+-El séptimo motivo se formaliza por vulneración de la presunción de inocencia y del principio de culpabilidad personal, por la condena por tenencia de armas sin prueba de dominio ni individualización de responsabilidad ( arts. 24.2 y 25 de la CE; art. 852 LECrim; arts. 564 y 567 del CP; art. 5.4 de la LOPJ).
+
+22.1.-La sentencia recurrida parte de una premisa -entiende la defensa- incompatible con la jurisprudencia de esta Sala, al atribuir responsabilidad penal general a todos los encausados por el mero hallazgo de las armas en uno de los al menos 15 inmuebles registrados. Su ocupación no permite afirmar dominio material por parte de los acusados, sin que existan elementos incriminatorios directos, ni rastros biológicos, ni datos objetivos que vinculen físicamente dichas armas con los recurrentes.
+
+22.2.-Al dar respuesta en el FJ 10 al motivo interpuesto por Leon y otros recurrentes, hemos consignado las razones por las que la condena a los ahora recurrentes por el delito de tenencia ilícita de armas, no quebranta el derecho a la presunción de inocencia ni el principio de responsabilidad por el hecho propio.
+
+La sentencia de instancia, respaldada en este punto por el Tribunal Superior de Justicia, describe el arsenal que fue hallado a disposición de una organización criminal preparada para defender con las armas el importante alijo de estupefacientes y el metálico que fue intervenido en los registros. Buena parte de esas armas eran custodiadas, precisamente, en el domicilio compartido por los padres del jefe de la organización, Inmaculada y Abelardo. El domicilio de ambos recurrentes era, pues, el lugar de custodia seleccionado por la organización para asegurar su permanente disponibilidad. La declaración en el plenario de los agentes de policía que intervinieron en los vigilancias y seguimiento dio pie a la Audiencia para respaldar con su testimonio esa disponibilidad. El argumento de los recurrentes, basado en que quien no toca las armas no comete el delito,es contrario a las razones que ya han quedado expuestas en el FJ 10 de esta nuestra sentencia, a cuyo contenido nos remitimos.
+
+El motivo no puede prosperar ( art. 885.1 de la LECrim).
+
+-El octavo motivo alega vulneración del derecho al juez predeterminado por la ley, por fraccionamiento indebido de causas (Operación «Silene»),con fundamento en lo arts. 24.2 de la CE, arts. 5, 23 y 65 de la LOPJ y art. 852 de la LECrim.
+
+La lesión del derecho al juez ordinario predeterminado por la ley no se plantea en abstracto, sino con base en un fraccionamiento efectivo de actuaciones conectadas en torno a la denominada Operación «Silene»,cuyo desglose y tramitación separada -pese a su unidad fáctica y conexión objetiva y subjetiva con el núcleo de esta causa- produjo un perjuicio material para la defensa.
+
+La desestimación del motivo está justificada por las mismas razones que han sido expuestas en el FJ 11 de esta resolución. Ahí se encuentran las claves que descartan las vulneraciones de alcance constitucional que sostiene la defensa.
+
+-Con el respaldo del art. 849.1 de la LECrim, el motivo noveno expone la discrepancia de los recurrentes por la indebida aplicación del art. 66 del CP, en la medida en que las penas impuestas permanecieron inalteradas pese a excluir el Tribunal Superior de Justicia la condena inicial por la pertenencia a organización criminal.
+
+24.1.-La jurisprudencia de esta Sala -se alega- ha sido especialmente clara en este punto. El Tribunal Supremo afirma que la exclusión de una agravación -y, con mayor motivo, la exclusión de la organización criminal- impone al Tribunal la obligación de revisar la pena y readecuarla a la nueva realidad jurídica, pues la pena no puede quedar anclada a una circunstancia inexistente.
+
+24.2.-Tiene razón la defensa cuando invoca la jurisprudencia de esta Sala que, de forma reiterada, sostiene que la exclusión de una agravante en apelación o casación obliga a una rectificación de la pena con el fin de reajustar la respuesta a la verdadera intensidad del injusto por el que se ha condenado al recurrente.
+
+Sin embargo, en el presente caso el órgano de apelación no ha declarado la inexistencia del delito de organización criminal, no ha rechazado la pretensión acusatoria formulada en tal sentido por el Ministerio Fiscal, se ha limitado a declarar que su tratamiento penal no es el propio del concurso de delitos, sino del concurso de normas. Por consiguiente, la pena inicialmente impuesta con fundamento en el art. 369 bis del CP permanece inalterada. De hecho, es bien seguro que su duración inicial fue fijada por el Tribunal de instancia tomando en consideración que a esa pena iba a sumar la que, con apoyo en el art. 570 bis, correspondía por la punición separada de ambos delitos. En definitiva, el razonamiento de los recurrentes identifica la rectificación en la regla de punición con la declaración de inexistencia del delito de organización criminal.
+
+Las razones del rechazo del motivo se explicitan con detalle en el FJ 12 de esta resolución.
+
+-El décimo motivo considera indebidamente aplicado el art. 368 del CP. Denuncia el error de subsunción que representa el haber tipificado los hechos como constitutivos de un delito contra la salud pública, pese al ínfimo índice de THC que refleja el análisis químico de la droga aprehendida.
+
+El motivo carece de viabilidad. La Sala ya ha razonado en el FJ 13 la necesidad de descartar el argumento de la falta de concentración del principio activo THC que reivindican los recurrentes. Se impone, pues, una remisión a lo ya abordado con anterioridad. Además, el desarrollo argumental del motivo se aparta del estrecho cauce alegatorio que autoriza el art. 849.1 de la LECrim, adentrándose en consideraciones probatorias basadas en la valoración del informe pericial, tal y como ha sido asumido en la instancia, y en razones ligadas a la no disponibilidad de la droga por los padres del jefe de la organización, en atención al lugar en el que ambos estaban domiciliados.
+
+-El decimoprimer motivo, al amparo del art. 849.1 de la LECrim, denuncia la indebida aplicación de los arts. 564 y 567 del CP, al estimar que los hechos declarados probados no tienen encaje en esos preceptos, en la medida en que, además de no concurrir los elementos típicos exigidos -posesión consciente, dominio funcional o disponibilidad real- falta la imprescindible individualización de la conducta atribuible a cada acusado. No se cuestiona -se alega- la valoración probatoria, sino la corrección jurídica de la subsunción penal.
+
+Pese al confesado propósito de la defensa de enriquecer su desacuerdo con la condena por el delito de tenencia ilícita de armas con argumentos estrictamente ligados a la tipicidad de los hechos, en el FJ 22 de esta resolución, completado por las consideraciones que hemos formulado en el FJ 10, al dar respuesta a otros recurrentes, se expresan las razones para la desestimación de un motivo que, al igual que sucedía con el séptimo de los formalizados, entremezcla consideraciones probatorias y de subsunción.
+
+Se desestima la queja ( art. 885.1 de la LECrim).
+
+-El decimosegundo motivo, al amparo del art. 849.1 de la LECrim, sostiene la indebida aplicación de los arts. 368, 369.1 y 5 y 369 bis 1 y 2 del CP.
+
+27.1.-Defiende el Letrado recurrente que no es admisible una aplicación «por arrastre»de agravaciones a partir de consideraciones genéricas, pues ello vulnera el principio de legalidad y el mandato de tipicidad estricta. Si el Tribunal acude a un marco agravado, debe justificar de manera separada y comprobable qué elemento típico concurre y cuál es su soporte probatorio.
+
+En el caso presente, la Sentencia recurrida mantiene la subsunción en el marco agravado sin ofrecer una motivación propia y diferenciada que explique por qué resultan concurrentes, en los términos exigibles, las circunstancias agravatorias previstas en los apartados invocados, limitándose a una afirmación conclusiva o a razonamientos generales que no se traducen en un anclaje correcto en los hechos probados.
+
+27.2.-La queja que hace valer la defensa no se atiene a una discrepancia con el juicio de tipicidad. Es expresiva de un reproche por falta de motivación que la Sala, como ya ha expresado en anteriores fundamentos, no detecta. Basta una lectura del juicio histórico para concluir que la subsunción jurídica de los hechos declarados probados, tal y como ha sido afirmada en la instancia y adverada en la apelación, es incuestionable.
+
+El delito contra la salud pública tiene como respaldo fáctico las importantes cantidades de droga que fueron halladas en los distintos escenarios controlados por la organización. La existencia de una organización criminal -y de su jefatura- está también nítidamente descrita en el relato de hechos probados sobre el que se ha construido su calificación jurídica con encaje en los arts. 368, 369.1 y 5 y 369 bis 1 y 2 del CP:
+
+...El procesado Leon, alias " Bucanero", lideraba el clan familiar Ceferino, proveniente de Méjico, integrado por miembros de su familia extensa: sus padres los procesados Abelardo y Inmaculada; su hermano el procesado Luis; sus tíos el procesado Teodosio, el procesado Zulima, y el procesado Benigno; su primo el procesado Leoncio, y el procesado Inocencio; por otros ciudadanos de origen Mejicano que al tiempo habían prestado servicios a su persona en Méjico traslados a España con el mismo cometido, como el procesado Cipriano, el procesado Pedro Antonio y el procesado Abel; y otros ciudadanos de origen español trabajadores al servicio del clan familiar como el procesado Benito y el procesado, subinspector de Policía Nacional Raimundo. Todos ellos integraban dicha organización formando una trama constituida y estructurada a merced a las relaciones personales y medios materiales dispuestos por ellos, que tenía como finalidad última y exclusiva, el cultivo, elaboración y distribución de marihuana a través de cultivos indoor, y la elaboración y fabricación de cocaína, dedicándose concertadamente tanto en el propósito como en la acción, a obtener un provecho económico irregular según reglas de reparto que más adelante se determinaran, de una manera organizada, estable y con una duración indefinida, con fines de cultivo, elaboración, adquisición, manipulación y distribución a favor de terceras personas de sustancias estupefacientes, concretamente marihuana y cocaína a gran escala, utilizando para ello naves e invernaderos indoor, a cambio de un precio, desentendiendo el cierto y grave menoscabo que su consumo causaba a los destinatarios últimos, consecuencias que bien conocían, anteponiendo su afán de enriquecimiento individual, para distribuir a nivel nacional y europeo, estableciendo contactos con miembros de otras organizaciones, como ciudadanos de origen chino o individuos de la DIRECCION035 (Madrid) vinculados al tráfico de sustancias estupefacientes
+
+.
+
+La cocaína intervenida en el registro practicado en el domicilio sito en DIRECCION020, de Guadalajara, en la finca de la DIRECCION010 de DIRECCION004 (Madrid), en la finca de la DIRECCION022 en la localidad de DIRECCION023 (Madrid); la marihuana aprehendida en la finca de la DIRECCION021 de la localidad de DIRECCION005 (Madrid); y la cocaína y hachís que fueron hallados en la nave industrial DIRECCION011 sita en DIRECCION012 de la localidad de DIRECCION003 (Madrid), hablan por sí solo del acierto de la sentencia recurrida al confirmar la tipicidad de los hechos tal y como fue apreciada por la Audiencia, con el consiguiente encaje en los arts. 368 y 369.1 y 5 del CP.
+
+Se rechaza el motivo ( art. 885.1 de la LECrim).
+
+-La denegación de pruebas esenciales, con apoyo en los arts. 24.2 de la CE y 851.1 de la LECrim, dan vida al decimotercer motivo, en el que se reacciona frente al rechazo para la práctica de pruebas que, a juicio de la defensa, habrían sido determinantes para acreditar el carácter prospectivo de la investigación, la errónea composición química de la droga y la inocencia de los recurrentes.
+
+28.1.-Las pruebas que fueron indebidamente rechazadas -afirman los recurrentes- fueron periciales y testificales, entre ellas la ampliación de determinados informes técnicos, la declaración de agentes intervinientes en la fase de aseguramiento de los domicilios y la ratificación de informes periciales sobre la naturaleza y composición del material vegetal y sobre la ausencia de rastros identificativos en las armas intervenidas.
+
+Todas estas pruebas -se alega- eran pertinentes y necesarias para determinar hechos esenciales relacionados, entre otros extremos, con la licitud de los registros, la composición química real de la sustancia intervenida, la inexistencia de hallazgos balísticos atribuibles a los acusados y el análisis crítico de la actuación policial. Su práctica era relevante para contrastar los elementos incriminatorios y para reforzar las alegaciones de la defensa dirigidas a demostrar la ilicitud de diligencias de investigación, la falta de aptitud psicotrópica del cannabis incautado y la ausencia de prueba directa de dominio de las armas halladas.
+
+28.2.-Buena parte de la propuesta probatoria que el Letrado considera indebidamente rechazada coincide con la queja formulada en el mismo sentido por los anteriores recurrentes, que ya obtuvo respuesta en el FJ 2.1 de esta resolución. Se impone, por tanto, el mismo ejercicio de remisión sistemática, con el fin de no caer en reiteraciones innecesarias.
+
+Ahora es suficiente con recordar que el rechazo de la sentencia que es objeto del presente recurso a esas diligencias de prueba estuvo expresamente justificado por el hecho de que ninguna de ellas fue propuesta en la fase de apelación. Se prescindió así de la oportunidad que ofrece el art. 790.3 de la LECrim, según el cual «en el mismo escrito de formalización podrá pedir el recurrente la práctica de las diligencias de prueba que (...) propuestas le fueron indebidamente denegadas, siempre que hubiera formulado en su momento la oportuna protesta...».
+
+Se olvida, en definitiva, que conforme al art. 311 de la LECrim, el Juez de instrucción practicará aquellas diligencias que les propusieran el Fiscal y cualquiera de las partes, siempre que resultaran pertinentes. La batería probatoria que reivindica la defensa, ahora ya en el procedimiento casacional, participa de la naturaleza que es propia de genuinas diligencias de investigación. Todas ellas pudieron haber sido solicitadas y, en el momento en el que fueron denegadas, deberían haber sido reiteradas al formalizar el recurso de apelación. Al margen de lo expuesto, la finalidad de esas diligencias, tal y como argumenta el recurrente para justificar su pertinencia, se enlaza con argumentos que ya se han hecho valer en otros motivos casacionales. De ahí que proceda ahora su desestimación ( art. 885.1 de la LECrim).
+
+RECURSO DE Benigno.
+
+-El primero de los motivos denuncia falta de motivación suficiente de la sentencia de apelación, con la consecuente vulneración de los derechos a la tutela judicial efectiva ( art. 24.1 de la CE) y del deber de motivación ( art. 120.3 de la CE).
+
+29.1.-Con cita de la jurisprudencia constitucional y de esta Sala acerca del deber de motivación, la defensa invoca que la Sala de apelación eludió un pronunciamiento razonado sobre cuestiones esenciales planteadas por la defensa -como la posible duplicidad de investigaciones, o la validez y licitud de determinadas actuaciones probatorias-, omitiendo el examen crítico de la sentencia de instancia que resulta exigible en la segunda instancia penal.
+
+29.2.-La queja del recurrente no puede obtener el apoyo de esta Sala. Es indudable que la motivación de las resoluciones judiciales representa un presupuesto de legitimidad del ejercicio mismo de la función jurisdiccional. Sin embargo, la lectura de la sentencia que es objeto del presente recurso no abandona el cumplimiento de este mandato constitucional.
+
+Acerca de la duplicidad de las investigaciones -hecho que inspira, con otro formato, motivos invocados por distintos recurrentes- el Tribunal Superior de Justicia se pronuncia de forma inequívoca, tal y como hemos descrito en el FJ 11, con especial detenimiento en el FJ 11.3, de esta resolución y completado en el FJ 23.
+
+Lo mismo acontece con la cuestionada validez de determinadas pruebas, que también han obtenido respuesta. Así sucede con la reivindicada nulidad de las escuchas telefónicas o de la entradas y registros practicadas en las ubicaciones controladas por la organización. La lectura de los FFJJ 4, 5, 6, 17, 18, y 19 de nuestra sentencia justifican la suficiencia de la motivación esgrimida por el Tribunal Superior de Justicia.
+
+El espacio funcional que es propio del ámbito de conocimiento del Tribunal Superior de Justicia se define mejor con la idea de fiscalizaciónque con la de revaloraciónde lo resuelto en la instancia. Se condiciona así el deber y la propia extensión de la motivación. Lo que se espera del órgano de apelación no es que deconstruyala sentencia de instancia y sobre sus restos reconstruyasu propia motivación. Es perfectamente posible justificar la corrección de lo decidido en la instancia mediante una reproducción literal de sus fundamentos, subrayando así la ausencia de cualquier explicación irracional o incongruente. Y, a partir de ahí, completar la línea argumental que se valida con una glosa -breve o extensa- que enfatice su corrección.
+
+En nuestra STS 1193/2010, 24 de febrero, con cita de la jurisprudencia constitucional, recordábamos que el deber de motivación de las resoluciones judiciales no autoriza a exigir un razonamiento jurídico exhaustivo y pormenorizado de todos los aspectos y perspectivas que las partes puedan tener de la cuestión que se decide o, lo que es lo mismo, no existe un derecho del justiciable a una determinada extensión de la motivación judicial ( SSTC 14/1991, 175/1992, 105/1997, 224/1997), sino que deben considerarse suficientemente motivadas aquellas resoluciones judiciales que contengan, en primer lugar, los elementos y razones de juicio que permitan conocer cuáles han sido los criterios jurídicos esenciales fundamentadores de la decisión, es decir, la ratio decidendique ha determinado aquélla ( STC 165/1999, de 27 de septiembre) y, en segundo lugar, una fundamentación en Derecho ( SSTC 147/1999, de 4 de agosto, y 173/2003, de 29 de septiembre).
+
+Se desestima el motivo ( art. 885.1 de la LECrim).
+
+-El segundo motivo estima, al amparo de los arts. 5.4 de la LOPJ y 852 de la LECrim, la vulneración del derecho al secreto de las comunicaciones y a un proceso con todas las garantías ( art. 18.3 y 24.2 de la CE).
+
+-Las alegaciones que respaldan la queja tienen plena coincidencia con los argumentos hechos valer por los anteriores recurrentes y que ya han obtenido adecuada respuesta en los FFJJ 4, 5, 17 y 18. A lo allí resuelto nos remitimos, extendiendo también al que ahora se formaliza el efecto desestimatorio ( art. 885.1 de la LECrim).
+
+-Las mismas razones llevan a la desestimación del motivo tercero, en el que se denuncia la nulidad probatoria de las diligencias de entrada y registro por la anticipada entrada de los GEOS en el lugar en el que iba a practicarse la diligencia. Los FFJJ 5 y 18 de esta resolución permiten encontrar las claves del rechazo del motivo.
+
+-La entrada en la nave industrial de DIRECCION003, practicada por los agentes de policía sin contar con autorización judicial -alegación que inspira el cuarto de los motivos- ha sido también abordada por esta Sala en los FFJJ 6 y 19. De ahí que, con los mismos argumentos, desestimemos la censura del recurrente ( art. 885.1 de la LECrim).
+
+-La utilización de drones que sobrevolaron la finca en la que fue hallada la plantación de marihuana y que permitió aportar a la causa fotografías obtenidas sin autorización judicial, habría dado lugar a la nulidad de la prueba, según se sostiene en el quinto de los motivos que formaliza la defensa. Sin embargo, también ahora se impone una remisión a lo ya resuelto por la Sala en los FFJJ 7 y 20.
+
+-La falta de imparcialidad del tribunal sentenciador sirve de fundamento al sexto motivo, al estimar violado el derecho fundamental que consagra el art. 24.2 de la CE. La solución ofrecida por la Sala a esta alegación en los FFJJ 8 y 21 adquieren ahora pleno valor para desestimar la queja ( art. 885.1 de la LECrim).
+
+-El motivo séptimo también permite la remisión a lo ya tratado al resolver la misma alegación hecha valer por otros recurrentes. Se invoca la vulneración de la presunción de inocencia y del principio de culpabilidad personal en la condena por el delito de tenencia de armas, sin prueba de dominio ni individualización de responsabilidad ( arts. 24.2 y 25 de la CE; art. 852 de la LECrim; arts. 564 y 567 del CP y art. 5.4 de la LOPJ).
+
+Razona la defensa que la condición de progenitores no permite inferir por sí sola conocimiento, dominio o participación, que sólo podrán afirmarse mediante datos objetivos individualizadores que aquí no concurren.
+
+Tiene razón la defensa, una condena por el delito de tenencia ilícita de armas que se vinculara exclusivamente a los lazos familiares entre los recurrentes y el jefe de la organización quebrantaría de forma irreparable el derecho constitucional a la presunción de inocencia. Sin embargo, no es éste el fundamento de la condena impuesta en la instancia y avalada en la apelación. Buena parte de las armas -un verdadero arsenal- fue hallada en el inmueble en el que tenían su domicilio los padres de Leon. La custodia de esas armas por los recurrentes garantizaba su disponibilidad para la organización. El delito previsto en los arts. 564 y 567 del CP, conforme a la jurisprudencia que ha sido anotada en los FFJJ 10 y 22, no exige un contacto material con las armas. La posesión inmaterial, su efectiva disponibilidad, derivada de la proximidad que da su custodia, colma también las exigencias del tipo.
+
+Procede la desestimación del motivo ( art. 585.1 de la LECrim).
+
+-El motivo octavo denuncia, con la misma cobertura que los precedentes, la vulneración del derecho al juez predeterminado por la ley y por fraccionamiento indebido de causas (Operación «Silene»)( arts. 24.2 de la CE; 23 y 65 de la LOPJ; 5.4 de la LOPJ y 852 de LECrim).
+
+Una vez más, se impone una remisión a lo ya tratado en los FFJJ 11 y 23, al dar respuesta a esta misma alegación suscrita por otros recurrentes. Ahí se expresan las razones que llevan a la desestimación del presente motivo.
+
+-Por infracción de ley, al amparo del art. 849.1 de la LECrim, el noveno motivo alega la infracción del art. 66 del CP, al haberse mantenido inalteradas las penas pese a la anulación de la condena por el delito de organización criminal.
+
+El rechazo del motivo se explica por las mismas razones que han quedado reflejadas en los FFJJ 12 y 14 de esta resolución, a cuyo contenido nos remitimos.
+
+-En el décimo motivo, también por infracción de ley ( art. 849.1 de la LECrim), estima la defensa que se ha infringido el art. 368 del CP, a la vista del ínfimo índice de THC que presentaba la marihuana de la que se incautaron los agentes de policía que practicaron los registros.
+
+39.1.-La queja que hace valer la defensa, con minuciosa cita de la jurisprudencia de esta Sala acerca de los niveles de toxicidad en derivados del cannabis, ha sido también abordada en los FFJJ 13 y 25. Su lectura permite entender las razones del rechazo del motivo.
+
+Conviene ahora insistir, más allá de las razones que la sentencia recurrida explica para justificar el porqué de esos índices de THC, que la organización criminal de la que formaban parte los acusados controlaba, además, importantes cantidades de cocaína que, por su condición de sustancia que causa grave daño a la salud, absorbe el desvalor de la tenencia de la plantación de cannabis que también controlaban y, por sí sola, justifica el juicio de tipicidad que cuestiona el motivo.
+
+Así se desprende del juicio histórico cuando describe que «...en el registro de la nave sita en DIRECCION003 141,61 (fueron hallados) gramos de cocaína con una riqueza media de 75,2 gramos y elementos y útiles compatibles con un laboratorio de cocaína; en el registro del domicilio sito en la DIRECCION020 6,69 gr. De cocaína, con una riqueza media de 77, 93 gr; en el registro de la finca de la urbanización de DIRECCION004 una caja con 37 ladrillos de cocaína, con una riqueza media de 74,3 por ciento y un peso total de 39,237 Kg)».
+
+39.2.-Además de la coincidencia argumental con otros recurrentes, el motivo añade que tanto en la vivienda de Zulima ( DIRECCION020 de Guadalajara), como en la vivienda de Abelardo y Inmaculada (la finca de DIRECCION007) no se halló sustancia estupefaciente, con la excepción en esta finca de unas pocas plantas de marihuana que podrían pertenecer a algún empleado. Es más -se alega-, ninguna de estas tres personas fue detenida en la vivienda de Leon que, además, no era un lugar que frecuentaran habitualmente y, de hecho, no existe ni un solo informe policial que les localice en esa vivienda. Fueron detenidos en sus propios domicilios.
+
+Es evidente que este tipo de consideraciones tiene un trasfondo probatorio que desborda el estricto marco procesal que define el art. 849.1 de la LECrim. La crítica al juicio de subsunción, que es lo que autoriza esta vía casacional, no permite añadir razones ligadas a la prueba de los hechos, tal y como han sido proclamados en la instancia.
+
+-El decimoprimer motivo también sugiere el error en la aplicación de una norma sustantiva de carácter penal ( art. 849.1 de la LECrim), al considerar indebidamente aplicados los arts. 564 y 567 del CP.
+
+40.1.-La defensa anticipa que no cuestiona la valoración probatoria en sí misma, sino la corrección jurídica de la subsunción penal efectuada. La ausencia de indicios técnico-individualizadores (huellas / ADN) refuerza que no concurre el presupuesto típico de posesión o disponibilidad exigible.
+
+Ninguno de los acusados tenía el más mínimo conocimiento de la existencia de esas armas en la finca. No hay ni la más mínima referencia en ninguno de los informes policiales a que hicieran uso de arma alguna o mención a las mismas. Por esta razón, su presunción de inocencia no quedó desvirtuada a lo largo del procedimiento, ni tan siquiera en el acto del juicio oral. No concurre, por tanto, el presupuesto típico de posesión consciente o disponibilidad real exigido por los artículos 564 y 567 CP. La subsunción se apoya en una atribución expansiva e indiferenciada que resulta jurídicamente improcedente.
+
+40.2.-El Letrado que formaliza el recurso, bien armado en la cita de la jurisprudencia de esta Sala, sin embargo, no es fiel al enunciado que encabeza el motivo, pues anticipando que sólo va a limitarse a demostrar el error en la aplicación de los arts. 564 y 567, su discurso se vuelve a centrar en consideraciones probatorias que, como venimos apuntando, superan el marco formal que autoriza la vía casacional que autoriza el art. 849.1 de la LECrim.
+
+Se incurre así en la causa de inadmisión -ahora desestimación- prevista en los arts. 884.3 y 4 de la LECrim.
+
+-El decimosegundo motivo, con cita del art. 849.1 de la LECrim, denuncia la indebida aplicación de los arts. 368, 369.1.5 y 369.1 y 2 del CP.
+
+El desarrollo argumental de la queja vuelve a incurrir en el defecto que conduce necesariamente a la desestimación del motivo. Como es sabido, el art. 849.1 de la LECrim exige como presupuesto metódico la aceptación del hecho probado, como punto de partida para hacer valer el argumentario mediante el que se pretende justificar el desacuerdo.
+
+La defensa se aparta de esta exigencia.
+
+Como indicábamos en las SSTS 1010/2025,10 de diciembre; 652/2025, 8 de julio; 986/2024, 7 de noviembre y 746/2023, 5 de octubre, con cita de la STS 684/2021, 15 de septiembre, el recurso de casación cuando se articula por la vía del artículo 849.1 ha de partir de las precisiones fácticas que haya establecido el Tribunal de instancia, por no constituir una apelación ni una revisión de prueba. Se trata de un recurso de carácter sustantivo penal cuyo objeto exclusivo es el enfoque jurídico que, a unos hechos datos, ya inalterables, se pretende aplicar, en discordancia con el Tribunal sentenciador. La técnica de la casación penal exige que en los recursos de esta naturaleza se acepten los hechos que se declaren probados en la sentencia recurrida, ya que el ámbito propio de este recurso queda limitado al control de la juridicidad, o sea, que lo único que en él se puede discutir es si la subsunción que de los hechos hubiese hecho el Tribunal de instancia en el precepto penal de derecho sustantivo aplicado es o no correcta jurídicamente, de modo que la tesis del recurrente no puede salirse del contenido del hecho probado. En definitiva, no puede darse una versión de los hechos en abierta discordancia e incongruencia con lo afirmado en los mismos, olvidando los motivos acogidos al artículo 849.1º de la LECrim ha de respetar fiel e inexcusablemente los hechos que como probados se consignan en la sentencia recurrida (en el mismo sentido, cfr. SSTS 849/13, 12 de noviembre y 614/22 22 de junio, entre otras muchas).
+
+Se desestima el motivo ( arts. 884.3 y 4 de la LECrim).
+
+-El último de los motivos, que sistemáticamente habría sido aconsejable que encabezara el listado de los que han sido formalizados, por imponerlo así los arts. 901 bis a) y 901 bis b) de la LECrim, reitera la queja que ya han reivindicado otros recurrentes, concretamente la denegación de pruebas que se consideran indispensables para la valoración de los hechos inicialmente imputados ( arts. 851.1 de la LECrim y 24.2 de la CE).
+
+Se alude así a la ampliación de determinados informes técnicos, la declaración de los agentes intervinientes en la fase de aseguramiento de los domicilios y la ratificación de informes periciales sobre la naturaleza y composición del material vegetal, así como sobre la ausencia de rastros identificativos en las armas intervenidas
+
+En los FFJJ 2.1 y 28, la Sala ya ha expresado las claves para la desestimación de este decimotercer motivo. A lo razonado nos remitimos.
+
+RECURSO DE Benito.
+
+-Los motivos primero a octavo, formalizados al amparo de los arts. 5.4 de la LOPJ y 852 de la LECrim, presentan una similitud impugnativa con el razonamiento hecho valer por otros recurrentes que permite la remisión a lo que ya esta Sala ha resuelto en los FFJJ 3, 29, 43, 4, 17, 5, 18, 6, 19, 7, 20, 10, 22, 11, 21, 12 y 14, ordenados conforme a la sistemática que refleja el recurso.
+
+Respecto de aquellos otros motivos que toman como cobertura el art. 849.1 de la LECrim, las razones para la desestimación de la aplicación de la atenuante de dilaciones indebidas se expresan en el FJ 15. La errónea subsunción de los hechos en el art. 368 del CP al tratarse de un cannabis con un índice de THC inferior al 2% también ha sido tratada y descartada en los FFJJ 13 y 25.
+
+Las claves para la desestimación del recurso que se formaliza el ordinal decimocuarto, por quebrantamiento de forma, al amparo del art. 850.1 de la LECrim, ya han sido expuestas en los FFJJ 2.1, 28 y 42.
+
+43.1.-Sin perjuicio de la obligada remisión a la fundamentación jurídica ya expuesta y desarrollada en los apartados a los que hemos hecho referencia, la Sala quiere dar respuesta a alegaciones individualizadas que subraya la defensa respecto de Benito.
+
+Así, en el séptimo motivo, se razona que no existe prueba que justifique el conocimiento por parte de Benito de la existencia de esas armas y, sobre todo, que carecía de disponibilidad. La sentencia -se aduce- habría aplicado un razonamiento extensivo analógicamente prohibido, según el cual, como todos integraban una organización criminal, se les hace responsables de todas las armas halladas en la órbita del grupo.
+
+No es éste el razonamiento que el Tribunal Superior de Justicia ha avalado. El recurrente era trabajador de la finca de DIRECCION007, realizaba labores de mantenimiento, distribución y envasado de la sustancia estupefaciente. Actuaba a las órdenes del líder Abelardo y bajo el control del otro procesado Zulima, supervisaba a los demás trabajadores. Participó también en el almacenaje y traslado de la droga incautada en la Nave DIRECCION012 del Polígono Industrial DIRECCION011 de la localidad de DIRECCION003 (Madrid), además de contactar con otros clanes u organizaciones dedicadas a la compraventa de sustancias en España negociando con ellas el precio, la cantidad y demás condiciones.
+
+El arsenal del que disponía la organización fue hallado, precisamente, en la finca en la que trabajaba el acusado, en la que asumía todo el proceso de mantenimiento hasta la distribución de la droga. En ese contexto, la conclusión del Tribunal Superior de Justicia cuando atribuye la posesión/disponibilidad de esas armas a todos los miembros de la organización no parece, desde luego, incoherente. En los FFJJ 10 y 22, la Sala deja constancia de las razones por las que ha hecho suya la valoración de la Audiencia Provincial y adverada por el Tribunal Superior de Justicia.
+
+43.2.-En el motivo undécimo, con la cobertura del art. 849.1 de la LECrim, se reacciona frente a lo que considera la defensa una indebida aplicación de los arts. 66 y 72 del CP, por la imposición de una pena superior a la debida.
+
+Se alega que el tribunal de instancia aplicó de facto un agravamiento no probado, atribuyendo a Benito un rol de especial relevancia en los hechos, y no motivó adecuadamente tal incremento de punibilidad, incurriendo con ello en infracción de ley ( arts. 66 y 72 CP) y en vulneración del derecho a un proceso con garantías ( art. 24.1 CE).
+
+El motivo tiene que ser rechazado.
+
+La rebaja de pena derivada de la anulación por el Tribunal Superior de Justicia de la punición autónoma del delito de organización criminal, como ya hemos razonado en los FFJJ 12 y 14, no implica, sin más, la rebaja de la pena impuesta. El órgano de apelación no ha dado por no probada la pertenencia de Benito a esa organización. Se ha limitado a alterar la regla de punición, que debe resolverse con arreglo al concurso de normas, no el concurso de delitos.
+
+Dicho lo anterior, una vez rectificado el criterio de punición, el Tribunal Superior de Justicia mantuvo las penas impuestas al recurrente en la mínima extensión. No hay, pues, razones, para una rectificación a la baja que carecería de cualquier cobertura. Es constante nuestra jurisprudencia cuando apunta que el proceso de motivación de la pena finalmente impuesta es más exigible en aquellos casos en los que el Tribunal, sin una explicación razonada, se aleja de la previsión mínima fijada por el legislador. Hemos dicho que la individualización corresponde al tribunal de instancia, que ha de proclamar un criterio interpretativo de forma que, en el marco de la casación, la cuestión de la cantidad de la pena sólo puede ser planteada cuando haya recurrido a fines de la pena inadmisibles, haya tenido en consideración factores de la individualización incorrectos o haya establecido una cantidad de pena manifiestamente arbitraria o desproporcionada ( SSTS 324/2025, 7 de abril; 390/1998, 21 de marzo y 56/2009, 3 de febrero). En la medida en que se aleje del mínimo legal se hará más patente la necesidad de explicar fundadamente la razón de la pena que se impone, motivación que en su corrección es controlable en casación por la vía de la corriente infracción de ley ( SSTS 1478/2001, 20 de julio y 56/2009, 3 de febrero; 1099/2004, 7 de octubre).
+
+Con independencia de lo expuesto, la defensa desborda con consideraciones probatorias lo que tenía que ser un razonamiento centrado exclusivamente en las razones jurídicas que evidenciarían el error en la subsunción aplicada por el Tribunal.
+
+43.3.-Igual rechazo merecen las alegaciones que centran el motivo decimosegundo, que denuncia la indebida aplicación de los arts. 368, 369.1 y 5, 369 bis y 570 bis 1 y 2 del CP.
+
+En realidad, se reacciona frente a lo que la defensa considera un nuevo error en la determinación de la pena, muy relacionado con la desaparición de la condena por el delito de organización criminal, que habría llevado a una doble punición, con la consiguiente «...falta de claridad que ha perjudicado los derechos de defensa y el principio de legalidad. Benito ha debido defenderse frente a una acumulación de calificaciones redundantes. Además, la apreciación tardía (en apelación) del concurso de normas impidió articular en primera instancia la estrategia adecuada en cuanto a prueba y alegatos sobre la existencia de la organización, puesto que pendía la amenaza de doble condena».
+
+Si bien se mira, ninguna de estas alegaciones tiene cabida en el formato que es propio del art. 849.1 de la LECrim. Aludir a las dificultades para articular una estrategia probatoria distinta a la que fue objeto de debate y a obligadas omisiones en la línea defensiva por una decisión del Tribunal Superior de Justicia -que, por cierto, benefició a todos los recurrentes-, no es acorde con el debate sobre el juicio de tipicidad, que es el que permite la vía casacional seleccionada por el recurrente.
+
+Obligado resulta reiterar que las razones que descartan la doble incriminación que sugiere la defensa ya han sido apuntadas en los FFJJ 12 y 14 a cuyo contenido nos remitimos.
+
+RECURSO DE Cipriano.
+
+-La coincidencia argumental entre los motivos que invoca la defensa del recurrente y los que ya han sido abordados con anterioridad para dar respuesta a alegaciones en el mismo sentido formalizadas por otros acusados, autoriza una selectiva remisión sistemática con el fin de ahorrar repeticiones innecesarias.
+
+Así, el primero de los motivos, cuando alega vulneración del derecho a la tutela judicial efectiva y a la motivación de las resoluciones ( art. 24.1 y 120.3 de la CE), al estimar que la sentencia dictada por el Tribunal Superior de Justicia se limita a reproducir, con ligeras adaptaciones, los razonamientos de la Audiencia Provincial, sin llevar a cabo una valoración autónoma de los motivos de apelación formulados, permite a la Sala remitir a la defensa a lo ya razonado en los FFJJ 29, 3 y 43. Todas las cuestiones que fueron objeto de alegación han obtenido respuesta, por más que ésta no satisfaga la pretensión de quien ahora aduce una vulneración de alcance constitucional.
+
+-La vulneración del derecho al secreto de las comunicaciones ( art. 18.3 de la CE y arts. 588 bis.a y ss de la LECrim) ha sido también descartada por esta Sala en los FFJJ 4 y 17. Baste ahora una elemental puntualización para dar respuesta a alegaciones complementarias en la misma dirección.
+
+45.1.-La sentencia recurrida -sostiene la defensa- reconoce que «las primeras intervenciones se acordaron tras recibir la Guardia Civil información sobre supuestas actividades sospechosas en la finca de DIRECCION007, sin datos concretos sobre los implicados, basándose en fuentes confidenciales». Más adelante, se admite que «la vinculación del procesado Isaac con dichas actividades se dedujo posteriormente del contenido de las grabaciones». Es decir, el órgano judicial no partía de indicios racionales preexistentes respecto de Cipriano, sino que autorizó las escuchas con el propósito de averiguar si existía o no delito. Ello configura una investigación prospectiva proscrita por la jurisprudencia constitucional y del Tribunal Supremo.
+
+45.2.-No existe asomo de investigación prospectiva. El hecho de que las primeras informaciones sólo proyectaran sus sospechas frente a otros acusados, sin alusión a Cipriano, no convierte en prospectiva una investigación si extiende su ámbito subjetivo a aquellos otros implicados cuya participación en los hechos se va evidenciando conforme avanza la fase de investigación.
+
+El objeto del proceso no responde a una imagen fija. Antes al contrario, se trata de un hecho de cristalización progresiva, con una delimitación objetiva y subjetiva que se verifica de forma paulatina, en función del resultado de las diligencias. Esta idea la expresa con absoluta claridad, en el ámbito de la fase de investigación, el art. 299 de la LECrim, cuando recuerda que durante esa etapa del proceso se practican las actuaciones encaminadas a "...averiguar y hacer constar la perpetración de los delitos, con todas las circunstancias que puedan influir en su calificación y la culpabilidad de los delincuentes, asegurando sus personas y las responsabilidades pecuniarias de los mismos".Ninguna vulneración de derechos constitucionales puede asociarse a una actuación jurisdiccional que entronca con la esencia misma del proceso penal. Lo que el recurrente llama investigación prospectiva no es sino la consecuencia de asociar a las acciones delictivas que van poniéndose de manifiesto durante la investigación, la persona que ha de ser considerada responsable.
+
+Y, desde luego, la decisión judicial de incorporar al elenco de sujetos imputados a personas no mencionadas inicialmente en el origen de las investigaciones tampoco es merecedora de censura. De lo contrario, corremos el riesgo de desconocer que la comunicación telefónica, por su propia naturaleza bidireccional, puede ser fuente de nuevas imputaciones, por más que sólo uno de los intervinientes haya sido objeto de la medida de interceptación (cfr. SSTS 342/2009, 31 de marzo y 309/2010, 31 de marzo).
+
+-Los motivos tercero (vulneración del derecho a la inviolabilidad del domicilio y las garantías procesales, art. 18.2 de la CE y 11.1 de la LOPJ) y cuarto (vulneración del derecho a la intimidad personal y familiar, art. 18.1 de la CE) obtienen respuesta en los FFJJ 5, 7, 18 y 20.
+
+-El motivo quinto sostiene, al amparo de los arts. 5.4 de la LOPJ y 852 de la LECrim, la vulneración del derecho de defensa y del principio de contradicción en la práctica de la prueba digital ( arts. 24.2 de la CE y 11.1 de la LOPJ).
+
+47.1.-Durante el registro en la finca de DIRECCION007, los agentes incautaron varios dispositivos electrónicos -ordenadores, teléfonos y memorias USB- que fueron analizados sin intervención de la defensa ni control judicial. No consta acta de volcado firmada ni cadena de custodia completa. Los informes técnicos carecen de firma identificativa y no se practicó pericia contradictoria. De dichos dispositivos se extrajeron conversaciones y fotografías que el Tribunal consideró comprometedoras, sin verificar su autenticidad ni su contexto temporal.
+
+47.2.-El Tribunal Superior de Justicia censuró a la defensa que esta alegación fuera sobrevenida, al haberse formulado de forma genérica e introducida en el acto del juicio, sin que en los escritos de defensa se hiciera la más mínima alusión a esta queja.
+
+Lo cierto es que no existe constancia en la causa de que la defensa, al amparo del art. 311 de la LECrim hubiera instado la práctica de una prueba que garantizase la autenticidad del volcado y, lo que es más importante, tampoco hay reflejo de que, conforme al art. 471 de la LECrim, hubiera interesado la presencia de un perito en el momento de la elaboración del informe pericial.
+
+Además, la posibilidad de designar a un perito que esté presente en ese acto ( art. 476 de la LECrim) forma parte de las facultades que le asisten en su calidad de imputado. Sin embargo, esa presencia no es presupuesto de validez del acto. Nada de ello se desprende de la literalidad de aquel precepto. El acusado contó con la posibilidad de proponer su propio perito para cuestionar todos aquellos aspectos del volcado que considerara oportuno. Forma parte ya de la valoración probatoria atribuir al dictamen pericial elaborado por los agentes a partir del volcado, la virtualidad incriminatoria que la Audiencia le ha adjudicado (cfr. SSTS 342/2013, 17 de abril).
+
+-El sexto motivo denuncia la vulneración del derecho a la presunción de inocencia del art. 24.2 de la CE.
+
+48.1.-Estima la defensa que la inferencia condenatoria carece de base objetiva: se atribuye a Isaac una participación genérica, sin individualizar conducta ni acreditar conocimiento del ilícito. Tal déficit probatorio impide sostener la condena, vulnerando el principio in dubio pro reoy el art. 24.2 de la CE. Al no haberse acreditado una actuación material concreta ni un dominio funcional sobre los objetos intervenidos, la inferencia condenatoria resulta arbitraria.
+
+48.2.-Tampoco ahora tiene razón el recurrente. No ha existido arbitrariedad en la valoración de las pruebas incriminatorias que respaldan el juicio de autoría.
+
+La sentencia apelada -razona motivadamente el Tribunal Superior de Justicia- declaró probada la participación de Cipriano en la organización, con actividades dedicadas al cultivo, almacenaje, compras de semillas, asesoramiento de su distribución, y labores activas de distribución de las sustancias. Esta proclamación fáctica viene corroborada por la intervención telefónica y por la captura de pantalla de su terminal móvil: «...no cabe afirmar desconocimiento o ignorancia en la creencia de que la plantación "era autorizada con fines industriales" cuando la propia labor se desarrollaba con altas medidas de seguridad y no iba orientada ni distribuida a tales fines. Su participación y relación en la organización se evidencia por el resultado de la prueba y no únicamente por la presencia en la vivienda de Abelardo donde se halló una importante cantidad de droga».
+
+Las conversaciones telefónicas interceptadas durante la investigación dan también cuenta de esa conexión del acusado con otros miembros de la organización: «...además de labores de escolta dando seguridad en las operaciones de compraventa de droga, el procesado Pedro Antonio intervino en las labores de procesado y envasado de la droga, así el día 18 de septiembre de 2021 en conversación telefónica a las 15:30 horas con el procesado Isaac desde el nº de teléfono NUM027 al NUM033 se le dio indicaciones acerca del envasado de 300 gr de cocaína en bolsas de plástico, o bien en fecha 19 de junio de 2021 indicaciones en la coordinación del traslado de una "máquina de vacío" a una bodega para el envasado de sustancias estupefacientes y como se pone de manifiesto en las distintas llamadas realizadas entre él desde el número de teléfono NUM027 y el procesado Cipriano con número de teléfono NUM033 del día 25 de agosto de 2021 a las 9:28 y a las 22:24 horas».
+
+La transcripción literal de otros contactos telefónicos explica la corrección del juicio inferencial que ha llevado a la Audiencia Provincial a estimar acreditada la participación del recurrente en los hechos, criterio respaldado en su coherencia por el Tribunal Superior de Justicia:
+
+... El procesado Cipriano era una de las personas de confianza de " Bucanero", era conocido como el "cocinero" ya que se encargaba de preparar tarros, bolsas y paquetes mediante encargo, realizando actividades relacionadas con el cultivo, almacenaje, compras de semillas, así como asesorando al procesado Leon sobre el estado de las plantas y cuando debían ser distribuidas. Así, el 5 de agosto de 2021 sobre las 11:46 el procesado Cipriano desde el número de teléfono NUM030 llamó al procesado Leon al número de teléfono NUM022 diciéndole Bucanero: "Oye güey para lo de las semillas le marcas a este güey para ver que te dice?. Isaac: "¿Cuántas quieres? ¿Cuántas necesitamos? porque eso lo puedo ver ahorita con el pinche Bernardo". Bucanero: "Pero no, de los de Barcelona mejor. Para que vas a hablar con el pendejo ese". Bucanero: "Como 20.000 wey". Isaac: "¿Con que las vamos a pagar?" Bucanero: "Pues con el culo wey". Isaac:
+
+"Pues será con el tuyo porque yo no alcanzo con eso. Con tarjeta o con efectivo cabrón". Bucanero: "Con lo que sea. Pa las que sea tengo." Así el 6 de agosto de 2021 sobre las 13:22 el procesado Cipriano desde el número de teléfono NUM030 llamó al procesado Leon al número de teléfono NUM022 preguntándole acerca de la distribución en paquetes de la marihuana. El procesado Cipriano desempeñó también un importante papel en la organización como vendedor de las sustancias estupefacientes tratando de cerrar acuerdos con compradores, muchos de ellos situados fuera de España como es Francia o Reino Unido o Países Bajos. Así en el terminal móvil de su titularidad se hallaron capturas de conversaciones realizadas durante el año 2021. Así en fecha 24 de marzo de 2021 con un individuo que no ha sido localizado de nombre " Abilio" que se encontraba en Francia, en fecha 20 de marzo de 2021 con un individuo que no ha sido localizado de nombre " Alfredo" que se encontraba en Reino Unido, en fecha 28 de marzo de 2023 con un individuo que no ha sido localizado de nombre " Anton" que se encontraba en un país extranjero, en fecha 24 de marzo de 2023 con un individuo que no ha sido localizado de nombre " Adrian" que se encontraba en Países Bajos. Como en un negocio cerrado con individuos no identificados provenientes de Holanda en fecha 18 de agosto de 2021
+
+.
+
+En suma, lejos de la tesis defensiva que anima el motivo, la autoría de Cipriano quedó acreditada a partir de fuentes de prueba lícitas, de inequívoco signo incriminatorio y que fueron apreciadas conforme al canon constitucional que garantiza los derechos a la presunción de inocencia y a un proceso con todas las garantías.
+
+-El motivo séptimo aduce vulneración del derecho a la imparcialidad judicial, reconocido en los arts. 24.2 de la CE y 6 del CEDH. La queja pretende enriquecerse ahora con la afirmación de que las frases «... Isaac desempeñaba un papel esencial en la logística y coordinación de la operación»y «...su implicación resulta incuestionable por la confianza depositada en él por los responsables del grupo»,en la medida en que no cuentan con apoyo probatorio, denotan una pérdida de imparcialidad por el órgano decisorio.
+
+Más allá de la obligada remisión a lo ya resuelto en los FFJJ 8 y 21, es palmario que el derecho a un juez imparcial no puede verse empañado por el hecho de que el Tribunal dé por probadas las bases fácticas de la imputación que hace valer el Ministerio Fiscal.
+
+-El motivo octavo reacciona frente a la condena del recurrente como autor de un delito de tenencia ilícita de armas. Se vulneró así el derecho a un proceso con todas las garantías ( arts. 24.2 y 25 de la CE, en relación con los arts. 564 y 567 del CP).
+
+Los FFJJ 10 y 22 ofrecen respuesta a esta alegación, que es plenamente coincidente con la que ha sido hecha valer por otros recurrentes.
+
+-El motivo noveno, con la misma cobertura que los anteriores, sostiene el menoscabo del derecho al juez predeterminado por la ley ( art. 24.2 de la CE).
+
+51.1.-Se alega que el procedimiento fue asumido desde su inicio por el Juzgado de Instrucción núm. 3 de Guadalajara, pese a que, conforme a las normas de reparto vigentes, correspondía su conocimiento al Juzgado núm. 5, que se hallaba de guardia el día en que se incoaron las diligencias. La sentencia impugnada no explica ni justifica las razones por las cuales se apartó del reparto ordinario, limitándose a afirmar que «el conocimiento se atribuyó al Juzgado núm. 3 por conexión objetiva con otras causas seguidas contra los mismos investigados».Tal justificación -concluye la defensa- resulta insuficiente, pues no se acredita la existencia de una conexión material entre los hechos que permita excepcionar el reparto.
+
+51.2.-Pretender la declaración de nulidad de lo actuado con la confusa invocación de unas normas de reparto que no habrían sido respetadas, obliga a la Sala a recordar la nula incidencia que esta irregularidad -de haber existido- llega a tener en el contenido material del derecho constitucional al juez predeterminado por la ley.
+
+Conviene recordar -dice la STC 134/2010, de 2 de diciembre de 2010- que el derecho al Juez predeterminado por la ley exige, según reiterada doctrina de este Tribunal Constitucional, que el órgano judicial haya sido creado por una norma legal invistiéndolo de jurisdicción y competencia con anterioridad al hecho motivador de la actuación o proceso judicial y que su régimen orgánico y procesal no permita calificarlo de órgano especial o excepcional (entre las últimas, SSTC 210/2009, de 26 de noviembre, FJ 3, y 220/2009, de 21 de diciembre, FJ 3). Habiendo también afirmado este Tribunal que las cuestiones relativas a la interpretación de las normas sobre atribución de competencias a los órganos jurisdiccionales son, en principio, cuestiones de legalidad ordinaria y ajenas, por tanto, al derecho al Juez ordinario predeterminado por la ley, salvo que esa interpretación suponga una manipulación manifiestamente arbitraria de las reglas legales sobre atribución de competencias (por todas, STC 115/2006, de 24 de abril, FJ 9). De forma que no puede confundirse el contenido de este derecho fundamental con el derecho a que las normas sobre distribución de competencias entre los órganos jurisdiccionales se interpreten en un determinado sentido (entre otras, SSTC 164/2008, de 15 de diciembre, FJ 4, y 220/2009, de 21 de diciembre, FJ 3).
+
+-Con el ordinal noveno bisse argumenta la vulneración del principio non bis in idemdel art. 25.1 de la CE.
+
+52.1.-Consta en las actuaciones -arguye la defensa- la existencia de diligencias tramitadas de forma paralela ante la Fiscalía Europea por hechos coincidentes con los que son objeto de la presente causa. Dichas actuaciones se refieren a la misma finca, al mismo material vegetal y a idénticos periodos temporales, lo que supone una duplicidad persecutoria prohibida por el principio «non bis in idem».
+
+52.2.-Como advierte el Fiscal del Tribunal Supremo, se trata de una cuestión nueva que no fue objeto de alegación con anterioridad. Y es que una inquebrantable línea jurisprudencial viene reiterando que está vetado suscitar en casación una cuestión nueva que no fue planteada ni en la instancia ni en la apelación: «...no es ello posible. Lo impide la naturaleza revisora del recurso de casación. Lo que se recurre es la sentencia de apelación. No pueden traerse a casación cuestiones que no han sido objeto de debate en apelación. No podemos revisar la decisión de la Audiencia sobre ese punto, sencillamente porque no se ha adoptado ninguna decisión al respecto en cuanto el tema no le fue planteado». En idéntico sentido la STS que determina que "en el recurso de casación no podrán examinarse cuestiones nuevas no planteadas en la apelación cuando el recurrente pudo hacerlo»(cfr. SSTS 739/2025, 18 de septiembre; 546/2025, 12 de junio; 64/2024, 24 de enero; 746/2023, 5 de octubre; 67/2020 24 de febrero 684/2021, 15 de septiembre; 547/2020, 26 de octubre 781/2017, 30 de noviembre; 451/2019, 3 de octubre; 495/2019, 17 de octubre, entre otras muchas).
+
+Con independencia de ello, la duplicidad de condenas que podría llevar al desbordamiento de la medida de culpabilidad -en eso consiste precisamente la prohibición del bis in idem-no puede tomar como referencia de contraste unas diligencias de la Fiscalía Europea que nunca tendrían el efecto generador de la cosa juzgada. La Fiscalía no juzga, por consiguiente no puede haber doble enjuiciamiento. Y es evidente que si esa actuación iniciada por la acusación pública hubiera desembocado en otro proceso penal por los mismos hechos, será en ese marco procesal en el que podrá hacerse valer el obstáculo impeditivo de cosa juzgada que ahora esgrime la defensa.
+
+-El segundo bloque de las impugnaciones, con invocación del art. 849.1 de la LECrim, se inicia con el décimo motivo, que denuncia indebida aplicación del art. 368 del CP, en la medida en que el cannabis aprehendido se trataba de una sustancia sin aptitud para el consumo, a la vista del escaso índice de componente psicoactivo.
+
+La remisión a lo que ya la Sala ha abordado en los FFJJ 13 y 25 nos libera de adentrarnos en una respuesta que ya ha sido ofrecida a otros recurrentes que han hecho valer un argumento con la misma inspiración.
+
+-El decimoprimer motivo considera que la sentencia recurrida está lastrada por una errónea valoración de la prueba pericial, con el consiguiente desconocimiento del principio «in dubio pro reo».
+
+54.1.-Se alega que La Sala otorga plena credibilidad a los informes policiales frente a las periciales de parte, sin justificar las razones de esa preferencia. Los peritos designados por la defensa, químicos independientes del laboratorio Cameo & Asociados, concluyeron que el material incautado tenía una concentración de THC residual, dentro de los márgenes propios del cáñamo industrial.
+
+54.2.-La desestimación del motivo es obligada, en la medida en que no se aquieta a la premisa metodológica, tantas veces repetida, de que la discrepancia que se haga valer por la vía del art. 849.1 de la LECrim, ha de construir su argumentario con aceptación del juicio histórico, sin consideraciones probatorias referidas al peso exoneratorio de una prueba pericial que ha sido valorada por el Tribunal de instancia conforme a un criterio distinto al deseado por el recurrente. Además, como ya hemos indicado, el relato de hechos probados incluye la tenencia por los acusados de cocaína en cantidades de singular importancia, lo que conduce de forma necesaria a la subsunción de los hechos en el art. 368 del CP.
+
+-Con la misma cobertura, el decimosegundo motivo considera que se ha inaplicado de forma indebida el art. 14 del CP, toda vez que el recurrente habría sufrido un error invencible de tipo o un error vencible de prohibición.
+
+55.1.- Cipriano -se razona- colaboraba ocasionalmente en tareas agrícolas sin participar en decisiones de producción o comercialización. En consecuencia, concurren los elementos del error invencible de tipo, y subsidiariamente, del error vencible de prohibición, que debe excluir o atenuar la responsabilidad penal.
+
+55.2.-Dos razones conducen al rechazo del motivo. La primera, que la defensa vuelve a defender la inocencia de su defendido sin atenerse a lo que describe el relato de hechos probados, que incluye la directa participación de Cipriano en el núcleo de una organización criminal encaminada a la distribución clandestina de droga. La segunda, que se trata de una cuestión nueva que no fue alegada en la apelación.
+
+Procede el rechazo del motivo ( arts. 884.3 y 4 y 885.1 de la LECrim).
+
+-El decimotercer motivo denuncia la indebida aplicación de las reglas de individualización de la pena ( art. 66 del CP).
+
+56.1.-El recurrente -dice la defensa- no ostentaba funciones directivas ni de supervisión en la actividad investigada. Su participación, de carácter accesorio y esporádico, se limitó a tareas agrícolas sin relación con la distribución ni con el ánimo de lucro. La aplicación mecánica de la pena superior carece de base fáctica y vulnera los principios de proporcionalidad y culpabilidad personal.
+
+56.2.-No hay quebranto del principio de proporcionalidad ni, por supuesto, déficit de motivación respecto de la pena impuesta a Cipriano. Las penas decretadas, con la anulación de la condena por el delito de tenencia ilícita de armas impuesta por la Audiencia Provincial, a partir de una fórmula concursal que ha sido declarada contraria a la jurisprudencia de esta Sala, se mueven en el mínimo legal, lo que exime al órgano judicial de una motivación reforzada exigible en otras circunstancias.
+
+Complementan esta argumentación de rechazo las razones que ya hemos glosado en el FJ 44.2 de esta resolución.
+
+-El decimocuarto motivo reivindica la aplicación de la atenuante de dilaciones indebidas ( art. 21.6 del CP).
+
+En el FJ 15 quedan expuestos los motivos para descartar que el tiempo de investigación y enjuiciamiento de la presente causa haya determinado la vulneración del derecho a un proceso sin dilaciones indebidas ( art. 24.2 de la CE).
+
+-Se queja la defensa de la falta de aplicación del principio de proporcionalidad y de los fines de la pena descritos por los arts. 9.3 y 25.2 de la CE.
+
+58.1.-La desproporción punitiva que advierte la defensa en la condena finalmente impuesta desconoce el principio de humanidad de las penas y convierte la condena en una respuesta excesiva e injustificada. Por ello, procede su revisión a la baja, adecuándola al grado real de participación del acusado y a la finalidad resocializadora que inspira nuestro sistema penal.
+
+58.2.-La correcta determinación de las penas impuestas a Cipriano ya ha sido razonada al valorar el decimotercer motivo. Basta ahora apuntar que el argumentario esgrimido desborda los cauces que son propios de la queja autorizada por el art. 849.1 de la LECrim.
+
+Se incurre así en la causa de desestimación prevista en los arts. 884.3 y 4 y 885.1 de la LECrim.
+
+-Con el decimosexto motivo la defensa pretende acreditar que la sentencia ha incurrido en un error en la calificación jurídica de los hechos al haber sido subsumidos en el tipo agravado del art. 369 bis del CP «...sin que tal circunstancia haya sido objeto de imputación ni probada en el juicio oral. Se alude a "estructura organizada" y "división de funciones" sin acreditar jerarquía, permanencia ni complejidad organizativa».
+
+También ahora el recurrente incurre en la causa de inadmisión que afecta a los motivos formalizados en el bloque sistemático que acoge las quejas amparadas en el art. 849.1 de la LECrim. La invocación de este precepto no permite ofrecer a nuestra consideración cuestiones probatorias ajenas al estricto juicio de tipicidad.
+
+-El tercer grupo, que acoge los motivos por quebrantamiento de forma, se inicia con el decimoséptimo motivo, que denuncia la denegación inmotivada de pruebas esenciales solicitadas por la defensa.
+
+Con uno u otro matiz, las pruebas que se dicen indebidamente denegadas son coincidentes con las formuladas por otros recurrentes. En los FFJJ 2.1, 28 y 42, hemos atendido esta queja, negando la existencia de cualquier vulneración de contenido constitucional. Con independencia de ello y como ya hemos aclarado, el silencio de la defensa en el momento de formalizar el recurso de apelación sin hacer valer la facultad que le concede el art. 790.3 de la LECrim para interesar las pruebas que considere indebidamente denegadas en la instancia, obliga a rechazar esta alegación.
+
+-El decimoctavo motivo denuncia la falta de claridad y contradicciones en la sentencia ( art. 851.3 de la LECrim).
+
+61.1.-En apoyo del motivo, la defensa sostiene que «...la sentencia contiene contradicciones palmarias: reconoce irregularidades en el registro (entrada 6:35h) pero valida la prueba; admite THC ‹0,3% pero aplica art. 368 CP ; menciona "fuentes confidenciales" indeterminadas pero sostiene motivación suficiente de las escuchas».
+
+61.2.-La vía impugnativa que ofrece el art. 851.1 de la LECrim -erróneamente identificado en el enunciado del motivo como art. 851.3- no acoge las discrepancias valorativas acerca del significado probatorio atribuido a la composición química de la sustancia intervenida en poder de los acusados. Tampoco permite incluir en ese enunciado consideraciones vinculadas a la insuficiente motivación del auto que acordó las intervenciones telefónicas.
+
+Apuntan las SSTS 751/2025, 22 de septiembre; 498/2020, 8 de octubre; 24/2015, 21 de enero; 494/2014, 18 de junio; 522/2008, 29 de julio y 784/2008, 14 de noviembre, que conforme a una reiteradísima y uniforme doctrina jurisprudencial, este vicio procesal se origina cuando la redacción de los hechos probados aparece confusa, dubitada o imprecisa, de modo que, por su insuficiencia u oscuridad o por no expresarlos de forma conclusiva, imperativa, terminante o categórica, sino vacilante y dubitada, pueda conducir a subsunciones alternativas o sea imposible realizar la subsunción, consecuencia de la ambigüedad del relato.
+
+La Sala no detecta ni la falta de claridad ni las contradicciones que denuncia el motivo, por lo que se impone su desestimación ( art. 885.4 y 885.1 de la LECrim).
+
+-El decimonoveno motivo se sirve de un lacónico enunciado: «omisión de pronunciamiento sobre las cuestiones de nulidad planteadas en apelación».
+
+62.1.-Son tres los pronunciamientos que habría omitido la sentencia recurrida: a) la solicitud de nulidad de actuaciones por vulneración del derecho al juez predeterminado por la ley ( art. 24.2 de la CE); b) la excepción de cosa juzgada y vulneración del principio «non bis in idem»,a la vista de las actuaciones paralelas que se estaban siguiendo en la Fiscalía Europea; c) la reivindicación de la aplicación de la atenuante de dilaciones indebida.
+
+62.2.-La lectura de la sentencia cuestionada, que ha avalado la decisión de la Audiencia Provincial, pone de manifiesto que no ha existido la incongruencia omisiva a que se refiere la defensa. Todas esas alegaciones fueron suscitadas y, de hecho, han sido ya resueltas por esta Sala en los FFJJ 11, 15, 23 y 52.
+
+-El último de los motivos que hace valer el recurrente -decimonoveno bis- denuncia la infracción del deber de motivación reforzada en materia de prueba indiciaria y valoración ilógica del acervo probatorio ( arts. 24.1 y 24.2 de la CE).
+
+63.1.-La sentencia impone solidariamente a Cipriano la responsabilidad civil subsidiaria de las personas jurídicas beneficiarias de la actividad delictiva, sin acreditar: a) la existencia de tales personas jurídicas; b) su beneficio económico directo de la conducta; ni c) el nexo causal entre la actuación del acusado y el lucro empresarial.
+
+63.2.-Se trata de una cuestión no suscitada en apelación que, por otra parte, no tiene encaje en un motivo por quebrantamiento de forma. De ahí que se acuerde su desestimación ( art. 884.4 y 885.1 de la LECrim).
+
+RECURSO DE Raimundo.
+
+-El primero de los motivos, con un amplio enunciado y la cobertura de los arts. 5.4 de la LOPJ y 852 de la LECrim, se interpone por infracción de precepto constitucional, vulneración de los derechos a la intimidad personal y familiar y a la inviolabilidad del domicilio ( art. 18.1 y 2 de la CE), así como por vulneración del derecho al secreto de las comunicaciones y de los derechos a la presunción de inocencia, defensa y a un proceso con todas las garantías ( arts. 18.3 y 24. 2 de la CE). Se trata, por tanto, de muchos submotivos que habrían aconsejado un tratamiento sistemático individualizado.
+
+64.1.-La vulneración del derecho a la inviolabilidad del domicilio se habría consumado a raíz de la entrada y registro practicados en el domicilio del recurrente, sito en la DIRECCION018, de la localidad cántabra de DIRECCION019.
+
+El auto habilitante, dictado el día 16 de mayo de 2022, tuvo su origen en diversas vigilancias y seguimientos efectuadas por los agentes de Asuntos Internos, así como en el resultado de algunas conversaciones que habían sido interceptadas con anterioridad. Alega la defensa que dicha resolución no se fundamentó en actos concretos realizados por el investigado en orden a facilitar labores de producción, promoción o tráfico de sustancias, sino en proporcionar información, asesoramiento y protección al entorno del « Gamba», «...información que no llega a concretarse para ponderar el valor de la misma, sino que lo hace con una generalidad impropia de una resolución como la que cuestionamos».
+
+64.2.-No es precisamente un razonamiento instalado en la generalidad lo que respaldó la decisión del Juez instructor de franquear el domicilio del investigado. Basta una lectura del FJ autorizante para llegar a esa conclusión:
+
+...Del contenido de las conversaciones y de los seguimientos practicados se infiere que Raimundo estaría realizando funciones de asesoramiento y protección del " Gamba" dada su condición de policía nacional, proporcionando además información muy valiosa para la organización criminal a la que tiene acceso precisamente por su condición de policía. Por estar razones, y con la finalidad de ocupar documentación y otros efectos que puedan contribuir a probar el esclarecimiento de los delitos investigados, y especialmente el papel del subinspector de policía en el entramado de la organización criminal, y el alcance de su colaboración, que de otra forma no podría constatarse, procede acordar las entradas y registros en los lugares en los que podrían encontrarse dichos efectos, a saber, el domicilio del investigado
+
+.
+
+La adopción de una diligencia intrusiva en la inviolabilidad del domicilio del investigado no puede exigir como base un sustrato probatorio que prácticamente permita ya anticipar el juicio de autoría. Quien así razona olvida que la fase de investigación que abre el proceso penal no toma como apoyo verdaderas pruebas, sino indicios que, en el presente caso, estaban más que colmados. Las vigilancias practicadas por la Unidad de Asuntos Internos y el contenido de algunas de las conversaciones interceptadas arrojaban fundadas sospechas para respaldar lo que, después del plenario, quedó debidamente acreditado.
+
+Para que la motivación pueda considerarse suficiente en cuanto a los hechos, es preciso -decíamos en las SSTS 478/2013, 6 de junio y 367/2009, 3 de abril- que el Juez disponga de indicios acerca de la comisión de un delito y de la relación de tal conducta con el domicilio de la persona. Tales indicios, como ha dicho reiteradamente la jurisprudencia, no pueden consistir en meras sospechas, pero tampoco se requiere que se trate de los indicios racionales de criminalidad exigidos en el art. 384 LECrim para el procesamiento de una persona, bastarán -como ha precisado el TEDH- «datos fácticos, buenas razones o fuertes presunciones de que las infracciones se han cometido o están a punto de cometerse»(v. STEDH, de 6 de septiembre de 1978, «Caso Klass »).
+
+No debe olvidarse -dicen las SSTS 1019/2003, 10 de julio y 1393/2005, 17 de noviembre- que el sustento de la resolución no ha de consistir en la aportación de pruebas acabadas de la comisión del ilícito, pues en tal caso no sería ya necesaria la práctica de más diligencias de investigación, sino, tan solo, la de fundadas sospechas del actuar delictivo que requieran la confirmación a través del resultado que pudiera arrojar precisamente el registro.
+
+En definitiva, el hecho de que la resolución cuestionada no precise ni concrete «...a qué "bases de datos" de las muchas de las que dispone la Policía Nacional ha podido acceder Raimundo, como tampoco la trazabilidad de tales accesos», no tiñe de ilegalidad la decisión judicial que legitimó la entrada y registro.
+
+El mismo rechazo merece la alegación asociada a la posible quiebra del principio de proporcionalidad, al estimar que el auto del Juez instructor sólo apuntaba a la existencia de un delito de revelación de secretos, que no justificaría una medida tan intrusiva. No es cierto que esa entrada y registro sólo buscara indagar la comisión de un delito de revelación de secretos. En el auto que censura el recurrente se alude a «...funciones de asesoramiento y protección del " Gamba"», proporcionando información muy valiosa «...para la organización criminal a la que tiene acceso precisamente por su condición de policía».De lo que se trataba, en fin, era de averiguar «...el papel del subinspector de policía en el entramado de la organización criminal, y el alcance de su colaboración, que de otra forma no podría constatarse».
+
+No era, pues, una información que se agotaba en la búsqueda de un posible delito de revelación de secretos. La condición de agente de la autoridad de Raimundo y su proximidad a los líderes de la organización justificaban la búsqueda de datos que aclararan su verdadero papel como integrante de la organización criminal. La defensa da a entender que, en el momento de acordar judicialmente el alzamiento de la protección constitucional del domicilio, lo que tiene que valorar el instructor es la concurrencia de una calificación jurídica perfectamente definida y perfilada. Y no es así. La relación de Raimundo con la organización, su condición de agentes de policía y la cobertura que ya entonces proporcionaba al líder eran razones más que suficientes para resolver acerca de la entrada y registro, con independencia de que el resultado de esta diligencia y el desarrollo de las investigaciones hayan permitido el juicio de subsunción en uno u otro precepto penal.
+
+La nulidad del auto de 16 de mayo de 2022 es inviable.
+
+-Un segundo submotivo se refiere a la vulneración del derecho a la inviolabilidad del domicilio, centrada ahora en la entrada extemporánea y no autorizada de los GEO, tanto en la vivienda de la DIRECCION010, DIRECCION004, como en la vivienda de la finca de DIRECCION007.
+
+El desarrollo argumental del motivo es prácticamente coincidente con el que ha sido invocado por otros recurrentes. La remisión a los FFJJ 5, 6, 18 y 19 permite conocer las razones que llevan a la desestimación de la queja.
+
+-Otro de los apartados del primer motivo subraya la vulneración del derecho a la intimidad personal y familiar y a la inviolabilidad del domicilio, por la toma de fotografías aéreas y zonas exteriores de un domicilio sin la debida autorización judicial.
+
+La coincidencia con la tesis impugnatoria de otros recurrentes autoriza, una vez más, la remisión a lo que ya hemos razonado en los FFJJ 7 y 20. Y la alegada estrategia de ocultación al Juez instructor, por parte de la policía, de la existencia de unas diligencias de investigación que se seguían en la Fiscalía de Granada, en el marco de la operación «Silene»,carece de datos objetivos que la respalden. En los FFJJ 11 y 23 hemos rechazado también el pretendido efecto contaminante que la realidad de esa investigación por la Fiscalía podría haber producido en la correcta instrucción de esta causa.
+
+-Uno de los submotivos incluidos en el primero de los bloques sistemáticos que formaliza la defensa sostiene la vulneración del derecho a la intimidad personal y familiar y a la inviolabilidad del domicilio ( art. 18.1 y 2 de la CE), por el registro efectuado en la nave DIRECCION012, en el Polígono Industrial DIRECCION011, en DIRECCION003, Madrid.
+
+67.1.-La defensa pone el acento en que la intervención por propia iniciativa de los agentes de policía que practicaron el registro en esa nave industrial pretendió justificarse ante el Juez de instrucción por una flagrancia delictiva que, a su juicio, nunca existió. El motivo sugiere razones que no se han hecho explícitas por parte de la Policía para eludir la fiscalización jurisdiccional.
+
+67.2.-No hay nada que justifique la anulación de las piezas de convicción obtenidas a raíz de esa diligencia.
+
+En efecto, la flagrancia delictiva -además del consentimiento del morador o la autorización judicial- es un presupuesto habilitante para la injerencia del Estado en un domicilio particular. Así se desprende con incuestionable nitidez del art. 18 de la CE. Sin embargo, el objeto de ese registro no era un domicilio, sino una nave industrial.
+
+En los FFJJ 6 y 19 expresamos las razones por las que no era precisa la cobertura del Juez de instrucción para acceder a un lugar que, por definición, no contaba con la reforzada protección constitucional. La alegación de que ese recinto constituía el domicilio de dos personas ya ha obtenido allí respuesta. En el acta de entrada y registro no consta información que permita inferir que dos personas vivían en esa nave industrial. Tampoco puede concluirse -como pretende la defensa- que la existencia en esa nave de dos baños, cocina y otras dependencias acredite, sin más, que en ese recinto alguien desarrollaba las funciones propias de la vida doméstica.
+
+El hecho de que el hallazgo de la sustancia intervenida fuera notificado al Juez por los agentes de policía cuatro días después de la práctica del registro da pie a la defensa, en el legítimo ejercicio de la función constitucional que le incumbe, para arrojar una sospecha acerca de motivaciones ocultas que habrían llevado a romper la cadena de custodia de la sustancia estupefaciente que fue aprehendida.
+
+Sin embargo, las objeciones del recurrente son cuestiones fácticas que, como tales, se hallan sujetas a las reglas generales sobre valoración de la prueba ( STS 195/2014, 3 de marzo). En otras palabras, no se pueden confundir los dos planos. Irregularidad en los protocolos establecidos como garantía para la cadena de custodia no equivale a nulidad. Habrá que valorar si esa irregularidad -no mención de alguno de los datos que es obligado consignar; ausencia de documentación exacta de alguno de los pasos...- es idónea para despertar dudas sobre la autenticidad o indemnidad de la fuente de prueba. No es una cuestión de nulidad o inutilizabilidad, sino de fiabilidad (cfr. STS 506/2012, 11 de junio).
+
+Desde esta perspectiva, pues, no basta con afirmar que el transcurso de cuatro días desde el hallazgo de la cuantiosa cantidad de droga intervenida suponga, sin más, una sospecha de ilicitud con la idoneidad precisa para cuestionar la validez de la diligencia de entrada y registro.
+
+El mismo rechazo merece el razonamiento de la defensa que condiciona la legitimidad del registro a la previa localización del interesado para asegurar su presencia e intervención en la diligencia. Llevar a sus últimas consecuencias esta afirmación y construir como presupuesto de validez constitucional la proximidad física del titular de la nave encierra un sinsentido. La legitimidad constitucional del registro de una nave industrial no puede subordinarse a que, antes de su práctica, los agentes hayan localizado a su dueño y facilitado su presencia en el espacio físico en el que se desarrolla la diligencia.
+
+-Se alega la vulneración del derecho a la intimidad personal y familiar y al secreto de las comunicaciones ( art. 18.1, 2 y 3 de la CE) por el volcado de dispositivos autorizado por auto de 22 de junio de 2022.
+
+68.1.-Entiende la defensa que la fundamentación jurídica de esta resolución no reúne los requisitos exigidos por la jurisprudencia de esta Sala. El auto autoriza de forma generalizada e indiscriminada el volcado de todos los dispositivos que fueron aprehendidos durante los registros, sin especificar qué concretos indicios racionales de delito alcanzaban a Raimundo y qué elementos de qué concreto delito se trataban de esclarecer o investigar cuando se autorizó el volcado de todos sus dispositivos: «...no se hace referencia a si los delitos investigados son o no graves, con alusión de lo dispuesto en el artículo 33 del CP , como exige nuestra jurisprudencia; ni tampoco se valoran por el Juzgado qué elementos o avances en la investigación se esperan obtener con el volcado de los dispositivos de Raimundo».
+
+68.2.-De la legitimidad del volcado de la información contenida en los dispositivos de almacenamiento masivo que fueron aprehendidos con ocasión de los registros practicados ya nos hemos ocupado en el FJ 48. Nos referíamos entonces a la queja -que ahora se repite- acerca de la ausencia de una prueba pericial que garantizase la integridad de los archivos a los que los investigadores había tenido acceso.
+
+A lo razonado entonces nos remitimos. Baste ahora puntualizar que la crítica de la defensa, centrada en la insuficiencia del auto autorizante, no puede ser asumida por la Sala. Lo que se desprende de su argumentario es que antes incluso del acceso a esos dispositivos, el Juez de instrucción ha de hacer un pronóstico fundado acerca de lo que espera encontrar en ellos. No es eso lo que hemos dicho en anteriores precedentes. Y para la constatación de que se trataba de un delito grave, es más que suficiente el dato de que se estaba persiguiendo un delito de distribución clandestina de tráfico de drogas a cargo de una organización criminal.
+
+Tampoco afecta a la validez del volcado el que las defensas no hayan tenido oportunidad de estar presentes en las diligencias. No existe precepto legal que imponga esa presencia. Y, como ya hemos razonado en el FJ 48, no basta una impugnación sobrevenida en el desarrollo del juicio oral para cuestionar la práctica de una prueba pericial que admitía durante la instrucción, desde luego, una propuesta alternativa (cfr. art. 471 de la LECrim).
+
+La defensa no menciona un solo pasaje de esos documentos, fotografías o mensajes que arroje dudas acerca de su autenticidad. Es cierto que la jurisprudencia de esta Sala -como minuciosamente cita la defensa- viene advirtiendo de la volatilidad de las pruebas digitales y de la facilidad de su manipulación. Sin embargo, no basta para privar de eficacia a los hallazgos contenidos en un dispositivo de almacenamiento masivo una sobrevenida impugnación -ya en el juicio oral- de su autenticidad, desplazando así la carga de la prueba y obligando a la acusación a demostrar que los informes periciales aportados en la fase de instrucción, sin queja ni censura por la defensa, son informes auténticos que no han sido en modo alguno alterados.
+
+-Otro de los submotivos reivindica, con invocación de los arts. 18.3 y 24.1 de la CE la nulidad del auto que autorizó inicialmente la intervención telefónica de algunos de los números de teléfono de los integrantes de la organización criminal que estaban siendo objeto de investigación.
+
+69.1.-La defensa vuelve a reprochar la técnica de «copia y pega»que atribuye a la sentencia dictada en apelación por el Tribunal Superior de Justicia. Lamenta la falta de respuesta a sus alegaciones y que el Tribunal ad quemse haya limitado a reproducir en su literalidad las razones ofrecidas en la instancia por la Audiencia Provincial.
+
+69.2.-En el FJ 4º hemos descartado la vulneración del derecho a la inviolabilidad de las comunicaciones telefónicas y nos hemos pronunciado sobre la suficiencia argumental del informe ofrecido al Juez instructor por los agentes de policía con fecha 12 de mayo de 2021.
+
+La queja formalizada por otros recurrentes, también referida a la falta de respuesta a algunas de las alegaciones que se hicieron valer en el recurso de apelación -silencio que habría generado una vulneración del derecho a la tutela judicial efectiva- ha sido también atendida en los FFJJ 3, 29 y 43. Lo allí resuelto es perfectamente importable para dar respuesta a la queja que ahora se formaliza.
+
+Por otra parte, el hecho de que la intervención de las conversaciones telefónicas afectara inicialmente a Lucas, por su implicación en unas diligencias de investigación seguidas en la Fiscalía Europea y que en ese marco investigativo, de repente, la injerencia se trasladara a los hoy acusados, da pie al Letrado que defiende los intereses de Raimundo para adjetivar como prospectivala investigación inicial.
+
+Sin embargo, es palmario que esa circunstancia carece de entidad para generar el efecto anulatorio. En ningún caso puede hablarse de una investigación prospectiva a la vista del informe inicial que justificó la injerencia y, por supuesto, del auto que, con fundamento en esa información, acordó la interceptación de las comunicaciones telefónicas. La validez de unas escuchas judicialmente acordadas no puede subordinarse a un extravagante litis consorcio-traducible en un «o todos o ninguno»-que ligaría a los sospechosos hasta el final de la fase de instrucción. En el FJ 46.2 ya hemos recordado la nota definitoria de la fase de investigación del proceso penal en la que su dimensión objetiva y subjetiva es de cristalización progresiva. También nos hemos pronunciado acerca de los reclamados efectos que la investigación que se seguía en la Fiscalía Europea habría producido en la tramitación de la presente causa (cfr. FJ 11).
+
+69.3.-A la queja inicial añade el recurrente otro apartado que denuncia, con idéntica cobertura, la nulidad de los autos de intervención telefónica de fecha 16 de junio de 2021 y de 17 de mayo de 2021. Estas resoluciones vulnerarían los principios de proporcionalidad, excepcionalidad, y especialidad exigidos por el artículo 588.bis de la Ley de Enjuiciamiento Criminal.
+
+Para demostrar la quiebra de estos principios, la defensa vuelca en su recurso una laboriosa cita de la jurisprudencia de esta Sala que ha interpretado el art. 588 bis a) de la LECrim. Estima que el auto de 16 de junio de 2021, por el que se autorizó la intervención de las comunicaciones de Raimundo, pone de manifiesto que el control judicial sobre su posible implicación en las actividades que estaban siendo objeto de investigación fue inexistente.
+
+Argumenta que el oficio en cuestión se limitaba a exponer que Raimundo «...tiene unas líneas de teléfono domiciliadas en un domicilio de la DIRECCION036 de DIRECCION037 que "pudiera ser" domicilio de alguno de los ciudadanos mejicanos investigados. Esta suposición no puede bastar para la intervención telefónica, pues bien podrían los agentes- tenían medios para hacerlo- despejar la duda de si en esa calle, o si el domicilio donde se encuentran dadas de alta las líneas de teléfono corresponde a alguno de los ciudadanos mejicanos investigados».
+
+No tiene razón la defensa.
+
+Es más que evidente que ese hecho, por sí solo, proyectaba elementos incriminatorios de la suficiente entidad como para incorporar a Raimundo en la investigación que ya se hallaba en marcha y, por supuesto, para acordar una medida limitativa de su derecho a la inviolabilidad de las comunicaciones. No forma parte de la normalidad que un subinspector de policía comparta la domiciliación de su teléfono móvil -o existan fundadas razones para entender que está compartiendo- con unos ciudadanos que están siendo investigados por formar parte de una organización criminal centrada en la distribución clandestina de cannabis y cocaína en nuestro país. De ahí la plena justificación de la injerencia y el descarte de la alegada quiebra de los principios a los que se refiere el art. 588 bis a) de la LECrim.
+
+Del mismo modo, es lógico que ni la instancia ni la apelación hayan aceptado la explicación que ofrece el recurrente acerca de las razones por las que accedió en innumerables ocasiones a las bases de datos protegidas de la Policía. Pretender convertir la acreditada complicidad con los restantes investigados en la expresión del celo profesional de un agente de la autoridad que se vale de esos contactos, precisamente, para investigarlos y ponerlos a disposición de la fuerza instructora, no se sostiene.
+
+La insuficiencia de esos indicios no puede basarse, como pretende justificar el desarrollo del motivo, en el hecho de que los hospedajes de Raimundo en diversos hoteles no fueran compartidos con otros investigados. Tampoco en la circunstancia de que la interceptación de sus comunicaciones fuera interesada por los agentes con ocasión de la solicitud de prórroga de otras resoluciones que afectaban a distintos investigados. Si bien se mira, ningún precepto legal impide que la justificada petición de prórroga de unas escuchas que ya están activadas sirva de vehículo formal para ampliar su ámbito de injerencia a investigados que todavía no están afectados por una medida de esta naturaleza.
+
+La idea que sugiere la defensa de que la solicitud de intervención telefónica de Raimundo por la Unidad de Asuntos Internos sólo perseguía «... dar "empaque" a su implicación en los hechos hasta el punto de considerarlo autor de un delito de organización criminal o contra la salud pública»,representa un legítimo efugio desde la perspectiva del derecho de defensa, pero carece de todo valor argumental ante el peso específico de los elementos indiciarios ponderados por el Juez instructor y que revestían una gran fuerza incriminatoria. En la tesis de la defensa, la Unidad de Asuntos Internos y el resto de las agentes que participaban en la investigación habrían entorpecido la sincera y callada tarea de indagación puesta en marcha por Raimundo que, por su cuenta, sin el más mínimo apoyo logístico de las fuerzas especializadas, se habría embarcado en desarticular una organización criminal de la entidad que ha quedado acreditada en la presente causa.
+
+Se rechaza el submotivo ( art. 885.1 de la LECrim).
+
+-Otro de los subapartados en los que se descompone el motivo alude a la infracción de los arts. 24.1, 24.2 y 120.3 de la CE por la escasa motivación de la sentencia objeto de recurso, en relación con los arts. 5.1 y 7 de la LOPJ.
+
+Esta objeción se ha hecho valer por otros recurrentes. Le hemos dado respuesta en los FFJJ 3, 29 y 43. A su contenido nos remitimos.
+
+-Se invoca en el subapartado E) la vulneración del derecho a la presunción de inocencia del art. 24.2 de la CE.
+
+71.1.-Conviene hacer una referencia -tantas veces repetida como olvidada- que condiciona nuestra capacidad de revisión. Y es que el control que nos corresponde, cuando se alega vulneración del derecho a la presunción de inocencia, no puede aspirar a una subrogación funcional de esta Sala en el papel que nuestro sistema reserva a los órganos de apelación. No podemos reemplazar a quienes, en un dibujo procesal de doble instancia, tienen por misión la valoración de las pruebas practicadas en el plenario y su inicial control.
+
+No es cometido propio de la casación penal decidir el valor probatorio de cada uno de los elementos de cargo y descargo que se han barajado en el juicio oral, sino controlar el razonamiento con el que otro Tribunal justifica su decisión. Por ello, desborda el ámbito casacional, una vez verificado el canon de cumplimiento de la motivación fáctica y la razonabilidad de sus conclusiones alcanzadas en la instancia, la posibilidad de que esta Sala pueda sustituir la valoración que hizo el Tribunal de instancia.
+
+Hemos concluido, en fin, que el recurso de casación ha de proponerse como objetivo rebatir las argumentaciones vertidas en esa primera fiscalización realizada en la apelación; no combatir de nuevo la sentencia de instancia como si no se hubiese resuelto ya una impugnación por un órgano judicial como es el Tribunal Superior de Justicia. Cuando éste ha dado respuesta de forma cumplida y la casación es un clon de la previa apelación se deforma el sistema de recursos. Si esta Sala considera convincentes los argumentos del Tribunal Superior de Justicia y nada nuevo se arguye frente a ellos, no podremos más que remitirnos a la respuesta ofrecida por el Tribunal Superior de Justicia, si acaso con alguna adición o glosa. Pero en la medida en que no se introduce argumentación novedosa, tampoco es exigible una respuesta diferenciada en tanto estén ya satisfactoriamente refutados esos argumentos que se presentan de nuevo (cfr. SSTS 18/2025, fechada el 19 de enero de 2026; 419/2025; 7 de mayo; 501/2025, 29 de mayo; 1063/2024, 21 de noviembre; 495/2020, 8 de octubre; 527/2022, 27 de mayo; 658/2021, 3 de septiembre; 596/2023, 13 de julio, entre otras muchas).
+
+71.2.-La defensa no se ajusta a este renovado escenario procesal, dibujado a raíz de la reforma del recurso de casación operada por la Ley 41/2015, de 5 de octubre. Antes al contrario, da comienzo a su discurso impugnativo censurando el contenido de un informe de la Unidad de Asuntos Internos de 9 de junio de 2021 que considera una especulación carente de todo sustento material y que sirvió de base para la interceptación de las comunicaciones de Raimundo.
+
+Vuelven a reiterarse los argumentos ya descartados en la instancia y apelación: el dinero intervenido en su domicilio era la cantidad recaudada como regalos de boda y los lingotes de oro se explicaban por inversiones o herencias familiares.
+
+Lo que pretende la defensa es que esta Sala, sin haber presenciado la actividad probatoria desarrollada en la instancia, voltee el juicio de autoría y convierta a Raimundo en un agente de la autoridad que se había adentrado en la estructura de una organización criminal no para enriquecerse, sino para desmantelarla. No es esta la conclusión alcanzada en la instancia y en la apelación, además, con un discurso cuya lógica y coherencia no se resquebraja a partir de los elementos de descargo que sugiere el recurrente.
+
+71.3.-La lectura de la sentencia dictada por la Audiencia Provincial de Guadalajara, avalada por el Tribunal Superior de Justicia, no permite tildar la valoración probatoria que ha llevado a la condena de Raimundo como contraria al canon constitucional de la presunción de inocencia que garantiza el art. 24.2 de la CE.
+
+71.3.1.-El grado de vinculación del recurrente con los restantes miembros de la organización tuvo muchas manifestaciones. Sus gestiones para hacer posible la llegada a España de los ciudadanos mexicanos, su intermediación para la adquisición del inmueble en la DIRECCION034 de DIRECCION002 y las labores ante las dependencias policiales de Canillas para proporcionar documentación a los restantes miembros de la organización están descritas en los siguientes términos:
+
+Las pruebas han acreditado que Raimundo gestionó vuelos chárteres de la compañía ACS ESPAÑA-SERVICIOS DE CHÁRTER AÉREO para el desplazamiento a España de veinte personas de una misma familia desde México, que fueron abonados por la entidad DIRECCION038., que también intermedió en la compraventa de la casa en la DIRECCION034 de DIRECCION002. Por esta vía llegaron a España Leon, Teodosio, Leoncio, Zulima, Benigno, Inocencio, y Luis. El Agente núm. NUM052 confirmó estas circunstancias en su declaración. Entre el 10 de septiembre de 2020 y el 17 de mayo de 2022, Raimundo concertó hasta seis citas para la tramitación y expedición de la documentación de algunos de los procesados, como de la procesada Inmaculada en la expedición de DNI y de pasaporte, y del procesado Luis, valiéndose de su condición como miembro de la Policía Nacional. En fecha 7 de abril de 2022 la Subdirección General de Logística e Innovación de la División de Documentación de la Policía Nacional hizo constar las citas solicitadas por Raimundo entre enero de 2020 y la fecha del documento, estando entre ellas dos citas para Mercedes, de fechas 14 de septiembre de 2020 y 17 de mayo de 2021, una para Luis de fecha 14 de septiembre de 2020, y otras para otros miembros de la familia. Preguntado por este extremo, Raimundo declaró que la oficina de Canillas no es exclusiva para personal policial, y que es posible facilitar el acceso y los servicios de documentación a otras personas, deslizando que incluso ha hecho la misma gestión para una persona que fue miembro de la judicatura y que hoy ejerce de abogada. Con independencia de que, obviamente, Mercedes accedió al complejo policial superando los controles de seguridad, y nada se ha dicho en contra, los testigos manifestaron que las instalaciones de Canillas no están abiertas al público para la expedición de documentación, sino que son únicamente para personas vinculadas al ámbito policial (Agente n. NUM053)
+
+.
+
+71.3.2.-Del mismo modo, las tareas para el aseguramiento de los vehículos adquiridos por la entidad mercantil representada por Inmaculada y en los que Raimundo aparecía como conductor son también minuciosamente descritas, con el consiguiente apoyo en los documentos que acreditan esa relación:
+
+... Raimundo suscribió pólizas de seguro para varios de los vehículos adquiridos por la entidad DIRECCION009. En concreto, figuraba como conductor habitual de los vehículos NISSAN matrícula NUM054, NISSAN matrícula NUM055, VOLKSWAGEN TIGUAN matrícula NUM047, MAZDA CX matrícula NUM056, FIAT 500 matrícula NUM057, VOLVO XC matrícula NUM058, MERCEDES matrícula NUM050 (utilizado entre otros por Cipriano, como se ha dicho), SEAT ARONA matrícula NUM059, CADILLAC ESCALADE matrícula NUM032, LAND ROVER SPORT matrícula NUM044, y MERCEDES CLA matrícula NUM060; igualmente figuraba como titular de la póliza del VOLKSWAGEN SCIROCCO matrícula NUM039. Raimundo también figura como conductor habitual del vehículo BMW X6 matrícula NUM041, titularidad de DIRECCION009, figurando como domicilio del tomador la dirección de la gasolinera de DIRECCION006 regentada por Mercedes, e igualmente figura como tomador, propietario y conductor habitual del JEEP RENEGADE matrícula NUM040, si bien la titularidad del vehículo corresponde a una hermana de Abelardo. Preguntado sobre este extremo, Raimundo dijo que, al necesitar un DNI español para la suscripción de los seguros, y no disponer de él, cedió el suyo de forma provisional a Bucanero por razón de amistad y sin percibir nada a cambio, explicación hueca e inconsistente
+
+.
+
+71.3.3.-La colaboración del acusado no se detenía ahí. La sentencia cuestionada hace suyo el coherente razonamiento de la instancia en el cual se detallan los accesos de Raimundo a las bases de datos policiales para ofrecer información a Leon:
+
+Como parte de la colaboración que prestaba a la organización, las investigaciones constataron que Raimundo efectuó múltiples búsquedas de datos sobre personas y vehículos vinculados a la organización, haciendo uso de las bases de datos policiales mediante claves de acceso personal de otros funcionarios policiales.
+
+Entre las consultas efectuadas destacan las siguientes:
+
+-El 02.06.20 (17:47 horas), desde el terminal con IP NUM034 ubicado en la Unidad Central de Delincuencia Económica y Fiscal de la Comisaría General de Policía Judicial, realizó 13 consultas de bastidores en 5 minutos, infiriéndose que los 17 caracteres alfanuméricos de cada bastidor fueron copiados desde algún dispositivo de almacenaje externo.
+
+-El 20.06.20 (08:55 - 08:59 horas), desde el terminal con IP NUM034 ubicado en la Unidad Central de Delincuencia Económica y Fiscal de la Comisaría General de Policía Judicial, realiza un total de 9 consultas por bastidor y 1 por matrícula.
+
+-El 09.12.20 (17:55 horas), desde el terminal con IP NUM035 ubicado en la Comisaría Provincial de Información de San Sebastián, consulta a 2 trabajadores de la finca de DIRECCION007, Guadalajara, Pedro Antonio y Abel.
+
+- El 29.12.20 (11:31 horas), desde el terminal con IP NUM036 ubicado en la Comisaría Provincial de Información de San Sebastián, consulta el vehículo Lamborghini AVENTADOR con matrícula NUM037 de la empresa DIRECCION009, conducido habitualmente por el procesado Leon. Dicho vehículo fue consultado igualmente el 04.01.21 (entre las 13:01 horas y 13:06 horas) y 26.01.21 (11:33 horas); 25.02.21 (22:30 horas) desde el terminal con IP NUM035 ubicado en la Comisaría Provincial de Información de San Sebastián.
+
+-El 25.01.21 (18:11 horas); el 22.02.21 (11:58 horas); el (20:01 horas y 20:30 horas); el 13.07.21 (09:11 horas); 04.08.21 (15:51 horas); el 26.08.21 (18:06 horas) y el 14.09.21 (12:41 horas), desde los terminales ubicados en la Comisaría Provincial de Información de San Sebastián, consulta al procesado Leon.
+
+-El 25.02.21 (entre las 10:35 y las 22:33 horas), desde el terminal con IP NUM035 ubicado en la Comisaría Provincial de Información de San Sebastián, efectuó hasta un total de 57 consultas sobre diferentes vehículos, entre ellos los turismos pertenecientes a la empresa DIRECCION009.
+
+- El 08.04.21 (10:28 horas), desde el terminal con IP NUM035 ubicado en la Comisaría Provincial de Información de San Sebastián consulta 4 veces la matrícula NUM032 de la empresa DIRECCION009, vehículo utilizado por el clan familiar Ceferino, y a las 13:32 horas, desde el terminal con IP NUM038 ubicado en la Comisaría Provincial de Información de San Sebastián, consulta a Inmaculada.
+
+- Desde el 20.04.21 hasta principios del mes de julio, desde los terminales con IP NUM038 NUM035 y NUM036, ubicados en la Comisaría Provincial de Información de San Sebastián, más de 100 consultas de vehículos por matrículas y bastidor, entre ellos los de la mercantil DIRECCION009.
+
+Pese a la evidencia, Raimundo sostuvo en el plenario que estas consultas no tenían relación con Bucanero y su familia; primero dijo que eran consultas relativas a la operación SILENE, y después que eran consultas destinadas a "controlar el entorno del confidente", aferrándose a la condición que atribuye a Bucanero y que no ha sido acreditada; (...) De cualquier forma, esta versión no explica que hiciera uso de claves de acceso ajenas. No es posible considerar que esta conducta está justificada. El Agente n. NUM053 declaró que Raimundo hacía consultas con las claves de otro agente que seguía en activo, de manera que con el mismo número de usuario se comprobó que se habían hecho consultas simultáneas en Madrid y en San Sebastián, relativas a miembros del clan familiar y vehículos. El mismo testigo declaró que Raimundo no tenía capacidad para investigar hechos ocurridos en Madrid desde su destino en San Sebastián, lo cual tiene lógica, y que consultó datos de vehículos mientras tenían matrículas provisionales, dejando de hacerlo cuando pasaba a definitiva; preguntado si los datos que consultó eran secreto oficial, declaró que no, pero que eso no explicaba por qué hizo uso de claves ajenas. Por su parte, el Agente n. NUM061 declaró que Raimundo utilizó sus claves cuando ya él no era su jefe de grupo, siendo claves personales e intransferibles; dijo que él podría prestar sus claves para una investigación en curso, siempre y cuando en la consulta quedara reflejado a qué investigación se refería. No fue éste el caso de las consultas de Raimundo. La Agente n. NUM062 confirmó que Raimundo utilizó sus claves desde su ordenador, donde ella las tenía guardadas, abriendo una sesión nueva, que no le informó del motivo de la consulta, y que después supo que había consultado datos de matrículas
+
+.
+
+71.3.4.-La reiteradamente invocada condición de Abelardo como confidente, dando pie así a una relación personal que justificaría la actuación del recurrente, es descartada en la sentencia recurrida con una línea de razonamiento que, desde luego, es más que coherente:
+
+La relación de Raimundo con Bucanero no responde a la de policía y confidente. De entrada, no se ha acreditado que Bucanero se convirtiera en confidente de la Policía en torno a septiembre de 2020, como declaró Raimundo. Respecto a la cualidad de confidente, en general, los testigos declararon de forma unánime que el modo de proceder correcto respecto a un confidente es registrarlo en una base de datos específica, por ser persona que facilita datos de manera reiterada, y que todo el proceso debe ser supervisado por los superiores correspondientes. El Agente n. NUM063 declaró que cuando él trabajaba con Raimundo sabe que tenía un confidente italiano, dado de alta correctamente; la declaración testifical prestada por Rafael no permite identificarlo con dicha persona, aunque esta cuestión no tiene trascendencia alguna. Más interés tiene la declaración de la Agente n. NUM064, que fue jefa de grupo de Raimundo en la Brigada de Información de la Comisaría de San Sebastián; la testigo manifestó que Raimundo le habló de Bucanero, le dijo que tenía información sobre miembros de ETA huidos a Sudamérica, de lo cual se dio cuenta a los superiores, que autorizaron una cita; en esa cita, celebrada en enero de 2021, cuando ya no estaba a sus órdenes, Raimundo no facilitó ni ocultó la identidad de Bucanero, algo que según la testigo era competencia de otro mando, y si bien la información facilitada era correcta, el hecho es que no era una novedad y ya era conocida por la Policía. Esta actuación de Raimundo sólo se explica como un medio de ocultar bajo una apariencia de trabajo policial lo que no era sino la colaboración estrecha con Abelardo en sus actividades. Con igual intención, en fecha 28 de septiembre de 2021 entregó a la Agente n. NUM064 una "nota interior" en la que refería que una fuente le había manifestado disponer de información sobre movimientos de dinero de los cárteles mexicanos de la droga en Estados Unidos; en una segunda "nota" del mismo día añadió que tenía conocimiento de corrupción policial en España, connivencia en puntos de entrada de cocaína en España, y sobre la entrada de droga camuflada en paquetes de café de Colombia. La testigo declaró que este modo de proceder de Raimundo le llamó la atención, porque no es el ordinario, y revelaba la presencia de Raimundo en lugares en los que no tenía que estar por su trabajo, y realizando gestiones para las que no estaba autorizado; ella le dijo que aquello no tenía ni pies ni cabeza, pero no entró en discusiones porque ya se veía que Raimundo seguía una deriva inadecuada; en opinión de la testigo, que la Sala considera cualificada, Raimundo trataba de cubrirse y hacer ver que estaba trabajando cuando en realidad sólo actuaba por interés personal. De la misma forma actuó después del registro de la nave de DIRECCION003, realizando una llamada a su jefe para informar de la existencia en una nave de DIRECCION003 de gran cantidad de marihuana y un laboratorio de procesamiento de cocaína, cuando ya sabía que había sido intervenida. En su declaración en el plenario, Raimundo manifestó que esa información se la facilitó verbalmente a su jefe más o menos cinco días antes de la operación, pero que realizó una nota después de ésta, sin explicar el motivo de esta demora. Afirmó que son más las informaciones que se dan verbalmente que las presentadas por escrito, lo cual arroja aún más dudas sobre el motivo de las notas escritas. En el registro de la vivienda de Raimundo, sita en la DIRECCION018, de DIRECCION019 (Cantabria) fueron intervenidos 22.160 euros en billetes fraccionados, 28 monedas de oro y dos lingotes de oro, tasados pericialmente en la suma de 47.744,25 euros. Preguntado sobre este particular, Raimundo ofreció una explicación poco creíble, afirmando que el dinero provenía de regalos de boda en metálico que él había guardado, de dinero que dejó una tía al fallecer en 2020, de una vivienda que tuvo en alquiler, y una comisión; ningún dato concreto facilita, ni especifica qué cantidad correspondería a cada concepto, ni acredita ninguna de estas circunstancias. Tampoco prueba haber comprado a Bucanero ni las monedas ni los lingotes de oro...
+
+71.3.5.-Concluye la sentencia cuestionada:
+
+...La prueba practicada revela su estrecha labor con la organización ya desde su momento inicial realizando actos para favorecer su entrada en el país, y facilitando las primeras gestiones relativas a su documentación, suscripción de pólizas de seguro y posteriormente realizando múltiples búsquedas de datos sobre personas y vehículos vinculados a la organización, haciendo uso de las bases de datos policiales mediante claves de acceso personal de otros funcionarios policiales. Dichas actividades se afirman fueron realizadas por empatizar con la situación que trajo a los procesados a España, de la que surgió una amistad. Se apela ambivalentemente a la relación de amistad con Abelardo y a la par a su carácter de confidente. Al margen de que tales alegaciones exceden de una relación profesional con un confidente, como destaca la Sentencia apelada, no consta siquiera el desempeño de tal condición por Abelardo y ni consta registrado en el registro de confidentes. De igual forma, el sentido de las búsquedas constantes no se entiende si no se realizan en un entorno de dar cobertura e información a la organización y controlar cualquier posible investigación sobre los mismos. En primer lugar, el uso de claves ajenas revela una precaución, contraria a la manifestación de que se trataba de una forma de control del presunto confidente, abarcan a más personas y a vehículos pertenecientes a la organización, en los que el interés informativo sugiere un rastreo constante con claves ajenas de posibles investigaciones policiales. Las consultas no solo se refieren a vehículos, ni siquiera al supuesto "confidente" Abelardo, sino también a terceras personas como trabajadores de la finca, lo cual incide en que la información objeto de rastreo en todo caso afecta a la privacidad de terceros, miembros de la organización, y no se justifica ni por el ya descartado "control del confidente" ni menos la supuesta inocuidad de haber compartido dicha información de búsquedas, que alcanzaba terceros, con el procesado Abelardo. Se constatan indicios suficientes que conllevan con enlace preciso y directo a lo concluido en la Sentencia apelada, la cual detalla las maniobras empleadas para no dejar rastro de las búsquedas, como el uso de claves ajenas, como las posteriores, una vez que se efectúan los registros, para camuflar su participación, como se evidencia del minucioso análisis de la prueba testifical y documental practicada. A este fin procede resaltar la no menor importancia de que un subinspector de San Sebastián, que no tenía encomendada dicha investigación, pretenda documentar días más tarde de un registro ya practicado y que afecta a la organización de quien dice ser su confidente y amigo, pusiera en conocimiento de su jefe la existencia en una nave de DIRECCION003 de gran cantidad de marihuana y un laboratorio de procesamiento de cocaína, lo cual evidencia que, lejos de lo que pretende la defensa, existía esa relación de colaboración con la organización y conocimiento de la referida actividad delictiva
+
+.
+
+71.3.6.-No existe tampoco quiebra del derecho a la presunción de inocencia en relación con las bases fácticas que explican la condena de Raimundo como autor de un delito de cohecho del art. 419 y de un delito continuado de revelación de secretos por funcionario público de los arts. 417 y 74 del CP:
+
+Las pruebas expuestas acreditan que Raimundo reveló informaciones de interés para la organización haciendo uso de medios técnicos de la Policía, incluso de claves personales de otros funcionarios, con el fin de facilitar las actividades del entramado. Con independencia de que los datos revelados no fueran secreto (y la jurisprudencia, como se ha visto, no acota el tipo al concepto oficial de "secreto"), se trataba de informaciones que no estaban al alcance general, que sólo podían obtenerse a través de las bases de datos de acceso restringido, y que resultaban útiles para las actividades delictivas de la organización. No es creíble que estos actos los realizase Raimundo por simpatía, por empatía con la situación de los otros acusados, o por mero deseo de ayudarlos. De hecho, se ha constatado que Bucanero le pagó al menos una parte de un viaje a Disneyland París, y que Raimundo ha hecho uso de vehículos de la organización, todo lo cual representa una retribución en especie, y, en consecuencia, un beneficio personal asociado a su contribución a las actividades de la organización. Tampoco es creíble la explicación que dio a la suma de dinero y las monedas y lingotes de oro hallados en el registro de su vivienda, al no haber aportado datos concretos y pruebas que destruyan el indicio de que los mismos constituían otra forma de retribución. Tampoco es creíble que un agente de Policía con su trayectoria se arriesgase a que sus actividades fueran detectadas, como así ocurrió, sin la perspectiva de obtener algo a cambio, teniendo conocimiento, como sin duda tenía, de las consecuencias de sus actos".
+
+Por lo que ha de concluirse existe prueba suficiente del delito de cohecho del art. 419 del código penal . Ya no solo el pago de un viaje, o el uso de vehículos, sino la presencia en su vivienda de dinero en efectivo, oro en lingotes y monedas (el Ministerio Fiscal incidió con acierto en el acto de la vista en el hecho de que los acusados, en lo declarado al llegar a España, incluyeron monedas de oro y lingotes), cuya procedencia lícita, al margen de sus manifestaciones, no se acredita, son indicios solventes que, unidos al resto de la prueba practicada evidencia la actividad de Raimundo a favor de la organización e infieren la suficiencia de la prueba de la comisión de dicho delito. De igual forma, concurre prueba suficiente del delito continuado de revelación de secretos. Se trata de datos personales relativos a vehículos o personas, integrantes de la organización, que son facilitados al procesado Abelardo, y como hemos indicado con anterioridad solo se explican desde una actividad de rastreo constante a fines que son útiles a la referida organización. La prueba del concierto ilícito y recompensa viene así evidenciada por la suficiencia de la prueba indiciaria de cargo
+
+.
+
+71.3.7.-En definitiva, no se vulnera el derecho a la presunción de inocencia cuando el órgano de enjuiciamiento proclama una valoración probatoria que ha tomado como base prueba lícita, de inequívoco signo incriminatorio y que ha sido expuesta conforme a elementales exigencias de razonabilidad. Ninguno de los argumentos ofrecidos por la defensa ha sido orillados y han obtenido el silencio como respuesta.
+
+Que ni la Audiencia ni el Tribunal Superior de Justicia hayan aceptado las explicaciones alternativas del recurrente sobre las razones de sus gestiones para hacer posible el establecimiento de Abelardo y su familia en España, para proporcionarles documentación, para adquirir su vivienda, para disponer de una flota de vehículos, para asegurarles información obtenida con claves ajenas en las bases de datos policiales y, en fin, para detentar el dinero y los lingotes de oro intervenidos en su domicilio, no encierra una vulneración del derecho a la presunción de inocencia.
+
+-Los motivos que se formalizan por infracción de ley, al amparo del art. 849.1 de la LECrim, se descomponen también en distintos submotivos.
+
+72.1.-Se denuncia infracción de los arts. 369 bis, 368 y 369.1.1 y 5 del CP. La sentencia objeto de recurso -se alega- acoge la calificación jurídica de la sentencia de instancia en cuanto a la condena por delito contra la salud pública agravado, en concurso de normas con el artículo 570 bis, 1 y 2 b) del CP. Sin embargo, dados los hechos probados de la sentencia no existe ni un solo elemento fáctico o prueba de cargo que avale la participación de nuestro mandante en los hechos que configuran tales tipos penales, por lo que el juicio de tipicidad adolece de falta de las motivaciones fácticas y jurídicas necesarias para el mismo. Asimismo, la subsunción de los hechos en el tipo penal del artículo 368 es improcedente al presentar el material incautado THC inferior a 0,2 %.
+
+72.2.-Sobre los efectos que en el juicio de tipicidad puede tener la composición en THC del cánnabis aprehendido, nos remitimos a lo ya expuesto y razonado en los FFJJ 13 y 25.
+
+La alegada ausencia de elementos fácticos o pruebas de cargo que acrediten la participación del acusado en el delito de tráfico de drogas por el que fue condenado Raimundo se aparta de la exigencia metódica que impone el art. 849.1 de la LECrim. Esta vía casacional no autoriza reabrir un debate probatorio acerca del sostén fáctico que ha permitido el juicio de subsunción.
+
+El recurrente prescinde de que los arts. 368 y 369 del CP abarcan todo el ciclo de la droga, hasta el punto de que es muy difícil que cualquier acción dirigida a acercar el estupefaciente al consumidor no pueda subsumirse en alguno de los verbos generales de «promover», «facilitar» o «favorecer»el consumo de sustancias tóxicas previsto en el tipo penal. La aportación de Raimundo al éxito de la distribución de cannabis y cocaína por parte del clan familiar liderado por Abelardo fluye con toda claridad del hecho probado. La organización criminal en que se integró el recurrente sólo tenía un objeto. No es sostenible la idea de una ingenua adscripción a ese objeto, basada en el desconocimiento por parte de Raimundo -no se olvide, subinspector de policía- de la tarea que llevaban a cabo aquellos a los que se facilitó la llegada a España, se convirtió en conocedores privilegiados de información obtenida en bases de datos policiales, se ayudó a la adquisición del inmueble que iba a representar su residencia y con los que, en fin, se compartió importantes cantidades de dinero y lingotes de oro.
+
+72.3.-El motivo añade una queja complementaria que la Sala no va a abordar. Se trata de la doble valoración que, a su juicio, se habría producido en relación con la condición funcionarial del recurrente, que ha servido para la aplicación del tipo agravado previsto en el art. 369.1 del CP y para sancionar a Raimundo como autor de un delito de cohecho del art. 419 del CP.
+
+Se trata de una cuestión nueva que, como indica el Fiscal, no fue suscitada en apelación y, por consiguiente, no puede ser ahora valorada, al impedirlo la naturaleza extraordinaria del recurso de casación. El mismo criterio hemos seguido en relación con alegaciones sobrevenidas de otros recurrentes que pretenden hacer valer ante esta Sala cuestiones jurídicas que fueron silenciadas en apelación. En los FFJJ 53.2 y 56.2 de esta misma sentencia señalamos las claves de este rechazo.
+
+Baste ahora señalar que el recurso de casación, como tantas veces hemos apuntado, no constituye una tercera instancia, sino un mecanismo de impugnación de sentencias con el fin de lograr la correcta aplicación del derecho. Lo contrario supondría transmutar la naturaleza del recurso haciendo de él lo que no quiso la redacción decimonónica de la LECrim y, por supuesto, lo que el legislador subrayó a partir de la reforma operada por la Ley 41/2015, 5 de octubre. Esta Sala no incluye en su espacio funcional una instancia revisora plena. El debate casacional ha de ser escrupulosamente congruente con el objeto del litigio tal y como fue formalizado en la instancia y recurrido en la apelación.
+
+Se desestima el submotivo ( arts. 884.4 y 885.1 de la LECrim).
+
+-Se aduce por la defensa la infracción de los arts. 417 y 418 del CP, que han servido de cobertura para la condena de Raimundo como autor de un delito de difusión de información reservada de la que se tenga conocimiento por razón del cargo.
+
+73.1.-Del relato fáctico de la sentencia impugnada no se deduce -apunta el recurrente- la concurrencia de los elementos exigidos legalmente para configurar el juicio de tipicidad. Raimundo accede a bases de datos de la policía que no contienen datos reservados o ajenos o vedados al conocimiento de terceros. Accede para consultar matrículas de vehículos o números de bastidor de los mismos, muchos de ellos que no guardaban relación alguna con ninguno de los encausados. En el caso bajo examen la sentencia no identifica ni acredita ni uno solo de esos elementos con el grado de concreción exigible. No consta cuál es la «información reservada»supuestamente obtenida ni en qué consiste su carácter secreto; no se prueba que la información fuera divulgada a persona ajena al servicio; ni se demuestra perjuicio alguno para la Administración o para terceros.
+
+Considera que la mera consulta de datos abiertos o de simple identificación (matrícula, bastidor) no basta para criminalizar la conducta salvo que se pruebe su finalidad ilícita y su revelación externa.
+
+73.2.-La censura que da vida al motivo no puede ser compartida por esta Sala. De entrada, desliza argumentos que desbordan el marco definido por la vía casacional del art. 849.1 de la LECrim, adentrándose en consideraciones probatorias que ya han sido tratadas bajo la cobertura.
+
+Además, observamos un marcado contraste entre el apreciable nivel técnico que refleja en su conjunto el recurso de casación formalizado y la equívoca cita de precedentes jurisprudenciales de esta Sala que ni existen ni son coincidentes con el discurso que se pretende apoyar.
+
+Es el caso de la STS 256/2017, que la defensa fecha como dictada el 28 de marzo y que, sin embargo, es de 6 de abril y fue pronunciada en el recurso de casación núm. 10623/2016. En ninguno de sus fundamentos jurídicos se alude a la tipicidad del acceso ilegal a bases de datos policiales. Lo mismo sucede con la cita de la STS 712/2018, 21 de diciembre, que resuelve el recurso de casación contra una sentencia dictada por el Juzgado de lo Penal núm. 16 de Valencia, en el marco de un expediente de refundición de condenas, sin mención alguna al problema interpretativo ligado a la aplicación del art. 417.1 del CP.
+
+73.3.-.Sí tiene plena vinculación con el supuesto que ahora contemplamos la STS 810/2021, 22 de octubre, citada en el recurso en apoyo de la queja por infracción del principio de especialidad, pero omitiendo lo que verdaderamente está enlazado con el supuesto que centra nuestra atención. En efecto, se trataba de calificar la conducta de un inspector de policía que accedía a las bases policiales de datos con el fin de ofrecer información a delincuentes que se hallaban en busca y captura. Decíamos entonces:
+
+Es, por tanto, en ese marco típico de referencia en el que hemos de situarnos para valorar la corrección del juicio de tipicidad proclamado en la instancia. Pues bien, el párrafo primero del art. 417.1 del CP abarca en su literalidad, tanto secretos como informaciones sujetas, por su propia naturaleza, al deber de confidencialidad o reserva que impone el estatuto jurídico llamado a reglar el ejercicio o la participación en las funciones públicas.
+
+El texto refundido de la Ley del Estatuto Básico del Empleado Público establece, entre los deberes de los funcionarios, que éstos "guardarán secreto de las materias clasificadas u otras cuya difusión esté prohibida legalmente, y mantendrán la debida discreción sobre aquellos asuntos que conozcan por razón de su cargo, sin que puedan hacer uso de la información obtenida para beneficio propio o de terceros, o en perjuicio del interés público".
+
+En línea similar, se expresa el art. 5.5 de la Ley 2/1986, 13 de marzo, de Fuerzas y Cuerpos de Seguridad del Estado , reiterada en el art. 15 del Real Decreto 769/1987, 19 de junio , sobre regulación de la Policía Judicial.
+
+Es evidente que la intervención del derecho penal no puede reservarse a cualquier infracción formal de ese deber normativo. Si así fuera, se contravendrían los principios que legitiman la aplicación de la norma penal. Pero también es cierto que, en el presente caso, los datos que fueron difundidos por la intervención del acusado tuvieron un significado especialmente provechoso para el destinatario de esa información. Se trataba de un delincuente, requisitoriado y condenado en Francia por un delito de fraude, que quería cerciorarse de que esa orden judicial de busca y captura no iba a acarrear su detención. Minusvalorar el carácter confidencial y reservado de la información que es objeto de tratamiento en las bases de datos policiales, supondría exponer su propia funcionalidad al fracaso que representa el conocimiento anticipado y clandestino de esos datos por los mismos sujetos requisitoriados. Con su actuación, el acusado, prevaliéndose de su condición de inspector-jefe, no se limitó a un acceso inocuo e irrelevante a la base de datos, sino que proporcionó una estratégica ventaja a un condenado buscado internacionalmente y que quería descartar el riesgo de su detención.
+
+De hecho, no faltan precedentes de esta Sala que han incluido en el tipo agravado hechos similares a los que son objeto de enjuiciamiento, posibilidad ahora vedada por exigencias elementales ligadas a la naturaleza extraordinaria del recurso de casación y a la vigencia del principio acusatorio. En la STS 67/2013, 30 de enero , razonábamos que "...el bien jurídico protegido está integrado por la preservación y utilización correcta de los medios o instrumentos esenciales para el cumplimiento de los fines de la administración, y en el concreto aspecto que nos atañe, por la estricta confidencialidad de las informaciones de que dispone la policía y que no deban ser conocidas ni aprovechadas por tercero a través del funcionario que indebidamente las revela. (...) El relato fáctico (...) evidencia (...) que la información revelada por el recurrente no se refería solo a la existencia o no de requisitorias, sino también si se encontraba una persona fichada policialmente o no, si constaba una orden de localización de domicilio, cuantas órdenes de búsqueda tenía una persona o, por último, si varios de ellos tenían orden internacional de búsqueda dictada por Interpol, y no siempre se transmitía la información a la persona interesada directamente, aunque sí a su instancia. Es indudable que con la conducta contenida en el relato fáctico el recurrente incumplió un deber de sigilo que le obligaba, produciendo un perjuicio al servicio que la Administración Pública presta, constituido por la quiebra de la credibilidad que el colectivo social debe tener en todas las instituciones y los funcionarios que las encarnan, amén de producir una perturbación en el servicio público, frustrando sus objetivos"
+
+.
+
+-Al amparo del art. 849.1 de la LECrim se denuncia la infracción de los arts. 419 y 424 del CP.
+
+74.1.-No existen razones jurídicas -se sostiene- para entender acreditado que Raimundo recibía algún tipo de dádiva o favor de cualquier especie a cambio de la realización de actos propios de su condición de policía para terceras personas. No existe nexo causal entre un acto administrativo realizado por Raimundo como funcionario de Policía y la entrega de dádiva o regalo por terceros.
+
+La sentencia impugnada considera probado que la llegada de unos ciudadanos mejicanos a nuestro país fue facilitada por Raimundo al contactar con una compañía de vuelos chárteres. Es evidente, que esta acción no tiene nexo causal alguno con la condición de policía de Raimundo. Como tampoco tiene que ver con el hecho de que ayude a unos conocidos o familiares de una de sus fuentes- Abelardo- a renovarse el DNI o con las gestiones para su empadronamiento o residencia. Tampoco acceder a bases de datos que no contienen datos reservados, como hemos indicado, y que ni siquiera son identificadas en el relato de hechos probados por lo que se desconocen tales «bases de datos»,puede conectarse con la recepción de dádiva de ninguna clase.
+
+74.2.-El juicio histórico ofrece la descripción fáctica que justifica la condena por el delito de cohecho previsto en el art. 419 del CP.
+
+Tras describir las gestiones practicadas por Raimundo a favor del líder de la organización criminal encabezada por Abelardo -su alcance ha sido ya tratado en otros antecedentes- concluye la Audiencia Provincial: «...como contraprestaciones correspondientes a la obtención de esa información, el procesado Leon le hizo entrega de cantidades indeterminadas de dinero, encontrándose al tiempo de la entrada y registro en su domicilio sito en DIRECCION018 de la localidad de DIRECCION019 (Cantabria) donde se le intervino 22.160€ en billetes fraccionados, 28 monedas de oro y dos lingotes de oro valorados en la cuantía de 47.744,25€».
+
+En eso consiste precisamente el delito de cohecho. Hemos dicho en numerosos precedentes que el delito de cohecho protege el prestigio y la eficacia de la Administración pública garantizando la probidad e imparcialidad de sus funcionarios y asimismo la eficacia del servicio público encomendado a otros ( SSTS 698/2014, 28 de octubre; 1618/2005, 22 de diciembre y 1076/2006, 27 de octubre). También hemos señalado que los delitos de cohecho constituyen infracciones contra la integridad de la gestión administrativa al dejarse llevar el funcionario por móviles ajenos a su misión pública como lo es el hecho ilícito y, por su parte, el particular ataca el bien jurídico consistente en el respeto que debe al normal funcionamiento de los órganos del Estado ( STS 186/2012, 14 de marzo).
+
+El añadido discurso del recurrente para intentar acreditar que los lingotes de oro y el metálico intervenido en su domicilio tenían una procedencia ajena a la actividad de la organización se aparta de las bases sobre las que puede discutirse el acierto en el juicio de tipicidad.
+
+Se rechaza el motivo por su falta de fundamento ( arts. 884.3 y 4 y 885.1 de la LECrim).
+
+-El error en la aplicación del art. 369 bis del CP, al amparo del art. 849.1 de la LECrim, se justifica por el recurrente alegando que no concurren en las acciones imputadas a Raimundo los elementos necesarios para entenderlo integrado en una organización criminal.
+
+75.1.-También ahora el motivo incursiona en consideraciones probatorias que no son viables en el cauce procesal que ofrece el error de derecho en la aplicación de una norma penal de carácter sustantivo.
+
+Basta una lectura del hecho probado -premisa metódica inderogable para el éxito del razonamiento escudado en el art. 849.1 de la LECrim, para concluir la correcta calificación jurídica de los hechos:
+
+Desde al menos el mes de junio del año 2020 y hasta el momento en que se produjeron las entradas y registros el 17 de mayo de 2022, el procesado Leon, alias " Bucanero", lideraba el clan familiar Ceferino, proveniente de Méjico, integrado por miembros de su familia extensa: sus padres los procesados Abelardo y Inmaculada; su hermano el procesado Luis; sus tíos el procesado Teodosio, el procesado Zulima, y el procesado Benigno; su primo el procesado Leoncio, y el procesado Inocencio; por otros ciudadanos de origen Mejicano que al tiempo habían prestado servicios a su persona en Méjico traslados a España con el mismo cometido, como el procesado Cipriano, el procesado Pedro Antonio y el procesado Abel; y otros ciudadanos de origen español trabajadores al servicio del clan familiar como el procesado Benito y el procesado, subinspector de Policía Nacional Raimundo. Todos ellos integraban dicha organización formando una trama constituida y estructurada a merced a las relaciones personales y medios materiales dispuestos por ellos, que tenía como finalidad última y exclusiva, el cultivo, elaboración y distribución de marihuana a través de cultivos 'indoor', y la elaboración y fabricación de cocaína, dedicándose concertadamente tanto en el propósito como en la acción, a obtener un provecho económico irregular según reglas de reparto que más adelante se determinaran, de una manera organizada, estable y con una duración indefinida, con fines de cultivo, elaboración, adquisición, manipulación y distribución a favor de terceras personas de sustancias estupefacientes, concretamente marihuana y cocaína a gran escala, utilizando para ello naves e invernaderos 'indoor', a cambio de un precio, desentendiendo el cierto y grave menoscabo que su consumo causaba a los destinatarios últimos, consecuencias que bien conocían, anteponiendo su afán de enriquecimiento individual, para distribuir a nivel nacional y europeo, estableciendo contactos con miembros de otras organizaciones, como ciudadanos de origen chino o individuos de la DIRECCION035 (Madrid) vinculados al tráfico de sustancias estupefacientes
+
+.
+
+Es este fragmento el que contiene las claves para concluir la correcta subsunción de los hechos en el art. 369 bis del CP. La aportación de Raimundo a ese entramado delictivo se describe también en otros pasajes del juicio histórico que han sido subrayados por la Sala al resolver el motivo en el que se denunciaba la vulneración del derecho a la presunción de inocencia (cfr. FJ 72.4.1).
+
+Se rechaza el motivo ( art. 884.3 y 4 y 885.1 de la LECrim).
+
+-Se considera indebidamente aplicado el art. 72 del CP, al no razonar el proceso de individualización de la pena impuesta.
+
+En el FJ 44.2 recordábamos la jurisprudencia de esta Sala que modula el deber de motivación de las penas individualmente impuestas cuando su extensión no se aparta de la franja mínima que autoriza el arco dosimétrico de cada tipo penal. Es precisamente eso lo que aquí ha acontecido. De ahí la desestimación del motivo ( art. 885.1 de la LECrim).
+
+-Se habría infringido el art. 74 del CP -estima la defensa- por la falta de razonamiento alguno que justifique la calificación del delito de revelación de secretos como un delito continuado.
+
+De nuevo el argumentario que sirve de apoyo al motivo, bajo la aparente invocación de un déficit de motivación, lo que cuestiona son razones probatorias, referidas al número de veces que Raimundo facilitó a terceros información conocida por razón de su cargo.
+
+El relato de hechos probados describe con exactitud cronológica el número de ocasiones en las que, sin razón vinculada al ejercicio de su función como policía en la Brigada de Información de San Sebastián, el acusado accedió a bases de datos policiales para conocer información ligada al clan de los Ceferino. Ahí están las bases fácticas de su condena como autor de un delito continuado de revelación de información privilegiada del art. 417 del CP.
+
+Se desestima el motivo ( art. 884.3 y 4 y 885.1 de la LECrim).
+
+-Otro submotivo invoca infracción del art. 21.6 del CP, en relación con el art. 66 del mismo texto, al no apreciar la circunstancia atenuante de dilaciones indebidas.
+
+La remisión al FJ 15 de esta resolución, en la que damos respuesta a la misma alegación formulada por otros recurrentes, permite conocer las razones de la desestimación del motivo ( art. 885.1 de la LECrim).
+
+-Por error de hecho en la valoración de la prueba, derivado de documentos que evidencian el error del juzgador, se formaliza un nuevo motivo al amparo del art. 849.2 de la LECrim.
+
+79.1.-En la causa existen documentos oficiales -se razona- que revisten la característica de literosuficiencia, exigida jurisprudencialmente, que evidencian un claro error en la valoración de la prueba. Desde el inicio del proceso, consta que los agentes investigadores han ocultado datos relevantes a la instrucción, y en los diferentes oficios e informes tanto de la UDEV como de la Unidad de Asuntos Internos de la Policía se deducen circunstancias, expuestas por la defensa, que no han sido ponderadas por la sentencia en ningún momento. Raimundo contaba con un informante, Leon, uno de los encausados, y así lo hizo saber a sus superiores en diversas notas informativas, en las que trasladó información relevante para la incautación de alijos importantes. Esta circunstancia ha sido omitida por la sentencia impugnada, que ratifica el relato de hechos probados de la sentencia de instancia.
+
+79.2.-Ninguno de los documentos que invoca la defensa reúnen el carácter de literosuficiente. De hecho, las citas con las que pretende acreditar el error valorativo se basan en documentos que no dicen lo que la defensa pretende atribuirles. La invocación de su contenido está inspirada en una legítima estrategia defensiva que, sin embargo, prescinde de la realidad impuesta por el art. 849.2 de la LECrim.
+
+La jurisprudencia del Tribunal Supremo -como recordábamos en las SSTS 40/2026, 26 de enero; 855/2025, 17 de octubre; 724/2025, 15 de septiembre; 648/2025, 7 de julio; 501/2025, 29 de mayo; 285/2024, 21 de marzo; 787/2022, 26 de septiembre; 483/2021, 3 de junio; 207/2021, 8 de marzo; 794/2015, 3 de diciembre; 326/2012, 26 de abril; 1129/2011, 16 de noviembre y 1023/2007, 30 de noviembre, entre otras muchas- no deja a este respecto margen alguno para la duda. El documento ha de poner de manifiesto el error en algún dato o elemento fáctico o material por su propio poder demostrativo directo. Ese dato o elemento no puede estar contradicho por cualquier otro elemento probatorio que haya sopesado el tribunal. Además, ese dato contradictorio, acreditado documentalmente, ha de ser relevante para modificar alguno de los pronunciamientos del fallo. La autosuficiencia probatoria tiene que traducirse en que el documento, por sí solo, ha de proyectar su intrínseco significado jurídico frente a todos, sin necesidad de otros medios probatorios. Dicho en palabras de la STS 166/1995, 9 de febrero, resulta indispensable que los documentos contengan particulares, circunstancias o datos, que por sí mismos y sin necesidad de complementación, interpretación o razonamientos colaterales, choquen frontalmente con lo declarado probado, acreditando así indubitadamente la desviación que en la apreciación de la prueba se denuncia.
+
+Y nada de lo expuesto concurre en el presente caso. Los documentos que señala el recurrente como demostrativos del error decisorio ni por sí ni en su apreciación interrelacionada, permiten concluir la equivocación valorativa de la Sala. De hecho, sostener la autosuficiencia probatoria de los documentos que se mencionan, frente al cúmulo de pruebas documentales, periciales y testificales desarrolladas durante el plenario encierra, si bien se mira, una invitación a subvertir la coherencia de una valoración probatoria que no pierde su congruencia interna pese a al contenido de esos documentos.
+
+Se desestima el motivo ( art. 885.1 de la LECrim).
+
+-Un cuarto bloque sistemático agrupa varios motivos de desacuerdo que habrían representado un quebrantamiento de forma, al amparo de los arts. 850 y 851.1 de la LECrim.
+
+80.1.-La prueba denegada ( art. 850.1 de la LECrim) en la instrucción y rechazada también en apelación, consistía en la remisión de un exhorto al Juzgado Central de Instrucción núm. 2 de la Audiencia Nacional, a fin de que se aportara testimonio íntegro de las diligencias FEU, procedimiento de la Fiscalía Europea núm. 29/2021.
+
+Los agentes investigadores de la Operación PAPAVER -se alega- habían ocultado que varios de los investigados y hoy encausados en este procedimiento, entre los que se encuentra Raimundo, ya se encontraban investigados por la misma unidad policial en la Operación SILENE, y ello había dado lugar a la incoación de diligencias en la Fiscalía de Granada, primero, y en la Fiscalía Europea después.
+
+80.1.2.-Más allá de las atendibles razones que llevaron al Tribunal Superior de Justicia a rechazar la prueba propuesta al entender que no había sido instada en forma, lo cierto es que, analizada ahora su pertinencia, resulta de todo punto innecesaria.
+
+El hecho de que el recurrente Raimundo estuviera siendo investigado en otro marco procesal no representa obstáculo alguno para convertirse en parte pasiva de un procedimiento distinto seguido ante otro órgano jurisdiccional. Nuestro sistema jurídico conoce mecanismos alegatorios que permiten impedir que la duplicada llevanza de dos procedimientos en paralelo determine una doble sanción, con la consiguiente quiebra de la medida de culpabilidad. No existe, frente a lo que sugiere la defensa, el derecho a ser investigado en un único proceso. La experiencia indica que la «notitia criminis»que lleva a la incoación de un proceso penal puede adoptar muchos formatos, sin que inicialmente exista conexión entre ellos. Será después, a la vista del desarrollo de las respectivas investigaciones, cuando se resuelva acerca de qué órgano judicial ha de asumir la competencia -si se trata de los mismos hechos- o ante quién debe seguirse la investigación -si son hechos distintos-, después de afirmar o negar la conexión procesal entre ellos ( art. 17 de la LECrim).
+
+Cuestión distinta es que la defensa convierta la inicial normalidad de dos incipientes investigaciones, abiertas en atención a distintas noticias delictivas, en una estratagema ideada por los agentes de Policía para así legitimar una investigación puramente prospectiva y burlar las normas de competencia. De esta alegación -entendible en términos de defensa, pero de la que no hay el más mínimo atisbo- ya nos hemos ocupado en el FJ. 2.1.1. A lo allí expuesto nos remitimos.
+
+80.2.-Se denuncia otro quebrantamiento de forma, al amparo del art. 851.1 de la LECrim, al entender que el relato de hechos probados incorpora pasajes que implican la predeterminación del fallo.
+
+80.2.1.-Las expresiones predeterminativas serían las siguientes: «...el liderazgo era desempeñado por el procesado Leon que controlaba, dirigía y supervisaba toda la organización criminal, gestionando funciones...». Y en la página 9, en el relato de hechos probados, se afirma "... que más adelante se determinaran, de una manera organizada, estable y con una duración indefinida».
+
+80.2.2.-La queja es inviable, en la medida en que el vicio denunciado no es acogible cuando el juzgador emplea expresiones en el relato fáctico que están en el lenguaje común, que no son sino meramente descriptivas, pero no técnicas en sentido jurídico, de modo que es válido que se utilicen en la redacción de las sentencias, al conformar su relato histórico, y que desde luego, aunque las emplee el legislador también al describir los tipos penales, no por ello puede decirse que predeterminan el resultado correspondiente a la subsunción judicial, pues en ocasiones se convierten en imprescindibles, arrojando más claridad semántica que, si por un purismo mal entendido, se quisieran construir a base de sinónimos o locuciones equivalentes, muchas veces con aportaciones de frases retorcidas, fruto de un incorrecto léxico, en todo caso, poco comprensible para la ciudadanía.
+
+Como dice la STS 1519/2004, de 27 de diciembre, lo que la LECrim prohíbe por este motivo es la utilización de expresiones estrictamente técnicas que describen los tipos penales. O en palabras de la STS 152/2006, de 1 de febrero, la predeterminación del fallo, como vicio impugnable de cualquier sentencia penal, tiende a evitar que la estructura lógica del razonamiento decisorio, sustituya lo descriptivo por lo valorativo. Con su articulación se impone al órgano judicial la necesidad de una nítida separación entre el juicio histórico y el juicio jurídico (cfr. SSTS 228/2021, 11 de marzo; 390/2014, 13 de mayo; 1229/2011, 16 de noviembre y 401/2006, 10 de abril).
+
+80.2.3.-Conforme a esta idea, está fuera de cualquier duda que en el sintagma que subraya la defensa no existe ninguna confusión entre lo fáctico y lo jurídico. Quien ejerce un liderazgo, controla, dirige, supervisa y gestiona las funciones de una organización criminal está colmando la porción de injusto que ofrece el art. 369 bis del CP, sin que el empleo del mismo vocablo que utiliza el legislador represente una grieta en la estructura lógica del razonamiento jurídico.
+
+-Denuncia la defensa la incongruencia omisiva ( art. 851.3 de la LECrim) al no haber dado respuesta la sentencia recurrida a la alegación que invocaba la nulidad de las pruebas digitales no autenticadas ni sometidas a cadena de custodia fiable. El volcado de los dispositivos aprehendidos en las diligencias de entrada y registro se habían obtenido y aportado a la causa mediante una serie de pantallazos que no fueron sometidos a ningún informe pericial.
+
+No es cierto que el Tribunal Superior de Justicia omitiera un razonamiento a una pretensión formalizada por la defensa. Y es que el carácter sobrevenido de esa petición autorizaba su rechazo a limine.En cualquier caso, en el FJ 48 damos respuesta a una alegación inspirada en la misma idea, suscitada por otros recurrentes. Se impone la remisión a lo allí expuesto.
+
+-La desestimación del recurso conlleva la condena en costas, en los términos establecidos en el art. 901 de la LECrim.
+
+F A L L O
+Por todo lo expuesto, en nombre del Rey y por la autoridad que le confiere la Constitución, esta Sala ha decidido
+
+Que debemos declarar y declaramos NO HABER LUGAR al recurso de casación,interpuesto por las respectivas representaciones legales de D. Leon, D. Luis, D. Teodosio, D. Pedro Antonio, D. Abel, D. Leoncio, D. Inocencio, Dña. Inmaculada, D. Abelardo, D. Zulima, D. Benigno, D. Benito, D. Cipriano y D. Raimundo contra la sentencia 77/2025, 29 de octubre, dictada por el Tribunal Superior de Justicia de Castilla-La Mancha, al resolver el recurso de apelación promovido contra la sentencia 6/2025, 10 de marzo, suscrita por la Sección Primera de la Audiencia Provincial de Guadalajara.
+
+Condenamos a los recurrentes al pago de las costas causadas.
+
+Notifíquese esta resolución a las partes haciéndoles saber que contra la misma no cabe recurso e insértese en la colección legislativa.
+
+Así se acuerda y firma.
+
+Índice de navegación
+ANTECEDENTES DE HECHO
+PRIMERO
+SEGUNDO
+TERCERO
+CUARTO
+QUINTO
+SEXTO
+SÉPTIMO
+FUNDAMENTOS DE DERECHO
+FALLO
