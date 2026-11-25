@@ -8,6 +8,8 @@ Decreto Ejecutivo N.° 37045, *Reglamento a la Ley de Protección al Ciudadano d
 
 Ley N.° 17, *Ley Constitutiva de la Caja Costarricense de Seguro Social CCSS*. (1943). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=2340&param2=127333&param3=1
 
+Ley N.° 4240, *Ley de Planificación Urbana*. (1968). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=35669&param2=143656&param3=1
+
 Ley N.° 6227, *Ley General de la Administración Pública*. (1978). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=13231&param2=153093&param3=1
 
 Ley N.° 7600, *Ley de Igualdad de Oportunidades para las Personas con Discapacidad*. (1996). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=23261&param2=121969&param3=1
@@ -39,6 +41,8 @@ Procuraduría General de la República. (2022, 20 de enero). *Dictamen C-017-202
 Procuraduría General de la República. (2022, 18 de abril). *Dictamen C-079-2022*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23394&param2=0
 
 Procuraduría General de la República. (2023, 24 de noviembre). *Dictamen C-242-2023*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24166&param2=0
+
+Procuraduría General de la República. (2026, 12 de octubre). *Dictamen C-173-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25595&param2=0
 
 Sala Constitucional de la Corte Suprema de Justicia. (2022, 25 de marzo). *Voto N.° 2022-006710, de las 9:20 horas* (expediente 22-003380-0007-CO). NexusPJ.
 
