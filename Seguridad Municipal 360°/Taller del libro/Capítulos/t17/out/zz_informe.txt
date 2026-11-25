@@ -1,11 +1,9 @@
-CITAS TEXTUALES: 39 | OK: 39
+CITAS TEXTUALES: 49 | OK: 49
 
-UBICACIONES VERIFICADAS A MANO (6):
+UBICACIONES VERIFICADAS A MANO (4):
   [t17.md] D:C-107-2026:apartado I: "estableciendo mecanismos que permitan a los muníci" (segmentador: ['V'])
   [t17.md] D:C-107-2026:apartado I: "bien podría constituirse en un mecanismo para ampl" (segmentador: ['V'])
-  [t17.md] V:2020-016680:considerando III: "ha sido reconocido como un derecho de cuarta gener" (segmentador: ['IV'])
   [t17.md] V:2020-016680:considerando III: "en lugares públicos o dependencias administrativas" (segmentador: ['V'])
-  [t17.md] V:2020-016680:considerando III: "Abstenerse de hacer obligatorio el uso de los medi" (segmentador: ['V'])
   [t17.md] O:IGSMF:p. 46: "Se entiende por trámite digitalizado aquel en que " (segmentador: ['47'])
 
 ERRORES (0):

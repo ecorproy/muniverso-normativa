@@ -294,6 +294,45 @@ MANUAL.update({
     'Pérez Hernández et al., 2019': dict(
         file='/home/claude/libro/fuentes/perez_pag.txt',
         ref='Pérez Hernández, L., Tabares Neyra, L. M. y Díaz Legón, O. J. (2019). Lo local –municipal– como espacio de desarrollo en Cuba. Notas para el perfeccionamiento del régimen jurídico de la administración local. *Universidad de La Habana*, (287), 135-160.'),
+    'Katz v. United States, 1967': dict(
+        file='/home/claude/libro/fuentes/doctrina/katz_pag.txt',
+        ref='*Katz v. United States*, 389 U.S. 347 (1967). Supreme Court of the United States.'),
+    'Leaders of a Beautiful Struggle v. Baltimore Police Department, 2021': dict(
+        file='/home/claude/libro/fuentes/doctrina/baltimore_pag.txt',
+        ref='*Leaders of a Beautiful Struggle v. Baltimore Police Department*, No. 20-1495 (4th Cir. 24 de junio de 2021) (en banc). United States Court of Appeals for the Fourth Circuit.'),
+    'STS 797/2025': dict(alias='Espana Tribunal Supremo Penal 2025 797', file='/home/claude/libro/fuentes/doctrina/sts_797_2025.txt',
+        ref='España. Tribunal Supremo, Sala de lo Penal. Sentencia 797/2025, de 2 de octubre (recurso 10005/2025). ECLI:ES:TS:2025:4225.'),
+    'STS 264/2026': dict(alias='Espana Tribunal Supremo Penal 2026 264', file='/home/claude/libro/fuentes/doctrina/sts_264_2026.txt',
+        ref='España. Tribunal Supremo, Sala de lo Penal. Sentencia 264/2026, de 6 de abril (recurso 10648/2025). ECLI:ES:TS:2026:1661.'),
+    'STS 1166/2025': dict(alias='Espana Tribunal Supremo Civil 2025 1166', file='/home/claude/libro/fuentes/doctrina/sts_1166_2025.txt',
+        ref='España. Tribunal Supremo, Sala de lo Civil. Sentencia 1166/2025, de 17 de julio (recurso 5962/2024).'),
+    'SAP Santa Cruz de Tenerife 60/2026': dict(alias='Espana Audiencia Provincial Santa Cruz de Tenerife 2026', file='/home/claude/libro/fuentes/doctrina/sap_tf_60_2026.txt',
+        ref='España. Audiencia Provincial de Santa Cruz de Tenerife, Sección Sexta. Sentencia 60/2026, de 23 de marzo (rollo 729/2025). ECLI:ES:APTF:2026:624.'),
+    'Cass. pen. 28146/2025': dict(alias='Italia Corte di Cassazione 2025', file='/home/claude/libro/fuentes/doctrina/cass_28146_2025.txt',
+        ref='Italia. Corte di Cassazione, Sezione V penale. Sentenza n. 28146, depositata il 31 luglio 2025.'),
+    'Fearn v Board of Trustees of the Tate Gallery, 2023': dict(file='/home/claude/libro/fuentes/doctrina/fearn_2023.txt',
+        ref='*Fearn and others v Board of Trustees of the Tate Gallery* [2023] UKSC 4 (1 de febrero de 2023). Supreme Court of the United Kingdom.'),
+    'Huerta v. Pirker, 2014': dict(file='/home/claude/libro/fuentes/doctrina/pirker_2014.txt',
+        ref='*Huerta v. Pirker*, NTSB Order No. EA-5730, Docket CP-217 (National Transportation Safety Board, 18 de noviembre de 2014).'),
+    "Conseil d'État, 18 de mayo de 2020": dict(alias="Francia Conseil d Etat 2020a", file='/home/claude/libro/fuentes/doctrina/ce_440442_2020.txt',
+        ref="Francia. Conseil d'État, juge des référés. Ordonnance n.° 440442, 440445, de 18 de mayo de 2020 (Association La Quadrature du Net y Ligue des droits de l'homme)."),
+    "Conseil d'État, 22 de diciembre de 2020": dict(alias="Francia Conseil d Etat 2020b", file='/home/claude/libro/fuentes/doctrina/ce_446155_2020.txt',
+        ref="Francia. Conseil d'État, salas 10.ª y 9.ª reunidas. Décision n.° 446155, de 22 de diciembre de 2020 (Association La Quadrature du Net)."),
+    'Conseil constitutionnel, 2021-817 DC': dict(alias='Francia Conseil constitutionnel 2021', file='/home/claude/libro/fuentes/doctrina/cc_2021_817.txt',
+        ref='Francia. Conseil constitutionnel. Décision n.° 2021-817 DC, de 20 de mayo de 2021 (Loi pour une sécurité globale préservant les libertés).'),
+    'Conseil constitutionnel, 2021-834 DC': dict(alias='Francia Conseil constitutionnel 2022', file='/home/claude/libro/fuentes/doctrina/cc_2021_834.txt',
+        ref='Francia. Conseil constitutionnel. Décision n.° 2021-834 DC, de 20 de enero de 2022 (Loi relative à la responsabilité pénale et à la sécurité intérieure).'),
+    'Ryneš, 2014': dict(alias='Tribunal de Justicia de la Union Europea 2014', file='/home/claude/libro/fuentes/doctrina/rynes_2014.txt',
+        ref='Tribunal de Justicia de la Unión Europea, Sala Cuarta. Sentencia de 11 de diciembre de 2014, *František Ryneš c. Úřad pro ochranu osobních údajů*, asunto C-212/13.'),
+    'Long Lake Township v. Maxon, 2024': dict(
+        file='/home/claude/libro/fuentes/doctrina/maxon_msc_pag.txt',
+        ref='*Long Lake Township v. Maxon*, No. 164948 (Mich. 3 de mayo de 2024). Supreme Court of the State of Michigan.'),
+    'Long Lake Township v. Maxon, 2021': dict(
+        file='/home/claude/libro/fuentes/doctrina/maxon_coa_pag.txt',
+        ref='*Long Lake Township v. Maxon*, No. 349230 (Mich. Ct. App. 18 de marzo de 2021). Court of Appeals of the State of Michigan.'),
+    'Harvard Law Review, 2025': dict(
+        file='/home/claude/libro/fuentes/doctrina/maxon_pag.txt',
+        ref='Harvard Law Review. (2025). Fourth Amendment — Unreasonable searches — Michigan Supreme Court holds exclusionary rule inapplicable in the civil context. Long Lake Township v. Maxon, 15 N.W.3d 118 (Mich. 2024). *Harvard Law Review*, *138*, 1941-1950.'),
     'Wilches-Chaux, 2007': dict(
         file='/home/claude/libro/fuentes/wilches_pag.txt',
         ref='Wilches-Chaux, G. (2007). Lo local-municipal como unidad de gestión. *Medio Ambiente y Urbanización*, (67), 113-126.'),
@@ -516,7 +555,18 @@ RM = {
     'heredia-vigilancia': 'Heredia/Heredia/Reglamento regulador para la vigilancia de vías públicas mediante dispositivos tecnológicos o técnicos (except (2019).md',
     'escazu-sipco': 'San José/Escazú/Reglamento del Sistema Integral Policial de Comando y Control de Escazú (SIPCO) (2020).md',
     'quepos-video': 'Puntarenas/Quepos/Reglamento del Centro de Video Protección y Monitoreo de Municipalidad de Quepos (2026).md',
+    'riocuarto-construccion': 'Alajuela/Río Cuarto/Reglamento para el control constructivo de obras civiles de la Municipalidad de Río Cuarto (2025).md',
+    'launion-construccion': 'Cartago/La Unión/Reglamento de regularización de construcciones del cantón de la Unión (2022).md',
     'santaana-policia': 'San José/Santa Ana/Reglamento para la Policía Municipal de la Municipalidad de Santa Ana (2026).md',
+    'upala-internet': 'Alajuela/Upala/Reglamento para la Instalación de Locales de Servicio Público de Internet (2001).md',
+    'sanpablo-internet': 'Heredia/San Pablo de Heredia/Reglamento para Instalación de los Locales de Servicio Público de Internet en el Cantón San Pablo (2001).md',
+    'esparza-internet': 'Puntarenas/Esparza/Reglamento para la Instalación de los Locales de Servicio Público de Internet de la Municipalidad de Esparza (2001).md',
+    'talamanca-internet': 'Limón/Talamanca/Reglamento para Instalación de los Locales de Servicio Público de Internet (2001).md',
+    'poas-telecom': "Alajuela/Poás/La Municipalidad de Poás Adoptar, en todos sus extremos, las disposiciones del Decreto Ejecutivo N° 44335-MICITT, denominado _Reglamento a la Ley para (2024).md",
+    'sarapiqui-telecom': 'Heredia/Sarapiquí/La Municipalidad de Sarapiquí adoptar, en todos sus extremos, las disposiciones del Decreto Ejecutivo N° 44335 (2025).md',
+    'limon-telecom': 'Limón/Limón/Adhesión de la Municipalidad de Limón al Decreto Ejecutivo N° 44335 Reglamento a la Ley para incentivar y prom (2025).md',
+    'alajuela-virtuales': 'Alajuela/Alajuela/Reglamento de sesiones virtuales del concejo municipal de Alajuela (2020).md',
+    'sancarlos-ibi': 'Alajuela/San Carlos/Reglamento Declaración del Impuesto de Bienes Inmuebles Vía Internet en el Cantón de San Carlos (2009).md',
     'paraiso-comisiones': 'Cartago/Paraíso/Reglamento de comisiones permanentes y especiales Virtuales de la Municipalidad de Paraíso (2022).md',
     'santaana-telecom': 'San José/Santa Ana/La Municipalidad de Santa Ana se adhiere al Reglamento a la Ley para Incentivar y Promover la Construcción de Infraestructura de Telecomunicaciones en (2025).md',
     'vazquez-telecom': 'San José/Vázquez de Coronado/Reglamento a la Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Cos (2025).md',
@@ -718,13 +768,14 @@ def cita_s1(x, loc):
 JUR = {
     'TASP': dict(org='Tribunal de Apelación de Sentencia Penal del II Circuito Judicial de San José', sig='TASP', pref='Sentencia TASP'),
     'TF': dict(org='Tribunal de Familia', sig='TF', pref='Sentencia TF'),
+    'TSE': dict(org='Tribunal Supremo de Elecciones', sig='TSE', pref='Resolución TSE', dir='Jurisprudencia electoral (TSE)/Municipal', base=''),
 }
 first_j = set()
 
 
 def f_j(x):
     t, num = x.split('-', 1)
-    f = f'{R}/Jurisprudencia penal y de familia (laterales)/{JUR[t]["pref"]} {num}.md'
+    f = f'{R}/{JUR[t].get("dir", "Jurisprudencia penal y de familia (laterales)")}/{JUR[t]["pref"]} {num}.md'
     return f if os.path.exists(f) else None
 
 
@@ -738,11 +789,15 @@ def cita_j(x, loc):
         errors.append(f'TRIBUNAL sin archivo: {x}')
         return f'({org}, resolución N.° {cod}, {loc})'
     d = meta(f)
+    _mcod = re.search(r'(?m)^codigo:\s*"([^"]*)"', read(f)[:3000])
+    cod = _mcod.group(1).strip() if _mcod else cod
     y, mo, da = fdate(d['fecha'])
     h = hora(d['hora'])
     hs = f', de las {h} horas' if h else ''
     exp = f' (expediente {d["expediente"]})' if d['expediente'] else ''
-    add_ref('J' + x, (org.lower(), y, mo, da, x), f'{org}. ({y}, {da} de {MES[mo]}). *Resolución N.° {cod}{hs}*{exp}. NexusPJ.')
+    bd = JUR[t].get('base', 'NexusPJ')
+    bd = f' {bd}.' if bd else ''
+    add_ref('J' + x, (org.lower(), y, mo, da, x), f'{org}. ({y}, {da} de {MES[mo]}). *Resolución N.° {cod}{hs}*{exp}.{bd}')
     if x not in first_j:
         first_j.add(x)
         base = f'{org} [{t}], resolución N.° {cod}, de las {h} horas del {da} de {MES[mo]} de {y}' if h else f'{org} [{t}], resolución N.° {cod}, del {da} de {MES[mo]} de {y}'
@@ -831,6 +886,8 @@ def expand_corta(macro, larga):
         return _par(p[1], abrev(loc))
     if kind == 'J':
         t, num = p[1].split('-', 1); yy, n = num.split('-'); cod = f'{int(n)}-{yy}'; k = 'J' + p[1]
+        _mc = re.search(r'resolución N\.° (\S+?)[,)]', larga)
+        if _mc: cod = _mc.group(1)
         if k not in vistos:
             vistos.add(k); return larga
         return _par(f'{t}, {cod}', abrev(loc))
