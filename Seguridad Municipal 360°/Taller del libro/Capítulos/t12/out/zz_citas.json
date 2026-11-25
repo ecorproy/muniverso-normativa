@@ -36,31 +36,24 @@
  },
  {
   "archivo": "t12.md",
-  "palabras": 12,
-  "fuente": "RM:sanrafael-becas:art. 13",
+  "palabras": 15,
+  "fuente": "L:7794:art. 1",
   "estado": "OK",
-  "cita": "cédula de residencia, solicitud de refugio, carné de refugia"
+  "cita": "El municipio está constituido por el conjunto de personas ve"
  },
  {
   "archivo": "t12.md",
-  "palabras": 8,
-  "fuente": "RM:escazu-becas:art. 1",
+  "palabras": 20,
+  "fuente": "L:7794:art. 4, inciso h",
   "estado": "OK",
-  "cita": "toda aquella persona residente del cantón de Escazú"
+  "cita": "Promover un desarrollo local participativo e inclusivo, que "
  },
  {
   "archivo": "t12.md",
-  "palabras": 12,
-  "fuente": "RM:escazu-becas:art. 3",
+  "palabras": 15,
+  "fuente": "L:7794:art. 71",
   "estado": "OK",
-  "cita": "una condición migratoria regular, para efectos de la apertur"
- },
- {
-  "archivo": "t12.md",
-  "palabras": 13,
-  "fuente": "RM:cartago-tmc:art. 15",
-  "estado": "OK",
-  "cita": "Ser costarricense o contar con estatus migratorio de residen"
+  "cita": "a vecinos y vecinas del cantón que enfrenten situaciones, de"
  },
  {
   "archivo": "t12.md",
@@ -113,17 +106,31 @@
  },
  {
   "archivo": "t12.md",
-  "palabras": 22,
-  "fuente": "L:8764:art. 80",
+  "palabras": 12,
+  "fuente": "RM:sanrafael-becas:art. 13",
   "estado": "OK",
-  "cita": "únicamente podrán realizar las actividades remuneradas o luc"
+  "cita": "cédula de residencia, solicitud de refugio, carné de refugia"
  },
  {
   "archivo": "t12.md",
-  "palabras": 18,
-  "fuente": "L:8764:art. 108",
+  "palabras": 8,
+  "fuente": "RM:escazu-becas:art. 1",
   "estado": "OK",
-  "cita": "podrá ejercer cualquier tipo de actividad laboral remunerada"
+  "cita": "toda aquella persona residente del cantón de Escazú"
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 12,
+  "fuente": "RM:escazu-becas:art. 3",
+  "estado": "OK",
+  "cita": "una condición migratoria regular, para efectos de la apertur"
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 13,
+  "fuente": "RM:cartago-tmc:art. 15",
+  "estado": "OK",
+  "cita": "Ser costarricense o contar con estatus migratorio de residen"
  },
  {
   "archivo": "t12.md",
@@ -148,38 +155,10 @@
  },
  {
   "archivo": "t12.md",
-  "palabras": 15,
-  "fuente": "L:7794:art. 1",
+  "palabras": 18,
+  "fuente": "L:8764:art. 182",
   "estado": "OK",
-  "cita": "El municipio está constituido por el conjunto de personas ve"
- },
- {
-  "archivo": "t12.md",
-  "palabras": 20,
-  "fuente": "L:7794:art. 4, inciso h",
-  "estado": "OK",
-  "cita": "Promover un desarrollo local participativo e inclusivo, que "
- },
- {
-  "archivo": "t12.md",
-  "palabras": 15,
-  "fuente": "L:7794:art. 71",
-  "estado": "OK",
-  "cita": "a vecinos y vecinas del cantón que enfrenten situaciones, de"
- },
- {
-  "archivo": "t12.md",
-  "palabras": 4,
-  "fuente": "L:9095:art. 9",
-  "estado": "OK",
-  "cita": "nacionales, regionales y locales"
- },
- {
-  "archivo": "t12.md",
-  "palabras": 27,
-  "fuente": "L:9095:art. 34",
-  "estado": "OK",
-  "cita": "asesorar a las autoridades municipales para que incluyan, en"
+  "cita": "quienes proporcionen alojamiento a personas extranjeras en c"
  },
  {
   "archivo": "t12.md",
@@ -201,6 +180,125 @@
   "fuente": "V:2016-002706:considerando V",
   "estado": "OK",
   "cita": "bien se pudo haber logrado a través de la custodia temporal "
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 24,
+  "fuente": "L:3284:art. 8",
+  "estado": "OK",
+  "cita": "podrán ejercer el comercio en el territorio nacional, siempr"
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 22,
+  "fuente": "L:8764:art. 80",
+  "estado": "OK",
+  "cita": "únicamente podrán realizar las actividades remuneradas o luc"
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 18,
+  "fuente": "L:8764:art. 108",
+  "estado": "OK",
+  "cita": "podrá ejercer cualquier tipo de actividad laboral remunerada"
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 23,
+  "fuente": "RM:sanjose-mercados:art. 11",
+  "estado": "OK",
+  "cita": "con los requisitos que exija el Código de Comercio y la Ley "
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 6,
+  "fuente": "RM:alajuela-licencias:art. 12",
+  "estado": "OK",
+  "cita": "desde hace diez años o más"
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 9,
+  "fuente": "RM:mora-mercado:art. 17",
+  "estado": "OK",
+  "cita": "y/o que la condición migratoria se lo permita"
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 12,
+  "fuente": "RM:garabito-ventas:art. 4",
+  "estado": "OK",
+  "cita": "costarricense por nacimiento o naturalización con más de 10 "
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 6,
+  "fuente": "RM:garabito-ventas:art. 3",
+  "estado": "OK",
+  "cita": "Para extranjeros permiso de trabajo regular"
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 11,
+  "fuente": "L:8764:art. 108",
+  "estado": "OK",
+  "cita": "cualquier tipo de actividad laboral remunerada o lucrativa, "
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 20,
+  "fuente": "RM:curridabat-licencias:art. 70",
+  "estado": "OK",
+  "cita": "el permiso de trabajo respectivo para laborar en Costa Rica "
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 20,
+  "fuente": "RM:corredores-mercados:art. 19",
+  "estado": "OK",
+  "cita": "Ser costarricense por nacimiento o naturalización, o extranj"
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 15,
+  "fuente": "L:6043:art. 47",
+  "estado": "OK",
+  "cita": "A extranjeros que no hayan residido en el país por lo menos "
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 36,
+  "fuente": "L:8764:art. 15",
+  "estado": "OK",
+  "cita": "competencia específica para controlar y vigilar el ingreso d"
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 6,
+  "fuente": "L:7794:art. 61",
+  "estado": "OK",
+  "cita": "como auxiliar de la Fuerza Pública"
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 17,
+  "fuente": "L:8764:art. 7",
+  "estado": "OK",
+  "cita": "La integración de las personas extranjeras en los procesos e"
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 13,
+  "fuente": "L:8764:art. 7",
+  "estado": "OK",
+  "cita": "respeto a las costumbres, la convivencia pacífica y la diver"
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 4,
+  "fuente": "L:4240:art. 17",
+  "estado": "OK",
+  "cita": "los vecinos o interesados"
  },
  {
   "archivo": "t12.md",
@@ -246,24 +344,10 @@
  },
  {
   "archivo": "t12.md",
-  "palabras": 12,
-  "fuente": "RM:sanrafael-becas:art. 33",
+  "palabras": 5,
+  "fuente": "L:8764:art. 78 bis",
   "estado": "OK",
-  "cita": "se les hará entrega de la beca en ventanilla de la Municipal"
- },
- {
-  "archivo": "t12.md",
-  "palabras": 20,
-  "fuente": "RM:curridabat-licencias:art. 70",
-  "estado": "OK",
-  "cita": "el permiso de trabajo respectivo para laborar en Costa Rica "
- },
- {
-  "archivo": "t12.md",
-  "palabras": 18,
-  "fuente": "L:8764:art. 182",
-  "estado": "OK",
-  "cita": "quienes proporcionen alojamiento a personas extranjeras en c"
+  "cita": "especial, claro, sencillo y expedito"
  },
  {
   "archivo": "t12.md",
@@ -271,6 +355,20 @@
   "fuente": "RM:upala-casa:art. 1",
   "estado": "OK",
   "cita": "las mujeres migrantes, transfronterizas y refugiadas, víctim"
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 4,
+  "fuente": "L:9095:art. 9",
+  "estado": "OK",
+  "cita": "nacionales, regionales y locales"
+ },
+ {
+  "archivo": "t12.md",
+  "palabras": 27,
+  "fuente": "L:9095:art. 34",
+  "estado": "OK",
+  "cita": "asesorar a las autoridades municipales para que incluyan, en"
  },
  {
   "archivo": "t12.md",

@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 42 | OK: 42
+CITAS TEXTUALES: 56 | OK: 56
 
 UBICACIONES VERIFICADAS A MANO (2):
   [t12.md] O:IGSMF:p. 5: "edad, sexo, condición étnica o localización territ" (segmentador: ['6', '7', '31', '58'])

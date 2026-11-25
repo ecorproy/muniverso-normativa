@@ -619,6 +619,13 @@ RM = {
     'turrialba-albergue-indigena': 'Cartago/Turrialba/Reglamento del DITSÁ KÄPÄ KLÄ JUÍ ( Albergue indígena para población Cabecar) (2020).md',
     'sanisidro-hostigamiento': 'Heredia/San Isidro de Heredia/Reglamento para la prevención y sanción de las conductas que configuren hostigamiento sexual en la Municipalid (2026).md',
     'launion-ccdr-hostigamiento': 'Cartago/La Unión/Reglamento interno contra el hostigamiento y acoso sexual del comité cantonal de deportes y recreación de la u (2025).md',
+    'alajuela-licencias': 'Alajuela/Alajuela/Reglamento general de licencias comerciales de la Municipalidad del Cantón Central de Alajuela (2021).md',
+    'garabito-ventas': 'Puntarenas/Garabito/Reglamento de ventas ambulantes y estacionarias (2024).md',
+    'sanjose-mercados': 'San José/San José/Reglamento general de mercados municipales del Cantón de San José (2016).md',
+    'corredores-mercados': 'Puntarenas/Corredores/Reglamento de organización y funcionamiento de los mercados municipales, terminales y otros inmuebles de arrie (2025).md',
+    'mora-mercado': 'San José/Mora/Reglamento autónomo de organización y funcionamiento del mercado municipal de Ciudad Colón en el Cantón de Mor (2025).md',
+    'quepos-licencias': 'Puntarenas/Quepos/Reglamento de licencias comerciales de la Municipalidad de Quepos (2026).md',
+    'lepanto-zmt': 'Puntarenas/Concejo Municipal de Distrito de Lepanto/Reglamento para el otorgamiento de permisos de uso de la Zona Marítimo Terrestre en el Distrito de Lepanto (2024).md',
     'belen-reclutamiento': 'Heredia/Belén/Reglamento de Reclutamiento y Selección de Personal de la Municipalidad de Belén (2026).md',
 }
 MESES_RM = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'setiembre', 'octubre', 'noviembre', 'diciembre']
@@ -629,6 +636,37 @@ def f_rm(k):
     return f if k in RM and os.path.exists(f) else None
 
 
+_RM_LETRA = None
+
+
+def _rm_datos(k):
+    d = meta(f_rm(k))
+    fd = fdate(d['fecha_norma']) or fdate(d['fecha'])
+    autor = d['ente_emisor'].strip()
+    autor = {'Municipalidad de León Cortes': 'Municipalidad de León Cortés'}.get(autor, autor)
+    return d, fd, autor
+
+
+def rm_letra(k):
+    # APA 7: mismo autor y mismo año en el capítulo -> 2021a, 2021b, por orden alfabético del título
+    global _RM_LETRA
+    if _RM_LETRA is None:
+        _RM_LETRA = {}
+        claves = set()
+        for g in glob.glob(f'{SRC}/*.md'):
+            claves |= set(re.findall(r'RM:([\w-]+)', open(g, encoding='utf-8').read()))
+        grupos = {}
+        for c in claves:
+            if f_rm(c):
+                d, fd, autor = _rm_datos(c)
+                grupos.setdefault((autor, fd[0] if fd else ''), []).append((d['nombre'].strip().lower(), c))
+        for v in grupos.values():
+            if len(v) > 1:
+                for i, (_, c) in enumerate(sorted(v)):
+                    _RM_LETRA[c] = 'abcdefghij'[i]
+    return _RM_LETRA.get(k, '')
+
+
 def cita_rm(k, loc):
     f = f_rm(k)
     if not f:
@@ -636,8 +674,8 @@ def cita_rm(k, loc):
         return f'(Reglamento municipal {k}, {loc})'
     d = meta(f)
     fd = fdate(d['fecha_norma']) or fdate(d['fecha'])
-    y = fd[0] if fd else ''
-    fecha = f'{fd[0]}, {fd[2]} de {MESES_RM[fd[1] - 1]}' if fd else ''
+    y = f'{fd[0]}{rm_letra(k)}' if fd else ''
+    fecha = f'{y}, {fd[2]} de {MESES_RM[fd[1] - 1]}' if fd else ''
     url = f' {d["enlace"]}' if d['enlace'] else ''
     autor = d['ente_emisor'].strip()
     autor = {'Municipalidad de León Cortes': 'Municipalidad de León Cortés'}.get(autor, autor)
