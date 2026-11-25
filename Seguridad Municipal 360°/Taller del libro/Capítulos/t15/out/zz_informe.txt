@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 40 | OK: 35
+CITAS TEXTUALES: 41 | OK: 36
   [t15.md] 19p | D:C-071-1987:parte final | LITERAL (sin localización que cotejar) | "el procedimiento es un elemento reglado del acto administrat"
   [t15.md] 12p | D:C-024-2021:apartado 2 | LITERAL (sin localización que cotejar) | "requisito esencial para garantizar el derecho a la informaci"
   [t15.md] 20p | V:2011-015763:voto salvado | LITERAL (sin localización que cotejar) | "No se trata entonces de una mera potestad, sino de una verda"

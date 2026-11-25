@@ -64,6 +64,8 @@ Sala Constitucional de la Corte Suprema de Justicia. (2024, 26 de noviembre). *V
 
 Sala Constitucional de la Corte Suprema de Justicia. (2025, 19 de setiembre). *Voto N.° 2025-029985, de las 9:30 horas* (expediente 23-027898-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1336983
 
+Sala Constitucional de la Corte Suprema de Justicia. (2026, 28 de abril). *Voto N.° 2026-014917, de las 9:20 horas* (expediente 26-004800-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1384798
+
 Sala Constitucional de la Corte Suprema de Justicia. (2026, 5 de junio). *Voto N.° 2026-020272, de las 9:30 horas* (expediente 26-008895-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1401436
 
 Tribunal Contencioso Administrativo, Sección III. (2009, 19 de junio). *Resolución N.° 1155-2009, de las 11:30 horas* (expediente 09-000722-1027-CA). NexusPJ.
