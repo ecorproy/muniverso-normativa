@@ -60,6 +60,8 @@ Municipalidad de Upala. (2014, 22 de agosto). *Reglamento Interno de la Casa de 
 
 Municipalidad de Upala. (2022, 17 de noviembre). *Reglamento para el otorgamiento de becas para estudio a los munícipes de Upala*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=100218&param2=137379&param3=1
 
+Procuraduría General de la República. (2022, 10 de mayo). *Dictamen C-094-2022*.
+
 Procuraduría General de la República. (2026, 16 de setiembre). *Dictamen C-151-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25581&param2=0
 
 Sala Constitucional de la Corte Suprema de Justicia. (2010, 30 de julio). *Voto N.° 2010-012783, de las 8:51 horas* (expediente 10-005131-0007-CO). NexusPJ.
@@ -67,3 +69,5 @@ Sala Constitucional de la Corte Suprema de Justicia. (2010, 30 de julio). *Voto 
 Sala Constitucional de la Corte Suprema de Justicia. (2013, 29 de octubre). *Voto N.° 2013-014326, de las 14:30 horas* (expediente 13-011818-0007-CO). NexusPJ.
 
 Sala Constitucional de la Corte Suprema de Justicia. (2016, 23 de febrero). *Voto N.° 2016-002706, de las 16:15 horas* (expediente 15-017419-0007-CO). NexusPJ.
+
+Sala Constitucional de la Corte Suprema de Justicia. (2024, 9 de octubre). *Voto N.° 2024-029734, de las 12:30 horas* (expediente 23-011056-0007-CO). NexusPJ.

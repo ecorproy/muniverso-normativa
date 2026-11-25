@@ -1,6 +1,10 @@
-CITAS TEXTUALES: 56 | OK: 56
+CITAS TEXTUALES: 64 | OK: 64
 
-UBICACIONES VERIFICADAS A MANO (2):
+UBICACIONES VERIFICADAS A MANO (6):
+  [t12.md] VT:1998-008857:2024-029734:considerando III: "bajo cualquier status migratorio" (segmentador: ['RESULTANDO', 'VII'])
+  [t12.md] VT:2003-007806:2024-029734:considerando III: "la nacionalidad se convierte en una condición ileg" (segmentador: ['RESULTANDO', 'VII'])
+  [t12.md] V:2024-029734:considerando III: "si bien nadie tiene un derecho fundamental a recib" (segmentador: ['RESULTANDO', 'VII'])
+  [t12.md] V:2024-029734:considerando IV: "excluye de manera injustificada a un grupo de extr" (segmentador: ['X'])
   [t12.md] O:IGSMF:p. 5: "edad, sexo, condición étnica o localización territ" (segmentador: ['6', '7', '31', '58'])
   [t12.md] O:IGSMF:p. 109: "etnia, sexo, salud, credo, nacionalidad" (segmentador: ['110', '119', '126', '159'])
 
