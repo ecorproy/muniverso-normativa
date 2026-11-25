@@ -1,7 +1,5 @@
 ## Referencias
 
-Consejo para la Promoción de la Competitividad. (2026). *Índice de Competitividad Nacional 2026*. https://icn.cr/
-
 Constitución Política de la República de Costa Rica. (1949). Asamblea Nacional Constituyente. Sistema Costarricense de Información Jurídica.
 
 Contraloría General de la República. (2024, 19 de enero). *Oficio N.° 00415 (DFOE-LOC-0073). Atención de consulta relacionada al Plan Cantonal de Desarrollo Humano Local (PCDHL)*.
@@ -14,9 +12,15 @@ Ley N.° 3859, *Ley sobre el Desarrollo de la Comunidad (DINADECO)*. (1967). Asa
 
 Ley N.° 4240, *Ley de Planificación Urbana*. (1968). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=35669&param2=143656&param3=1
 
+Ley N.° 6227, *Ley General de la Administración Pública*. (1978). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=13231&param2=153093&param3=1
+
 Ley N.° 7554, *Ley Orgánica del Ambiente*. (1995). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=27738&param2=152294&param3=1
 
 Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40197&param2=152716&param3=1
+
+Ley N.° 8261, *Ley General de la Persona Joven*. (2002). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=48550&param2=151401&param3=1
+
+Ley N.° 8801, *Ley General de transferencia de competencias del Poder Ejecutivo a las Municipalidades*. (2010). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=67855&param2=80560&param3=1
 
 Ley N.° 10561, *Ley para promover la participación, la prevención de la violencia y el cumplimiento de derechos de las personas jóvenes en los espacios públicos*. (2024). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=103225&param2=143177&param3=1
 
@@ -32,9 +36,21 @@ Procuraduría General de la República. (1987, 31 de marzo). *Dictamen C-071-198
 
 Procuraduría General de la República. (2009, 5 de mayo). *Dictamen C-120-2009*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=15868&param2=0
 
+Procuraduría General de la República. (2009, 15 de mayo). *Dictamen C-136-2009*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=15861&param2=0
+
+Procuraduría General de la República. (2014, 28 de mayo). *Dictamen C-166-2014*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=18183&param2=0
+
+Procuraduría General de la República. (2017, 31 de mayo). *Dictamen C-113-2017*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=19949&param2=0
+
 Procuraduría General de la República. (2018, 29 de enero). *Dictamen C-020-2018*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=20371&param2=0
 
+Procuraduría General de la República. (2018, 13 de junio). *Dictamen C-132-2018*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=20518&param2=0
+
+Procuraduría General de la República. (2021, 1 de febrero). *Dictamen C-024-2021*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=22547&param2=0
+
 Procuraduría General de la República. (2021, 30 de agosto). *Dictamen C-249-2021*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=22954&param2=0
+
+Procuraduría General de la República. (2024, 17 de junio). *Dictamen C-126-2024*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24478&param2=0
 
 Sala Constitucional de la Corte Suprema de Justicia. (2011, 16 de noviembre). *Voto N.° 2011-015763, de las 9:46 horas* (expediente 11-006691-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-530701
 
