@@ -4,6 +4,8 @@ Constitución Política de la República de Costa Rica. (1949). Asamblea Naciona
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
 
+Decreto Ejecutivo N.° 45993, *Reglamento a la Ley Marco de Acceso a la Información Pública*. (2026). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
+
 Ley N.° 4573, *Código Penal*. (1970). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=5027&param2=151473&param3=1
 
 Ley N.° 6227, *Ley General de la Administración Pública*. (1978). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=13231&param2=153093&param3=1
