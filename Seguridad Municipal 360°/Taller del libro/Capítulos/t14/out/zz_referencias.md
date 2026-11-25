@@ -26,6 +26,8 @@ Ley N.° 9822, *Reconocimiento y promoción de la Lenguaje de Señas Costarricen
 
 Ley N.° 9986, *Ley General de Contratación Pública*. (2021). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=94469&param2=152662&param3=1
 
+Ley N.° 10554, *Ley Marco de Acceso a la Información Pública*. (2024). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
+
 Municipalidad de Belén. (2024, 17 de setiembre). *Reglamento de uso de redes sociales, de la Municipalidad de Belén*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=102934&param2=142654&param3=1
 
 Municipalidad de Buenos Aires. (2026, 3 de junio). *Reglamento de Sesiones del Concejo Municipal del Cantón de Buenos Aires*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=107776&param2=152266&param3=1
@@ -67,6 +69,8 @@ Procuraduría General de la República. (2024, 12 de febrero). *Dictamen C-022-2
 Procuraduría General de la República. (2024, 29 de abril). *Dictamen C-074-2024*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24429&param2=0
 
 Procuraduría General de la República. (2026, 20 de enero). *Dictamen C-010-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25279&param2=0
+
+Procuraduría General de la República. (2026, 28 de mayo). *Dictamen C-078-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25409&param2=0
 
 Sala Constitucional de la Corte Suprema de Justicia. (2020, 26 de junio). *Voto N.° 2020-011750, de las 9:05 horas* (expediente 20-007741-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-982685
 

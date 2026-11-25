@@ -120,6 +120,48 @@
  },
  {
   "archivo": "t14.md",
+  "palabras": 8,
+  "fuente": "L:10554:art. 1",
+  "estado": "OK",
+  "cita": "de forma proactiva, oportuna, oficiosa, completa y accesible"
+ },
+ {
+  "archivo": "t14.md",
+  "palabras": 10,
+  "fuente": "L:10554:art. 5, inciso c",
+  "estado": "OK",
+  "cita": "La Administración descentralizada (institucional y territori"
+ },
+ {
+  "archivo": "t14.md",
+  "palabras": 3,
+  "fuente": "L:10554:art. 2",
+  "estado": "OK",
+  "cita": "se presume pública"
+ },
+ {
+  "archivo": "t14.md",
+  "palabras": 12,
+  "fuente": "L:10554:art. 6",
+  "estado": "OK",
+  "cita": "especificar con base en cuál límite y normativa sustenta su "
+ },
+ {
+  "archivo": "t14.md",
+  "palabras": 13,
+  "fuente": "L:10554:art. 6",
+  "estado": "OK",
+  "cita": "debe ser interpretada en forma restrictiva, pues la regla ge"
+ },
+ {
+  "archivo": "t14.md",
+  "palabras": 13,
+  "fuente": "L:10554:art. 11",
+  "estado": "OK",
+  "cita": "sin necesidad de justificar las razones por las que se solic"
+ },
+ {
+  "archivo": "t14.md",
   "palabras": 24,
   "fuente": "D:C-285-2012:conclusión a",
   "estado": "OK",
@@ -173,6 +215,13 @@
   "fuente": "V:2024-001215:considerando IV",
   "estado": "OK",
   "cita": "brindar acceso a los archivos públicos de forma inmediata, o"
+ },
+ {
+  "archivo": "t14.md",
+  "palabras": 3,
+  "fuente": "L:10554:art. 10",
+  "estado": "OK",
+  "cita": "de forma inmediata"
  },
  {
   "archivo": "t14.md",
@@ -236,6 +285,13 @@
   "fuente": "L:7794:art. 17, inciso f",
   "estado": "OK",
   "cita": "según lo dispuesto en el inciso f) de este artículo"
+ },
+ {
+  "archivo": "t14.md",
+  "palabras": 6,
+  "fuente": "L:10554:art. 16",
+  "estado": "OK",
+  "cita": "en formato abierto, interoperable y accesible"
  },
  {
   "archivo": "t14.md",
@@ -474,5 +530,19 @@
   "fuente": "RM:buenosaires-sesiones:art. 19",
   "estado": "OK",
   "cita": "en la medida de lo posible y en todos los casos"
+ },
+ {
+  "archivo": "t14.md",
+  "palabras": 7,
+  "fuente": "D:C-078-2026:conclusión b",
+  "estado": "OK",
+  "cita": "no son información pública de acceso irrestricto"
+ },
+ {
+  "archivo": "t14.md",
+  "palabras": 6,
+  "fuente": "D:C-078-2026:conclusión d",
+  "estado": "OK",
+  "cita": "deberá formalizarse mediante acto administrativo motivado"
  }
 ]

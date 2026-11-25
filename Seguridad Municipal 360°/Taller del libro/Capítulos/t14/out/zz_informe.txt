@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 68 | OK: 63
+CITAS TEXTUALES: 78 | OK: 73
   [t14.md] 6p | D:C-249-1980:apartado 1 | LITERAL (sin localización que cotejar) | "a las fuentes oficiales de información"
   [t14.md] 7p | D:C-249-1980:apartado 1 | LITERAL (sin localización que cotejar) | "sería enviado al Departamento oficial de información"
   [t14.md] 17p | D:C-285-2012:apartado A | LITERAL (sin localización que cotejar) | "tampoco soporta que la libertad a la información pública sea"
