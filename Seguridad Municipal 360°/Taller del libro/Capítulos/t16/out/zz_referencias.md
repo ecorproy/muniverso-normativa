@@ -12,6 +12,8 @@ Decreto Ejecutivo N.° 44615, *Reglamento RAC-RPAS Regulaciones Aeronáuticas Co
 
 Harvard Law Review. (2025). Fourth Amendment — Unreasonable searches — Michigan Supreme Court holds exclusionary rule inapplicable in the civil context. Long Lake Township v. Maxon, 15 N.W.3d 118 (Mich. 2024). *Harvard Law Review*, *138*, 1941-1950.
 
+*Katz v. United States*, 389 U.S. 347 (1967). Supreme Court of the United States.
+
 Ley N.° 30, *Código Civil*. (1885). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
 
 Ley N.° 4573, *Código Penal*. (1970). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=5027&param2=151473&param3=1

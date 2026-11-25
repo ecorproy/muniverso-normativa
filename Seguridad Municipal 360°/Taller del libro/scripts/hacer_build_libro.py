@@ -13,6 +13,9 @@ MANUAL.update({
     'Pérez Hernández et al., 2019': dict(
         file='/home/claude/libro/fuentes/perez_pag.txt',
         ref='Pérez Hernández, L., Tabares Neyra, L. M. y Díaz Legón, O. J. (2019). Lo local –municipal– como espacio de desarrollo en Cuba. Notas para el perfeccionamiento del régimen jurídico de la administración local. *Universidad de La Habana*, (287), 135-160.'),
+    'Katz v. United States, 1967': dict(
+        file='/home/claude/libro/fuentes/doctrina/katz_pag.txt',
+        ref='*Katz v. United States*, 389 U.S. 347 (1967). Supreme Court of the United States.'),
     'Long Lake Township v. Maxon, 2021': dict(
         file='/home/claude/libro/fuentes/doctrina/maxon_coa_pag.txt',
         ref='*Long Lake Township v. Maxon*, No. 349230 (Mich. Ct. App. 18 de marzo de 2021). Court of Appeals of the State of Michigan.'),
