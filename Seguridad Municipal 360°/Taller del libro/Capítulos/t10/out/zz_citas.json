@@ -43,17 +43,17 @@
  },
  {
   "archivo": "t10.md",
-  "palabras": 20,
-  "fuente": "L:7794:art. 4, inciso h",
+  "palabras": 11,
+  "fuente": "L:6227:art. 4",
   "estado": "OK",
-  "cita": "Promover un desarrollo local participativo e inclusivo, que "
+  "cita": "la igualdad en el trato de los destinatarios, usuarios o ben"
  },
  {
   "archivo": "t10.md",
   "palabras": 20,
-  "fuente": "L:7794:art. 13, inciso a",
+  "fuente": "L:7794:art. 4, inciso h",
   "estado": "OK",
-  "cita": "asegurando el respeto, protección, garantía y promoción de l"
+  "cita": "Promover un desarrollo local participativo e inclusivo, que "
  },
  {
   "archivo": "t10.md",
@@ -64,17 +64,24 @@
  },
  {
   "archivo": "t10.md",
-  "palabras": 24,
-  "fuente": "L:7600:art. 9",
+  "palabras": 20,
+  "fuente": "L:7794:art. 13, inciso a",
   "estado": "OK",
-  "cita": "apoyarán a las instituciones públicas y privadas en el desar"
+  "cita": "asegurando el respeto, protección, garantía y promoción de l"
  },
  {
   "archivo": "t10.md",
-  "palabras": 14,
-  "fuente": "L:6172:art. 3",
+  "palabras": 15,
+  "fuente": "L:7794:art. 13, inciso a",
   "estado": "OK",
-  "cita": "inalienables e imprescriptibles, no transferibles y exclusiv"
+  "cita": "podrá aprobar la creación del departamento, unidad u oficina"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 16,
+  "fuente": "L:7794:art. 17, inciso g",
+  "estado": "OK",
+  "cita": "los resultados de la aplicación de las políticas para la igu"
  },
  {
   "archivo": "t10.md",
@@ -82,6 +89,62 @@
   "fuente": "DE:40137:art. 5, inciso j",
   "estado": "OK",
   "cita": "conectividad y concepto de red, tránsito promedio diario, ac"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 20,
+  "fuente": "L:7600:art. 4, inciso a",
+  "estado": "OK",
+  "cita": "desarrollar proyectos y acciones diferenciados que tomen en "
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 21,
+  "fuente": "V:2026-016165:considerando V",
+  "estado": "OK",
+  "cita": "no se advierten acciones concretas, actuales y efectivas dir"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 26,
+  "fuente": "V:2006-016766:considerando V",
+  "estado": "OK",
+  "cita": "debido a las barreras arquitectónicas y la actitud retardada"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 22,
+  "fuente": "V:2007-005051:considerando V",
+  "estado": "OK",
+  "cita": "a pesar de contar con el instrumento legal para obligar al p"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 8,
+  "fuente": "L:7794:art. 84",
+  "estado": "OK",
+  "cita": "está obligada a suplir la inacción del propietario"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 21,
+  "fuente": "L:9822:art. 15",
+  "estado": "OK",
+  "cita": "Las entidades públicas y privadas prestarán sus servicios y "
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 12,
+  "fuente": "L:9822:art. 30",
+  "estado": "OK",
+  "cita": "En el mismo sentido, quedan facultadas las municipalidades y"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 14,
+  "fuente": "L:6172:art. 3",
+  "estado": "OK",
+  "cita": "inalienables e imprescriptibles, no transferibles y exclusiv"
  },
  {
   "archivo": "t10.md",
@@ -106,17 +169,17 @@
  },
  {
   "archivo": "t10.md",
-  "palabras": 21,
-  "fuente": "V:2026-016165:considerando V",
+  "palabras": 8,
+  "fuente": "V:2025-029985:considerando VII",
   "estado": "OK",
-  "cita": "no se advierten acciones concretas, actuales y efectivas dir"
+  "cita": "trascender la realización de una mera sesión informativa"
  },
  {
   "archivo": "t10.md",
-  "palabras": 13,
-  "fuente": "V:2020-021381:considerando V",
+  "palabras": 17,
+  "fuente": "V:2025-029985:considerando VII",
   "estado": "OK",
-  "cita": "en cumplimiento de su rol como administrador de los interese"
+  "cita": "existe una responsabilidad de las autoridades municipales de"
  },
  {
   "archivo": "t10.md",
@@ -127,9 +190,121 @@
  },
  {
   "archivo": "t10.md",
+  "palabras": 24,
+  "fuente": "RM:turrialba-albergue-indigena:art. 2",
+  "estado": "OK",
+  "cita": "que visite el cantón central de Turrialba para realizar gest"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 7,
+  "fuente": "RM:turrialba-albergue-indigena:art. 1",
+  "estado": "OK",
+  "cita": "en el idioma español y lenguaje Cabecar"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 13,
+  "fuente": "V:2020-021381:considerando V",
+  "estado": "OK",
+  "cita": "en cumplimiento de su rol como administrador de los interese"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 13,
+  "fuente": "RM:goicoechea-discriminacion:art. 5",
+  "estado": "OK",
+  "cita": "mediante acciones afirmativas, para modificar los patrones s"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 6,
+  "fuente": "RM:garabito-diversidad:art. 1",
+  "estado": "OK",
+  "cita": "libres de toda forma de discriminación"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 19,
+  "fuente": "RM:garabito-diversidad:art. 2",
+  "estado": "OK",
+  "cita": "deberá eliminar aquellos obstáculos que limiten en los hecho"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 13,
+  "fuente": "RM:garabito-diversidad:art. 5",
+  "estado": "OK",
+  "cita": "medidas y políticas de acción afirmativa y/o diferenciada qu"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 7,
+  "fuente": "RM:garabito-diversidad:art. 2",
+  "estado": "OK",
+  "cita": "munícipes que integran el cantón de Garabito"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 13,
+  "fuente": "RM:garabito-diversidad:art. 3",
+  "estado": "OK",
+  "cita": "son de acatamiento obligatorio para las personas funcionaria"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 5,
+  "fuente": "L:6227:art. 19",
+  "estado": "OK",
+  "cita": "estará reservado a la ley"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 12,
+  "fuente": "RM:elguarco-diversidad:art. 10",
+  "estado": "OK",
+  "cita": "podrá aplicarse además la sanción prevista en la Ley 7771 Ar"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 7,
+  "fuente": "L:2694:art. 3",
+  "estado": "OK",
+  "cita": "será anulable a solicitud de parte interesada"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 9,
+  "fuente": "RM:belen-reclutamiento:art. 42",
+  "estado": "OK",
+  "cita": "condiciones de igualdad efectiva para todas las personas pos"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 23,
+  "fuente": "D:C-014-2023:conclusiones b y e",
+  "estado": "OK",
+  "cita": "sólo abarca a los tres Poderes de la República, siendo inten"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 5,
+  "fuente": "L:7794:art. 13, inciso a",
+  "estado": "OK",
+  "cita": "con su respectivo presupuesto anual"
+ },
+ {
+  "archivo": "t10.md",
   "palabras": 10,
   "fuente": "O:IGSMF:p. 60",
   "estado": "OK",
   "cita": "atributo básico común (edad, sexo, condición étnica o locali"
+ },
+ {
+  "archivo": "t10.md",
+  "palabras": 18,
+  "fuente": "O:IGSMF:p. 109",
+  "estado": "OK",
+  "cita": "discriminadas por motivos de etnia, sexo, salud, credo, naci"
  }
 ]

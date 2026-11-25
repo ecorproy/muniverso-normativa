@@ -267,6 +267,12 @@ RM = {
     'buenosaires-cementerios': 'Puntarenas/Buenos Aires/Reglamento autónomo para la planificación, dirección y administración de los cementerios municipales del cantó (2026).md',
     'tilaran-cementerios': 'Guanacaste/Tilarán/Reglamento de operación y mantenimiento del cementerio municipal de Tilarán (2018).md',
     'escazu-brigadistas': 'San José/Escazú/Reglamento para brigadistas ad-honorem de seguridad vial y atención de emergencias y monitoreos preventivos (2018).md',
+    'goicoechea-discriminacion': 'San José/Goicoechea/Reglamento interno contra la discriminación (2013).md',
+    'elguarco-diversidad': 'Cartago/El Guarco/Política para la No Discriminación motivada por la Orientación Sexual o la Identidad de Género de la Municipal (2015).md',
+    'garabito-diversidad': 'Puntarenas/Garabito/Política de Diversidad, inclusión y no discriminación de Garabito (2020).md',
+    'sanisidro-diversidad': 'Heredia/San Isidro de Heredia/Políticas de buenas prácticas para la no discriminación motivada por la orientación sexual o la identidad de g (2014).md',
+    'turrialba-albergue-indigena': 'Cartago/Turrialba/Reglamento del DITSÁ KÄPÄ KLÄ JUÍ ( Albergue indígena para población Cabecar) (2020).md',
+    'belen-reclutamiento': 'Heredia/Belén/Reglamento de Reclutamiento y Selección de Personal de la Municipalidad de Belén (2026).md',
 }
 MESES_RM = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'setiembre', 'octubre', 'noviembre', 'diciembre']
 

@@ -1,10 +1,13 @@
-CITAS TEXTUALES: 19 | OK: 16
+CITAS TEXTUALES: 44 | OK: 41
   [t10.md] 15p | V:2026-013450:voto salvado | LITERAL (sin localización que cotejar) | "una intervención urgente que aconseje ajustar tal programaci"
   [t10.md] 15p | D:C-089-2022:apartado B | LITERAL (sin localización que cotejar) | "Los pueblos indígenas tienen derecho, sin discriminación, al"
   [t10.md] 28p | D:C-089-2022:apartado B | LITERAL (sin localización que cotejar) | "tomar las acciones afirmativas necesarias para garantizar qu"
 
-UBICACIONES VERIFICADAS A MANO (1):
+UBICACIONES VERIFICADAS A MANO (4):
+  [t10.md] V:2025-029985:considerando VII: "trascender la realización de una mera sesión infor" (segmentador: ['IV'])
+  [t10.md] V:2025-029985:considerando VII: "existe una responsabilidad de las autoridades muni" (segmentador: ['IV'])
   [t10.md] O:IGSMF:p. 60: "atributo básico común (edad, sexo, condición étnic" (segmentador: ['6', '7', '31', '58'])
+  [t10.md] O:IGSMF:p. 109: "discriminadas por motivos de etnia, sexo, salud, c" (segmentador: ['110', '119', '126', '159'])
 
 ERRORES (0):
 
