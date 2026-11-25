@@ -72,6 +72,7 @@ ESPECIALES['9458'] = '/home/claude/libro/fuentes/Ley 9458.md'
 ESPECIALES['10594'] = '/home/claude/libro/fuentes/Ley 10594.md'
 ESPECIALES['8661'] = '/home/claude/libro/fuentes/Ley 8661.md'
 ESPECIALES['7948'] = '/home/claude/libro/fuentes/Ley 7948.md'
+ESPECIALES['6968'] = '/home/claude/libro/fuentes/Ley 6968.md'
 FUENTE_LEY = {'10939': 'La Gaceta N.° 91, Alcance N.° 59, 20 de mayo de 2026.'}
 
 
@@ -616,6 +617,8 @@ RM = {
     'garabito-diversidad': 'Puntarenas/Garabito/Política de Diversidad, inclusión y no discriminación de Garabito (2020).md',
     'sanisidro-diversidad': 'Heredia/San Isidro de Heredia/Políticas de buenas prácticas para la no discriminación motivada por la orientación sexual o la identidad de g (2014).md',
     'turrialba-albergue-indigena': 'Cartago/Turrialba/Reglamento del DITSÁ KÄPÄ KLÄ JUÍ ( Albergue indígena para población Cabecar) (2020).md',
+    'sanisidro-hostigamiento': 'Heredia/San Isidro de Heredia/Reglamento para la prevención y sanción de las conductas que configuren hostigamiento sexual en la Municipalid (2026).md',
+    'launion-ccdr-hostigamiento': 'Cartago/La Unión/Reglamento interno contra el hostigamiento y acoso sexual del comité cantonal de deportes y recreación de la u (2025).md',
     'belen-reclutamiento': 'Heredia/Belén/Reglamento de Reclutamiento y Selección de Personal de la Municipalidad de Belén (2026).md',
 }
 MESES_RM = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'setiembre', 'octubre', 'noviembre', 'diciembre']

@@ -1,5 +1,6 @@
-CITAS TEXTUALES: 12 | OK: 11
+CITAS TEXTUALES: 29 | OK: 27
   [t11.md] 16p | L:10327:art. único | LITERAL (sin localización que cotejar) | "se respetará el principio constitucional de paridad de géner"
+  [t11.md] 9p | RM:sanisidro-genero:objetivo específico 2 | LITERAL (sin localización que cotejar) | "el cuido como trabajo ha sido invisibilizado y desvalorizado"
 
 UBICACIONES VERIFICADAS A MANO (1):
   [t11.md] O:IGSMF:p. 95: "tales como: CECUDI, oficina de la mujer, becas" (segmentador: ['96'])
