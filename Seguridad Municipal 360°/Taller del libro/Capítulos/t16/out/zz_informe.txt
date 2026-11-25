@@ -1,5 +1,6 @@
-CITAS TEXTUALES: 67 | OK: 66
+CITAS TEXTUALES: 75 | OK: 73
   [t16.md] 34p | D:C-088-2025:planteamiento de la consulta | LITERAL (sin localización que cotejar) | "basado en sus potestades reconocidas en la Ley General de Co"
+  [t16.md] 2p | RM:heredia-vigilancia:título | LITERAL (sin localización que cotejar) | "excepto drones"
 
 UBICACIONES VERIFICADAS A MANO (5):
   [t16.md] D:C-088-2025:apartado II: "como ocurre en el caso de los policías municipales" (segmentador: [])

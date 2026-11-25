@@ -13,6 +13,9 @@ MANUAL.update({
     'Pérez Hernández et al., 2019': dict(
         file='/home/claude/libro/fuentes/perez_pag.txt',
         ref='Pérez Hernández, L., Tabares Neyra, L. M. y Díaz Legón, O. J. (2019). Lo local –municipal– como espacio de desarrollo en Cuba. Notas para el perfeccionamiento del régimen jurídico de la administración local. *Universidad de La Habana*, (287), 135-160.'),
+    'Harvard Law Review, 2025': dict(
+        file='/home/claude/libro/fuentes/doctrina/maxon_pag.txt',
+        ref='Harvard Law Review. (2025). Fourth Amendment — Unreasonable searches — Michigan Supreme Court holds exclusionary rule inapplicable in the civil context. Long Lake Township v. Maxon, 15 N.W.3d 118 (Mich. 2024). *Harvard Law Review*, *138*, 1941-1950.'),
     'Wilches-Chaux, 2007': dict(
         file='/home/claude/libro/fuentes/wilches_pag.txt',
         ref='Wilches-Chaux, G. (2007). Lo local-municipal como unidad de gestión. *Medio Ambiente y Urbanización*, (67), 113-126.'),
@@ -171,6 +174,8 @@ RM = {
     'heredia-vigilancia': 'Heredia/Heredia/Reglamento regulador para la vigilancia de vías públicas mediante dispositivos tecnológicos o técnicos (except (2019).md',
     'escazu-sipco': 'San José/Escazú/Reglamento del Sistema Integral Policial de Comando y Control de Escazú (SIPCO) (2020).md',
     'quepos-video': 'Puntarenas/Quepos/Reglamento del Centro de Video Protección y Monitoreo de Municipalidad de Quepos (2026).md',
+    'riocuarto-construccion': 'Alajuela/Río Cuarto/Reglamento para el control constructivo de obras civiles de la Municipalidad de Río Cuarto (2025).md',
+    'launion-construccion': 'Cartago/La Unión/Reglamento de regularización de construcciones del cantón de la Unión (2022).md',
     'santaana-policia': 'San José/Santa Ana/Reglamento para la Policía Municipal de la Municipalidad de Santa Ana (2026).md',
     'paraiso-comisiones': 'Cartago/Paraíso/Reglamento de comisiones permanentes y especiales Virtuales de la Municipalidad de Paraíso (2022).md',
     'santaana-telecom': 'San José/Santa Ana/La Municipalidad de Santa Ana se adhiere al Reglamento a la Ley para Incentivar y Promover la Construcción de Infraestructura de Telecomunicaciones en (2025).md',

@@ -1,7 +1,5 @@
 ## Referencias
 
-Consejo para la Promoción de la Competitividad. (2026). *Índice de Competitividad Nacional 2026*. https://icn.cr/
-
 Constitución Política de la República de Costa Rica. (1949). Asamblea Nacional Constituyente. Sistema Costarricense de Información Jurídica.
 
 Contraloría General de la República. (2025, 22 de mayo). *Oficio N.° 09880 (DFOE-CAP-0934). Criterio sobre acceso por parte de la Auditoría Interna a sistemas de monitoreo y cámaras de vigilancia*.
@@ -10,7 +8,13 @@ Contraloría General de la República. (2025). [Fichas de indicadores del Índic
 
 Decreto Ejecutivo N.° 37554, *Reglamento a la Ley de Protección de la Persona frente al Tratamiento de sus Datos Personales*. (2012). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=74352&param2=115361&param3=1
 
+Decreto Ejecutivo N.° 44615, *Reglamento RAC-RPAS Regulaciones Aeronáuticas Costarricenses, Operaciones con el Sistema de Aeronave piloteadas a Distancia*. (2023). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
+
+Harvard Law Review. (2025). Fourth Amendment — Unreasonable searches — Michigan Supreme Court holds exclusionary rule inapplicable in the civil context. Long Lake Township v. Maxon, 15 N.W.3d 118 (Mich. 2024). *Harvard Law Review*, *138*, 1941-1950.
+
 Ley N.° 30, *Código Civil*. (1885). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
+
+Ley N.° 4573, *Código Penal*. (1970). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=5027&param2=151473&param3=1
 
 Ley N.° 6723, *Ley del Registro y Archivos Judiciales*. (1982). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=34614&param2=139997&param3=1
 
@@ -26,7 +30,11 @@ Municipalidad de Escazú. (2020, 20 de abril). *Reglamento del Sistema Integral 
 
 Municipalidad de Heredia. (2019, 16 de diciembre). *Reglamento regulador para la vigilancia de vías públicas mediante dispositivos tecnológicos o técnicos (excepto drones) de la Municipalidad de Heredia*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=90609&param2=119429&param3=1
 
+Municipalidad de La Unión. (2022, 20 de octubre). *Reglamento de regularización de construcciones del cantón de la Unión*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=98981&param2=135058&param3=1
+
 Municipalidad de Quepos. (2026, 19 de mayo). *Reglamento del Centro de Video Protección y Monitoreo de Municipalidad de Quepos*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=107463&param2=151808&param3=1
+
+Municipalidad de Río Cuarto. (2025, 20 de octubre). *Reglamento para el control constructivo de obras civiles de la Municipalidad de Río Cuarto*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=105725&param2=148490&param3=1
 
 Municipalidad de San José. (2024, 25 de junio). *Reglamento de video protección del Cantón Central de San José*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=102634&param2=141941&param3=1
 
