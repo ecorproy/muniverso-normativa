@@ -20,7 +20,17 @@ España. Tribunal Supremo, Sala de lo Penal. Sentencia 264/2026, de 6 de abril (
 
 *Fearn and others v Board of Trustees of the Tate Gallery* [2023] UKSC 4 (1 de febrero de 2023). Supreme Court of the United Kingdom.
 
+Francia. Conseil constitutionnel. Décision n.° 2021-817 DC, de 20 de mayo de 2021 (Loi pour une sécurité globale préservant les libertés).
+
+Francia. Conseil constitutionnel. Décision n.° 2021-834 DC, de 20 de enero de 2022 (Loi relative à la responsabilité pénale et à la sécurité intérieure).
+
+Francia. Conseil d'État, juge des référés. Ordonnance n.° 440442, 440445, de 18 de mayo de 2020 (Association La Quadrature du Net y Ligue des droits de l'homme).
+
+Francia. Conseil d'État, salas 10.ª y 9.ª reunidas. Décision n.° 446155, de 22 de diciembre de 2020 (Association La Quadrature du Net).
+
 Harvard Law Review. (2025). Fourth Amendment — Unreasonable searches — Michigan Supreme Court holds exclusionary rule inapplicable in the civil context. Long Lake Township v. Maxon, 15 N.W.3d 118 (Mich. 2024). *Harvard Law Review*, *138*, 1941-1950.
+
+*Huerta v. Pirker*, NTSB Order No. EA-5730, Docket CP-217 (National Transportation Safety Board, 18 de noviembre de 2014).
 
 Instituto Nacional de Vivienda y Urbanismo. (2018, 15 de marzo). *Reglamento de construcciones*. Sistema Costarricense de Información Jurídica.
 
@@ -35,6 +45,8 @@ Ley N.° 30, *Código Civil*. (1885). Asamblea Legislativa de la República de C
 Ley N.° 833, *Ley de Construcciones*. (1949). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=36307&param2=143894&param3=1
 
 Ley N.° 4573, *Código Penal*. (1970). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=5027&param2=151473&param3=1
+
+Ley N.° 5150, *Ley General de Aviación Civil*. (1973). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=13332&param2=127365&param3=1
 
 Ley N.° 6723, *Ley del Registro y Archivos Judiciales*. (1982). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=34614&param2=139997&param3=1
 
@@ -79,3 +91,5 @@ Sala Constitucional de la Corte Suprema de Justicia. (2008, 11 de abril). *Voto 
 Sala Constitucional de la Corte Suprema de Justicia. (2020, 20 de mayo). *Voto N.° 2020-009186, de las 12:20 horas* (expediente 20-006767-0007-CO). NexusPJ.
 
 Sala Constitucional de la Corte Suprema de Justicia. (2023, 27 de enero). *Voto N.° 2023-001782, de las 9:15 horas* (expediente 22-025962-0007-CO). NexusPJ.
+
+Tribunal de Justicia de la Unión Europea, Sala Cuarta. Sentencia de 11 de diciembre de 2014, *František Ryneš c. Úřad pro ochranu osobních údajů*, asunto C-212/13.

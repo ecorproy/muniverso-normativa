@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 75 | OK: 73
+CITAS TEXTUALES: 76 | OK: 74
   [t16.md] 34p | D:C-088-2025:planteamiento de la consulta | LITERAL (sin localización que cotejar) | "basado en sus potestades reconocidas en la Ley General de Co"
   [t16.md] 2p | RM:heredia-vigilancia:título | LITERAL (sin localización que cotejar) | "excepto drones"
 
