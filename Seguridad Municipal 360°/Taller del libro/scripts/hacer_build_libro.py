@@ -13,6 +13,9 @@ MANUAL.update({
     'Pérez Hernández et al., 2019': dict(
         file='/home/claude/libro/fuentes/perez_pag.txt',
         ref='Pérez Hernández, L., Tabares Neyra, L. M. y Díaz Legón, O. J. (2019). Lo local –municipal– como espacio de desarrollo en Cuba. Notas para el perfeccionamiento del régimen jurídico de la administración local. *Universidad de La Habana*, (287), 135-160.'),
+    'Long Lake Township v. Maxon, 2021': dict(
+        file='/home/claude/libro/fuentes/doctrina/maxon_coa_pag.txt',
+        ref='*Long Lake Township v. Maxon*, No. 349230 (Mich. Ct. App. 18 de marzo de 2021). Court of Appeals of the State of Michigan.'),
     'Harvard Law Review, 2025': dict(
         file='/home/claude/libro/fuentes/doctrina/maxon_pag.txt',
         ref='Harvard Law Review. (2025). Fourth Amendment — Unreasonable searches — Michigan Supreme Court holds exclusionary rule inapplicable in the civil context. Long Lake Township v. Maxon, 15 N.W.3d 118 (Mich. 2024). *Harvard Law Review*, *138*, 1941-1950.'),

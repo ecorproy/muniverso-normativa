@@ -26,6 +26,8 @@ Ley N.° 8968, *Ley de Protección de la Persona frente al tratamiento de sus da
 
 Ley N.° 10554, *Ley Marco de Acceso a la Información Pública*. (2024). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
 
+*Long Lake Township v. Maxon*, No. 349230 (Mich. Ct. App. 18 de marzo de 2021). Court of Appeals of the State of Michigan.
+
 Municipalidad de Escazú. (2020, 20 de abril). *Reglamento del Sistema Integral Policial de Comando y Control de Escazú (SIPCO)*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=91474&param2=120812&param3=1
 
 Municipalidad de Heredia. (2019, 16 de diciembre). *Reglamento regulador para la vigilancia de vías públicas mediante dispositivos tecnológicos o técnicos (excepto drones) de la Municipalidad de Heredia*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=90609&param2=119429&param3=1
