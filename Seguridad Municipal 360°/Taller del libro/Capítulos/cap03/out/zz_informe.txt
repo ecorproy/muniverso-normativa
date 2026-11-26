@@ -1,0 +1,13 @@
+CITAS TEXTUALES: 30 | OK: 30
+
+UBICACIONES VERIFICADAS A MANO (4):
+  [cap03.md] V:1999-005445:considerando VI: "sólo mediante una ley de nacionalización o de regi" (segmentador: ['RESULTANDO', 'IV'])
+  [cap03.md] D:C-287-2024:apartado II: "es el legislador y el juez quienes definen lo 'loc" (segmentador: ['V'])
+  [cap03.md] D:C-287-2024:apartado II: "Lo local y lo nacional no puede ni debe ser objeto" (segmentador: ['V'])
+  [cap03.md] V:1999-005445:considerando VI: "si la municipalidad está o no en capacidad real y " (segmentador: ['RESULTANDO', 'IV'])
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (0):

@@ -1347,3 +1347,16 @@ El autor pidió que el capítulo aprovechara los 36 temas. Secciones nuevas: «L
 Regla de terminología del autor (26-11-2026): «concejal» solo para los Concejos Municipales de Distrito; los miembros del Concejo Municipal son regidores. El amparo lo resuelve una magistrada o un magistrado de la Sala Constitucional, no una jueza o un juez. Capítulo 1 corregido (McGinty conserva «concejal municipal» solo dentro de la cita literal de Conan Doyle); pestaña rev 7: 42.335 bytes, sha256 8288cc5e…, IDÉNTICO. Pendiente de decisión del autor: los temas 18 y 35 dicen «concejales» al parafrasear los arts. 136 y 174 CM, que usan esa palabra.
 
 Decisión del autor sobre «concejales» en los arts. 136 y 174 CM: se conserva la palabra de la ley y se aclara que es el término del artículo. t18 («de los concejales, término que usa el artículo, del alcalde»): 57.021 bytes, sha256 ebeac1e7…, IDÉNTICO. t35 («Los concejales, como los llama el artículo, el alcalde»): 39.086 bytes, sha256 0103671d…, IDÉNTICO.
+
+### 26 de noviembre de 2026 — Capítulos 3 y 4
+
+Pedido del autor: explicar el concepto antes del Cuadrante I y dedicar un capítulo aparte a la persona en el centro, con la Ley 2166 y los votos de la Sala Constitucional sobre el buen funcionamiento de los servicios públicos.
+
+- «3. El concepto» (pestaña d9749cae-0a77, nodo 75071696-23a8, orden a3): definición de lo local construida con CP 169, CM 1, 3 y 6, Ley 8801 art. 3, votos 1997-006469, 1999-005445 y 2006-017907, y dictámenes C-015-2013 y C-287-2024; la persona y sus vínculos; definición de Seguridad Municipal 360° (la del autor); protección y no policía ampliada (LGAP art. 12), concurrencia y medición (CP art. 11); los cuatro cuadrantes desde CP 21, 33, 51 y 50; 36 × 10 grados, con los demás grados abiertos a la red. 2.114 palabras, 30 citas, 0 errores. 14.461 bytes, sha256 143e1c8b…, IDÉNTICO.
+- «4. La persona en el centro» (pestaña 992edff3-af70, nodo 9865e228-17dc, orden a4): LGAP arts. 4, 10, 113 y 114; derecho fundamental al buen funcionamiento (votos 2003-011382, cons. III y IV; 2016-000427 citado en 2018-001141, cons. IV); casos de Montes de Oca (2003-005006), Cartago (2018-001141) y Biolley de Buenos Aires (2021-024259); CP 11, 191 y 192; voto 2025-008201 (mayoría, cons. IV y XXVIII); Ley 10159 arts. 1, 4 h) e i), 5 u) y w), 27 a 29; Ley 2166 arts. 47 y 48. 2.375 palabras, 36 citas, 0 errores. 17.304 bytes, sha256 4c61c0cf…, IDÉNTICO.
+- Capítulo 1: el 360 se atribuye ahora al autor (36 temas × 10 grados) y la seguridad humana queda como antecedente. 42.607 bytes, sha256 df805156…, IDÉNTICO.
+- Capítulo 2: la remisión final apunta al capítulo 1 y al 3. 30.685 bytes, sha256 51bb7a12…, IDÉNTICO.
+
+No se usó el pasaje del voto 2025-008201 sobre «Resulta imposible aspirar al buen funcionamiento…» (cons. XXXV): es un voto salvado de un magistrado que transcribe su voto salvado en la sentencia 2014-001227.
+
+Word reconstruido con los capítulos 1 a 4 antes del Cuadrante I.
