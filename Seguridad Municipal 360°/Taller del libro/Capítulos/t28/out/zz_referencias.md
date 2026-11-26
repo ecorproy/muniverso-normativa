@@ -48,6 +48,8 @@ Procuraduría General de la República. (2003, 29 de setiembre). *Opinión jurí
 
 Procuraduría General de la República. (2014, 3 de octubre). *Dictamen C-317-2014*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=18432&param2=0
 
+Procuraduría General de la República. (2014, 19 de diciembre). *Dictamen C-480-2014*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=18660&param2=0
+
 Procuraduría General de la República. (2015, 23 de noviembre). *Dictamen C-319-2015*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=19176&param2=0
 
 Procuraduría General de la República. (2018, 29 de junio). *Dictamen C-159-2018*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=20546&param2=0

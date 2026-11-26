@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 101 | OK: 96
+CITAS TEXTUALES: 103 | OK: 98
   [t28.md] 1p | D:C-089-1988:respuesta segunda | LITERAL (sin localización que cotejar) | "excepcional"
   [t28.md] 7p | D:C-089-1988:respuesta segunda | LITERAL (sin localización que cotejar) | "Obligatoriamente deben traspasarlos a A y A"
   [t28.md] 7p | D:C-089-1988:respuesta quinta | LITERAL (sin localización que cotejar) | "los medios requeridos para proporcionar el servicio"
