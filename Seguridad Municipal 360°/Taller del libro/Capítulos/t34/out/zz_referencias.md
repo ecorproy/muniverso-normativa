@@ -32,6 +32,8 @@ Ley N.° 8894, *Creación del Sistema Nacional de Educación Musical*. (2010). A
 
 Ley N.° 10025, *Fomento a la lectura, el libro y las bibliotecas*. (2021). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=95323&param2=136136&param3=1
 
+Ley N.° 10337, *Ley para eliminar un impuesto sobre la venta de cerveza importada*. (2023). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
+
 Municipalidad de Alajuela. (2016, 26 de abril). *Reglamento para el Uso, Funcionamiento y Conservación del Teatro Municipal de Alajuela*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=83559&param2=107516&param3=1
 
 Municipalidad de Cartago. (2024, 6 de agosto). *Reglamento para el trámite de declaratorias de interés cultural de la Municipalidad de Cartago*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=102760&param2=142164&param3=1
