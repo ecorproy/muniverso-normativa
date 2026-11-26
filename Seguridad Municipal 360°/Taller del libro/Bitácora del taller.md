@@ -1489,3 +1489,7 @@ Capítulo 1 rev 14, 50.045 bytes, sha256 64ce486a…; capítulo 2 rev 43, 52.743
 ## 26 de noviembre de 2026, noche: segunda evaluación externa
 
 La segunda evaluación (96/100) dio por atendidas las observaciones de fondo de los capítulos 1 a 4. Se aplicaron sus dos precisiones: en el capítulo 4, la falla institucional no se traslada automáticamente a quien decidió (LGAP 199); en el capítulo 3, criterios de selección de casos y aclaración de que un caso prueba la existencia del problema, no su frecuencia. Capítulo 3 rev 15, 38.699 bytes, sha256 0aef7304…; capítulo 4 rev 16, 56.983 bytes, sha256 541196fb…; ambos IDÉNTICO. Word final23. Siguen pendientes: conclusión general, figura de la célula, índices y revisión de los 36 temas con los nuevos criterios.
+
+## 26 de noviembre de 2026, noche: tercera evaluación y logo
+
+Tercera evaluación (97/100): da por consolidados los cuatro capítulos y recomienda pasar a la etapa editorial. El autor aportó el logo (círculo con flecha y raíces); se guardó en `Identidad visual/` y se insertó como portada del Word con `scripts/portada.py` (después de `post.py`). Word final24. Pendientes editoriales: figura de la célula, conclusión general, índices y corrección final.
