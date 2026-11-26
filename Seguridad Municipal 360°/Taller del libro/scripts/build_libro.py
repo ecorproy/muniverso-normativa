@@ -308,6 +308,8 @@ HEAD_RE = re.compile(r'(?m)^\W{0,6}([IVXL]{1,7})\s*\)?\s*\.?\s*[-–—.]+\s*\S'
 
 
 MANUAL.update({
+    'Zaratiegui, 1999': dict(file='/home/claude/libro/fuentes/doctrina/zaratiegui_1999_pag.txt',
+        ref='Zaratiegui, J. R. (1999). La gestión por procesos: Su papel e importancia en la empresa. *Economía Industrial*, (330), 81-88.'),
     'Leiva Poveda, 2016': dict(file='/home/claude/libro/fuentes/doctrina/leiva_elusiva.txt',
         ref='Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En *Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local?* Federación Metropolitana de Municipalidades y Municipalidad de San José.'),
     'Ortiz Ortiz, 1987, como se citó en Leiva Poveda, 2016': dict(file='/home/claude/libro/fuentes/doctrina/leiva_elusiva.txt', alias='Leiva Poveda, 2016',

@@ -31,3 +31,5 @@ Sala Constitucional de la Corte Suprema de Justicia. (2025, 17 de marzo). *Voto 
 Sala Primera de la Corte Suprema de Justicia. (2006, 25 de mayo). *Resolución N.° 000308-F-2006, de las 10:30 horas* (expediente 00-000717-0163-CA). NexusPJ.
 
 Sala Primera de la Corte Suprema de Justicia. (2006, 19 de diciembre). *Resolución N.° 000979-F-2006, de las 7:55 horas* (expediente 98-000385-0163-CA). NexusPJ.
+
+Zaratiegui, J. R. (1999). La gestión por procesos: Su papel e importancia en la empresa. *Economía Industrial*, (330), 81-88.
