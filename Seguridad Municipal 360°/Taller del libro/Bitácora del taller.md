@@ -1264,3 +1264,9 @@ Adendas, todas IDÉNTICAS por exportación:
 Barrido de señales: con esta entrega quedan publicados y verificados t28 (62.106 antes de la adenda, 48f96c7a…), t29 (49.282, 09d5ee64…), t30 (66.201, 7eb48a9c…) y t31 (51.147, f17998d1…). Corrección: el commit 59e3c03 dice «33 marcas de lectura propia»; fueron unas 30.
 
 Pendiente: tema 35 (la guía interna pide el 3 % mínimo de los ingresos ordinarios para el comité cantonal de deportes, art. 179 CM y art. 6 Ley 9329: incorporarlo al reescribir el tema); barrido de t32, t33 y t36. Sin usar todavía: la guía orientadora plurianual, la plantilla plurianual, el modelo de guía del plan operativo y los cuadros (dietas, plazas del art. 46 de la Ley 10159). Las Indicaciones mencionan la Ley 10795 (reforma del art. 106 CM: el acta del Concejo se sustituye por certificaciones); no está en el repositorio y no se citó.
+
+### 26 de noviembre de 2026 — Cierre del barrido de señales: temas 32, 33, 34 y 36
+
+Mismo criterio que en los temas anteriores: las cuatro maneras de «Cómo hace» pasan a «La primera es…», las respuestas de una o dos palabras de la conclusión se completan como oraciones («No lo está», «Le debe garantías en el procedimiento, pero no otra casa»), y los giros «no es X, sino Y», «La conclusión examina…», «Colaborar no es esperar», «La red se cierra sobre sí misma» y «vale la pena» se reescriben o se eliminan. Todos IDÉNTICOS por exportación: t32 50.957 bytes (3083fffc…), t33 53.461 (025b9167…), t34 53.324 (0558d8ed…), t36 92.740 (208af761…).
+
+Con esto, el barrido cubre el capítulo 2 y los temas 1 a 34 y 36. Queda el tema 35, que conserva un «En suma» y se reescribe aparte (incluirá el 3 % para el comité cantonal de deportes que pide la guía interna de la Contraloría).
