@@ -1451,3 +1451,14 @@ El autor señaló que la metáfora micelial no explicaba cómo muere la red y ap
 7.021 palabras; 49 citas, 0 errores. Pestaña df9de45f-a65b rev 10: 49.411 bytes, sha256 58bb7d7b…, IDÉNTICO. Word final18.
 
 Corrección pedida por el autor: «hay cinco más» y «estas seis muertes» (captura más las cinco desarrolladas). Pestaña df9de45f-a65b rev 12: 49.400 bytes, sha256 eb2d9c43…, IDÉNTICO. Word final19.
+
+## 26 de noviembre de 2026, noche: Cortés García (2026) en los capítulos 2 y 4
+
+El autor aportó el manuscrito de su libro *Derecho municipal: Impugnación, veto y revisión de actos administrativos* (Tirant lo Blanch, 2026) para usarlo donde sea conducente, con citas por capítulo. Texto en `fuentes/doctrina/cortes_garcia_2026.txt` (pandoc plano del .docx). Clave «Cortés García, 2026». Las doce citas se cotejaron a mano contra el capítulo indicado (Introducción y capítulos 4, 12, 14, 25, 26, 27 y 33 del manuscrito).
+
+- Capítulo 2, «La doctrina»: la extinción de la Sección Tercera en julio de 2023 y la jerarquía impropia posterior (cap. 33), como actualización de los cinco controles de Leiva; la diarquía municipal (cap. 4) y el propósito del libro (Introducción). Se corrigió de paso «(Leiva Poveda, 2016, p. 7), Agrega» por punto.
+- Capítulo 4: motivación de la evaluación (cap. 25); sujeción técnica, LGAP 16 (cap. 27); debido proceso de la persona servidora (caps. 26 y 14); en la cadena, el deber de conocer los recursos (TCA 479-2019 citado en la Introducción), CM 171, CPCA 35 y la omisión ilegítima (cap. 12).
+
+Publicación con operaciones puntuales, sin rehacer las pestañas. Capítulo 2: rev 42, 52.078 bytes, sha256 7da9ee3a…, IDÉNTICO. Capítulo 4: rev 13, 54.439 bytes, sha256 078f0216…, IDÉNTICO. Word final20.
+
+Pendiente: los 36 temas.

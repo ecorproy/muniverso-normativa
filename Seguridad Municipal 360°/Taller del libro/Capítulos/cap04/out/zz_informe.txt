@@ -1,4 +1,11 @@
-CITAS TEXTUALES: 114 | OK: 114
+CITAS TEXTUALES: 121 | OK: 114
+  [cap04.md] 21p | Cortés García, 2026 | , capítulo 25 | LITERAL (sin localización que cotejar) | "no solo constituye un vicio formal grave, sino que represent"
+  [cap04.md] 26p | Cortés García, 2026 | , capítulo 27 | LITERAL (sin localización que cotejar) | "trasciende la corrección jurídica formal para constituirse c"
+  [cap04.md] 22p | Cortés García, 2026 | , capítulo 26 | LITERAL (sin localización que cotejar) | "el cumplimiento formal de rituales procedimentales puede coe"
+  [cap04.md] 11p | Cortés García, 2026 | , capítulo 26 | LITERAL (sin localización que cotejar) | "constituye la manifestación más intensa del poder estatal so"
+  [cap04.md] 16p | Cortés García, 2026 | , capítulo 14 | LITERAL (sin localización que cotejar) | "implicaría sostener que el derecho de defensa es inversament"
+  [cap04.md] 23p | Cortés García, 2026 | , Introducción | LITERAL (sin localización que cotejar) | "su deber de velar porque, todos los órganos a su cargo conoz"
+  [cap04.md] 30p | Cortés García, 2026 | , capítulo 12 | LITERAL (sin localización que cotejar) | "La omisión ilegítima de la administración no puede convertir"
 
 UBICACIONES VERIFICADAS A MANO (0):
 

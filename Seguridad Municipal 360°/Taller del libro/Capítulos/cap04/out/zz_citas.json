@@ -547,6 +547,13 @@
  },
  {
   "archivo": "cap04.md",
+  "palabras": 21,
+  "fuente": "Cortés García, 2026 | , capítulo 25",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "no solo constituye un vicio formal grave, sino que represent"
+ },
+ {
+  "archivo": "cap04.md",
   "palabras": 14,
   "fuente": "L:10159:art. 1",
   "estado": "OK",
@@ -558,6 +565,13 @@
   "fuente": "L:6227:art. 16",
   "estado": "OK",
   "cita": "reglas unívocas de la ciencia o de la técnica"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 26,
+  "fuente": "Cortés García, 2026 | , capítulo 27",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "trasciende la corrección jurídica formal para constituirse c"
  },
  {
   "archivo": "cap04.md",
@@ -621,6 +635,27 @@
   "fuente": "L:10159:art. 21",
   "estado": "OK",
   "cita": "debidamente justificada por la jefatura inmediata que la asi"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 22,
+  "fuente": "Cortés García, 2026 | , capítulo 26",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "el cumplimiento formal de rituales procedimentales puede coe"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 11,
+  "fuente": "Cortés García, 2026 | , capítulo 26",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "constituye la manifestación más intensa del poder estatal so"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 16,
+  "fuente": "Cortés García, 2026 | , capítulo 14",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "implicaría sostener que el derecho de defensa es inversament"
  },
  {
   "archivo": "cap04.md",
@@ -796,5 +831,19 @@
   "fuente": "Bendell et al., 1993, como se citó en Medina León et al., 2009 | , p. 66",
   "estado": "OK",
   "cita": "los problemas ocurren en el momento del cambio, cuando el te"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 23,
+  "fuente": "Cortés García, 2026 | , Introducción",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "su deber de velar porque, todos los órganos a su cargo conoz"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 30,
+  "fuente": "Cortés García, 2026 | , capítulo 12",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "La omisión ilegítima de la administración no puede convertir"
  }
 ]
