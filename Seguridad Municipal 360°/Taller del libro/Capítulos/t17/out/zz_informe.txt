@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 55 | OK: 55
+CITAS TEXTUALES: 57 | OK: 57
 
 UBICACIONES VERIFICADAS A MANO (5):
   [t17.md] D:C-107-2026:apartado I: "estableciendo mecanismos que permitan a los muníci" (segmentador: ['V'])
