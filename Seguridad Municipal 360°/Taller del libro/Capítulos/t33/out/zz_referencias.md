@@ -1,5 +1,7 @@
 ## Referencias
 
+Constitución Política de la República de Costa Rica. (1949). Asamblea Nacional Constituyente. Sistema Costarricense de Información Jurídica.
+
 Contraloría General de la República. (2022, 12 de diciembre). *Oficio N.° 22430 (DFOE-LOC-2366). Emisión de criterio relativo a aclarar si el análisis brindado a través de los oficios n.os 11545 (DFOE-LOC-0617)-2021 y 13004 (DFOE-LOC-1320)-2022, es extensible al concepto que aparece en el artículo 2 inciso a) del Decreto Ejecutivo n.° 40137-MOPT*.
 
 Contraloría General de la República. (2023, 27 de setiembre). *Oficio N.° 12990 (DFOE-LOC-1706). Emisión de criterio relativo a la inversión de recursos en aceras*.

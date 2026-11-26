@@ -1403,3 +1403,7 @@ El autor aportó el enlace SINALEVI de C-231-2022 (param1=23622), que se agregó
 - Capítulo 2: párrafo nuevo con C-195-2024 (coordinación «en resguardo y tutela de los derechos fundamentales de los usuarios»; coordinación «oportuna y adecuada» ante peligro en aceras de rutas nacionales; «competencia prevalente» municipal para aprobar obras y mobiliario en aceras, «tanto en vías nacionales como cantonales», Ley 9976, art. 10). Pestaña rev 39, 47.028 bytes, sha256 cc88fcfd…, IDÉNTICO.
 - Capítulo 3: el deber de instar se apoya también en C-195-2024 y en el art. 84 CM («está obligada a suplir la inacción del propietario» cuando conoce la situación de peligro). Pestaña rev 10, 27.770 bytes, sha256 c5d7e597…, IDÉNTICO.
 - Ubicaciones «apartado I!» de C-195-2024 cotejadas a mano: el segmentador confunde el «II.» de un dictamen transcrito dentro del apartado I.
+
+### 26 de noviembre de 2026 — Tema 33: permisos anteriores a la Ley 9976
+
+A pedido del autor, la parte de irretroactividad del dictamen C-195-2024 pasó al tema 33, en «La acera»: permiso del MOPT no ejecutado (necesita aprobación municipal, que puede negarse de forma motivada; C-195-2024, ap. III y concl.) y obra en curso como situación consolidada (CP art. 34). Pestaña 6637aec5-aa13 rev 3: 58.333 bytes, sha256 bccccfd2…, IDÉNTICO. Word reconstruido.
