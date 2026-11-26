@@ -2,6 +2,8 @@
 
 Constitución Política de la República de Costa Rica. (1949). Asamblea Nacional Constituyente. Sistema Costarricense de Información Jurídica.
 
+Ley N.° 2, *Código de Trabajo*. (1943). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=8045&param2=150791&param3=1
+
 Ley N.° 2166, *Ley de Salarios de la Administración Pública*. (1957). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=3672&param2=147114&param3=1
 
 Ley N.° 6227, *Ley General de la Administración Pública*. (1978). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=13231&param2=153093&param3=1
@@ -11,6 +13,8 @@ Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la Repúblic
 Ley N.° 8422, *Ley contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública*. (2004). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=53738&param2=151776&param3=1
 
 Ley N.° 10159, *Ley Marco de Empleo Público*. (2022). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=96521&param2=145804&param3=1
+
+Medina León, A., Nogueira Rivera, D., & Hernández Nariño, A. (2009). Relevancia de la gestión por procesos en la planificación estratégica y la mejora continua. *Eídos*, (2), 65-72.
 
 Procuraduría General de la República. (2026, 3 de junio). *Dictamen C-084-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25462&param2=0
 
