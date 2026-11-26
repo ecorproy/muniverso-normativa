@@ -1443,3 +1443,9 @@ Aporte del autor, «en lo conducente». Referencia corregida: los autores son Me
 Voto 563-1997: el texto que el autor bajó de Nexus con ese número corresponde a otra resolución (00563-I-97, 3 de diciembre de 1997, adición pedida por el Contralor sobre la sentencia 15-95). La cita sigue tomada de la nota de SINALEVI al art. 81.
 
 7.634 palabras; 114 citas textuales, 0 errores. Pestaña 992edff3-af70 rev 12: 51.455 bytes, sha256 32697008…, IDÉNTICO. Word final17.
+
+## 26 de noviembre de 2026, noche: «Cómo muere la red» en el capítulo 1
+
+El autor señaló que la metáfora micelial no explicaba cómo muere la red y aportó de nuevo el PDF de Sheldrake (idéntico a `fuentes/doctrina/sheldrake_2020.txt`, 863.579 bytes). Sección nueva después de «La telaraña de Vermissa», con cinco formas de muerte ilustradas con casos ya presentes en el libro: captura (Vermissa); corte (Olsson, cap. 2; China Kichá 2026-013450; traslado en Tibás 2025-019603 y el testigo del capítulo 4); desgaste (conexiones que envejecen, cap. 1; Montes de Oca 2003-005006); envenenamiento lento («deterioro alarmante» y agricultura intensiva, cap. 5; Sala Primera 2006-000979 cotejo formal; San Ramón 2023-001782); sustitución (fertilizante y trigo que perdió la capacidad de cooperar, cap. 5; capacidad real y técnica del capítulo 3; Palmares como contraejemplo); acaparamiento (cap. 5; Upala 2020-016680). Cierre: el suelo que se desintegra (cap. 5; Limón 2026-025649; Río Azul 2026-016165) y la regeneración desde un fragmento (cap. 2 y 5; Heredia 2015-012020). Las trece citas de Sheldrake se cotejaron a mano contra el capítulo indicado.
+
+7.021 palabras; 49 citas, 0 errores. Pestaña df9de45f-a65b rev 10: 49.411 bytes, sha256 58bb7d7b…, IDÉNTICO. Word final18.

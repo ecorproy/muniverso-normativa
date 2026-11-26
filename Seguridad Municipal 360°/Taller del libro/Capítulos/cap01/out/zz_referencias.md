@@ -76,6 +76,8 @@ Sala Constitucional de la Corte Suprema de Justicia. (2026, 24 de setiembre). *V
 
 Sala Constitucional de la Corte Suprema de Justicia. (2026, 8 de octubre). *Voto N.° 2026-038693, de las 9:30 horas* (expediente 26-031860-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1431175
 
+Sala Primera de la Corte Suprema de Justicia. (2006, 19 de diciembre). *Resolución N.° 000979-F-2006, de las 7:55 horas* (expediente 98-000385-0163-CA). NexusPJ.
+
 Sheldrake, M. (2020). *La red oculta de la vida: De qué manera los hongos crean nuestros mundos, cambian nuestra forma de pensar y moldean nuestro futuro* (T. Gras Cardona, Trad.). Editorial Planeta.
 
 Tribunal Contencioso Administrativo, Sección III. (2009, 30 de octubre). *Resolución N.° 2416-2009, de las 10:35 horas* (expediente 08-001520-1027-CA). NexusPJ.

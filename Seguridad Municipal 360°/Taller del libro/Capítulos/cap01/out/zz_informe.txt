@@ -1,8 +1,18 @@
-CITAS TEXTUALES: 36 | OK: 32
+CITAS TEXTUALES: 49 | OK: 35
   [cap01.md] 6p | Sheldrake, 2020 | , capítulo 2 | LITERAL (sin localización que cotejar) | "El micelio es tejido conjuntivo ecológico"
   [cap01.md] 12p | Sheldrake, 2020 | , capítulo 2 | LITERAL (sin localización que cotejar) | "No hay centros de operaciones, ni ciudades capitales, ni sed"
   [cap01.md] 7p | RM:desamparados-ninez:eje Salud | LITERAL (sin localización que cotejar) | "la mala atención de la salud mental"
   [cap01.md] 6p | Sheldrake, 2020 | , Introducción | LITERAL (sin localización que cotejar) | "hackers de la Wood Wide Web"
+  [cap01.md] 14p | Sheldrake, 2020 | , capítulo 1 | LITERAL (sin localización que cotejar) | "Si los hilos se rompen, no hay vuelta atrás. El vínculo desa"
+  [cap01.md] 9p | Sheldrake, 2020 | , capítulo 2 | LITERAL (sin localización que cotejar) | "Un fragmento de micelio puede regenerar una red entera"
+  [cap01.md] 16p | Sheldrake, 2020 | , capítulo 2 | LITERAL (sin localización que cotejar) | "se propagó como antes por la red herida, pero la señal no al"
+  [cap01.md] 22p | Sheldrake, 2020 | , capítulo 1 | LITERAL (sin localización que cotejar) | "son dinámicas, formadas y reconstituidas a medida que las co"
+  [cap01.md] 2p | Sheldrake, 2020 | , capítulo 5 | LITERAL (sin localización que cotejar) | "deterioro alarmante"
+  [cap01.md] 13p | Sheldrake, 2020 | , capítulo 5 | LITERAL (sin localización que cotejar) | "reducen la abundancia de hongos micorrícicos y alteran la es"
+  [cap01.md] 9p | Sheldrake, 2020 | , capítulo 5 | LITERAL (sin localización que cotejar) | "¿no le quitamos el trabajo a los hongos micorrícicos?"
+  [cap01.md] 11p | Sheldrake, 2020 | , capítulo 5 | LITERAL (sin localización que cotejar) | "que casi han perdido la capacidad para cooperar con los hong"
+  [cap01.md] 17p | Sheldrake, 2020 | , capítulo 5 | LITERAL (sin localización que cotejar) | "una costura pegajosa y viva que compacta el suelo; quitemos "
+  [cap01.md] 7p | Sheldrake, 2020 | , capítulo 5 | LITERAL (sin localización que cotejar) | "a restaurar la vida en suelos devastados"
 
 UBICACIONES VERIFICADAS A MANO (0):
 
@@ -10,4 +20,5 @@ ERRORES (0):
 
 AVISOS (0):
 
-NOTAS DE VOCABULARIO (0):
+NOTAS DE VOCABULARIO (1):
+  [cap01.md] vocabulario «clave»: …on otra y con la gente, que son las especies clave del cantón.  La cuarta es la sustitució…
