@@ -9,7 +9,7 @@ Cada norma remite a los capítulos y temas en cuyas referencias aparece.
 
 ### Leyes
 
-- Ley N.° 2, Código de Trabajo (1943): capítulo 4; temas 1, 10, 11, 18, 20, 36; conclusión.
+- Ley N.° 2, Código de Trabajo (1943): capítulo 4; temas 1, 10, 11, 18, 20; conclusión.
 - Ley N.° 17, Ley Constitutiva de la Caja Costarricense de Seguro Social CCSS (1943): temas 13, 18.
 - Ley N.° 30, Código Civil (1885): temas 1, 9, 16, 27, 28, 31, 33.
 - Ley N.° 68, Ley de Protección de las Cuencas Hidrograficas (1923): tema 28.
@@ -103,7 +103,7 @@ Cada norma remite a los capítulos y temas en cuyas referencias aparece.
 - Ley N.° 8262, Ley de Fortalecimiento de las Pequeñas y Medianas Empresas (2002): tema 36.
 - Ley N.° 8292, Ley General de Control Interno (2002): temas 14, 16.
 - Ley N.° 8306, Ley para asegurar, en los espectáculos públicos espacios, exclusivos para personas con discapacidad. (2002): tema 24.
-- Ley N.° 8422, Ley contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública (2004): capítulos 3, 4; temas 14, 36; conclusión.
+- Ley N.° 8422, Ley contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública (2004): capítulos 3, 4; tema 14; conclusión.
 - Ley N.° 8436, Ley de Pesca y Acuicultura (2005): temas 30, 31.
 - Ley N.° 8454, Ley de Certificados, Firmas Digitales y Documentos Electrónicos (2005): temas 13, 17.
 - Ley N.° 8488, Ley Nacional de Emergencias y Prevención del Riesgo (2005): temas 2, 6, 36.
@@ -172,7 +172,7 @@ Cada norma remite a los capítulos y temas en cuyas referencias aparece.
 - Ley N.° 10126, Ley de comercio al aire libre (2022): temas 18, 27, 36.
 - Ley N.° 10141, Servicio municipal de atención de animales de compañía (2022): temas 1, 31, 36.
 - Ley N.° 10158, Consolidación del Centro Operativo de atención a la violencia intrafamiliar y la Violencia contra las Mujeres (COAVIFMU) y declaratoria de los servicios de atención de la violencia contra las mujeres como servicio esencial (2022): tema 26.
-- Ley N.° 10159, Ley Marco de Empleo Público (2022): capítulo 4; temas 2, 18, 20, 24, 25, 36; conclusión.
+- Ley N.° 10159, Ley Marco de Empleo Público (2022): capítulo 4; temas 2, 18, 20, 24, 25; conclusión.
 - Ley N.° 10163, Ley para el fortalecimiento de facilidades comunales y programas sociales municipales (2022): tema 23.
 - Ley N.° 10192, Creación del Sistema Nacional de Cuidados y Apoyos para Personas Adultas y Personas Adultas Mayores en Situación de Dependencia (Sinca) (2022): temas 9, 25.
 - Ley N.° 10199, Ley de vivienda municipal (2022): temas 19, 32.
@@ -421,8 +421,8 @@ Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas ref
 - Voto N.° 2002-003956: tema 28.
 - Voto N.° 2002-010857: tema 28.
 - Voto N.° 2003-003656: tema 34.
-- Voto N.° 2003-005006: capítulos 1, 4; temas 29, 36; conclusión.
-- Voto N.° 2003-011382: capítulo 4; tema 36; conclusión.
+- Voto N.° 2003-005006: capítulos 1, 4; tema 29; conclusión.
+- Voto N.° 2003-011382: capítulo 4; conclusión.
 - Voto N.° 2004-000626: temas 8, 29.
 - Voto N.° 2005-001178: tema 28.
 - Voto N.° 2005-012698: tema 27.
@@ -469,7 +469,7 @@ Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas ref
 - Voto N.° 2020-016680: capítulo 1; tema 17.
 - Voto N.° 2020-021381: temas 10, 29.
 - Voto N.° 2021-001706: tema 31.
-- Voto N.° 2021-024259: capítulo 4; temas 9, 36; conclusión.
+- Voto N.° 2021-024259: capítulo 4; tema 9; conclusión.
 - Voto N.° 2022-006710: tema 13.
 - Voto N.° 2022-017550: tema 6.
 - Voto N.° 2022-021511: tema 17.
@@ -521,7 +521,7 @@ Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas ref
 - Voto N.° 2025-037535: tema 24.
 - Voto N.° 2025-037551: tema 30.
 - Voto N.° 2025-041927: temas 21, 28, 35.
-- Voto N.° 2026-000643: capítulo 1; temas 5, 33, 36; conclusión.
+- Voto N.° 2026-000643: capítulo 1; temas 5, 33; conclusión.
 - Voto N.° 2026-005199: tema 10.
 - Voto N.° 2026-008044: temas 17, 30, 33.
 - Voto N.° 2026-009053: temas 5, 28, 33.
@@ -924,6 +924,7 @@ Doctrina, informes y documentos institucionales que no son normas ni resolucione
 - Consejo para la Promoción de la Competitividad. (2026). Índice de Competitividad Nacional 2026. https://icn.cr/: temas 19, 36.
 - Cortés García, E. (2026). Derecho municipal: Impugnación, veto y revisión de actos administrativos. Tirant lo Blanch: capítulos 2, 4.
 - Harvard Law Review. (2025). Fourth Amendment — Unreasonable searches — Michigan Supreme Court holds exclusionary rule inapplicable in the civil context. Long Lake Township v. Maxon, 15 N.W.3d 118 (Mich. 2024). Harvard Law Review, 138, 1941-1950: tema 16.
+- Kant, I. (1873). Principios metafísicos del derecho (G. Lizárraga, Trad.). Librería de Victoriano Suárez. (Trabajo original publicado en 1797): capítulos 2, 3, 4; conclusión.
 - Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local? Federación Metropolitana de Municipalidades y Municipalidad de San José: capítulos 2, 3.
 - Medina León, A., Nogueira Rivera, D., & Hernández Nariño, A. (2009). Relevancia de la gestión por procesos en la planificación estratégica y la mejora continua. Eídos, (2), 65-72: capítulo 4.
 - Naciones Unidas, Dependencia de Seguridad Humana. (2016). Manual de seguridad humana: Un enfoque integrado para la consecución de los Objetivos de Desarrollo Sostenible y los ámbitos de acción prioritarios de la comunidad internacional y el sistema de las Naciones Unidas. Naciones Unidas: capítulo 1.
