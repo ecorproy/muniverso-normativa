@@ -8,6 +8,8 @@ Decreto Ejecutivo N.° 32675, *Declara de interés público el Proyecto «Centro
 
 Ley N.° 4755, *Código de Normas y Procedimientos Tributarios ( Código Tributario )*. (1971). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=6530&param2=148766&param3=1
 
+Ley N.° 7169, *Promoción Desarrollo Científico y Tecnológico y Creación del MICYT(Ministerio de Ciencia y Tecnología)*. (1990). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=11908&param2=141204&param3=1
+
 Ley N.° 7593, *Ley de la Autoridad Reguladora de los Servicios Públicos (ARESEP)*. (1996). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=26314&param2=152025&param3=1
 
 Ley N.° 7600, *Ley de Igualdad de Oportunidades para las Personas con Discapacidad*. (1996). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=23261&param2=121969&param3=1
@@ -19,6 +21,8 @@ Ley N.° 8454, *Ley de Certificados, Firmas Digitales y Documentos Electrónicos
 Ley N.° 8642, *Ley General de Telecomunicaciones*. (2008). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=63431&param2=138897&param3=1
 
 Ley N.° 8934, *Protección de la niñez y la adolescencia frente al contenido nocivo de Internet y otros medios electrónicos*. (2011). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=71024&param2=86030&param3=1
+
+Ley N.° 9046, *Traslado del Sector Telecomunicaciones del Ministerio de Ambiente, Energía y Telecomunicaciones al Ministerio de Ciencia y Tecnología*. (2012). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
 
 Ley N.° 9822, *Reconocimiento y promoción de la Lenguaje de Señas Costarricense (LESCO), declara el 19 de julio Día de la Lengua de Señas Costarricense (lesco), declara el 21 de setiembre Día de la Comunidad de Personas Sordas de Costa Rica*. (2020). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=91930&param2=121509&param3=1
 

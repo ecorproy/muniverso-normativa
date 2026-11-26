@@ -4,6 +4,8 @@ Contraloría General de la República. (2025). [Fichas de indicadores del Índic
 
 Decreto Ejecutivo N.° 26831, *Reglamento Ley de Igualdad de Oportunidades para Personas con Discapacidad*. (1998). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=53160&param2=130269&param3=1
 
+Ley N.° 2171, *Ley del Patronato Nacional de Ciegos*. (1957). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
+
 Ley N.° 7600, *Ley de Igualdad de Oportunidades para las Personas con Discapacidad*. (1996). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=23261&param2=121969&param3=1
 
 Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40197&param2=152716&param3=1
