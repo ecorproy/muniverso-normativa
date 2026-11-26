@@ -1493,3 +1493,10 @@ La segunda evaluación (96/100) dio por atendidas las observaciones de fondo de 
 ## 26 de noviembre de 2026, noche: tercera evaluación y logo
 
 Tercera evaluación (97/100): da por consolidados los cuatro capítulos y recomienda pasar a la etapa editorial. El autor aportó el logo (círculo con flecha y raíces); se guardó en `Identidad visual/` y se insertó como portada del Word con `scripts/portada.py` (después de `post.py`). Word final24. Pendientes editoriales: figura de la célula, conclusión general, índices y corrección final.
+
+## 26 de noviembre de 2026, noche: figura, conclusión e índices
+
+- Figura 1, «La célula» (`Identidad visual/Figura 1 - La célula.svg|png`, generador `scripts/figura_celula.py`): membrana del bloque de legalidad, citoplasma de lo local con los 36 temas en cuatro cuadrantes y puntos para los grados por nombrar, envoltura doble de la Constitución, núcleo con las dos personas y flechas de beneficio mutuo, hifas hacia afuera. Se inserta en el Word al inicio de «Una célula» con `scripts/figuras.py`. No está en la pestaña de Docs.
+- Conclusión «Volver al núcleo»: pestaña nueva b3bd2cf3-7433 (nodo d422b05d-d3fc, orden «d1») en el documento del libro. Secciones: El recorrido; Tres preguntas y sus respuestas; Lo que el libro no dice; Lo que se repite en los temas; Seis preguntas para una municipalidad; Volver a las dos personas; El mapa abierto. Solo citas ya verificadas en los capítulos más CM 13 a) (reformado por la Ley 10974 de 7 de octubre de 2026). 2.126 palabras; 20 citas, 0 errores. Rev 2, 15.316 bytes, sha256 2dc6cd78…, IDÉNTICO.
+- Índices (`Índices/…`, generador `scripts/indices.py`): legislación (Constitución, 383 leyes y decretos con reglamentos municipales y de otras instituciones), jurisprudencia y criterios administrativos (Sala Constitucional, Sala Primera, otros tribunales, Procuraduría, Contraloría, extranjera) y obras citadas, cada entrada con los capítulos y temas donde aparece. Se arman desde las secciones de referencias del manuscrito. El índice analítico con páginas queda para la diagramación.
+- Word final25 con `scripts/armar.sh` (índices, figura, pandoc, post.py y portada).

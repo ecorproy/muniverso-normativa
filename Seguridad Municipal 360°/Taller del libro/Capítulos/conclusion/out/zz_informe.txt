@@ -1,0 +1,12 @@
+CITAS TEXTUALES: 20 | OK: 20
+
+UBICACIONES VERIFICADAS A MANO (1):
+  [conclusion.md] V:1999-005445:considerando VI: "sólo mediante una ley de nacionalización o de regi" (segmentador: ['RESULTANDO', 'IV'])
+
+ERRORES (0):
+
+AVISOS (0):
+
+NOTAS DE VOCABULARIO (2):
+  [conclusion.md] vocabulario «fundamental»: …núcleo.  La persona servida tiene un derecho fundamental al buen funcionamiento de los ser…
+  [conclusion.md] vocabulario «fundamental»: … Sala lo dedujo de la Constitución: el texto fundamental "" (voto 2003-011382, cons. IV). …
