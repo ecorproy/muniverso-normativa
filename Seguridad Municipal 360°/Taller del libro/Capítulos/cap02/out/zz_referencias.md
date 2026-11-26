@@ -12,6 +12,8 @@ Ley N.° 4240, *Ley de Planificación Urbana*. (1968). Asamblea Legislativa de l
 
 Ley N.° 5060, *Ley General de Caminos Públicos*. (1972). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=38653&param2=138745&param3=1
 
+Ley N.° 6227, *Ley General de la Administración Pública*. (1978). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=13231&param2=153093&param3=1
+
 Ley N.° 6815, *Ley Orgánica de la Procuraduría General de la República*. (1982). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=38915&param2=150680&param3=1
 
 Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40197&param2=152716&param3=1

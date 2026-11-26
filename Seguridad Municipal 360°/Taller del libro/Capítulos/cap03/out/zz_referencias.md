@@ -12,6 +12,8 @@ Ley N.° 6227, *Ley General de la Administración Pública*. (1978). Asamblea Le
 
 Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40197&param2=152716&param3=1
 
+Ley N.° 8422, *Ley contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública*. (2004). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=53738&param2=151776&param3=1
+
 Ley N.° 8801, *Ley General de transferencia de competencias del Poder Ejecutivo a las Municipalidades*. (2010). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=67855&param2=80560&param3=1
 
 Procuraduría General de la República. (2013, 11 de febrero). *Dictamen C-015-2013*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=17915&param2=0
