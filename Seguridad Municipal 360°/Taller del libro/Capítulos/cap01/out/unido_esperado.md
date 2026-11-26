@@ -50,7 +50,7 @@ Holmes le da al inspector otro consejo: "Todo viene en círculo" (Conan Doyle, s
 
 ## Trescientos sesenta grados
 
-El título del libro viene de una idea de las Naciones Unidas: la seguridad humana. El manual que la explica parte de una observación que cualquier funcionario municipal reconoce: "Cuando las inseguridades se solapan, pueden crecer de manera exponencial" (Naciones Unidas, 2016, p. 5). Distingue siete tipos de inseguridad, la económica, la alimentaria, la sanitaria, la ambiental, la personal, la comunitaria y la política (Naciones Unidas, 2016, p. 7), y pide respuestas centradas en las personas, adaptadas a cada contexto y orientadas a la prevención (Naciones Unidas, 2016, p. 6).
+El título del libro viene de una idea de las Naciones Unidas: la seguridad humana. La Organización Panamericana de la Salud la resume así: "El principal objetivo de la seguridad humana es proteger y garantizar tres libertades esenciales para los individuos y las comunidades: la libertad de vivir sin temor, la libertad de vivir sin carencia y la libertad para vivir con dignidad" (Organización Panamericana de la Salud, s. f., p. 2). El manual de las Naciones Unidas que la explica parte de una observación que cualquier funcionario municipal reconoce: "Cuando las inseguridades se solapan, pueden crecer de manera exponencial" (Naciones Unidas, 2016, p. 5). Distingue siete tipos de inseguridad, la económica, la alimentaria, la sanitaria, la ambiental, la personal, la comunitaria y la política (Naciones Unidas, 2016, p. 7), y pide respuestas centradas en las personas, adaptadas a cada contexto y orientadas a la prevención (Naciones Unidas, 2016, p. 6).
 
 Dos rasgos de ese enfoque explican la manera en que este libro entiende la seguridad municipal. El primero es que la seguridad humana "no supone la amenaza ni el uso de medidas de fuerza o coercitivas" (Naciones Unidas, 2016, p. 6). De los treinta y seis temas, uno solo trata de la policía municipal (tema 4); los demás tratan de la salud, el agua, la calle, la información, el cuido o la vivienda, porque la mayor parte de lo que hace segura la vida en un cantón no se logra con fuerza. El segundo es que el enfoque busca "soluciones nacionales compatibles con la realidad local" (Naciones Unidas, 2016, p. 6) y exige "una red interconectada de partes interesadas diversas" (Naciones Unidas, 2016, p. 10). Es la misma red de la que habla Sheldrake, vista desde la política pública.
 
@@ -69,6 +69,8 @@ Conan Doyle, A. (s. f.). *El valle del terror*. Fundación Carlos Slim. (Obra or
 Constitución Política de la República de Costa Rica. (1949). Asamblea Nacional Constituyente. Sistema Costarricense de Información Jurídica.
 
 Naciones Unidas, Dependencia de Seguridad Humana. (2016). *Manual de seguridad humana: Un enfoque integrado para la consecución de los Objetivos de Desarrollo Sostenible y los ámbitos de acción prioritarios de la comunidad internacional y el sistema de las Naciones Unidas*. Naciones Unidas.
+
+Organización Panamericana de la Salud. (s. f.). \[Resumen del documento de referencia técnico sobre salud y seguridad humana\]. https://www.paho.org/sites/default/files/D37404-PAHO-ExecutiveSummary-Spn-WEB.pdf
 
 Sala Constitucional de la Corte Suprema de Justicia. (2006, 12 de diciembre). *Voto N.° 2006-017907, de las 17:09 horas* (expediente 06-013514-0007-CO). NexusPJ.
 

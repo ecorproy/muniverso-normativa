@@ -10,6 +10,8 @@ assert src.count(b) == 1
 src = src.replace(b, "    f = f'{R}/Jurisprudencia constitucional (Sala Constitucional)/Municipal/Sentencia {x}.md'\n    if os.path.exists(f):\n        return f\n    fs = glob.glob(f'{R}/Jurisprudencia constitucional (Sala Constitucional)/Municipal/*/Sentencia {x}.md')\n    return fs[0] if fs else None")
 extra = '''
 MANUAL.update({
+    'Organización Panamericana de la Salud, s. f.': dict(file='/home/claude/libro/fuentes/doctrina/ops_seguridad_humana.txt',
+        ref='Organización Panamericana de la Salud. (s. f.). [Resumen del documento de referencia técnico sobre salud y seguridad humana]. https://www.paho.org/sites/default/files/D37404-PAHO-ExecutiveSummary-Spn-WEB.pdf'),
     'Conan Doyle, s. f.': dict(file='/home/claude/libro/fuentes/doctrina/conan_doyle_valle.txt',
         ref='Conan Doyle, A. (s. f.). *El valle del terror*. Fundación Carlos Slim. (Obra original publicada en 1915)'),
     'Sheldrake, 2020': dict(file='/home/claude/libro/fuentes/doctrina/sheldrake_2020.txt',
