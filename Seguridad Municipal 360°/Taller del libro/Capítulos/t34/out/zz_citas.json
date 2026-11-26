@@ -1,13 +1,6 @@
 [
  {
   "archivo": "t34.md",
-  "palabras": 16,
-  "fuente": "V:2023-027541:considerando II",
-  "estado": "OK",
-  "cita": "con el fin de obtener su opinión y aprobación para llevar a "
- },
- {
-  "archivo": "t34.md",
   "palabras": 6,
   "fuente": "V:2023-027541:considerando II",
   "estado": "OK",
@@ -33,6 +26,13 @@
   "fuente": "CP:art. 89",
   "estado": "OK",
   "cita": "Entre los fines culturales de la República están: proteger l"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 5,
+  "fuente": "D:C-286-2021:conclusión a",
+  "estado": "OK",
+  "cita": "exigible ante toda autoridad pública"
  },
  {
   "archivo": "t34.md",
@@ -64,80 +64,10 @@
  },
  {
   "archivo": "t34.md",
-  "palabras": 12,
-  "fuente": "L:7794:art. 4, inciso l",
-  "estado": "OK",
-  "cita": "Apoyar la creación y el funcionamiento de las escuelas munic"
- },
- {
-  "archivo": "t34.md",
   "palabras": 9,
-  "fuente": "L:7794:art. 71",
+  "fuente": "D:C-265-2019:conclusión 2",
   "estado": "OK",
-  "cita": "Cada municipalidad emitirá el reglamento para regular lo ant"
- },
- {
-  "archivo": "t34.md",
-  "palabras": 12,
-  "fuente": "L:7794:art. 195",
-  "estado": "OK",
-  "cita": "en la construcción, mantenimiento, reparaciones, material y "
- },
- {
-  "archivo": "t34.md",
-  "palabras": 13,
-  "fuente": "L:5176:art. 1",
-  "estado": "OK",
-  "cita": "de acuerdo con sus posibilidades económicas y bajo criterios"
- },
- {
-  "archivo": "t34.md",
-  "palabras": 11,
-  "fuente": "L:6990:art. 6 bis",
-  "estado": "OK",
-  "cita": "Las municipalidades podrán crear una bolsa artística y de id"
- },
- {
-  "archivo": "t34.md",
-  "palabras": 12,
-  "fuente": "D:C-118-2021:conclusión",
-  "estado": "OK",
-  "cita": "un verdadero derecho fundamental a la cultura, exigible ante"
- },
- {
-  "archivo": "t34.md",
-  "palabras": 22,
-  "fuente": "D:C-011-2024:apartado I",
-  "estado": "OK",
-  "cita": "el porcentaje mínimo de estos que se dedicará a la adquisici"
- },
- {
-  "archivo": "t34.md",
-  "palabras": 18,
-  "fuente": "D:C-089-2024:conclusión",
-  "estado": "OK",
-  "cita": "establecen la obligación de las municipalidades de promocion"
- },
- {
-  "archivo": "t34.md",
-  "palabras": 12,
-  "fuente": "D:C-127-2018:conclusión",
-  "estado": "OK",
-  "cita": "aquellos no protegidos por dicha declaratoria, pero que teng"
- },
- {
-  "archivo": "t34.md",
-  "palabras": 15,
-  "fuente": "O:14467:p. 8",
-  "estado": "OK",
-  "cita": "no es procedente entonces la utilización de dichos recursos "
- },
- {
-  "archivo": "t34.md",
-  "palabras": 9,
-  "fuente": "O:01835:p. 10",
-  "estado": "OK",
-  "cita": "en principio, podría financiar las bandas comunales del cant"
+  "cita": "las labores de vigilancia que corresponden a las Municipalid"
  },
  {
   "archivo": "t34.md",
@@ -152,13 +82,6 @@
   "fuente": "V:2003-003656:considerando XXXII",
   "estado": "OK",
   "cita": "los gobiernos locales deben de implementar en los planes reg"
- },
- {
-  "archivo": "t34.md",
-  "palabras": 13,
-  "fuente": "V:2003-003656:por tanto",
-  "estado": "OK",
-  "cita": "para lo relativo a la competencia que tienen en esta materia"
  },
  {
   "archivo": "t34.md",
@@ -183,6 +106,216 @@
  },
  {
   "archivo": "t34.md",
+  "palabras": 15,
+  "fuente": "V:2026-010907:considerando I",
+  "estado": "OK",
+  "cita": "el 28 de enero de 2026 se remitió la solicitud de declarator"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 9,
+  "fuente": "V:2026-010907:considerando IV",
+  "estado": "OK",
+  "cita": "no contemplan la demolición ni afectación del kiosco existen"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 12,
+  "fuente": "D:C-127-2018:conclusión",
+  "estado": "OK",
+  "cita": "aquellos no protegidos por dicha declaratoria, pero que teng"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 22,
+  "fuente": "V:2026-014917:considerando XX",
+  "estado": "OK",
+  "cita": "admite una lectura integradora cuando una práctica local se "
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 17,
+  "fuente": "V:2025-029985:considerando VII",
+  "estado": "OK",
+  "cita": "existe una responsabilidad de las autoridades municipales de"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 8,
+  "fuente": "L:7555:art. 11",
+  "estado": "OK",
+  "cita": "prevalecerá sobre los planes y las normas urbanísticas"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 7,
+  "fuente": "RM:oreamuno-patrimonio:art. 2",
+  "estado": "OK",
+  "cita": "aplican únicamente a los inmuebles declarados oficialmente"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 10,
+  "fuente": "V:2006-016766:considerando IV",
+  "estado": "OK",
+  "cita": "no ha sido diligente en la adecuación de las instalaciones"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 10,
+  "fuente": "D:C-286-2021:conclusión c",
+  "estado": "OK",
+  "cita": "debe tener respaldo en una ley especial que lo autorice"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 13,
+  "fuente": "L:5176:art. 1",
+  "estado": "OK",
+  "cita": "de acuerdo con sus posibilidades económicas y bajo criterios"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 18,
+  "fuente": "D:C-089-2024:conclusión",
+  "estado": "OK",
+  "cita": "establecen la obligación de las municipalidades de promocion"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 22,
+  "fuente": "D:C-011-2024:apartado I",
+  "estado": "OK",
+  "cita": "el porcentaje mínimo de estos que se dedicará a la adquisici"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 10,
+  "fuente": "D:C-089-2024:conclusión 8",
+  "estado": "OK",
+  "cita": "incorporar en el proceso de valoración artística la consulta"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 10,
+  "fuente": "D:C-089-2024:conclusión 7",
+  "estado": "OK",
+  "cita": "tiene vedado la adquisición de bienes en condición de abando"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 8,
+  "fuente": "RM:cartago-bienales:art. 12",
+  "estado": "OK",
+  "cita": "un único premio de tres mil dólares americanos"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 4,
+  "fuente": "RM:cartago-bienales:art. 11",
+  "estado": "OK",
+  "cita": "se entenderán como abandonadas"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 8,
+  "fuente": "RM:escazu-arte:art. 13",
+  "estado": "OK",
+  "cita": "deberán contar con el acuerdo del Concejo Municipal"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 12,
+  "fuente": "L:7794:art. 4, inciso l",
+  "estado": "OK",
+  "cita": "Apoyar la creación y el funcionamiento de las escuelas munic"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 9,
+  "fuente": "L:7794:art. 71",
+  "estado": "OK",
+  "cita": "Cada municipalidad emitirá el reglamento para regular lo ant"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 9,
+  "fuente": "O:01835:p. 10",
+  "estado": "OK",
+  "cita": "en principio, podría financiar las bandas comunales del cant"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 15,
+  "fuente": "L:7794:art. 71",
+  "estado": "OK",
+  "cita": "becas de estudio a sus munícipes de escasos recursos y con c"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 4,
+  "fuente": "RM:goicoechea-incentivos:art. 10",
+  "estado": "OK",
+  "cita": "y con alto desempeño"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 12,
+  "fuente": "L:7794:art. 195",
+  "estado": "OK",
+  "cita": "en la construcción, mantenimiento, reparaciones, material y "
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 15,
+  "fuente": "O:14467:p. 8",
+  "estado": "OK",
+  "cita": "no es procedente entonces la utilización de dichos recursos "
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 11,
+  "fuente": "L:6990:art. 6 bis",
+  "estado": "OK",
+  "cita": "Las municipalidades podrán crear una bolsa artística y de id"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 12,
+  "fuente": "RM:cartago-interescultural:art. 2",
+  "estado": "OK",
+  "cita": "La declaratoria no implica el otorgamiento de beneficios fis"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 16,
+  "fuente": "RM:montesdeoca-ccmo:art. 19",
+  "estado": "OK",
+  "cita": "una resolución escrita en la que se detallen los fundamentos"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 6,
+  "fuente": "RM:alajuela-teatro:art. 24",
+  "estado": "OK",
+  "cita": "para actividades proselitistas (políticas o religiosas)"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 9,
+  "fuente": "RM:orotina-festejos:art. 6",
+  "estado": "OK",
+  "cita": "alcanzar el máximo monto de utilidades que sea posible"
+ },
+ {
+  "archivo": "t34.md",
+  "palabras": 2,
+  "fuente": "D:C-127-2018:conclusión",
+  "estado": "OK",
+  "cita": "singular relevancia"
+ },
+ {
+  "archivo": "t34.md",
   "palabras": 6,
   "fuente": "V:2023-027541:considerando II",
   "estado": "OK",
@@ -194,19 +327,5 @@
   "fuente": "V:2023-027541:considerando II",
   "estado": "OK",
   "cita": "en este momento solo están identificadas las que tienen decl"
- },
- {
-  "archivo": "t34.md",
-  "palabras": 1,
-  "fuente": "L:5176:art. 1",
-  "estado": "OK",
-  "cita": "faculta"
- },
- {
-  "archivo": "t34.md",
-  "palabras": 1,
-  "fuente": "D:C-089-2024:conclusión",
-  "estado": "OK",
-  "cita": "obligación"
  }
 ]

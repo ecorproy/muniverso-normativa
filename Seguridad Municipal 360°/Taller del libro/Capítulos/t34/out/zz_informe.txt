@@ -1,6 +1,7 @@
-CITAS TEXTUALES: 30 | OK: 30
+CITAS TEXTUALES: 47 | OK: 47
 
-UBICACIONES VERIFICADAS A MANO (0):
+UBICACIONES VERIFICADAS A MANO (1):
+  [t34.md] V:2025-029985:considerando VII: "existe una responsabilidad de las autoridades muni" (segmentador: ['IV'])
 
 ERRORES (0):
 

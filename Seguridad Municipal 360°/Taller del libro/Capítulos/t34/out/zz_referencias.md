@@ -32,15 +32,37 @@ Ley N.° 8894, *Creación del Sistema Nacional de Educación Musical*. (2010). A
 
 Ley N.° 10025, *Fomento a la lectura, el libro y las bibliotecas*. (2021). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=95323&param2=136136&param3=1
 
+Municipalidad de Alajuela. (2016, 26 de abril). *Reglamento para el Uso, Funcionamiento y Conservación del Teatro Municipal de Alajuela*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=83559&param2=107516&param3=1
+
+Municipalidad de Cartago. (2024, 6 de agosto). *Reglamento para el trámite de declaratorias de interés cultural de la Municipalidad de Cartago*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=102760&param2=142164&param3=1
+
+Municipalidad de Cartago. (2026, 17 de febrero). *Reglamento de Bienales Bidimensional Y Tridimensional Museo Municipal de Cartago*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=106622&param2=150178&param3=1
+
+Municipalidad de Desamparados. (2022, 15 de febrero). *Reglamento de becas culturales de la Sinfónica Municipal de Desamparados*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=96500&param2=129323&param3=1
+
+Municipalidad de Escazú. (2022, 14 de marzo). *Reglamento para manejo de obras de arte propiedad de la Municipalidad de Escazú*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=96701&param2=129697&param3=1
+
+Municipalidad de Goicoechea. (2024, 14 de octubre). *Reglamento para el otorgamiento de incentivos económicos para el deporte y la música en el Cantón de Goicoechea*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=103097&param2=142908&param3=1
+
+Municipalidad de Montes de Oca. (2026, 2 de marzo). *Reglamento de funcionamiento del Centro de la Cultura de Montes de Oca (CCMO)*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=106725&param2=150514&param3=1
+
+Municipalidad de Moravia. (2026, 2 de setiembre). *Reglamento de organización y funcionamiento de la Benemérita banda Municipal de Moravia*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=107772&param2=152262&param3=1
+
+Municipalidad de Oreamuno. (2025, 2 de diciembre). *Reglamento de protección y conservación del patrimonio arquitectónico y cultura del cantón de Oreamuno*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=105934&param2=148868&param3=1
+
+Municipalidad de Orotina. (2026, 30 de abril). *Reglamento interno de las Comisiones de Festejos Populares de la Municipalidad de Orotina*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=107670&param2=152117&param3=1
+
 Procuraduría General de la República. (2015, 6 de febrero). *Dictamen C-052-2015*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=18732&param2=0
 
 Procuraduría General de la República. (2017, 1 de junio). *Dictamen C-115-2017*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=19922&param2=0
 
 Procuraduría General de la República. (2018, 8 de junio). *Dictamen C-127-2018*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=20653&param2=0
 
+Procuraduría General de la República. (2019, 17 de setiembre). *Dictamen C-265-2019*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=21543&param2=0
+
 Procuraduría General de la República. (2021, 25 de febrero). *Dictamen C-058-2021*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23317&param2=0
 
-Procuraduría General de la República. (2021, 5 de mayo). *Dictamen C-118-2021*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=22716&param2=0
+Procuraduría General de la República. (2021, 5 de octubre). *Dictamen C-286-2021*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=22986&param2=0
 
 Procuraduría General de la República. (2023, 27 de noviembre). *Dictamen C-246-2023*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24144&param2=0
 
@@ -50,6 +72,14 @@ Procuraduría General de la República. (2024, 20 de mayo). *Dictamen C-089-2024
 
 Sala Constitucional de la Corte Suprema de Justicia. (2003, 7 de mayo). *Voto N.° 2003-003656, de las 14:43 horas* (expediente 99-001540-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-237158
 
+Sala Constitucional de la Corte Suprema de Justicia. (2006, 21 de noviembre). *Voto N.° 2006-016766, de las 16:06 horas* (expediente 06-013281-0007-CO). NexusPJ.
+
 Sala Constitucional de la Corte Suprema de Justicia. (2023, 31 de mayo). *Voto N.° 2023-012817, de las 14:40 horas* (expediente 21-005756-0007-CO). NexusPJ.
 
 Sala Constitucional de la Corte Suprema de Justicia. (2023, 27 de octubre). *Voto N.° 2023-027541, de las 9:20 horas* (expediente 23-016478-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1194439
+
+Sala Constitucional de la Corte Suprema de Justicia. (2025, 19 de setiembre). *Voto N.° 2025-029985, de las 9:30 horas* (expediente 23-027898-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1336983
+
+Sala Constitucional de la Corte Suprema de Justicia. (2026, 27 de marzo). *Voto N.° 2026-010907, de las 9:20 horas* (expediente 26-002699-0007-CO). NexusPJ.
+
+Sala Constitucional de la Corte Suprema de Justicia. (2026, 28 de abril). *Voto N.° 2026-014917, de las 9:20 horas* (expediente 26-004800-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1384798
