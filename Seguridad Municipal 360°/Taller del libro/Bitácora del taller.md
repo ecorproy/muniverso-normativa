@@ -1370,3 +1370,7 @@ El autor pidió ampliar «Productos y servicios prestados», «La dignidad de qu
 - «La cadena de obligaciones»: la cadena del autor (CP 9, 11, 191, 192, 21, 33, 51, 50, 56, 169; voto 2003-011382; 2021-024259, «sobre esta pesan obligaciones específicas»; 2003-005006; LGAP 4, 113, 114, 16, 10; Ley 8422 art. 3; Ley 10159 arts. 4, 5 y 28; Ley 2166 art. 48; LGAP 199 y 211) y cierre con LGAP arts. 9 y 7.
 
 4.266 palabras; 59 citas, 0 errores. Pestaña 992edff3-af70 rev 4: 29.958 bytes, sha256 a945adfc…, IDÉNTICO. Word reconstruido.
+
+### 26 de noviembre de 2026 — Capítulo 4: capítulo VII de la Ley Marco
+
+El autor pegó los arts. 27 a 29 de la Ley 10159 (capítulo VII, «Gestión del desempeño»); el texto coincide con el del repositorio. En «Productos y servicios prestados» el párrafo de la Ley Marco se abrió en tres: art. 27 (instrumento objetivo), art. 28 (medición del nivel directivo, el superior define procesos, productos y servicios, lineamientos de Mideplán «con las salvedades respectivas», enlazadas luego con la autonomía municipal) y art. 29 (obligaciones de jefatura, administración y persona servidora). En «La dignidad de quien sirve», párrafo nuevo: el sistema lo pone la Administración, se alimenta solo durante la jornada laboral y la exigencia alcanza al nivel directivo. 4.661 palabras; 68 citas, 0 errores. Pestaña rev 6: 32.422 bytes, sha256 608fd8b8…, IDÉNTICO. Word reconstruido.
