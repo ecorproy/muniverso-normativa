@@ -66,6 +66,7 @@ def hora(h):
 
 # ---------- localización de archivos ----------
 ESPECIALES = {'7135': '/home/claude/repo/main/Leyes y decretos nacionales/Constitucional/Ley Jurisdicción Constitucional.md'}
+ESPECIALES['9017'] = '/home/claude/repo/main/Leyes locales/Alajuela/Poás/Ley 9017.md'
 ESPECIALES['10939'] = '/home/claude/libro/fuentes/Ley 10939.md'
 ESPECIALES['8799'] = '/home/claude/libro/fuentes/Ley 8799.md'
 ESPECIALES['9458'] = '/home/claude/libro/fuentes/Ley 9458.md'
@@ -576,6 +577,9 @@ RM = {
     'leoncortes-ventas': 'San José/León Cortés/Reglamento de ventas ambulantes, estacionarias y comercio sobre ruedas en espacios y vías públicas (2025).md',
     'puntarenas-ruedas': 'Puntarenas/Puntarenas/Reglamento para regular el comercio sobre ruedas en el Cantón Central de la Provincia de Puntarenas (2025).md',
     'sarchi-residencias': 'Alajuela/Sarchí/Reglamento a la aplicación de la Ley N.° 10594 que reforma los artículos 88 del Código Municipal y 29 de la Le (2025).md',
+    'santaana-residuos': 'San José/Santa Ana/Reglamento para la gestión separada de residuos del Cantón de Santa Ana (2026).md',
+    'monteverde-residuos': 'Puntarenas/Monteverde/Reglamento para el Manejo de Residuos Sólidos del Cantón de Monteverde (2026).md',
+    'moravia-tasas': 'San José/Moravia/Reglamento para el cobro de tasas por los servicios de manejo integral de residuos sólidos ordinarios, limpiez (2026).md',
     'moravia-ruedas': 'San José/Moravia/Reglamento para regular el otorgamiento de licencias comerciales para ejercer el comercio sobre ruedas en el c (2025).md',
     'belen-cecudi': 'Heredia/Belén/Reglamento para regular el funcionamiento y operación de los centros de cuido y desarrollo infantil gestionado (2025).md',
     'escazu-cecudi': 'San José/Escazú/Reglamento para regular el funcionamiento y operación de los Centros de Cuido y Desarrollo Infantil CECUDI del (2023).md',

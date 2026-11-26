@@ -9,6 +9,34 @@
  {
   "archivo": "t29.md",
   "palabras": 15,
+  "fuente": "V:2003-005006:considerando V",
+  "estado": "OK",
+  "cita": "la municipalidad de cita debió otorgar el mantenimiento debi"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 21,
+  "fuente": "V:2003-005006:considerando V",
+  "estado": "OK",
+  "cita": "violentó los principios de eficiencia y eficacia de la Admin"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 28,
+  "fuente": "V:2003-005006:considerando V",
+  "estado": "OK",
+  "cita": "incide en el decoro cantonal, la salud de los munícipes e in"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 9,
+  "fuente": "V:2003-005006:por tanto",
+  "estado": "OK",
+  "cita": "y evitar cualquier eventual suspensión de dicho servicio púb"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 15,
   "fuente": "L:8839:art. 8",
   "estado": "OK",
   "cita": "Las municipalidades serán responsables de la gestión integra"
@@ -36,31 +64,10 @@
  },
  {
   "archivo": "t29.md",
-  "palabras": 13,
-  "fuente": "L:7794:art. 83",
+  "palabras": 8,
+  "fuente": "L:8839:art. 4, inciso a",
   "estado": "OK",
-  "cita": "en el tanto se presten, aunque ellos no demuestren interés e"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 21,
-  "fuente": "L:8839:art. 8, inciso h",
-  "estado": "OK",
-  "cita": "Fijar las tasas para los servicios de manejo de residuos que"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 15,
-  "fuente": "L:8839:art. 44",
-  "estado": "OK",
-  "cita": "por sus propios medios a través de gestores autorizados o a "
- },
- {
-  "archivo": "t29.md",
-  "palabras": 17,
-  "fuente": "L:8839:art. 44",
-  "estado": "OK",
-  "cita": "cancelar a las municipalidades, de forma oportuna, el pago d"
+  "cita": "Evitar la generación de residuos en su origen"
  },
  {
   "archivo": "t29.md",
@@ -75,139 +82,6 @@
   "fuente": "L:7794:art. 84",
   "estado": "OK",
   "cita": "la municipalidad está facultada para suplir la omisión de es"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 6,
-  "fuente": "L:8839:art. 12",
-  "estado": "OK",
-  "cita": "orientará las acciones de las municipalidades"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 22,
-  "fuente": "L:8839:art. 52",
-  "estado": "OK",
-  "cita": "Las sanciones de las infracciones leves y graves serán compe"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 16,
-  "fuente": "L:8839:art. 54",
-  "estado": "OK",
-  "cita": "hasta ocho veces la tarifa más alta del servicio de manejo d"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 8,
-  "fuente": "L:8839:art. 58",
-  "estado": "OK",
-  "cita": "carácter de autoridad de policía, con fe pública"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 12,
-  "fuente": "D:C-331-2011:conclusión 1",
-  "estado": "OK",
-  "cita": "sistemas de tarifas diferenciadas, recargos u otros mecanism"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 8,
-  "fuente": "D:C-334-2021:conclusión 2",
-  "estado": "OK",
-  "cita": "no puede ser arbitraria, antojadiza, desproporcionada ni irr"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 36,
-  "fuente": "D:C-050-2026:conclusión segunda",
-  "estado": "OK",
-  "cita": "a establecer una tasa diferenciada de recolección de residuo"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 21,
-  "fuente": "D:C-202-2014:conclusión 5",
-  "estado": "OK",
-  "cita": "la eliminación de los desechos, desperdicios, vegetación men"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 9,
-  "fuente": "D:C-193-2016:conclusión B",
-  "estado": "OK",
-  "cita": "sin realizar diferencia alguna entre las locales y nacionale"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 16,
-  "fuente": "D:C-193-2016:conclusión B",
-  "estado": "OK",
-  "cita": "recae la exigencia jurídica de limpiar todas las calles inde"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 14,
-  "fuente": "D:C-236-2024:conclusión 2",
-  "estado": "OK",
-  "cita": "está íntimamente relacionado con la prestación efectiva o po"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 12,
-  "fuente": "D:C-358-2021:conclusión",
-  "estado": "OK",
-  "cita": "las Municipalidades están autorizadas para donar, permutar o"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 9,
-  "fuente": "D:C-358-2021:conclusión",
-  "estado": "OK",
-  "cita": "una Sociedad Pública de Economía Mixta creada por ellas"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 14,
-  "fuente": "D:C-308-2015:conclusión 1",
-  "estado": "OK",
-  "cita": "es una determinación propia del municipio que ha de observar"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 9,
-  "fuente": "O:22620:p. 3",
-  "estado": "OK",
-  "cita": "procede rechazar por innecesaria la solicitud de refrendo pr"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 15,
-  "fuente": "V:2003-005006:considerando V",
-  "estado": "OK",
-  "cita": "la municipalidad de cita debió otorgar el mantenimiento debi"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 21,
-  "fuente": "V:2003-005006:considerando V",
-  "estado": "OK",
-  "cita": "violentó los principios de eficiencia y eficacia de la Admin"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 28,
-  "fuente": "V:2003-005006:considerando V",
-  "estado": "OK",
-  "cita": "incide en el decoro cantonal, la salud de los munícipes e in"
- },
- {
-  "archivo": "t29.md",
-  "palabras": 9,
-  "fuente": "V:2003-005006:por tanto",
-  "estado": "OK",
-  "cita": "y evitar cualquier eventual suspensión de dicho servicio púb"
  },
  {
   "archivo": "t29.md",
@@ -260,6 +134,125 @@
  },
  {
   "archivo": "t29.md",
+  "palabras": 3,
+  "fuente": "L:8839:art. 8, inciso d",
+  "estado": "OK",
+  "cita": "todos los habitantes"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 12,
+  "fuente": "RM:santaana-residuos:art. 14",
+  "estado": "OK",
+  "cita": "conforme a rutas, horarios y frecuencias preestablecidas y c"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 5,
+  "fuente": "RM:monteverde-residuos:art. 40",
+  "estado": "OK",
+  "cita": "estos datos serán actualizados semestralmente"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 8,
+  "fuente": "RM:moravia-tasas:art. 49",
+  "estado": "OK",
+  "cita": "deberá ser actualizado y publicado cada seis meses"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 6,
+  "fuente": "L:8839:art. 12",
+  "estado": "OK",
+  "cita": "orientará las acciones de las municipalidades"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 3,
+  "fuente": "DE:37567:art. 20",
+  "estado": "OK",
+  "cita": "en forma participativa"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 5,
+  "fuente": "DE:37567:art. 22",
+  "estado": "OK",
+  "cita": "Frecuencia de recolección y cobertura"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 11,
+  "fuente": "DE:37567:art. 22",
+  "estado": "OK",
+  "cita": "identificación de los sitios de disposición clandestina exis"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 9,
+  "fuente": "L:8839:art. 8, inciso c",
+  "estado": "OK",
+  "cita": "Promover la creación de una unidad de gestión ambiental"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 14,
+  "fuente": "D:C-308-2015:conclusión 1",
+  "estado": "OK",
+  "cita": "es una determinación propia del municipio que ha de observar"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 7,
+  "fuente": "L:8839:art. 23",
+  "estado": "OK",
+  "cita": "en forma activa, consciente, informada y organizada"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 26,
+  "fuente": "L:8839:art. 45",
+  "estado": "OK",
+  "cita": "serán propiedad y responsabilidad de los municipios en el mo"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 12,
+  "fuente": "D:C-358-2021:conclusión",
+  "estado": "OK",
+  "cita": "las Municipalidades están autorizadas para donar, permutar o"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 9,
+  "fuente": "D:C-358-2021:conclusión",
+  "estado": "OK",
+  "cita": "una Sociedad Pública de Economía Mixta creada por ellas"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 13,
+  "fuente": "L:8839:art. 8, inciso k",
+  "estado": "OK",
+  "cita": "especialmente en las comunidades que se ubican lejos de la c"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 12,
+  "fuente": "RM:santaana-residuos:art. 28",
+  "estado": "OK",
+  "cita": "favorecer la incorporación progresiva de estas personas y or"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 14,
+  "fuente": "L:8839:art. 8",
+  "estado": "OK",
+  "cita": "no realicen su actividad comercial habitual entre las diecin"
+ },
+ {
+  "archivo": "t29.md",
   "palabras": 17,
   "fuente": "V:2004-000626:resultando 2",
   "estado": "OK",
@@ -271,6 +264,160 @@
   "fuente": "V:2007-009385:considerando IV",
   "estado": "OK",
   "cita": "se ha atendido sus denuncias dentro del ámbito de sus compet"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 14,
+  "fuente": "L:7794:art. 84",
+  "estado": "OK",
+  "cita": "podrá formular la denuncia correspondiente ante las autorida"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 18,
+  "fuente": "L:7794:art. 84",
+  "estado": "OK",
+  "cita": "la municipalidad está obligada a suplir la inacción del prop"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 12,
+  "fuente": "RM:moravia-tasas:art. 32",
+  "estado": "OK",
+  "cita": "contratar de forma privada el servicio de manejo integral de"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 22,
+  "fuente": "L:8839:art. 52",
+  "estado": "OK",
+  "cita": "Las sanciones de las infracciones leves y graves serán compe"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 16,
+  "fuente": "L:8839:art. 54",
+  "estado": "OK",
+  "cita": "hasta ocho veces la tarifa más alta del servicio de manejo d"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 8,
+  "fuente": "L:8839:art. 58",
+  "estado": "OK",
+  "cita": "carácter de autoridad de policía, con fe pública"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 22,
+  "fuente": "V:2008-016885:considerando VII",
+  "estado": "OK",
+  "cita": "el poder de policía ejercido mediante las órdenes de clausur"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 11,
+  "fuente": "L:8839:art. 30",
+  "estado": "OK",
+  "cita": "a la municipalidad del cantón donde se originó la infracción"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 16,
+  "fuente": "L:8839:art. 8, inciso m",
+  "estado": "OK",
+  "cita": "Disponer de los residuos generados por vehículos en estado d"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 11,
+  "fuente": "L:9078:art. 132",
+  "estado": "OK",
+  "cita": "previa declaración de abandono mediante proceso administrati"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 21,
+  "fuente": "D:C-202-2014:conclusión 5",
+  "estado": "OK",
+  "cita": "la eliminación de los desechos, desperdicios, vegetación men"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 9,
+  "fuente": "D:C-193-2016:conclusión B",
+  "estado": "OK",
+  "cita": "sin realizar diferencia alguna entre las locales y nacionale"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 16,
+  "fuente": "D:C-193-2016:conclusión B",
+  "estado": "OK",
+  "cita": "recae la exigencia jurídica de limpiar todas las calles inde"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 14,
+  "fuente": "D:C-236-2024:conclusión 2",
+  "estado": "OK",
+  "cita": "está íntimamente relacionado con la prestación efectiva o po"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 13,
+  "fuente": "L:7794:art. 83",
+  "estado": "OK",
+  "cita": "en el tanto se presten, aunque ellos no demuestren interés e"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 21,
+  "fuente": "L:8839:art. 8, inciso h",
+  "estado": "OK",
+  "cita": "Fijar las tasas para los servicios de manejo de residuos que"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 15,
+  "fuente": "L:8839:art. 44",
+  "estado": "OK",
+  "cita": "por sus propios medios a través de gestores autorizados o a "
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 17,
+  "fuente": "L:8839:art. 44",
+  "estado": "OK",
+  "cita": "cancelar a las municipalidades, de forma oportuna, el pago d"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 12,
+  "fuente": "D:C-331-2011:conclusión 1",
+  "estado": "OK",
+  "cita": "sistemas de tarifas diferenciadas, recargos u otros mecanism"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 8,
+  "fuente": "D:C-334-2021:conclusión 2",
+  "estado": "OK",
+  "cita": "no puede ser arbitraria, antojadiza, desproporcionada ni irr"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 36,
+  "fuente": "D:C-050-2026:conclusión segunda",
+  "estado": "OK",
+  "cita": "a establecer una tasa diferenciada de recolección de residuo"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 11,
+  "fuente": "O:IGSMF:p. 8",
+  "estado": "OK",
+  "cita": "la revisión de los costos de la tasa debe ser constante"
  },
  {
   "archivo": "t29.md",
@@ -344,10 +491,24 @@
  },
  {
   "archivo": "t29.md",
-  "palabras": 13,
-  "fuente": "L:8839:art. 8, inciso k",
+  "palabras": 5,
+  "fuente": "RM:moravia-tasas:art. 4",
   "estado": "OK",
-  "cita": "especialmente en las comunidades que se ubican lejos de la c"
+  "cita": "la prestación efectiva o potencial"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 20,
+  "fuente": "RM:moravia-tasas:art. 47",
+  "estado": "OK",
+  "cita": "Para realizar cualquier trámite municipal se deberá estar al"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 3,
+  "fuente": "L:9017:art. 25",
+  "estado": "OK",
+  "cita": "las tasas municipales"
  },
  {
   "archivo": "t29.md",
@@ -358,10 +519,31 @@
  },
  {
   "archivo": "t29.md",
-  "palabras": 11,
-  "fuente": "T:2023-000021:considerando V",
+  "palabras": 10,
+  "fuente": "D:C-160-2026:apartado I",
   "estado": "OK",
-  "cita": "la adecuación de la normativa vigente a la mejor técnica leg"
+  "cita": "le compete exclusivamente a la Contraloría General de la Rep"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 9,
+  "fuente": "O:22620:p. 3",
+  "estado": "OK",
+  "cita": "procede rechazar por innecesaria la solicitud de refrendo pr"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 8,
+  "fuente": "O:IGSMF:p. 15",
+  "estado": "OK",
+  "cita": "sólo se recuperó el 1.26% de residuos"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 10,
+  "fuente": "O:IGSMF:p. 15",
+  "estado": "OK",
+  "cita": "Se propone un 9% como meta de aprovechamiento de residuos"
  },
  {
   "archivo": "t29.md",
@@ -376,5 +558,12 @@
   "fuente": "L:8839:art. 8, inciso l",
   "estado": "OK",
   "cita": "por incumplimiento de los artículos 49 y 50 de la presente l"
+ },
+ {
+  "archivo": "t29.md",
+  "palabras": 15,
+  "fuente": "L:7794:art. 94",
+  "estado": "OK",
+  "cita": "que las partes involucradas se encuentran al día en el pago "
  }
 ]
