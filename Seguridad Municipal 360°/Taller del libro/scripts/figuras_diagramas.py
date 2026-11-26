@@ -124,8 +124,8 @@ s.add(f'<text x="40" y="1550" font-size="20" font-style="italic" fill="#333">por
 s.h=1590; s.save(D+'flujo.svg')
 # ---------- F estructura de cada tema (cap03)
 st=[('1','El caso','ilustra y prueba'),('2','Las normas','competencia, instrumentos y límites'),('3','Votos y dictámenes','la jurisprudencia y la Procuraduría'),
-    ('4','Con qué se paga','las fuentes del servicio'),('5','Cómo lo hace','el gobierno local hace que el bien exista'),
-    ('6','Lo que hoy se mide','qué se registra y qué falta'),('7','Preguntas prácticas','para la municipalidad')]
+    ('4','Con qué se paga','cuando el bien exige gasto propio'),('5','Cómo lo hace','el gobierno local hace que el bien exista'),
+    ('6','Lo que hoy se mide','qué se registra y qué falta'),('7','Conclusión','los deberes del gobierno local')]
 s=SVG(W,560)
 bw=150; gap=(W-80-7*bw)/6
 for i,(n,t,b) in enumerate(st):

@@ -27,11 +27,12 @@
 <circle cx="600.0" cy="70" r="30" fill="#111"/>
 <text x="600.0" y="80.0" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">4</text>
 <rect x="525.0" y="120" width="150" height="300" rx="14" fill="white" stroke="#111" stroke-width="3"/>
-<text x="600.0" y="221.7" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Con qué</text>
-<text x="600.0" y="248.1" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">se paga</text>
-<text x="600.0" y="286.4" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">las fuentes</text>
-<text x="600.0" y="310.1" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">del</text>
-<text x="600.0" y="333.9" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">servicio</text>
+<text x="600.0" y="209.8" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Con qué</text>
+<text x="600.0" y="236.2" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">se paga</text>
+<text x="600.0" y="274.5" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">cuando el</text>
+<text x="600.0" y="298.2" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">bien exige</text>
+<text x="600.0" y="322.0" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">gasto</text>
+<text x="600.0" y="345.7" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">propio</text>
 <line x1="679.0" y1="270" x2="682.6666666666666" y2="270" stroke="#111" stroke-width="3" marker-end="url(#ar)"/>
 <circle cx="761.6666666666666" cy="70" r="30" fill="#111"/>
 <text x="761.7" y="80.0" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">5</text>
@@ -56,9 +57,10 @@
 <circle cx="1085.0" cy="70" r="30" fill="#111"/>
 <text x="1085.0" y="80.0" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">7</text>
 <rect x="1010.0" y="120" width="150" height="300" rx="14" fill="white" stroke="#111" stroke-width="3"/>
-<text x="1085.0" y="233.5" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Preguntas</text>
-<text x="1085.0" y="259.9" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">prácticas</text>
-<text x="1085.0" y="298.2" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">para la</text>
-<text x="1085.0" y="322.0" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">municipalidad</text>
+<text x="1085.0" y="223.0" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Conclusión</text>
+<text x="1085.0" y="261.3" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">los deberes</text>
+<text x="1085.0" y="285.0" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">del</text>
+<text x="1085.0" y="308.8" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">gobierno</text>
+<text x="1085.0" y="332.5" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">local</text>
 <text x="600.0" y="480.0" font-size="22" font-weight="normal" font-style="italic" text-anchor="middle" fill="#111">La pregunta del tema: cómo puede y debe el gobierno local hacer que el bien exista en el</text>
 <text x="600.0" y="507.5" font-size="22" font-weight="normal" font-style="italic" text-anchor="middle" fill="#111">cantón.</text></svg>

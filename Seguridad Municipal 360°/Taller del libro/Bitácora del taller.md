@@ -1535,3 +1535,10 @@ Sin atender por depender del autor o de la editorial: datos editoriales de la po
 - Publicado en Docs; las cuatro pestañas cotejan IDÉNTICO.
 - `indices.py`: las referencias de la conclusión ya no se atribuyen al tema 36 (error previo desde que la conclusión entró en el Word).
 - Word final29 (938 páginas en LibreOffice).
+
+## 26 de noviembre de 2026, noche: pasajes de Kant restantes y auditoría
+
+- Kant, pasajes que faltaban: cap. 3, estado civil como relación de personas (p. 163) y la policía como seguridad, comodidad y decencia frente a la persona en situación de calle (p. 185); cap. 4, el derecho inseparable de la facultad de obligar, junto a CM 171 y CPCA 35 (p. 44), y los tres poderes como dignidades (p. 170).
+- Auditoría de contradicción y exactitud: ver `Auditoría de contradicción y exactitud (26-11-2026).md`. Cinco correcciones (estructura de los temas en caps. 1, 3, 4 y conclusión; figura 7; alcance de «dignidades» en Kant; índices).
+- Docs: pestañas 1, 3, 4 y conclusión publicadas y cotejadas IDÉNTICO; figura 7 reemplazada.
+- Word final30 (938 páginas).
