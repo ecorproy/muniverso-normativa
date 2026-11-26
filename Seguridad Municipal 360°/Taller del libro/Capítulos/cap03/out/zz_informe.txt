@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 54 | OK: 54
+CITAS TEXTUALES: 55 | OK: 55
 
 UBICACIONES VERIFICADAS A MANO (6):
   [cap03.md] V:1999-005445:considerando VI: "sólo mediante una ley de nacionalización o de regi" (segmentador: ['RESULTANDO', 'IV'])

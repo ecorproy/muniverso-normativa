@@ -33,3 +33,7 @@ Sala Constitucional de la Corte Suprema de Justicia. (1999, 14 de julio). *Voto 
 Sala Constitucional de la Corte Suprema de Justicia. (2006, 12 de diciembre). *Voto N.° 2006-017907, de las 17:09 horas* (expediente 06-013514-0007-CO). NexusPJ.
 
 Sala Constitucional de la Corte Suprema de Justicia. (2011, 16 de noviembre). *Voto N.° 2011-015763, de las 9:46 horas* (expediente 11-006691-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-530701
+
+Sala Primera de la Corte Suprema de Justicia. (2006, 25 de mayo). *Resolución N.° 000308-F-2006, de las 10:30 horas* (expediente 00-000717-0163-CA). NexusPJ.
+
+Sala Primera de la Corte Suprema de Justicia. (2006, 19 de diciembre). *Resolución N.° 000979-F-2006, de las 7:55 horas* (expediente 98-000385-0163-CA). NexusPJ.

@@ -10,6 +10,16 @@ assert src.count(b) == 1
 src = src.replace(b, "    f = f'{R}/Jurisprudencia constitucional (Sala Constitucional)/Municipal/Sentencia {x}.md'\n    if os.path.exists(f):\n        return f\n    fs = glob.glob(f'{R}/Jurisprudencia constitucional (Sala Constitucional)/Municipal/*/Sentencia {x}.md')\n    return fs[0] if fs else None")
 extra = '''
 MANUAL.update({
+    'Leiva Poveda, 2016': dict(file='/home/claude/libro/fuentes/doctrina/leiva_elusiva.txt',
+        ref='Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En *Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local?* Federación Metropolitana de Municipalidades y Municipalidad de San José.'),
+    'Ortiz Ortiz, 1987, como se citó en Leiva Poveda, 2016': dict(file='/home/claude/libro/fuentes/doctrina/leiva_elusiva.txt', alias='Leiva Poveda, 2016',
+        ref='Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En *Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local?* Federación Metropolitana de Municipalidades y Municipalidad de San José.'),
+    'Jinesta Lobo, 2002, como se citó en Leiva Poveda, 2016': dict(file='/home/claude/libro/fuentes/doctrina/leiva_elusiva.txt', alias='Leiva Poveda, 2016',
+        ref='Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En *Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local?* Federación Metropolitana de Municipalidades y Municipalidad de San José.'),
+    'Ariño Ortiz, 1988, como se citó en Leiva Poveda, 2016': dict(file='/home/claude/libro/fuentes/doctrina/leiva_elusiva.txt', alias='Leiva Poveda, 2016',
+        ref='Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En *Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local?* Federación Metropolitana de Municipalidades y Municipalidad de San José.'),
+    'García de Enterría, 1999, como se citó en Leiva Poveda, 2016': dict(file='/home/claude/libro/fuentes/doctrina/leiva_elusiva.txt', alias='Leiva Poveda, 2016',
+        ref='Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En *Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local?* Federación Metropolitana de Municipalidades y Municipalidad de San José.'),
     'Organización Panamericana de la Salud, s. f.': dict(file='/home/claude/libro/fuentes/doctrina/ops_seguridad_humana.txt',
         ref='Organización Panamericana de la Salud. (s. f.). [Resumen del documento de referencia técnico sobre salud y seguridad humana]. https://www.paho.org/sites/default/files/D37404-PAHO-ExecutiveSummary-Spn-WEB.pdf'),
     'Conan Doyle, s. f.': dict(file='/home/claude/libro/fuentes/doctrina/conan_doyle_valle.txt',
@@ -481,10 +491,23 @@ def f_s1(x):
     return None
 
 
+def cod_s1(x):
+    yy, num = x.split('-')
+    f = f_s1(x)
+    if f:
+        m = re.search(r'(?im)^\s*res\s*[.:]?\s*(\d{3,6}-F-(?:S1-)?\d{2,4})', open(f, encoding='utf-8').read())
+        if m:
+            c = m.group(1)
+            c = c if c.startswith(num) else f'{num}-' + c.split('-', 1)[1]
+            pre, _, yr = c.rpartition('-')
+            return f'{pre}-{yy}' if len(yr) == 2 else c
+    return f'{num}-F-S1-{yy}'
+
+
 def cita_s1(x, loc):
     f = f_s1(x)
     yy, num = x.split('-')
-    cod = f'{num}-F-S1-{yy}'
+    cod = cod_s1(x)
     if not f:
         errors.append(f'SALA PRIMERA sin archivo: {x}')
         return f'(Sala Primera, resolución N.° {cod}, {loc})'
@@ -672,7 +695,7 @@ def expand_corta(macro, larga):
             vistos.add(k); return larga
         return _par(f'{t}, {cod}', abrev(loc))
     if kind == 'S1':
-        yy, num = p[1].split('-'); cod = f'{num}-F-S1-{yy}'; k = 'S1' + p[1]
+        yy, num = p[1].split('-'); cod = cod_s1(p[1]); k = 'S1' + p[1]
         if k not in vistos:
             vistos.add(k); return larga
         return _par(f'Sala Primera, {cod}', abrev(loc))

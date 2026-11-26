@@ -86,6 +86,14 @@ En 2026 el turno fue de las telecomunicaciones. El Ministerio de Ciencia, Tecnol
 
 La línea es coherente con la de la Sala y agrega lo que solo da la consulta diaria. Lo local es amplio por defecto, porque no depende de lista, tiene rumbo político propio y cede cuando una ley ha organizado un servicio para todo el país, caso en el cual la municipalidad no desaparece, sino que coordina. Ninguno de estos dictámenes dice que la necesidad de la persona deje de ser asunto del cantón; indican, en cada caso, por cuál institución debe atenderse, y cuando la institución es otra, a la municipalidad le queda instarla (C-231-2022, concl.).
 
+## La Sala Primera
+
+La Sala Primera conoce en casación los procesos contra las municipalidades, y dos de sus sentencias muestran que lo nacional y lo local se cruzan en el mismo objeto sin anularse.
+
+En 2015 resolvió la demanda del Instituto Costarricense de Electricidad contra la Municipalidad de San José, que había ordenado demoler postes con radiobases de telefonía celular construidos sin permiso municipal (Sala Primera, resolución N.° 000164-F-S1-2015, de las 9:20 horas del 4 de febrero de 2015, considerando I). La Sala admitió que la infraestructura de telecomunicaciones "tiene una relevancia que excede la esfera de lo local" (Sala Primera, 000164-F-S1-2015, cons. IV), y aun así dio la razón a la Municipalidad. Tras la apertura del mercado, el Instituto "debe visualizarse como una empresa competidora, un operador más en el mercado de telecomunicaciones" (Sala Primera, 000164-F-S1-2015, cons. IV), y la exención de licencia de la Ley de Construcciones "debe entenderse superada" (Sala Primera, 000164-F-S1-2015, cons. IV) en los sectores abiertos a la competencia. El interés nacional de una red no dispensa a quien la instala del control urbanístico del cantón cuando actúa como un operador entre otros.
+
+En 2017 la frontera apareció por el lado del tributo. La Municipalidad de Atenas cobraba el impuesto de patente a la concesionaria de la ruta 27 por la estación de peaje ubicada en el cantón (Sala Primera, resolución N.° 001461-F-S1-2017, de las 15:20 horas del 23 de noviembre de 2017, considerando I). La concesionaria alegó que una carretera nacional concesionada por el Poder Ejecutivo no se enmarca en lo local (Sala Primera, 001461-F-S1-2017, cons. VIII). La Sala rechazó ese argumento con la sentencia de la Sala Constitucional que validó la ley de licencias de Escazú, y transcribió de ella que "El criterio delimitador en este caso lo es la jurisdicción del cantón y no hace diferencia que se trate de una ruta nacional" (Sala Primera, 001461-F-S1-2017, cons. VIII), y que, aunque la actividad del concesionario "trasciende del ámbito local, ello no enerva el hecho de que se ubica dentro de la jurisdicción" (Sala Primera, 001461-F-S1-2017, cons. VIII) del cantón. La Municipalidad perdió el juicio por otra razón. Su ley de impuestos no incluía el cobro de peaje entre las actividades gravadas, de modo que esa actividad "no se encuentra expresamente establecida como hecho generador del tributo" (Sala Primera, 001461-F-S1-2017, cons. XII), y la Sala ordenó devolver lo cobrado con intereses (Sala Primera, 001461-F-S1-2017, por tanto). Lo local alcanzaba la actividad que ocurría en el cantón, aunque fuera sobre una ruta nacional; el tributo, en cambio, necesitaba una ley que nombrara el hecho.
+
 ## La doctrina
 
 En Costa Rica la doctrina ha tratado el adjetivo con más cautela que entusiasmo. En octubre de 2016 el V Congreso Jurídico Nacional Municipal, dedicado a Mauro Murillo Arias, se reunió alrededor de la pregunta de qué es lo local. Jorge Leiva Poveda, entonces juez del Tribunal Contencioso Administrativo, abrió su ponencia comparando el intento con la búsqueda del Grial, porque otra vez "nos encaminábamos en pos de una definición que durante el siglo pasado atormentó a no pocos municipalistas" (Leiva Poveda, 2016, p. 2).
@@ -167,6 +175,10 @@ Sala Constitucional de la Corte Suprema de Justicia. (1999, 14 de julio). *Voto 
 Sala Constitucional de la Corte Suprema de Justicia. (2006, 12 de diciembre). *Voto N.° 2006-017907, de las 17:09 horas* (expediente 06-013514-0007-CO). NexusPJ.
 
 Sala Constitucional de la Corte Suprema de Justicia. (2011, 16 de noviembre). *Voto N.° 2011-015763, de las 9:46 horas* (expediente 11-006691-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-530701
+
+Sala Primera de la Corte Suprema de Justicia. (2015, 4 de febrero). *Resolución N.° 000164-F-S1-2015, de las 9:20 horas* (expediente 10-000586-1027-CA). NexusPJ.
+
+Sala Primera de la Corte Suprema de Justicia. (2017, 23 de noviembre). *Resolución N.° 001461-F-S1-2017, de las 15:20 horas* (expediente 13-006199-1027-CA). NexusPJ.
 
 Tocqueville, A. de. (s. f.). *La democracia en América*. https://www.suneo.mx/literatura/subidas/Alexis%20de%20Tocqueville%20La%20Democracia%20en%20America.pdf
 

@@ -27,3 +27,7 @@ Sala Constitucional de la Corte Suprema de Justicia. (2018, 26 de enero). *Voto 
 Sala Constitucional de la Corte Suprema de Justicia. (2021, 29 de octubre). *Voto N.° 2021-024259, de las 9:20 horas* (expediente 21-019572-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1058826
 
 Sala Constitucional de la Corte Suprema de Justicia. (2025, 17 de marzo). *Voto N.° 2025-008201, de las 13:00 horas* (expediente 19-002620-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1316484
+
+Sala Primera de la Corte Suprema de Justicia. (2006, 25 de mayo). *Resolución N.° 000308-F-2006, de las 10:30 horas* (expediente 00-000717-0163-CA). NexusPJ.
+
+Sala Primera de la Corte Suprema de Justicia. (2006, 19 de diciembre). *Resolución N.° 000979-F-2006, de las 7:55 horas* (expediente 98-000385-0163-CA). NexusPJ.

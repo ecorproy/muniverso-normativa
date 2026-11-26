@@ -1407,3 +1407,11 @@ El autor aportó el enlace SINALEVI de C-231-2022 (param1=23622), que se agregó
 ### 26 de noviembre de 2026 — Tema 33: permisos anteriores a la Ley 9976
 
 A pedido del autor, la parte de irretroactividad del dictamen C-195-2024 pasó al tema 33, en «La acera»: permiso del MOPT no ejecutado (necesita aprobación municipal, que puede negarse de forma motivada; C-195-2024, ap. III y concl.) y obra en curso como situación consolidada (CP art. 34). Pestaña 6637aec5-aa13 rev 3: 58.333 bytes, sha256 bccccfd2…, IDÉNTICO. Word reconstruido.
+
+### 26 de noviembre de 2026 — Cuatro sentencias de la Sala Primera
+
+El autor aportó desde NexusPJ las sentencias 308-F-2006 (redondel de Turrialba 98), 979-F-2006 (Municipalidad de Heredia, tanques sépticos), 164-F-S1-2015 (ICE c/ Municipalidad de San José) y 1461-F-S1-2017 (Autopistas del Sol c/ Municipalidad de Atenas). Se guardaron en el repositorio de fuentes (Sala Primera/Municipal) con sangrías normalizadas para el segmentador. El verificador toma ahora el código de resolución del propio texto (las de 2006 son «F-2006», sin «S1»).
+
+- Capítulo 2: sección nueva «La Sala Primera» (telecomunicaciones de relevancia nacional sujetas a permiso municipal cuando el ICE actúa como un operador más; el criterio delimitador es la jurisdicción del cantón aunque sea ruta nacional, según la Sala Constitucional en el caso de la ley de Escazú, y aun así la patente exige ley que nombre el hecho generador). Pestaña rev 41, 50.133 bytes, sha256 027e0e64…, IDÉNTICO.
+- Capítulo 3: la omisión tiene consecuencias (responsabilidad por inactividad; fiscalización reducida a «simple cotejo de requisitos formales»). Pestaña rev 12, 28.563 bytes, sha256 41f69159…, IDÉNTICO.
+- Capítulo 4, «La cadena de obligaciones»: dos párrafos sobre la responsabilidad por inactividad (308-F-2006, cons. XII y XVII; 979-F-2006, cons. IX y por tanto). Pestaña rev 8, 34.879 bytes, sha256 84ecc64d…, IDÉNTICO.

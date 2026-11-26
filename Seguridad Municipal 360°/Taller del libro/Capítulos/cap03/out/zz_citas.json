@@ -316,6 +316,13 @@
  },
  {
   "archivo": "cap03.md",
+  "palabras": 5,
+  "fuente": "S1:2006-000979:considerando IX",
+  "estado": "OK",
+  "cita": "simple cotejo de requisitos formales"
+ },
+ {
+  "archivo": "cap03.md",
   "palabras": 14,
   "fuente": "L:6227:art. 12",
   "estado": "OK",

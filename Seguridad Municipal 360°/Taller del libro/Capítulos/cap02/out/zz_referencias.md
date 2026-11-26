@@ -48,6 +48,10 @@ Sala Constitucional de la Corte Suprema de Justicia. (2006, 12 de diciembre). *V
 
 Sala Constitucional de la Corte Suprema de Justicia. (2011, 16 de noviembre). *Voto N.° 2011-015763, de las 9:46 horas* (expediente 11-006691-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-530701
 
+Sala Primera de la Corte Suprema de Justicia. (2015, 4 de febrero). *Resolución N.° 000164-F-S1-2015, de las 9:20 horas* (expediente 10-000586-1027-CA). NexusPJ.
+
+Sala Primera de la Corte Suprema de Justicia. (2017, 23 de noviembre). *Resolución N.° 001461-F-S1-2017, de las 15:20 horas* (expediente 13-006199-1027-CA). NexusPJ.
+
 Tocqueville, A. de. (s. f.). *La democracia en América*. https://www.suneo.mx/literatura/subidas/Alexis%20de%20Tocqueville%20La%20Democracia%20en%20America.pdf
 
 Wilches-Chaux, G. (2007). Lo local-municipal como unidad de gestión. *Medio Ambiente y Urbanización*, (67), 113-126.
