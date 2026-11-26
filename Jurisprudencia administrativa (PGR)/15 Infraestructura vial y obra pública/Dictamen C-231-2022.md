@@ -6,7 +6,7 @@ consultante: "Jiménez Cascante Alfonso"
 institucion: "Municipalidad de Mora"
 materia: "Infraestructura vial y obra pública"
 temas: "Aceras en rutas nacionales; Ley de Movilidad Peatonal; Coordinación interinstitucional"
-enlace: ""
+enlace: "https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23622"
 descargado: "2026-11-26"
 ---
 # Dictamen C-231-2022
