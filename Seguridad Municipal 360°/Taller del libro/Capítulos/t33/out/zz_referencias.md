@@ -36,6 +36,8 @@ Ley N.° 9660, *Ley de Movilidad y Seguridad Ciclística*. (2019). Asamblea Legi
 
 Ley N.° 9976, *Movilidad peatonal*. (2021). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=94116&param2=151144&param3=1
 
+Municipalidad de Garabito. (2025, 20 de enero). *Reglamento municipal para la implementación de la ley N° 9660 de movilidad y seguridad ciclística en el cantón de Garabito*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=104317&param2=145702&param3=1
+
 Procuraduría General de la República. (2001, 30 de agosto). *Dictamen C-239-2001*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=10681&param2=0
 
 Procuraduría General de la República. (2003, 2 de diciembre). *Dictamen C-380-2003*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=12278&param2=0
@@ -74,7 +76,11 @@ Procuraduría General de la República. (2024, 5 de setiembre). *Dictamen C-195-
 
 Procuraduría General de la República. (2025, 3 de noviembre). *Dictamen C-220-2025*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25183&param2=0
 
+Procuraduría General de la República. (2026, 23 de enero). *Dictamen C-014-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25379&param2=0
+
 Procuraduría General de la República. (2026, 2 de febrero). *Dictamen C-027-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25297&param2=0
+
+Procuraduría General de la República. (2026, 6 de abril). *Dictamen C-060-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25399&param2=0
 
 Procuraduría General de la República. (2026, 24 de junio). *Dictamen C-101-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25475&param2=0
 

@@ -709,6 +709,7 @@ RM = {
     'launion-ccdr-hostigamiento': 'Cartago/La Unión/Reglamento interno contra el hostigamiento y acoso sexual del comité cantonal de deportes y recreación de la u (2025).md',
     'alajuela-licencias': 'Alajuela/Alajuela/Reglamento general de licencias comerciales de la Municipalidad del Cantón Central de Alajuela (2021).md',
     'garabito-ventas': 'Puntarenas/Garabito/Reglamento de ventas ambulantes y estacionarias (2024).md',
+    'garabito-ciclismo': 'Puntarenas/Garabito/Reglamento municipal para la implementación de la ley N° 9660 de movilidad y seguridad ciclística en el cantón (2025).md',
     'sanjose-mercados': 'San José/San José/Reglamento general de mercados municipales del Cantón de San José (2016).md',
     'corredores-mercados': 'Puntarenas/Corredores/Reglamento de organización y funcionamiento de los mercados municipales, terminales y otros inmuebles de arrie (2025).md',
     'mora-mercado': 'San José/Mora/Reglamento autónomo de organización y funcionamiento del mercado municipal de Ciudad Colón en el Cantón de Mor (2025).md',

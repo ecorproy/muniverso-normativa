@@ -26,6 +26,8 @@ Ley N.° 8765, *Código Electoral*. (2009). Asamblea Legislativa de la Repúblic
 
 Ley N.° 8801, *Ley General de transferencia de competencias del Poder Ejecutivo a las Municipalidades*. (2010). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=67855&param2=80560&param3=1
 
+Ley N.° 9660, *Ley de Movilidad y Seguridad Ciclística*. (2019). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=88528&param2=145517&param3=1
+
 Ley N.° 10561, *Ley para promover la participación, la prevención de la violencia y el cumplimiento de derechos de las personas jóvenes en los espacios públicos*. (2024). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=103225&param2=143177&param3=1
 
 Municipalidad de Grecia. (2021, 19 de abril). *Reglamento para la celebración de consultas populares en el Cantón de Grecia*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=94182&param2=125296&param3=1

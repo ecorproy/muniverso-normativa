@@ -1282,3 +1282,13 @@ Fuentes nuevas en el tema: dictamen C-315-2015 (conclusiones 2 y 3: colegio comp
 No se usaron: C-128-2025 (inadmisible), C-005-2018 (concejos de distrito; solo toca de lado a los comités), C-181-2019 (sus conclusiones transcriben el C-220-2011, que no está en el repositorio), C-220-2020.
 
 Con esto quedan reescritos en el régimen nuevo los temas 1 a 36. Siguen: capítulo 2 en régimen nuevo y la unión de introducción y cuadrantes en un solo documento.
+
+### 26 de noviembre de 2026 — Movilidad ciclística, red vial cantonal y aceras (Ley 9660, C-014-2026, C-060-2026)
+
+El autor adjuntó la Ley 9660 y los dictámenes C-014-2026 (Zarcero) y C-060-2026 (Puriscal); los tres coinciden con el repositorio principal (el C-014-2026 vino dos veces). Clave RM nueva: `garabito-ciclismo` (reglamento de 2025 para aplicar la Ley 9660).
+
+- t05: zona 30 (Ley 9660, art. 5, inciso p: la deciden la municipalidad o el MOPT) y principio de pacificación del tránsito (art. 6). 54.162 bytes (b44df15b…), IDÉNTICO.
+- t15: proceso participativo anual para la movilidad ciclística (art. 8). 67.003 bytes (90ae8435…), IDÉNTICO.
+- t33: C-014-2026 en «El ancho del camino» (la red vial cantonal incluye aceras, ciclovías, áreas verdes del derecho de vía, señalamiento y puentes; licencia con acceso por vía registrada de menos del ancho legal, condicionada a lo que diga el plan regulador; alineamiento obligatorio; la unidad técnica de gestión vial puede fijarlo con recursos de la Ley 8114); C-060-2026 en «La acera» (se construye desde la colindancia del plano catastrado hacia la calle, nunca dentro de los linderos; el alineamiento prevalece sobre el plano); párrafo nuevo en «La bicicleta y el carro estacionado» con los arts. 7, 8, 13 a 16 y transitorio II de la Ley 9660 y el reglamento de Garabito. 57.334 bytes (5e37ff54…), IDÉNTICO.
+
+Lectura propia para validar: el reglamento de Garabito ofrece a los ciclistas «descuentos en servicios municipales» (art. 11); el tema 33 lo remite a la regla del tema 36, según la cual cobrar menos requiere ley.
