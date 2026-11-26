@@ -30,6 +30,8 @@ Sala Constitucional de la Corte Suprema de Justicia. (1997, 8 de octubre). *Voto
 
 Sala Constitucional de la Corte Suprema de Justicia. (1999, 14 de julio). *Voto N.° 1999-005445, de las 14:30 horas* (expediente 94-000757-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-158355
 
+Sala Constitucional de la Corte Suprema de Justicia. (2006, 12 de diciembre). *Voto N.° 2006-017907, de las 17:09 horas* (expediente 06-013514-0007-CO). NexusPJ.
+
 Sala Constitucional de la Corte Suprema de Justicia. (2011, 16 de noviembre). *Voto N.° 2011-015763, de las 9:46 horas* (expediente 11-006691-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-530701
 
 Tocqueville, A. de. (s. f.). *La democracia en América*. https://www.suneo.mx/literatura/subidas/Alexis%20de%20Tocqueville%20La%20Democracia%20en%20America.pdf
