@@ -1462,3 +1462,13 @@ El autor aportó el manuscrito de su libro *Derecho municipal: Impugnación, vet
 Publicación con operaciones puntuales, sin rehacer las pestañas. Capítulo 2: rev 42, 52.078 bytes, sha256 7da9ee3a…, IDÉNTICO. Capítulo 4: rev 13, 54.439 bytes, sha256 078f0216…, IDÉNTICO. Word final20.
 
 Pendiente: los 36 temas.
+
+## 26 de noviembre de 2026, noche: la célula y el mapa incompleto
+
+Conversación previa con el autor. Acuerdos: en el centro hay dos personas (la que recibe el servicio y la que lo presta) en simbiosis de beneficio mutuo; la Constitución es la envoltura del núcleo y también parte del bloque de legalidad, donde actúa como su parte más dura; el citoplasma es lo local; la membrana exterior es el bloque de legalidad, recorrido de afuera hacia adentro; la persona servida aporta según los arts. 18 y 19 CP; los 360° no son una suma de grados: los 36 temas son lo identificado, como en un genoma, y el libro declara expresamente que es un mapa incompleto que otras investigaciones pueden completar.
+
+- Capítulo 3: «La persona en el centro» habla de dos personas; sección nueva «Una célula» (Sheldrake caps. 2, 3 y 8; LGAP 6, 7 y 11; CP 169, 56, 11, 18 y 19); «Treinta y seis temas» reescrita con el genoma y el mapa incompleto (zona de certeza y halo). Se eliminó la idea de diez grados por tema.
+- Capítulo 1: la frase del título ya no es una cuenta; anuncia la célula y el mapa abierto.
+- Capítulo 4: «Dos personas» las presenta como núcleo y agrega los deberes de la persona servida (CP 18 y 19), con la participación apoyada en CP 9 y Ley 10159 art. 4, no en el 18.
+
+Publicación con operaciones puntuales. Capítulo 1 rev 13, 49.676 bytes, sha256 165be2ab…; capítulo 3 rev 13, 33.588 bytes, sha256 30af11d1…; capítulo 4 rev 14, 55.647 bytes, sha256 3f45757c…; los tres IDÉNTICO. Word final21.

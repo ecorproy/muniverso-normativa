@@ -37,3 +37,5 @@ Sala Constitucional de la Corte Suprema de Justicia. (2011, 16 de noviembre). *V
 Sala Primera de la Corte Suprema de Justicia. (2006, 25 de mayo). *Resolución N.° 000308-F-2006, de las 10:30 horas* (expediente 00-000717-0163-CA). NexusPJ.
 
 Sala Primera de la Corte Suprema de Justicia. (2006, 19 de diciembre). *Resolución N.° 000979-F-2006, de las 7:55 horas* (expediente 98-000385-0163-CA). NexusPJ.
+
+Sheldrake, M. (2020). *La red oculta de la vida: De qué manera los hongos crean nuestros mundos, cambian nuestra forma de pensar y moldean nuestro futuro* (T. Gras Cardona, Trad.). Editorial Planeta.

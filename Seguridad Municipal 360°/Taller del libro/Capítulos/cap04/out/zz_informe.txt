@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 121 | OK: 114
+CITAS TEXTUALES: 124 | OK: 117
   [cap04.md] 21p | Cortés García, 2026 | , capítulo 25 | LITERAL (sin localización que cotejar) | "no solo constituye un vicio formal grave, sino que represent"
   [cap04.md] 26p | Cortés García, 2026 | , capítulo 27 | LITERAL (sin localización que cotejar) | "trasciende la corrección jurídica formal para constituirse c"
   [cap04.md] 22p | Cortés García, 2026 | , capítulo 26 | LITERAL (sin localización que cotejar) | "el cumplimiento formal de rituales procedimentales puede coe"

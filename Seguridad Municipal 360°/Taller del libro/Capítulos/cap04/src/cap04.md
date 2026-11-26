@@ -2,7 +2,9 @@
 
 ## Dos personas
 
-El capítulo anterior puso a la persona en el centro del concepto. Este capítulo se ocupa de lo que eso exige. En cada servicio municipal hay dos personas: la que lo necesita y la que lo presta. La primera tiene un derecho fundamental a que el servicio funcione bien. La segunda tiene el deber de prestarlo con idoneidad y de rendir cuentas por lo prestado. Las dos están reguladas, y las normas que las regulan se leen mejor juntas.
+El capítulo anterior puso en el centro del concepto a dos personas, que forman el núcleo de la célula con que se explica el libro. Este capítulo se ocupa de lo que eso exige. En cada servicio municipal hay dos personas: la que lo necesita y la que lo presta. La primera tiene un derecho fundamental a que el servicio funcione bien. La segunda tiene el deber de prestarlo con idoneidad y de rendir cuentas por lo prestado. Las dos están reguladas, y las normas que las regulan se leen mejor juntas.
+
+La relación es de ida y vuelta. La persona servida también tiene deberes constitucionales: los costarricenses deben "observar la Constitución y las leyes, servir a la Patria, defenderla y contribuir para los gastos públicos" [[CP:art. 18]], y los extranjeros tienen "los mismos deberes y derechos individuales y sociales que los costarricenses" [[CP:art. 19]], salvo las excepciones y limitaciones que fijan la Constitución y las leyes [[CP:art. 19]]. Con el tributo paga el servicio que recibe, y cumpliendo las normas hace posible que la persona servidora lo preste. El artículo 19 tiene además un efecto que conviene tener presente: la mujer migrante que llega a la casa de Upala ocupa en el núcleo el mismo lugar que cualquier costarricense. La participación y el aviso, como el de quien reporta una acera rota, no salen del artículo 18; tienen apoyo en el gobierno "participativo" [[CP:art. 9]] y en la Ley Marco de Empleo Público, que hace de la participación de la persona ciudadana un fundamento de la gestión del empleo [[L:10159:art. 4]]. Esa reciprocidad es la simbiosis de beneficio mutuo que describe el capítulo 3.
 
 ## La persona a quien se sirve
 
