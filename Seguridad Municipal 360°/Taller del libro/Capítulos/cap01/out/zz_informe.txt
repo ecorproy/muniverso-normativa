@@ -1,6 +1,7 @@
-CITAS TEXTUALES: 18 | OK: 15
+CITAS TEXTUALES: 36 | OK: 32
   [cap01.md] 6p | Sheldrake, 2020 | , capítulo 2 | LITERAL (sin localización que cotejar) | "El micelio es tejido conjuntivo ecológico"
   [cap01.md] 12p | Sheldrake, 2020 | , capítulo 2 | LITERAL (sin localización que cotejar) | "No hay centros de operaciones, ni ciudades capitales, ni sed"
+  [cap01.md] 7p | RM:desamparados-ninez:eje Salud | LITERAL (sin localización que cotejar) | "la mala atención de la salud mental"
   [cap01.md] 6p | Sheldrake, 2020 | , Introducción | LITERAL (sin localización que cotejar) | "hackers de la Wood Wide Web"
 
 UBICACIONES VERIFICADAS A MANO (0):
