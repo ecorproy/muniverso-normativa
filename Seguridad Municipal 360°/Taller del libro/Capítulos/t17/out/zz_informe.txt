@@ -1,8 +1,9 @@
-CITAS TEXTUALES: 49 | OK: 49
+CITAS TEXTUALES: 55 | OK: 55
 
-UBICACIONES VERIFICADAS A MANO (4):
+UBICACIONES VERIFICADAS A MANO (5):
   [t17.md] D:C-107-2026:apartado I: "estableciendo mecanismos que permitan a los muníci" (segmentador: ['V'])
   [t17.md] D:C-107-2026:apartado I: "bien podría constituirse en un mecanismo para ampl" (segmentador: ['V'])
+  [t17.md] V:2024-023302:considerando III: "no resulta suficiente que solamente se realicen la" (segmentador: ['X'])
   [t17.md] V:2020-016680:considerando III: "en lugares públicos o dependencias administrativas" (segmentador: ['V'])
   [t17.md] O:IGSMF:p. 46: "Se entiende por trámite digitalizado aquel en que " (segmentador: ['47'])
 

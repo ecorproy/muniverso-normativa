@@ -64,6 +64,8 @@ Procuraduría General de la República. (2026, 16 de marzo). *Dictamen C-053-202
 
 Procuraduría General de la República. (2026, 8 de julio). *Dictamen C-107-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25496&param2=0
 
+Sala Constitucional de la Corte Suprema de Justicia. (2011, 28 de junio). *Voto N.° 2011-008408, de las 14:30 horas* (expediente 11-003122-0007-CO). NexusPJ.
+
 Sala Constitucional de la Corte Suprema de Justicia. (2011, 16 de noviembre). *Voto N.° 2011-015763, de las 9:46 horas* (expediente 11-006691-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-530701
 
 Sala Constitucional de la Corte Suprema de Justicia. (2020, 26 de junio). *Voto N.° 2020-011750, de las 9:05 horas* (expediente 20-007741-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-982685
@@ -74,9 +76,15 @@ Sala Constitucional de la Corte Suprema de Justicia. (2020, 4 de setiembre). *Vo
 
 Sala Constitucional de la Corte Suprema de Justicia. (2022, 16 de setiembre). *Voto N.° 2022-021511, de las 9:30 horas* (expediente 22-014178-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1113345
 
+Sala Constitucional de la Corte Suprema de Justicia. (2022, 7 de octubre). *Voto N.° 2022-023266, de las 9:20 horas* (expediente 22-016392-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1116667
+
 Sala Constitucional de la Corte Suprema de Justicia. (2022, 2 de diciembre). *Voto N.° 2022-028653, de las 9:30 horas* (expediente 22-019839-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1129679
 
+Sala Constitucional de la Corte Suprema de Justicia. (2024, 16 de agosto). *Voto N.° 2024-023302, de las 9:15 horas* (expediente 24-017720-0007-CO). NexusPJ.
+
 Sala Constitucional de la Corte Suprema de Justicia. (2025, 16 de mayo). *Voto N.° 2025-014445, de las 9:35 horas* (expediente 25-008508-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1291271
+
+Sala Constitucional de la Corte Suprema de Justicia. (2025, 23 de mayo). *Voto N.° 2025-015264, de las 9:25 horas* (expediente 25-004443-0007-CO). NexusPJ.
 
 Sala Constitucional de la Corte Suprema de Justicia. (2026, 24 de abril). *Voto N.° 2026-014326, de las 9:20 horas* (expediente 25-036370-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1381222
 
