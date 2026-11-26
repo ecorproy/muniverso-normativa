@@ -1515,3 +1515,14 @@ Seis figuras nuevas en «Productos y servicios prestados» (cap. 4), generador `
 ## 26 de noviembre de 2026, noche: figuras en Docs y Word en el repositorio
 
 Las dieciséis figuras se subieron como recursos del documento de Docs y se insertaron, con su leyenda en cursiva, en los mismos puntos que en el Word: cap. 1 (1-2), cap. 2 (3, antes de «Lo que queda»), cap. 3 (4-7), cap. 4 (8-15) y conclusión (16). Desde ahora la exportación de esas pestañas incluye las líneas de imagen y leyenda, de modo que el cotejo con `esperado.py` debe hacerse sobre el texto sin ellas. El Word final27 queda en `Word/`.
+
+## 26 de noviembre de 2026, noche: quinta evaluación
+
+Quinta evaluación: recomienda cerrar la construcción intelectual y pasar a la preparación editorial. Se aplicó lo conducente:
+- Capítulo 3, «La segunda advertencia…»: la capacidad real y técnica condiciona la forma de cumplir el deber pero no lo extingue, y la coordinación no libera de las obligaciones de prestación propias. Publicado (rev 18).
+- Figura 1: las seis líneas llegan ahora al óvalo central. Figura 5: la rama «sin capacidad» dice que la obligación propia no se extingue.
+- Legibilidad: letra mayor en las figuras 1, 4, 5, 7, 8, 10 y 11, y ancho de 16 a 16,5 cm en el Word para las figuras anchas.
+- Índice de figuras al final del Word: campo TOC sobre el estilo «Image Caption», que Word completa con páginas al actualizar campos.
+- Figuras retocadas reemplazadas también en Docs. Las cinco pestañas cotejan IDÉNTICO con `scripts/esperado_fig.py`, que agrega a la fuente las líneas que el exportador produce por cada figura.
+- Word final28 (937 páginas en LibreOffice) en `Word/`.
+Sin atender por depender del autor o de la editorial: datos editoriales de la portada y cotejo independiente de fuentes.

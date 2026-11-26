@@ -17,12 +17,12 @@ side={3:'Sin seguimiento del plan anual: falta grave, previo procedimiento admin
 x0,bw=120,700; y=30; gap=46; ys=[]
 s=SVG(W,10)
 for i,(t,b,f) in enumerate(st):
-    h=need_h(t,b,bw,25,20,pad=34)
-    box(s,x0,y,bw,h,t,b,fill=f,tfs=25,bfs=20,sw=4 if i==8 else 3)
+    h=need_h(t,b,bw,26,22,pad=34)
+    box(s,x0,y,bw,h,t,b,fill=f,tfs=26,bfs=22,sw=4 if i==8 else 3)
     ys.append((y,h))
     if i in side:
-        sh=need_h(None,side[i],300,25,19,pad=30)
-        box(s,870,y+h/2-sh/2,300,sh,None,side[i],dash='9,6',bfs=19)
+        sh=need_h(None,side[i],300,25,21,pad=30)
+        box(s,870,y+h/2-sh/2,300,sh,None,side[i],dash='9,6',bfs=21)
         s.add(f'<line x1="{x0+bw}" y1="{y+h/2}" x2="868" y2="{y+h/2}" stroke="#111" stroke-width="2" stroke-dasharray="6,5"/>')
     if i<8: arrow(s,x0+bw/2,y+h,x0+bw/2,y+h+gap-2)
     y+=h+gap
@@ -42,7 +42,7 @@ rows=[('Finalidad','Mecanismo para la mejora continua de la gestión pública y 
  ('Consecuencias','Anualidad con «muy bueno»: 80 % metas y 20 % competencias (art. 48); ascensos, promociones, reconocimientos y capacitaciones (art. 49).','Da al artículo 48 de la Ley 2166 su redacción vigente (art. 49).','Dos evaluaciones consecutivas inferiores al 70 %: causal de despido (art. 21).')]
 s=SVG(W,10); xs=[30]
 for w in cw: xs.append(xs[-1]+w)
-y=30; hh=80
+y=30; hh=96
 for j,c in enumerate(cols):
     if c: box(s,xs[j],y,cw[j],hh,c,None,fill='#111' if j<3 else '#555',r=0,tfs=22,sw=2)
 for j,c in enumerate(cols):
@@ -51,14 +51,14 @@ for j,c in enumerate(cols):
         pass
 s.o=[o for o in s.o if not o.startswith('<text')]
 for j,c in enumerate(cols):
-    if c: text(s,xs[j]+cw[j]/2,y+48,c,22,bold=True,fill='white',width=cw[j]-20)
+    if c: text(s,xs[j]+cw[j]/2,y+42,c,22,bold=True,fill='white',width=cw[j]-20)
 y+=hh
 for i,(r,a,b,c) in enumerate(rows):
-    h=max(need_h(None,t,cw[k+1],22,19,pad=34) for k,t in enumerate((a,b,c)))
+    h=max(need_h(None,t,cw[k+1],22,21,pad=34) for k,t in enumerate((a,b,c)))
     box(s,xs[0],y,cw[0],h,r,None,fill='#e6e6e6',r=0,tfs=22,sw=2)
-    box(s,xs[1],y,cw[1],h,None,a,r=0,bfs=19,sw=2)
-    box(s,xs[2],y,cw[2],h,None,b,r=0,bfs=19,sw=2)
-    box(s,xs[3],y,cw[3],h,None,c,fill='#e6e6e6',r=0,bfs=19,sw=2)
+    box(s,xs[1],y,cw[1],h,None,a,r=0,bfs=21,sw=2)
+    box(s,xs[2],y,cw[2],h,None,b,r=0,bfs=21,sw=2)
+    box(s,xs[3],y,cw[3],h,None,c,fill='#e6e6e6',r=0,bfs=21,sw=2)
     y+=h
 text(s,W/2,y+40,'La Ley Marco no derogó el capítulo de la Ley 2166: las dos se leen juntas.',21,italic=True,fill='#333')
 s.h=y+70; s.save(D+'c4_cuadro.svg')
@@ -143,10 +143,10 @@ bx=[('«Muy bueno» o su equivalente','Incentivo por anualidad, para quien labor
 w=360
 for k,(t,b,f) in enumerate(bx):
     xx=40+k*(w+20)
-    box(s,xx,y,w,260,None,None,fill=f)
+    box(s,xx,y,w,300,None,None,fill=f)
     col='white' if f=='#555' else '#111'
     text(s,xx+w/2,y+50,t,23,bold=True,width=w-30,fill=col)
-    text(s,xx+w/2,y+140,b,19,width=w-30,fill=col if f=='#555' else '#333')
-y+=300
-box(s,40,y,1120,140,'Cada puntaje es un acto administrativo','Debe estar motivado y admite los recursos ordinarios; la aplicación individual se discute en la vía de legalidad (voto 2025-008201, cons. XXVIII). Sin motivación se lesionan el debido proceso y el derecho de defensa (Cortés García, 2026, capítulo 25).',dash='10,7',tfs=24,bfs=19)
+    text(s,xx+w/2,y+140,b,21,width=w-30,fill=col if f=='#555' else '#333')
+y+=340
+box(s,40,y,1120,150,'Cada puntaje es un acto administrativo','Debe estar motivado y admite los recursos ordinarios; la aplicación individual se discute en la vía de legalidad (voto 2025-008201, cons. XXVIII). Sin motivación se lesionan el debido proceso y el derecho de defensa (Cortés García, 2026, capítulo 25).',dash='10,7',tfs=24,bfs=19)
 s.h=y+170; s.save(D+'c4_nota.svg')

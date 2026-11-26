@@ -1,49 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1000" viewBox="0 0 1200 1000" font-family="DejaVu Serif, serif"><defs><marker id="ar" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L14,7 L0,14 Z" fill="#111"/></marker></defs><rect width="100%" height="100%" fill="white"/><ellipse cx="600" cy="500" rx="170" ry="80" fill="#e6e6e6" stroke="#111" stroke-width="4"/>
 <text x="600.0" y="492.0" font-size="34" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">La acera</text>
 <text x="600.0" y="530.0" font-size="21" font-weight="normal" font-style="italic" text-anchor="middle" fill="#333">un metro y medio de concreto</text>
-<line x1="450" y1="333.5" x2="385.0" y2="130" stroke="#111" stroke-width="3"/>
-<rect x="45.0" y="28.200000000000003" width="340" height="203.6" rx="14" fill="white" stroke="#111" stroke-width="3"/>
-<text x="215.0" y="66.6" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Tema 18. Trabajo y</text>
-<text x="215.0" y="95.4" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">sustento</text>
-<text x="215.0" y="136.2" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">San José, 1991: puestos de</text>
-<text x="215.0" y="161.2" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">venta en la acera; permiso</text>
-<text x="215.0" y="186.2" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">de uso precario. Voto</text>
-<text x="215.0" y="211.2" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">1991-002306.</text>
-<line x1="750" y1="333.5" x2="815.0" y2="130" stroke="#111" stroke-width="3"/>
-<rect x="815.0" y="30.099999999999994" width="340" height="199.8" rx="14" fill="white" stroke="#111" stroke-width="3"/>
-<text x="985.0" y="68.5" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Tema 24. Discapacidad</text>
-<text x="985.0" y="109.3" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Heredia, 2012-2015: tres</text>
-<text x="985.0" y="134.3" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">años de denuncias de un</text>
-<text x="985.0" y="159.3" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">padre de dos hijos con</text>
-<text x="985.0" y="184.3" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">discapacidad visual. Voto</text>
-<text x="985.0" y="209.3" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">2015-012020.</text>
-<line x1="450" y1="500.0" x2="385.0" y2="500" stroke="#111" stroke-width="3"/>
-<rect x="45.0" y="412.6" width="340" height="174.8" rx="14" fill="white" stroke="#111" stroke-width="3"/>
-<text x="215.0" y="451.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Tema 34. Cultura</text>
-<text x="215.0" y="491.8" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Heredia, 2023: demolición</text>
-<text x="215.0" y="516.8" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">de un pórtico centenario</text>
-<text x="215.0" y="541.8" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">que estorbaba el paso. Voto</text>
-<text x="215.0" y="566.8" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">2023-027541.</text>
-<line x1="750" y1="500.0" x2="815.0" y2="500" stroke="#111" stroke-width="3"/>
-<rect x="815.0" y="412.6" width="340" height="174.8" rx="14" fill="white" stroke="#111" stroke-width="3"/>
-<text x="985.0" y="451.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Tema 30. Ambiente</text>
-<text x="985.0" y="491.8" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">San Pablo de Heredia, 2025:</text>
-<text x="985.0" y="516.8" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">árboles de una ruta</text>
-<text x="985.0" y="541.8" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">nacional levantaron la</text>
-<text x="985.0" y="566.8" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">acera. Voto 2025-016121.</text>
-<line x1="450" y1="666.5" x2="385.0" y2="870" stroke="#111" stroke-width="3"/>
-<rect x="45.0" y="770.1" width="340" height="199.8" rx="14" fill="white" stroke="#111" stroke-width="3"/>
-<text x="215.0" y="808.5" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Tema 33. Obra pública</text>
-<text x="215.0" y="849.3" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Montes de Oca, 2025-2026:</text>
-<text x="215.0" y="874.3" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">una finca sin acera; la</text>
-<text x="215.0" y="899.3" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Municipalidad previno y no</text>
-<text x="215.0" y="924.3" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">construyó. Voto</text>
-<text x="215.0" y="949.3" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">2026-038693.</text>
-<line x1="750" y1="666.5" x2="815.0" y2="870" stroke="#111" stroke-width="3"/>
-<rect x="815.0" y="768.2" width="340" height="203.6" rx="14" fill="white" stroke="#111" stroke-width="3"/>
-<text x="985.0" y="806.6" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Tema 6. Emergencias y</text>
-<text x="985.0" y="835.4" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">presupuesto</text>
-<text x="985.0" y="876.2" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Los recursos de 2025 se</text>
-<text x="985.0" y="901.2" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">reasignaron a la quebrada</text>
-<text x="985.0" y="926.2" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Los Negritos. Voto</text>
-<text x="985.0" y="951.2" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">2026-038693.</text></svg>
+<line x1="556.0" y1="422.7" x2="395.0" y2="140" stroke="#111" stroke-width="3"/>
+<rect x="45.0" y="32.0" width="350" height="216.0" rx="14" fill="white" stroke="#111" stroke-width="3"/>
+<text x="220.0" y="71.2" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Tema 18. Trabajo y</text>
+<text x="220.0" y="101.2" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">sustento</text>
+<text x="220.0" y="143.4" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">San José, 1991: puestos</text>
+<text x="220.0" y="170.9" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">de venta en la acera;</text>
+<text x="220.0" y="198.4" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">permiso de uso precario.</text>
+<text x="220.0" y="225.9" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Voto 1991-002306.</text>
+<line x1="644.0" y1="422.7" x2="805.0" y2="140" stroke="#111" stroke-width="3"/>
+<rect x="805.0" y="33.25" width="350" height="213.5" rx="14" fill="white" stroke="#111" stroke-width="3"/>
+<text x="980.0" y="72.5" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Tema 24. Discapacidad</text>
+<text x="980.0" y="114.7" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Heredia, 2012-2015: tres</text>
+<text x="980.0" y="142.2" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">años de denuncias de un</text>
+<text x="980.0" y="169.7" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">padre de dos hijos con</text>
+<text x="980.0" y="197.2" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">discapacidad visual. Voto</text>
+<text x="980.0" y="224.7" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">2015-012020.</text>
+<line x1="430.0" y1="500.0" x2="395.0" y2="500" stroke="#111" stroke-width="3"/>
+<rect x="45.0" y="407.0" width="350" height="186.0" rx="14" fill="white" stroke="#111" stroke-width="3"/>
+<text x="220.0" y="446.2" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Tema 34. Cultura</text>
+<text x="220.0" y="488.4" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Heredia, 2023: demolición</text>
+<text x="220.0" y="516.0" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">de un pórtico centenario</text>
+<text x="220.0" y="543.5" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">que estorbaba el paso.</text>
+<text x="220.0" y="571.0" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Voto 2023-027541.</text>
+<line x1="770.0" y1="500.0" x2="805.0" y2="500" stroke="#111" stroke-width="3"/>
+<rect x="805.0" y="407.0" width="350" height="186.0" rx="14" fill="white" stroke="#111" stroke-width="3"/>
+<text x="980.0" y="446.2" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Tema 30. Ambiente</text>
+<text x="980.0" y="488.4" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">San Pablo de Heredia,</text>
+<text x="980.0" y="516.0" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">2025: árboles de una ruta</text>
+<text x="980.0" y="543.5" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">nacional levantaron la</text>
+<text x="980.0" y="571.0" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">acera. Voto 2025-016121.</text>
+<line x1="556.0" y1="577.3" x2="395.0" y2="860" stroke="#111" stroke-width="3"/>
+<rect x="45.0" y="753.25" width="350" height="213.5" rx="14" fill="white" stroke="#111" stroke-width="3"/>
+<text x="220.0" y="792.5" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Tema 33. Obra pública</text>
+<text x="220.0" y="834.7" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Montes de Oca, 2025-2026:</text>
+<text x="220.0" y="862.2" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">una finca sin acera; la</text>
+<text x="220.0" y="889.7" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Municipalidad previno y</text>
+<text x="220.0" y="917.2" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">no construyó. Voto</text>
+<text x="220.0" y="944.7" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">2026-038693.</text>
+<line x1="644.0" y1="577.3" x2="805.0" y2="860" stroke="#111" stroke-width="3"/>
+<rect x="805.0" y="752.0" width="350" height="216.0" rx="14" fill="white" stroke="#111" stroke-width="3"/>
+<text x="980.0" y="791.2" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Tema 6. Emergencias y</text>
+<text x="980.0" y="821.2" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">presupuesto</text>
+<text x="980.0" y="863.5" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Los recursos de 2025 se</text>
+<text x="980.0" y="891.0" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">reasignaron a la quebrada</text>
+<text x="980.0" y="918.5" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Los Negritos. Voto</text>
+<text x="980.0" y="946.0" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">2026-038693.</text></svg>

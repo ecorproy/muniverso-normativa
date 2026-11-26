@@ -7,20 +7,21 @@ s=SVG(W,1000)
 cx,cy=600,500
 s.add(f'<ellipse cx="{cx}" cy="{cy}" rx="170" ry="80" fill="#e6e6e6" stroke="#111" stroke-width="4"/>')
 text(s,cx,cy-8,'La acera',34,bold=True); text(s,cx,cy+30,'un metro y medio de concreto',21,italic=True,fill='#333')
-nodes=[(-1,'Tema 18. Trabajo y sustento','San José, 1991: puestos de venta en la acera; permiso de uso precario. Voto 1991-002306.',215,130),
-       (1,'Tema 24. Discapacidad','Heredia, 2012-2015: tres años de denuncias de un padre de dos hijos con discapacidad visual. Voto 2015-012020.',985,130),
-       (-1,'Tema 34. Cultura','Heredia, 2023: demolición de un pórtico centenario que estorbaba el paso. Voto 2023-027541.',215,500),
-       (1,'Tema 30. Ambiente','San Pablo de Heredia, 2025: árboles de una ruta nacional levantaron la acera. Voto 2025-016121.',985,500),
-       (-1,'Tema 33. Obra pública','Montes de Oca, 2025-2026: una finca sin acera; la Municipalidad previno y no construyó. Voto 2026-038693.',215,870),
-       (1,'Tema 6. Emergencias y presupuesto','Los recursos de 2025 se reasignaron a la quebrada Los Negritos. Voto 2026-038693.',985,870)]
-bw=340
+nodes=[(-1,'Tema 18. Trabajo y sustento','San José, 1991: puestos de venta en la acera; permiso de uso precario. Voto 1991-002306.',220,140),
+       (1,'Tema 24. Discapacidad','Heredia, 2012-2015: tres años de denuncias de un padre de dos hijos con discapacidad visual. Voto 2015-012020.',980,140),
+       (-1,'Tema 34. Cultura','Heredia, 2023: demolición de un pórtico centenario que estorbaba el paso. Voto 2023-027541.',220,500),
+       (1,'Tema 30. Ambiente','San Pablo de Heredia, 2025: árboles de una ruta nacional levantaron la acera. Voto 2025-016121.',980,500),
+       (-1,'Tema 33. Obra pública','Montes de Oca, 2025-2026: una finca sin acera; la Municipalidad previno y no construyó. Voto 2026-038693.',220,860),
+       (1,'Tema 6. Emergencias y presupuesto','Los recursos de 2025 se reasignaron a la quebrada Los Negritos. Voto 2026-038693.',980,860)]
+bw=350
+import math
 for side,t,b,x,y in nodes:
-    h=need_h(t,b,bw,24,20)
+    h=need_h(t,b,bw,25,22)
     bx=x-bw/2; by=y-h/2
-    # line from center ellipse edge to box
-    ex=cx+side*150; ey=cy+(y-cy)*0.45
-    s.add(f'<line x1="{ex}" y1="{ey}" x2="{x-side*bw/2}" y2="{y}" stroke="#111" stroke-width="3"/>')
-    box(s,bx,by,bw,h,t,b,tfs=24,bfs=20)
+    exx=x-side*bw/2; dx=exx-cx; dy=y-cy
+    k=1/math.sqrt((dx/170)**2+(dy/80)**2)
+    s.add(f'<line x1="{cx+dx*k:.1f}" y1="{cy+dy*k:.1f}" x2="{exx}" y2="{y}" stroke="#111" stroke-width="3"/>')
+    box(s,bx,by,bw,h,t,b,tfs=25,bfs=22)
 s.save(D+'acera.svg')
 # ---------- F muertes (cap01)
 rows=[('La captura','plantas que toman carbono de la red sin dar nada','Vermissa: un punto que recibe sin dar'),
@@ -84,10 +85,13 @@ s.add('<ellipse cx="420" cy="450" rx="150" ry="150" fill="#bdbdbd" stroke="#111"
 text(s,420,435,'Núcleo',28,bold=True); text(s,420,468,'zona de certeza',21,italic=True)
 text(s,420,225,'Halo',28,bold=True); text(s,420,255,'caso por caso, mirando la realidad',20,italic=True,width=360)
 text(s,420,135,'Zona de certeza negativa',24,bold=True)
-x=850
-box(s,850,60,330,250,'Núcleo','Desarrollo urbano (Ley 4240, art. 15); calles del cantón (Ley 5060, art. 2); licencias comerciales (voto 1997-006469); pluviales de un barrio (voto 2006-017907).',fill='#bdbdbd',tfs=24,bfs=19)
-box(s,850,330,330,200,'Halo','La mayor parte de la red del capítulo 1. Hechos que el juez comprueba enteros; valores donde la municipalidad tiene margen.',fill='#e6e6e6',tfs=24,bfs=19)
-box(s,850,550,330,290,'Certeza negativa','Sistema 9-1-1 (C-287-2024); telecomunicaciones (voto 2011-015763); aceras de rutas nacionales (C-231-2022); salud de la CCSS (C-125-2022). La municipalidad coordina, comunica e insta.',dash='12,8',tfs=24,bfs=19)
+zb=[('Núcleo','Desarrollo urbano (Ley 4240, art. 15); calles del cantón (Ley 5060, art. 2); licencias comerciales (voto 1997-006469); pluviales de un barrio (voto 2006-017907).','#bdbdbd',None),
+    ('Halo','La mayor parte de la red del capítulo 1. Hechos que el juez comprueba enteros; valores donde la municipalidad tiene margen.','#e6e6e6',None),
+    ('Certeza negativa','Sistema 9-1-1 (C-287-2024); telecomunicaciones (voto 2011-015763); aceras de rutas nacionales (C-231-2022); salud de la CCSS (C-125-2022). La municipalidad coordina, comunica e insta.','white','12,8')]
+yy=20
+for t,bb,f,d in zb:
+    h=need_h(t,bb,340,24,21,pad=30); box(s,845,yy,340,h,t,bb,fill=f,dash=d,tfs=24,bfs=21); yy+=h+18
+s.h=max(900,yy+10)
 s.save(D+'zonas.svg')
 # ---------- F flujograma (cap03)
 s=SVG(W,1650)
@@ -95,22 +99,22 @@ cx=430
 box(s,cx-260,30,520,90,None,'Una necesidad de una persona del cantón',fill='#e6e6e6',bfs=24)
 arrow(s,cx,120,cx,170)
 diamond(s,cx,265,560,190,'¿Importa de manera directa e inmediata a las personas del cantón?')
-box(s,820,205,350,120,None,'Corresponde a otra institución: la municipalidad la insta a atenderla',bfs=20)
-arrow(s,cx+280,265,818,265,label='No',lx=cx+300,ly=252)
+box(s,815,195,360,140,None,'Corresponde a otra institución: la municipalidad la insta a atenderla',bfs=21)
+arrow(s,cx+280,265,813,265,label='No',lx=cx+300,ly=252)
 arrow(s,cx,360,cx,410,label='Sí',lx=cx+12,ly=395)
 diamond(s,cx,500,560,180,'¿Una ley la organizó para todo el país?')
-box(s,820,445,350,110,None,'Zona de certeza negativa: coordinar, comunicar e instar',bfs=20)
-arrow(s,cx+280,500,818,500,label='Sí',lx=cx+300,ly=487)
+box(s,815,440,360,120,None,'Zona de certeza negativa: coordinar, comunicar e instar',bfs=21)
+arrow(s,cx+280,500,813,500,label='Sí',lx=cx+300,ly=487)
 arrow(s,cx,590,cx,640,label='No',lx=cx+12,ly=625)
 diamond(s,cx,735,560,190,'¿Hay que restringir derechos o sancionar?')
-box(s,820,680,350,110,None,'Hace falta ley; no basta un reglamento (LGAP, art. 12)',bfs=20)
-arrow(s,cx+280,735,818,735,label='Sí',lx=cx+300,ly=722)
+box(s,815,675,360,120,None,'Hace falta ley; no basta un reglamento (LGAP, art. 12)',bfs=21)
+arrow(s,cx+280,735,813,735,label='Sí',lx=cx+300,ly=722)
 path(s,'M 995 790 L 995 850 L 460 850 L 460 880')
 text(s,1010,830,'con ley habilitante',19,anchor='start',italic=True,fill='#333')
 arrow(s,cx,830,cx,880,label='No',lx=cx-60,ly=865)
 diamond(s,cx,975,560,190,'¿Tiene capacidad real y técnica?')
-box(s,820,915,350,130,None,'Coordinar y llevar a la persona a la institución competente; la titularidad no se pierde',bfs=20)
-arrow(s,cx+280,975,818,975,label='No',lx=cx+300,ly=962)
+box(s,815,895,360,170,None,'Coordinar y llevar a la persona a la institución competente; la obligación propia no se extingue',bfs=21)
+arrow(s,cx+280,975,813,975,label='No',lx=cx+300,ly=962)
 arrow(s,cx,1070,cx,1120,label='Sí',lx=cx+12,ly=1105)
 box(s,cx-300,1120,600,130,'Prestar','de manera planificada, regular, eficiente, continua y en condiciones de igualdad',fill='#e6e6e6',tfs=26,bfs=21)
 arrow(s,cx,1250,cx,1300)
@@ -127,7 +131,7 @@ bw=150; gap=(W-80-7*bw)/6
 for i,(n,t,b) in enumerate(st):
     x=40+i*(bw+gap)
     s.add(f'<circle cx="{x+bw/2}" cy="70" r="30" fill="#111"/>'); text(s,x+bw/2,80,n,28,bold=True,fill='white')
-    box(s,x,120,bw,300,t,b,fill='#e6e6e6' if i in (1,4) else 'white',tfs=22,bfs=18)
+    box(s,x,120,bw,300,t,b,fill='#e6e6e6' if i in (1,4) else 'white',tfs=22,bfs=19)
     if i<6: arrow(s,x+bw+4,270,x+bw+gap-4,270,sw=3)
 text(s,W/2,480,'La pregunta del tema: cómo puede y debe el gobierno local hacer que el bien exista en el cantón.',22,italic=True,width=W-80)
 s.save(D+'tema.svg')
