@@ -1210,7 +1210,7 @@ def process(fname, text):
                 r'\bdestaca', r'\ben definitiva\b', r'\bcabe destacar\b', r'\bes importante señalar\b', r'\bfundamental(es)?\b',
                 r'\bmultifac', r'\bpotenci', r'\bfomenta', r'\bgarantizando\b', r'\breflejando\b', r'\bsin duda\b', r'\bexhaustiv',
                 r'\bintegral(es)?\b', r'\bhito\b', r'\bpilar(es)?\b', r'\bholístic', r'\ben este sentido\b', r'\bjuega un papel\b',
-                r'\ba lo largo de\b', r'\bno se trata\b']:
+                r'\ba lo largo de\b', r'\bno se trata\b', r'\ben suma\b', r'\ben s[ií]ntesis\b', r'\ben resumen\b', r'\ben conclusi[oó]n\b', r'\bpor contraste\b', r'\bla lecci[oó]n\b', r'\bvale la pena\b', r'\besa es la tesis\b', r'\ben otras palabras\b', r'\bdicho esto\b', r'\bcabe se[ñn]alar\b', r'\bhay una idea\b', r'\bno es [^.]{0,60}, sino\b']:
         for mm in re.finditer(pat, body, re.I):
             ctx = body[max(0, mm.start() - 45):mm.start() + 45].replace('\n', ' ')
             notes.append(f'[{fname}] vocabulario «{mm.group(0)}»: …{ctx}…')

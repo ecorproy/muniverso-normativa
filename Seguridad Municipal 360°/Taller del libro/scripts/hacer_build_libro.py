@@ -157,6 +157,10 @@ cgr_extra = """    'REDCUDI': dict(cita='informe N.° DFOE-BIS-IAD-00010-2023, 2
 """
 k = src.index("    'IGSM': dict(")
 src = src[:k] + cgr_extra + src[k:]
+# señales de redacción artificial que el autor pidió eliminar (26 de noviembre de 2026)
+_v = "r'\\bno se trata\\b']"
+assert src.count(_v) == 1
+src = src.replace(_v, "r'\\bno se trata\\b', r'\\ben suma\\b', r'\\ben s[ií]ntesis\\b', r'\\ben resumen\\b', r'\\ben conclusi[oó]n\\b', r'\\bpor contraste\\b', r'\\bla lecci[oó]n\\b', r'\\bvale la pena\\b', r'\\besa es la tesis\\b', r'\\ben otras palabras\\b', r'\\bdicho esto\\b', r'\\bcabe se[ñn]alar\\b', r'\\bhay una idea\\b', r'\\bno es [^.]{0,60}, sino\\b']")
 i = src.index('MANUAL = {'); j = src.index('\ndef ', i)
 src = src[:j] + '\n' + extra + src[j:]
 # leyes que no están en el repositorio y se leen del diario oficial

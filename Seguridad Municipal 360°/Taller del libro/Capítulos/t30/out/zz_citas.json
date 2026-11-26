@@ -512,6 +512,20 @@
  },
  {
   "archivo": "t30.md",
+  "palabras": 12,
+  "fuente": "V:2024-004807:considerando III",
+  "estado": "OK",
+  "cita": "con expertos en la materia a diferencia de la Municipalidad "
+ },
+ {
+  "archivo": "t30.md",
+  "palabras": 11,
+  "fuente": "V:2026-025615:considerando IV",
+  "estado": "OK",
+  "cita": "la actuación administrativa contempló un componente correcti"
+ },
+ {
+  "archivo": "t30.md",
   "palabras": 27,
   "fuente": "L:6043:art. 3",
   "estado": "OK",
@@ -589,6 +603,34 @@
  },
  {
   "archivo": "t30.md",
+  "palabras": 4,
+  "fuente": "V:2025-037551:considerando V",
+  "estado": "OK",
+  "cita": "tan pronto tenga noticia"
+ },
+ {
+  "archivo": "t30.md",
+  "palabras": 14,
+  "fuente": "V:2025-037551:considerando V",
+  "estado": "OK",
+  "cita": "no basta con tomar las acciones que se indican para la atenc"
+ },
+ {
+  "archivo": "t30.md",
+  "palabras": 14,
+  "fuente": "V:2026-019076:considerando I",
+  "estado": "OK",
+  "cita": "se está ante una denuncia ambiental por presunta invasión de"
+ },
+ {
+  "archivo": "t30.md",
+  "palabras": 16,
+  "fuente": "L:6043:art. 23",
+  "estado": "OK",
+  "cita": "El Estado o las municipalidades deberán construir vías, para"
+ },
+ {
+  "archivo": "t30.md",
   "palabras": 12,
   "fuente": "D:C-128-1999:conclusión 2",
   "estado": "OK",
@@ -607,6 +649,13 @@
   "fuente": "D:C-227-2024:conclusión",
   "estado": "OK",
   "cita": "Las inscripciones de terrenos que forman parte de la zona ma"
+ },
+ {
+  "archivo": "t30.md",
+  "palabras": 10,
+  "fuente": "D:C-033-2005:conclusión 3",
+  "estado": "OK",
+  "cita": "sí enerva el despliegue directo de las potestades de adminis"
  },
  {
   "archivo": "t30.md",
@@ -719,5 +768,12 @@
   "fuente": "L:7788:art. 108",
   "estado": "OK",
   "cita": "que se susciten entre particulares, donde no medie un acto a"
+ },
+ {
+  "archivo": "t30.md",
+  "palabras": 12,
+  "fuente": "V:2026-019076:considerando VI",
+  "estado": "OK",
+  "cita": "alguna nueva inspección o acción adicional que el ordenamien"
  }
 ]

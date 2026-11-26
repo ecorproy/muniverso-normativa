@@ -42,6 +42,8 @@ Ley N.° 10939, *Ley de arbolado urbano*. (2026). Asamblea Legislativa de la Rep
 
 Procuraduría General de la República. (1999, 24 de junio). *Dictamen C-128-1999*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=7135&param2=0
 
+Procuraduría General de la República. (2005, 26 de enero). *Dictamen C-033-2005*.
+
 Procuraduría General de la República. (2009, 21 de julio). *Dictamen C-200-2009*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=15954&param2=0
 
 Procuraduría General de la República. (2013, 26 de agosto). *Dictamen C-170-2013*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=17704&param2=0
@@ -64,6 +66,8 @@ Procuraduría General de la República. (2026, 3 de noviembre). *Dictamen C-199-
 
 Sala Constitucional de la Corte Suprema de Justicia. (2008, 7 de noviembre). *Voto N.° 2008-016885, de las 13:42 horas* (expediente 07-012210-0007-CO). NexusPJ.
 
+Sala Constitucional de la Corte Suprema de Justicia. (2024, 23 de febrero). *Voto N.° 2024-004807, de las 9:20 horas* (expediente 24-002313-0007-CO). NexusPJ.
+
 Sala Constitucional de la Corte Suprema de Justicia. (2024, 25 de junio). *Voto N.° 2024-017568, de las 9:45 horas* (expediente 24-007095-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1236309
 
 Sala Constitucional de la Corte Suprema de Justicia. (2024, 12 de julio). *Voto N.° 2024-019586, de las 9:20 horas* (expediente 24-011246-0007-CO). NexusPJ.
@@ -73,6 +77,8 @@ Sala Constitucional de la Corte Suprema de Justicia. (2024, 30 de agosto). *Voto
 Sala Constitucional de la Corte Suprema de Justicia. (2025, 28 de febrero). *Voto N.° 2025-006205, de las 9:20 horas* (expediente 25-002705-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1281733
 
 Sala Constitucional de la Corte Suprema de Justicia. (2025, 30 de mayo). *Voto N.° 2025-016121, de las 9:20 horas* (expediente 25-008481-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1295599
+
+Sala Constitucional de la Corte Suprema de Justicia. (2025, 14 de noviembre). *Voto N.° 2025-037551, de las 9:20 horas* (expediente 25-026160-0007-CO). NexusPJ.
 
 Sala Constitucional de la Corte Suprema de Justicia. (2026, 6 de marzo). *Voto N.° 2026-008044, de las 9:25 horas* (expediente 25-037393-0007-CO). NexusPJ.
 
@@ -84,8 +90,16 @@ Sala Constitucional de la Corte Suprema de Justicia. (2026, 28 de abril). *Voto 
 
 Sala Constitucional de la Corte Suprema de Justicia. (2026, 30 de abril). *Voto N.° 2026-015340, de las 9:20 horas* (expediente 25-036844-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1385188
 
+Sala Constitucional de la Corte Suprema de Justicia. (2026, 29 de mayo). *Voto N.° 2026-019076, de las 9:30 horas* (expediente 25-031546-0007-CO). NexusPJ.
+
+Sala Constitucional de la Corte Suprema de Justicia. (2026, 19 de junio). *Voto N.° 2026-022284, de las 9:30 horas* (expediente 25-038108-0007-CO). NexusPJ.
+
+Sala Constitucional de la Corte Suprema de Justicia. (2026, 10 de julio). *Voto N.° 2026-025615, de las 9:25 horas* (expediente 25-027587-0007-CO). NexusPJ.
+
 Sala Constitucional de la Corte Suprema de Justicia. (2026, 27 de agosto). *Voto N.° 2026-032956, de las 9:40 horas* (expediente 26-019995-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1422735
 
 Tribunal Contencioso Administrativo, Sección VI. (2009, 19 de enero). *Resolución N.° 63-2009, de las 16:00 horas* (expediente 08-000904-1027-CA). NexusPJ.
+
+Tribunal Contencioso Administrativo, Sección VI. (2018, 15 de marzo). *Resolución N.° 32-2018, de las 14:00 horas* (expediente 10-003009-1027-CA). NexusPJ.
 
 Tribunal Contencioso Administrativo, Sección III. (2023, 22 de marzo). *Resolución N.° 111-2023, de las 8:30 horas* (expediente 21-003363-1027-CA). NexusPJ.
