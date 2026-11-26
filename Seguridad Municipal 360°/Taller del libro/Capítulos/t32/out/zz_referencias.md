@@ -16,7 +16,11 @@ Ley N.° 7509, *Ley de Impuesto sobre Bienes Inmuebles*. (1995). Asamblea Legisl
 
 Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40197&param2=152716&param3=1
 
+Ley N.° 7935, *Ley Integral para la Persona Adulta Mayor*. (1999). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=43655&param2=148301&param3=1
+
 Ley N.° 8828, *Ley Reguladora de la Actividad de las Sociedades Públicas de Economía Mixta*. (2010). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=68059&param2=118806&param3=1
+
+Ley N.° 9242, *Ley para la regulación de las construcciones existentes en la Zona Restringida de la Zona Marítimo Terrestre*. (2014). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=77486&param2=146951&param3=1
 
 Ley N.° 10000, *Ampliación de los alcances de la ley N° 9577, Protección a los ocupantes de zonas clasificadas como especiales*. (2021). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=94712&param2=126202&param3=1
 
@@ -26,11 +30,15 @@ Ley N.° 10214, *Creación del régimen especial de viviendas comunitarias para 
 
 Ley N.° 10981, *Ley de creación del Ministerio de Vivienda y Asentamientos Humanos*. (2026). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=108304&param2=153089&param3=1
 
+Municipalidad de Montes de Oro. (2006, 21 de agosto). *Reglamento para el Programa de Vivienda Municipal*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=57943&param2=63507&param3=1
+
 Municipalidad de San Rafael de Heredia. (2016, 14 de octubre). *Reglamento de Autorizaciones de Permiso de Uso en Precario de Viviendas en la Municipalidad de San Rafael de Heredia*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=82783&param2=106024&param3=1
 
 Procuraduría General de la República. (2000, 29 de setiembre). *Dictamen C-240-2000*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=8465&param2=0
 
 Procuraduría General de la República. (2014, 20 de octubre). *Dictamen C-345-2014*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=18884&param2=0
+
+Procuraduría General de la República. (2020, 10 de enero). *Dictamen C-008-2020*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=21749&param2=0
 
 Procuraduría General de la República. (2021, 21 de setiembre). *Dictamen C-271-2021*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=22965&param2=0
 
@@ -41,6 +49,10 @@ Procuraduría General de la República. (2022, 16 de junio). *Dictamen C-130-202
 Procuraduría General de la República. (2023, 29 de marzo). *Dictamen C-059-2023*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23853&param2=0
 
 Procuraduría General de la República. (2024, 4 de setiembre). *Dictamen C-194-2024*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24596&param2=0
+
+Procuraduría General de la República. (2024, 9 de diciembre). *Dictamen C-285-2024*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24774&param2=0
+
+Procuraduría General de la República. (2026, 12 de octubre). *Dictamen C-173-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25595&param2=0
 
 Sala Constitucional de la Corte Suprema de Justicia. (2025, 24 de octubre). *Voto N.° 2025-034914, de las 9:20 horas* (expediente 25-029506-0007-CO). NexusPJ.
 

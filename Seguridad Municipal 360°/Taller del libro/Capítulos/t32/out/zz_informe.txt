@@ -1,14 +1,15 @@
-CITAS TEXTUALES: 66 | OK: 64
+CITAS TEXTUALES: 75 | OK: 73
   [t32.md] 14p | D:C-089-2022:apartado B | LITERAL (sin localización que cotejar) | "un derecho a la construcción de viviendas adecuadas y dignas"
   [t32.md] 11p | D:C-089-2022:apartado B | LITERAL (sin localización que cotejar) | "el derecho a la vivienda consagrado en el artículo 65 consti"
 
-UBICACIONES VERIFICADAS A MANO (7):
+UBICACIONES VERIFICADAS A MANO (8):
   [t32.md] D:C-345-2014:apartado II: "la aprobación final de las construcciones y proyec" (segmentador: [])
   [t32.md] D:C-345-2014:apartado II: "debe recaer en el Concejo Municipal, en su carácte" (segmentador: [])
   [t32.md] D:C-345-2014:apartado II: "solo puede operar entre órganos de la misma clase " (segmentador: [])
   [t32.md] V:2025-034914:considerando III: "es necesario que, antes de ejecutar actos de desal" (segmentador: ['RESULTANDO', 'II', 'II'])
   [t32.md] V:2025-034914:considerando III: "a fin de que se valore la condición socioeconómica" (segmentador: ['RESULTANDO', 'II', 'II'])
   [t32.md] V:2025-034914:considerando III: "la lesión a los derechos fundamentales de la parte" (segmentador: ['RESULTANDO', 'II', 'II'])
+  [t32.md] RM:montesdeoro-vivienda:art. 11: "solo se podrá disponer para el programa de Viviend" (segmentador: [])
   [t32.md] O:IGSMF:p. 48: "un trámite que incide directamente en el acceso a " (segmentador: ['49'])
 
 ERRORES (0):
