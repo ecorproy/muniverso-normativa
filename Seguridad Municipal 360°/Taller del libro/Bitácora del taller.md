@@ -1327,3 +1327,13 @@ Cambios, todos en el libro unido y verificados por exportación:
 - t36: Ley 7509, arts. 30 y 33 (al menos el 2 % del impuesto sobre bienes inmuebles a la Junta Administrativa del Registro Nacional; aprobación parcial del presupuesto que no lo contemple, con ajuste administrativo sin acuerdo del Concejo) y art. 99 CM (plan de pago de la deuda; improbación del ingreso por financiamiento y del gasto correspondiente). 93.490 bytes (19edb42f…), IDÉNTICO.
 
 Duda para el autor: el art. 2 de la Ley 10795 fija en el 2 % el giro del art. 30 de la Ley 7509, y el art. 3 reescribe el art. 16 de la Ley 10475 (que a su vez reformaba ese mismo art. 30) con el 1 %. El SINALEVI consolida el art. 30 con el 2 %, y así quedó en el tema 36.
+
+### 26 de noviembre de 2026 — Capítulo 1, «La red»
+
+Introducción nueva pedida por el autor: lo local como la red micelial que lo toca todo, el método de Holmes como método del libro y la seguridad humana como origen del 360. Pestaña «1. La red» (df9de45f-a65b, nodo a5362904-71a1, orden a1) en el libro unido. 2.476 palabras; 17 citas textuales (14 ubicadas por página; 3 de Sheldrake localizadas por capítulo, porque el epub no tiene paginación estable); 0 errores; 15.603 bytes; sha256 c2f34167…; IDÉNTICO.
+
+Fuentes nuevas del verificador (claves MANUAL en `hacer_build_libro.py`): `Conan Doyle, s. f.` (*El valle del terror*, Fundación Carlos Slim, obra original de 1915; págs. del PDF = págs. impresas), `Sheldrake, 2020` (*La red oculta de la vida*, Planeta, trad. T. Gras Cardona) y `Naciones Unidas, 2016` (*Manual de seguridad humana*). Los textos están en `/home/claude/libro/fuentes/doctrina/` y no se suben al repositorio; para volver a verificar el capítulo hay que adjuntar los tres PDF.
+
+Citas de Conan Doyle usadas: Vermissa como municipio (p. 70); McGinty concejal y comisario de carreteras y el efecto sobre tributos, obras y cuentas (p. 84); «tenemos nuestra propia policía del municipio» (p. 92); la telaraña de Moriarty (p. 15); «Todo conocimiento es útil para el detective» (p. 14); seguir los cheques (p. 16); «Todo viene en círculo» (p. 15).
+
+Nota de mecánica: `unido.md` del capítulo 1 lleva la línea de firma («Nov 26, 2026 · @Edward Cortés García») después del título para coincidir con la exportación.

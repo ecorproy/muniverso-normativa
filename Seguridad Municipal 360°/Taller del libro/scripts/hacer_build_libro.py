@@ -10,6 +10,12 @@ assert src.count(b) == 1
 src = src.replace(b, "    f = f'{R}/Jurisprudencia constitucional (Sala Constitucional)/Municipal/Sentencia {x}.md'\n    if os.path.exists(f):\n        return f\n    fs = glob.glob(f'{R}/Jurisprudencia constitucional (Sala Constitucional)/Municipal/*/Sentencia {x}.md')\n    return fs[0] if fs else None")
 extra = '''
 MANUAL.update({
+    'Conan Doyle, s. f.': dict(file='/home/claude/libro/fuentes/doctrina/conan_doyle_valle.txt',
+        ref='Conan Doyle, A. (s. f.). *El valle del terror*. Fundación Carlos Slim. (Obra original publicada en 1915)'),
+    'Sheldrake, 2020': dict(file='/home/claude/libro/fuentes/doctrina/sheldrake_2020.txt',
+        ref='Sheldrake, M. (2020). *La red oculta de la vida: De qué manera los hongos crean nuestros mundos, cambian nuestra forma de pensar y moldean nuestro futuro* (T. Gras Cardona, Trad.). Editorial Planeta.'),
+    'Naciones Unidas, 2016': dict(file='/home/claude/libro/fuentes/doctrina/onu_seguridad_humana_2016.txt',
+        ref='Naciones Unidas, Dependencia de Seguridad Humana. (2016). *Manual de seguridad humana: Un enfoque integrado para la consecución de los Objetivos de Desarrollo Sostenible y los ámbitos de acción prioritarios de la comunidad internacional y el sistema de las Naciones Unidas*. Naciones Unidas.'),
     'Pérez Hernández et al., 2019': dict(
         file='/home/claude/libro/fuentes/perez_pag.txt',
         ref='Pérez Hernández, L., Tabares Neyra, L. M. y Díaz Legón, O. J. (2019). Lo local –municipal– como espacio de desarrollo en Cuba. Notas para el perfeccionamiento del régimen jurídico de la administración local. *Universidad de La Habana*, (287), 135-160.'),
