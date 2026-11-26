@@ -8,13 +8,6 @@
  },
  {
   "archivo": "t18.md",
-  "palabras": 6,
-  "fuente": "V:1991-002306:considerando II",
-  "estado": "OK",
-  "cita": "un problema de muy vieja identidad"
- },
- {
-  "archivo": "t18.md",
   "palabras": 27,
   "fuente": "V:1991-002306:considerando IV",
   "estado": "OK",
@@ -40,6 +33,20 @@
   "fuente": "V:1991-002306:considerando III",
   "estado": "OK",
   "cita": "con la aceptación de la Municipalidad de San José"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 22,
+  "fuente": "V:1991-002306:considerando VI",
+  "estado": "OK",
+  "cita": "de hecho se instalan en las vías públicas, sin un acto de au"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 21,
+  "fuente": "V:1991-002306:considerando VI",
+  "estado": "OK",
+  "cita": "ningún derecho fundamental se puede entender vulnerado, si s"
  },
  {
   "archivo": "t18.md",
@@ -71,6 +78,13 @@
  },
  {
   "archivo": "t18.md",
+  "palabras": 19,
+  "fuente": "D:C-064-2012:apartado II",
+  "estado": "OK",
+  "cita": "no implica el deber del Estado de darle trabajo a todo el qu"
+ },
+ {
+  "archivo": "t18.md",
   "palabras": 14,
   "fuente": "L:7794:art. 88",
   "estado": "OK",
@@ -89,6 +103,27 @@
   "fuente": "L:7794:art. 90 bis",
   "estado": "OK",
   "cita": "previo debido proceso"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 12,
+  "fuente": "O:IGSMF:p. 50",
+  "estado": "OK",
+  "cita": "el acto administrativo que habilita al particular para ejerc"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 8,
+  "fuente": "L:7794:art. 88",
+  "estado": "OK",
+  "cita": "de acuerdo con las particularidades de sus territorios"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 4,
+  "fuente": "L:2:art. 203",
+  "estado": "OK",
+  "cita": "sin ningún trámite especial"
  },
  {
   "archivo": "t18.md",
@@ -120,6 +155,34 @@
  },
  {
   "archivo": "t18.md",
+  "palabras": 11,
+  "fuente": "RM:alajuelita-ventas:art. 4",
+  "estado": "OK",
+  "cita": "determinante para el otorgamiento del permiso de venta ambul"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 17,
+  "fuente": "RM:alajuelita-ventas:art. 21",
+  "estado": "OK",
+  "cita": "Mediante estudio técnico, la administración municipal determ"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 3,
+  "fuente": "RM:leoncortes-ventas:art. 5",
+  "estado": "OK",
+  "cita": "previo informe técnico"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 3,
+  "fuente": "L:6587:art. 3",
+  "estado": "OK",
+  "cita": "la familia propietaria"
+ },
+ {
+  "archivo": "t18.md",
   "palabras": 26,
   "fuente": "L:6227:art. 154",
   "estado": "OK",
@@ -127,10 +190,87 @@
  },
  {
   "archivo": "t18.md",
+  "palabras": 22,
+  "fuente": "D:C-296-2012:conclusión",
+  "estado": "OK",
+  "cita": "en el caso de las ventas ambulantes, tampoco se genera respo"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 26,
+  "fuente": "D:C-296-2012:apartado III",
+  "estado": "OK",
+  "cita": "deberá llevarse a cabo de forma que le garantice al interesa"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 11,
+  "fuente": "RM:alajuelita-ventas:art. 12",
+  "estado": "OK",
+  "cita": "podrá ser reubicado o eliminado sin ninguna responsabilidad "
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 4,
+  "fuente": "RM:alajuelita-ventas:art. 20",
+  "estado": "OK",
+  "cita": "no tendrá recurso alguno"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 8,
+  "fuente": "V:1991-002306:considerando VI",
+  "estado": "OK",
+  "cita": "a reserva de ser devueltos a sus propietarios"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 15,
+  "fuente": "D:C-014-2000:conclusión 3",
+  "estado": "OK",
+  "cita": "las Municipalidades están legitimadas para suprimir esa acti"
+ },
+ {
+  "archivo": "t18.md",
   "palabras": 6,
   "fuente": "L:6227:art. 149",
   "estado": "OK",
   "cita": "decomisar bienes y clausurar establecimientos mercantiles"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 7,
+  "fuente": "D:C-064-2012:apartado II",
+  "estado": "OK",
+  "cita": "debe hacer las intimaciones necesarias al administrado"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 21,
+  "fuente": "D:C-064-2012:apartado II",
+  "estado": "OK",
+  "cita": "en el entendido claro está, de que los mismos les sean devue"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 27,
+  "fuente": "D:C-078-2006:apartado III",
+  "estado": "OK",
+  "cita": "únicamente a través de una sentencia judicial, recaída en pr"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 8,
+  "fuente": "RM:tarrazu-decomisos:art. 6",
+  "estado": "OK",
+  "cita": "una declaración jurada debidamente protocolizada en escritur"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 11,
+  "fuente": "RM:tarrazu-decomisos:art. 6",
+  "estado": "OK",
+  "cita": "una multa correspondiente al 30% del valor de la mercadería "
  },
  {
   "archivo": "t18.md",
@@ -183,80 +323,10 @@
  },
  {
   "archivo": "t18.md",
-  "palabras": 22,
-  "fuente": "D:C-296-2012:conclusión",
+  "palabras": 4,
+  "fuente": "RM:puntarenas-ruedas:art. 9",
   "estado": "OK",
-  "cita": "en el caso de las ventas ambulantes, tampoco se genera respo"
- },
- {
-  "archivo": "t18.md",
-  "palabras": 26,
-  "fuente": "D:C-296-2012:apartado III",
-  "estado": "OK",
-  "cita": "deberá llevarse a cabo de forma que le garantice al interesa"
- },
- {
-  "archivo": "t18.md",
-  "palabras": 15,
-  "fuente": "D:C-014-2000:conclusión 3",
-  "estado": "OK",
-  "cita": "las Municipalidades están legitimadas para suprimir esa acti"
- },
- {
-  "archivo": "t18.md",
-  "palabras": 7,
-  "fuente": "D:C-064-2012:apartado II",
-  "estado": "OK",
-  "cita": "debe hacer las intimaciones necesarias al administrado"
- },
- {
-  "archivo": "t18.md",
-  "palabras": 21,
-  "fuente": "D:C-064-2012:apartado II",
-  "estado": "OK",
-  "cita": "en el entendido claro está, de que los mismos les sean devue"
- },
- {
-  "archivo": "t18.md",
-  "palabras": 19,
-  "fuente": "D:C-064-2012:apartado II",
-  "estado": "OK",
-  "cita": "no implica el deber del Estado de darle trabajo a todo el qu"
- },
- {
-  "archivo": "t18.md",
-  "palabras": 27,
-  "fuente": "D:C-078-2006:apartado III",
-  "estado": "OK",
-  "cita": "únicamente a través de una sentencia judicial, recaída en pr"
- },
- {
-  "archivo": "t18.md",
-  "palabras": 12,
-  "fuente": "O:IGSMF:p. 50",
-  "estado": "OK",
-  "cita": "el acto administrativo que habilita al particular para ejerc"
- },
- {
-  "archivo": "t18.md",
-  "palabras": 22,
-  "fuente": "V:1991-002306:considerando VI",
-  "estado": "OK",
-  "cita": "de hecho se instalan en las vías públicas, sin un acto de au"
- },
- {
-  "archivo": "t18.md",
-  "palabras": 8,
-  "fuente": "V:1991-002306:considerando VI",
-  "estado": "OK",
-  "cita": "a reserva de ser devueltos a sus propietarios"
- },
- {
-  "archivo": "t18.md",
-  "palabras": 21,
-  "fuente": "V:1991-002306:considerando VI",
-  "estado": "OK",
-  "cita": "ningún derecho fundamental se puede entender vulnerado, si s"
+  "cita": "promover la competencia leal"
  },
  {
   "archivo": "t18.md",
@@ -281,72 +351,114 @@
  },
  {
   "archivo": "t18.md",
-  "palabras": 11,
-  "fuente": "RM:alajuelita-ventas:art. 4",
+  "palabras": 7,
+  "fuente": "L:10718:art. 2",
   "estado": "OK",
-  "cita": "determinante para el otorgamiento del permiso de venta ambul"
+  "cita": "la participación de emprendedores y emprendimientos particul"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 4,
+  "fuente": "L:4179:art. 14",
+  "estado": "OK",
+  "cita": "previa autorización del IFAM"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 7,
+  "fuente": "L:7794:art. 124",
+  "estado": "OK",
+  "cita": "como medio de desarrollo y promoción humanos"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 5,
+  "fuente": "L:7794:art. 125",
+  "estado": "OK",
+  "cita": "la dignificación del servicio público"
  },
  {
   "archivo": "t18.md",
   "palabras": 17,
-  "fuente": "RM:alajuelita-ventas:art. 21",
+  "fuente": "D:C-004-2026:apartado III",
   "estado": "OK",
-  "cita": "Mediante estudio técnico, la administración municipal determ"
+  "cita": "a pesar de la vocación de aplicación general y unificadora d"
  },
  {
   "archivo": "t18.md",
-  "palabras": 11,
-  "fuente": "RM:alajuelita-ventas:art. 12",
+  "palabras": 5,
+  "fuente": "L:10159:art. 43",
   "estado": "OK",
-  "cita": "podrá ser reubicado o eliminado sin ninguna responsabilidad "
+  "cita": "generar nuevas obligaciones o derechos"
  },
  {
   "archivo": "t18.md",
-  "palabras": 4,
-  "fuente": "RM:alajuelita-ventas:art. 20",
+  "palabras": 19,
+  "fuente": "D:C-094-2022:apartado II",
   "estado": "OK",
-  "cita": "no tendrá recurso alguno"
+  "cita": "se está dando un beneficio a personas que no ostentan un vín"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 17,
+  "fuente": "D:C-094-2022:apartado II",
+  "estado": "OK",
+  "cita": "deben hacerlo bajo las mismas condiciones en que lo hacen el"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 9,
+  "fuente": "L:7794:art. 155",
+  "estado": "OK",
+  "cita": "fomentar el desarrollo y la formación de su personal"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 18,
+  "fuente": "L:7794:art. 159",
+  "estado": "OK",
+  "cita": "un recurso de apelación para ante el tribunal de trabajo del"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 14,
+  "fuente": "L:7794:art. 159",
+  "estado": "OK",
+  "cita": "si procede el despido o la restitución del empleado o emplea"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 16,
+  "fuente": "L:10159:art. 21",
+  "estado": "OK",
+  "cita": "aplicarán el proceso de despido de acuerdo con su normativa "
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 13,
+  "fuente": "T:2023-000251:considerando II",
+  "estado": "OK",
+  "cita": "no se encuadra en los supuestos del 158 y 159 del Código Mun"
+ },
+ {
+  "archivo": "t18.md",
+  "palabras": 10,
+  "fuente": "T:2023-000251:considerando II",
+  "estado": "OK",
+  "cita": "no existe en este caso recurso de apelación que atender"
  },
  {
   "archivo": "t18.md",
   "palabras": 3,
-  "fuente": "L:6587:art. 3",
+  "fuente": "L:6587:art. 5",
   "estado": "OK",
-  "cita": "la familia propietaria"
+  "cita": "serán cobradas trimestralmente"
  },
  {
   "archivo": "t18.md",
-  "palabras": 3,
-  "fuente": "RM:leoncortes-ventas:art. 5",
+  "palabras": 12,
+  "fuente": "L:10126:art. 7",
   "estado": "OK",
-  "cita": "previo informe técnico"
- },
- {
-  "archivo": "t18.md",
-  "palabras": 8,
-  "fuente": "RM:tarrazu-decomisos:art. 6",
-  "estado": "OK",
-  "cita": "una declaración jurada debidamente protocolizada en escritur"
- },
- {
-  "archivo": "t18.md",
-  "palabras": 11,
-  "fuente": "RM:tarrazu-decomisos:art. 6",
-  "estado": "OK",
-  "cita": "una multa correspondiente al 30% del valor de la mercadería "
- },
- {
-  "archivo": "t18.md",
-  "palabras": 4,
-  "fuente": "RM:puntarenas-ruedas:art. 9",
-  "estado": "OK",
-  "cita": "promover la competencia leal"
- },
- {
-  "archivo": "t18.md",
-  "palabras": 8,
-  "fuente": "L:7794:art. 88",
-  "estado": "OK",
-  "cita": "de acuerdo con las particularidades de sus territorios"
+  "cita": "deberá utilizarse para el mejoramiento general y la segurida"
  }
 ]

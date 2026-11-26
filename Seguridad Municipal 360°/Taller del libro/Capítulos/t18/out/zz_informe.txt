@@ -1,12 +1,12 @@
-CITAS TEXTUALES: 50 | OK: 49
+CITAS TEXTUALES: 66 | OK: 65
   [t18.md] 10p | V:2013-002572:voto salvado | LITERAL (sin localización que cotejar) | "tiene competencia suficiente para dictar el acto que se impu"
 
 UBICACIONES VERIFICADAS A MANO (5):
+  [t18.md] O:IGSMF:p. 50: "el acto administrativo que habilita al particular " (segmentador: ['51'])
   [t18.md] D:C-296-2012:apartado III: "deberá llevarse a cabo de forma que le garantice a" (segmentador: ['VI'])
   [t18.md] D:C-064-2012:apartado II: "debe hacer las intimaciones necesarias al administ" (segmentador: ['I'])
   [t18.md] D:C-064-2012:apartado II: "en el entendido claro está, de que los mismos les " (segmentador: ['I'])
   [t18.md] D:C-078-2006:apartado III: "únicamente a través de una sentencia judicial, rec" (segmentador: ['V'])
-  [t18.md] O:IGSMF:p. 50: "el acto administrativo que habilita al particular " (segmentador: ['51'])
 
 ERRORES (0):
 
