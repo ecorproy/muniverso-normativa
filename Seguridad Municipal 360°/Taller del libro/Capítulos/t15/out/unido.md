@@ -56,6 +56,8 @@ La obra vial tiene, además, una participación orgánica. En la junta vial cant
 
 La Contraloría se refirió en 2024 al plan cantonal de desarrollo humano local, a consulta de la Municipalidad de Montes de Oca. Ese plan, según la definición que la Contraloría toma de la guía de actualización elaborada por el Ministerio de Planificación y el Instituto de Fomento y Asesoría Municipal, es "una propuesta ciudadana participativa, que parte de cómo sueñan sus habitantes el cantón dentro de diez años" (CGR, oficio N.° 00415 [DFOE-LOC-0073], 2024, p. 5). Como plan de largo plazo, debe aprobarse o someterse al conocimiento del jerarca (CGR, oficio 00415, p. 6); no tiene que remitirse a la Contraloría, pero, por transparencia y rendición de cuentas, "podría publicarse en algún lugar de acceso público para consulta de la ciudadanía" (CGR, oficio 00415, p. 7). El documento que nace de la participación vuelve así a quienes participaron. La información como condición de la participación se examina en el tema 14.
 
+El Código fija las fechas en que esa participación puede pesar. En la primera semana de julio, los concejos de distrito presentan la lista de sus programas, requerimientos de financiamiento y prioridades (CM, art. 103). El alcalde debe presentar al Concejo el proyecto de presupuesto ordinario a más tardar el 30 de agosto (CM, art. 104), y el Concejo debe aprobar en firme el presupuesto y el plan anual operativo en setiembre, en sesiones públicas, con el plan aprobado antes que el presupuesto o en la misma sesión (CM, art. 105). El presupuesto se remite a la Contraloría a más tardar el 30 de setiembre (CM, art. 106). Ese calendario viene de la ley de modernización del trámite presupuestario municipal, publicada en La Gaceta del 11 de diciembre de 2025 (CGR, Indicaciones para la formulación de los presupuestos 2027, 2026, p. 4), cuyas reformas al Código rigen desde el 1 de enero del año siguiente a la publicación, es decir, desde 2026 (Ley N.° 10795, 2025, transitorio único). Quien quiera incidir en el presupuesto tiene, por eso, dos momentos fijos: la lista del concejo de distrito en julio y la sesión pública de setiembre.
+
 ## Los pueblos indígenas y tribales
 
 Cuando la decisión afecta directamente a un pueblo indígena o tribal, la participación se convierte en consulta, y la Sala aplica de forma directa el deber de consultarlo del Convenio 169 de la Organización Internacional del Trabajo (voto 2025-029985, cons. VII), aunque el mecanismo de consulta para la población afrodescendiente esté todavía en elaboración (voto 2025-029985, cons. VI). En Talamanca, la consulta no sustituyó a la audiencia del plan regulador ni la audiencia sustituyó a la consulta: ambas eran necesarias, y la que se hizo sin convocar al pueblo afectado no valió por ninguna de las dos.
@@ -186,6 +188,8 @@ Contraloría General de la República. (2024, 19 de enero). *Oficio N.° 00415 (
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
 
+Contraloría General de la República. (2026, julio). *Indicaciones para la formulación y presentación de los presupuestos institucionales, año 2027*. División de Fiscalización Operativa y Evaluativa. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
 Contraloría General de la República. (2026, julio). *Modelo de guía interna de verificación de requisitos del bloque de legalidad presupuestario que deben cumplir las municipalidades en la formulación de su presupuesto inicial y variaciones sujetas a la aprobación presupuestaria de la Contraloría General de la República*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
 
 Decreto Ejecutivo N.° 40137, *Reglamento a la Primera Ley Especial para la Transferencia de Competencias: Atención Plena y Exclusiva de la Red Vial Cantonal*. (2016). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=83583&param2=149263&param3=1
@@ -209,6 +213,8 @@ Ley N.° 8801, *Ley General de transferencia de competencias del Poder Ejecutivo
 Ley N.° 9660, *Ley de Movilidad y Seguridad Ciclística*. (2019). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=88528&param2=145517&param3=1
 
 Ley N.° 10561, *Ley para promover la participación, la prevención de la violencia y el cumplimiento de derechos de las personas jóvenes en los espacios públicos*. (2024). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=103225&param2=143177&param3=1
+
+Ley N.° 10795, *Ley de modernización del trámite presupuestario municipal*. (2025). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
 
 Municipalidad de Grecia. (2021, 19 de abril). *Reglamento para la celebración de consultas populares en el Cantón de Grecia*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=94182&param2=125296&param3=1
 

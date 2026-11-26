@@ -1314,3 +1314,16 @@ El documento de la introducción (ea3a20c9-5590-4348-8143-a9c732845d21) pasa a s
 Cada tema es una subpestaña de su cuadrante, con el mismo título, la misma fecha de firma y el mismo cuerpo que en el documento de su cuadrante. El cuerpo se cargó desde el archivo verificado de cada tema (unido.md del repositorio, de «## El caso» en adelante). Se exportaron las 36 pestañas y todas dan IDÉNTICO contra el original (mismo sha256 y mismos bytes que la última verificación de cada tema). Los identificadores de pestaña de cada tema quedan en `scripts/libro_unido_ids.json`.
 
 Los cuatro documentos de cuadrante no se borraron. Desde ahora las correcciones se hacen en el libro unido; si se corrige un tema, se hace en su subpestaña y se verifica con el mismo ciclo.
+
+### 26 de noviembre de 2026 — Ley 10795 en el libro unido
+
+El autor adjuntó la Ley 10795, *Ley de modernización del trámite presupuestario municipal* (18 de noviembre de 2025; La Gaceta N.° 233 del 11 de diciembre de 2025, según las Indicaciones 2027 de la Contraloría). Se guardó en el repositorio de fuentes (Leyes y decretos nacionales/Municipal/Ley 10795.md). Las reformas al Código rigen desde el 1 de enero de 2026 (transitorio único). Queda resuelta la pregunta abierta sobre el texto de la ley.
+
+Cambios, todos en el libro unido y verificados por exportación:
+
+- t15, «El presupuesto y las obras»: párrafo nuevo con el calendario (CM arts. 103 a 106): lista de los concejos de distrito en la primera semana de julio, proyecto del alcalde al Concejo a más tardar el 30 de agosto, aprobación en firme del presupuesto y del plan anual operativo en setiembre en sesiones públicas, remisión a la Contraloría a más tardar el 30 de setiembre. 68.606 bytes (75e9fd15…), IDÉNTICO.
+- t05: art. 111 CM reformado (aprobación parcial o total por violación del ordenamiento jurídico o por falta de recursos; modificaciones solo con anuencia del concejo), junto a la orden de la Sala a la Contraloría. 54.743 bytes (153ef0a5…), IDÉNTICO.
+- t06: plazos del presupuesto extraordinario (art. 106 CM: quince días naturales desde la aprobación en firme y fecha máxima del 30 de setiembre, salvo excepción) y regla de 2027 de la Contraloría (último día hábil de octubre solo para excepciones de la norma 4.3.11 de las NTPP). 64.922 bytes (625451c2…), IDÉNTICO.
+- t36: Ley 7509, arts. 30 y 33 (al menos el 2 % del impuesto sobre bienes inmuebles a la Junta Administrativa del Registro Nacional; aprobación parcial del presupuesto que no lo contemple, con ajuste administrativo sin acuerdo del Concejo) y art. 99 CM (plan de pago de la deuda; improbación del ingreso por financiamiento y del gasto correspondiente). 93.490 bytes (19edb42f…), IDÉNTICO.
+
+Duda para el autor: el art. 2 de la Ley 10795 fija en el 2 % el giro del art. 30 de la Ley 7509, y el art. 3 reescribe el art. 16 de la Ley 10475 (que a su vez reformaba ese mismo art. 30) con el 1 %. El SINALEVI consolida el art. 30 con el 2 %, y así quedó en el tema 36.

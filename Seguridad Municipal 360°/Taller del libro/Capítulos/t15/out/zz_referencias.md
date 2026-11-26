@@ -6,6 +6,8 @@ Contraloría General de la República. (2024, 19 de enero). *Oficio N.° 00415 (
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
 
+Contraloría General de la República. (2026, julio). *Indicaciones para la formulación y presentación de los presupuestos institucionales, año 2027*. División de Fiscalización Operativa y Evaluativa. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
 Contraloría General de la República. (2026, julio). *Modelo de guía interna de verificación de requisitos del bloque de legalidad presupuestario que deben cumplir las municipalidades en la formulación de su presupuesto inicial y variaciones sujetas a la aprobación presupuestaria de la Contraloría General de la República*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
 
 Decreto Ejecutivo N.° 40137, *Reglamento a la Primera Ley Especial para la Transferencia de Competencias: Atención Plena y Exclusiva de la Red Vial Cantonal*. (2016). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=83583&param2=149263&param3=1
@@ -29,6 +31,8 @@ Ley N.° 8801, *Ley General de transferencia de competencias del Poder Ejecutivo
 Ley N.° 9660, *Ley de Movilidad y Seguridad Ciclística*. (2019). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=88528&param2=145517&param3=1
 
 Ley N.° 10561, *Ley para promover la participación, la prevención de la violencia y el cumplimiento de derechos de las personas jóvenes en los espacios públicos*. (2024). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=103225&param2=143177&param3=1
+
+Ley N.° 10795, *Ley de modernización del trámite presupuestario municipal*. (2025). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
 
 Municipalidad de Grecia. (2021, 19 de abril). *Reglamento para la celebración de consultas populares en el Cantón de Grecia*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=94182&param2=125296&param3=1
 

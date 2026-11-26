@@ -14,5 +14,4 @@ ERRORES (0):
 
 AVISOS (0):
 
-NOTAS DE VOCABULARIO (1):
-  [t36.md] vocabulario «vale la pena»: …os de racionalidad y economicidad deciden si vale la pena iniciar el cobro y que la munici…
+NOTAS DE VOCABULARIO (0):

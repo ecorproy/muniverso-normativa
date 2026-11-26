@@ -20,6 +20,8 @@ Ley N.° 6324, *Ley de Administración Vial*. (1979). Asamblea Legislativa de la
 
 Ley N.° 7717, *Ley Reguladora de los Estacionamientos Públicos*. (1997). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=27728&param2=129776&param3=1
 
+Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40197&param2=152716&param3=1
+
 Ley N.° 8114, *Ley de Simplificación y Eficiencia Tributarias*. (2001). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=46631&param2=152939&param3=1
 
 Ley N.° 9078, *Ley de Tránsito por Vías Públicas Terrestres y Seguridad Vial*. (2012). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=73504&param2=152296&param3=1
