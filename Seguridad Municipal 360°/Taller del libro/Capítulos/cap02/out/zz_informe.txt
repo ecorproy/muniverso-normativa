@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 70 | OK: 58
+CITAS TEXTUALES: 84 | OK: 72
   [all.md] 8p | Tocqueville, s. f. | , p. 76 | SIN FUENTE LOCAL | "centro de las relaciones ordinarias de la vida"
   [all.md] 6p | Pérez Hernández et al., 2019 | , p. 139 | SIN FUENTE LOCAL | "se trata de un concepto relativo"
   [all.md] 10p | Pérez Hernández et al., 2019 | , p. 142 | SIN FUENTE LOCAL | "se defiende una equivalencia entre lo local y el municipio"

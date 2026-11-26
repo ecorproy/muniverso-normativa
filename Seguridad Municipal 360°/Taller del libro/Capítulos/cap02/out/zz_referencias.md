@@ -2,6 +2,8 @@
 
 Constitución Política de la República de Costa Rica. (1949). Asamblea Nacional Constituyente. Sistema Costarricense de Información Jurídica.
 
+Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En *Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local?* Federación Metropolitana de Municipalidades y Municipalidad de San José.
+
 Ley N.° 276, *Ley de Aguas*. (1942). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=11950&param2=91553&param3=1
 
 Ley N.° 833, *Ley de Construcciones*. (1949). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=36307&param2=143894&param3=1
