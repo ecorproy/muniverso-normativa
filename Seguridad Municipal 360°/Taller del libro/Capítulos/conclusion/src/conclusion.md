@@ -30,6 +30,8 @@ No pone a la municipalidad por encima de las instituciones nacionales. La ley or
 
 Y no convierte sus imágenes en fundamento. El micelio, la célula y el método de Holmes sirvieron para explicar. Cada deber que el libro afirma está en una norma, en una sentencia o en un dictamen, y está citado donde se afirma.
 
+Tampoco promete la felicidad de las personas del cantón. Kant separaba la salvación pública del bienestar que un gobierno pudiera definir por los ciudadanos, y la hacía consistir "en la mayor conveniencia de la constitucion con los principios del derecho" (Kant, 1797/1873, p. 174). El libro pide lo mismo a escala local: que lo que el ordenamiento manda prestar llegue a la persona, que es libre de decidir qué hace con ello.
+
 ## Lo que se repite en los temas
 
 Leídos uno detrás de otro, los treinta y seis temas muestran regularidades que ninguno muestra solo.

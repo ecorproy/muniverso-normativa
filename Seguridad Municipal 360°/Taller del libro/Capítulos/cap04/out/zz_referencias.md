@@ -4,6 +4,8 @@ Constitución Política de la República de Costa Rica. (1949). Asamblea Naciona
 
 Cortés García, E. (2026). *Derecho municipal: Impugnación, veto y revisión de actos administrativos*. Tirant lo Blanch.
 
+Kant, I. (1873). *Principios metafísicos del derecho* (G. Lizárraga, Trad.). Librería de Victoriano Suárez. (Trabajo original publicado en 1797)
+
 Ley N.° 2, *Código de Trabajo*. (1943). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=8045&param2=150791&param3=1
 
 Ley N.° 2166, *Ley de Salarios de la Administración Pública*. (1957). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=3672&param2=147114&param3=1

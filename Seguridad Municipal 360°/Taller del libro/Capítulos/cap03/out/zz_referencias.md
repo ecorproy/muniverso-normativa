@@ -2,6 +2,8 @@
 
 Constitución Política de la República de Costa Rica. (1949). Asamblea Nacional Constituyente. Sistema Costarricense de Información Jurídica.
 
+Kant, I. (1873). *Principios metafísicos del derecho* (G. Lizárraga, Trad.). Librería de Victoriano Suárez. (Trabajo original publicado en 1797)
+
 Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En *Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local?* Federación Metropolitana de Municipalidades y Municipalidad de San José.
 
 Ley N.° 4240, *Ley de Planificación Urbana*. (1968). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=35669&param2=143656&param3=1

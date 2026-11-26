@@ -5,12 +5,14 @@ units=[]; cur=None; inref=False
 for x in L:
     m=re.match(r'^# (\d)\. ',x); t=re.match(r'^## (\d+)\. ',x)
     if m: cur=('cap',int(m.group(1))); inref=False; continue
+    if x.startswith('# Conclusión'): cur=('concl',0); inref=False; continue
     if t and not x.startswith('### '): cur=('tema',int(t.group(1))); inref=False; continue
     if x.startswith('### Referencias'): inref=True; continue
     if x.startswith('#'): inref=False; continue
     if inref and x.strip(): units.append((cur,x.strip()))
-for x in extra:
-    if x.strip() and not x.startswith('#'): units.append((('concl',0),x.strip()))
+if not any(c==('concl',0) for c,_ in units):
+    for x in extra:
+        if x.strip() and not x.startswith('#'): units.append((('concl',0),x.strip()))
 def key(ref):
     r=ref.replace('*','')
     if r.startswith('Constitución Política'): return ('L','0','Constitución Política de la República de Costa Rica (1949)')

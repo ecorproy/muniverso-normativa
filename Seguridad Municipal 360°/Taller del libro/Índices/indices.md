@@ -1,0 +1,937 @@
+# Índice de legislación
+
+Cada norma remite a los capítulos y temas en cuyas referencias aparece.
+
+
+### Constitución
+
+- Constitución Política de la República de Costa Rica (1949): capítulos 1, 2, 3, 4; temas 1, 2, 3, 4, 5, 8, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 25, 27, 28, 30, 31, 32, 33, 34, 36; conclusión.
+
+### Leyes
+
+- Ley N.° 2, Código de Trabajo (1943): capítulo 4; temas 1, 10, 11, 18, 20; conclusión.
+- Ley N.° 17, Ley Constitutiva de la Caja Costarricense de Seguro Social CCSS (1943): temas 13, 18.
+- Ley N.° 30, Código Civil (1885): temas 1, 9, 16, 27, 28, 31, 33.
+- Ley N.° 68, Ley de Protección de las Cuencas Hidrograficas (1923): tema 28.
+- Ley N.° 276, Ley de Aguas (1942): capítulo 2; tema 28.
+- Ley N.° 704, Regulación sobre las propiedades y arrendamiento de tumbas en los cementerios (1949): tema 9.
+- Ley N.° 833, Ley de Construcciones (1949): capítulo 2; temas 6, 10, 16, 28, 32, 36.
+- Ley N.° 1634, Ley General de Agua Potable (1953): temas 28, 36.
+- Ley N.° 1860, Ley Orgánica del Ministerio de Trabajo y Seguridad Social (1955): temas 19, 20.
+- Ley N.° 2035, Ley Orgánica del Consejo Nacional de Producción (1956): tema 3.
+- Ley N.° 2160, Ley Fundamental de Educación (1957): tema 25.
+- Ley N.° 2166, Ley de Salarios de la Administración Pública (1957): capítulo 4.
+- Ley N.° 2171, Ley del Patronato Nacional de Ciegos (1957): tema 24.
+- Ley N.° 2391, Disposiciones sobre matrícula y vacunación de perros (1959): temas 1, 31.
+- Ley N.° 2694, Prohibe toda clase de discriminación en materia laboral (1960): tema 10.
+- Ley N.° 2726, Ley Constitutiva Instituto Costarricense Acueductos y Alcantarillados (1961): tema 28.
+- Ley N.° 3284, Código de Comercio (1964): tema 12.
+- Ley N.° 3481, Ley Orgánica del Ministerio de Educación Pública (1965): tema 34.
+- Ley N.° 3503, Ley Reguladora Transporte Remunerado Personas Vehículos Automotores (1965): tema 36.
+- Ley N.° 3535, Ley de Creación de la Comisión Nacional de Nomenclatura (1965): tema 33.
+- Ley N.° 3859, Ley sobre el Desarrollo de la Comunidad (DINADECO) (1967): temas 15, 18, 27, 36.
+- Ley N.° 4179, Ley de Asociaciones Cooperativas (1968): temas 18, 36.
+- Ley N.° 4240, Ley de Planificación Urbana (1968): capítulos 2, 3; temas 12, 13, 15, 27, 28, 32, 33, 36.
+- Ley N.° 4534, Convención Americana sobre Derechos Humanos (Pacto de San José) (1970): tema 10.
+- Ley N.° 4573, Código Penal (1970): temas 10, 14, 16, 31.
+- Ley N.° 4574, Código Municipal (1970): tema 32.
+- Ley N.° 4755, Código de Normas y Procedimientos Tributarios ( Código Tributario ) (1971): temas 17, 18, 19, 29, 31, 36.
+- Ley N.° 4760, Ley de Creación del Instituto Mixto de Ayuda Social (IMAS) (1971): temas 8, 19.
+- Ley N.° 5060, Ley General de Caminos Públicos (1972): capítulos 2, 3; temas 5, 33.
+- Ley N.° 5150, Ley General de Aviación Civil (1973): tema 16.
+- Ley N.° 5176, Faculta a Gobierno y Autónomas para Promover Arte y Cultura Nacionales (1973): tema 34.
+- Ley N.° 5346, Prohíbe Presencia Animales Deambulantes Carreteras y Parajes Públicos (1973): tema 31.
+- Ley N.° 5395, Ley General de Salud (1973): temas 1, 3, 8, 9, 18, 27, 31, 36.
+- Ley N.° 5412, Ley Orgánica del Ministerio de Salud (1973): temas 1, 2.
+- Ley N.° 5476, Código de Familia (1973): tema 19.
+- Ley N.° 5662, Ley de Desarrollo Social y Asignaciones Familiares (1974): tema 12.
+- Ley N.° 6035, Mercados Libres Productores y Artesanos en Locales Municipales (1977): temas 3, 36.
+- Ley N.° 6043, Ley sobre la Zona Marítimo Terrestre (1977): temas 12, 30, 36.
+- Ley N.° 6172, Ley Indígena (1977): tema 10.
+- Ley N.° 6227, Ley General de la Administración Pública (1978): capítulos 2, 3, 4; temas 3, 9, 10, 12, 13, 14, 15, 18, 19, 27, 28, 30, 31, 32, 33, 35, 36; conclusión.
+- Ley N.° 6324, Ley de Administración Vial (1979): tema 5.
+- Ley N.° 6587, Patentes para ventas ambulantes y estacionarias en las vías públicas (1981): temas 12, 18, 36.
+- Ley N.° 6703, Ley sobre Patrimonio Nacional Arqueológico (1981): tema 34.
+- Ley N.° 6723, Ley del Registro y Archivos Judiciales (1982): tema 16.
+- Ley N.° 6815, Ley Orgánica de la Procuraduría General de la República (1982): capítulos 2, 3; tema 9.
+- Ley N.° 6844, Establece Impuesto a Espectáculos Públicos a favor de Municipalidades, reforma norma Todos bienes muebles e inmuebles, rentas y recursos de Junta Nacional de la Habitación y 'Cooperativas Casas Baratas, La Familia', pasará a la CCSS (1983): tema 34.
+- Ley N.° 6968, Convención sobre la eliminación de todas las formas de discriminación contra la mujer (1984): tema 11.
+- Ley N.° 6990, Incentivos para el Desarrollo Turístico (1985): tema 34.
+- Ley N.° 7052, Ley del Sistema Financiero Nacional para la Vivienda y Creación del BANHVI (Banco Hipotecario de la Vivienda) (1986): tema 26.
+- Ley N.° 7135, Ley de la Jurisdicción Constitucional (1989): capítulo 3; tema 28.
+- Ley N.° 7142, Ley de Promoción de la Igualdad Social de la Mujer (1990): temas 11, 20.
+- Ley N.° 7169, Promoción Desarrollo Científico y Tecnológico y Creación del MICYT(Ministerio de Ciencia y Tecnología) (1990): tema 17.
+- Ley N.° 7184, Convención sobre los Derechos del Niño (1990): tema 21.
+- Ley N.° 7202, Ley del Sistema Nacional de Archivos (1990): tema 14.
+- Ley N.° 7210, Ley de Régimen de Zonas Francas (1990): tema 36.
+- Ley N.° 7317, Ley de Conservación de la Vida Silvestre (1992): temas 30, 31.
+- Ley N.° 7410, Ley General de Policía (1994): tema 4.
+- Ley N.° 7430, Ley de Fomento de la Lactancia Materna (1994): tema 20.
+- Ley N.° 7440, Ley de Espectáculos Públicos, Materiales Audiovisuales e Impresos (1994): tema 34.
+- Ley N.° 7451, Ley de Bienestar de los Animales (1994): temas 31, 36.
+- Ley N.° 7476, Ley contra Hostigamiento o Acoso Sexual en el Empleo y la Docencia (1995): tema 11.
+- Ley N.° 7509, Ley de Impuesto sobre Bienes Inmuebles (1995): temas 10, 19, 32, 36.
+- Ley N.° 7530, Ley de Armas y Explosivos (1995): temas 4, 26, 27.
+- Ley N.° 7552, Subvención a las Juntas de Educación y Juntas Administrativas por las Municipalidades (1995): temas 21, 22.
+- Ley N.° 7554, Ley Orgánica del Ambiente (1995): temas 1, 15, 27, 30, 31.
+- Ley N.° 7555, Patrimonio Histórico-Arquitectónico de Costa Rica (1995): tema 34.
+- Ley N.° 7566, Creación del Sistema de Emergencias 911 (1995): tema 6.
+- Ley N.° 7575, Ley Forestal (1996): tema 30.
+- Ley N.° 7576, Ley de Justicia Penal Juvenil (1996): tema 22.
+- Ley N.° 7586, Ley contra la Violencia Doméstica (1996): tema 26.
+- Ley N.° 7593, Ley de la Autoridad Reguladora de los Servicios Públicos (ARESEP) (1996): temas 17, 28.
+- Ley N.° 7600, Ley de Igualdad de Oportunidades para las Personas con Discapacidad (1996): temas 10, 13, 14, 17, 21, 22, 24.
+- Ley N.° 7648, Ley Orgánica del Patronato Nacional de la Infancia (1996): tema 21.
+- Ley N.° 7717, Ley Reguladora de los Estacionamientos Públicos (1997): temas 5, 33.
+- Ley N.° 7727, Resolución Alterna de Conflictos y Promoción de la Paz Social RAC (1997): tema 27.
+- Ley N.° 7739, Código de la Niñez y la Adolescencia (1998): temas 12, 20, 21, 22, 26, 34, 35.
+- Ley N.° 7756, Beneficios para los Responsables de Pacientes en Fase Terminal y Personas Menores de Edad Gravemente Enfermas (1998): tema 25.
+- Ley N.° 7779, Uso, Manejo y Conservación de Suelos (1998): temas 1, 30.
+- Ley N.° 7786, Ley sobre estupefacientes, sustancias psicotrópicas, drogas de uso No Autorizado, actividades Conexas, legitimación de capitales y financiamiento al terrorismo (1998): tema 7.
+- Ley N.° 7788, Ley de Biodiversidad (1998): tema 30.
+- Ley N.° 7794, Código Municipal (1998): capítulos 1, 2, 3, 4; temas 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36; conclusión.
+- Ley N.° 7800, Crea Instituto del Deporte y Recreación (ICODER) y su Régimen Jurídico (1998): temas 1, 35.
+- Ley N.° 7801, Ley del Instituto Nacional de las Mujeres (1998): temas 11, 26.
+- Ley N.° 7935, Ley Integral para la Persona Adulta Mayor (1999): temas 13, 23, 25, 26, 32.
+- Ley N.° 7948, Convención Interamericana para la eliminación de todas las formas de discriminación contra las personas con discapacidad (1999): tema 24.
+- Ley N.° 7972, Impuestos sobre Cigarrillos y Licores para Plan de Protección Social (1999): temas 7, 25.
+- Ley N.° 8114, Ley de Simplificación y Eficiencia Tributarias (2001): temas 5, 10, 33, 36.
+- Ley N.° 8173, Ley General de Concejos Municipales de Distrito (2001): tema 36.
+- Ley N.° 8220, Protección al ciudadano del exceso de requisitos y trámites administrativos (2002): temas 13, 36.
+- Ley N.° 8228, Ley del Benemérito Cuerpo de Bomberos de Costa Rica (2002): tema 6.
+- Ley N.° 8261, Ley General de la Persona Joven (2002): temas 15, 22.
+- Ley N.° 8262, Ley de Fortalecimiento de las Pequeñas y Medianas Empresas (2002): tema 36.
+- Ley N.° 8292, Ley General de Control Interno (2002): temas 14, 16.
+- Ley N.° 8306, Ley para asegurar, en los espectáculos públicos espacios, exclusivos para personas con discapacidad. (2002): tema 24.
+- Ley N.° 8422, Ley contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública (2004): capítulos 3, 4; tema 14; conclusión.
+- Ley N.° 8436, Ley de Pesca y Acuicultura (2005): temas 30, 31.
+- Ley N.° 8454, Ley de Certificados, Firmas Digitales y Documentos Electrónicos (2005): temas 13, 17.
+- Ley N.° 8488, Ley Nacional de Emergencias y Prevención del Riesgo (2005): temas 2, 6, 36.
+- Ley N.° 8495, Ley General del Servicio Nacional de Salud Animal (2006): tema 31.
+- Ley N.° 8508, Código Procesal Contencioso-Administrativo (2006): capítulo 4.
+- Ley N.° 8533, Regulación de las Ferias del Agricultor (2006): temas 3, 36.
+- Ley N.° 8589, Ley de Penalización de la Violencia Contra las Mujeres (2007): tema 26.
+- Ley N.° 8591, Ley de Desarrollo, Promoción y Fomento de la Actividad Agropecuaria Orgánica (2007): tema 3.
+- Ley N.° 8642, Ley General de Telecomunicaciones (2008): tema 17.
+- Ley N.° 8661, Aprueba Convención sobre los Derechos de las Personas con Discapacidad y su Protocolo (2008): temas 24, 25.
+- Ley N.° 8668, Regulación de la Extracción de Materiales de Canteras y Cauces de Dominio Público por Parte de las Municipalidades (2008): tema 33.
+- Ley N.° 8688, Creación del Sistema Nacional para la Atención y Prevención de la Violencia contra las Mujeres y la Violencia Intrafamiliar (2008): temas 11, 26.
+- Ley N.° 8700, Modificación de la Ley Orgánica del Consejo Nacional de Producción, N° 2035, y sus reformas (2008): tema 3.
+- Ley N.° 8718, Autorización para el cambio de nombre de la Junta de Protección Social y establecimiento de la distribución de rentas de las loterías nacionales (2009): tema 8.
+- Ley N.° 8724, Fomento del Turismo Rural Comunitario (2009): tema 36.
+- Ley N.° 8764, Ley General de Migración y Extranjería (2009): tema 12.
+- Ley N.° 8765, Código Electoral (2009): tema 15.
+- Ley N.° 8799, Control de Ganado Bovino, prevención y sanción de su Robo, Hurto y Receptación (2010): tema 31.
+- Ley N.° 8801, Ley General de transferencia de competencias del Poder Ejecutivo a las Municipalidades (2010): capítulos 2, 3; tema 15.
+- Ley N.° 8809, Creación de la Dirección Nacional de Centros de Educación y Nutrición y de Centros Infantiles de atención integral (2010): tema 20.
+- Ley N.° 8828, Ley Reguladora de la Actividad de las Sociedades Públicas de Economía Mixta (2010): temas 28, 30, 31, 32, 36.
+- Ley N.° 8839, Ley para la Gestión Integral de Residuos (2010): temas 29, 36.
+- Ley N.° 8862, Inclusión y Protección Laboral de las personas con discapacidad en el Sector Público (2010): temas 10, 24.
+- Ley N.° 8892, Regulación de mecanismos de vigilancia del acceso a barrios residenciales con el fin de garantizar el derecho fundamental a la libertad de tránsito (2010): temas 4, 27.
+- Ley N.° 8894, Creación del Sistema Nacional de Educación Musical (2010): tema 34.
+- Ley N.° 8934, Protección de la niñez y la adolescencia frente al contenido nocivo de Internet y otros medios electrónicos (2011): tema 17.
+- Ley N.° 8968, Ley de Protección de la Persona frente al tratamiento de sus datos personales (2011): temas 14, 16.
+- Ley N.° 8992, Fortalecimiento económico del Benemérito Cuerpo de Bomberos de Costa Rica (2011): tema 6.
+- Ley N.° 9017, Tarifa de Impuestos Municipales del Cantón de Poás (2011): tema 29.
+- Ley N.° 9028, Ley General de Control del Tabaco y sus efectos nocivos en la salud (2012): temas 1, 7.
+- Ley N.° 9036, Transforma el Instituto de Desarrollo Agrario (IDA) en el Instituto de Desarrollo Rural (INDER) y Crea Secretaría Técnica de Desarrollo Rural (2012): tema 36.
+- Ley N.° 9046, Traslado del Sector Telecomunicaciones del Ministerio de Ambiente, Energía y Telecomunicaciones al Ministerio de Ciencia y Tecnología (2012): tema 17.
+- Ley N.° 9047, Ley de Regulación y Comercialización de bebidas con contenido alcohólico (2012): temas 7, 21, 27.
+- Ley N.° 9078, Ley de Tránsito por Vías Públicas Terrestres y Seguridad Vial (2012): temas 5, 29.
+- Ley N.° 9095, Ley contra la Trata de Personas y Creación de la Coalición Nacional contra el Tráfico Ilícito de Migrantes y la Trata de Personas (CONATT) (2012): tema 12.
+- Ley N.° 9097, Ley de Regulación del Derecho de Petición (2012): temas 12, 13, 14.
+- Ley N.° 9137, Crea Sistema Nacional de Información y Registro Único de Beneficiarios del Estado (SINIRUBE) (2013): tema 19.
+- Ley N.° 9145, Ley para la prevención y sanción de la Violencia en eventos Deportivos (2013): tema 27.
+- Ley N.° 9158, Ley Reguladora del Sistema Nacional de Contraloría de Servicios (2013): tema 13.
+- Ley N.° 9171, Creación de las Comisiones Institucionales sobre Accesibilidad y Discapacidad (CIAD) (2013): tema 24.
+- Ley N.° 9220, Crea la Red Nacional de Cuido y Desarrollo Infantil (2014): temas 11, 19, 20, 21, 25.
+- Ley N.° 9242, Ley para la regulación de las construcciones existentes en la Zona Restringida de la Zona Marítimo Terrestre (2014): tema 32.
+- Ley N.° 9303, Creación del Consejo Nacional de Personas con Discapacidad (2015): temas 23, 24.
+- Ley N.° 9329, Ley Especial para la Transferencia de Competencias: Atención Plena y Exclusiva de la Red Vial Cantonal (2015): temas 5, 10, 30, 33, 35, 36.
+- Ley N.° 9342, Código Procesal Civil (2016): tema 30.
+- Ley N.° 9379, Ley para Promoción de la Autonomía Personal de las Personas con Discapacidad (2016): tema 25.
+- Ley N.° 9458, Reformas de la ley N° 4573, Código Penal y ley N° 7451, Ley de Bienestar de los Animales (2017): tema 31.
+- Ley N.° 9518, Incentivos y promoción para el transporte eléctrico (2018): tema 5.
+- Ley N.° 9542, Ley de Fortalecimiento de la Policía Municipal (2018): tema 8.
+- Ley N.° 9609, Código Procesal Agrario (2018): tema 30.
+- Ley N.° 9660, Ley de Movilidad y Seguridad Ciclística (2019): temas 5, 15, 33.
+- Ley N.° 9786, Ley para combatir la contaminación por plástico y proteger el ambiente (2019): tema 29.
+- Ley N.° 9797, Ley General sobre el VIH SIDA (2019): tema 10.
+- Ley N.° 9822, Reconocimiento y promoción de la Lenguaje de Señas Costarricense (LESCO), declara el 19 de julio Día de la Lengua de Señas Costarricense (lesco), declara el 21 de setiembre Día de la Comunidad de Personas Sordas de Costa Rica (2020): temas 10, 13, 14, 17, 24.
+- Ley N.° 9828, Uso de materiales reutilizables en pavimentos y obras de infraestructura vial (2020): tema 29.
+- Ley N.° 9848, Ley para apoyar al contribuyente local, y reforzar la gestión financiera de las municipalidades, ante la emergencia nacional por la pandemia del covid-19 (2020): temas 19, 36.
+- Ley N.° 9877, Ley contra el acoso sexual callejero (2020): tema 11.
+- Ley N.° 9976, Movilidad peatonal (2021): temas 30, 33, 36.
+- Ley N.° 9986, Ley General de Contratación Pública (2021): temas 3, 6, 14, 20, 26, 36.
+- Ley N.° 10000, Ampliación de los alcances de la ley N° 9577, Protección a los ocupantes de zonas clasificadas como especiales (2021): tema 32.
+- Ley N.° 10009, Ley para la creación de albergues para las personas en situaciones de abandono y situación de calle (2021): tema 8.
+- Ley N.° 10025, Fomento a la lectura, el libro y las bibliotecas (2021): tema 34.
+- Ley N.° 10046, Crea la oficina de la persona adulta mayor y de personas en situación de discapacidad en las Municipalidades (2021): tema 23.
+- Ley N.° 10113, Ley del cannabis para uso medicinal y terapéutico y del cáñamo para uso alimentario e industrial (2022): tema 7.
+- Ley N.° 10124, Ley para la conservación y desarrollo sostenible de los ecosistemas de humedales de San Vito de Coto Brus (2022): tema 30.
+- Ley N.° 10126, Ley de comercio al aire libre (2022): temas 18, 27, 36.
+- Ley N.° 10141, Servicio municipal de atención de animales de compañía (2022): temas 1, 31, 36.
+- Ley N.° 10158, Consolidación del Centro Operativo de atención a la violencia intrafamiliar y la Violencia contra las Mujeres (COAVIFMU) y declaratoria de los servicios de atención de la violencia contra las mujeres como servicio esencial (2022): tema 26.
+- Ley N.° 10159, Ley Marco de Empleo Público (2022): capítulo 4; temas 2, 18, 20, 24, 25; conclusión.
+- Ley N.° 10163, Ley para el fortalecimiento de facilidades comunales y programas sociales municipales (2022): tema 23.
+- Ley N.° 10192, Creación del Sistema Nacional de Cuidados y Apoyos para Personas Adultas y Personas Adultas Mayores en Situación de Dependencia (Sinca) (2022): temas 9, 25.
+- Ley N.° 10199, Ley de vivienda municipal (2022): temas 19, 32.
+- Ley N.° 10214, Creación del régimen especial de viviendas comunitarias para garantizar el acceso al derecho de la vivienda a la persona adulta mayor en condición de vulnerabilidad (2022): tema 32.
+- Ley N.° 10216, Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica (2022): tema 17.
+- Ley N.° 10235, Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en la Política (2022): tema 11.
+- Ley N.° 10245, Ley de cuidados paliativos (2022): tema 9.
+- Ley N.° 10254, Ley especial para el comercio sobre ruedas (2022): temas 1, 3, 18, 36.
+- Ley N.° 10327, Ley para garantizar la paridad de género en la conformación de órganos colegiados de los Gobiernos Locales (2023): tema 11.
+- Ley N.° 10337, Ley para eliminar un impuesto sobre la venta de cerveza importada (2023): tema 34.
+- Ley N.° 10359, Apoyo municipal para adultos mayores en pobreza (2023): temas 8, 19, 23.
+- Ley N.° 10412, Ley de salud mental (2023): temas 2, 7.
+- Ley N.° 10475, Ley de Prevención de la violencia en personas menores de edad y personas jóvenes (2024): temas 22, 36.
+- Ley N.° 10476, Prevención, detección temprana y respuesta de la violencia contra la niñez y adolescencia (2024): tema 21.
+- Ley N.° 10515, Ley de Modernización de la Policía Municipal (2024): tema 4.
+- Ley N.° 10554, Ley Marco de Acceso a la Información Pública (2024): temas 14, 16, 17.
+- Ley N.° 10561, Ley para promover la participación, la prevención de la violencia y el cumplimiento de derechos de las personas jóvenes en los espacios públicos (2024): temas 15, 22, 27.
+- Ley N.° 10594, Reforma Código Municipal y Ley de Planificación Urbana (2024): tema 36.
+- Ley N.° 10626, Ley para el fortalecimiento de los Comités Cantonales de Deportes y Recreación (2024): tema 35.
+- Ley N.° 10718, Ley para la Creación de la Política Nacional de Ferias Institucionales y Comerciales (2025): temas 3, 18.
+- Ley N.° 10725, Ley para garantizar la atención psicológica de personas con ideación suicida por medio del Sistema de Emergencia 9-1-1 (2025): tema 2.
+- Ley N.° 10750, Ley marco para prevenir y atender los trastornos de conducta alimentaria (TCA) (2025): temas 2, 35.
+- Ley N.° 10795, Ley de modernización del trámite presupuestario municipal (2025): tema 15.
+- Ley N.° 10812, Ley para fortalecer las Asociaciones y Organizaciones de Bienestar Animal (2025): tema 31.
+- Ley N.° 10939, Ley de arbolado urbano (2026): temas 30, 36.
+- Ley N.° 10942, Ley para el cumplimiento, control y penalización de las quemas en terrenos de aptitud agrícola y pecuaria (2026): tema 1.
+- Ley N.° 10981, Ley de creación del Ministerio de Vivienda y Asentamientos Humanos (2026): tema 32.
+
+### Decretos ejecutivos
+
+- Decreto Ejecutivo N.° 26831, Reglamento Ley de Igualdad de Oportunidades para Personas con Discapacidad (1998): tema 24.
+- Decreto Ejecutivo N.° 32675, Declara de interés público el Proyecto «Centros Comunitarios de Acceso a Internet» (C.C.A.I.) (2005): tema 17.
+- Decreto Ejecutivo N.° 32833, Reglamento General de Cementerios (2005): tema 9.
+- Decreto Ejecutivo N.° 37045, Reglamento a la Ley de Protección al Ciudadano del Exceso de Requisitos y Trámites Administrativos (2012): tema 13.
+- Decreto Ejecutivo N.° 37554, Reglamento a la Ley de Protección de la Persona frente al Tratamiento de sus Datos Personales (2012): tema 16.
+- Decreto Ejecutivo N.° 37567, Reglamento General a la Ley para la Gestión Integral de Residuos (2012): tema 29.
+- Decreto Ejecutivo N.° 40137, Reglamento a la Primera Ley Especial para la Transferencia de Competencias: Atención Plena y Exclusiva de la Red Vial Cantonal (2016): temas 5, 10, 15.
+- Decreto Ejecutivo N.° 42075, Reglamento para la disposición al subsuelo de aguas residuales ordinarias tratadas (2019): tema 28.
+- Decreto Ejecutivo N.° 43808, Reglamento a la Ley General de Contratación Pública (2022): tema 36.
+- Decreto Ejecutivo N.° 43952, Reglamento a la Ley Marco de Empleo Público (2023): tema 2.
+- Decreto Ejecutivo N.° 44615, Reglamento RAC-RPAS Regulaciones Aeronáuticas Costarricenses, Operaciones con el Sistema de Aeronave piloteadas a Distancia (2023): tema 16.
+- Decreto Ejecutivo N.° 45993, Reglamento a la Ley Marco de Acceso a la Información Pública (2026): tema 14.
+
+### Reglamentos y políticas municipales
+
+- Reglamento del Comité de la Persona Joven de Cervantes, Concejo Municipal de Distrito de Cervantes (2026): tema 22.
+- Reglamento general del servicio de la Oficina de la mujer del Concejo Municipal del Distrito de Cóbano, Concejo Municipal de Distrito de Cóbano (2023): temas 11, 26.
+- Reglamento para el otorgamiento de permisos de uso de la Zona Marítimo Terrestre en el Distrito de Lepanto, Concejo Municipal de Distrito de Lepanto (2024): tema 12.
+- Reglamento para la instalación y eliminación de reductores de velocidad en las vías públicas terrestres de acuerdo al decreto 40601-MOPT, para la Municipalidad de Acosta, Municipalidad de Acosta (2018): tema 5.
+- Reglamento de espectáculos públicos, actividades y eventos de la Municipalidad de Alajuela, Municipalidad de Alajuela (2021): tema 27.
+- Reglamento de sesiones virtuales del concejo municipal de Alajuela, Municipalidad de Alajuela (2020): tema 17.
+- Reglamento de ventas ambulantes y estacionarias de la Municipalidad de Alajuela, Municipalidad de Alajuela (2021): tema 12.
+- Reglamento del Mercado Municipal de Alajuela, Municipalidad de Alajuela (2014): tema 3.
+- Reglamento general de licencias comerciales de la Municipalidad del Cantón Central de Alajuela, Municipalidad de Alajuela (2021): tema 12.
+- Reglamento para el Uso, Funcionamiento y Conservación del Teatro Municipal de Alajuela, Municipalidad de Alajuela (2016): tema 34.
+- Política de niñez y adolescencia para el cantón de Alajuelita 2019-2029, Municipalidad de Alajuelita (2022): temas 2, 21.
+- Reglamento para la regulación y el otorgamiento de licencias para ventas ambulantes y estacionarias, Municipalidad de Alajuelita (2025): tema 18.
+- Reglamento General del Mercado, Municipalidad de Atenas (2009): tema 8.
+- Reglamento del Consejo local de Seguridad Vial (COLOSEVI) de la Municipalidad de Atenas, Municipalidad de Atenas (2012): tema 5.
+- Reglamento para el otorgamiento de ayudas temporales a los y las habitantes del Cantón de Barva, Municipalidad de Barva (2020): tema 8.
+- Reglamento de Reclutamiento y Selección de Personal de la Municipalidad de Belén, Municipalidad de Belén (2026): tema 10.
+- Reglamento de la Comisión Permanente de la Condición de la Mujer de la Municipalidad de Belén, Municipalidad de Belén (2024): tema 11.
+- Reglamento de uso de redes sociales, de la Municipalidad de Belén, Municipalidad de Belén (2024): tema 14.
+- Reglamento para regular el funcionamiento y operación de los centros de cuido y desarrollo infantil gestionados por la Municipalidad de Belén, Municipalidad de Belén (2025): tema 20.
+- Reglamento autónomo para la planificación, dirección y administración de los cementerios municipales del cantón de Buenos Aires, Municipalidad de Buenos Aires (2026): tema 9.
+- Reglamento de Sesiones del Concejo Municipal del Cantón de Buenos Aires, Municipalidad de Buenos Aires (2026): tema 14.
+- Reforma integral Reglamento del programa de transferencia monetaria condicionada de la Municipalidad de Cartago, Municipalidad de Cartago (2026): tema 12.
+- Reglamento Interno para el ingreso y el uso del Centro Diurno de Atención a la persona Adulta Mayor, Municipalidad de Cartago (2015): tema 25.
+- Reglamento de Bienales Bidimensional Y Tridimensional Museo Municipal de Cartago, Municipalidad de Cartago (2026): tema 34.
+- Reglamento de Organización y Funcionamiento del Centro Municipal de Educación para el Cuido Animal, Municipalidad de Cartago (2016): tema 31.
+- Reglamento para el trámite de declaratorias de interés cultural de la Municipalidad de Cartago, Municipalidad de Cartago (2024): tema 34.
+- Reglamento para la atención de las adicciones al alcohol y otras sustancias psicoactivas de las personas colaboradoras de la Municipalidad de Cartago y su régimen disciplinario, Municipalidad de Cartago (2024): temas 2, 7.
+- Reglamento para otorgar subsidios a personas adultas mayores en condición de riesgo social con fondos municipales, Municipalidad de Cartago (2026): tema 23.
+- Reglamento de la Feria Municipal del Mercado Libre del Agricultor., Municipalidad de Cañas (2004): tema 3.
+- Reglamento de organización y funcionamiento de los mercados municipales, terminales y otros inmuebles de arriendo del Cantón de Corredores, Municipalidad de Corredores (2025): tema 12.
+- Reforma integral Reglamento para licencias municipales de la Municipalidad de Curridabat, Municipalidad de Curridabat (2017): tema 12.
+- Reglamento apoyo municipal para adultos mayores en pobreza de la Municipalidad de Curridabat, Municipalidad de Curridabat (2026): tema 23.
+- Reglamento de espectáculos públicos de la Municipalidad de Curriidabat, Municipalidad de Curridabat (2024): tema 27.
+- Reglamento para la Gestión de Riesgo y Atención de Emergencias y Desastres en el cantón de Curridabat, Municipalidad de Curridabat (2007): tema 6.
+- Política cantonal de niñez y adolescencias del cantón de Desamparados, y su plan de acción interinstitucional 2024-2028, Municipalidad de Desamparados (2023): capítulo 1; temas 2, 21, 22.
+- Reglamento de becas culturales de la Sinfónica Municipal de Desamparados, Municipalidad de Desamparados (2022): tema 34.
+- Reglamento de comunicación, página web y redes sociales de la Municipalidad de Desamparados, Municipalidad de Desamparados (2024): tema 14.
+- Política para la No Discriminación motivada por la Orientación Sexual o la Identidad de Género de la Municipalidad de El Guarco, Municipalidad de El Guarco (2015): tema 10.
+- Reforma Integral Reglamento para el nombramiento y funcionamiento del Comité Cantonal de Deportes y Recreación del Cantón de Escazú y de los Comités Comunales, Municipalidad de Escazú (2025): tema 35.
+- Reforma Integral Reglamento para el otorgamiento de becas para estudio a munícipes de Escazú, Municipalidad de Escazú (2025): tema 12.
+- Reglamento General Programa Municipal para la persona adulta mayor Legado de Alegría, Municipalidad de Escazú (2026): tema 23.
+- Reglamento del Sistema Integral Policial de Comando y Control de Escazú (SIPCO), Municipalidad de Escazú (2020): tema 16.
+- Reglamento municipal de cementerios para el Cantón de Escazú, Municipalidad de Escazú (2017): tema 9.
+- Reglamento para brigadistas ad-honorem de seguridad vial y atención de emergencias y monitoreos preventivos, Municipalidad de Escazú (2018): tema 6.
+- Reglamento para la conformación, organización y funcionamiento del Comité Cantonal de la Persona Joven de Escazú, Municipalidad de Escazú (2024): tema 22.
+- Reglamento para manejo de obras de arte propiedad de la Municipalidad de Escazú, Municipalidad de Escazú (2022): tema 34.
+- Reglamento para otorgar ayudas temporales a vecinos del Cantón de Escazú en situación transitoria de desgracia o infortunio, Municipalidad de Escazú (2025): temas 9, 19.
+- Reglamento para regular el funcionamiento y operación de los Centros de Cuido y Desarrollo Infantil CECUDI del Cantón de Escazú, Municipalidad de Escazú (2023): temas 3, 20.
+- Reglamento para regular el otorgamiento y funcionamiento del servicio municipal de transporte para personas con discapacidad del Cantón de Escazú, Municipalidad de Escazú (2025): tema 24.
+- Reglamento para la Instalación de los Locales de Servicio Público de Internet de la Municipalidad de Esparza., Municipalidad de Esparza (2001): tema 17.
+- Política de Diversidad, inclusión y no discriminación de Garabito, Municipalidad de Garabito (2020): tema 10.
+- Reglamento de ventas ambulantes y estacionarias, Municipalidad de Garabito (2024): tema 12.
+- Reglamento municipal para la implementación de la ley N° 9660 de movilidad y seguridad ciclística en el cantón de Garabito, Municipalidad de Garabito (2025): tema 33.
+- Reglamento para el Uso de los Centros Inteligentes, Municipalidad de Garabito (2011): tema 17.
+- Política publica cantonal declaratoria del cantón libre de estigma y discriminación, Municipalidad de Goicoechea (2021): tema 2.
+- Reglamento de Organización y Funcionamiento del Mercado Libre de Guadalupe, Municipalidad de Goicoechea (2005): tema 3.
+- Reglamento de organización y funcionamiento de la junta administrativa de cementerios del cantón de Goicoechea, Municipalidad de Goicoechea (2023): tema 9.
+- Reglamento interno contra la discriminación, Municipalidad de Goicoechea (2013): tema 10.
+- Reglamento para el otorgamiento de incentivos económicos para el deporte y la música en el Cantón de Goicoechea, Municipalidad de Goicoechea (2024): tema 34.
+- Reglamento municipal de Golfito apoyo municipal para adultos mayores en pobreza, ley N° 10359, Municipalidad de Golfito (2023): tema 23.
+- Reglamento para la administración de los cementerios Municipales del cantón de Golfito, Municipalidad de Golfito (2021): tema 9.
+- Reglamento de Regulación y Comercialización de Bebidas con Contenido Alcohólico de la Municipalidad de Grecia, Municipalidad de Grecia (2015): tema 7.
+- Reglamento de policía municipal del Cantón de Grecia, Municipalidad de Grecia (2026): temas 4, 27, 31.
+- Reglamento para la celebración de consultas populares en el Cantón de Grecia, Municipalidad de Grecia (2021): tema 15.
+- Reglamento para la oficina municipal de la persona adulta mayor y de la persona con discapacidad de Grecia, Municipalidad de Grecia (2025): temas 2, 23.
+- Reglamento Autónomo de Organización y Servicios de la Municipalidad del Cantón de Guatuso, Municipalidad de Guatuso (2018): tema 2.
+- Reglamento de la Comisión de Accesibilidad y Discapacidad (COMAD), Municipalidad de Heredia (2011): tema 24.
+- Reglamento de los cementerios de la Municipalidad de Heredia, Municipalidad de Heredia (2026): temas 8, 9.
+- Reglamento para la administración y funcionamiento del Palacio de los Deportes de Heredia, Municipalidad de Heredia (2026): tema 2.
+- Reglamento para la adquisición, retiro y donación de los canes de la Unidad Canina de la Policía Municipal de Heredia, Municipalidad de Heredia (2018): tema 31.
+- Reglamento regulador para la vigilancia de vías públicas mediante dispositivos tecnológicos o técnicos (excepto drones) de la Municipalidad de Heredia, Municipalidad de Heredia (2019): temas 4, 16.
+- Reglamento de movilidad peatonal del Cantón de La Unión, Municipalidad de La Unión (2025): tema 24.
+- Reglamento de regularización de construcciones del cantón de la Unión, Municipalidad de La Unión (2022): tema 16.
+- Reglamento interno contra el hostigamiento y acoso sexual del comité cantonal de deportes y recreación de la unión, Municipalidad de La Unión (2025): tema 11.
+- Reglamento para regular el funcionamiento y operación de la Oficina Municipal de la Persona Adulta Mayor y de la Persona con Discapacidad de la Municipalidad de La Unión, Municipalidad de La Unión (2024): temas 25, 26.
+- Reglamento de ventas ambulantes, estacionarias y comercio sobre ruedas en espacios y vías públicas, Municipalidad de León Cortés (2025): tema 18.
+- Reglamento para ayudas y becas de la Municipalidad de Liberia, Municipalidad de Liberia (2019): tema 12.
+- Adhesión de la Municipalidad de Limón al Decreto Ejecutivo N° 44335 'Reglamento a la Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica, sobre los procedimientos y especificaciones de la infraestructura, Municipalidad de Limón (2025): tema 17.
+- Reglamento de ayudas temporales a las y los habitantes del Cantón de Matina, Municipalidad de Matina (2020): tema 12.
+- Reglamento de funcionamiento del Centro de la Cultura de Montes de Oca (CCMO), Municipalidad de Montes de Oca (2026): tema 34.
+- Reglamento de servicios públicos de la Municipalidad de Montes de Oca, Municipalidad de Montes de Oca (2023): tema 31.
+- Reglamento para el uso, mantenimiento y protección de los parques y espacios públicos del cantón de Montes de Oca, Municipalidad de Montes de Oca (2025): tema 8.
+- Reglamento para la audiencia pública del proceso de actualización y modificación del Plan Regulador del Cantón de Montes de Oca, Municipalidad de Montes de Oca (2026): tema 15.
+- Reglamento para el Programa de Vivienda Municipal, Municipalidad de Montes de Oro (2006): tema 32.
+- Reglamento para el Manejo de Residuos Sólidos del Cantón de Monteverde, Municipalidad de Monteverde (2026): tema 29.
+- Reglamento autónomo de organización y funcionamiento del mercado municipal de Ciudad Colón en el Cantón de Mora, Municipalidad de Mora (2025): tema 12.
+- Reglamento del programa red de atención progresiva para el cuido integral de las personas adultas mayores en el cantón de Mora, Municipalidad de Mora (2022): temas 23, 25.
+- Reglamento para el otorgamiento de ayudas temporales a sujetos privados y públicos del Cantón de Mora que enfrenten situaciones de desgracia o infortunio, Municipalidad de Mora (2023): tema 8.
+- Reglamento de organización y funcionamiento de la Benemérita banda Municipal de Moravia, Municipalidad de Moravia (2026): tema 34.
+- Reglamento de participación ciudadana de la Municipalidad de Moravia, Municipalidad de Moravia (2026): tema 15.
+- Reglamento del Cuerpo de la Policía Municipal Moravia, Municipalidad de Moravia (2014): tema 26.
+- Reglamento del concejo municipal de Moravia, Municipalidad de Moravia (2019): tema 14.
+- Reglamento para el cobro de tasas por los servicios de manejo integral de residuos sólidos ordinarios, limpieza de vías y sitios públicos, alcantarillado pluvial y mantenimiento de parques, zonas verdes y obras de ornato de la Municipalidad de Moravia, Municipalidad de Moravia (2026): tema 29.
+- Reglamento para el uso de áreas públicas del Cantón, Municipalidad de Moravia (2025): tema 31.
+- Reglamento para regular el funcionamiento y operación de la Oficina de las personas con Discapacidad Municipalidad de Moravia, Municipalidad de Moravia (2023): tema 24.
+- Reglamento para regular el otorgamiento de licencias comerciales para ejercer el comercio sobre ruedas en el cantón de Moravia, Municipalidad de Moravia (2025): tema 18.
+- Reglamento de la policía municipal e inspectores municipales de tránsito de la Municipalidad de Naranjo, Municipalidad de Naranjo (2025): tema 5.
+- Reglamento de organización, funcionamiento y administración del Mercado Municipal de Naranjo, Municipalidad de Naranjo (2020): tema 8.
+- Reglamento interno de la oficina municipal de la persona adulta mayor y de la persona con discapacidad de la Municipalidad de Naranjo, Municipalidad de Naranjo (2025): tema 23.
+- Reglamento sobre la Protección, Uso y Mantenimiento de Parques y Espacios Públicos de Competencia Municipal, Municipalidad de Naranjo (2009): temas 22, 31.
+- Manual de atención y servicio al usuario de la Municipalidad de Oreamuno, Municipalidad de Oreamuno (2019): tema 24.
+- Reglamento de Construcción e infraestructura, Municipalidad de Oreamuno (2025): tema 28.
+- Reglamento de protección y conservación del patrimonio arquitectónico y cultura del cantón de Oreamuno, Municipalidad de Oreamuno (2025): tema 34.
+- Reglamento para Decomisos de Mercadería por Ventas en la Vía Pública y Fería del Agricultor, Municipalidad de Oreamuno (2015): tema 3.
+- Reglamento para la instalación de salas de juegos y máquinas pinball en el Cantón de Oreamuno, Municipalidad de Oreamuno (2018): tema 21.
+- Reglamento interno de las Comisiones de Festejos Populares de la Municipalidad de Orotina, Municipalidad de Orotina (2026): tema 34.
+- Reglamento sobre el uso, mantenimiento y protección de parques y espacios públicos de la Municipalidad de Orotina, Municipalidad de Orotina (2017): tema 8.
+- Manual de participación ciudadana en los procesos de planificación, presupuesto y rendición de cuentas, presupuestos participativos con enfoque de género y accesibilidad universal, Municipalidad de Palmares (2015): tema 15.
+- Reglamento de Construcciones del Cantón de Paraíso, Municipalidad de Paraíso (2012): tema 28.
+- Reglamento de comisiones permanentes y especiales Virtuales de la Municipalidad de Paraíso, Municipalidad de Paraíso (2022): tema 17.
+- Reglamento de la comisión de accesibilidad y discapacidad COMAD de la Municipalidad de Paraíso, Municipalidad de Paraíso (2021): tema 24.
+- Reglamento de sesiones del concejo municipal de Parrita y sus comisiones, Municipalidad de Parrita (2025): tema 14.
+- Reglamento para Regular la Atención al Público, Municipalidad de Parrita (2006): temas 13, 14.
+- Reglamento para regular el funcionamiento y operación del centro de cuido y desarrollo infantil CECUDI del Cantón de Parrita, Municipalidad de Parrita (2014): tema 20.
+- Reglamento para el otorgamiento de becas, donaciones, subvenciones y ayudas temporales ante estado de desgracia e infortunio, Municipalidad de Pococí (2025): tema 19.
+- La Municipalidad de Poás Adoptar, en todos sus extremos, las disposiciones del Decreto Ejecutivo N° 44335-MICITT, denominado 'Reglamento a la Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica, sobre los, Municipalidad de Poás (2024): tema 17.
+- Reforma integral Reglamento General de Cementerios Municipalidad del cantón de Poás, Municipalidad de Poás (2024): tema 9.
+- Reglamento de patentes de licores del Cantón de Poás, Municipalidad de Poás (2022): tema 7.
+- Reglamento del Consejo Local de Seguridad Vial (COLOSEVI-POÁS), Municipalidad de Poás (2008): tema 5.
+- Reglamento para ayudas temporales y subvenciones del Cantón de Poás, Municipalidad de Poás (2025): temas 9, 19.
+- Reglamento para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en la política de la Municipalidad de Poás, Municipalidad de Poás (2024): tema 11.
+- Reglamento para regular el comercio sobre ruedas en el Cantón Central de la Provincia de Puntarenas, Municipalidad de Puntarenas (2025): tema 18.
+- Reglamento para la regulación de las funciones y servicios del subproceso de control y seguridad ciudadana de la Municipalidad de Pérez Zeledón, Municipalidad de Pérez Zeledón (2017): tema 26.
+- Reglamento de licencias comerciales de la Municipalidad de Quepos, Municipalidad de Quepos (2026): tema 12.
+- Reglamento del Centro de Video Protección y Monitoreo de Municipalidad de Quepos, Municipalidad de Quepos (2026): tema 16.
+- Reglamento del Concejo Municipal de Quepos, Municipalidad de Quepos (2021): tema 14.
+- Reglamento para la Comisión Municipal de Discapacidad y Adulto Mayor (COMUDAM) de la Municipalidad de Quepos, Municipalidad de Quepos (2025): tema 23.
+- Reglamento para el control constructivo de obras civiles de la Municipalidad de Río Cuarto, Municipalidad de Río Cuarto (2025): tema 16.
+- Reglamento Declaración del Impuesto de Bienes Inmuebles Vía Internet en el Cantón de San Carlos, Municipalidad de San Carlos (2009): tema 17.
+- Reglamento de funcionamiento del Concejo Municipal de la Municipalidad de San Carlos, Municipalidad de San Carlos (2022): tema 14.
+- Reglamento del Departamento de Seguridad Ciudadana y Policía Municipal de la Municipalidad de San Carlos, Municipalidad de San Carlos (2024): tema 31.
+- Reglamento para el funcionamiento de los Concejos de Distrito en el cantón de San Carlos, Municipalidad de San Carlos (2026): tema 14.
+- Reglamento para entrega de donaciones de la Municipalidad de San Carlos, Municipalidad de San Carlos (2026): tema 3.
+- Reglamento para prevenir, investigar y sancionar el acoso laboral en la Municipalidad de San Carlos, Municipalidad de San Carlos (2019): tema 2.
+- Política de Igualdad y Equidad de Género 2025-2035, Municipalidad de San Isidro de Heredia (2025): temas 11, 25.
+- Políticas de buenas prácticas para la no discriminación motivada por la orientación sexual o la identidad de género de la Municipalidad de San Isidro de Heredia, Municipalidad de San Isidro de Heredia (2014): tema 10.
+- Reglamento para la aplicación del teletrabajo en la Municipalidad de San Isidro de Heredia, Municipalidad de San Isidro de Heredia (2024): tema 2.
+- Reglamento para la prevención y sanción de las conductas que configuren hostigamiento sexual en la Municipalidad de San Isidro de Heredia, Municipalidad de San Isidro de Heredia (2026): tema 11.
+- Reglamento de video protección del Cantón Central de San José, Municipalidad de San José (2024): tema 16.
+- Reglamento del departameno de policía municipal de la Municipalidad del Cantón Central de San José, Municipalidad de San José (2021): tema 31.
+- Reglamento general de mercados municipales del Cantón de San José, Municipalidad de San José (2016): tema 12.
+- Reglamento interno de organización, funcionamiento y ética de la Casa de Justicia, Municipalidad de San José (2015): tema 27.
+- Reglamento para el funcionamiento y operación de la Oficina para la Persona Adulta Mayor y la Persona con Discapacidad de la Municipalidad de San José, según la Ley N° 10046, Municipalidad de San José (2024): tema 23.
+- Reglamento para el otorgamiento de Becas para personas habitantes del Cantón de San José, contempladas en el Código Municipal, Municipalidad de San José (2026): tema 12.
+- Reglamento para el otorgamiento de ayudas temporales en el cantón San José para situaciones de emergencias o desastre, Municipalidad de San José (2016): tema 6.
+- Reglamento para la Gestión Ambiental, Gestión de Riesgo, Atención de Emergencias y Desastres, Municipalidad de San José (2005): tema 6.
+- Reglamento que regula la actividad de perifoneo y otras fuentes emisoras de sonido dentro de la jurisdicción de la Municipalidad del Cantón San José, Municipalidad de San José (2016): tema 27.
+- Reglamento para Instalación de los Locales de Servicio Público de Internet en el Cantón San Pablo, Municipalidad de San Pablo (2001): tema 17.
+- Reglamento para el uso de dispositivos móviles institucionales y redes sociales oficiales de la Municipalidad de San Pablo de Heredia, Municipalidad de San Pablo (2026): temas 14, 16.
+- Reglamento para el uso de parques y juegos infantiles, Municipalidad de San Pablo (2010): tema 21.
+- Reglamento de Autorizaciones de Permiso de Uso en Precario de Viviendas en la Municipalidad de San Rafael de Heredia, Municipalidad de San Rafael de Heredia (2016): tema 32.
+- Reglamento para el otorgamiento de becas de estudio a estudiantes del cantón de San Rafael de Heredia, Municipalidad de San Rafael de Heredia (2023): tema 12.
+- La Municipalidad de Santa Ana se adhiere al Reglamento a la Ley para Incentivar y Promover la Construcción de Infraestructura de Telecomunicaciones en Costa Rica, relativo a los procedimientos y especificaciones técnicas de la infraestructura de telecomun, Municipalidad de Santa Ana (2025): tema 17.
+- Reglamento de Organización, Funcionamiento y Ética de La Casa de Justicia de Santa Ana, Municipalidad de Santa Ana (2014): tema 27.
+- Reglamento de parques y zonas verdes públicos del Cantón de Santa Ana, Municipalidad de Santa Ana (2020): tema 31.
+- Reglamento del comité de la persona joven del cantón de Santa Ana, Municipalidad de Santa Ana (2025): tema 2.
+- Reglamento para la Instalación de Reductores de Velocidad en las Vías Cantonales, Municipalidad de Santa Ana (2009): tema 5.
+- Reglamento para la Policía Municipal de la Municipalidad de Santa Ana, Municipalidad de Santa Ana (2026): temas 8, 16.
+- Reglamento para la admisión, permanencia y egreso de personas beneficiarias del Centro Diurno Municipal de adultos mayores Ensueño de Oro, Municipalidad de Santa Ana (2024): temas 2, 23.
+- Reglamento para la gestión separada de residuos del Cantón de Santa Ana, Municipalidad de Santa Ana (2026): tema 29.
+- Reglamento para otorgar ayudas temporales en caso de desgracia o infortunio, Municipalidad de Santa Ana (2022): tema 9.
+- Reglamento de salud ocupacional de la Municipalidad de Santa Bárbara, Municipalidad de Santa Bárbara (2023): tema 2.
+- Plan de condonación de conformidad con los parámetros dispuestos por la Ley 10359 apoyo municipal para adultos mayores, Municipalidad de Santa Cruz (2023): tema 23.
+- La Municipalidad de Sarapiquí adoptar, en todos sus extremos, las disposiciones del Decreto Ejecutivo N° 44335-MICITT, denominado 'Reglamento a la Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica, Municipalidad de Sarapiquí (2025): tema 17.
+- Reglamento interno de funcionamiento del Concejo Municipal de Sarapiquí, Municipalidad de Sarapiquí (2021): tema 14.
+- Reglamento a la aplicación de la Ley N.° 10594 que reforma los artículos 88 del Código Municipal y 29 de la Ley de Planificación Urbana, en La Municipalidad de Sarchí, Municipalidad de Sarchí (2025): tema 18.
+- Reglamento para la aplicación de la Ley N° 10359 'Apoyo municipal para adultos mayores en pobreza' y para la condonación administrativa de obligaciones accesorias fuera del ámbito de dicha ley, Municipalidad de Sarchí (2025): tema 23.
+- Reglamento de servicio municipal de atención de animales de compañía, Municipalidad de Talamanca (2022): tema 31.
+- Reglamento para Instalación de los Locales de Servicio Público de Internet, Municipalidad de Talamanca (2001): tema 17.
+- Política Cantonal de la Niñez y la Adolescencia de Tarrazú 2025-2035, Municipalidad de Tarrazú (2025): temas 2, 21.
+- Reglamento para el procedimiento de decomisos de mercadería por ventas ambulantes de la Municipalidad de Tarrazú, Municipalidad de Tarrazú (2025): tema 18.
+- Reglamento de operación y mantenimiento del cementerio municipal de Tilarán, Municipalidad de Tilarán (2018): tema 9.
+- Reglamento del DITSÁ KÄPÄ KLÄ JUÍ ( Albergue indígena para población Cabecar), Municipalidad de Turrialba (2020): tema 10.
+- Reglamento Interno de la Casa de los Derechos de las Mujeres, Municipalidad de Upala (2014): capítulo 1; temas 12, 26.
+- Reglamento para el otorgamiento de becas para estudio a los munícipes de Upala, Municipalidad de Upala (2022): tema 12.
+- Reglamento para la Instalación de Locales de Servicio Público de Internet, Municipalidad de Upala (2001): tema 17.
+- Reglamento a la Ley N° 10359 'Apoyo Municipal para adultos mayores en pobreza' de la Municipalidad de Vázquez de Coronado, Municipalidad de Vázquez de Coronado (2025): tema 23.
+- Reglamento a la Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica, sobre los procedimientos y especificaciones técnicas de la infraestructura de telecomunicaciones, Municipalidad de Vázquez de Coronado (2025): tema 17.
+- Reglamento de simplificación, digitalización de trámites e implementación de firma digital, Ley 8220 y Ley 8454, de la Municipalidad de Vázquez de Coronado, Municipalidad de Vázquez de Coronado (2025): tema 13.
+- Reglamento sobre el uso, mantenimiento y protección de parques y espacios públicos de la Municipalidad de Vázquez de Coronado, Municipalidad de Vázquez de Coronado (2025): tema 31.
+- Reglamento interno de trabajo de la Municipalidad de Zarcero, Municipalidad de Zarcero (2018): tema 7.
+- Reglamento para la solicitud de licencias municipales en el Cantón de Zarcero, Municipalidad de Zarcero (2020): tema 27.
+
+### Reglamentos de otras instituciones
+
+- Reglamento del programa de abastecimiento institucional (PAI), Consejo Nacional de Producción (2023): tema 3.
+- Reglamento de construcciones, Instituto Nacional de Vivienda y Urbanismo (2018): temas 16, 28.
+- Reglamento de Organización, Funcionamiento y Ética de las Casas de Justicia, Instituto de Fomento y Asesoría Municipal (2015): tema 27.
+- Reglamento de financiamiento del Instituto de Fomento y Asesoría Municipal (IFAM), Instituto de Fomento y Asesoría Municipal (2021): tema 8.
+
+# Índice de jurisprudencia y criterios administrativos
+
+Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas referencias aparece.
+
+
+### Sala Constitucional
+
+- Voto N.° 1991-002306: capítulo 1; tema 18.
+- Voto N.° 1997-006469: capítulos 2, 3.
+- Voto N.° 1999-005445: capítulos 2, 3, 4; temas 19, 36; conclusión.
+- Voto N.° 2002-003956: tema 28.
+- Voto N.° 2002-010857: tema 28.
+- Voto N.° 2003-003656: tema 34.
+- Voto N.° 2003-005006: capítulos 1, 4; tema 29; conclusión.
+- Voto N.° 2003-011382: capítulo 4; conclusión.
+- Voto N.° 2004-000626: temas 8, 29.
+- Voto N.° 2005-001178: tema 28.
+- Voto N.° 2005-012698: tema 27.
+- Voto N.° 2006-016766: temas 10, 24, 34.
+- Voto N.° 2006-017907: capítulos 1, 2, 3; tema 28.
+- Voto N.° 2007-005051: capítulo 1; temas 10, 23.
+- Voto N.° 2007-005894: tema 28.
+- Voto N.° 2007-009162: tema 27.
+- Voto N.° 2007-009385: temas 8, 29.
+- Voto N.° 2007-010102: temas 3, 18.
+- Voto N.° 2007-011500: capítulo 1; temas 1, 2, 28.
+- Voto N.° 2007-017477: tema 28.
+- Voto N.° 2008-005692: temas 1, 2, 16, 27.
+- Voto N.° 2008-016445: tema 27.
+- Voto N.° 2008-016885: temas 1, 2, 27, 29, 30.
+- Voto N.° 2008-017231: capítulo 1; temas 5, 8.
+- Voto N.° 2009-000494: temas 9, 28.
+- Voto N.° 2009-008031: tema 1.
+- Voto N.° 2009-015920: tema 7.
+- Voto N.° 2010-001664: temas 2, 7.
+- Voto N.° 2010-010119: tema 27.
+- Voto N.° 2010-012783: temas 12, 29, 36.
+- Voto N.° 2011-007502: tema 28.
+- Voto N.° 2011-008408: tema 17.
+- Voto N.° 2011-015763: capítulos 2, 3; temas 15, 17.
+- Voto N.° 2012-004620: capítulo 1; temas 2, 31.
+- Voto N.° 2013-002572: tema 18.
+- Voto N.° 2013-014326: temas 8, 12.
+- Voto N.° 2014-017860: tema 20.
+- Voto N.° 2015-012020: capítulo 1; tema 24.
+- Voto N.° 2016-002706: tema 12.
+- Voto N.° 2016-011545: tema 18.
+- Voto N.° 2018-001141: capítulo 4.
+- Voto N.° 2018-016612: tema 28.
+- Voto N.° 2019-012783: tema 6.
+- Voto N.° 2019-012823: tema 7.
+- Voto N.° 2019-021447: tema 26.
+- Voto N.° 2020-003020: tema 6.
+- Voto N.° 2020-008465: tema 20.
+- Voto N.° 2020-009186: temas 4, 16.
+- Voto N.° 2020-009780: capítulo 1; tema 8.
+- Voto N.° 2020-011750: temas 14, 17.
+- Voto N.° 2020-013387: tema 17.
+- Voto N.° 2020-016680: capítulo 1; tema 17.
+- Voto N.° 2020-021381: temas 10, 29.
+- Voto N.° 2021-001706: tema 31.
+- Voto N.° 2021-024259: capítulo 4; tema 9; conclusión.
+- Voto N.° 2022-006710: tema 13.
+- Voto N.° 2022-017550: tema 6.
+- Voto N.° 2022-021511: tema 17.
+- Voto N.° 2022-022677: tema 6.
+- Voto N.° 2022-023266: temas 14, 15, 17.
+- Voto N.° 2022-028653: tema 17.
+- Voto N.° 2023-001782: capítulo 1; temas 14, 16.
+- Voto N.° 2023-005011: tema 6.
+- Voto N.° 2023-012817: tema 34.
+- Voto N.° 2023-013539: tema 28.
+- Voto N.° 2023-017863: tema 31.
+- Voto N.° 2023-018320: tema 13.
+- Voto N.° 2023-020182: tema 28.
+- Voto N.° 2023-027541: capítulo 1; temas 24, 34.
+- Voto N.° 2023-027545: tema 1.
+- Voto N.° 2023-031213: tema 28.
+- Voto N.° 2023-031756: capítulo 1; tema 15.
+- Voto N.° 2024-001215: temas 13, 14.
+- Voto N.° 2024-002486: tema 8.
+- Voto N.° 2024-004807: tema 30.
+- Voto N.° 2024-014239: tema 7.
+- Voto N.° 2024-017189: capítulo 1; temas 13, 23.
+- Voto N.° 2024-017568: tema 30.
+- Voto N.° 2024-019586: tema 30.
+- Voto N.° 2024-021998: temas 19, 20.
+- Voto N.° 2024-023302: tema 17.
+- Voto N.° 2024-024858: tema 30.
+- Voto N.° 2024-029734: tema 12.
+- Voto N.° 2024-032380: tema 6.
+- Voto N.° 2024-032554: temas 2, 7.
+- Voto N.° 2024-035187: tema 15.
+- Voto N.° 2025-000577: tema 13.
+- Voto N.° 2025-000583: tema 28.
+- Voto N.° 2025-002002: tema 28.
+- Voto N.° 2025-006205: tema 30.
+- Voto N.° 2025-006950: tema 28.
+- Voto N.° 2025-008201: capítulo 4.
+- Voto N.° 2025-009557: tema 21.
+- Voto N.° 2025-012894: tema 5.
+- Voto N.° 2025-014445: temas 14, 17.
+- Voto N.° 2025-015264: tema 17.
+- Voto N.° 2025-016121: capítulo 1; tema 30.
+- Voto N.° 2025-019603: capítulo 1; temas 1, 4, 21, 35.
+- Voto N.° 2025-029985: temas 10, 13, 15, 34.
+- Voto N.° 2025-030948: tema 28.
+- Voto N.° 2025-034736: tema 28.
+- Voto N.° 2025-034914: capítulo 1; temas 24, 32.
+- Voto N.° 2025-035627: tema 14.
+- Voto N.° 2025-037535: tema 24.
+- Voto N.° 2025-037551: tema 30.
+- Voto N.° 2025-041927: temas 21, 28, 35.
+- Voto N.° 2026-000643: capítulo 1; temas 5, 33; conclusión.
+- Voto N.° 2026-005199: tema 10.
+- Voto N.° 2026-008044: temas 17, 30, 33.
+- Voto N.° 2026-009053: temas 5, 28, 33.
+- Voto N.° 2026-010907: temas 11, 30, 34, 35.
+- Voto N.° 2026-010924: temas 6, 33.
+- Voto N.° 2026-013450: capítulo 1; temas 10, 23.
+- Voto N.° 2026-014326: temas 17, 30.
+- Voto N.° 2026-014377: capítulo 1; temas 11, 20.
+- Voto N.° 2026-014801: tema 24.
+- Voto N.° 2026-014917: temas 6, 15, 30, 34.
+- Voto N.° 2026-015340: temas 17, 30.
+- Voto N.° 2026-016165: capítulo 1; temas 10, 22, 33.
+- Voto N.° 2026-018928: tema 4.
+- Voto N.° 2026-019076: tema 30.
+- Voto N.° 2026-020272: temas 3, 15, 36.
+- Voto N.° 2026-022284: tema 30.
+- Voto N.° 2026-025615: tema 30.
+- Voto N.° 2026-025649: capítulo 1; temas 10, 21, 33.
+- Voto N.° 2026-027906: temas 4, 17, 33.
+- Voto N.° 2026-029915: tema 28.
+- Voto N.° 2026-031941: temas 21, 33.
+- Voto N.° 2026-032956: temas 27, 30, 36.
+- Voto N.° 2026-036718: capítulo 1; temas 23, 25.
+- Voto N.° 2026-038693: capítulo 1; tema 33.
+
+### Sala Primera
+
+- Resolución N.° 000308-F-2006: capítulos 3, 4.
+- Resolución N.° 000979-F-2006: capítulos 1, 3, 4.
+- Resolución N.° 000164-F-S1-2015: capítulo 2.
+- Resolución N.° 001461-F-S1-2017: capítulo 2.
+- Resolución N.° 000314-F-S1-2021: tema 32.
+- Resolución N.° 000402-F-S1-2025: tema 29.
+
+### Otros tribunales
+
+- Tribunal Contencioso Administrativo y Civil de Hacienda, Resolución N.° 3972-2023: tema 27.
+- Tribunal Contencioso Administrativo, Sección II, Resolución N.° 268-2003: tema 36.
+- Tribunal Contencioso Administrativo, Sección II, Resolución N.° 18-2008: tema 7.
+- Tribunal Contencioso Administrativo, Sección III, Resolución N.° 1155-2009: tema 15.
+- Tribunal Contencioso Administrativo, Sección III, Resolución N.° 2416-2009: capítulo 1; tema 7.
+- Tribunal Contencioso Administrativo, Sección III, Resolución N.° 1483-2010: tema 15.
+- Tribunal Contencioso Administrativo, Sección III, Resolución N.° 123-2011: tema 27.
+- Tribunal Contencioso Administrativo, Sección III, Resolución N.° 436-2011: tema 7.
+- Tribunal Contencioso Administrativo, Sección III, Resolución N.° 64-2012: tema 11.
+- Tribunal Contencioso Administrativo, Sección III, Resolución N.° 300-2012: tema 15.
+- Tribunal Contencioso Administrativo, Sección III, Resolución N.° 511-2012: tema 7.
+- Tribunal Contencioso Administrativo, Sección III, Resolución N.° 528-2012: tema 27.
+- Tribunal Contencioso Administrativo, Sección III, Resolución N.° 251-2013: tema 27.
+- Tribunal Contencioso Administrativo, Sección III, Resolución N.° 108-2014: tema 15.
+- Tribunal Contencioso Administrativo, Sección III, Resolución N.° 334-2016: tema 27.
+- Tribunal Contencioso Administrativo, Sección III, Resolución N.° 372-2016: tema 11.
+- Tribunal Contencioso Administrativo, Sección III, Resolución N.° 474-2016: tema 15.
+- Tribunal Contencioso Administrativo, Sección III, Resolución N.° 243-2019: tema 15.
+- Tribunal Contencioso Administrativo, Sección III, Resolución N.° 574-2020: tema 15.
+- Tribunal Contencioso Administrativo, Sección III, Resolución N.° 111-2023: tema 30.
+- Tribunal Contencioso Administrativo, Sección III, Resolución N.° 251-2023: tema 18.
+- Tribunal Contencioso Administrativo, Sección IV, Resolución N.° 12-2013: tema 8.
+- Tribunal Contencioso Administrativo, Sección IV, Resolución N.° 82-2015: tema 36.
+- Tribunal Contencioso Administrativo, Sección IV, Resolución N.° 21-2023: tema 29.
+- Tribunal Contencioso Administrativo, Sección IX, Resolución N.° 79-2009: temas 1, 27.
+- Tribunal Contencioso Administrativo, Sección VI, Resolución N.° 63-2009: temas 30, 33.
+- Tribunal Contencioso Administrativo, Sección VI, Resolución N.° 32-2018: tema 30.
+- Tribunal Supremo de Elecciones, Resolución N.° 2794-E-2004: tema 15.
+- Tribunal Supremo de Elecciones, Resolución N.° 790-E1-2012: tema 15.
+- Tribunal Supremo de Elecciones, Resolución N.° 221-E4-2012: tema 15.
+- Tribunal de Apelación de Sentencia Penal del II Circuito Judicial de San José, Resolución N.° 1529-2017: tema 26.
+- Tribunal de Familia, Resolución N.° 73-2020: tema 26.
+
+### Procuraduría General de la República
+
+- Dictamen C-249-1980: tema 14.
+- Dictamen C-071-1987: tema 15.
+- Dictamen C-089-1988: tema 28.
+- Dictamen C-240-1995: tema 28.
+- Dictamen C-015-1996: tema 4.
+- Dictamen C-131-1997: temas 4, 7.
+- Dictamen C-159-1997: tema 11.
+- Dictamen C-243-1997: capítulo 1; tema 3.
+- Dictamen C-249-1998: tema 9.
+- Dictamen C-128-1999: tema 30.
+- Dictamen C-014-2000: tema 18.
+- Dictamen C-108-2000: tema 36.
+- Dictamen C-240-2000: tema 32.
+- Dictamen C-239-2001: temas 9, 33.
+- Dictamen C-295-2001: tema 28.
+- Dictamen C-031-2002: tema 5.
+- Dictamen C-136-2002: tema 35.
+- Opinión jurídica OJ-183-2003: tema 28.
+- Dictamen C-380-2003: tema 33.
+- Dictamen C-033-2005: tema 30.
+- Dictamen C-059-2005: tema 36.
+- Dictamen C-132-2005: tema 36.
+- Dictamen C-078-2006: tema 18.
+- Dictamen C-029-2008: tema 1.
+- Dictamen C-223-2008: tema 10.
+- Dictamen C-298-2008: tema 36.
+- Dictamen C-438-2008: tema 36.
+- Dictamen C-120-2009: tema 15.
+- Dictamen C-136-2009: tema 15.
+- Dictamen C-200-2009: tema 30.
+- Dictamen C-328-2009: tema 36.
+- Dictamen C-009-2010: tema 5.
+- Dictamen C-087-2010: tema 22.
+- Dictamen C-215-2010: tema 4.
+- Dictamen C-216-2010: tema 26.
+- Dictamen C-237-2010: temas 32, 34.
+- Dictamen C-331-2011: tema 29.
+- Dictamen C-045-2012: tema 4.
+- Dictamen C-064-2012: tema 18.
+- Dictamen C-189-2012: tema 19.
+- Dictamen C-202-2012: tema 7.
+- Dictamen C-285-2012: tema 14.
+- Dictamen C-296-2012: tema 18.
+- Dictamen C-015-2013: capítulos 2, 3; tema 19.
+- Dictamen C-058-2013: temas 1, 3.
+- Dictamen C-108-2013: tema 36.
+- Dictamen C-157-2013: tema 36.
+- Dictamen C-164-2013: tema 6.
+- Dictamen C-170-2013: tema 30.
+- Dictamen C-209-2013: tema 33.
+- Dictamen C-213-2013: tema 7.
+- Dictamen C-220-2013: tema 36.
+- Dictamen C-303-2013: tema 36.
+- Dictamen C-045-2014: tema 35.
+- Dictamen C-105-2014: tema 7.
+- Dictamen C-107-2014: tema 36.
+- Dictamen C-166-2014: temas 7, 15.
+- Dictamen C-202-2014: temas 29, 31.
+- Dictamen C-209-2014: tema 30.
+- Dictamen C-231-2014: tema 14.
+- Dictamen C-276-2014: tema 7.
+- Dictamen C-317-2014: tema 28.
+- Dictamen C-345-2014: tema 32.
+- Dictamen C-421-2014: tema 36.
+- Dictamen C-427-2014: tema 9.
+- Dictamen C-435-2014: tema 7.
+- Dictamen C-480-2014: tema 28.
+- Dictamen C-052-2015: tema 34.
+- Dictamen C-082-2015: tema 4.
+- Dictamen C-145-2015: tema 9.
+- Dictamen C-160-2015: tema 7.
+- Dictamen C-185-2015: tema 22.
+- Dictamen C-217-2015: tema 9.
+- Dictamen C-220-2015: tema 35.
+- Dictamen C-222-2015: tema 36.
+- Dictamen C-291-2015: tema 36.
+- Dictamen C-308-2015: temas 29, 30.
+- Dictamen C-315-2015: tema 35.
+- Dictamen C-319-2015: tema 28.
+- Dictamen C-341-2015: tema 24.
+- Dictamen C-355-2015: tema 36.
+- Dictamen C-024-2016: tema 30.
+- Dictamen C-043-2016: capítulo 1; tema 19.
+- Dictamen C-122-2016: tema 35.
+- Dictamen C-193-2016: tema 29.
+- Dictamen C-236-2016: tema 9.
+- Dictamen C-282-2016: tema 13.
+- Dictamen C-079-2017: tema 36.
+- Dictamen C-088-2017: tema 5.
+- Dictamen C-113-2017: tema 15.
+- Dictamen C-115-2017: tema 34.
+- Dictamen C-189-2017: tema 7.
+- Dictamen C-190-2017: tema 7.
+- Dictamen C-196-2017: tema 7.
+- Dictamen C-205-2017: temas 4, 5.
+- Dictamen C-283-2017: tema 36.
+- Dictamen C-287-2017: tema 33.
+- Dictamen C-020-2018: tema 15.
+- Dictamen C-067-2018: temas 19, 20, 21.
+- Dictamen C-127-2018: tema 34.
+- Dictamen C-132-2018: tema 15.
+- Dictamen C-144-2018: tema 33.
+- Dictamen C-159-2018: tema 28.
+- Dictamen C-175-2018: tema 7.
+- Dictamen C-179-2018: capítulo 1; tema 9.
+- Dictamen C-316-2018: tema 22.
+- Dictamen C-320-2018: tema 36.
+- Dictamen C-001-2019: tema 33.
+- Dictamen C-006-2019: capítulo 2.
+- Dictamen C-012-2019: temas 13, 14.
+- Dictamen C-109-2019: tema 6.
+- Dictamen C-157-2019: tema 2.
+- Dictamen C-181-2019: tema 7.
+- Dictamen C-189-2019: tema 4.
+- Dictamen C-247-2019: tema 17.
+- Dictamen C-253-2019: tema 24.
+- Dictamen C-265-2019: tema 34.
+- Dictamen C-306-2019: tema 33.
+- Dictamen C-321-2019: tema 9.
+- Dictamen C-339-2019: tema 4.
+- Dictamen C-351-2019: tema 33.
+- Dictamen C-372-2019: temas 23, 26.
+- Dictamen C-008-2020: tema 32.
+- Dictamen C-009-2020: tema 9.
+- Dictamen C-062-2020: tema 21.
+- Dictamen C-131-2020: tema 17.
+- Dictamen C-134-2020: tema 28.
+- Dictamen C-136-2020: temas 1, 17.
+- Dictamen C-211-2020: tema 35.
+- Dictamen C-240-2020: tema 29.
+- Dictamen C-249-2020: tema 36.
+- Dictamen C-251-2020: tema 36.
+- Dictamen C-263-2020: tema 30.
+- Dictamen C-291-2020: tema 33.
+- Dictamen C-293-2020: tema 31.
+- Dictamen C-332-2020: temas 33, 36.
+- Dictamen C-429-2020: tema 9.
+- Dictamen C-456-2020: tema 36.
+- Dictamen C-024-2021: temas 15, 33.
+- Dictamen C-058-2021: tema 34.
+- Dictamen C-090-2021: tema 21.
+- Dictamen C-091-2021: tema 36.
+- Dictamen C-108-2021: tema 4.
+- Opinión jurídica OJ-157-2021: tema 17.
+- Dictamen C-214-2021: tema 21.
+- Dictamen C-249-2021: tema 15.
+- Dictamen C-271-2021: tema 32.
+- Dictamen C-286-2021: tema 34.
+- Dictamen C-334-2021: tema 29.
+- Dictamen C-350-2021: temas 5, 33.
+- Dictamen C-358-2021: tema 29.
+- Dictamen C-360-2021: tema 36.
+- Dictamen C-017-2022: tema 13.
+- Dictamen C-023-2022: tema 36.
+- Dictamen C-064-2022: temas 14, 16.
+- Dictamen C-067-2022: tema 28.
+- Dictamen C-069-2022: tema 36.
+- Dictamen C-079-2022: capítulo 1; temas 13, 36.
+- Dictamen C-081-2022: tema 8.
+- Dictamen C-089-2022: temas 10, 32.
+- Dictamen C-094-2022: temas 12, 18.
+- Dictamen C-125-2022: capítulos 2, 3.
+- Dictamen C-130-2022: tema 32.
+- Dictamen C-142-2022: tema 36.
+- Dictamen C-180-2022: tema 36.
+- Dictamen C-197-2022: tema 36.
+- Dictamen C-210-2022: tema 33.
+- Dictamen C-220-2022: tema 28.
+- Dictamen C-223-2022: capítulo 2.
+- Dictamen C-224-2022: temas 28, 29.
+- Dictamen C-225-2022: tema 22.
+- Dictamen C-231-2022: capítulos 2, 3.
+- Dictamen C-234-2022: tema 33.
+- Dictamen C-236-2022: temas 19, 21.
+- Dictamen C-255-2022: capítulo 2.
+- Dictamen C-292-2022: tema 17.
+- Dictamen C-014-2023: tema 10.
+- Dictamen C-029-2023: capítulo 1; tema 36.
+- Dictamen C-039-2023: tema 7.
+- Dictamen C-050-2023: tema 2.
+- Dictamen C-059-2023: tema 32.
+- Dictamen C-078-2023: tema 7.
+- Dictamen C-090-2023: tema 11.
+- Dictamen C-119-2023: tema 28.
+- Dictamen C-132-2023: tema 14.
+- Dictamen C-158-2023: tema 3.
+- Dictamen C-162-2023: tema 17.
+- Dictamen C-166-2023: tema 33.
+- Dictamen C-195-2023: tema 11.
+- Dictamen C-198-2023: tema 33.
+- Dictamen C-216-2023: tema 14.
+- Dictamen C-242-2023: tema 13.
+- Dictamen C-246-2023: tema 34.
+- Dictamen C-248-2023: tema 35.
+- Dictamen C-252-2023: temas 11, 22.
+- Dictamen C-255-2023: tema 30.
+- Dictamen C-263-2023: tema 36.
+- Dictamen C-266-2023: temas 35, 36.
+- Dictamen C-011-2024: tema 34.
+- Dictamen C-013-2024: tema 5.
+- Dictamen C-022-2024: tema 14.
+- Opinión jurídica OJ-026-2024: tema 34.
+- Dictamen C-035-2024: tema 36.
+- Dictamen C-074-2024: tema 14.
+- Dictamen C-087-2024: tema 5.
+- Dictamen C-089-2024: tema 34.
+- Dictamen C-092-2024: temas 19, 23.
+- Dictamen C-115-2024: tema 24.
+- Opinión jurídica OJ-115-2024: tema 36.
+- Dictamen C-126-2024: temas 15, 35.
+- Dictamen C-133-2024: tema 33.
+- Dictamen C-147-2024: tema 24.
+- Dictamen C-154-2024: tema 5.
+- Dictamen C-163-2024: tema 2.
+- Dictamen C-178-2024: temas 16, 19.
+- Dictamen C-181-2024: tema 35.
+- Dictamen C-182-2024: tema 4.
+- Dictamen C-194-2024: tema 32.
+- Dictamen C-195-2024: capítulos 2, 3; tema 33.
+- Dictamen C-227-2024: tema 30.
+- Dictamen C-236-2024: tema 29.
+- Dictamen C-237-2024: tema 8.
+- Dictamen C-245-2024: tema 29.
+- Dictamen C-267-2024: tema 19.
+- Dictamen C-278-2024: tema 17.
+- Dictamen C-279-2024: tema 9.
+- Dictamen C-285-2024: tema 32.
+- Dictamen C-287-2024: capítulos 2, 3; temas 6, 8.
+- Dictamen C-290-2024: tema 11.
+- Opinión jurídica OJ-004-2025: tema 17.
+- Dictamen C-010-2025: tema 26.
+- Dictamen C-088-2025: capítulo 1; tema 16.
+- Dictamen C-095-2025: temas 8, 19.
+- Dictamen C-117-2025: tema 36.
+- Dictamen C-132-2025: temas 10, 24.
+- Dictamen C-146-2025: tema 36.
+- Dictamen C-201-2025: tema 25.
+- Dictamen C-205-2025: tema 2.
+- Dictamen C-217-2025: tema 35.
+- Dictamen C-220-2025: tema 33.
+- Dictamen C-247-2025: tema 35.
+- Dictamen C-004-2026: tema 18.
+- Dictamen C-010-2026: tema 14.
+- Dictamen C-014-2026: tema 33.
+- Dictamen C-015-2026: tema 28.
+- Dictamen C-026-2026: tema 36.
+- Dictamen C-027-2026: tema 33.
+- Dictamen C-049-2026: temas 6, 28.
+- Dictamen C-050-2026: tema 29.
+- Dictamen C-053-2026: tema 17.
+- Dictamen C-060-2026: tema 33.
+- Dictamen C-064-2026: tema 19.
+- Dictamen C-066-2026: tema 35.
+- Dictamen C-078-2026: temas 4, 14, 16.
+- Dictamen C-080-2026: tema 30.
+- Dictamen C-084-2026: capítulo 4.
+- Opinión jurídica OJ-090-2026: tema 34.
+- Dictamen C-101-2026: tema 33.
+- Dictamen C-107-2026: capítulo 2; tema 17.
+- Dictamen C-124-2026: tema 21.
+- Dictamen C-136-2026: capítulo 4.
+- Dictamen C-151-2026: tema 12.
+- Dictamen C-160-2026: tema 29.
+- Dictamen C-173-2026: temas 13, 32.
+- Dictamen C-184-2026: tema 33.
+- Dictamen C-199-2026: tema 30.
+
+### Contraloría General de la República
+
+- Certificación de verificación de requisitos del bloque de legalidad presupuestario que debe cumplir el presupuesto inicial y sus variaciones, para las municipalidades: tema 5.
+- Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos: temas 4, 5, 6, 9, 11, 20, 28, 29, 31, 34, 35.
+- Indicaciones para la formulación y presentación de los presupuestos institucionales, año 2027. División de Fiscalización Operativa y Evaluativa: temas 6, 15, 20.
+- Modelo de guía interna de verificación de requisitos del bloque de legalidad presupuestario que deben cumplir las municipalidades en la formulación de su presupuesto inicial y variaciones sujetas a la aprobación presupuestaria de la Contraloría General de la República: temas 1, 6, 15, 24, 35.
+- Oficio N.° 00415 (DFOE-LOC-0073). Atención de consulta relacionada al Plan Cantonal de Desarrollo Humano Local (PCDHL): tema 15.
+- Oficio N.° 01835 (DFOE-LOC-0217). Emisión de criterio solicitado por el Alcalde Municipal de Osa, sobre la posibilidad de las administraciones municipales de realizar donaciones de instrumentos a bandas comunales: tema 34.
+- Oficio N.° 01840 (DFOE-LOC-0259). Emisión de criterio sobre los recursos contenidos en el inciso b) del artículo 59 de la Ley sobre la Zona Marítimo Terrestre: tema 30.
+- Oficio N.° 01889 (DFOE-IAF-0037). Emisión de criterio solicitado por diputado de la Asamblea Legislativa, sobre el mecanismo legal que disponen los Comités Cantonales de Deportes para asignar viáticos a sus atletas: tema 35.
+- Oficio N.° 03078 (DCA-0690). Se emite criterio sobre la posibilidad de que una Municipalidad realice mediante un convenio intermunicipal con otra municipalidad la adquisición de un bien o un servicio, pagando una contraprestación económica por ese servicio o bien, con esa municipalidad: tema 36.
+- Oficio N.° 06784 (DFOE-LOC-0510). Atención de consulta relacionada con el presupuesto de los Comités Cantonales de Deportes y Recreación: tema 35.
+- Oficio N.° 07359 (DFOE-DL-0517). Emisión de criterio respecto a las donaciones en especie que realizan las Municipalidades a las Asociaciones Comunales, para el desarrollo de obras: temas 19, 36.
+- Oficio N.° 07545 (DCA-2092). Se atiende solicitud de criterio sobre la procedencia de permiso de uso: tema 36.
+- Oficio N.° 09880 (DFOE-CAP-0934). Criterio sobre acceso por parte de la Auditoría Interna a sistemas de monitoreo y cámaras de vigilancia: tema 16.
+- Oficio N.° 10008 (DFOE-LOC-1351). Emisión de criterio solicitado por la alcaldesa de la Municipalidad de Puriscal respecto a la posibilidad de comprar un terreno para inversión en tractos y su inclusión en presupuestos ordinarios: temas 6, 26.
+- Oficio N.° 10092 (DFOE-SOS-0320). Emisión de criterio solicitado sobre la naturaleza jurídica de los fondos que reciben las ASADAS: tema 28.
+- Oficio N.° 11709 (DFOE-SOS-0279). Atención de consulta referente a la presentación de informes económicos, pago de impuestos, fiscalización y rendición de cuentas de los Centros Agrícolas Cantonales: tema 36.
+- Oficio N.° 12990 (DFOE-LOC-1706). Emisión de criterio relativo a la inversión de recursos en aceras: tema 33.
+- Oficio N.° 14031 (DFOE-LOC-1515). Emisión de criterio solicitado por el alcalde con relación a los artículos 45 y 46 bis de la Ley Nacional de Emergencias y Prevención del Riesgo: tema 6.
+- Oficio N.° 14467 (DJ-1340). Consulta relacionada con los fondos de la Ley n.º 6282 del 14 de agosto 1979: tema 34.
+- Oficio N.° 14908 (DFOE-DEC-4567). Advertencia relacionada con el cumplimiento del marco legal en la constatación de vías como públicas, la declaratoria de estas con fundamento en instrumentos públicos existentes, e inversión de recursos públicos en dichas vías: tema 33.
+- Oficio N.° 15562 (DCA-2950). Se da respuesta a la solicitud de criterio sobre la facultad del Ministerio de Economía, Industria y Comercio para suscribir convenios con entes de derecho público o privado, con el fin de que se encarguen de la logística de eventos donde se reciban recursos públicos o aportes económicos: tema 36.
+- Oficio N.° 16049 (DFOE-LOC-1430). Opinión sobre el texto dictaminado Reforma del artículo 71 del Código Municipal, Ley n.° 7794, del 30 de abril de 1998 y sus reformas, correspondiente al expediente legislativo n.° 23.777: tema 19.
+- Oficio N.° 16050 (DFOE-LOC-1431). Emisión de criterio sobre el uso de recursos provenientes de la Ley sobre la Zona Marítimo Terrestre, N.° 6043: tema 30.
+- Oficio N.° 18724 (DFOE-LOC-2501). Emisión de criterio relativo a la posibilidad de las administraciones municipales de realizar convenios con Asociaciones de Desarrollo Integral, con el fin que estas brinden servicios con cargo a los recursos provenientes de las Leyes n.os 8114 y 9329: tema 33.
+- Oficio N.° 21709 (DJ-2194). Solicitud de criterio relacionado con el proyecto de Ley n° 25.082 "Ley de autorización a la Municipalidad de Grecia para donar un inmueble de su propiedad a la Asociación Cruz Roja Costarricense": temas 1, 36.
+- Oficio N.° 22430 (DFOE-LOC-2366). Emisión de criterio relativo a aclarar si el análisis brindado a través de los oficios n.os 11545 (DFOE-LOC-0617)-2021 y 13004 (DFOE-LOC-1320)-2022, es extensible al concepto que aparece en el artículo 2 inciso a) del Decreto Ejecutivo n.° 40137-MOPT: temas 5, 33.
+- Oficio N.° 22608 (DFOE-LOC-2154). Emisión de criterio solicitado por el alcalde sobre la utilización de recursos públicos para la atención o mitigación de riesgos ubicados en bienes de propiedad privada con afectación comunal: tema 6.
+- Oficio N.° 22620 (DCA-3192). Se deniega solicitud de refrendo del contrato suscrito por la Municipalidad de Osa para servicios de recolección de residuos sólidos: tema 29.
+- [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025]: temas 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 32, 33, 34, 35, 36.
+- Resolución N.° R-DCP-SICOP-00770-2024. Recurso de apelación contra la declaratoria de desierta de la licitación mayor 2023LY-000001-0002500001 de la Municipalidad de Palmares (operador y administrador del CECUDI): capítulo 1; tema 20.
+- Informe de auditoría de carácter especial sobre la gobernanza y estándares de calidad de los servicios de cuido y desarrollo infantil de la REDCUDI (informe N.° DFOE-BIS-IAD-00010-2023): tema 20.
+- Resolución N.° R-DC-00080-2024. Lineamientos para la declaración jurada sobre la situación patrimonial de sujetos privados que administren o custodien fondos y actividades públicas: tema 36.
+- Índice de Gestión de Servicios Municipales 2025 (informe N.° DFOE-LOC-SGP-00002-2025): temas 1, 3, 4, 5, 6, 9, 28, 29, 30, 31, 32, 33, 34, 35, 36.
+- Oficio N.° 03933 (DJ-0647-2026). Se atiende consulta sobre el uso de instalaciones municipales para estacionamiento de vehículos particulares de los funcionarios: tema 36.
+
+### Jurisprudencia extranjera
+
+- España. Audiencia Provincial de Santa Cruz de Tenerife, Sección Sexta. Sentencia 60/2026, de 23 de marzo (rollo 729/2025). ECLI:ES:APTF:2026:624: tema 16.
+- España. Tribunal Supremo, Sala de lo Civil. Sentencia 1166/2025, de 17 de julio (recurso 5962/2024): tema 16.
+- España. Tribunal Supremo, Sala de lo Penal. Sentencia 264/2026, de 6 de abril (recurso 10648/2025). ECLI:ES:TS:2026:1661: tema 16.
+- España. Tribunal Supremo, Sala de lo Penal. Sentencia 797/2025, de 2 de octubre (recurso 10005/2025). ECLI:ES:TS:2025:4225: tema 16.
+- Fearn and others v Board of Trustees of the Tate Gallery [2023] UKSC 4 (1 de febrero de 2023). Supreme Court of the United Kingdom: tema 16.
+- Francia. Conseil constitutionnel. Décision n.° 2021-817 DC, de 20 de mayo de 2021 (Loi pour une sécurité globale préservant les libertés): tema 16.
+- Francia. Conseil constitutionnel. Décision n.° 2021-834 DC, de 20 de enero de 2022 (Loi relative à la responsabilité pénale et à la sécurité intérieure): tema 16.
+- Francia. Conseil d'État, juge des référés. Ordonnance n.° 440442, 440445, de 18 de mayo de 2020 (Association La Quadrature du Net y Ligue des droits de l'homme): tema 16.
+- Francia. Conseil d'État, salas 10.ª y 9.ª reunidas. Décision n.° 446155, de 22 de diciembre de 2020 (Association La Quadrature du Net): tema 16.
+- Huerta v. Pirker, NTSB Order No. EA-5730, Docket CP-217 (National Transportation Safety Board, 18 de noviembre de 2014): tema 16.
+- Italia. Corte di Cassazione, Sezione V penale. Sentenza n. 28146, depositata il 31 luglio 2025: tema 16.
+- Katz v. United States, 389 U.S. 347 (1967). Supreme Court of the United States: tema 16.
+- Leaders of a Beautiful Struggle v. Baltimore Police Department, No. 20-1495 (4th Cir. 24 de junio de 2021) (en banc). United States Court of Appeals for the Fourth Circuit: tema 16.
+- Long Lake Township v. Maxon, No. 164948 (Mich. 3 de mayo de 2024). Supreme Court of the State of Michigan: tema 16.
+- Long Lake Township v. Maxon, No. 349230 (Mich. Ct. App. 18 de marzo de 2021). Court of Appeals of the State of Michigan: tema 16.
+- Tribunal de Justicia de la Unión Europea, Sala Cuarta. Sentencia de 11 de diciembre de 2014, František Ryneš c. Úřad pro ochranu osobních údajů, asunto C-212/13: tema 16.
+
+# Índice de obras y documentos citados
+
+Doctrina, informes y documentos institucionales que no son normas ni resoluciones.
+
+- Conan Doyle, A. (s. f.). El valle del terror. Fundación Carlos Slim. (Obra original publicada en 1915): capítulo 1.
+- Consejo para la Promoción de la Competitividad. (2026). Índice de Competitividad Nacional 2026. https://icn.cr/: temas 19, 36.
+- Cortés García, E. (2026). Derecho municipal: Impugnación, veto y revisión de actos administrativos. Tirant lo Blanch: capítulos 2, 4.
+- Harvard Law Review. (2025). Fourth Amendment — Unreasonable searches — Michigan Supreme Court holds exclusionary rule inapplicable in the civil context. Long Lake Township v. Maxon, 15 N.W.3d 118 (Mich. 2024). Harvard Law Review, 138, 1941-1950: tema 16.
+- Kant, I. (1873). Principios metafísicos del derecho (G. Lizárraga, Trad.). Librería de Victoriano Suárez. (Trabajo original publicado en 1797): capítulos 2, 3, 4; conclusión.
+- Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local? Federación Metropolitana de Municipalidades y Municipalidad de San José: capítulos 2, 3.
+- Medina León, A., Nogueira Rivera, D., & Hernández Nariño, A. (2009). Relevancia de la gestión por procesos en la planificación estratégica y la mejora continua. Eídos, (2), 65-72: capítulo 4.
+- Naciones Unidas, Dependencia de Seguridad Humana. (2016). Manual de seguridad humana: Un enfoque integrado para la consecución de los Objetivos de Desarrollo Sostenible y los ámbitos de acción prioritarios de la comunidad internacional y el sistema de las Naciones Unidas. Naciones Unidas: capítulo 1.
+- Organización Panamericana de la Salud. (s. f.). [Resumen del documento de referencia técnico sobre salud y seguridad humana]. https://www.paho.org/sites/default/files/D37404-PAHO-ExecutiveSummary-Spn-WEB.pdf: capítulo 1.
+- Pérez Hernández, L., Tabares Neyra, L. M. y Díaz Legón, O. J. (2019). Lo local –municipal– como espacio de desarrollo en Cuba. Notas para el perfeccionamiento del régimen jurídico de la administración local. Universidad de La Habana, (287), 135-160: capítulo 2.
+- Sheldrake, M. (2020). La red oculta de la vida: De qué manera los hongos crean nuestros mundos, cambian nuestra forma de pensar y moldean nuestro futuro (T. Gras Cardona, Trad.). Editorial Planeta: capítulos 1, 3.
+- Tocqueville, A. de. (s. f.). La democracia en América. https://www.suneo.mx/literatura/subidas/Alexis%20de%20Tocqueville%20La%20Democracia%20en%20America.pdf: capítulo 2.
+- Vílchez Ordoñez, M., & Sánchez Davila, K. (2021). Gestión por procesos e imagen institucional: En busca de mayor visibilidad municipal para los ciudadanos. Ciencia Latina Revista Científica Multidisciplinar, 5(4), 6444-6468. https://doi.org/10.37811/cl_rcm.v5i4.778: capítulo 4.
+- Wilches-Chaux, G. (2007). Lo local-municipal como unidad de gestión. Medio Ambiente y Urbanización, (67), 113-126: capítulo 2.
+- Zaratiegui, J. R. (1999). La gestión por procesos: Su papel e importancia en la empresa. Economía Industrial, (330), 81-88: capítulo 4.

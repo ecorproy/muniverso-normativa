@@ -1526,3 +1526,12 @@ Quinta evaluación: recomienda cerrar la construcción intelectual y pasar a la 
 - Figuras retocadas reemplazadas también en Docs. Las cinco pestañas cotejan IDÉNTICO con `scripts/esperado_fig.py`, que agrega a la fuente las líneas que el exportador produce por cada figura.
 - Word final28 (937 páginas en LibreOffice) en `Word/`.
 Sin atender por depender del autor o de la editorial: datos editoriales de la portada y cotejo independiente de fuentes.
+
+## 26 de noviembre de 2026, noche: Kant
+
+- El autor confirmó que se quedan los ejemplos de las figuras 9 y 13 y los rótulos de la figura 1.
+- Fuente nueva: Kant, I. (1873). *Principios metafísicos del derecho* (G. Lizárraga, Trad.). Librería de Victoriano Suárez. (Trabajo original publicado en 1797). El PDF aportado es el facsímil de la edición madrileña de 1873; la paginación impresa coincide con la del PDF. El OCR es defectuoso, así que cada cita se cotejó contra la imagen de la página y se transcribió en `fuentes/doctrina/kant_1873_pag.txt` (texto OCR más las transcripciones verificadas al final de cada página citada). Se conserva la ortografía de la edición (accion, segun, á).
+- Citas incorporadas: cap. 2, diarquía (p. 172); cap. 3, «La persona en el centro» (pp. 54, 217, 192, 172), membrana y principio universal del derecho (p. 42), simbiosis: igualdad natural, tributo que el pueblo se impone y conservación de quienes no se bastan (pp. 54, 185, 186; CP 121); cap. 4, idoneidad, carrera y estabilidad (pp. 190, 191); conclusión, salvación pública (p. 174).
+- Publicado en Docs; las cuatro pestañas cotejan IDÉNTICO.
+- `indices.py`: las referencias de la conclusión ya no se atribuyen al tema 36 (error previo desde que la conclusión entró en el Word).
+- Word final29 (938 páginas en LibreOffice).
