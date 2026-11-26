@@ -1360,3 +1360,13 @@ Pedido del autor: explicar el concepto antes del Cuadrante I y dedicar un capít
 No se usó el pasaje del voto 2025-008201 sobre «Resulta imposible aspirar al buen funcionamiento…» (cons. XXXV): es un voto salvado de un magistrado que transcribe su voto salvado en la sentencia 2014-001227.
 
 Word reconstruido con los capítulos 1 a 4 antes del Cuadrante I.
+
+### 26 de noviembre de 2026 — Capítulo 4 ampliado
+
+El autor pidió ampliar «Productos y servicios prestados», «La dignidad de quien sirve» y «La cadena», con atención a la línea de las obligaciones. Adjuntó el capítulo VI de la Ley 2166 (arts. 45 a 49), que confirma que ese capítulo sigue vigente y que el art. 48 fue reformado por el art. 49, inciso A, de la Ley 10159 (anualidad con calificación mínima de muy bueno; 80 % metas y 20 % competencias).
+
+- «Productos y servicios prestados»: Ley 2166 arts. 45 a 49; Ley 10159 arts. 1, 21, 27 a 29 y 49; límite de la autonomía municipal según el voto consultivo 17098-2021, tal como lo recoge el dictamen C-136-2026 (apartado IV: la evaluación del desempeño la definen de forma exclusiva y excluyente los entes con autonomía de segundo o tercer grado); C-084-2026 (Nicoya: anualidad condicionada a muy bueno; derogación tácita de lo incompatible con la Ley Marco); voto 2025-008201, cons. XXVIII (motivación, recursos, vías de legalidad, no premiar calificaciones insuficientes); LGAP art. 16.
+- «La dignidad de quien sirve»: CP art. 56; LGAP art. 8; Ley 10159 arts. 1, 4 d), 21 (planes remediales pactados, responsabilidad acreditada, calificación justificada), 27 y 29; Ley 2166 art. 49.
+- «La cadena de obligaciones»: la cadena del autor (CP 9, 11, 191, 192, 21, 33, 51, 50, 56, 169; voto 2003-011382; 2021-024259, «sobre esta pesan obligaciones específicas»; 2003-005006; LGAP 4, 113, 114, 16, 10; Ley 8422 art. 3; Ley 10159 arts. 4, 5 y 28; Ley 2166 art. 48; LGAP 199 y 211) y cierre con LGAP arts. 9 y 7.
+
+4.266 palabras; 59 citas, 0 errores. Pestaña 992edff3-af70 rev 4: 29.958 bytes, sha256 a945adfc…, IDÉNTICO. Word reconstruido.
