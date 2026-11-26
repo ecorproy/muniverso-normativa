@@ -4,6 +4,8 @@ Constitución Política de la República de Costa Rica. (1949). Asamblea Naciona
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
 
+Decreto Ejecutivo N.° 32675, *Declara de interés público el Proyecto «Centros Comunitarios de Acceso a Internet» (C.C.A.I.)*. (2005). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
+
 Ley N.° 4755, *Código de Normas y Procedimientos Tributarios ( Código Tributario )*. (1971). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=6530&param2=148766&param3=1
 
 Ley N.° 7593, *Ley de la Autoridad Reguladora de los Servicios Públicos (ARESEP)*. (1996). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=26314&param2=152025&param3=1
@@ -27,6 +29,8 @@ Ley N.° 10554, *Ley Marco de Acceso a la Información Pública*. (2024). Asambl
 Municipalidad de Alajuela. (2020, 3 de setiembre). *Reglamento de sesiones virtuales del concejo municipal de Alajuela*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=92451&param2=122419&param3=1
 
 Municipalidad de Esparza. (2001, 12 de febrero). *Reglamento para la Instalación de los Locales de Servicio Público de Internet de la Municipalidad de Esparza.*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=46418&param2=49046&param3=1
+
+Municipalidad de Garabito. (2011, 17 de agosto). *Reglamento para el Uso de los Centros Inteligentes*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=72531&param2=88555&param3=1
 
 Municipalidad de Limón. (2025, 25 de marzo). *Adhesión de la Municipalidad de Limón al Decreto Ejecutivo N° 44335 'Reglamento a la Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Costa Rica, sobre los procedimientos y especificaciones de la infraestructura*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=104278&param2=145646&param3=1
 
@@ -54,11 +58,15 @@ Procuraduría General de la República. (2020, 7 de abril). *Dictamen C-131-2020
 
 Procuraduría General de la República. (2020, 15 de abril). *Dictamen C-136-2020*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=21928&param2=0
 
+Procuraduría General de la República. (2021, 28 de setiembre). *Opinión jurídica OJ-157-2021*.
+
 Procuraduría General de la República. (2022, 22 de diciembre). *Dictamen C-292-2022*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23730&param2=0
 
 Procuraduría General de la República. (2023, 1 de setiembre). *Dictamen C-162-2023*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24053&param2=0
 
 Procuraduría General de la República. (2024, 27 de noviembre). *Dictamen C-278-2024*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24738&param2=0
+
+Procuraduría General de la República. (2025, 8 de enero). *Opinión jurídica OJ-004-2025*.
 
 Procuraduría General de la República. (2026, 16 de marzo). *Dictamen C-053-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25417&param2=0
 

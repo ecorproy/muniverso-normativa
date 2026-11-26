@@ -222,6 +222,7 @@ RM = {
     'limon-telecom': 'Limón/Limón/Adhesión de la Municipalidad de Limón al Decreto Ejecutivo N° 44335 Reglamento a la Ley para incentivar y prom (2025).md',
     'alajuela-virtuales': 'Alajuela/Alajuela/Reglamento de sesiones virtuales del concejo municipal de Alajuela (2020).md',
     'sancarlos-ibi': 'Alajuela/San Carlos/Reglamento Declaración del Impuesto de Bienes Inmuebles Vía Internet en el Cantón de San Carlos (2009).md',
+    'garabito-ceci': 'Puntarenas/Garabito/Reglamento para el Uso de los Centros Inteligentes (2011).md',
     'paraiso-comisiones': 'Cartago/Paraíso/Reglamento de comisiones permanentes y especiales Virtuales de la Municipalidad de Paraíso (2022).md',
     'santaana-telecom': 'San José/Santa Ana/La Municipalidad de Santa Ana se adhiere al Reglamento a la Ley para Incentivar y Promover la Construcción de Infraestructura de Telecomunicaciones en (2025).md',
     'vazquez-telecom': 'San José/Vázquez de Coronado/Reglamento a la Ley para incentivar y promover la construcción de infraestructura de telecomunicaciones en Cos (2025).md',
