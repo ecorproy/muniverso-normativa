@@ -44,30 +44,23 @@
  {
   "archivo": "t35.md",
   "palabras": 9,
-  "fuente": "L:7794:art. 179",
+  "fuente": "D:C-136-2002:conclusión",
   "estado": "OK",
-  "cita": "No podrán recibir dineros públicos instalaciones de acceso r"
+  "cita": "forman parte de la estructura organizativa de las municipali"
  },
  {
   "archivo": "t35.md",
-  "palabras": 30,
-  "fuente": "L:7794:art. 180",
+  "palabras": 13,
+  "fuente": "D:C-045-2014:conclusión",
   "estado": "OK",
-  "cita": "También podrán otorgar becas deportivas y realizar donacione"
+  "cita": "tal condición no tiene la fuerza de otorgarles la categoría "
  },
  {
   "archivo": "t35.md",
   "palabras": 25,
-  "fuente": "L:7794:art. 180",
+  "fuente": "O:06784:p. 10",
   "estado": "OK",
-  "cita": "Las donaciones de recursos económicos deberán estar justific"
- },
- {
-  "archivo": "t35.md",
-  "palabras": 12,
-  "fuente": "L:7800:art. 106",
-  "estado": "OK",
-  "cita": "su destino no podrá ser variado sino en virtud de una ley"
+  "cita": "negarse a prestar toda la colaboración que requiera el CCDR "
  },
  {
   "archivo": "t35.md",
@@ -86,23 +79,9 @@
  {
   "archivo": "t35.md",
   "palabras": 9,
-  "fuente": "D:C-136-2002:conclusión",
+  "fuente": "L:7794:art. 179",
   "estado": "OK",
-  "cita": "forman parte de la estructura organizativa de las municipali"
- },
- {
-  "archivo": "t35.md",
-  "palabras": 13,
-  "fuente": "D:C-045-2014:conclusión",
-  "estado": "OK",
-  "cita": "tal condición no tiene la fuerza de otorgarles la categoría "
- },
- {
-  "archivo": "t35.md",
-  "palabras": 12,
-  "fuente": "D:C-220-2015:conclusión",
-  "estado": "OK",
-  "cita": "establecer una obligación de la Municipalidad respectiva de "
+  "cita": "No podrán recibir dineros públicos instalaciones de acceso r"
  },
  {
   "archivo": "t35.md",
@@ -120,10 +99,31 @@
  },
  {
   "archivo": "t35.md",
-  "palabras": 25,
-  "fuente": "O:06784:p. 10",
+  "palabras": 12,
+  "fuente": "L:7800:art. 106",
   "estado": "OK",
-  "cita": "negarse a prestar toda la colaboración que requiera el CCDR "
+  "cita": "su destino no podrá ser variado sino en virtud de una ley"
+ },
+ {
+  "archivo": "t35.md",
+  "palabras": 21,
+  "fuente": "V:2025-041927:considerando VI",
+  "estado": "OK",
+  "cita": "falta de coordinación existente entre la Municipalidad de Sa"
+ },
+ {
+  "archivo": "t35.md",
+  "palabras": 30,
+  "fuente": "L:7794:art. 180",
+  "estado": "OK",
+  "cita": "También podrán otorgar becas deportivas y realizar donacione"
+ },
+ {
+  "archivo": "t35.md",
+  "palabras": 25,
+  "fuente": "L:7794:art. 180",
+  "estado": "OK",
+  "cita": "Las donaciones de recursos económicos deberán estar justific"
  },
  {
   "archivo": "t35.md",
@@ -141,16 +141,16 @@
  },
  {
   "archivo": "t35.md",
-  "palabras": 21,
-  "fuente": "V:2025-041927:considerando VI",
-  "estado": "OK",
-  "cita": "falta de coordinación existente entre la Municipalidad de Sa"
- },
- {
-  "archivo": "t35.md",
   "palabras": 22,
   "fuente": "RM:escazu-ccdr:art. 62",
   "estado": "OK",
   "cita": "no reconocerá a ninguna organización deportiva o recreativa "
+ },
+ {
+  "archivo": "t35.md",
+  "palabras": 12,
+  "fuente": "D:C-220-2015:conclusión",
+  "estado": "OK",
+  "cita": "establecer una obligación de la Municipalidad respectiva de "
  }
 ]

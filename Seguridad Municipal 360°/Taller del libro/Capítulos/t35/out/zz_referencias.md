@@ -8,6 +8,10 @@ Contraloría General de la República. (2025, 5 de agosto). *Índice de Gestión
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
 
+Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
+Contraloría General de la República. (2026, julio). *Modelo de guía interna de verificación de requisitos del bloque de legalidad presupuestario que deben cumplir las municipalidades en la formulación de su presupuesto inicial y variaciones sujetas a la aprobación presupuestaria de la Contraloría General de la República*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
 Ley N.° 6227, *Ley General de la Administración Pública*. (1978). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=13231&param2=153093&param3=1
 
 Ley N.° 7739, *Código de la Niñez y la Adolescencia*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=43077&param2=143888&param3=1
@@ -15,6 +19,8 @@ Ley N.° 7739, *Código de la Niñez y la Adolescencia*. (1998). Asamblea Legisl
 Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40197&param2=152716&param3=1
 
 Ley N.° 7800, *Crea Instituto del Deporte y Recreación (ICODER) y su Régimen Jurídico*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=26290&param2=132169&param3=1
+
+Ley N.° 9329, *Ley Especial para la Transferencia de Competencias: Atención Plena y Exclusiva de la Red Vial Cantonal*. (2015). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=80581&param2=150839&param3=1
 
 Ley N.° 10626, *Ley para el fortalecimiento de los Comités Cantonales de Deportes y Recreación*. (2024). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=103686&param2=144291&param3=1
 
@@ -27,6 +33,8 @@ Procuraduría General de la República. (2002, 4 de junio). *Dictamen C-136-2002
 Procuraduría General de la República. (2014, 19 de febrero). *Dictamen C-045-2014*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=17995&param2=0
 
 Procuraduría General de la República. (2015, 13 de agosto). *Dictamen C-220-2015*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=19098&param2=0
+
+Procuraduría General de la República. (2015, 20 de noviembre). *Dictamen C-315-2015*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=19479&param2=0
 
 Procuraduría General de la República. (2016, 30 de mayo). *Dictamen C-122-2016*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=19560&param2=0
 
