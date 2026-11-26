@@ -10,6 +10,8 @@ Ley N.° 833, *Ley de Construcciones*. (1949). Asamblea Legislativa de la Repúb
 
 Ley N.° 4240, *Ley de Planificación Urbana*. (1968). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=35669&param2=143656&param3=1
 
+Ley N.° 4574, *Código Municipal*. (1970). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
+
 Ley N.° 6227, *Ley General de la Administración Pública*. (1978). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=13231&param2=153093&param3=1
 
 Ley N.° 7509, *Ley de Impuesto sobre Bienes Inmuebles*. (1995). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=26598&param2=148757&param3=1
@@ -35,6 +37,8 @@ Municipalidad de Montes de Oro. (2006, 21 de agosto). *Reglamento para el Progra
 Municipalidad de San Rafael de Heredia. (2016, 14 de octubre). *Reglamento de Autorizaciones de Permiso de Uso en Precario de Viviendas en la Municipalidad de San Rafael de Heredia*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=82783&param2=106024&param3=1
 
 Procuraduría General de la República. (2000, 29 de setiembre). *Dictamen C-240-2000*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=8465&param2=0
+
+Procuraduría General de la República. (2010, 22 de noviembre). *Dictamen C-237-2010*.
 
 Procuraduría General de la República. (2014, 20 de octubre). *Dictamen C-345-2014*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=18884&param2=0
 

@@ -74,6 +74,7 @@ ESPECIALES['10594'] = '/home/claude/libro/fuentes/Ley 10594.md'
 ESPECIALES['8661'] = '/home/claude/libro/fuentes/Ley 8661.md'
 ESPECIALES['7948'] = '/home/claude/libro/fuentes/Ley 7948.md'
 ESPECIALES['6968'] = '/home/claude/libro/fuentes/Ley 6968.md'
+ESPECIALES['4574'] = '/home/claude/libro/fuentes/Ley 4574.md'
 FUENTE_LEY = {'10939': 'La Gaceta N.° 91, Alcance N.° 59, 20 de mayo de 2026.'}
 
 

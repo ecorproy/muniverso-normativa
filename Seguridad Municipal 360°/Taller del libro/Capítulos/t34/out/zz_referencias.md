@@ -52,6 +52,8 @@ Municipalidad de Oreamuno. (2025, 2 de diciembre). *Reglamento de protección y 
 
 Municipalidad de Orotina. (2026, 30 de abril). *Reglamento interno de las Comisiones de Festejos Populares de la Municipalidad de Orotina*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=107670&param2=152117&param3=1
 
+Procuraduría General de la República. (2010, 22 de noviembre). *Dictamen C-237-2010*.
+
 Procuraduría General de la República. (2015, 6 de febrero). *Dictamen C-052-2015*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=18732&param2=0
 
 Procuraduría General de la República. (2017, 1 de junio). *Dictamen C-115-2017*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=19922&param2=0
@@ -68,7 +70,11 @@ Procuraduría General de la República. (2023, 27 de noviembre). *Dictamen C-246
 
 Procuraduría General de la República. (2024, 30 de enero). *Dictamen C-011-2024*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24215&param2=0
 
+Procuraduría General de la República. (2024, 26 de febrero). *Opinión jurídica OJ-026-2024*.
+
 Procuraduría General de la República. (2024, 20 de mayo). *Dictamen C-089-2024*.
+
+Procuraduría General de la República. (2026, 8 de junio). *Opinión jurídica OJ-090-2026*.
 
 Sala Constitucional de la Corte Suprema de Justicia. (2003, 7 de mayo). *Voto N.° 2003-003656, de las 14:43 horas* (expediente 99-001540-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-237158
 

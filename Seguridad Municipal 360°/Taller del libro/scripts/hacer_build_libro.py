@@ -166,7 +166,7 @@ src = src[:j] + '\n' + extra + src[j:]
 # leyes que no están en el repositorio y se leen del diario oficial
 e1 = "ESPECIALES = {'7135': '/home/claude/repo/main/Leyes y decretos nacionales/Constitucional/Ley Jurisdicción Constitucional.md'}"
 assert src.count(e1) == 1
-src = src.replace(e1, e1 + "\nESPECIALES['10939'] = '/home/claude/libro/fuentes/Ley 10939.md'\nESPECIALES['8799'] = '/home/claude/libro/fuentes/Ley 8799.md'\nESPECIALES['9458'] = '/home/claude/libro/fuentes/Ley 9458.md'\nESPECIALES['10594'] = '/home/claude/libro/fuentes/Ley 10594.md'\nESPECIALES['8661'] = '/home/claude/libro/fuentes/Ley 8661.md'\nESPECIALES['7948'] = '/home/claude/libro/fuentes/Ley 7948.md'\nESPECIALES['6968'] = '/home/claude/libro/fuentes/Ley 6968.md'\nFUENTE_LEY = {'10939': 'La Gaceta N.° 91, Alcance N.° 59, 20 de mayo de 2026.'}")
+src = src.replace(e1, e1 + "\nESPECIALES['10939'] = '/home/claude/libro/fuentes/Ley 10939.md'\nESPECIALES['8799'] = '/home/claude/libro/fuentes/Ley 8799.md'\nESPECIALES['9458'] = '/home/claude/libro/fuentes/Ley 9458.md'\nESPECIALES['10594'] = '/home/claude/libro/fuentes/Ley 10594.md'\nESPECIALES['8661'] = '/home/claude/libro/fuentes/Ley 8661.md'\nESPECIALES['7948'] = '/home/claude/libro/fuentes/Ley 7948.md'\nESPECIALES['6968'] = '/home/claude/libro/fuentes/Ley 6968.md'\nESPECIALES['4574'] = '/home/claude/libro/fuentes/Ley 4574.md'\nFUENTE_LEY = {'10939': 'La Gaceta N.° 91, Alcance N.° 59, 20 de mayo de 2026.'}")
 src = src.replace("ESPECIALES['10939'] =", "ESPECIALES['9017'] = '/home/claude/repo/main/Leyes locales/Alajuela/Poás/Ley 9017.md'\nESPECIALES['10939'] =", 1)
 e2 = "Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.{url}')\n    return y"
 assert src.count(e2) == 1
