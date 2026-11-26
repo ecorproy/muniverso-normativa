@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 100 | OK: 88
+CITAS TEXTUALES: 113 | OK: 101
   [all.md] 8p | Tocqueville, s. f. | , p. 76 | SIN FUENTE LOCAL | "centro de las relaciones ordinarias de la vida"
   [all.md] 6p | Pérez Hernández et al., 2019 | , p. 139 | SIN FUENTE LOCAL | "se trata de un concepto relativo"
   [all.md] 10p | Pérez Hernández et al., 2019 | , p. 142 | SIN FUENTE LOCAL | "se defiende una equivalencia entre lo local y el municipio"
@@ -12,7 +12,7 @@ CITAS TEXTUALES: 100 | OK: 88
   [all.md] 14p | Wilches-Chaux, 2007 | , p. 113 | SIN FUENTE LOCAL | "Cuando hablamos de 'lo local', nos referimos en general a 'l"
   [all.md] 8p | Wilches-Chaux, 2007 | , p. 115 | SIN FUENTE LOCAL | "poner la cara ante la comunidad que gobierna"
 
-UBICACIONES VERIFICADAS A MANO (8):
+UBICACIONES VERIFICADAS A MANO (11):
   [all.md] V:1999-005445:considerando VI: "se trata de una competencia originaria de la munic" (segmentador: ['RESULTANDO', 'IV'])
   [all.md] V:1999-005445:considerando VI: "si la municipalidad está o no en capacidad real y " (segmentador: ['RESULTANDO', 'IV'])
   [all.md] V:1999-005445:considerando VI: "cuando el problema desborda la circunscripción ter" (segmentador: ['RESULTANDO', 'IV'])
@@ -21,6 +21,9 @@ UBICACIONES VERIFICADAS A MANO (8):
   [all.md] D:C-287-2024:apartado II: "Los intereses nacionales pueden ser también locale" (segmentador: ['V'])
   [all.md] D:C-287-2024:apartado II: "Lo local y lo nacional no puede ni debe ser objeto" (segmentador: ['V'])
   [all.md] D:C-287-2024:apartado II: "garantizar su simbiosis en aras del bien común" (segmentador: ['V'])
+  [all.md] D:C-255-2022:apartado II: "no ha previsto un sistema municipal que funcione a" (segmentador: [])
+  [all.md] D:C-255-2022:apartado II: "se busca evitar que existan duplicidades y omision" (segmentador: [])
+  [all.md] D:C-223-2022:apartado II: "de tal manera que la política o acción coordinada " (segmentador: [])
 
 ERRORES (0):
 
