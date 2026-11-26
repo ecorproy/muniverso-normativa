@@ -1395,3 +1395,11 @@ El autor adjuntó los dictámenes C-125-2022 (Moravia, CCSS y licencia municipal
 
 - Capítulo 2, «La Procuraduría General de la República»: cuatro párrafos nuevos (aceras en ruta nacional y deber de instar, en bloque; amparo de Oreamuno 15639-2022 según lo transcribe C-231-2022; exención del art. 75 de la Ley de Construcciones, «micro estados», no es «un portillo», la bodega se ajusta al plan regulador; la coordinación como principio estructural, sin sistema municipal «a espaldas» de las instituciones nacionales, Jinesta sobre duplicidades y omisiones, coordinación sin coerción, y la definición del voto 1999-005445, cons. X). Cierre de la sección con el deber de instar. Ubicaciones «apartado II!» de C-255 y C-223 cotejadas a mano (el segmentador no separa sus apartados). 113 citas, 0 errores; pestaña rev 37, 45.487 bytes, sha256 57da02e8…, IDÉNTICO.
 - Capítulo 3: la definición incorpora que, cuando la necesidad corresponde a otra institución, la municipalidad la insta a atenderla; «totalidad de vecinos» (Sala, transcrita en C-125-2022); coordinación como principio estructural; aceras de rutas nacionales y servicios de salud de la CCSS en la zona de certeza negativa, donde la municipalidad coordina, comunica e insta. Pestaña rev 8, 26.774 bytes, sha256 fa23be0e…, IDÉNTICO.
+
+### 26 de noviembre de 2026 — Enlace de C-231-2022 y dictamen C-195-2024
+
+El autor aportó el enlace SINALEVI de C-231-2022 (param1=23622), que se agregó al repositorio de fuentes, y el dictamen C-195-2024 (Montes de Oca, mobiliario en aceras), que ya estaba en el repositorio y coincide.
+
+- Capítulo 2: párrafo nuevo con C-195-2024 (coordinación «en resguardo y tutela de los derechos fundamentales de los usuarios»; coordinación «oportuna y adecuada» ante peligro en aceras de rutas nacionales; «competencia prevalente» municipal para aprobar obras y mobiliario en aceras, «tanto en vías nacionales como cantonales», Ley 9976, art. 10). Pestaña rev 39, 47.028 bytes, sha256 cc88fcfd…, IDÉNTICO.
+- Capítulo 3: el deber de instar se apoya también en C-195-2024 y en el art. 84 CM («está obligada a suplir la inacción del propietario» cuando conoce la situación de peligro). Pestaña rev 10, 27.770 bytes, sha256 c5d7e597…, IDÉNTICO.
+- Ubicaciones «apartado I!» de C-195-2024 cotejadas a mano: el segmentador confunde el «II.» de un dictamen transcrito dentro del apartado I.

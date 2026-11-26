@@ -30,9 +30,11 @@ Procuraduría General de la República. (2022, 3 de junio). *Dictamen C-125-2022
 
 Procuraduría General de la República. (2022, 10 de octubre). *Dictamen C-223-2022*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23803&param2=0
 
-Procuraduría General de la República. (2022, 26 de octubre). *Dictamen C-231-2022*.
+Procuraduría General de la República. (2022, 26 de octubre). *Dictamen C-231-2022*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23622
 
 Procuraduría General de la República. (2022, 20 de noviembre). *Dictamen C-255-2022*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23744&param2=0
+
+Procuraduría General de la República. (2024, 5 de setiembre). *Dictamen C-195-2024*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24632&param2=0
 
 Procuraduría General de la República. (2024, 9 de diciembre). *Dictamen C-287-2024*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24758&param2=0
 
