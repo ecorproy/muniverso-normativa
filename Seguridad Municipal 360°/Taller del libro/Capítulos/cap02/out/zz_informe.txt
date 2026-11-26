@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 128 | OK: 111
+CITAS TEXTUALES: 129 | OK: 112
   [all.md] 8p | Tocqueville, s. f. | , p. 76 | SIN FUENTE LOCAL | "centro de las relaciones ordinarias de la vida"
   [all.md] 19p | Cortés García, 2026 | , capítulo 33 | LITERAL (sin localización que cotejar) | "una fuente confiable de criterios jurídicos uniformes que no"
   [all.md] 14p | Cortés García, 2026 | , capítulo 33 | LITERAL (sin localización que cotejar) | "marcó el fin de una era de estabilidad jurídica para el régi"

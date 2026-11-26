@@ -1472,3 +1472,16 @@ Conversación previa con el autor. Acuerdos: en el centro hay dos personas (la q
 - Capítulo 4: «Dos personas» las presenta como núcleo y agrega los deberes de la persona servida (CP 18 y 19), con la participación apoyada en CP 9 y Ley 10159 art. 4, no en el 18.
 
 Publicación con operaciones puntuales. Capítulo 1 rev 13, 49.676 bytes, sha256 165be2ab…; capítulo 3 rev 13, 33.588 bytes, sha256 30af11d1…; capítulo 4 rev 14, 55.647 bytes, sha256 3f45757c…; los tres IDÉNTICO. Word final21.
+
+## 26 de noviembre de 2026, noche: evaluación externa, lo conducente en los capítulos 1 a 4
+
+El autor entregó una evaluación crítica del manuscrito (93/100) y pidió aplicar lo conducente. Aplicado:
+
+- Capítulo 1: «Un año después» corregido a «Tres meses después» (votos 2026-013450, 21 de abril, y 2026-025649, 10 de julio); en «Cómo leer este libro», las imágenes (micelio, célula, Holmes) explican y no atribuyen competencias; en «Cómo muere la red», la capacidad no extingue la competencia.
+- Capítulo 2: la falta de capacidad no extingue lo local, es la razón admitida para que una ley lo desplace; párrafo nuevo: identificar la necesidad local no habilita cualquier instrumento (LGAP 11 y 12).
+- Capítulo 3: definición de lo local ajustada en su última frase (titularidad frente a capacidad); párrafo de titularidad, capacidad, ejercicio y traslado; párrafo que fija el alcance de «responde», «ninguna necesidad» y «ningún vacío de norma» (LGAP 9, 11 y 12) sin cambiar la definición de Seguridad Municipal 360°; párrafo de categorías (deber, facultad, discrecionalidad, concurrencia, coordinación, exclusión); la reciprocidad no es contraprestación individual; los 36 temas son ámbitos, no zona de certeza en bloque; sección nueva «Cómo se construyó el libro» (fuentes, autoridad de cada una con LJC art. 13 y Ley 6815 art. 2, regla frente a medidas del caso, cuatro clases de afirmaciones).
+- Capítulo 4: el tributo como aporte al conjunto, no precio de la protección; párrafo sobre responsabilidad institucional (LGAP 190) frente a la personal (LGAP 199; Ley 10159 art. 21).
+
+Pendiente de decisión del autor: redacción alternativa de la definición propuesta por el evaluador; subtítulo; capítulo final «De la red a la acción» con matriz de los 36 temas; uniformar «Con qué se paga» en los 12 temas que no lo tienen como encabezado; matiz del art. 55 de la Ley 5412 en el tema 1; índices analítico, de jurisprudencia y de legislación; figura de la célula y la red.
+
+Capítulo 1 rev 14, 50.045 bytes, sha256 64ce486a…; capítulo 2 rev 43, 52.743 bytes, sha256 eab72939…; capítulo 3 rev 14, 38.227 bytes, sha256 48ba4324…; capítulo 4 rev 15, 56.799 bytes, sha256 1250d6bd…; los cuatro IDÉNTICO. Word final22.

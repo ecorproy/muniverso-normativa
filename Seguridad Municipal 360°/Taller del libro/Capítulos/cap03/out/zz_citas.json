@@ -446,5 +446,19 @@
   "fuente": "CP:art. 50",
   "estado": "OK",
   "cita": "de acceso al agua potable"
+ },
+ {
+  "archivo": "cap03.md",
+  "palabras": 8,
+  "fuente": "L:7135:art. 13",
+  "estado": "OK",
+  "cita": "son vinculantes erga omnes, salvo para sí misma"
+ },
+ {
+  "archivo": "cap03.md",
+  "palabras": 8,
+  "fuente": "L:6815:art. 2",
+  "estado": "OK",
+  "cita": "son de acatamiento obligatorio para la Administración Públic"
  }
 ]
