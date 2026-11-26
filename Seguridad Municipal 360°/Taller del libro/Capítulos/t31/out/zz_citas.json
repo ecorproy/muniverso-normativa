@@ -36,6 +36,97 @@
  },
  {
   "archivo": "t31.md",
+  "palabras": 12,
+  "fuente": "V:2012-004620:considerando IV",
+  "estado": "OK",
+  "cita": "el maltrato a los animales constituye un acto contrario a la"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 5,
+  "fuente": "V:2012-004620:considerando IV",
+  "estado": "OK",
+  "cita": "un asunto de relevancia constitucional"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 5,
+  "fuente": "V:2012-004620:considerando IV",
+  "estado": "OK",
+  "cita": "las tradiciones del pueblo costarricense"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 8,
+  "fuente": "L:5395:art. 184",
+  "estado": "OK",
+  "cita": "evitar la trasmisión de zoonosis a las personas"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 9,
+  "fuente": "L:5395:art. 186",
+  "estado": "OK",
+  "cita": "podrá ordenar el decomiso o sacrificio de los animales"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 11,
+  "fuente": "V:2012-004620:considerando VI",
+  "estado": "OK",
+  "cita": "una amenaza demostrada a la salud y bienestar de los toros"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 11,
+  "fuente": "V:2012-004620:considerando VI",
+  "estado": "OK",
+  "cita": "se debe proteger del padecimiento, maltrato y crueldad sin j"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 10,
+  "fuente": "V:2012-004620:considerando VI",
+  "estado": "OK",
+  "cita": "un límite constitucional y razonable al derecho a la recreac"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 8,
+  "fuente": "V:2012-004620:considerando VI",
+  "estado": "OK",
+  "cita": "no tienen arraigo alguno en la cultura costarricense"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 9,
+  "fuente": "V:2012-004620:considerando VII",
+  "estado": "OK",
+  "cita": "ninguna de estas entidades había autorizado la actividad imp"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 4,
+  "fuente": "V:2012-004620:considerando VII",
+  "estado": "OK",
+  "cita": "extremos de mera legalidad"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 13,
+  "fuente": "V:2012-004620:voto salvado",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "no se diferencia en nada sustantivo a los llamados 'toros a "
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 25,
+  "fuente": "L:7451:art. 15 bis",
+  "estado": "OK",
+  "cita": "cumplan con las disposiciones del Ministerio de Salud y del "
+ },
+ {
+  "archivo": "t31.md",
   "palabras": 14,
   "fuente": "L:2391:art. 1",
   "estado": "OK",
@@ -61,34 +152,6 @@
   "fuente": "L:2391:art. 5",
   "estado": "OK",
   "cita": "los gastos que fije la Municipalidad para las capturas y los"
- },
- {
-  "archivo": "t31.md",
-  "palabras": 23,
-  "fuente": "L:5346:art. 2",
-  "estado": "OK",
-  "cita": "serán recogidos o sacrificados por las autoridades de los Mi"
- },
- {
-  "archivo": "t31.md",
-  "palabras": 5,
-  "fuente": "L:5346:art. 3",
-  "estado": "OK",
-  "cita": "contra la salud pública veterinaria"
- },
- {
-  "archivo": "t31.md",
-  "palabras": 8,
-  "fuente": "L:5346:art. 6",
-  "estado": "OK",
-  "cita": "a la orden de las tesorerías municipales respectivas"
- },
- {
-  "archivo": "t31.md",
-  "palabras": 8,
-  "fuente": "L:5346:art. 5",
-  "estado": "OK",
-  "cita": "a favor del Estado o de las municipalidades"
  },
  {
   "archivo": "t31.md",
@@ -124,6 +187,62 @@
   "fuente": "L:7451:art. 20",
   "estado": "OK",
   "cita": "En la medida de lo posible"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 23,
+  "fuente": "L:5346:art. 2",
+  "estado": "OK",
+  "cita": "serán recogidos o sacrificados por las autoridades de los Mi"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 5,
+  "fuente": "L:5346:art. 3",
+  "estado": "OK",
+  "cita": "contra la salud pública veterinaria"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 8,
+  "fuente": "L:5346:art. 6",
+  "estado": "OK",
+  "cita": "a la orden de las tesorerías municipales respectivas"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 8,
+  "fuente": "L:5346:art. 5",
+  "estado": "OK",
+  "cita": "a favor del Estado o de las municipalidades"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 22,
+  "fuente": "L:5346:art. 6",
+  "estado": "OK",
+  "cita": "preferentemente, en el cumplimiento de esta ley y en la aten"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 25,
+  "fuente": "L:5346:art. 7",
+  "estado": "OK",
+  "cita": "Por cada sogazo, la persona que lo realice tendrá derecho a "
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 8,
+  "fuente": "L:8799:art. 3, inciso g",
+  "estado": "OK",
+  "cita": "por simple arreo a caballo o a pie"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 32,
+  "fuente": "L:8799:art. 10",
+  "estado": "OK",
+  "cita": "las autoridades de Policía del Ministerio de Seguridad Públi"
  },
  {
   "archivo": "t31.md",
@@ -197,24 +316,17 @@
  },
  {
   "archivo": "t31.md",
-  "palabras": 8,
-  "fuente": "L:8799:art. 3, inciso g",
+  "palabras": 11,
+  "fuente": "D:C-293-2020:conclusión 2",
   "estado": "OK",
-  "cita": "por simple arreo a caballo o a pie"
- },
- {
-  "archivo": "t31.md",
-  "palabras": 32,
-  "fuente": "L:8799:art. 10",
-  "estado": "OK",
-  "cita": "las autoridades de Policía del Ministerio de Seguridad Públi"
+  "cita": "tienen competencias concurrentes, no excluyentes, que deben "
  },
  {
   "archivo": "t31.md",
   "palabras": 9,
-  "fuente": "L:8436:art. 39",
+  "fuente": "RM:sancarlos-policia:art. 14, inciso r",
   "estado": "OK",
-  "cita": "así como el aprovechamiento de sus lugares de cría"
+  "cita": "Ejecutar iniciativas que promuevan la tenencia responsable d"
  },
  {
   "archivo": "t31.md",
@@ -253,87 +365,59 @@
  },
  {
   "archivo": "t31.md",
-  "palabras": 11,
-  "fuente": "D:C-293-2020:conclusión 2",
+  "palabras": 19,
+  "fuente": "RM:cartago-cmeca:art. 3",
   "estado": "OK",
-  "cita": "tienen competencias concurrentes, no excluyentes, que deben "
+  "cita": "colaborar en el control de la sobrepoblación de perros y gat"
  },
  {
   "archivo": "t31.md",
-  "palabras": 12,
-  "fuente": "V:2012-004620:considerando IV",
+  "palabras": 17,
+  "fuente": "RM:cartago-cmeca:art. 20",
   "estado": "OK",
-  "cita": "el maltrato a los animales constituye un acto contrario a la"
+  "cita": "todos los animales que sean esterilizados en el CMECA serán "
  },
  {
   "archivo": "t31.md",
-  "palabras": 5,
-  "fuente": "V:2012-004620:considerando IV",
+  "palabras": 7,
+  "fuente": "RM:cartago-cmeca:art. 14, inciso d",
   "estado": "OK",
-  "cita": "un asunto de relevancia constitucional"
+  "cita": "Dirección exacta donde se realizó la captura"
  },
  {
   "archivo": "t31.md",
-  "palabras": 5,
-  "fuente": "V:2012-004620:considerando IV",
+  "palabras": 28,
+  "fuente": "RM:cartago-cmeca:art. 26",
   "estado": "OK",
-  "cita": "las tradiciones del pueblo costarricense"
+  "cita": "podrá reconocerse como trabajo comunal de estudiantes de sec"
  },
  {
   "archivo": "t31.md",
-  "palabras": 11,
-  "fuente": "V:2012-004620:considerando VI",
+  "palabras": 16,
+  "fuente": "RM:talamanca-animales:art. 5",
   "estado": "OK",
-  "cita": "una amenaza demostrada a la salud y bienestar de los toros"
+  "cita": "garantizar la accesibilidad del servicio en su jurisdicción "
  },
  {
   "archivo": "t31.md",
-  "palabras": 11,
-  "fuente": "V:2012-004620:considerando VI",
+  "palabras": 15,
+  "fuente": "RM:talamanca-animales:art. 6, inciso e",
   "estado": "OK",
-  "cita": "se debe proteger del padecimiento, maltrato y crueldad sin j"
+  "cita": "Utilizar el 20 % del servicio de limpieza de vías para finan"
  },
  {
   "archivo": "t31.md",
-  "palabras": 10,
-  "fuente": "V:2012-004620:considerando VI",
+  "palabras": 2,
+  "fuente": "RM:talamanca-animales:art. 3",
   "estado": "OK",
-  "cita": "un límite constitucional y razonable al derecho a la recreac"
- },
- {
-  "archivo": "t31.md",
-  "palabras": 8,
-  "fuente": "V:2012-004620:considerando VI",
-  "estado": "OK",
-  "cita": "no tienen arraigo alguno en la cultura costarricense"
+  "cita": "(brindar/gestionar)"
  },
  {
   "archivo": "t31.md",
   "palabras": 9,
-  "fuente": "V:2012-004620:considerando VII",
+  "fuente": "L:8436:art. 39",
   "estado": "OK",
-  "cita": "ninguna de estas entidades había autorizado la actividad imp"
- },
- {
-  "archivo": "t31.md",
-  "palabras": 4,
-  "fuente": "V:2012-004620:considerando VII",
-  "estado": "OK",
-  "cita": "extremos de mera legalidad"
- },
- {
-  "archivo": "t31.md",
-  "palabras": 13,
-  "fuente": "V:2012-004620:voto salvado",
-  "estado": "LITERAL (sin localización que cotejar)",
-  "cita": "no se diferencia en nada sustantivo a los llamados 'toros a "
- },
- {
-  "archivo": "t31.md",
-  "palabras": 21,
-  "fuente": "V:2023-017863:considerando IV",
-  "estado": "OK",
-  "cita": "no había sido respondida por la autoridad recurrida, pese a "
+  "cita": "así como el aprovechamiento de sus lugares de cría"
  },
  {
   "archivo": "t31.md",
@@ -344,10 +428,59 @@
  },
  {
   "archivo": "t31.md",
-  "palabras": 25,
-  "fuente": "L:7451:art. 15 bis",
+  "palabras": 18,
+  "fuente": "L:7554:art. 31 bis",
   "estado": "OK",
-  "cita": "cumplan con las disposiciones del Ministerio de Salud y del "
+  "cita": "cantonal y nacional sea esta existente u obra nueva, interru"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 16,
+  "fuente": "RM:moravia-areas:art. 7",
+  "estado": "OK",
+  "cita": "una bitácora de consulta previa a los vecinos inmediatos al "
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 24,
+  "fuente": "RM:montesdeoca-servicios:art. 52",
+  "estado": "OK",
+  "cita": "La Municipalidad proveerá la gestión sanitaria de animales m"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 8,
+  "fuente": "RM:santaana-parques:art. 8, inciso j",
+  "estado": "OK",
+  "cita": "en áreas no destinadas a dicho uso específico"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 9,
+  "fuente": "RM:santaana-parques:art. 12, inciso c",
+  "estado": "OK",
+  "cita": "ya sea por las personas usuarias o sus mascotas"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 8,
+  "fuente": "RM:coronado-parques:art. 4, inciso g",
+  "estado": "OK",
+  "cita": "Infografía de las normas de convivencia para mascotas"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 15,
+  "fuente": "RM:heredia-canes:presentación",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "luego de servir a la sociedad durante sus años más activos o"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 21,
+  "fuente": "V:2023-017863:considerando IV",
+  "estado": "OK",
+  "cita": "no había sido respondida por la autoridad recurrida, pese a "
  },
  {
   "archivo": "t31.md",
@@ -400,41 +533,6 @@
  },
  {
   "archivo": "t31.md",
-  "palabras": 19,
-  "fuente": "RM:cartago-cmeca:art. 3",
-  "estado": "OK",
-  "cita": "colaborar en el control de la sobrepoblación de perros y gat"
- },
- {
-  "archivo": "t31.md",
-  "palabras": 17,
-  "fuente": "RM:cartago-cmeca:art. 20",
-  "estado": "OK",
-  "cita": "todos los animales que sean esterilizados en el CMECA serán "
- },
- {
-  "archivo": "t31.md",
-  "palabras": 16,
-  "fuente": "RM:talamanca-animales:art. 5",
-  "estado": "OK",
-  "cita": "garantizar la accesibilidad del servicio en su jurisdicción "
- },
- {
-  "archivo": "t31.md",
-  "palabras": 15,
-  "fuente": "RM:talamanca-animales:art. 6, inciso e",
-  "estado": "OK",
-  "cita": "Utilizar el 20 % del servicio de limpieza de vías para finan"
- },
- {
-  "archivo": "t31.md",
-  "palabras": 2,
-  "fuente": "RM:talamanca-animales:art. 3",
-  "estado": "OK",
-  "cita": "(brindar/gestionar)"
- },
- {
-  "archivo": "t31.md",
   "palabras": 4,
   "fuente": "L:6227:art. 66",
   "estado": "OK",
@@ -481,6 +579,13 @@
   "fuente": "L:4573:art. 279 quáter, inciso h",
   "estado": "OK",
   "cita": "de conformidad con la legislación vigente"
+ },
+ {
+  "archivo": "t31.md",
+  "palabras": 10,
+  "fuente": "L:7794:art. 71",
+  "estado": "OK",
+  "cita": "solo serán posibles cuando las autorice, expresamente, una l"
  },
  {
   "archivo": "t31.md",

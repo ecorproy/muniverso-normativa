@@ -1,5 +1,6 @@
-CITAS TEXTUALES: 70 | OK: 69
+CITAS TEXTUALES: 85 | OK: 83
   [t31.md] 13p | V:2012-004620:voto salvado | LITERAL (sin localización que cotejar) | "no se diferencia en nada sustantivo a los llamados 'toros a "
+  [t31.md] 15p | RM:heredia-canes:presentación | LITERAL (sin localización que cotejar) | "luego de servir a la sociedad durante sus años más activos o"
 
 UBICACIONES VERIFICADAS A MANO (0):
 
