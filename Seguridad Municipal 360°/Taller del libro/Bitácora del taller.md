@@ -1300,3 +1300,17 @@ Documento de la introducción, pestaña 3c078c22-ec74, nodo bff35156-8d19, rev 2
 No se usó: TCA III 251-2023 (Osa, jerarquía impropia laboral), que ya está en el tema 18 y no trata el concepto de lo local.
 
 Con esto quedan en régimen nuevo el capítulo 2 y los temas 1 a 36. Sigue la unión de la introducción y los cuatro cuadrantes en un solo documento.
+
+### 26 de noviembre de 2026 — El libro en un solo documento
+
+El documento de la introducción (ea3a20c9-5590-4348-8143-a9c732845d21) pasa a ser el libro completo, con las pestañas a la izquierda:
+
+- «2. Lo local en el artículo 169» (3c078c22-ec74), orden a2.
+- «Cuadrante I. Vida» (658af803-dd2f), temas 1 a 9.
+- «Cuadrante II. Dignidad» (b29651e9-dbd7), temas 10 a 18.
+- «Cuadrante III. Protección especial» (c46faebd-315b), temas 19 a 27.
+- «Cuadrante IV. Bienestar y entorno» (a09c0a19-5457), temas 28 a 36.
+
+Cada tema es una subpestaña de su cuadrante, con el mismo título, la misma fecha de firma y el mismo cuerpo que en el documento de su cuadrante. El cuerpo se cargó desde el archivo verificado de cada tema (unido.md del repositorio, de «## El caso» en adelante). Se exportaron las 36 pestañas y todas dan IDÉNTICO contra el original (mismo sha256 y mismos bytes que la última verificación de cada tema). Los identificadores de pestaña de cada tema quedan en `scripts/libro_unido_ids.json`.
+
+Los cuatro documentos de cuadrante no se borraron. Desde ahora las correcciones se hacen en el libro unido; si se corrige un tema, se hace en su subpestaña y se verifica con el mismo ciclo.
