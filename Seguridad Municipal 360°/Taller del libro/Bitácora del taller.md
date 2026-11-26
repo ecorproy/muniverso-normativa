@@ -1511,3 +1511,7 @@ Tercera evaluación (97/100): da por consolidados los cuatro capítulos y recomi
 ## 26 de noviembre de 2026, noche: figuras de la evaluación del desempeño
 
 Seis figuras nuevas en «Productos y servicios prestados» (cap. 4), generador `scripts/figuras_diagramas_cap04.py`: 8 cuadro comparativo Ley 2166 / Ley 10159 / lo que agrega la Ley Marco (arts. 45-49 y 21, 27-29); 9 anatomía de un proceso y mapa de procesos (Zaratiegui; Medina León et al.); 10 del plan a la persona (CM 13, 130, 17; Ley 10159, 28, 29, 21; Ley 2166, 48, 49; voto 2025-008201), con lazo de retorno al plan; 11 composición de la calificación 80/20 y sus efectos; 12 quién fija cómo se evalúa (Mideplán y autonomía, C-136-2026); 13 producto interno y servicio prestado (LGAP 10, 16, 114). Las anteriores 8, 9 y 10 pasan a 14, 15 y 16. Word final27 (935 páginas en LibreOffice; figuras 8 a 13 en pp. 71, 74, 76, 79, 80 y 81).
+
+## 26 de noviembre de 2026, noche: figuras en Docs y Word en el repositorio
+
+Las dieciséis figuras se subieron como recursos del documento de Docs y se insertaron, con su leyenda en cursiva, en los mismos puntos que en el Word: cap. 1 (1-2), cap. 2 (3, antes de «Lo que queda»), cap. 3 (4-7), cap. 4 (8-15) y conclusión (16). Desde ahora la exportación de esas pestañas incluye las líneas de imagen y leyenda, de modo que el cotejo con `esperado.py` debe hacerse sobre el texto sin ellas. El Word final27 queda en `Word/`.
