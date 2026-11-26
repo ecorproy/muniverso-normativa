@@ -1,8 +1,8 @@
-CITAS TEXTUALES: 97 | OK: 92
-  [t28.md] 11p | DE:42075:considerando 4 | LITERAL (sin localización que cotejar) | "la cobertura insuficiente de sistemas de alcantarillado sani"
+CITAS TEXTUALES: 101 | OK: 96
   [t28.md] 1p | D:C-089-1988:respuesta segunda | LITERAL (sin localización que cotejar) | "excepcional"
   [t28.md] 7p | D:C-089-1988:respuesta segunda | LITERAL (sin localización que cotejar) | "Obligatoriamente deben traspasarlos a A y A"
   [t28.md] 7p | D:C-089-1988:respuesta quinta | LITERAL (sin localización que cotejar) | "los medios requeridos para proporcionar el servicio"
+  [t28.md] 11p | DE:42075:considerando 4 | LITERAL (sin localización que cotejar) | "la cobertura insuficiente de sistemas de alcantarillado sani"
   [t28.md] 21p | RM:invu-construcciones:considerando 9 | LITERAL (sin localización que cotejar) | "dotar a los gobiernos municipales que carezcan de la reglame"
 
 UBICACIONES VERIFICADAS A MANO (3):

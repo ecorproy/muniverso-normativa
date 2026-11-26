@@ -8,6 +8,20 @@
  },
  {
   "archivo": "t28.md",
+  "palabras": 11,
+  "fuente": "V:2023-020182:considerando IV",
+  "estado": "OK",
+  "cita": "la atención de la situación aún se encuentra en fase tempran"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 6,
+  "fuente": "V:2023-020182:por tanto",
+  "estado": "OK",
+  "cita": "el plazo máximo de doce meses"
+ },
+ {
+  "archivo": "t28.md",
   "palabras": 20,
   "fuente": "CP:art. 50",
   "estado": "OK",
@@ -40,20 +54,6 @@
   "fuente": "L:1634:art. 4",
   "estado": "OK",
   "cita": "siempre y cuando las respectivas Municipalidades no estén té"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 29,
-  "fuente": "L:1634:art. 10",
-  "estado": "OK",
-  "cita": "Los dineros que perciba cada Municipalidad por concepto de l"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 8,
-  "fuente": "L:1634:art. 11",
-  "estado": "OK",
-  "cita": "el valor, depreciación, operación y mantenimiento del sistem"
  },
  {
   "archivo": "t28.md",
@@ -93,37 +93,65 @@
  {
   "archivo": "t28.md",
   "palabras": 29,
-  "fuente": "L:7794:art. 83",
+  "fuente": "L:1634:art. 10",
   "estado": "OK",
-  "cita": "Por los servicios que preste, la municipalidad cobrará tasas"
+  "cita": "Los dineros que perciba cada Municipalidad por concepto de l"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 8,
+  "fuente": "L:1634:art. 11",
+  "estado": "OK",
+  "cita": "el valor, depreciación, operación y mantenimiento del sistem"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 1,
+  "fuente": "D:C-089-1988:respuesta segunda",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "excepcional"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 7,
+  "fuente": "D:C-089-1988:respuesta segunda",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "Obligatoriamente deben traspasarlos a A y A"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 7,
+  "fuente": "D:C-089-1988:respuesta quinta",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "los medios requeridos para proporcionar el servicio"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 9,
+  "fuente": "D:C-119-2023:apartado I",
+  "estado": "OK",
+  "cita": "mientras, a juicio del AyA, brinden un servicio eficiente"
  },
  {
   "archivo": "t28.md",
   "palabras": 11,
-  "fuente": "DE:42075:considerando 4",
-  "estado": "LITERAL (sin localización que cotejar)",
-  "cita": "la cobertura insuficiente de sistemas de alcantarillado sani"
+  "fuente": "D:C-119-2023:apartado I",
+  "estado": "OK",
+  "cita": "el AyA podría asumir la operación y administración del servi"
  },
  {
   "archivo": "t28.md",
-  "palabras": 10,
-  "fuente": "DE:42075:art. 6, inciso 2",
+  "palabras": 9,
+  "fuente": "D:C-317-2014:apartado I",
   "estado": "OK",
-  "cita": "regulaciones institucionales o municipales claramente defini"
+  "cita": "pertenece a las Municipalidades de la provincia de Heredia"
  },
  {
   "archivo": "t28.md",
-  "palabras": 17,
-  "fuente": "DE:42075:art. 37",
+  "palabras": 11,
+  "fuente": "D:C-317-2014:conclusión 1",
   "estado": "OK",
-  "cita": "a un cuerpo de agua, alcantarillado pluvial o cualquier otro"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 5,
-  "fuente": "L:833:art. 74",
-  "estado": "OK",
-  "cita": "licencia de la Municipalidad correspondiente"
+  "cita": "una adecuada coordinación entre la Empresa y los Gobiernos L"
  },
  {
   "archivo": "t28.md",
@@ -162,24 +190,24 @@
  },
  {
   "archivo": "t28.md",
-  "palabras": 1,
-  "fuente": "D:C-089-1988:respuesta segunda",
-  "estado": "LITERAL (sin localización que cotejar)",
-  "cita": "excepcional"
+  "palabras": 19,
+  "fuente": "O:10092:p. 8",
+  "estado": "OK",
+  "cita": "La administración y operación de los sistemas de acueductos "
  },
  {
   "archivo": "t28.md",
-  "palabras": 7,
-  "fuente": "D:C-089-1988:respuesta segunda",
-  "estado": "LITERAL (sin localización que cotejar)",
-  "cita": "Obligatoriamente deben traspasarlos a A y A"
+  "palabras": 11,
+  "fuente": "O:10092:p. 8",
+  "estado": "OK",
+  "cita": "los recursos que administran las ASADAS son de naturaleza ju"
  },
  {
   "archivo": "t28.md",
-  "palabras": 7,
-  "fuente": "D:C-089-1988:respuesta quinta",
-  "estado": "LITERAL (sin localización que cotejar)",
-  "cita": "los medios requeridos para proporcionar el servicio"
+  "palabras": 11,
+  "fuente": "V:2009-000494:considerando VII",
+  "estado": "OK",
+  "cita": "han actuado de manera diligente y según lo exige el ordenami"
  },
  {
   "archivo": "t28.md",
@@ -190,17 +218,38 @@
  },
  {
   "archivo": "t28.md",
-  "palabras": 16,
-  "fuente": "D:C-319-2015:conclusión",
+  "palabras": 20,
+  "fuente": "L:4240:art. 38, inciso c",
   "estado": "OK",
-  "cita": "se encuentra legalmente facultada para fijar las tasas por l"
+  "cita": "se considere prematuro por carecer de facilidades y servicio"
  },
  {
   "archivo": "t28.md",
-  "palabras": 14,
-  "fuente": "D:C-319-2015:conclusión",
+  "palabras": 10,
+  "fuente": "L:4240:art. 38, inciso b",
   "estado": "OK",
-  "cita": "la Ley no dispone un sistema tarifario determinado para ser "
+  "cita": "el importe de las obras de habilitación urbana del inmueble"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 20,
+  "fuente": "L:4240:art. 38",
+  "estado": "OK",
+  "cita": "si el urbanizador se compromete a costear las obras ejecutad"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 8,
+  "fuente": "RM:invu-construcciones:art. 117",
+  "estado": "OK",
+  "cita": "o el operador encargado de brindar el servicio"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 15,
+  "fuente": "L:68:art. 1",
+  "estado": "OK",
+  "cita": "en absoluto prohibida a las Municipalidades enajenar, hipote"
  },
  {
   "archivo": "t28.md",
@@ -239,69 +288,6 @@
  },
  {
   "archivo": "t28.md",
-  "palabras": 9,
-  "fuente": "D:C-119-2023:apartado I",
-  "estado": "OK",
-  "cita": "mientras, a juicio del AyA, brinden un servicio eficiente"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 11,
-  "fuente": "D:C-119-2023:apartado I",
-  "estado": "OK",
-  "cita": "el AyA podría asumir la operación y administración del servi"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 32,
-  "fuente": "D:C-240-1995:conclusión",
-  "estado": "OK",
-  "cita": "corresponde a la Municipalidad de Puntarenas la operación y "
- },
- {
-  "archivo": "t28.md",
-  "palabras": 15,
-  "fuente": "D:C-240-1995:apartado II",
-  "estado": "OK",
-  "cita": "no implica que esa potestad de regulación sea comprensiva de"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 10,
-  "fuente": "D:C-224-2022:conclusión 2",
-  "estado": "OK",
-  "cita": "su construcción y mantenimiento es una competencia propia de"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 27,
-  "fuente": "D:C-049-2026:conclusión 5",
-  "estado": "OK",
-  "cita": "puede requerir la ejecución de obras para proteger inmuebles"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 19,
-  "fuente": "O:10092:p. 8",
-  "estado": "OK",
-  "cita": "La administración y operación de los sistemas de acueductos "
- },
- {
-  "archivo": "t28.md",
-  "palabras": 11,
-  "fuente": "O:10092:p. 8",
-  "estado": "OK",
-  "cita": "los recursos que administran las ASADAS son de naturaleza ju"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 11,
-  "fuente": "V:2009-000494:considerando VII",
-  "estado": "OK",
-  "cita": "han actuado de manera diligente y según lo exige el ordenami"
- },
- {
-  "archivo": "t28.md",
   "palabras": 28,
   "fuente": "VT:2728-91:2002-003956:considerando VII",
   "estado": "OK",
@@ -320,34 +306,6 @@
   "fuente": "V:2005-001178:considerando IV",
   "estado": "OK",
   "cita": "ninguna persona está obligada a tolerar, siquiera por un mom"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 5,
-  "fuente": "V:2007-005894:considerando VII",
-  "estado": "OK",
-  "cita": "le corresponde a las municipalidades"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 3,
-  "fuente": "V:2007-005894:considerando VII",
-  "estado": "OK",
-  "cita": "debe ser compartida"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 8,
-  "fuente": "V:2007-005894:considerando X",
-  "estado": "OK",
-  "cita": "no se han logrado concretar en actuaciones materiales"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 23,
-  "fuente": "V:2007-005894:por tanto",
-  "estado": "OK",
-  "cita": "de inmediato adopten las acciones necesarias para eliminar d"
  },
  {
   "archivo": "t28.md",
@@ -421,6 +379,118 @@
  },
  {
   "archivo": "t28.md",
+  "palabras": 11,
+  "fuente": "DE:42075:considerando 4",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "la cobertura insuficiente de sistemas de alcantarillado sani"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 10,
+  "fuente": "DE:42075:art. 6, inciso 2",
+  "estado": "OK",
+  "cita": "regulaciones institucionales o municipales claramente defini"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 17,
+  "fuente": "DE:42075:art. 37",
+  "estado": "OK",
+  "cita": "a un cuerpo de agua, alcantarillado pluvial o cualquier otro"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 5,
+  "fuente": "L:833:art. 74",
+  "estado": "OK",
+  "cita": "licencia de la Municipalidad correspondiente"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 8,
+  "fuente": "RM:oreamuno-construccion:art. 72",
+  "estado": "OK",
+  "cita": "Se prohíbe la utilización de tanque séptico tradicional"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 12,
+  "fuente": "RM:paraiso-construcciones:art. 22",
+  "estado": "OK",
+  "cita": "siempre dejando la prevista frontal para la futura conexión "
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 21,
+  "fuente": "RM:invu-construcciones:considerando 9",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "dotar a los gobiernos municipales que carezcan de la reglame"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 11,
+  "fuente": "RM:invu-construcciones:art. 118",
+  "estado": "OK",
+  "cita": "Se prohíbe descargar las aguas residuales al sistema de alca"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 11,
+  "fuente": "RM:invu-construcciones:art. 121",
+  "estado": "OK",
+  "cita": "Se prohíbe descargar las aguas pluviales al sistema de drena"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 13,
+  "fuente": "RM:invu-construcciones:art. 121",
+  "estado": "OK",
+  "cita": "No se permite la caída libre de aguas pluviales sobre la vía"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 5,
+  "fuente": "V:2007-005894:considerando VII",
+  "estado": "OK",
+  "cita": "le corresponde a las municipalidades"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 3,
+  "fuente": "V:2007-005894:considerando VII",
+  "estado": "OK",
+  "cita": "debe ser compartida"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 8,
+  "fuente": "V:2007-005894:considerando X",
+  "estado": "OK",
+  "cita": "no se han logrado concretar en actuaciones materiales"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 23,
+  "fuente": "V:2007-005894:por tanto",
+  "estado": "OK",
+  "cita": "de inmediato adopten las acciones necesarias para eliminar d"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 32,
+  "fuente": "D:C-240-1995:conclusión",
+  "estado": "OK",
+  "cita": "corresponde a la Municipalidad de Puntarenas la operación y "
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 15,
+  "fuente": "D:C-240-1995:apartado II",
+  "estado": "OK",
+  "cita": "no implica que esa potestad de regulación sea comprensiva de"
+ },
+ {
+  "archivo": "t28.md",
   "palabras": 25,
   "fuente": "V:2002-010857:considerando III",
   "estado": "OK",
@@ -456,20 +526,6 @@
  },
  {
   "archivo": "t28.md",
-  "palabras": 11,
-  "fuente": "V:2023-020182:considerando IV",
-  "estado": "OK",
-  "cita": "la atención de la situación aún se encuentra en fase tempran"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 6,
-  "fuente": "V:2023-020182:por tanto",
-  "estado": "OK",
-  "cita": "el plazo máximo de doce meses"
- },
- {
-  "archivo": "t28.md",
   "palabras": 7,
   "fuente": "V:2023-013539:considerando III",
   "estado": "OK",
@@ -488,6 +544,20 @@
   "fuente": "V:2023-013539:considerando V",
   "estado": "OK",
   "cita": "porque no ha ejercido todas sus potestades legales, para obl"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 10,
+  "fuente": "D:C-224-2022:conclusión 2",
+  "estado": "OK",
+  "cita": "su construcción y mantenimiento es una competencia propia de"
+ },
+ {
+  "archivo": "t28.md",
+  "palabras": 27,
+  "fuente": "D:C-049-2026:conclusión 5",
+  "estado": "OK",
+  "cita": "puede requerir la ejecución de obras para proteger inmuebles"
  },
  {
   "archivo": "t28.md",
@@ -540,52 +610,31 @@
  },
  {
   "archivo": "t28.md",
-  "palabras": 8,
-  "fuente": "RM:oreamuno-construccion:art. 72",
+  "palabras": 29,
+  "fuente": "L:7794:art. 83",
   "estado": "OK",
-  "cita": "Se prohíbe la utilización de tanque séptico tradicional"
+  "cita": "Por los servicios que preste, la municipalidad cobrará tasas"
  },
  {
   "archivo": "t28.md",
-  "palabras": 12,
-  "fuente": "RM:paraiso-construcciones:art. 22",
+  "palabras": 20,
+  "fuente": "L:7593:art. 5",
   "estado": "OK",
-  "cita": "siempre dejando la prevista frontal para la futura conexión "
+  "cita": "incluso el agua potable, la recolección, el tratamiento y la"
  },
  {
   "archivo": "t28.md",
-  "palabras": 21,
-  "fuente": "RM:invu-construcciones:considerando 9",
-  "estado": "LITERAL (sin localización que cotejar)",
-  "cita": "dotar a los gobiernos municipales que carezcan de la reglame"
+  "palabras": 16,
+  "fuente": "D:C-319-2015:conclusión",
+  "estado": "OK",
+  "cita": "se encuentra legalmente facultada para fijar las tasas por l"
  },
  {
   "archivo": "t28.md",
-  "palabras": 11,
-  "fuente": "RM:invu-construcciones:art. 118",
+  "palabras": 14,
+  "fuente": "D:C-319-2015:conclusión",
   "estado": "OK",
-  "cita": "Se prohíbe descargar las aguas residuales al sistema de alca"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 11,
-  "fuente": "RM:invu-construcciones:art. 121",
-  "estado": "OK",
-  "cita": "Se prohíbe descargar las aguas pluviales al sistema de drena"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 13,
-  "fuente": "RM:invu-construcciones:art. 121",
-  "estado": "OK",
-  "cita": "No se permite la caída libre de aguas pluviales sobre la vía"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 8,
-  "fuente": "RM:invu-construcciones:art. 117",
-  "estado": "OK",
-  "cita": "o el operador encargado de brindar el servicio"
+  "cita": "la Ley no dispone un sistema tarifario determinado para ser "
  },
  {
   "archivo": "t28.md",
@@ -593,20 +642,6 @@
   "fuente": "L:8828:art. 6",
   "estado": "OK",
   "cita": "Se excluyen de la aplicación de esta ley los servicios públi"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 5,
-  "fuente": "L:30:art. 10",
-  "estado": "OK",
-  "cita": "en relación con el contexto"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 8,
-  "fuente": "L:30:art. 10",
-  "estado": "OK",
-  "cita": "atendiendo fundamentalmente al espíritu y finalidad de ellas"
  },
  {
   "archivo": "t28.md",
@@ -659,23 +694,16 @@
  },
  {
   "archivo": "t28.md",
-  "palabras": 20,
-  "fuente": "L:4240:art. 38, inciso c",
+  "palabras": 5,
+  "fuente": "L:30:art. 10",
   "estado": "OK",
-  "cita": "se considere prematuro por carecer de facilidades y servicio"
+  "cita": "en relación con el contexto"
  },
  {
   "archivo": "t28.md",
-  "palabras": 10,
-  "fuente": "L:4240:art. 38, inciso b",
+  "palabras": 8,
+  "fuente": "L:30:art. 10",
   "estado": "OK",
-  "cita": "el importe de las obras de habilitación urbana del inmueble"
- },
- {
-  "archivo": "t28.md",
-  "palabras": 20,
-  "fuente": "L:4240:art. 38",
-  "estado": "OK",
-  "cita": "si el urbanizador se compromete a costear las obras ejecutad"
+  "cita": "atendiendo fundamentalmente al espíritu y finalidad de ellas"
  }
 ]

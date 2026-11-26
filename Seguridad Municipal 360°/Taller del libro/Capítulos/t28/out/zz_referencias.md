@@ -12,6 +12,8 @@ Instituto Nacional de Vivienda y Urbanismo. (2018, 15 de marzo). *Reglamento de 
 
 Ley N.° 30, *Código Civil*. (1885). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
 
+Ley N.° 68, *Ley de Protección de las Cuencas Hidrograficas*. (1923). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=55380&param2=60683&param3=1
+
 Ley N.° 276, *Ley de Aguas*. (1942). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=11950&param2=91553&param3=1
 
 Ley N.° 833, *Ley de Construcciones*. (1949). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=36307&param2=143894&param3=1
@@ -25,6 +27,8 @@ Ley N.° 4240, *Ley de Planificación Urbana*. (1968). Asamblea Legislativa de l
 Ley N.° 6227, *Ley General de la Administración Pública*. (1978). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=13231&param2=153093&param3=1
 
 Ley N.° 7135, *Ley de la Jurisdicción Constitucional*. (1989). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
+
+Ley N.° 7593, *Ley de la Autoridad Reguladora de los Servicios Públicos (ARESEP)*. (1996). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=26314&param2=152025&param3=1
 
 Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40197&param2=152716&param3=1
 
@@ -41,6 +45,8 @@ Procuraduría General de la República. (1995, 21 de noviembre). *Dictamen C-240
 Procuraduría General de la República. (2001, 25 de octubre). *Dictamen C-295-2001*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=10745&param2=0
 
 Procuraduría General de la República. (2003, 29 de setiembre). *Opinión jurídica OJ-183-2003*.
+
+Procuraduría General de la República. (2014, 3 de octubre). *Dictamen C-317-2014*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=18432&param2=0
 
 Procuraduría General de la República. (2015, 23 de noviembre). *Dictamen C-319-2015*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=19176&param2=0
 
