@@ -1431,3 +1431,15 @@ El autor aportó el artículo de la revista *Eídos* y los artículos 69 a 81 de
 - «La cadena de obligaciones»: el Código de Trabajo en el cuarto eslabón; carrera de relevos y testigo que se cae (p. 66), aplicada al expediente y al caso de Heredia.
 
 7.142 palabras; 111 citas textuales, 0 errores, 0 avisos. Pestaña 992edff3-af70 rev 11: 48.068 bytes, sha256 00025711…, IDÉNTICO. Word reconstruido (final16).
+
+## 26 de noviembre de 2026, noche: Vílchez Ordoñez y Sánchez Davila (2021) en el capítulo 4
+
+Aporte del autor, «en lo conducente». Referencia corregida: los autores son Mercedes Vílchez Ordoñez y Keller Sánchez Davila, y el artículo ocupa las pp. 6444-6468 (el PDF termina en 6468), con DOI 10.37811/cl_rcm.v5i4.778. Texto en `fuentes/doctrina/vilchez_2021_pag.txt` (6.443 saltos al inicio). Citas secundarias: Soledispa Rodríguez et al. (2020), Márquez López (2017), Antón Chávez (2017) y Orellana Orellana et al. (2020), todas «como se citó en».
+
+- «Productos y servicios prestados»: imagen institucional y trato (p. 6465); advertencia sobre manejar el Estado como empresa (p. 6446) para justificar persona y no cliente; casos de Montecristi (p. 6460) y Piura (pp. 6463-6464); respuesta con el informe de labores de la alcaldía (CM art. 17 g).
+- «La dignidad de quien sirve»: mejora continua para el personal (p. 6465).
+- «La cadena de obligaciones»: el control no puede quedarse en revisión burocrática (p. 6464), junto al caso de Heredia.
+
+Voto 563-1997: el texto que el autor bajó de Nexus con ese número corresponde a otra resolución (00563-I-97, 3 de diciembre de 1997, adición pedida por el Contralor sobre la sentencia 15-95). La cita sigue tomada de la nota de SINALEVI al art. 81.
+
+7.634 palabras; 114 citas textuales, 0 errores. Pestaña 992edff3-af70 rev 12: 51.455 bytes, sha256 32697008…, IDÉNTICO. Word final17.

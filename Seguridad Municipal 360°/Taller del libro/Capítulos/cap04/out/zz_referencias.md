@@ -36,4 +36,6 @@ Sala Primera de la Corte Suprema de Justicia. (2006, 25 de mayo). *Resolución N
 
 Sala Primera de la Corte Suprema de Justicia. (2006, 19 de diciembre). *Resolución N.° 000979-F-2006, de las 7:55 horas* (expediente 98-000385-0163-CA). NexusPJ.
 
+Vílchez Ordoñez, M., & Sánchez Davila, K. (2021). Gestión por procesos e imagen institucional: En busca de mayor visibilidad municipal para los ciudadanos. *Ciencia Latina Revista Científica Multidisciplinar*, *5*(4), 6444-6468. https://doi.org/10.37811/cl_rcm.v5i4.778
+
 Zaratiegui, J. R. (1999). La gestión por procesos: Su papel e importancia en la empresa. *Economía Industrial*, (330), 81-88.
