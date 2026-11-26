@@ -1,4 +1,16 @@
-CITAS TEXTUALES: 68 | OK: 68
+CITAS TEXTUALES: 68 | OK: 56
+  [all.md] 8p | Tocqueville, s. f. | , p. 76 | SIN FUENTE LOCAL | "centro de las relaciones ordinarias de la vida"
+  [all.md] 6p | Pérez Hernández et al., 2019 | , p. 139 | SIN FUENTE LOCAL | "se trata de un concepto relativo"
+  [all.md] 10p | Pérez Hernández et al., 2019 | , p. 142 | SIN FUENTE LOCAL | "se defiende una equivalencia entre lo local y el municipio"
+  [all.md] 13p | Pérez Hernández et al., 2019 | , p. 142 | SIN FUENTE LOCAL | "las necesidades básicas de una persona se manifiestan, funda"
+  [all.md] 32p | Pérez Hernández et al., 2019 | , p. 142 | SIN FUENTE LOCAL | "existe proximidad entre las autoridades locales y los ciudad"
+  [all.md] 8p | Pérez Hernández et al., 2019 | , p. 142 | SIN FUENTE LOCAL | "siempre son una parcela del poder del Estado"
+  [all.md] 15p | Pérez Hernández et al., 2019 | , p. 144 | SIN FUENTE LOCAL | "el municipio no debe ver disminuida su capacidad de interven"
+  [all.md] 16p | Pérez Hernández et al., 2019 | , p. 153 | SIN FUENTE LOCAL | "la que está llamada a dar respuesta a los problemas comunale"
+  [all.md] 10p | Pérez Hernández et al., 2019 | , p. 153 | SIN FUENTE LOCAL | "el desarrollo local exige un municipio con capacidad de deci"
+  [all.md] 12p | Wilches-Chaux, 2007 | , p. 113 | SIN FUENTE LOCAL | "constituyen las unidades básicas del ordenamiento político y"
+  [all.md] 14p | Wilches-Chaux, 2007 | , p. 113 | SIN FUENTE LOCAL | "Cuando hablamos de 'lo local', nos referimos en general a 'l"
+  [all.md] 8p | Wilches-Chaux, 2007 | , p. 115 | SIN FUENTE LOCAL | "poner la cara ante la comunidad que gobierna"
 
 UBICACIONES VERIFICADAS A MANO (8):
   [all.md] V:1999-005445:considerando VI: "se trata de una competencia originaria de la munic" (segmentador: ['RESULTANDO', 'IV'])

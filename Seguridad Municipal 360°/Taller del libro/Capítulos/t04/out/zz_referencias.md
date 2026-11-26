@@ -26,7 +26,7 @@ Procuraduría General de la República. (1997, 18 de julio). *Dictamen C-131-199
 
 Procuraduría General de la República. (2010, 29 de octubre). *Dictamen C-215-2010*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=16476&param2=0
 
-Procuraduría General de la República. (2012, 20 de febrero). *Dictamen C-045-2012*.
+Procuraduría General de la República. (2012, 20 de febrero). *Dictamen C-045-2012*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=17062&param2=0
 
 Procuraduría General de la República. (2015, 15 de abril). *Dictamen C-082-2015*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=19074&param2=0
 
