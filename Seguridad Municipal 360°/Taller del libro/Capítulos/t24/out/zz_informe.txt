@@ -7,4 +7,5 @@ ERRORES (0):
 
 AVISOS (0):
 
-NOTAS DE VOCABULARIO (0):
+NOTAS DE VOCABULARIO (1):
+  [t24.md] vocabulario «la lección»: …o en obligación para la acera (CM, art. 84); la lección de los casos es que la misma regla…
