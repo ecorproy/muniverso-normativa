@@ -1485,3 +1485,7 @@ El autor entregó una evaluación crítica del manuscrito (93/100) y pidió apli
 Pendiente de decisión del autor: redacción alternativa de la definición propuesta por el evaluador; subtítulo; capítulo final «De la red a la acción» con matriz de los 36 temas; uniformar «Con qué se paga» en los 12 temas que no lo tienen como encabezado; matiz del art. 55 de la Ley 5412 en el tema 1; índices analítico, de jurisprudencia y de legislación; figura de la célula y la red.
 
 Capítulo 1 rev 14, 50.045 bytes, sha256 64ce486a…; capítulo 2 rev 43, 52.743 bytes, sha256 eab72939…; capítulo 3 rev 14, 38.227 bytes, sha256 48ba4324…; capítulo 4 rev 15, 56.799 bytes, sha256 1250d6bd…; los cuatro IDÉNTICO. Word final22.
+
+## 26 de noviembre de 2026, noche: segunda evaluación externa
+
+La segunda evaluación (96/100) dio por atendidas las observaciones de fondo de los capítulos 1 a 4. Se aplicaron sus dos precisiones: en el capítulo 4, la falla institucional no se traslada automáticamente a quien decidió (LGAP 199); en el capítulo 3, criterios de selección de casos y aclaración de que un caso prueba la existencia del problema, no su frecuencia. Capítulo 3 rev 15, 38.699 bytes, sha256 0aef7304…; capítulo 4 rev 16, 56.983 bytes, sha256 541196fb…; ambos IDÉNTICO. Word final23. Siguen pendientes: conclusión general, figura de la célula, índices y revisión de los 36 temas con los nuevos criterios.
