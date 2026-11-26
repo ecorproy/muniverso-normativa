@@ -1,0 +1,2000 @@
+INDICACIONES PARA LA FORMULACIÓN Y
+PRESENTACIÓN DE LOS PRESUPUESTOS
+INSTITUCIONALES, AÑO 2027
+
+Contraloría General de la República
+
+División de Fiscalización Operativa y Evaluativa
+Julio, 2026
+
+División de Fiscalización Operativa y Evaluativa
+
+CONTENIDO
+
+i
+
+Introducción​
+
+3
+
+Fechas importantes para la presentación de los presupuestos a la CGR​
+
+4
+
+Lista resumen de entregables esenciales​
+
+4
+
+I. Presentación del plan-presupuesto​
+
+6
+
+a) Fechas de presentación:​
+
+6
+
+b) Presentación:​
+
+6
+
+c) Nota de remisión:​
+
+6
+
+d) Certificación de los acuerdos de aprobación​
+
+7
+
+e) Consideraciones para la presentación de presupuestos extraordinarios​
+
+8
+
+f) Sujeción al bloque de legalidad​
+
+10
+
+II. Contenido de los documentos presupuestarios que se someten a aprobación externa​ 10
+a. Estructura programática​
+
+10
+
+b. Ingresos​
+
+10
+
+Justificación de ingresos​
+
+11
+
+Información específica de los ingresos​
+
+11
+
+c. Gastos​
+
+14
+
+Justificación de Gastos​
+
+16
+
+d. Información adicional que debe presentarse para la aprobación externa​
+
+23
+
+III. Requerimientos para municipalidades que cuentan con Concejos Municipales de
+Distrito​
+IV. Incorporación de contenido presupuestario para atender obligaciones​
+
+33
+34
+
+V. Modelos de guías internas de verificación de requisitos del bloque de legalidad
+presupuestario que deben cumplir las municipalidades en la formulación de su
+presupuesto inicial y variaciones presupuestarias​
+VI. Otros aspectos​
+
+37
+37
+
+VII. Atención al usuario​
+
+38
+
+Página 2 de 39
+
+División de Fiscalización Operativa y Evaluativa
+
+Introducción
+Este documento establece las indicaciones y los requisitos mínimos que deben
+observar las Municipalidades1 para formular, aprobar internamente y presentar
+ante la Contraloría General de la República su presupuesto inicial y sus
+presupuestos extraordinarios del ejercicio económico 2027, de conformidad con
+las Normas Técnicas sobre Presupuesto Público (NTPP)2.
+Su finalidad es facilitar que las personas responsables de presupuesto,
+planificación, recursos humanos, Secretaría del Concejo Municipal, Alcaldía y
+gestión del SIPP identifiquen con claridad qué deben preparar, quién debe
+emitir, aprobar o firmar cada documento, dónde debe registrarse o conservarse
+y en qué plazo debe cumplirse cada actuación.
+La infografía “Guía resumen: Indicaciones para la formulación y presentación de
+presupuestos de las municipalidades, año 2027”, disponible en el sitio web de la
+Contraloría General, presenta los aspectos principales del proceso. La infografía
+y las listas de verificación incluidas en este documento son instrumentos de
+apoyo y no sustituyen el cumplimiento integral del bloque de legalidad
+aplicable.
+
+​ Artículo 19 de la Ley Orgánica de la Contraloría General de la República, N.° 7428,
+publicada en La Gaceta N.° 10 del 4 de noviembre de 1994, así como Normas Técnicas
+sobre Presupuesto Público N.° 4.2.14, 4.2.15 , 4.2.16, 4.2.17 y 4.2.18.
+2
+​ Norma 1.2 de las NTPP.
+1
+
+Página 3 de 39
+
+División de Fiscalización Operativa y Evaluativa
+
+¡Importante!
+Recordar que, para la presentación de los presupuestos del año 2027, a la
+Contraloría General, no se requiere el envío del acta de aprobación del
+presupuesto por parte del Concejo Municipal, sino las certificaciones detalladas
+en el apartado I) Presentación del Plan Presupuesto. Lo anterior según la reforma
+al artículo 106 del Código Municipal3.
+
+Fechas importantes para la presentación de los presupuestos a la CGR
+Fecha o plazo
+
+Actuación
+Fecha límite para presentar
+presupuesto inicial 2027.
+
+30 de septiembre de 2026
+
+el
+
+Periodo para la presentación de
+presupuestos extraordinarios. Recordar
+Del 1.° de enero al último día hábil de
+el plazo 15 días naturales posteriores a
+septiembre de 2027
+la aprobación interna definitiva para la
+presentación de estos documentos.
+Último día hábil de octubre de 2027
+
+En caso de excepción sustentada en
+la norma 4.3.11 de las NTPP: Plazo
+para
+la
+presentación
+de
+un
+presupuesto extraordinario adicional.
+
+Periodo para la presentación de un
+Dentro de los dos meses posteriores a la presupuesto
+extraordinario
+que
+liquidación final de compromisos
+incorpore el superávit resultante de
+dicha liquidación.
+
+Lista resumen de entregables esenciales
+Esta lista resume los principales entregables y no sustituye el cuerpo del documento ni el
+cumplimiento integral del bloque de legalidad.
+Entregable
+
+Responsable
+
+Nota de remisión
+Certificación
+presupuesto
+
+del
+
+Alcaldía Municipal
+acuerdo
+
+de
+
+aprobación
+
+Certificación del acuerdo de aprobación del POA
+
+del
+
+Secretaría del Concejo Municipal
+Secretaría del Concejo Municipal
+
+Certificación del acuerdo de aprobación del Plan de
+Secretaría del Concejo Municipal
+Desarrollo Municipal
+Persona responsable de la formulación
+Certificación de verificación del bloque de legalidad del presupuesto designada por la
+Alcaldía
+
+3
+
+​ Ley N.° 10795, publicada en el Diario Oficial La Gaceta N.° 233 del 11 de diciembre de
+2025.
+Página 4 de 39
+
+División de Fiscalización Operativa y Evaluativa
+
+Entregable
+
+Responsable
+
+POA y registro del Módulo de Planificación
+Justificaciones de ingresos y gastos
+Documento Consulta Morosidad Patronal
+Cuadros específicos para la presentación de los
+documentos presupuestarios
+Plantilla de información plurianual
+Viabilidad financiera para adquirir compromisos en la Responsables definidos por la institución
+partida de remuneraciones
+Información sobre los presupuestos de beneficios
+patrimoniales (cuando corresponda)
+Información sobre recursos complementarios
+presupuesto (cuando corresponda)
+
+al
+
+Requerimiento para Municipalidades que cuentan
+con Concejos Municipales de Distrito (cuando
+corresponda)
+
+Página 5 de 39
+
+División de Fiscalización Operativa y Evaluativa
+
+I.​ Presentación del plan-presupuesto4
+a)​ Fechas de presentación:
+1.​ Presupuesto inicial: 30 de septiembre del año previo a su vigencia.
+2.​ Presupuestos extraordinarios: Pueden presentarse del 1.° de enero al
+último día hábil de septiembre de 2027. El último día hábil de octubre
+aplica únicamente a presupuestos extraordinarios adicionales
+sustentados en alguna de las excepciones de la norma 4.3.11 de las
+NTPP; no constituye una prórroga general del plazo ordinario.
+
+b)​ Presentación:
+El presupuesto inicial y los presupuestos extraordinarios deben presentarse
+electrónicamente en el Sistema de Información sobre Planes y
+Presupuestos (SIPP). La información oficial será la digitada y validada por
+la institución en dicho sistema y deberá coincidir con lo aprobado
+internamente por el Concejo Municipal.
+
+c)​ Nota de remisión:
+Se debe adjuntar en el SIPP una nota oficial en formato PDF, dirigida a la
+CGR y firmada por el/la Alcalde/sa Municipal5, una vez digitados y
+validados los ingresos, los gastos y los datos del plan anual en el Módulo
+de Planificación.
+La nota debe contener al menos:
+1.​ Referencia del documento que se somete a aprobación.
+2.​ Señalamiento expreso de que el documento se somete para la
+aprobación de la Contraloría General.
+3.​ Monto total – en colones-6 del presupuesto aprobado por el Concejo
+Municipal.
+4.​ Indicación de que los ingresos, gastos, los datos del plan anual en el
+Módulo de Planificación y la información complementaria requerida se
+
+​ Norma 3.3 y 4.2.14 de las NTPP.
+​Norma 4.2.12 y 4.2.14 inciso a) de las NTPP y las Directrices generales a los sujetos
+pasivos de la Contraloría General de la República para el adecuado registro y
+validación de información en el SIPP.
+6
+​ No deben remitirse los presupuestos con montos en miles o millones de colones.
+4
+5
+
+Página 6 de 39
+
+División de Fiscalización Operativa y Evaluativa
+incluyeron en el SIPP. Los montos de los ingresos y gastos deben
+coincidir con lo aprobado por el Concejo Municipal.
+5.​ Detalle de los documentos que se adjuntan en el SIPP.
+6.​ Medio de notificación vigente (correo electrónico u otro).
+7.​ Requisitos de firma y formato de la nota de presentación:
+i.​ Firma Digital: Si el Alcalde (sa) / Vicealcalde (sa) cuenta con firma
+digital, la nota debe presentarse en formato pdf y firmada
+digitalmente, de conformidad con lo indicado en la Ley de
+Certificados, Firmas Digitales y Documentos Electrónicos Ley N.° 8454
+y su reglamento7.
+ii.​ Firma manuscrita: En caso de que el Alcalde (sa) / Vicealcalde (sa),
+no cuente con firma digital, se deberá adjuntar la nota de
+presentación firmada y escaneada. El documento original deberá
+resguardarse en el expediente respectivo en caso de requerirse
+para futuras validaciones o fiscalización posterior.
+Todos los archivos PDF que se remitan deben ser legibles y contar con
+reconocimiento de texto. No se deben adjuntar fotografías o imágenes
+(ej: .png, .jpg). Además debe cumplir con lo dispuesto en los puntos 7 y 12
+de las “Directrices generales a los sujetos pasivos de la Contraloría
+General de la República para el adecuado registro y validación de
+información en el Sistema de Información sobre Planes y Presupuestos”.
+
+d)​ Certificación de los acuerdos de aprobación
+Para efectos de la aprobación presupuestaria y de conformidad con la
+reforma al artículo 106 del Código Municipal8, para la presentación de los
+presupuestos del año 2027 a la Contraloría General, se debe remitir
+mediante el SIPP, las certificaciones señaladas en la siguiente tabla:
+
+7
+8
+
+Publicada en La Gaceta N.º 197 del 13 de octubre del 2005.
+​ Ley N.° 10795, publicada en el Diario Oficial La Gaceta N.° 233 del 11 de diciembre de
+2025.
+Página 7 de 39
+
+División de Fiscalización Operativa y Evaluativa
+
+Tabla N.° 1
+Certificaciones sobre la aprobación del plan y el presupuesto
+Certificación
+
+Aprobación del
+presupuesto
+
+Contenido
+
+Emisión y firma
+
+Debe constar únicamente el
+acuerdo literal mediante el cual el
+Concejo Municipal otorgó la
+aprobación expresa al
+presupuesto. Si el acuerdo de
+aprobación no se aprobó en firme
+(definitivamente aprobado),
+Deben ser emitidas y
+adicionar la referencia de la
+firmadas por la Secretaría
+sesión en la que fue aprobada el del Concejo Municipal de
+acta.
+conformidad con el
+
+Debe constar únicamente el
+artículo 53 inciso c) del
+acuerdo literal mediante el cual el Código Municipal
+Aprobación del POA Concejo Municipal otorgó la
+aprobación expresa del Plan
+Operativo Anual del periodo.
+Aprobación del Plan Debe constar únicamente el
+de Desarrollo
+acuerdo literal del Plan de
+Municipal
+Desarrollo Municipal vigente.
+
+e)​ Consideraciones
+extraordinarios
+
+para
+
+la
+
+presentación
+
+de
+
+presupuestos
+
+1.​ La presentación de todos los presupuestos extraordinarios deberá
+realizarse en un plazo improrrogable máximo de 15 (quince) días
+naturales siguientes a la aprobación interna definitiva (considerando
+feriados y fines de semana inclusive)9.
+2.​ Durante el año, el presupuesto institucional sólo podrá ser variado por
+medio de 3 (tres) presupuestos extraordinarios aprobados o
+aprobados parcialmente. Excepcionalmente, esta cantidad de
+presupuestos extraordinarios puede superarse cuando se cumpla con
+las excepciones definidas en la norma 4.3.11 de las NTPP10.
+9
+
+​ Artículo 106 del Código Municipal.
+​ No se requiere de una autorización previa por parte del Órgano Contralor para
+
+10
+
+Página 8 de 39
+
+División de Fiscalización Operativa y Evaluativa
+3.​ La presentación de este presupuesto extraordinario adicional vía
+excepción debe cumplir con los siguientes requerimientos:
+i)​
+
+Una justificación suficiente donde se indique claramente la
+excepción aplicada11 y la necesidad de hacer uso de la misma.
+
+ii)​
+
+En el caso de la excepción establecida en el inciso e) de la
+norma 4.3.1112; además de presentar lo solicitado en el punto
+anterior, el Alcalde deberá demostrar la necesidad de realizar la
+variación propuesta, adjuntando al presupuesto extraordinario
+los elementos técnicos y legales desarrollados.
+
+iii)​
+
+Cumplir con el plazo definido al último día hábil del mes de
+octubre del año que rige el presupuesto.
+
+iv)​
+
+En este presupuesto extraordinario se podrán incluir ingresos y
+gastos, única y exclusivamente que respondan a las referidas
+excepciones.
+
+4.​ La presentación de presupuestos extraordinarios que incorporen
+superávits producto de la liquidación de compromisos final13, deberán
+ser presentados dentro de los dos meses posteriores a la fecha en la
+que se realiza dicha liquidación14.
+5.​ De conformidad con la norma 4.3.9 de las NTPP, un presupuesto
+extraordinario es “el acto administrativo que incorpora los ingresos
+extraordinarios, los recursos excedentes entre los ingresos
+presupuestados y los percibidos y los recursos del superávit, así como
+los gastos correspondientes. Además, registra las disminuciones de
+ingresos y el efecto que dicho ajuste tiene en el presupuesto de
+gastos, o en la sustitución de las fuentes de financiamiento previstas.”
+
+presentar un extraordinario vía excepción.
+
+​ Según lo señalado en los incisos a), b), c), d) y e) de la norma 4.3.11 de las NTPP.
+12
+​ Si una vez alcanzados los límites fijados, se presentaran casos extraordinarios que
+11
+
+pongan en riesgo la eficiente gestión institucional o el logro de las metas y objetivos
+previstos por la institución, se podrán realizar variaciones presupuestarias, siempre y
+cuando el jerarca institucional demuestre la necesidad de las mismas. Los elementos
+técnicos y legales que demuestren dicha necesidad deberán constar en el expediente
+respectivo y adjuntarse al presupuesto extraordinario cuando éste requiera de
+aprobación externa. En aquellos casos en que dichos ajustes fuesen previsibles dentro
+de los límites mencionados en esta norma, el jerarca podrá incurrir en responsabilidad,
+por la no actuación oportuna en cumplimiento de la normativa vigente.
+13
+​ Artículo 116 del Código Municipal.
+14
+​ Norma 4.2.11, inciso c) de las NTPP.
+Página 9 de 39
+
+División de Fiscalización Operativa y Evaluativa
+
+Al respecto, los presupuestos extraordinarios deberán contar con la
+aprobación externa de la Contraloría General de la República para
+otorgar la eficacia que ellos requieran, caso contrario de las
+modificaciones presupuestarias, las cuales al no requerir de
+aprobación externa, adquieren validez y eficacia jurídica con el acto
+de aprobación interna emitido por el Concejo Municipal,
+posibilitando así su ejecución15.
+Por lo tanto, cuando se presente a aprobación presupuestaria del
+Órgano Contralor un presupuesto extraordinario que contenga
+movimientos propios de una modificación presupuestaria, éste se
+archivará sin trámite, por cuanto a la Contraloría General no le
+corresponde emitir un acto de aprobación para las modificaciones
+presupuestarias, en razón de que, con la aprobación interna que
+otorga el Concejo Municipal, se constituyen en actos administrativos
+válidos y eficaces.
+
+f)​ Sujeción al bloque de legalidad
+El jerarca, los titulares subordinados y todos los funcionarios son
+responsables por el cumplimiento del bloque de legalidad en cada fase
+del proceso presupuestario. Cada municipalidad debe establecer los
+mecanismos necesarios para verificar y asegurar dicho cumplimiento16.
+
+II.​ Contenido de los documentos presupuestarios que se
+someten a aprobación externa
+De acuerdo con lo dispuesto en la Norma 2.2.6 y 4.2.14 de las NTPP el
+presupuesto debe contener lo siguiente:
+
+a.​ Estructura programática
+
+Las Municipalidades deben aplicar la estructura programática vigente
+en la formulación de sus presupuestos institucionales, así como en el
+registro de la información en el SIPP. Para orientación en este proceso
+pueden consultar los siguientes documentos:
+
+15
+16
+
+1.​
+
+Documento sobre la Estructura Programática y video informativo.
+
+2.​
+
+Manual de usuario del SIPP y ayudas visuales.
+
+​ Norma 4.2.3 y 4.2.6 de las NTPP.
+​ Norma 3.3 y 4.2.4 de las NTPP.
+Página 10 de 39
+
+División de Fiscalización Operativa y Evaluativa
+
+b.​ Ingresos
+Los ingresos deben presentarse clasificados al máximo nivel, según el
+clasificador de los ingresos e institucional del sector público vigente17.
+
+Justificación de ingresos
+Se deberá aportar una justificación amplia para cada uno de los
+ingresos estimados. Esta justificación deberá incluir:
+1.​ Metodología y Supuestos: Explicación técnica de la metodología de
+cálculo aplicada y los supuestos utilizados.
+Las estimaciones de los ingresos deben estar respaldadas en supuestos
+técnicamente fundamentados y documentados, utilizando para ello
+métodos financieros, matemáticos, estadísticos, entre otros;
+considerando en lo que corresponda, las proyecciones de las
+principales variables macroeconómicas emitidas por la instancia
+competente y otras variables del entorno que afectan el accionar de
+la institución.
+Nota importante: Las justificaciones deben reflejar la realidad de cada
+municipalidad y explicar la variación de los ingresos respecto al
+presupuesto inicial y definitivo del año anterior. No se deben transcribir
+las descripciones genéricas del Clasificador de Ingresos del Sector
+Público.
+2.​ Base Legal: Norma jurídica que autoriza la percepción del ingreso.
+3.​ Ingresos en moneda diferente al colón: Se debe proporcionar un
+documento explicando la metodología utilizada para la estimación
+del tipo de cambio. Este documento debe cumplir al menos con lo
+siguiente:
+i.​ Las fuentes de datos utilizadas
+ii.​ Los supuestos adoptados
+iii.​ Los modelos económicos utilizados en el cálculo y
+iv.​ Resultados obtenidos.
+v.​ El documento debe estar firmado por la persona funcionaria
+responsable de su elaboración.
+
+17
+
+​ Norma 4.2.14, inciso b), subinciso i) de las NTPP.
+Página 11 de 39
+
+División de Fiscalización Operativa y Evaluativa
+
+Información específica de los ingresos
+Se deberá suministrar la información requerida para los ingresos
+indicados seguidamente18:
+1.​ Impuestos, tasas y tarifas: Indicar la fecha y número de la
+publicación de La Gaceta y la vigencia. No procede estimar
+ingresos con tarifas que estén pendientes de publicación.
+2.​ Patentes comerciales y de licores: Incluir el número de patentados y
+el monto correspondiente por cada clase.
+3.​ Transferencias19: Indicar el nombre de la persona física o jurídica que
+otorga los recursos, finalidad, referencia del presupuesto donde está
+incorporado el aporte y cualquier otro dato relevante asociado.
+Cuando se incorporen transferencias de otras entidades públicas, la
+Administración deberá verificar que hayan sido presupuestadas por
+la institución que los otorga y cuenten con la debida aprobación
+–interna o externa, según corresponda-. Los recursos que no cumplan
+este requisito no podrán ser incorporados20.
+4.​ Financiamiento interno y externo: Aportar el acuerdo del Concejo
+Municipal aprobando el financiamiento (previo y diferente al
+acuerdo de aprobación del presupuesto), la base legal para
+acceder a ese tipo de financiamiento, finalidad, monto, plazo, el
+acuerdo de aprobación de la entidad prestataria y la atención de la
+deuda (intereses y amortización).
+Para los contratos de préstamos se debe indicar además, el nombre
+del acreedor, la fecha de formalización, el régimen de desembolsos
+y el tipo de cambio utilizado en los cálculos respectivos.
+En la emisión de los títulos valores señalar sus características y
+condiciones.
+18
+19
+
+​ Inciso b) iii) de la norma 4.2.14 de las NTPP.
+​ Las transferencias que las entidades recibirán de instituciones públicas deberán ser
+
+presupuestadas de forma obligatoria, tanto por la institución concedente como por la
+municipalidad, en el mismo periodo. De no ser así, la institución que transfiere no podrá
+girar los recursos, de forma tal que si fueran girados, los gobiernos locales están en la
+obligación de devolverlos al concedente -artículos 176 de la Constitución Política y 100
+del Código Municipal. Asimismo, el artículo 5, incisos a) y d) de la Ley N.° 8131, y la
+norma 2.2.3 inciso a) y d) de las NTPP, en cumplimiento de lo establecido en los
+principios de anualidad y universalidad, entre otra normativa aplicable.
+20
+​ Principio de Universalidad e Integridad definido en el artículo 176 de la Constitución
+Política y en la norma 2.2.3 de las NTPP.
+
+Página 12 de 39
+
+División de Fiscalización Operativa y Evaluativa
+5.​ Recursos de vigencias anteriores (Superávit libre y específico): Si se
+incorpora superávit en el presupuesto inicial o en un presupuesto
+extraordinario presentado antes del 15 de febrero21, se deberá
+adjuntar una estimación sobre el posible monto que reflejará el
+resultado de la liquidación del periodo precedente al de la vigencia
+del presupuesto, suscrita por el encargado de asuntos financieros22.
+Adicionalmente, se deberá considerar lo siguiente, según cada
+fuente de financiamiento:
+⁻​ Superávit Libre: Considerar el alcance de los artículos 110 y 115
+del Código Municipal, el artículo 6 de la Ley de la
+Administración Financiera de la República y Presupuestos
+Públicos, N.° 8131, así como lo establecido en el Decreto
+Ejecutivo N.° 32452-H23 y las normas 2.2.3 inciso k) y 2.2.9 de las
+NTPP.
+⁻​ Para la aplicación del superávit libre se deberá presentar una
+justificación por cada subpartida que permita acreditar que los
+gastos propuestos no constituyen gastos fijos ordinarios o
+permanentes de la municipalidad, ni que generan obligaciones
+cuyo financiamiento deba mantenerse en períodos futuros.
+⁻​ Certificación sobre la aplicación del artículo 17 del título IV de la
+Ley de Fortalecimiento de las Finanzas Públicas, N.° 9635:
+Cuando se incorpore recursos de Superávit Libre, la
+Municipalidad deberá presentar una certificación suscrita por la
+persona encargada del proceso presupuestario, en la cual
+haga constar que los recursos de Superávit Libre destinados al
+financiamiento de las partidas (Ejemplo: Servicios, Materiales y
+Suministros y Bienes Duraderos), se ajustan a los elementos
+establecidos en el artículo 17 del título IV de la Ley en cita y su
+reglamento24.
+En esa certificación se deberá indicar al menos los siguientes
+aspectos:
+●​ El Superávit Libre no es generado por transferencias de
+Presupuesto Nacional otorgadas a partir del ejercicio 2020.
+​ Norma 4.3.18, inciso a) de las NTPP.
+​ Norma 4.2.14, punto b) inciso iii) de las NTPP.
+23
+​ Lineamientos que regulan la aplicación del artículo 6 de la Ley N.° 8131, considerando
+21
+22
+
+la clase de Ingresos del Sector Público denominada Financiamiento.
+
+24
+
+​ Artículo 27 del Decreto Ejecutivo N.º 41641-H “Reglamento al título IV de la ley N.° 9635,
+
+denominado Responsabilidad Fiscal de la República”.
+
+Página 13 de 39
+
+División de Fiscalización Operativa y Evaluativa
+●​ La institución no tiene pasivos que deban amortizarse con
+superávit libre proveniente de fuentes de ingresos distintas a
+las transferencias del Presupuesto Nacional.
+1.​ Superávit específico
+
+c.​ Gastos
+
+i.​
+
+Es fundamental tener en cuenta que la naturaleza de cada
+cuenta que conforma el Superávit Específico debe estar
+determinada por una disposición legal25, según lo establece
+el Clasificador de ingresos del Sector Público, emitido por el
+Ministerio de Hacienda y demás normativa relacionada.
+
+ii.​
+
+Las
+partidas
+específicas
+de
+vigencias
+anteriores
+provenientes de la Ley de Control de las Partidas
+Específicas con cargo al Presupuesto Nacional, N.° 7755, no
+requieren de la aprobación de la Contraloría General26.
+
+iii.​
+
+Únicamente se someterán a la aprobación externa por
+parte de la Contraloría General, los sobrantes de esos
+recursos (variación del destino para compra de combustible
+o mantenimiento de la maquinaria municipal)27.
+
+Deben presentarse con el siguiente nivel de detalle28, de acuerdo con los
+clasificadores del Sector Público vigentes:
+1.​ Clasificación por Objeto del Gasto: Detallada por partida y
+subpartida29 en cada programa presupuestario.
+2.​ Clasificación Económica del Gasto30: Es responsabilidad de cada
+municipalidad al momento de digitar los datos en el SIPP, identificar
+los gastos asociados a proyectos de inversión posibles de capitalizar,
+y deberá realizar el respectivo ajuste de la clasificación económica
+en el sistema.
+25
+
+​ Las disposiciones legales son aquellas que expresamente se indican en el bloque de
+
+legalidad. Son los recursos no utilizados en el periodo presupuestario y que han sido
+asignados por una disposición constitucional o de ley que establece la finalidad
+concreta de los recursos.
+26
+​ Artículos 7 y 8 inciso a) de la Ley N.° 7755.
+27
+​ Artículo 7 inciso c) de la Ley N.° 7755, según adición a la norma realizada mediante Ley
+N.° 8145, del 30 de octubre de 2001.
+28
+​ Según lo establecido en la norma 4.2.14 de las NTPP.
+29
+​ Decreto Ejecutivo N.° 41057-H, publicado en el Alcance N.° 87 a La Gaceta N.° 754 del
+30 de abril de 2018, y su reforma.
+30
+​ Decreto Ejecutivo N.° 31877-H, publicado en La Gaceta N.° 140 del 19 de julio de 2004 y
+sus reformas.
+Página 14 de 39
+
+División de Fiscalización Operativa y Evaluativa
+3.​ Clasificación funcional del gasto31: La persona responsable de la
+digitación en el SIPP deberá incorporarla en el sistema, para ello es
+indispensable consultar el Clasificador Funcional del Sector Público,
+los manuales de usuario y las ayudas visuales del SIPP.
+Para asignar la clasificación funcional es importante destacar
+algunas consideraciones:
+i.​ Asignación de clasificación funcional: Las municipalidades al
+formular sus presupuestos, asignarán la clasificación funcional de
+acuerdo con la estructura programática definida por el sector
+municipal en la sección de programas del módulo del SIPP, según
+las siguientes consideraciones:
+-​
+
+Programas I Administración General y II Servicios: La
+clasificación funcional debe asignarse a cada una de las
+actividades y/o servicios incorporados en el presupuesto.
+
+-​
+
+Programas III Inversiones y IV Partidas Específicas: En cada
+subprograma deben asignar la clasificación funcional a cada
+proyecto y obra.
+
+ii.​ Incorporación de gastos en transferencias corrientes o de capital:
+El código de clasificación funcional corresponderá a su finalidad y
+deberá ser registrado por cada transferencia.
+iii.​ Ajustes en variaciones presupuestarias: Si se realizan ajustes a
+transferencias corrientes y/o de capital en presupuestos
+extraordinarios y modificaciones presupuestarias, se debe verificar
+que se mantenga la misma clasificación funcional asignada en los
+documentos presupuestarios anteriores para asegurar la
+coherencia.
+Ejemplo: si una transferencia fue incorporada en el presupuesto
+inicial bajo la clasificación funcional “704.2.2.01.0.0 Administración
+de asuntos y servicios forestales (SC)” y en una modificación
+presupuestaria realizarán una disminución de los recursos
+asignados, es necesario validar se mantenga la misma
+clasificación.
+iv.​ Identificación de más de una finalidad: Si en un programa o
+transferencia se identifica más de una finalidad, entendidas éstas
+
+31
+
+​ Decretos Ejecutivos N.° 43611-H y 44074-H publicados en La Gaceta N.° 124 del 2 de
+
+julio de 2022 y La Gaceta N.° 118 del 30 de junio de 2023, respectivamente.
+
+Página 15 de 39
+
+División de Fiscalización Operativa y Evaluativa
+como los propósitos u objetivos planteados, se debe asignar la
+función que represente la mayor cantidad de recursos.
+
+Justificación de Gastos
+Se deberá aportar una justificación amplia de los gastos a nivel de
+programa y por partida. Esta justificación deberá incluir lo siguiente:
+a.​ Explicar claramente qué se pretende realizar con los conceptos y
+montos presupuestados. Considerar en su elaboración elementos
+importantes, tales como: monto, características especiales,
+variación con respecto al año anterior.
+b.​ Detallar las principales variaciones en los grupos de gasto en
+comparación con el presupuesto inicial y definitivo del año anterior.
+c.​ Relacionar la propuesta de gastos con el cumplimiento de los
+objetivos y metas del plan anual.
+d.​ Indicar la base legal o fundamento jurídico que respalde el gasto
+en los casos que corresponda.
+Nota importante: Las estimaciones deben estar respaldadas en
+supuestos técnicos documentados, considerando en lo que
+corresponda el comportamiento de las variables macroeconómicas
+emitidas por la instancia competente. Además, deben reflejar la
+realidad específica de cada institución y no se deben transcribir las
+descripciones detalladas en el Clasificador por Objeto del Gasto del
+Sector Público.
+Para las justificaciones de los gastos se deberá suministrar la información
+requerida en el inciso b) iii) de la norma 4.2.14 de las NTPP y otra
+normativa aplicable:
+1.​ Remuneraciones:
+i.​ Sueldos para cargos Fijos y Servicios especiales para proyectos
+de inversión u operativos de carácter plurianual:
+En caso de incluir contenido presupuestario para la creación de
+plazas por Sueldos para cargos fijos y plazas bajo la modalidad
+de Servicios especiales para proyectos (operativos o de inversión)
+que abarcan varios períodos presupuestarios32, se deberá remitir:
+32
+
+​ Según lo indicado en el Clasificador por objeto del gasto del Sector Público vigente
+
+0.01.03 Servicios especiales: Remuneración básica o salario base que se otorga al
+personal profesional, técnico o administrativo contratado para realizar trabajos de
+
+Página 16 de 39
+
+División de Fiscalización Operativa y Evaluativa
+-​
+
+El fundamento jurídico33.
+
+-​
+
+Certificación34 del encargado de la Unidad de Recursos
+Humanos que garantice el cumplimiento del artículo 129 del
+Código Municipal.
+
+-​
+
+Justificación razonable del movimiento propuesto que
+respalde la necesidad de contar con el contenido
+presupuestario solicitado, en la que se haga referencia a los
+estudios previos, oficios de solicitud de las plazas de las
+unidades internas, que dieron el origen al requerimiento de
+plazas.
+
+-​
+
+El Cuadro N.° 3 “Plazas Nuevas” debidamente lleno.
+
+-​
+
+Un Análisis de viabilidad financiera realizado por la
+municipalidad para adquirir este tipo de compromisos en
+forma permanente, según el detalle que se describe en la
+Figura N.° 1: “Análisis de viabilidad financiera para adquirir
+compromisos en la partida de Remuneraciones”
+
+-​
+
+Acuerdo de conocimiento de la viabilidad por parte del
+Concejo Municipal al momento de la aprobación de las
+plazas.
+
+Figura N.° 1: Análisis de viabilidad financiera para adquirir compromisos
+en la partida de Remuneraciones
+El análisis de viabilidad financiera para la creación de plazas nuevas
+(fijas), así como las plazas bajo la modalidad de Servicios especiales
+para proyectos de inversión u operativos de carácter plurianual,
+aumentos salariales y ajustes de incentivos deberá contener al menos los
+siguientes aspectos:
+
+carácter especial y temporal, que mantienen una relación laboral por un período
+determinado./ Incluye las remuneraciones de los proyectos (operativos o de inversión)
+de carácter plurianual, de diversa naturaleza, que abarcan varios períodos
+presupuestarios hasta su finalización, así como lo dispuesto por otra normativa de rango
+legal./ El personal contratado por esta subpartida, debe sujetarse a subordinación
+jerárquica y al cumplimiento de un determinado horario de trabajo, por tanto, la
+retribución económica respectiva, se establece de acuerdo con la clasificación y
+valoración del régimen que corresponda.
+33
+​ Norma 4.2.14, inciso b), aparte iii) de las NTPP.
+34
+De acuerdo con el artículo 65 de la Ley General de la Administración Pública, N.° 6227.
+Página 17 de 39
+
+División de Fiscalización Operativa y Evaluativa
+
+1.​ Proyección de cada uno de los ingresos ordinarios35 y permanentes
+de la municipalidad que financian las plazas, para un periodo
+mínimo de tres años, en el que se detallen los supuestos y el cálculo
+matemático o financiero utilizados. Estas proyecciones deben
+demostrar la sostenibilidad de los ingresos para adquirir
+obligaciones salariales de carácter permanente.
+2.​ Proyección del contenido presupuestario correspondiente al gasto
+por plazas, para un período mínimo de 3 años, en el que se detalle
+los supuestos y el cálculo matemático o financiero utilizados para
+dicha estimación.
+3.​ Análisis del porcentaje del gasto correspondiente a plazas en
+relación con la partida de Remuneraciones, el gasto corriente y
+gasto total, presentado tanto en términos porcentuales como
+nominales.
+4.​ Variación en el porcentaje de gastos administrativos por el
+incremento del gasto por concepto de plazas del programa I, en
+concordancia con lo establecido en en el artículo 102 del Código
+Municipal.
+5.​ Conclusión del análisis realizado, considerando los posibles ajustes o
+medidas a adoptar para asegurar la o las fuentes de ingresos
+ordinarios y permanentes que respalden el financiamiento de las
+nuevas obligaciones.
+6.​ El análisis de viabilidad financiera deberá ser firmado por la persona
+funcionaria responsable de su elaboración, cumpliendo con los
+requerimientos de firmas de documentos que se señalan en el
+punto c) de este documento.
+
+ii.​ Servicios especiales menores a un año
+En el caso de la incorporación de contenido presupuestario para
+plazas por Servicios especiales menores a un año, se deberá
+completar el Cuadro N.° 4 Plazas por Servicios Especiales (Art.46
+LMEP) y deberá remitir una certificación del encargado de la
+Unidad de Recursos Humanos, según lo dispuesto en el artículo
+129 del Código Municipal.
+iii.​ Aumentos salariales y ajustes a incentivos salariales:
+35
+
+​ Artículo 110 del Código Municipal.
+Página 18 de 39
+
+División de Fiscalización Operativa y Evaluativa
+Para el contenido presupuestario de aumentos salariales y ajustes
+a incentivos salariales, deberá remitirse el fundamento técnico y
+jurídico, así como la justificación del movimiento propuesto.
+Para los aumentos salariales, la Administración es la responsable
+de verificar que se ajusten a la normativa aplicable, por lo cual
+deberá remitirse como mínimo:
+-​
+
+Acuerdo previo del Concejo Municipal en donde se aprobó
+el aumento salarial.
+
+-​
+
+Fundamento técnico y la metodología utilizada para
+determinar el monto o porcentaje de incremento salarial.
+
+-​
+
+Fundamento jurídico (artículo 109 y 131 inciso c) del Código
+Municipal).
+
+-​
+
+Análisis
+de
+viabilidad
+financiera realizada por la
+municipalidad para adquirir este tipo de compromisos
+(Aumentos salariales y ajustes a incentivos salariales) en forma
+permanente, según el detalle que se describe en la Figura N.°
+1 “Análisis de viabilidad financiera para adquirir compromisos
+en la partida de Remuneraciones” detallado anteriormente.
+
+-​
+
+En caso de aumentos salariales de periodos anteriores, se
+debe remitir el acuerdo del Concejo Municipal en donde se
+estableció el compromiso, así como las justificaciones y
+metodología realizada.
+
+-​
+
+Certificación emitida por la persona encargada de la Unidad
+de Recursos Humanos36 en la que garantice el cumplimiento
+del artículo 131 inciso c) del Código Municipal en caso que se
+incorporen aumentos salariales o reajustes.
+
+iv.​ Salario del alcalde y vicealcalde: Remitir una certificación, de la
+persona encargada de la Unidad de Recursos Humanos,
+indicando el monto de cada salario y acreditando que los
+salarios del Alcalde y Vicealcalde Municipal, correspondientes al
+ejercicio económico 2027, cumplen con lo establecido en el
+inciso b) del artículos 30 y del numeral 37 de la Ley Marco de
+Empleo Público N.° 10159, así como lo dispuesto en artículo 42 de
+la Ley n.° 2166, y el artículo 20 del Código Municipal.
+
+36
+
+​ Esto en conjunto con la viabilidad financiera previamente emitida y firmada a la
+
+aprobación presupuestaria.
+
+Página 19 de 39
+
+División de Fiscalización Operativa y Evaluativa
+v.​ Dietas de regidores: Suministrar el cuadro N.° 5 sobre el “Cálculo
+de las dietas a regidores”37.
+vi.​ Gastos de representación personal: Si se incluye contenido
+presupuestario en esta subpartida deberá indicarse el
+fundamento legal para realizar dicho gasto.
+vii.​ Tiempo extraordinario: Si se incluyen recursos para cubrir este
+gasto, se debe considerar que dicho pago consiste en la
+retribución eventual en horas que excedan su jornada ordinaria
+de trabajo, cuando circunstancias o situaciones de naturaleza
+extraordinaria de la entidad así lo requieran, el cual debe
+ajustarse a las disposiciones legales y técnicas vigentes. Por lo
+tanto previo a la ejecución deberá contar con la autorización
+que corresponda para cada caso en particular.
+2.​ Transferencias corrientes y de capital: Para cada transferencia se
+deberá suministrar la base legal, nombre completo del beneficiario
+directo, finalidad y monto. La información se debe registrar en el
+SIPP de forma coincidente con los documentos adjuntos.
+3.​ Presentación de presupuestos de beneficios patrimoniales que se
+otorgan por medio de una transferencia presupuestaria gratuita y
+sin contraprestación a sujetos privados38: Se deberá cumplir con los
+siguientes elementos:
+i.​ Presentar a aprobación los presupuestos de beneficios cuyo
+monto individual supere las 15.000 unidades de desarrollo39 del
+primer día hábil del mes de agosto. La información deberá ser
+registrada40 en el Módulo de transferencias del SIPP, según lo
+definido en las Normas Técnicas41 sobre el presupuesto de los
+beneficios patrimoniales otorgados mediante transferencia del
+Sector Público a Sujetos Privados.
+
+​ Considerar lo indicado en el artículo 30 del Código Municipal.
+​ Artículo 5 de la Ley Orgánica de la Contraloría General, N.° 7428.
+
+37
+38
+
+​ El monto en moneda de colones se puede consultar en la página web de la CGR, en la
+sección Trámites / Aprobación Presupuestaria/Sujetos Privados.
+40
+​ Punto 10 de las “Directrices generales a los sujetos pasivos de la Contraloría General de
+la República para el adecuado registro y validación de información en el SIPP”, y el
+Manual de usuario y las ayudas visuales disponibles en la página electrónica de la
+Contraloría General.
+39
+
+41
+
+​ R-DC-00122-2019 de las once horas del 2 de diciembre de 2019.
+Página 20 de 39
+
+División de Fiscalización Operativa y Evaluativa
+ii.​ Para cada beneficio se deberá indicar de forma detallada en el
+apartado de “Descripción del beneficio” la finalidad de los
+recursos que se están otorgando a los sujetos privados.
+iii.​ En el apartado denominado “Base Legal” indicar claramente la
+norma legal que permite otorgar los recursos como un beneficio
+patrimonial gratuito y sin contraprestación.
+4.​ Amortización e intereses de la deuda: Para cada préstamo se debe
+indicar: la identificación del préstamo (número del préstamo y
+nombre del acreedor) amortización, comisiones e intereses a
+cancelar durante el periodo y saldo de la deuda al momento de
+someter a aprobación el documento presupuestario. Deberá
+adjuntarse el Cuadro N.° 6 “Detalle de la deuda”.
+Importante: Se recuerda que la incorporación de atención de la
+deuda es procedente solo en el caso de que la municipalidad, ya
+cuente con obligaciones reales con acreedores, o se esté
+incorporando algún crédito en el documento presupuestario
+enviado, considerando las condiciones de lo pactado. No deben
+incorporarse recursos para cubrir gastos de préstamos no
+aprobados por la entidad prestataria.
+5.​ Proyectos de inversión pública: para los proyectos de inversión
+pública deberá considerarse lo siguiente:
+i.​ Las instituciones deberán presentar la información estipulada en
+el inciso b) iii) de la norma 4.2.14 de las NTPP para los proyectos
+de inversión pública42 cuyo monto total — independientemente
+de su plazo de ejecución— exceda los límites definidos por este
+Órgano Contralor, de acuerdo con el estrato institucional
+indicado en la siguiente tabla:
+
+​ En los casos que corresponda, resulta necesario hacer referencia al código y al nombre
+
+42
+
+del proyecto del Banco de Proyectos de Inversión Pública asignado por MIDEPLAN.
+
+Página 21 de 39
+
+División de Fiscalización Operativa y Evaluativa
+
+Tabla N.° 2
+Estratos para la presentación de la información sobre proyectos
+de inversión pública43
+Estrato (Presupuesto del ente en
+(en Unidades de Desarrollo)
+
+Costo total estimado del proyecto
+(en Unidades de Desarrollo)
+
+Menos de 3.420.869,6
+
+≥ 190.048,31
+
+De 3.420.869,6 a 15.203.864,8
+
+≥ 380.096,62
+
+De 15.203.864,8 a 38.009.662,1
+
+≥ 1.114.289,86
+
+De 38.009.662,1 a 152.038.648,2
+
+≥ 1.520.386,48
+
+De 152.038.648,2 a 380.096.620,6
+
+≥ 2.280.579,72
+
+Más de 380.096.620,6
+
+≥ 3.040.772,96
+
+-​ Determinación del estrato y montos de los proyectos:
+Para realizar los siguientes cálculos, se utilizará como referencia el
+valor de la Unidad de Desarrollo (UD) al 1 de agosto del año
+previo a la entrada en vigencia del presupuesto inicial,
+publicada por el Banco Central de Costa Rica.
+Paso 1. Determinar el estrato de la institución (en UD): Se debe
+dividir el presupuesto inicial estimado entre el valor de referencia
+de la UD.
+Paso 2. Determinar el monto del proyecto a reportar (en colones):
+Una vez ubicada la institución en el estrato correspondiente, para
+determinar el monto en colones de los proyectos sobre los que se
+debe brindar información, se deberá multiplicar el total de
+unidades de desarrollo que corresponda al estrato respectivo de
+la institución en la tabla (segunda columna) por el valor de la UD
+establecida por el Banco Central
+Consideración sobre el costo total estimado: Para efectos de
+informar los proyectos de inversión sujetos a revisión, el costo total
+del proyecto debe contemplar todos los gastos proyectados
+durante su ejecución, independientemente de la cantidad de
+períodos presupuestarios que este abarque.
+43
+
+La información que se detalla en este apartado corresponde a la misma que se
+publicaba en el sitio web en documento pdf.
+Página 22 de 39
+
+División de Fiscalización Operativa y Evaluativa
+ii.​ Para cada proyecto, las municipalidades deberán suministrar la
+siguiente información:
+-​
+
+Nombre del proyecto.
+
+-​
+
+Descripción y objetivo general.
+
+-​
+
+Fase del proyecto que se espera alcanzar durante el periodo
+presupuestario.
+
+-​
+
+Modalidad de ejecución y financiamiento.
+
+-​
+
+Presupuesto total.
+
+-​
+
+Plazo estimado para su ejecución.
+
+-​
+
+Monto total estimado en el presupuesto.
+
+-​
+
+Meta anual que se espera alcanzar durante el periodo
+presupuestario.
+
+-​
+
+Unidad responsable del proyecto.
+
+iii.​ Aplicación de la Ley General de Contratación Pública en
+Proyectos de Obra Pública, N.° 9986:
+-​
+
+Si se incluye contenido presupuestario para financiar las
+etapas de diseño y/o la ejecución (construcción) de
+proyectos de inversión de obra pública, la Administración
+debe verificar y aportar en el documento presupuestario las
+certificaciones que evidencien que se ha concluido la
+preinversión y demostrado la viabilidad del proyecto, así
+como contar con la decisión del jerarca o quién éste delegue
+para iniciar la fase de inversión44.
+
+-​
+
+En los proyectos de obra pública en los que incluye
+contenido presupuestario para iniciar su construcción y
+requieren expropiaciones o relocalización de servicios
+públicos para su ejecución, la Administración debe asegurar
+que previamente dispondrá de la disponibilidad física de
+todos los terrenos45 así como, en caso de ser requerido, con el
+
+​ Artículo 72 de la Ley General de Contratación Pública y los artículos 176, 178 y 179 del
+Reglamento a la Ley General de Contratación Pública, Decreto Ejecutivo N.º 43808-H.
+45
+​ O bien que se encuentre en alguna de las excepciones cumpliendo con las
+44
+
+condiciones previstas en el artículo 73 de la Ley General de Contratación Pública y el
+artículo 181 del Reglamento a la Ley.
+Página 23 de 39
+
+División de Fiscalización Operativa y Evaluativa
+plan integrado y coordinado con las distintas entidades
+públicas para la reubicación de servicios46.
+
+d.​ Información adicional que debe presentarse para la aprobación
+externa
+1.​ Certificación47 de verificación de requisitos del bloque de legalidad
+presupuestario que debe cumplir el presupuesto inicial y sus
+variaciones48: Debe estar completa y ser emitida y firmada por la
+persona encargada de la formulación del presupuesto que designe
+el Alcalde (sa) Municipal. La fecha y hora de esta certificación debe
+ser igual o posterior a la de aprobación del documento
+presupuestario por parte del Concejo Municipal.
+Nota importante: Al llenar la certificación en la columna de
+“Observaciones” debe incluirse una explicación amplia de las
+razones por las que se ha señalado que No se cumple o No aplica el
+requisito. Si se marca Sí se deberá incluir las referencias que
+correspondan, tal como números de folios, números de acuerdo de
+aprobación, resoluciones judiciales, utilización del sello de agua,
+entre otras aclaraciones que se estimen pertinentes.
+2.​ Cumplimiento de lo dispuesto en el artículo 74 de la Ley Constitutiva
+de la Caja Costarricense de Seguro Social (CCSS):
+Para dar trámite a los documentos presupuestarios, es indispensable
+que la institución se encuentre al día con el pago de las cuotas
+obrero-patronales o que exista un arreglo de pago aceptado49. Para
+ello, la administración deberá:
+i.​ Consultar su condición patronal en la base de datos del SICERE
+por medio de la página electrónica de la CCSS50.
+ii.​ Aportar el “Documento digital consulta morosidad patrono al
+día”, en formato pdf51, que se descarga en el sistema de la CCSS
+46
+
+​ Artículo 73 de la Ley General de Contratación Pública y el artículo 182 del Reglamento
+
+47
+
+​ Las certificaciones deberán adjuntarse en el SIPP, tanto para el presupuesto inicial
+
+a la Ley, según corresponda.
+
+como para los presupuestos extraordinarios que se realicen durante el ejercicio
+económico, a efecto de que el sujeto pasivo garantice que lo incorporado en el
+presupuesto se ajusta al bloque de legalidad presupuestario.
+48
+​ Norma 4.2.14 inciso c) ii) de las NTPP.
+49
+​ Ley N. º 17 del 22 de octubre de 1943.
+50
+​ De acuerdo con lo comunicado por la CCSS mediante el oficio N.° DCO-0643-2017-N
+de 26 de junio de 2017.
+51
+​ Documento digital que sustituye la anterior constancia física emitida por la CCSS.
+
+Página 24 de 39
+
+División de Fiscalización Operativa y Evaluativa
+en la opción “Generar Documento Digital”. No presentar una
+imagen de la pantalla de la consulta.
+iii.​ Asegurarse de que la fecha del documento digital coincida con
+la fecha de presentación del presupuesto a la Contraloría, ya que
+el reporte es válido solo por el día de la consulta.
+3.​ Detalle de origen y aplicación de recursos52: Remitir un detalle de
+origen y aplicación de recursos que refleje para cada rubro de
+ingreso las partidas por objeto del gasto y por programa
+presupuestario que se financia,. (Cuadro N.° 1 “Origen y aplicación
+de recursos – libres y específicos”).
+En caso que se reciban ingresos de transferencias provenientes del
+Gobierno de la República, se deberá detallar las partidas por objeto
+de gasto y por programa presupuestario, que serán financiadas con
+cada transferencia.
+Si se incorporan recursos de Superávit Libre y/o Superávit Específico,
+debe completarse el Cuadro N.° 2 denominado “Aplicación de
+Recursos de Superávit”, el cual debe indicar por cada tipo de
+superávit (libre y específico), la aplicación en el gasto a nivel de
+subpartida según la Clasificación por Objeto del Gasto.
+4.​ Plan Anual Operativo:
+Deberá presentarse el Plan Anual Operativo53 como un archivo
+adjunto mediante el SIPP. Adicionalmente se deberá registrar la
+información del plan anual solicitada en la sección del (SIPP)
+denominado “Módulo de Planificación”, previo al envío de la
+documentación respectiva al Órgano Contralor para la aprobación
+del presupuesto. Es responsabilidad de la Administración relacionar la
+propuesta de gastos a ejecutar en el año, con el cumplimiento de los
+metas definidos en el plan respectivo54.
+En el Módulo de Planificación del SIPP se deberá registrar, entre otros
+elementos, la siguiente información vinculada con el Plan Anual:
+i.​
+
+Marco estratégico institucional: Espacio donde se deberá
+registrar o validar la información de la misión y la visión
+institucional, los objetivos estratégicos y la información general
+de la institución.
+
+​ Norma 4.2.14, inciso b) iii) de las NTPP.
+​ Norma 4.2.14, inciso c), subinciso i, de las NTPP.
+54
+​ Norma 4.1.3, incisos b), c), e) y g) de las NTPP.
+52
+53
+
+Página 25 de 39
+
+División de Fiscalización Operativa y Evaluativa
+ii.​
+
+Productos: Se deben registrar los productos en cada programa
+presupuestario definido, los cuales se categorizan de la
+siguiente manera:
+-​ Finales: Bienes o servicios dirigidos a un usuario externo
+(personas o instituciones), relacionados con la misión
+institucional. Debe estar relacionado con la misión
+institucional y programática y tener un centro gestor
+responsable de su generación55.
+-​ Intermedios: Bienes o servicios que apoyan la generación de
+productos finales.
+
+iii.​
+
+Unidades de medida: Concepto que permite medir o
+cuantificar la producción de los bienes y servicios generados y
+provistos en un período de tiempo. Cada producto debe tener
+al menos una unidad de medida.
+
+iv.​
+
+Indicadores de desempeño del producto: Herramientas que
+entregan información cuantitativa sobre el desempeño
+generado por el programa; cubriendo aspectos cuantitativos o
+cualitativos. Cada producto debe contar con uno o más
+indicadores de desempeño.
+
+Importante: Todos los productos deben contar tanto con unidad de
+medida como con indicadores de desempeño.
+Otros aspectos a considerar:
+
+55
+
+i.​
+
+En caso de aprobación parcial o improbación del documento
+presupuestario sometido a aprobación, se deberán realizar los
+ajustes al plan, cuando así corresponda.
+
+ii.​
+
+Cuando la institución realice variaciones presupuestarias que
+impliquen cambios en el plan anual institucional, deberá
+actualizarse tanto el documento que contiene el plan como el
+Módulo de Planificación del SIPP, previo al envío de la
+documentación respectiva de las variaciones al Órgano
+Contralor56.
+
+​ La definición de los productos finales no corresponde a un listado de los procesos que
+
+se realizan en el programa sino al bien o servicio que se obtiene al final de la cadena
+de producción, relacionado con el cumplimiento del mandato legal.
+56
+​ Norma 4.3.6 de las Normas Técnicas sobre Presupuesto Público.
+
+Página 26 de 39
+
+División de Fiscalización Operativa y Evaluativa
+5.​ Revisión de elementos vinculados a los informes de evaluación
+presupuestaria emitidos por la Secretaría Técnica de la Autoridad
+Presupuestaria.
+Las instituciones que reciben informes de evaluación sobre la gestión
+física y financiera emitidos por la STAP deberán considerar en la
+definición de los objetivos, metas e indicadores las observaciones
+que realice esa Secretaría Técnica en dichos informes.
+6.​ Vinculación del presupuesto con el plan anual y su concordancia
+con los planes de mediano y largo plazo:
+El presupuesto institucional en sus diferentes programas debe reflejar
+fielmente los productos, metas e indicadores de la planificación
+anual. Asimismo, esa planificación debe estar en concordancia con
+los planes de mediano y largo plazo, la planificación a nivel nacional,
+sectorial, regional, de desarrollo municipal o que se encuentre
+vigente, en los que participe la institución.
+En relación con lo anterior, el presupuesto57 debe estar fundamentado
+en la planificación anual de la institución y no podrán dejarse recursos
+sin la correspondiente vinculación al plan anual respectivo.
+En ese sentido la subpartida “Sumas sin asignación presupuestaria”
+únicamente debe utilizarse para equilibrar diferencias poco
+significativas entre los ingresos y gastos proyectados, reservándose la
+Contraloría General la posibilidad de improbar aquellos montos
+propuestos en ella y su respectivo financiamiento, que no se
+encuentren debidamente justificados y que atenten contra el
+cumplimiento de los principios de “Vinculación del presupuesto con la
+planificación institucional”, “Programación” y de “Gestión financiera”,
+entre otros.
+Cuando las estimaciones de ingresos superen en gran cuantía el
+monto de los gastos proyectados, en una interpretación armoniosa
+del principio de universalidad e integridad con el de programación y
+de
+vinculación
+del
+plan-presupuesto,
+podrá
+reservar
+la
+presupuestación del exceso de los ingresos para su incorporación en
+próximos presupuestos extraordinarios, una vez que se tenga definida
+la asignación de gastos que se financiará con ese exceso, realizando
+los ajustes que proceda en la planificación anual de la institución.
+
+57
+
+​ Norma 2.1.4 de las NTPP.
+Página 27 de 39
+
+División de Fiscalización Operativa y Evaluativa
+
+7.​ Plan de Desarrollo Municipal
+En atención al principio de sostenibilidad de los servicios públicos y del
+marco de presupuestación plurianual58, la Municipalidad debe contar
+con el Plan de Desarrollo Municipal vigente59 (plan de mediano plazo)
+debidamente aprobado por el Concejo Municipal al cual deben
+estar vinculadas las proyecciones de ingresos y gastos presentadas en
+la información plurianual.
+8.​ Visión plurianual en el presupuesto institucional:
+El artículo 176 de la Constitución Política establece los principios de
+sostenibilidad de los servicios públicos y del marco de presupuestación
+plurianual, los cuales deberán ser observados por la Administración
+Pública, en sentido amplio.
+Para el ejercicio presupuestario 2027, se requiere que las instituciones
+aporten un anexo60 al presupuesto anual, que considere el análisis de
+tres años adicionales al presupuesto del año 2027 y contenga los
+siguientes elementos:
+
+58
+59
+60
+
+i.​
+
+Proyección de ingresos: Incorporar la proyección de ingresos
+originados de la actividad financiera de la institución, así como
+por posibles transferencias, financiamiento u otras fuentes. Para
+la clase de ingresos corrientes, de capital y de financiamiento
+deberá desglosar la información a nivel de grupo según la
+estructura del Clasificador de Ingresos del Sector Público.
+
+ii.​
+
+Estimación de gastos: Debe incluir una estimación de los gastos
+necesarios para su operación y el cumplimiento de los objetivos y
+metas definidos en la planificación de mediano plazo. La
+información debe presentarse por Clasificador Objeto del Gasto
+desagregados a nivel de grupo de subpartida.
+
+iii.​
+
+Las proyecciones de ingresos y gastos, deben cumplir con el
+principio de equilibrio presupuestario.
+
+iv.​
+
+Vinculación con Planes de Mediano Plazo: Las proyecciones
+deben estar vinculadas a los principales objetivos y metas
+definidos en los planes de mediano plazo de la municipalidad.
+considerando, entre otros, la incidencia de los factores políticos,
+
+​ Artículo 176 de la Constitución Política.
+
+​ Artículo 13 inciso l) , 17 inciso i) y párrafo II del artículo 106 del Código Municipal.
+​ Debe considerar como referencia la información plurianual analizada durante el 2026.
+Página 28 de 39
+
+División de Fiscalización Operativa y Evaluativa
+económicos, socioculturales, tecnológicos, ambientales y legales,
+en el cumplimiento de la programación plurianual.
+Importante: Se recuerda que la municipalidad debe contar con un
+plan de mediano plazo vigente y debidamente aprobado para el
+periodo presupuestario 2027 que permita la vinculación de la
+información plurianual.
+v.​
+
+Supuestos técnicos y de contexto económico: Detallar los
+supuestos técnicos considerados en las proyecciones de ingresos
+y gastos según lo solicitado en la plantilla para la presentación
+de la información plurianual.
+Entre las variables que pueden considerarse para estas
+proyecciones y que la Administración es responsable del análisis
+de su aplicabilidad, están el tipo de cambio, la tasa de inflación,
+el crecimiento económico, emisión de nueva normativa, análisis
+de mercado, ajustes en tarifas, variación en la cobertura de
+servicios públicos, generación de nuevos productos y servicios,
+entre otras, según las condiciones y giro de negocio de cada
+institución.
+
+vi.​
+
+Análisis de los resultados de las proyecciones de los ingresos y
+gastos: en el que se indique las acciones para mitigar los riesgos
+de disponibilidad de ingresos o bien los ajustes en los gastos
+recurrentes que permitan asegurar la sostenibilidad financiera de
+la institución, en los casos que corresponda, así como su efecto
+en la programación física de los planes de mediano plazo.
+En caso que existan brechas o debilidades institucionales que no
+permitan un cumplimiento cabal de los objetivos y de las metas
+de mediano plazo, es importante que la institución las identifique,
+señalando en qué consisten, las medidas a tomar y los recursos
+requeridos para su solución.
+
+Para apoyar en la elaboración y análisis de la información plurianual,
+se pone a disposición la “Guía orientadora para la elaboración y
+presentación de la Información Plurianual”61.
+El objetivo principal de esta guía es apoyar la construcción de la
+información plurianual en los análisis que realice la municipalidad
+según las condiciones aplicables en cada caso, por lo que no es
+exhaustiva, ya que podrán existir elementos que deban ser
+61
+
+​ Disponible en la siguiente dirección:
+https://www.cgr.go.cr/05-tramites/aprob-presup/ap-menu.html.
+Página 29 de 39
+
+División de Fiscalización Operativa y Evaluativa
+considerados por cada institución y no estén señalados en este
+documento.
+vii.​
+
+Formato y herramientas de presentación:
+⁻​
+
+Uso de Plantilla Oficial: La información plurianual debe
+presentarse utilizando la plantilla oficial disponible en la
+página web de la Contraloría General. No adjuntar anexos a
+la plantilla, tales como tablas en hoja de cálculo o pdf con
+información adicional.
+
+⁻​
+
+Formato del Archivo: La plantilla debe adjuntarse en su
+formato original de hoja de cálculo, sin hacer alteraciones
+en su estructura y no en PDF o imagen.
+
+Otros aspectos a considerar:
+i.​ El documento anexo con los requerimientos indicados se
+considerará como requisito indispensable para la aprobación
+presupuestaria, con fundamento en lo establecido en la
+Constitución Política y las Normas Técnicas sobre Presupuesto
+Público62, razón por la cual en caso de no presentación del
+documento, presentación incompleta, inconsistencias o sin
+acuerdo de conocimiento por parte del Concejo Municipal tendrá
+como consecuencia la improbación total del documento
+presupuestario.
+ii.​ En caso de archivo sin trámite con efecto de improbación o
+improbación total del presupuesto inicial, la información plurianual
+deberá ser presentada en el primer presupuesto extraordinario
+que se someta a aprobación de la Contraloría General, la cual de
+igual forma que en los presupuestos iniciales debe ser conocida
+por el Jerarca Institucional.
+iii.​ Para el trámite de todos los presupuestos extraordinarios ante la
+Contraloría General, deberá presentarse la plantilla con la
+información plurianual actualizada y conocida por el Concejo
+Municipal. Será motivo de improbación total de un presupuesto
+extraordinario, el no presentar la información solicitada según lo
+definido en los puntos anteriores, así como suministrar información
+incompleta, con inconsistencias o sin acuerdo de conocimiento
+del Concejo Municipal.
+
+62
+
+​ Artículo 176 de la Constitución Política y normas 2.2.3 inciso l) y 2.2.5 de las NTPP.
+Página 30 de 39
+
+División de Fiscalización Operativa y Evaluativa
+9.​ Información sobre recursos complementarios
+Como parte de la información complementaria requerida para el
+análisis presupuestario63 es necesario contar con información sobre las
+fuentes de recursos complementarias vinculados a la gestión
+institucional que se manejan mediante fideicomisos, fondos de gestión
+o figuras afines tales como los recursos administrados o custodiados
+por sujetos privados (artículo 4b de la Ley N.° 7428)64.
+Indicaciones para el registro:
+i.​ La institución deberá coordinar internamente para asegurar el
+registro completo de todos los recursos complementarios
+vinculados a su gestión.
+ii.​ La información debe incorporarse en el módulo correspondiente
+del SIPP.
+iii.​ Este registro es un requisito obligatorio para la presentación del
+presupuesto inicial.
+iv.​ Durante el ejercicio económico, la información podrá actualizarse
+o podrán crearse nuevos registros si surgen nuevas figuras.
+La información registrada en el SIPP deberá detallar lo indicado en la
+siguiente tabla:
+
+Tabla N.° 3
+Información sobre Recursos complementarios
+
+63
+64
+
+Aspecto
+
+Definición
+
+Nombre
+
+* Fideicomisos y Fondos de Gestión: Indicar el nombre
+del fideicomiso o fondo de gestión.
+* Fondos y actividades públicas que son custodiados o
+administrados por sujetos privados: Indicar el nombre
+del sujeto privado custodio o administrador.
+
+Base Legal
+
+Corresponde a la normativa jurídica o contractual que
+fundamente la figura.
+
+​ Normas 4.2.14 y 7 de las NTPP.
+​ Ver el detalle definido en las Normas para el control de fondos y actividades públicas
+
+que son custodiados o administrados por sujetos privados R-DC-00010-2023.
+
+Página 31 de 39
+
+División de Fiscalización Operativa y Evaluativa
+
+Plazo Vigencia
+
+Plazo en caso de que posean un plazo definido
+No aplica a Fondos de Gestión
+
+Fuente Recursos
+
+Origen de los recursos con los que se financia el recurso
+complementario que se reporta.
+
+Finalidad Recursos
+
+Fin o finalidad principal de los recursos complementarios
+
+Partes Involucradas
+
+Nombre de cada una de las partes involucradas (por
+ejemplo fideicomitente, fideicomisarios, fiduciarios)
+
+(Aplica solo para
+fideicomisos)
+
+Objetivo estratégico
+Observaciones
+
+Objetivo estratégico institucional al cual se encuentra
+vinculada la finalidad de los recursos complementarios.
+Información adicional que sea necesario incorporar.
+
+Comportamiento general de ingresos y gastos
+
+Recursos disponibles
+al inicio del periodo
+
+* Fideicomisos y Fondos y actividades públicos que son
+custodiados o administrados por sujetos privados:
+Saldos de recursos disponibles provenientes de períodos
+anteriores (Remanentes) sin considerar los recursos
+estimados del periodo.
+* Fondos de Gestión: Patrimonio real del fondo.
+
+Ingreso estimado del
+periodo
+
+* Fideicomisos y Fondos y actividades públicos que son
+custodiados o administrados por sujetos privados:
+Proyección de ingresos a recibir durante el periodo que
+se está registrando sin considerar los remanentes de
+años anteriores.
+* Fondos de gestión: Proyección de ingresos a recibir
+durante el periodo que se está registrando sin
+considerar el monto del patrimonio acumulado.
+
+Gasto estimado
+periodo
+
+* Fideicomisos y Fondos y actividades públicas que son
+custodiados o administrados por sujetos privados:
+del Proyección de gastos a realizar durante el periodo que
+se está registrando.
+* Fondos de gestión: Proyección de gastos a realizar
+durante el periodo que se está registrando.
+
+Página 32 de 39
+
+División de Fiscalización Operativa y Evaluativa
+Aclaración importante:
+i.​ Recordar que los recursos del 3% del Superávit Libre definido en el
+artículo 46 bis65 de la Ley Nacional de Emergencias y Prevención del
+Riesgo, N.° 8488, para la gestión de prevención de riesgos y
+atención de emergencias a nivel municipal66, no deben ser
+registrados en este apartado.
+Al respecto, se determinó que esos recursos deben ser incorporados
+como parte del presupuesto de cada Municipalidad67, en el
+momento que requieran ser ejecutados, y no de forma separada.
+ii.​ Es responsabilidad de la institución valorar la necesidad y
+razonabilidad de utilizar figuras complementarias (fideicomisos,
+fondos de gestión, entre otras) para cumplir con objetivos y
+competencias propias de su quehacer institucional. Asimismo, debe
+dar seguimiento oportuno a la ejecución de dichos recursos y al
+cumplimiento de las metas institucionales por medio de estas
+figuras.
+
+III.​ Requerimientos para municipalidades que cuentan con
+Concejos Municipales de Distrito68
+Seguidamente se detallan las indicaciones adicionales para las Municipalidades
+que cuentan con Concejos Municipales de Distrito:
+a.​ Sección de ingresos: Los ingresos de la Municipalidad y de sus Concejos
+Municipales de Distrito deben presentarse de forma consolidada en
+colones e indicando el concepto de cada uno, clasificados al máximo
+nivel, de acuerdo con el Clasificador de Ingresos del Sector Público
+vigente.
+b.​ Sección de gastos: Los gastos de la Municipalidad y sus Concejos deben
+presentarse de forma consolidada en colones, clasificados por partida y
+65
+
+​ Reforma a Ley Nacional de Emergencias y Prevención del Riesgo, publicada en La
+
+66
+
+​ De acuerdo con el artículo 46 bis los recursos serán destinados, exclusivamente, al
+
+Gaceta N.° 273 del 16 de noviembre de 2020.
+
+fortalecimiento de la capacidad técnica y los procesos municipales en gestión del
+riesgo, a la prevención y la atención de emergencias, incluidas aquellas no amparadas
+a un decreto de emergencia.
+67
+​ Según el análisis realizado para el año 2025, a partir de las gestiones realizadas por
+varias municipalidades, la Comisión Nacional de Emergencias, así como del análisis de
+la normativa aplicable y de las actas legislativas de la Ley N.° 9907.
+68
+​ De conformidad con lo establecido en el artículo 100, 103, 104 y 106 del Código
+Municipal, el artículo 10 de la Ley General de Concejos Municipales de Distrito, N.º 8173
+y la norma 4.2.14, inciso b), subinciso i) de las NTPP.
+
+Página 33 de 39
+
+División de Fiscalización Operativa y Evaluativa
+subpartida por Objeto del gasto, en los respectivos programas
+presupuestarios y por Clasificación Económica, según las especificaciones
+establecidas en el SIPP.
+c.​ Información complementaria:
+1.​ Justificación de ingresos: Debe presentarse de forma integrada y que
+detalle lo correspondiente a la Municipalidad como al Concejo
+Municipal de Distrito.
+2.​ Justificación de gastos: Deben presentarse de forma suficiente y
+detallada al nivel del respectivo programa, subprograma y por partida.
+3.​ Cálculo del salario del Intendente(a) y Viceintendente(a): Remitir una
+certificación, de la persona encargada de la Unidad de Recursos
+Humanos, indicando el monto de cada salario y acreditando que los
+salarios del Intendente(a) y Viceintendente(a), correspondientes al
+ejercicio económico 2027, cumplen con lo establecido en el inciso b)
+del artículos 30 y del numeral 37 de la Ley Marco de Empleo Público N.°
+10159, así como lo dispuesto en artículo 42 la Ley n.° 2166, y el artículo
+20 del Código Municipal.
+4.​ Cumplimiento de lo dispuesto en el artículo 74 de la Ley Constitutiva de
+la CCSS y sus reformas: Aportar solamente el reporte denominado
+“Documento Consulta Morosidad Patronal” que se genera en la
+página electrónica de la CCSS para la municipalidad.
+5.​ Visión plurianual en el presupuesto institucional: La Plantilla para
+presentación de la Información Plurianual, disponible en la página
+electrónica de la Contraloría General, además de cumplir con lo
+indicado en el punto “Visión plurianual en el presupuesto institucional”
+la municipalidad deberá integrar en una sola matriz su información con
+la concerniente a sus Concejos Municipales de Distrito.
+6.​ Cálculo de las dietas a concejales de distrito: Se deberá adjuntar el
+Cuadro N.° 7 “Cálculo de las dietas Concejales de distrito”69. Para los
+cuadros N.° 1, 2 y 6, se deberá integrar de manera consolidada lo
+concerniente a la Municipalidad y del Concejo Municipal de Distrito.
+7.​ Acuerdo de aprobación interna del Presupuesto: Se recalca que NO se
+deben remitir acuerdos específicos del Concejo Municipal de Distrito.
+Considerar las Indicaciones generales sobre este tema ya descritas en
+el apartado III anterior.
+69
+
+​ Considerar lo establecido en el artículo 6 de la Ley N.º 8173 y en el artículo 30 del
+
+Código Municipal.
+
+Página 34 de 39
+
+División de Fiscalización Operativa y Evaluativa
+
+IV.​ Incorporación de contenido presupuestario para atender
+obligaciones
+Es responsabilidad de la Municipalidad incorporar el contenido presupuestario
+para atender todas aquellas obligaciones que le son impuestas en el
+ordenamiento jurídico.
+En ese sentido se les recuerda que de resultar procedente, deberán tomar las
+medidas pertinentes para incorporar en el presupuesto los recursos para
+atender los aspectos que a continuación se detallan:
+a.​ Los gastos de los servicios municipales, para lo cual se deberá considerar su
+financiamiento mediante las tasas y precios establecidos en la normativa
+aplicable, principalmente el artículo 83 del Código Municipal .
+Asimismo, deberá aplicarse el diez por ciento (10%) de utilidad para el
+desarrollo de los servicios que preste, en aquellos casos en que la
+municipalidad cobrará tasas y precios, según lo indicado en el artículo
+anterior.
+b.​ El contenido presupuestario para cumplir con las órdenes emitidas por la
+Sala Constitucional70.
+c.​ Los recursos presupuestarios para atender las obligaciones derivadas de
+resoluciones judiciales71.
+d.​ El contenido para cumplir con todos los compromisos adquiridos -Crédito
+municipal-72.
+e.​ Recursos para el pago del seguro de riesgos del trabajo73.
+f.​ La transferencia al Fondo de Capitalización Laboral (1,5%)74. Es importante
+que la Administración observe lo señalado en el punto 9 de la Certificación
+de verificación de requisitos de bloque de legalidad del presupuesto,
+respecto de las subpartidas que se deben considerar para realizar dicho
+cálculo75.
+
+70
+71
+
+​ Artículos 41 y 48 de la Constitución Política.
+​ De conformidad con el artículo 78 de la Ley Reguladora de la Jurisdicción Contencioso
+
+Administrativa, N.º 3667 o acorde con el artículo 168, inciso 2) del Código Procesal
+Contencioso Administrativo, Ley N.° 8508, según corresponda.
+72
+​ Artículo 99 del Código Municipal.
+73
+​ Artículo 331 del Código de Trabajo, Ley N.° 211.
+74
+​ Artículo 3 de la Ley de Protección al Trabajador N.° 7983.
+75
+​ La base para el cálculo de dicho porcentaje corresponde a los montos por concepto
+de Remuneraciones básicas, Remuneraciones eventuales (excepto Dietas), Incentivos
+salariales (excepto decimotercer mes) y Remuneraciones diversas.
+
+Página 35 de 39
+
+División de Fiscalización Operativa y Evaluativa
+g.​ El aprovisionamiento presupuestal para la gestión del riesgo y preparativos
+para situaciones de emergencias76. Al respecto, los gobiernos locales,
+incluirán en sus presupuestos una partida presupuestaria destinada a
+desarrollar acciones de prevención y preparativos para situaciones de
+emergencias en áreas de su competencia.
+Esta partida será utilizada por la propia institución y deberá considerar el
+Plan Nacional de Gestión del Riesgo.
+h.​ El aporte patronal al Régimen de Invalidez, Vejez y Muerte (IVM),
+correspondiente al 5,58% sobre los salarios, según el Transitorio XI del
+Reglamento del Seguro de IVM de la CCSS77.
+i.​ Verificar que se incorpore al presupuesto de la municipalidad el contenido
+suficiente para financiar los aportes al CONAPDIS de un 0,5%, cuando así
+corresponda.
+j.​ Verificar la incorporación del contenido suficiente para financiar al Comité
+Cantonal de Deportes -3% como mínimo-, según los términos establecidos
+en la normativa aplicable.
+k.​ La contratación de auditorías externas78, en los casos que se requieran
+acorde con lo que determine el jerarca y los titulares subordinados, según
+sus competencias y con fundamento en las necesidades, posibilidades y
+características de la institución, así como los riesgos que enfrenta. Al
+respecto, considerar lo indicado en las Directrices para la contratación de
+servicios de auditoría externa, encargo de aseguramiento y certificación
+brindados por un profesional, despacho o firma, externa e independiente.
+l.​ Se deben incluir las previsiones para el cumplimiento del numeral 4.3.17 de
+las NTPP para garantizar razonablemente la confiabilidad, pertinencia,
+relevancia y oportunidad de la información contenida en la liquidación
+presupuestaria. Para la definición del servicio a contratar la Administración
+deberá considerar lo siguiente:
+1.​ Si el presupuesto definitivo supera los 5 millones de Unidades de
+Desarrollo (UD), pero es inferior a los 10 millones de UD corresponde
+certificar los saldos de la liquidación presupuestaria por un contador
+público autorizado.
+2.​ Si el presupuesto definitivo supera los 10 millones de UD debe
+someterse a revisión externa de calidad, por parte de profesionales
+76
+77
+
+​ Artículo 45 de la Ley N.° 8488.
+​ El Transitorio XI regula la aplicación de las contribuciones establecidas en el artículo 33
+
+del Reglamento.
+
+78
+
+​ Norma 6.5 de las Normas de Control Interno para el sector público (N-2-2009-CO-DFOE).
+Página 36 de 39
+
+División de Fiscalización Operativa y Evaluativa
+externos e independientes la liquidación presupuestaria.
+Adicionalmente, deberá tomar en cuenta los elementos indicados en las
+Directrices para la contratación de servicios de auditoría externa, encargo
+de aseguramiento y certificación brindados por un profesional, despacho o
+firma, externa e independiente79.
+
+V.​ Modelos de guías internas de verificación de requisitos del
+bloque de legalidad presupuestario que deben cumplir las
+municipalidades en la formulación de su presupuesto inicial y
+variaciones presupuestarias
+El Jerarca, los titulares subordinados y los funcionarios, serán responsables por el
+cumplimiento del bloque de legalidad que regula cada una de las fases del
+proceso presupuestario, por lo que cada sujeto pasivo debe establecer las
+herramientas necesarias para conocer, verificar y pronunciarse sobre el
+cumplimiento de dicho bloque de legalidad80.
+Para orientar en este proceso están disponibles en la página electrónica de la
+Contraloría General, los siguientes modelos:
+1.​ Guía interna actualizado para la verificación de requisitos del bloque de
+legalidad presupuestario que deben cumplir las municipalidades en la
+formulación de su presupuesto inicial y sus variaciones. Herramienta de
+orientación sobre los elementos a considerar en la formulación del presupuesto
+y el plan anual.
+2.​ Guía Interna para la verificación de requisitos que deben cumplirse en los
+planes de las municipalidades sujetas a la aprobación presupuestaria de la
+Contraloría General, sirve de orientación de los elementos a considerar en la
+formulación del plan, como parte de la responsabilidad de la administración
+en la gestión y el buen uso de los recursos públicos que le han sido asignados.
+Aspectos importantes:
+a.​ Estas guías no son exhaustivas y deben ser ajustadas a la realidad de cada
+municipalidad
+b.​ Deben adjuntarse a los documentos presupuestarios que se presenten al
+Concejo Municipal y mantenerlas archivadas en el expediente respectivo
+como prueba de que se ha hecho la verificación correspondiente, por cuanto
+pueden ser requeridos por la Auditoría Interna Municipal o por la Contraloría
+Resolución del Despacho Contralor N.° R-DC-00023-2026, publicada en La Gaceta N.°
+68 del 15 de abril de 2026.
+80
+​ Norma 3.3 y 4.2.4 de las NTPP.
+79
+
+Página 37 de 39
+
+División de Fiscalización Operativa y Evaluativa
+General para efectos de la fiscalización que les compete.
+c.​ No deben aportarse como parte del documento presupuestario que se somete
+a aprobación de la CGR.
+
+VI.​ Otros aspectos
+a.​ Recursos de la Ley N.° 8114: Estos son ingresos ordinarios con destino
+específico y no tendrán ningún efecto presupuestario en el salario del
+Alcalde (sa) y Vicealcalde (sa); Intendente y Viceintendente), dietas a
+Regidores (as), Síndicos (as) y Concejales de Distrito), así como los aportes
+al Comité Cantonal de Deportes81, al Consejo Nacional de Personas con
+Discapacidad (CONAPDIS)82 y el cálculo de los aportes que deban hacer
+las municipalidades a federaciones, confederaciones u otras entidades a
+las que pertenezcan83.
+b.​ Leyes de empleo público: El contenido de la partida "Remuneraciones"
+deberá observar lo dispuesto en la Ley de Salarios de la Administración
+Pública, N.° 2166, el Decreto Ejecutivo N.° 41564-MIDEPLAN-H denominado
+“Reglamento del Título III de la Ley Fortalecimiento de las Finanzas Públicas,
+N.° 963584 y la Ley Marco de Empleo Público, N.° 1015985 y su respectivo
+Reglamento86, cuando sea aplicable.
+c.​ Se recuerda que en caso que las instituciones transfieran recursos a la
+Comisión Nacional de Emergencias en atención a lo dispuesto en el
+artículo 47 de la N.° 8488, deberán ser registrados en el SIPP en el
+documento denominado “Documento atención normativa específica”.
+d.​ Asignación de roles en el SIPP: Se recuerda que, con la implementación
+de las Directrices para la gestión de usuarios y roles de los sistemas de
+registro externos de la Contraloría General de la República87, cada
+institución puede asignar, administrar y revocar los roles en el SIPP en el
+momento que lo requiera, por medio del Sistema Gestor de Usuarios. Para
+realizar este proceso, es indispensable que la institución designe a las
+
+81
+82
+
+​ Artículos 20, 30, 179 del Código Municipal.
+​ Inciso f) del artículo 10 de la Ley de Creación del Consejo Nacional de Personas con
+
+Discapacidad (CONAPDIS), N.° 9303.
+
+​ Artículo 6 de la Ley N.° 9329.
+84
+​ Publicado en La Gaceta N.° 34 del 18 de febrero de 2019.​
+85
+​ Publicada en La Gaceta N.° 46 del 9 de marzo de 2022.
+86
+​ Decreto Ejecutivo N.° 43952 -PLAN, publicado en el Alcance 39 a La Gaceta N.° 45 del
+83
+
+10 de marzo de 2023.
+
+87
+
+​ Resolución 00122 (R-DC-00122-2024) publicada en La Gaceta 224 del 28 de noviembre
+
+de 2024.
+
+Página 38 de 39
+
+División de Fiscalización Operativa y Evaluativa
+personas que asumirán el rol de 'gestor de usuarios', quienes serán los
+responsables de ejecutar estas tareas.
+
+VII.​ Atención al usuario
+Consultas
+puntuales
+en
+temas
+relacionados directamente con el
+presupuesto:
+
+Área de Fiscalización para el Desarrollo Local:
+2501-8314
+2501-8363
+
+Dificultades técnicas en la incorporación
+de información en el SIPP:
+
+Unidad de Servicios de Información
+2501-8188
+
+Página 39 de 39
+
+

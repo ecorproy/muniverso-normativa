@@ -1,0 +1,30 @@
+{
+ "ops": [
+  {
+   "op": "replace",
+   "target": {
+    "kind": "find",
+    "text": "justifique (Municipalidad de Escazú, 2023, art. 4)."
+   },
+   "with": {
+    "as": "text",
+    "from": {
+     "kind": "inline",
+     "content": "justifique (Municipalidad de Escazú, 2023, art. 4). En el presupuesto, esas fuentes confluyen en el subprograma de servicios sociales, al que la estructura programática de la Contraloría asigna todo lo relacionado con los CECUDI (CGR, estructura programática municipal, s. f., p. 17), y el origen y la aplicación de cada ingreso deben detallarse en un cuadro que acompaña el documento presupuestario (CGR, Indicaciones para la formulación de los presupuestos 2027, 2026, p. 25)."
+    }
+   }
+  },
+  {
+   "op": "insert",
+   "ANCLA": "Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025]",
+   "side": "after",
+   "source": {
+    "as": "markdown",
+    "from": {
+     "kind": "inline",
+     "content": "Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html\n\nContraloría General de la República. (2026, julio). *Indicaciones para la formulación y presentación de los presupuestos institucionales, año 2027*. División de Fiscalización Operativa y Evaluativa. https://www.cgr.go.cr/05-tramites-ap-gl-27.html"
+    }
+   }
+  }
+ ]
+}

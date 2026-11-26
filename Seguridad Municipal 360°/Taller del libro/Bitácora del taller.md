@@ -1239,3 +1239,28 @@ Rearmado: clonar `main` en `/home/claude/repo/main` y la rama `seguridad-municip
 Fuentes aportadas por el autor e incorporadas al repositorio principal (Jurisprudencia administrativa, carpeta 08): dictámenes C-140-80, C-092-92, C-237-2010 y C-260-2018; opiniones jurídicas OJ-172-2006, OJ-129-2016, OJ-026-2024 y OJ-090-2026 (C-016-2016 ya estaba). Al taller se agregaron esos textos en `fuentes/dictamenes` y el artículo 4 del Código Municipal de 1970 (Ley 4574, derogada) en `fuentes/Ley 4574.md`, registrado en el generador.
 Tema 32: párrafo nuevo al inicio de «Lo que se hizo antes de la ley» sobre el plan de lotificación (Ley 4574, art. 4, reforma de 1979; C-237-2010). Tema 34: tres oraciones tras el oficio 14467 sobre el origen del fondo de bibliotecas (OJ-090-2026, ap. III; C-237-2010, conclusiones; OJ-026-2024, conclusión). Ambos IDÉNTICOS: t32 50.846 bytes (sha 9de014a6…), t34 52.270 bytes (sha 65ed400f…).
 Ley 10337 (aportada después; repositorio principal, Tributario): el tema 34 la cita para la tarifa vigente y para el texto del art. 37, que desde 2023 contiene solo la tarifa; t34 IDÉNTICO 52.658 bytes (sha a050bfa2…). Lecturas propias para validar: (1) se lee que la reforma de 2023 reemplazó el art. 37 completo, por lo que el destino a la lotificación ya no figura en su texto; (2) la cerveza nacional no paga el impuesto (C-016-2016); no se llevó al texto; (3) la numeración del artículo del Código sobre bibliotecas cambió (182 en 2006 y 2010, 195 hoy).
+
+### 26 de noviembre de 2026 — Documentos de la Contraloría para formular el presupuesto 2027 (GL-27)
+
+Fuente: https://www.cgr.go.cr/05-tramites-ap-gl-27.html. Se descargaron los ocho documentos (Drive de la CGR) y se guardaron, con su texto extraído, en `Criterios CGR/Formulación presupuestaria 2027 (GL-27)`: GL-1 Indicaciones 2027 (39 pp.), GL-1 Guía orientadora de información plurianual, GL-1 Plantilla plurianual 2027-2030 (xlsx), GL-2 Certificación del bloque de legalidad (versión julio 2026), GL-3 Modelos de guía interna del presupuesto y del plan operativo anual (docx), GL-4 Estructura programática municipal y GL-4 Cuadros del documento presupuestario (xlsx).
+
+Claves nuevas en el generador (diccionario CGR): `CGR-IND27`, `CGR-EP` (sin fecha visible en el documento: se cita «s. f.»), `CGR-GIP` (las citas usan «sección A/B/C/D» e «indicaciones», porque el docx no tiene páginas) y `CGR-CERT`. Herramientas nuevas: `adenda.py` (aplica reemplazos con macros, regenera y calcula operaciones por diferencia de párrafos; con `SEGUIR=1` parte del estado local) y `enviar.py` (resuelve las anclas de inserción a ids de bloque).
+
+Adendas, todas IDÉNTICAS por exportación:
+- t01 «El veinte por ciento»: la guía interna pide el cálculo del 20 % del art. 55 de la Ley 5412 (sección C). 50.307 bytes (6203bbc6…).
+- t04 «Con qué se paga»: párrafo nuevo sobre el subprograma de seguridad y vigilancia cantonal (EP, p. 16). 48.550 (111dc14d…).
+- t05: subprograma de seguridad vial (EP, pp. 15 y 19) y certificación que pregunta por el contenido para cumplir órdenes de la Sala Constitucional (CERT, pp. 3 y 5). 53.547 (f6370a13…).
+- t06: guía interna, 3 % del superávit (46 bis) y aprovisionamiento del art. 45; subprograma de gestión de riesgo (EP, p. 11). 64.085 (388ec041…).
+- t09: subprograma de cementerios (EP, p. 8). 56.921 (6326e50a…).
+- t11: oficina de la mujer en servicios sociales (EP, p. 17). 51.579 (2cc82430…).
+- t15: la guía interna pregunta por la participación (norma 2.2.3 q de las NTPP). 66.328 (261305cd…).
+- t20: CECUDI en servicios sociales (EP, p. 17) y cuadro de origen y aplicación (IND27, p. 25). 49.387 (964fbffc…).
+- t24: la guía interna sigue pidiendo el 0,5 % para el CONAPDIS sin mencionar la reforma de 2024 del art. 13 CM. 59.295 (e9cdaf31…).
+- t28: subprogramas de acueductos e hidrantes y alcantarillados (EP, pp. 7 y 8). 62.812 (a1a76378…).
+- t29: subprogramas de residuos y de limpieza de vías (EP, pp. 10 y 13). 49.997 (0802a948…).
+- t31: protección animal en medio ambiente y animales de la policía en seguridad (EP, pp. 15 y 16). 51.926 (fa1877cc…).
+- t34: bibliotecas y escuelas de música (EP, p. 9). 53.255 (09e34645…).
+
+Barrido de señales: con esta entrega quedan publicados y verificados t28 (62.106 antes de la adenda, 48f96c7a…), t29 (49.282, 09d5ee64…), t30 (66.201, 7eb48a9c…) y t31 (51.147, f17998d1…). Corrección: el commit 59e3c03 dice «33 marcas de lectura propia»; fueron unas 30.
+
+Pendiente: tema 35 (la guía interna pide el 3 % mínimo de los ingresos ordinarios para el comité cantonal de deportes, art. 179 CM y art. 6 Ley 9329: incorporarlo al reescribir el tema); barrido de t32, t33 y t36. Sin usar todavía: la guía orientadora plurianual, la plantilla plurianual, el modelo de guía del plan operativo y los cuadros (dietas, plazas del art. 46 de la Ley 10159). Las Indicaciones mencionan la Ley 10795 (reforma del art. 106 CM: el acta del Concejo se sustituye por certificaciones); no está en el repositorio y no se citó.

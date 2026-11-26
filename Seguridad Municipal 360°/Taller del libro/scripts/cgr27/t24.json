@@ -1,0 +1,44 @@
+{
+ "ops": [
+  {
+   "op": "replace",
+   "target": {
+    "kind": "find",
+    "text": "con la comisión de accesibilidad (CM, art. 13). El "
+   },
+   "with": {
+    "as": "text",
+    "from": {
+     "kind": "inline",
+     "content": "con la comisión de accesibilidad (CM, art. 13). El modelo de guía interna que la Contraloría propone para formular el presupuesto de 2027 sigue preguntando si se incorpora el medio por ciento del presupuesto general municipal destinado al Consejo Nacional (Contraloría General de la República [CGR], modelo de guía interna de verificación del presupuesto, 2026, sección C), sin mencionar la reforma; la municipalidad que haya creado la oficina debe explicarlo en la columna de observaciones, que la guía reserva para las razones de un «no» o un «no aplica» (CGR, modelo de guía interna de verificación del presupuesto, 2026, indicaciones). El "
+    }
+   }
+  },
+  {
+   "op": "replace",
+   "target": {
+    "kind": "find",
+    "text": "del estado de las rampas de las aceras del cantón (Contraloría General de la República [CGR]"
+   },
+   "with": {
+    "as": "text",
+    "from": {
+     "kind": "inline",
+     "content": "del estado de las rampas de las aceras del cantón (CGR"
+    }
+   }
+  },
+  {
+   "op": "insert",
+   "ANCLA": "Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025]",
+   "side": "after",
+   "source": {
+    "as": "markdown",
+    "from": {
+     "kind": "inline",
+     "content": "Contraloría General de la República. (2026, julio). *Modelo de guía interna de verificación de requisitos del bloque de legalidad presupuestario que deben cumplir las municipalidades en la formulación de su presupuesto inicial y variaciones sujetas a la aprobación presupuestaria de la Contraloría General de la República*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html"
+    }
+   }
+  }
+ ]
+}

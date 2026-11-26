@@ -96,7 +96,7 @@ El medio general es el presupuesto ordinario, en la medida de las posibilidades 
 
 Los espectáculos aportan un impuesto propio. Pesa a favor de las municipalidades un cinco por ciento sobre el valor de cada entrada a los espectáculos públicos no gratuitos; quedan exentos, previa aprobación municipal, los que destinan su producto íntegro a fines escolares, de beneficencia, religiosos o sociales (Ley N.° 6844, 1983, art. 1). La municipalidad puede organizar el cobro por adelantado mediante reglamento (Ley 6844, art. 2) y multar con diez veces el monto dejado de pagar (Ley 6844, art. 3). La Procuraduría resolvió que la tarifa es el cinco por ciento de la ley, que prevalece sobre la de un decreto, y que la base es la suma del valor de los tiquetes, de la que solo se rebaja el impuesto sobre las ventas (Procuraduría General de la República, dictamen C-052-2015, 2015, conclusión; dictamen C-058-2021, 2021, conclusión). Resolvió también que los espectáculos de las entidades deportivas reconocidas gozan de la exoneración de la Ley N.° 7800 sin que la municipalidad deba reconocerla en un acto propio (Procuraduría General de la República, dictamen C-115-2017, 2017, conclusión), punto que el tema 35 retoma.
 
-Hay ingresos con destino. Los fondos de la Ley N.° 6282 van a las bibliotecas municipales y a nada más del cantón (CM, art. 195; CGR, oficio 14467, p. 8). En Guanacaste, las transferencias del impuesto de salida del aeropuerto Daniel Oduber Quirós pueden financiar la recuperación del patrimonio cultural, material e inmaterial, incluidos los bienes no declarados pero de "singular relevancia" (C-127-2018, concl.).
+Hay ingresos con destino. Los fondos de la Ley N.° 6282 van a las bibliotecas municipales y a nada más del cantón (CM, art. 195; CGR, oficio 14467, p. 8). La estructura programática de la Contraloría ubica la administración de las bibliotecas públicas y de las escuelas municipales de música o de arte en el subprograma de servicios educativos, culturales, deportivos y recreativos (CGR, estructura programática municipal, s. f., p. 9). En Guanacaste, las transferencias del impuesto de salida del aeropuerto Daniel Oduber Quirós pueden financiar la recuperación del patrimonio cultural, material e inmaterial, incluidos los bienes no declarados pero de "singular relevancia" (C-127-2018, concl.).
 
 ## Cómo hace el gobierno local que la cultura exista
 
@@ -159,6 +159,8 @@ Contraloría General de la República. (2025, 4 de febrero). *Oficio N.° 01835 
 Contraloría General de la República. (2025, 5 de agosto). *Índice de Gestión de Servicios Municipales 2025* (informe N.° DFOE-LOC-SGP-00002-2025). https://sites.google.com/cgr.go.cr/igsm/
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
+
+Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
 
 Ley N.° 3481, *Ley Orgánica del Ministerio de Educación Pública*. (1965). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=6176&param2=6565&param3=1
 

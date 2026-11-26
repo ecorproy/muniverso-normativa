@@ -1,0 +1,30 @@
+{
+ "ops": [
+  {
+   "op": "replace",
+   "target": {
+    "kind": "find",
+    "text": "que esté inscrita como gestora (C-358-2021, concl.)."
+   },
+   "with": {
+    "as": "text",
+    "from": {
+     "kind": "inline",
+     "content": "que esté inscrita como gestora (C-358-2021, concl.). Sea cual sea el medio, el gasto se registra en el presupuesto por servicio: la estructura programática de la Contraloría tiene un subprograma de gestión de residuos sólidos (CGR, estructura programática municipal, s. f., p. 10) y otro de limpieza de vías y sitios públicos (CGR, estructura programática municipal, s. f., p. 13), lo que facilita comprobar que cada tasa financie su propio servicio."
+    }
+   }
+  },
+  {
+   "op": "insert",
+   "ANCLA": "Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025]",
+   "side": "after",
+   "source": {
+    "as": "markdown",
+    "from": {
+     "kind": "inline",
+     "content": "Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html"
+    }
+   }
+  }
+ ]
+}

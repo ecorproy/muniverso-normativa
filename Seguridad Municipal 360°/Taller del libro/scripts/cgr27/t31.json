@@ -1,0 +1,44 @@
+{
+ "ops": [
+  {
+   "op": "replace",
+   "target": {
+    "kind": "find",
+    "text": "producto de esa tasa se destine a un servicio distinto."
+   },
+   "with": {
+    "as": "text",
+    "from": {
+     "kind": "inline",
+     "content": "producto de esa tasa se destine a un servicio distinto. En el presupuesto, la estructura programática de la Contraloría ubica los programas de protección animal, como las campañas de adopción, vacunación y castración, en el subprograma de protección del medio ambiente (Contraloría General de la República [CGR], estructura programática municipal, s. f., p. 15); los insumos y servicios veterinarios de los animales de la policía municipal van, en cambio, en el de seguridad y vigilancia cantonal (CGR, estructura programática municipal, s. f., p. 16)."
+    }
+   }
+  },
+  {
+   "op": "replace",
+   "target": {
+    "kind": "find",
+    "text": "y entre ellos no hay uno dedicado a los animales (Contraloría General de la República [CGR]"
+   },
+   "with": {
+    "as": "text",
+    "from": {
+     "kind": "inline",
+     "content": "y entre ellos no hay uno dedicado a los animales (CGR"
+    }
+   }
+  },
+  {
+   "op": "insert",
+   "ANCLA": "Contraloría General de la República. (2025, 5 de agosto). *Índice de Gestión de Servicios Municipales 2025* (informe N.°",
+   "side": "after",
+   "source": {
+    "as": "markdown",
+    "from": {
+     "kind": "inline",
+     "content": "Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html"
+    }
+   }
+  }
+ ]
+}

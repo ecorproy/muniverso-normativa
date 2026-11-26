@@ -2,6 +2,8 @@
 
 Contraloría General de la República. (2025, 5 de agosto). *Índice de Gestión de Servicios Municipales 2025* (informe N.° DFOE-LOC-SGP-00002-2025). https://sites.google.com/cgr.go.cr/igsm/
 
+Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
 Decreto Ejecutivo N.° 32833, *Reglamento General de Cementerios*. (2005). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=56104&param2=121697&param3=1
 
 Ley N.° 30, *Código Civil*. (1885). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.

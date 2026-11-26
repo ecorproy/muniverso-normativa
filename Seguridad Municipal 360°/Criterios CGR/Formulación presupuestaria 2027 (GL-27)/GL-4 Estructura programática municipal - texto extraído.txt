@@ -1,0 +1,802 @@
+Índice
+
+
+
+Siglas y Abreviaturas..............................................................................................................................................................3
+
+Introducción..........................................................................................................................................................................4
+
+Esquema Resumen................................................................................................................................................................5
+
+Programa II: Servicios Comunales..........................................................................................................................................7
+
+Programa III: Inversiones........................................................................................................................................................18
+
+Programa IV: Partidas Específicas...........................................................................................................................................20
+
+
+
+
+                                                                                                                                                                                          2
+                                                                                     Página Anterior                  Inicio            Página Siguiente
+ Siglas y Abreviaturas
+
+ A continuación, se indica el detalle de las siglas utilizadas en este documento:
+
+
+
+
+       Abreviatura                                                            Significado
+
+
+CECUDI                              Centros de Cuido y Desarrollo Infantil
+
+CGR                                 Contraloría General de la República
+
+CM                                  Código Municipal
+
+IBI                                 Impuesto sobre bienes inmuebles
+
+n.°                                 Número
+
+PGAI                                Programas de Gestión Ambiental Institucional
+
+SIPP                                Sistema de Información sobre Planes y Presupuestos
+
+
+
+
+                                                                                                                 3
+                                                           Página Anterior           Inicio   Página Siguiente
+Introducción
+
+Las municipalidades deberán aplicar la presente estructura programática tanto en la formulación de sus presupuestos institucionales
+como en el registro de la información en el Sistema de Información sobre Planes y Presupuestos (SIPP), considerando los programas,
+subprogramas y sus respectivas actividades, servicios, proyectos u obras, según lo definido por cada Gobierno Local.
+
+Este documento ha sido elaborado en conjunto con los encargados de presupuesto de las municipalidades del país e incluye ejemplos
+ilustrativos que sirven como guía para el proceso de registro. No obstante, dichos ejemplos se basan en consideraciones generales y
+no abordan situaciones particulares, cuya evaluación y decisión corresponde exclusivamente a cada municipalidad. En consecuencia,
+este documento no sustituye el análisis específico que debe realizarse en cada caso ni reemplaza las decisiones que competen a las
+instancias responsables de la gestión administrativa, en conformidad con el ordenamiento jurídico.
+
+Cada Gobierno Local deberá realizar el registro conforme al siguiente desglose:
+
+
+
+
+                                                                                                                                      4
+                                                         Página Anterior          Inicio       Página Siguiente
+                                                                                    Esquema Resumen
+
+    Programa                                              Actividad                                  Programa                                               Proyectos
+
+PROGRAMA I: DIRECCIÓN     ADMINISTRACIÓN GENERAL                                                                                              UNIDAD TÉCNICA DE GESTIÓN VIAL
+                                                                                                                          PROYECTOS DE
+  Y ADMINISTRACIÓN
+                          AUDITORÍA INTERNA                                                                               GESTIÓN VIAL        PROYECTO 1,2,3...
+      GENERAL
+                                                                                                                            CANTONAL          PROYECTO 1,2,3...
+                                                                                                     PROGRAMA III:
+    Programa                                              Servicio                                    INVERSIONES
+                                                                                                                                              ADICIONES Y MEJORAS DE EDIFICIOS U OBRAS PREEXISTENTES
+                                                                                                                            PROYECTOS
+                         ACUEDUCTOS E HIDRANTES                                                                            DE INVERSIÓN       PROYECTO 1,2,3...
+                                                                                                                             COMUNAL          PROYECTO 1,2,3...
+                         ALCANTARILLADO PLUVIAL
+
+                         ALCANTARILLADOS SANITARIOS
+
+                         CEMENTERIOS                                                                 Programa                                               Proyectos
+
+                         EDUCATIVOS, CULTURALES, DEPORTIVOS Y RECREATIVOS                                                 PROYECTO 1,2,3...
+                                                                                                      PROGRAMA IV:
+                         ESTACIONAMIENTOS Y TERMINALES                                             PARTIDAS ESPECÍFICAS   PROYECTO 1,2,3...
+
+                         GESTIÓN DE RESIDUOS SÓLIDOS
+
+                         GESTIÓN DE RIESGO Y ATENCIÓN DE EMERGENCIAS CANTONALES
+
+                         GESTIÓN Y CONTROL URBANO
+PROGRAMA II: SERVICIOS   LIMPIEZA DE VÍAS Y SITIOS PÚBLICOS
+     COMUNALES
+                         MANTENIMIENTO DE ACERAS, CAMINOS Y CALLES
+
+                         MANTENIMIENTO DE PARQUES, ZONAS VERDES Y OBRAS DE ORNATO
+
+                         MERCADOS, PLAZAS Y FERIAS
+
+                         PROTECCIÓN DEL MEDIO AMBIENTE
+
+                         SEGURIDAD VIAL
+
+                         SEGURIDAD Y VIGILANCIA CANTONAL
+
+                         SERVICIOS SOCIALES
+
+                         ZONA MARÍTIMA TERRESTRE
+
+
+
+
+                                                                                                                                                                                                       5
+                                                                      Página Anterior     Inicio            Página Siguiente
+Programa I: Dirección y Administración General
+                           Desarrollar las políticas y acciones administrativas de apoyo a la gestión municipal, así como la vigilancia, dirección y administración de los recursos
+Definición del programa:   de la manera más eficiente a efecto de que los programas de servicios e inversión puedan cumplir con sus cometidos.
+
+
+
+ Actividad - Subprograma                                                      Definición                                                                                        Algunos ejemplos asociados
+
+
+                                                                                                                                                    •Gastos generales del subprograma tales como: Remuneraciones,
+                                                                                                                                                    Incapacidades, Prestaciones legales y otros.
+
+                                                                                                                                                    •Adquisición de bienes y servicios necesarios para las labores administrativas
+                                  Se incluyen los gastos para la dirección y administración general propios del                                     (incluye el mantenimiento de edificios municipales)2.
+                                  gobierno local, los cuales consideran tanto los gastos corrientes, entendidos
+                                  estos como los gastos generales de administración que no impliquen costos                                         •Intereses y amortizaciones de edificios municipales, vehículos u otros bienes
+                                  directos de los servicios municipales según el artículo 102 del CM; así como                                      duraderos de uso administrativo.
+                                  aquellos gastos de capital, transacciones financieras y sumas sin asignación,
+                                  cuya descripción se establece en el Clasificador Económico del Gasto del                                          •Proyectos de inversión y bienes duraderos diversos propios de la
+                                  Sector Público vigente y su tabla de equivalencia con respecto al Clasificador                                    administración (adquisición de maquinaria, equipo de cómputo, vehículos y
+                                  por Objeto del Gasto del Sector Público vigente.                                                                  construcción del edificio municipal, entre otros).
+
+                                                                                                                                                    •Transferencias corrientes y/o de capital que se realizan a entidades públicas
+   Administración                 Se excluye del porcentaje señalado en el artículo 102 del CM (40%
+                                                                                                                                                    o privadas según el bloque de legalidad. Ejemplos: Porcentaje del IBI para las
+                                  Gastos generales de administración), los gastos corrientes asociados a las
+     General                      transferencias corrientes que debido a una ley específica la Administración
+                                                                                                                                                    Juntas de Educación, aportes al Consejo de Rehabilitación, Comité Cantonal
+                                                                                                                                                    de Deportes, Federaciones, Ligas, Uniones por cuota de afiliación, etc.
+                                  debe realizar de carácter obligatorio1 a entidades públicas o privadas, así
+                                  como los gastos de capital, transacciones financieras y sumas sin asignación.                                     •Bonos, acciones, certificados de inversión, etc. que se financian con recursos
+                                                                                                                                                    destinados al programa I.
+                                  Se excluyen de este subprograma los gastos de la Unidad de Auditoría
+                                  Interna, los cuales se incorporarán en la actividad denominada “Auditoría                                         •Cuentas especiales sin asignación presupuestaria que por el origen de los
+                                  Interna”.                                                                                                         recursos que las financian pueden destinarse a la adquisición de bienes y
+                                                                                                                                                    servicios de uso administrativo.
+
+                                                                                                                                                    •Intereses y amortizaciones propias del subprograma.
+                                  1 Se entiende como carácter obligatorio aquellas transferencias que la administración municipal no puede evadir
+                                  realizar. En aquellos casos que haya transferencias que surjan por una Ley o por norma pero que quedan
+                                  optativas en su otorgamiento por parte de la administración municipal, pierden su carácter de obligatoriedad,     2       Corresponden a mantenimientos y reparaciones menores, ordinarias preventivas y habituales para conservar
+                                  como son los aportes a la UNGL, federaciones, entre otros.                                                        los edificios. Ver Norma B.1.5.3 de las Normas y Criterios Operativos para el uso de los clasificadores.
+
+
+                                                                                                                                                                                                                                                                       6
+                                                                                   Página Anterior                                Inicio            Página Siguiente
+ Actividad - Subprograma                                            Definición                                                             Algunos ejemplos asociados
+
+
+                                                                                                                       •Gastos generales del subprograma tales como: Remuneraciones, Incapacidades,
+                                   Se incluye la totalidad de los gastos en que incurra la Auditoría Interna en la     Prestaciones legales y otros.
+                                   realización de sus funciones.
+                                                                                                                       •Adquisición de bienes y servicios necesarios para las labores de la Auditoría
+      AUDITORÍA                    Para el cálculo establecido en el artículo 102 del CM (40% Gastos generales de      Interna (contratación de servicios profesionales para el apoyo en la realización
+                                                                                                                       de auditoría como servicios ingenieriles, informáticos, contables, entre otros).
+       INTERNA                     administración), se consideran los gastos corrientes incluidos en esta actividad,
+                                   cuya descripción se establece en el Clasificador Económico del Gasto del Sector
+                                                                                                                       •Bienes duraderos diversos propios de la Auditoría Interna (adquisición de
+                                   Público vigente y en su tabla de equivalencia con respecto al Clasificador por
+                                                                                                                       maquinaria, equipo de cómputo, entre otros).
+                                   Objeto del Gasto del Sector Público vigente.
+                                                                                                                       •Intereses y amortizaciones propias del subprograma.
+
+
+
+
+Programa II: Servicios Comunales
+Definición del programa:   Brindar servicios a la comunidad con el fin de satisfacer sus necesidades.
+
+
+ Actividad - Subprograma                                            Definición                                                             Algunos ejemplos asociados
+
+
+                                                                                                                       •Gastos propios del subprograma tales como: Remuneraciones, Incapacidades,
+                                                                                                                       Prestaciones legales y otros.
+
+                                                                                                                       •Adquisición de bienes y servicios necesarios para las labores del subprograma
+                                                                                                                       (conexión, medición y mantenimiento del acueducto, compra y mantenimiento
+                                  Comprende la totalidad de los gastos relacionados a la conducción,                   de hidrantes, reparación de acueductos, conservación de infraestructura, entre
+   ACUEDUCTOS E                   almacenamiento, distribución, medición, desinfección, mantenimiento,                 otros).
+     HIDRANTES                    conservación y desarrollo del servicio de acueducto municipal. Además, incluye
+                                  la administración de los hidrantes y la protección de nacientes.                     •Salvaguardar, mantener o mejorar la calidad o cantidad de las fuentes de agua
+                                                                                                                       potable y sus alrededores.
+
+                                                                                                                       •Bienes duraderos diversos propios del subprograma (adquisición de maquinaria,
+                                                                                                                       equipo de cómputo, vehículos, entre otros).
+
+                                                                                                                                                                                                          7
+                                                                       Página Anterior                  Inicio          Página Siguiente
+Actividad - Subprograma                                     Definición                                                                 Algunos ejemplos asociados
+
+
+                                                                                                                  •Gastos propios del subprograma tales como: remuneraciones, incapacidades,
+                                                                                                                  prestaciones legales y otros.
+
+                          Incluye la totalidad de los gastos asociados a la administración, limpieza y            •Adquisición de bienes y servicios necesarios para las labores del subprograma
+   ALCANTARILLADO                                                                                                 (limpieza y mantenimiento periodico de la infraestructura pluvial para mantener
+                          mantenimiento de la red pública de tuberías que se utilizan para recolectar y
+       PLUVIAL            transportar las aguas pluviales hasta su punto de vertido.                              su capacidad hidráulica (incluye cajas y tragantes), mantenimiento y limpieza de
+                                                                                                                  alcantarillas, entre otros).
+
+                                                                                                                  •Bienes duraderos diversos propios del subprograma (maquinaria, equipo
+                                                                                                                  especializado para limpieza de tuberías, entre otros).
+
+
+
+                                                                                                                  •Gastos propios del subprograma tales como: remuneraciones, incapacidades,
+                                                                                                                  prestaciones legales y otros.
+
+                          Incluye la totalidad de los gastos asociados a las acciones regulatorias, operativas,   •Adquisición de bienes y servicios necesarios para las labores del subprograma.
+  ALCANTARILLADOS         financieras, administrativas, de planificación, monitoreo y evaluación, necesarias
+                          para garantizar el servicio básico y la operatividad de la infraestructura del          •Mantenimiento preventivo, correctivo y mejoras de plantas de tratamiento.
+     SANITARIOS
+                          alcantarillado sanitario.                                                               •Mantenimiento preventivo, correctivo y mejoras de redes de alcantarillado
+                                                                                                                  sanitario y de obras complementarias.
+
+                                                                                                                  •Bienes duraderos diversos propios del subprograma.
+
+
+
+
+                                                                                                                  •Gastos propios del subprograma tales como: remuneraciones, incapacidades,
+                          Incluye la totalidad de los gastos asociados a la gestión de mantenimiento,             prestaciones legales y otros.
+                          conservación y construcción de nichos, bóvedas y otras obras complementarias            •Adquisición de bienes y servicios necesarios para las labores del subprograma
+     CEMENTERIOS          en los cementerios administrados por las municipalidades; además las labores            (limpieza y el embellecimiento de la infraestructura del cementerio, mantenimiento
+                          relacionadas con el control de inhumación y exhumación de cadáveres.                    de bóvedas, entre otros).
+
+                                                                                                                  •Bienes duraderos diversos propios del subprograma.
+
+                                                                                                                                                                                                       8
+                                                                Página Anterior                    Inicio          Página Siguiente
+Actividad - Subprograma                                   Definición                                                               Algunos ejemplos asociados
+
+
+                                                                                                             • Gastos propios del subprograma tales como: remuneraciones, incapacidades,
+                                                                                                             prestaciones legales y otros.
+
+                                                                                                             • Adquisición de bienes y servicios necesarios para las labores del subprograma.
+
+                                                                                                             • Administración de Bibliotecas Públicas.
+
+                                                                                                             • Administración de Escuelas de Música y/o Arte Municipales.
+
+                                                                                                             • Mantenimiento de infraestructura deportiva municipal.
+
+                                                                                                             • Actividades deportivas (donaciones de implementos y servicios de carácter deportivo
+                                                                                                             y otros).
+
+                                                                                                             • Financiamiento de actividades, programas y proyectos culturales (talleres de
+                                                                                                             marimba, danza, música popular, teatro, canto, celebración del cantonato y otros).
+                          Comprende la totalidad de los gastos asociados a la administración y promoción
+                                                                                                             • Mantenimiento de instalaciones destinadas para uso cultural y declaradas patrimonio
+                          de actividades educativas, culturales, deportivas y recreativas en los cantones.
+   EDUCATIVOS,                                                                                               cultural.
+   CULTURALES,            Se incluyen también los gastos correspondientes a las actividades de               • Costos para el funcionamiento operativo y administrativo de las instalaciones.
+                          mantenimiento, administración y mejora en paraderos turísticos (como piscinas
+   DEPORTIVOS Y           públicas recreativas, parques naturales y recreativos, balnearios, bosques,        • Costo de mantenimiento de la infraestructura.
+   RECREATIVOS            centros recreativos, entre otros), administrados por el Gobierno Local.            • Costo de servicios de desarrollo, adquisición, mantenimiento y actualización de
+                                                                                                             sistemas informáticos para el cobro de entradas así como estudios para determinar
+                                                                                                             la funcionalidad, incremento y/o la disminución del servicio prestado.
+
+                                                                                                             • Campañas informativas de tarifas, campañas publicitarias sobre servicios que se
+                                                                                                             brindan, horarios.
+
+                                                                                                             • Bienes duraderos diversos propios del subprograma.
+
+                                                                                                             • Transferencias corrientes y/o de capital que se realizan a entidades públicas o
+                                                                                                             privadas según el bloque de legalidad por discrecionalidad de la administración
+                                                                                                             municipal. Ejemplos: Aportes a la Cruz Roja Costarricense, asociaciones de desarrollo,
+                                                                                                             fundaciones, etc.
+
+                                                                                                             • Aportes en especie para servicios y proyectos comunitarios.
+
+
+
+                                                                                                                                                                                                      9
+                                                                                                             • Beneficios patrimoniales cuando corresponda.
+
+
+
+
+                                                              Página Anterior                 Inicio          Página Siguiente
+Actividad - Subprograma                                   Definición                                                            Algunos ejemplos asociados
+
+
+
+
+                                                                                                            •Gastos propios del subprograma tales como: remuneraciones, incapacidades,
+                                                                                                            prestaciones legales y otros.
+
+                                                                                                            •Adquisición de bienes y servicios necesarios para las labores del subprograma.
+                          Incluye la totalidad de los gastos asociados a las actividades de terminal de     •Gastos requeridos para las diversas labores en espacios públicos dedicadas al
+ESTACIONAMIENTOS          buses, mantenimiento y mejoras a las paradas de servicios de transporte           estacionamiento autorizado.
+   Y TERMINALES           público (buses, taxis), parquímetros, parqueos y estacionamientos en áreas
+                          públicas; tanto a nivel de administración como de mantenimiento y mejora.         •Campañas informativas de tarifas, zonas autorizadas, multas aplicables en el
+                                                                                                            cantón.
+
+                                                                                                            •Gastos asociados a las terminales públicas.
+
+                                                                                                            •Bienes duraderos diversos propios del subprograma.
+
+
+
+
+                                                                                                            •Gastos propios del subprograma tales como: remuneraciones, incapacidades,
+                                                                                                            prestaciones legales y otros.
+
+                                                                                                            •Adquisición de bienes y servicios necesarios para las labores del subprograma.
+
+                                                                                                            •Manejo de residuos ordinarios, de manejo especial y peligrosos; reciclaje,
+                          Incluye la totalidad de los gastos relacionados con todas las acciones
+                                                                                                            separación y valorización (según lo definido en la Ley para la Gestión Integral
+                          regulatorias, operativas, financieras, administrativas, educativas, de
+   GESTIÓN DE             planificación, monitoreo y evaluación para el manejo de los residuos ordinarios
+                                                                                                            de Residuos n.° 8839, su reglamento y otra normativa aplicable).
+RESIDUOS SÓLIDOS          y no ordinarios; desde su generación hasta la disposición final (recolección      •Programas educativos y/o de concientización
+                          separada, transporte, valorización, tratamiento y disposición final).
+                                                                                                            •Programas de planificación, monitoreo y evaluación para el manejo de los
+                                                                                                            residuos.
+
+                                                                                                            •Bienes duraderos diversos propios del subprograma.
+
+
+                                                                                                                                                                                              10
+                                                             Página Anterior                  Inicio        Página Siguiente
+Actividad - Subprograma                                  Definición                                                          Algunos ejemplos asociados
+
+
+
+
+                                                                                                         •Gastos propios del subprograma tales como: remuneraciones, incapacidades,
+                                                                                                         prestaciones legales y otros.
+
+                                                                                                         •Adquisición de bienes y servicios necesarios para las labores del subprograma.
+
+                                                                                                         •Adquisiciones de suministros y equipos para atención y respuesta.
+
+                                                                                                         •Actividades de capacitación y formación comunitaria.
+
+                                                                                                         •Materiales, suministros, insumos para atención de emergencias.
+
+                                                                                                         •Perifoneo ante emergencias.
+GESTIÓN DE RIESGO         Comprende la totalidad de los gastos asociados a las acciones de prevención,
+  Y ATENCIÓN DE           respuesta y mitigación ante emergencias o desastres en el cantón (Artículos    •Elaboración de planes, diagnósticos y/o estudios técnicos.
+                          45, 46 bis de la Ley n.° 8488 y otra normativa aplicable).
+  EMERGENCIAS                                                                                            •Adquisiciones de sistemas de alerta temprana.
+   CANTONALES                                                                                            •Bienes duraderos diversos propios del subprograma (alquiler de maquinaria
+                                                                                                         y equipo para la atención de daños causados por eventos tanto en la red vial
+                                                                                                         como en sitios públicos, entre otros).
+
+                                                                                                         •Implementación de acciones para la prevención y reducción de riesgos y
+                                                                                                         desastres.
+
+                                                                                                         •Elaboración de estrategias de alerta temprana comunitaria.
+
+                                                                                                         •Campañas de sensibilización, planes de contingencia, movilización de
+                                                                                                         recursos, asistencia a los afectados (víctimas), evaluación de daños, medidas
+                                                                                                         de reducción de riesgos futuros, entre otros.
+
+
+
+
+                                                                                                                                                                                           11
+                                                            Página Anterior                Inicio        Página Siguiente
+Actividad - Subprograma                                    Definición                                                               Algunos ejemplos asociados
+
+
+
+
+                                                                                                               •Gastos propios del subprograma tales como: remuneraciones, incapacidades,
+                                                                                                               prestaciones legales y otros.
+
+                                                                                                               •Adquisición de bienes y servicios necesarios para las labores del subprograma.
+
+                                                                                                               •Planificación urbana (podría incluir Catastro y Bienes Inmuebles).
+
+                                                                                                               •Planes reguladores.
+
+                                                                                                               •Desfogues pluviales.
+
+                                                                                                               •Zonificación.
+                          Comprende la totalidad de los gastos vinculados a los procesos o actividades
+                          relacionadas con el control y la fiscalización territorial, así como al desarrollo   •Tramitología de usos de suelo.
+   GESTIÓN Y              urbano, el cual abarca aspectos como: crecimiento y distribución demográfica,
+CONTROL URBANO            usos de la tierra, fomento de la producción, prioridades de desarrollo físico        •Otorgamiento de licencias de construcción.
+                          e industrial, coordinación de las inversiones públicas de interés nacional,
+                          seguridad, salud, comodidad, recreación física y cultural, mejor uso de los          •Gastos por incumplimiento de deberes urbanos (notificación de aceras no
+                          recursos naturales y humanos y, en general el bienestar de la comunidad.             construidas, chapea de lotes baldíos, invasión área pública).
+
+                                                                                                               •Labores y costos relacionados con derribo y/o desalojo de obras y construcciones
+                                                                                                               ilegales contrarias a la normativa urbanística y jurídica que las regula.
+
+                                                                                                               •Demoliciones de obra que invade el área pública.
+
+                                                                                                               •Gastos asociados a la operatividad de la Dirección Técnica y Estudios, tales
+                                                                                                               como: gastos administrativos, mobiliario y equipo, entre otros.
+
+                                                                                                               •Bienes duraderos diversos propios del subprograma.
+
+
+
+
+                                                                                                                                                                                                   12
+                                                               Página Anterior                   Inicio         Página Siguiente
+Actividad - Subprograma                                   Definición                                                               Algunos ejemplos asociados
+
+                                                                                                             •Gastos propios del subprograma tales como: remuneraciones, incapacidades,
+                                                                                                             prestaciones legales y otros.
+
+                                                                                                             •Adquisición de bienes y servicios necesarios para las labores del subprograma.
+
+                                                                                                             •Limpieza de cordón y caño de vías.
+
+                                                                                                             •Limpieza de zanjas o canales a cielo abierto.
+
+                                                                                                             •Limpieza de aceras públicas para liberarlas de residuos sólidos, zacate y material
+                                                                                                             terrígeno.
+LIMPIEZA DE VÍAS Y        Incluye la totalidad de los gastos que realiza la administración por la limpieza   •Limpieza de lotes públicos a nombre de la municipalidad, en lo que respecta
+  SITIOS PÚBLICOS         de vías y sitios públicos, y en general del espacio correspondiente al derecho     a residuos sólidos, zacate y similares.
+                          de vía municipal.
+                                                                                                             •Corta o poda de árboles que se encuentran dentro del derecho de vía cantonal.
+
+                                                                                                             •La recolección de los residuos sólidos producto de la limpieza realizada.
+
+                                                                                                             •Inspección y valoración técnica de las vías y sitios públicos en donde se ofrece
+                                                                                                             el servicio, tomando en cuenta todas las actividades que involucran.
+
+                                                                                                             •Bienes duraderos diversos propios del subprograma.
+
+
+                                                                                                             • Gastos propios del subprograma tales como: remuneraciones, incapacidades,
+                                                                                                             prestaciones legales y otros.
+                                                                                                             • Adquisición de bienes y servicios necesarios para las labores del subprograma.
+                                                                                                             • Mantenimiento y limpieza de aceras.
+
+                          Incluye la totalidad de los gastos de mantenimiento preventivo y habitual          • Mantenimiento de caminos vecinales y calles urbanas.
+MANTENIMIENTO DE          de la red vial cantonal; mantenimiento, rehabilitación y construcción de las       • Chapeas.
+ACERAS, CAMINOS Y         aceras, así como movilidad peatonal y otras obras de menor impacto que
+                          no hayan sido contempladas en el Plan de Mantenimiento y Conservación              • Mantenimiento de las rutas de evacuación de aguas pluviales.
+     CALLES
+                          Quinquenal de la Red Vial Cantonal.                                                • Bacheos con asfalto.
+                                                                                                             • Reparaciones con cemento.
+
+
+                                                                                                                                                                                                   13
+                                                                                                             • Reparaciones menores de cunetas.
+
+                                                                                                             • Bienes duraderos diversos propios del subprograma.
+
+
+
+                                                              Página Anterior                  Inicio         Página Siguiente
+Actividad - Subprograma                                 Definición                                                           Algunos ejemplos asociados
+
+
+                                                                                                        •Gastos propios del subprograma tales como: remuneraciones, incapacidades,
+                                                                                                        prestaciones legales y otros.
+
+                                                                                                        •Adquisición de bienes y servicios necesarios para las labores del subprograma.
+
+                                                                                                        •Limpieza y mantenimiento de zonas verdes y obras de ornato de los parques.
+
+ MANTENIMIENTO                                                                                          •Fumigaciones.
+DE PARQUES, ZONAS         Comprende la totalidad de los gastos asociadas a la gestión, mantenimiento,
+                                                                                                        •Contrataciones para corta y poda de árboles.
+                          conservación y reparaciones menores de infraestructura en parques, zonas
+VERDES Y OBRAS DE                                                                                       •Diseño de sistemas de riego y paisaje.
+                          verdes y obras de ornato en administración de la municipalidad.
+     ORNATO
+                                                                                                        •Sistemas de iluminación.
+
+                                                                                                        •Mantenimiento de la infraestructura de parques.
+
+                                                                                                        •Bienes duraderos diversos propios del subprograma.
+
+
+
+                                                                                                        •Gastos propios del subprograma tales como: remuneraciones, incapacidades,
+                                                                                                        prestaciones legales y otros.
+
+                                                                                                        •Adquisición de bienes y servicios necesarios para las labores del subprograma.
+
+                                                                                                        •Gastos relacionados con la feria del Agricultor.
+
+                          Incluye la totalidad de los gastos relacionados con el mantenimiento,         •Costos de servicios básicos para el funcionamiento operativo de las instalaciones
+MERCADOS, PLAZAS          reparación, remodelación de los mercados municipales, plazas y los campos     (agua, electricidad, telecomunicaciones).
+                          feriales. Incluye también los gastos que permitan la adecuada operatividad
+    Y FERIAS                                                                                            •Materiales de limpieza, herramientas, materiales de resguardo y seguridad
+                          de las instalaciones.                                                         para el personal que ejecuta las labores.
+
+                                                                                                        •Compra y mantenimiento de extintores.
+
+                                                                                                        •Costos de contratación de servicios de limpieza de instalaciones, seguridad
+                                                                                                        privada, mantenimiento del edificio, fumigaciones, mantenimiento de sistemas
+                                                                                                        como: audio, eléctricos, bombeo de agua, sistemas de gas etc.
+
+
+                                                                                                                                                                                             14
+                                                                                                        •Bienes duraderos diversos propios del subprograma
+
+
+
+
+                                                           Página Anterior                  Inicio       Página Siguiente
+Actividad - Subprograma                                  Definición                                                             Algunos ejemplos asociados
+
+
+                                                                                                           •Gastos propios del subprograma tales como: remuneraciones, incapacidades,
+                                                                                                           prestaciones legales y otros.
+
+                                                                                                           •Adquisición de bienes y servicios necesarios para las labores del subprograma.
+
+                                                                                                           •Participación en programas tales como: Bandera azul ecológica, sobre cambio
+                                                                                                           climático, sobre ciudades sostenibles y resilientes, de movilidad eléctrica y otros
+                                                                                                           similares.
+
+                          Comprende la totalidad de los gastos destinados a la gestión y administración    •Estrategias de capacitación y conciencia ambiental (campañas).
+   PROTECCIÓN DEL         de servicios ambientales tales como: preservación, recuperación, restauración,
+                                                                                                           •Elaboración e implementación PGAI.
+                          manejo y protección de la flora y fauna doméstica y/o silvestre, ambientes
+   MEDIO AMBIENTE         naturales y comunidades ecológicas que habitan en el cantón.                     •Formulación, organización, coordinación y ejecución de educación ambiental.
+
+                                                                                                           •Reforestación y siembra de árboles.
+
+                                                                                                           •Protección de recursos naturales.
+
+                                                                                                           •Programas de protección animal (campañas de adopción, vacunación,
+                                                                                                           castración y otros).
+
+                                                                                                           •Bienes duraderos diversos propios del subprograma.
+
+
+
+                                                                                                           •Gastos propios del subprograma tales como: remuneraciones, incapacidades,
+                                                                                                           prestaciones legales y otros.
+
+                                                                                                           •Adquisición de bienes y servicios necesarios para las labores del subprograma.
+
+                                                                                                           •Adquisición de señales de tránsito.
+                          Incluye la totalidad de los gastos asociados a la atención del mejoramiento,
+   SEGURIDAD VIAL         señalamiento, seguridad y educación vial; así como los gastos asociados a la     •Programas de capacitación en temas de seguridad y educación vial.
+                          policía municipal de tránsito.
+                                                                                                           •Atención del mejoramiento del señalamiento vial.
+
+                                                                                                           •Útiles y materiales de resguardo y seguridad como chalecos antibalas,
+                                                                                                           adquisición de armas, balas, equipo de cómputo, equipos especializados.
+
+                                                                                                           •Bienes duraderos diversos propios del subprograma.
+                                                                                                                                                                                                 15
+                                                             Página Anterior                 Inicio         Página Siguiente
+Actividad - Subprograma                                   Definición                                                             Algunos ejemplos asociados
+
+
+
+
+                                                                                                            •Gastos propios del subprograma tales como: remuneraciones, incapacidades,
+                                                                                                            prestaciones legales y otros.
+
+                                                                                                            •Adquisición de bienes y servicios necesarios para las labores del subprograma.
+
+                                                                                                            •Adquisición de cámaras de vigilancia.
+
+                                                                                                            •Programas que utilicen animales adiestrados con fines de seguridad pública.
+
+                                                                                                            •Pago de enlaces de servicios de monitoreo, mantenimiento de cámaras,
+                          Corresponde a la totalidad de los gastos relacionados con la policía municipal,
+    SEGURIDAD             departamentos de monitoreo y todos aquellos egresos vinculados a atender
+                                                                                                            mantenimiento de patrullas.
+   Y VIGILANCIA           fines de vigilancia y control de los servicios y bienes comunales; así como las   •Útiles y materiales de resguardo y seguridad como chalecos antibalas,
+    CANTONAL              acciones para garantizar la seguridad del cantón.                                 adquisición de armas, balas, equipo de cómputo, equipos especializados.
+
+                                                                                                            •Compra de insumos y servicios veterinarios para los animales de la Policía
+                                                                                                            Municipal.
+
+                                                                                                            •Compra de patrullas, motocicletas y bicicletas para uso de los cuerpos policiales.
+
+                                                                                                            •Programas de capacitación en temas de seguridad y vigilancia cantonal.
+
+                                                                                                            •Bienes duraderos diversos propios del subprograma.
+
+
+
+
+                                                                                                                                                                                                  16
+                                                             Página Anterior                  Inicio         Página Siguiente
+Actividad - Subprograma                                  Definición                                                            Algunos ejemplos asociados
+
+
+
+
+                                                                                                         • Gastos propios del subprograma tales como: remuneraciones, incapacidades,
+                                                                                                         prestaciones legales y otros.
+
+                                                                                                         • Adquisición de bienes y servicios necesarios para las labores del subprograma.
+
+                                                                                                         • Gastos de la Oficina de la Mujer, Oficina Persona Adulta Mayor; Oficina Diversidad,
+                                                                                                         Oficina Niñez y Adolescencia, entre otros.
+
+                                                                                                         • Bolsas de empleo.
+
+                                                                                                         • Programas vinculados a la accesibilidad y atención de personas con discapacidad.
+                          Corresponde a la totalidad de los gastos relacionados al servicio social y
+                                                                                                         • Ayudas temporales a vecinos y vecinas del cantón según el bloque de legalidad
+                          complementario en el cantón, así como la promoción del cumplimiento de         aplicable.
+                          derechos humanos de grupos vulnerables y el desarrollo inclusivo en todos
+                          los ámbitos de la sociedad.                                                    • Becas de estudio a sus munícipes según el bloque de legalidad aplicable.
+       SERVICIOS
+                                                                                                         • Todo lo relacionado a CECUDI.
+       SOCIALES           Además, incluye todos aquellos aportes en especie y beneficios patrimoniales
+                          a favor de sujetos privados con el fin de satisfacer sus necesidades.          • Costos de servicios de capacitación, actividades protocolarias vinculadas con
+                                                                                                         programas sociales (servicios profesionales en psicología, promoción social, ciencias
+                                                                                                         de la salud para adultos mayores, diagnósticos de población y otros).
+
+                                                                                                         • Transferencias corrientes y/o de capital que se realizan a entidades públicas o
+                                                                                                         privadas según el bloque de legalidad por discrecionalidad de la administración
+                                                                                                         municipal. Ejemplos: Aportes a la Cruz Roja Costarricense, asociaciones de desarrollo,
+                                                                                                         fundaciones, etc.
+
+                                                                                                         • Aportes en especie para servicios y proyectos comunitarios.
+
+                                                                                                         • Beneficios patrimoniales cuando corresponda.
+
+                                                                                                         • Bienes duraderos diversos propios del subprograma.
+
+
+
+
+                                                                                                                                                                                                  17
+                                                            Página Anterior                 Inicio       Página Siguiente
+Actividad - Subprograma                                   Definición                                                            Algunos ejemplos asociados
+
+
+                                                                                                             •Gastos propios del subprograma tales como: remuneraciones, incapacidades,
+                                                                                                             prestaciones legales y otros.
+
+                                                                                                             •Adquisición de bienes y servicios necesarios para las labores del subprograma.
+
+                                                                                                             •Concesiones.
+   ZONA MARÍTIMO          Incluye la totalidad de los gastos asociados a las actividades de mantenimiento,
+                                                                                                             •Limpieza de playas.
+     TERRESTRE            administración y mejora para el control de las áreas tuteladas en la zona
+                          marítimo terrestre, según la normativa aplicable.                                  •Control de permisos de construcción.
+
+                                                                                                             •Control de la distancia en la playa.
+
+                                                                                                             •Formulación de planes reguladores para las islas y la zona urbano y rural.
+
+                                                                                                             •Construcción de accesos a las playas para personas con discapacidad.
+
+                                                                                                             •Bienes duraderos diversos propios del subprograma.
+
+
+
+
+                                                                                                                                                                                               18
+                                                              Página Anterior                 Inicio         Página Siguiente
+ Programa III: Inversiones
+ Definición del programa:   Desarrollar proyectos de inversión a favor de la comunidad con el fin de satisfacer sus necesidades.
+
+
+
+Actividad - Subprograma                                                   Definición                                                                     Algunos ejemplos asociados
+
+
+
+    Subprograma
+   PROYECTOS DE
+   GESTIÓN VIAL
+     CANTONAL
+                                                                                                                                      •La Unidad Técnica de Gestión abarca los gastos relacionados con el
+                                                                                                                                      funcionamiento interno de la Unidad Técnica de Gestión Vial, incluyendo
+                                                                                                                                      costos de personal (remuneraciones, incapacidades, prestaciones legales)
+ Unidad Técnica de                                                                                                                    y recursos materiales (bienes, servicios, maquinaria, mobiliario y equipo)
+   Gestión Vial                                                                                                                       necesarios para su operatividad.
+                               El subprograma3 de Proyectos de Gestión Vial Cantonal comprende, por
+                               un lado, los gastos operativos de la Unidad Técnica de Gestión Vial, y por
+                               otro, las inversiones destinadas a la construcción, ampliación y mejora de
+Proyecto 13 (Detallar          infraestructura vial terrestre, incluyendo tanto las etapas iniciales como las                         •En los Proyectos 1, 2, 3 y sucesivos, se consideran los gastos propios de
+                                                                                                                                      cada obra de infraestructura vial contemplada en el subprograma. Estos
+nombre del proyecto)           obras complementarias necesarias para su funcionamiento.
+                                                                                                                                      incluyen la construcción, mejora o ampliación de vías de comunicación
+                                                                                                                                      terrestre (carreteras, calles, ciclovías, caminos, viaductos, etc.), así como
+                                                                                                                                      obras específicas como pavimentación, puentes, túneles, muros, cunetas,
+                                                                                                                                      aceras, rampas, cordón y caño, drenajes y alcantarillas. También se incluyen
+ Proyecto 2 (Detallar                                                                                                                 las etapas iniciales de ejecución (limpieza, desmonte, movimiento de tierras)
+nombre del proyecto)                                                                                                                  y obras complementarias como señalización, demarcación e iluminación.
+
+
+
+
+ Proyecto 3 (Detallar
+                               3 Si el proyecto trasciende, se debe mantener la misma nomenclatura, por ejemplo: nombre y/o código.
+nombre del proyecto)
+                                                                                                                                                                                                                      19
+                                                                               Página Anterior                              Inicio    Página Siguiente
+Actividad - Subprograma                                          Definición                                                                           Algunos ejemplos asociados
+
+
+
+
+     Subprograma
+      PROYECTOS
+                                                                                                                                   Por cada proyecto del subprograma:
+     DE INVERSIÓN
+       COMUNAL                                                                                                                     •Mantenimiento, adición y/o mejoramiento de todo tipo de edificios,
+                                                                                                                                   tales como: edificios de administración municipal, salones comunales,
+                                                                                                                                   infraestructura para adultos mayores, centros de cuidado infantil, centros
+                                                                                                                                   de enseñanza, clínicas (EBAIS).
+ Proyecto 1 Adiciones                                                                                                              •Construcción, adición y/o mejoramiento de obras portuarias, marítimas y
+ y Mejoras de edificios                                                                                                            fluviales, por ejemplo: diques, muelles, marinas, rompeolas, obras de defensa
+                                                                                                                                   y protección, así como obras complementarias como áreas para maniobras
+ u obras preexistentes    Comprende4 los gastos relacionados a adiciones y mejoras correspondientes
+                                                                                                                                   de carga y descarga, entre otros.
+                          al mantenimiento de edificios u obras preexistentes (Proyecto 1).
+                                                                                                                                   •Proyectos que tengan como propósito el fraccionamiento o habilitación
+                          Además, se incluyen todos los gastos asociados a los nuevos proyectos                                    de un terreno para fines urbanos y provisión de servicios de agua potable,
+                          de inversión que realizan las municipalidades en el cantón, ya sea que se                                electricidad, de alcantarillado, pluvial y sanitario, entre otros.
+ Proyecto 24 (Detallar    realicen por la administración activa o por contrato.
+                                                                                                                                   •Proyectos que tengan como propósito la construcción, adición y
+ nombre del proyecto)                                                                                                              mejoramiento de obras para acueductos y alcantarillados pluvial y sanitario,
+                                                                                                                                   entre otros.
+
+                                                                                                                                   •Otros proyectos relacionados con el ámbito deportivo, cultural y recreativo,
+                                                                                                                                   tales como: instalaciones deportivas públicas, polideportivos, parques
+  Proyecto 3 (Detallar                                                                                                             infantiles, kioscos, entre otros.
+ nombre del proyecto)
+                                                                                                                                   •Adquisición de bienes preexistentes y bienes duraderos diversos como
+                                                                                                                                   maquinaria, terrenos o edificios.
+
+                                                                                                                                   •Los gastos por intereses y amortizaciones se cargan en el subprograma
+                                                                                                                                   correspondiente.
+  Proyecto 4 (Detallar
+ nombre del proyecto)     4   Si el proyecto trasciende, se debe mantener la misma nomenclatura, por ejemplo: nombre y/o código.
+
+
+
+                                                                                                                                                                                                                   20
+                                                                      Página Anterior                              Inicio          Página Siguiente
+  Programa IV: Partidas Específicas
+  Definición del programa:   Desarrollar proyectos de inversión a través de los recursos provenientes de las partidas específicas, en favor de la comunidad con el fin de satisfacer
+                             sus necesidades.
+
+
+Actividad - Subprograma                                                   Definición                                                                         Algunos ejemplos asociados
+
+
+
+
+  Proyecto 1 (Detallar           Comprende5 todos los gastos asociados a los proyectos ya sea que se realicen
+                                 por administración o por contrato, de acuerdo con lo establecido en la Ley
+     nombre5 del                 n.° 7755 y sus reformas, denominada Control de las Partidas Específicas
+      proyecto)                  con Cargo al Presupuesto Nacional; con excepción de lo estipulado en el
+                                 artículo 7 inciso c), de la misma ley que establece:
+
+                                 “c) Con el fin de comprar combustible y darle mantenimiento a la
+                                 maquinaria municipal, las municipalidades podrán utilizar los saldos que
+  Proyecto 2 (Detallar           se deriven de las partidas específicas y transferencias presupuestarias ya
+                                 ejecutadas, provenientes del Presupuesto de la República, así como los
+ nombre del proyecto)            respectivos intereses, cuando tengan tres años o más de encontrarse en                                    •Proyectos definidos según el detalle de la transferencia que se indique en
+                                 la cuenta especial determinada en el inciso anterior o en otras cuentas.                                  el título de Partidas Específicas de la Ley de Presupuesto de la República.
+                                 Dichos remanentes no podrán ser usados en ningún otro rubro. Antes de
+                                 aplicar la variación del destino a los saldos citados en el párrafo anterior,
+                                 las municipalidades deberán presupuestar los gastos respectivos,
+  Proyecto 3 (Detallar           los cuales deberán ser refrendados por la Contraloría General de la
+ nombre del proyecto)            República.” (Lo destacado no pertenece al original)
+
+                                 Los gastos que se establecen en dicha excepción, deberán registrarse en los
+                                 otros programas presupuestarios, según corresponda.
+
+
+
+  Proyecto 4 (Detallar
+ nombre del proyecto)            5    Si el proyecto trasciende, se debe mantener la misma nomenclatura, por ejemplo: nombre y/o código.
+
+
+
+                                                                                                                                                                                                                         21
+                                                                               Página Anterior                              Inicio         Página Siguiente
+

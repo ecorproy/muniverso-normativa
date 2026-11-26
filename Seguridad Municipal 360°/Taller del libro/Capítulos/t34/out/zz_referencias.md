@@ -10,6 +10,8 @@ Contraloría General de la República. (2025, 5 de agosto). *Índice de Gestión
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
 
+Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
 Ley N.° 3481, *Ley Orgánica del Ministerio de Educación Pública*. (1965). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=6176&param2=6565&param3=1
 
 Ley N.° 5176, *Faculta a Gobierno y Autónomas para Promover Arte y Cultura Nacionales*. (1973). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=12552&param2=133991&param3=1

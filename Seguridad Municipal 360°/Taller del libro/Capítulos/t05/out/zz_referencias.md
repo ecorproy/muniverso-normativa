@@ -8,6 +8,10 @@ Contraloría General de la República. (2025, 5 de agosto). *Índice de Gestión
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
 
+Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
+Contraloría General de la República. (2026, julio). *Certificación de verificación de requisitos del bloque de legalidad presupuestario que debe cumplir el presupuesto inicial y sus variaciones, para las municipalidades*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
 Decreto Ejecutivo N.° 40137, *Reglamento a la Primera Ley Especial para la Transferencia de Competencias: Atención Plena y Exclusiva de la Red Vial Cantonal*. (2016). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=83583&param2=149263&param3=1
 
 Ley N.° 5060, *Ley General de Caminos Públicos*. (1972). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=38653&param2=138745&param3=1

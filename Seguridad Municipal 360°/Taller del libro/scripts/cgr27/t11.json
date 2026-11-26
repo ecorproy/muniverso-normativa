@@ -1,0 +1,44 @@
+{
+ "ops": [
+  {
+   "op": "replace",
+   "target": {
+    "kind": "find",
+    "text": "Anual Operativo (Municipalidad de Belén, 2024, art. 8)."
+   },
+   "with": {
+    "as": "text",
+    "from": {
+     "kind": "inline",
+     "content": "Anual Operativo (Municipalidad de Belén, 2024, art. 8). En la estructura programática de la Contraloría, los gastos de la oficina de la mujer se registran en el subprograma de servicios sociales (Contraloría General de la República [CGR], estructura programática municipal, s. f., p. 17), de modo que el presupuesto muestra cuánto se le asigna cada año."
+    }
+   }
+  },
+  {
+   "op": "replace",
+   "target": {
+    "kind": "find",
+    "text": "el alcantarillado pluvial y la red vial cantonal (Contraloría General de la República [CGR]"
+   },
+   "with": {
+    "as": "text",
+    "from": {
+     "kind": "inline",
+     "content": "el alcantarillado pluvial y la red vial cantonal (CGR"
+    }
+   }
+  },
+  {
+   "op": "insert",
+   "ANCLA": "Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025]",
+   "side": "after",
+   "source": {
+    "as": "markdown",
+    "from": {
+     "kind": "inline",
+     "content": "Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html"
+    }
+   }
+  }
+ ]
+}

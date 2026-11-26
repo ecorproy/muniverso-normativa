@@ -1,0 +1,44 @@
+{
+ "ops": [
+  {
+   "op": "replace",
+   "target": {
+    "kind": "find",
+    "text": "públicos (Municipalidad de Moravia, 2026, art. 61)."
+   },
+   "with": {
+    "as": "text",
+    "from": {
+     "kind": "inline",
+     "content": "públicos (Municipalidad de Moravia, 2026, art. 61). La Contraloría pide constancia de esa práctica: su modelo de guía interna para formular el presupuesto pregunta si se consideraron las opiniones de los funcionarios y de los ciudadanos, según el principio de participación de las normas técnicas sobre presupuesto público (Contraloría General de la República [CGR], modelo de guía interna de verificación del presupuesto, 2026, sección D). La pregunta no exige un mecanismo determinado, pero si la respuesta es negativa, quien completa la guía debe explicar las razones en la columna de observaciones (CGR, modelo de guía interna de verificación del presupuesto, 2026, indicaciones)."
+    }
+   }
+  },
+  {
+   "op": "replace",
+   "target": {
+    "kind": "find",
+    "text": "sueñan sus habitantes el cantón dentro de diez años\" (Contraloría General de la República [CGR]"
+   },
+   "with": {
+    "as": "text",
+    "from": {
+     "kind": "inline",
+     "content": "sueñan sus habitantes el cantón dentro de diez años\" (CGR"
+    }
+   }
+  },
+  {
+   "op": "insert",
+   "ANCLA": "Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025]",
+   "side": "after",
+   "source": {
+    "as": "markdown",
+    "from": {
+     "kind": "inline",
+     "content": "Contraloría General de la República. (2026, julio). *Modelo de guía interna de verificación de requisitos del bloque de legalidad presupuestario que deben cumplir las municipalidades en la formulación de su presupuesto inicial y variaciones sujetas a la aprobación presupuestaria de la Contraloría General de la República*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html"
+    }
+   }
+  }
+ ]
+}

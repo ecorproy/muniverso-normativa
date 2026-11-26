@@ -6,6 +6,8 @@ Contraloría General de la República. (2024, 17 de junio). *Oficio N.° 10092 (
 
 Contraloría General de la República. (2025, 5 de agosto). *Índice de Gestión de Servicios Municipales 2025* (informe N.° DFOE-LOC-SGP-00002-2025). https://sites.google.com/cgr.go.cr/igsm/
 
+Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
 Decreto Ejecutivo N.° 42075, *Reglamento para la disposición al subsuelo de aguas residuales ordinarias tratadas*. (2019). Poder Ejecutivo de la República de Costa Rica. La Gaceta N.° 80, Alcance N.° 87, 14 de abril de 2020. Sistema Costarricense de Información Jurídica. https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=91043
 
 Instituto Nacional de Vivienda y Urbanismo. (2018, 15 de marzo). *Reglamento de construcciones*. Sistema Costarricense de Información Jurídica.

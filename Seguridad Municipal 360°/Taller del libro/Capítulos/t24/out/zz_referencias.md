@@ -2,6 +2,8 @@
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
 
+Contraloría General de la República. (2026, julio). *Modelo de guía interna de verificación de requisitos del bloque de legalidad presupuestario que deben cumplir las municipalidades en la formulación de su presupuesto inicial y variaciones sujetas a la aprobación presupuestaria de la Contraloría General de la República*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
 Decreto Ejecutivo N.° 26831, *Reglamento Ley de Igualdad de Oportunidades para Personas con Discapacidad*. (1998). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=53160&param2=130269&param3=1
 
 Ley N.° 2171, *Ley del Patronato Nacional de Ciegos*. (1957). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
