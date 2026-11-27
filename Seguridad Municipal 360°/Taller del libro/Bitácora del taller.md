@@ -1550,3 +1550,9 @@ Sin atender por depender del autor o de la editorial: datos editoriales de la po
 - Con la sección en todos los temas se restituyó la redacción uniforme: cap. 3, «pregunta con qué se paga»; conclusión, «su financiamiento»; figura 7, paso 4 «partidas, tasas y transferencias». Esto deja sin objeto el hallazgo de la auditoría del 26-11-2026 sobre los doce temas sin financiamiento.
 - Docs: doce temas, cap. 3 y conclusión publicados; figura 7 reemplazada. Las catorce pestañas cotejan IDÉNTICO.
 - Word final31 (950 páginas en LibreOffice) en `Word/`.
+
+## 27 de noviembre de 2026: comillas en el tema 24
+
+- Regla del autor: las comillas solo encierran citas. En el tema 24 se eliminaron las que marcaban las respuestas de la guía de la Contraloría; ahora dice que la columna de observaciones se reserva para justificar por qué una pregunta se responde en sentido negativo o no aplica. Sin avisos de estilo en el libro.
+- Las únicas comillas que quedan fuera de citas forman parte del título oficial de una fuente (Leiva Poveda, 2016; Decreto Ejecutivo N.° 32675).
+- Docs: tema 24 publicado y cotejado IDÉNTICO. Word final32.
