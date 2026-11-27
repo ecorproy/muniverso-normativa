@@ -1729,3 +1729,20 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - La fecha del Decreto 43952 (considerando IX) es la correcta. El «1-07-2021» del C-136-2026 no coincide con la ficha.
 - El libro no fecha el voto: lo cita por la transcripción del reglamento. No hubo que cambiar texto.
 - Para pasar a cita directa falta el texto completo del voto en `fuentes/votos`. Con él se cita el considerando y se agrega la referencia: Sala Constitucional de la Corte Suprema de Justicia. (2021, 31 de julio). *Voto N.° 2021-017098, de las 23:15 horas* (expediente 21-011713-0007-CO). NexusPJ.
+
+## 27 de noviembre de 2026: «la Sala» es solo la Sala Constitucional (Word final51)
+
+- Regla del autor: «Sala», sin más, nombra solo a la Sala Constitucional. Las otras se nombran siempre como Sala Primera, Sala Segunda o Sala Tercera.
+- Barrido de las fuentes de los 4 capítulos, la conclusión y los 36 temas. Se marcó cada «Sala» sin nombre que siguiera a una mención de otra Sala o que precediera a una macro S1. También se marcó la que no tuviera antes una mención completa de la Sala Constitucional.
+- Corregido: decía «la Sala» y se refería a la Sala Primera.
+  - Capítulo 2, sentencias 2015-000164 y 2017-001461: «admitió», «rechazó» y «ordenó devolver».
+  - Capítulo 4, sentencias 2006-000308 y 2006-000979: «aplicó» y «distinguió».
+- Hecho explícito: «la Sala» era la Sala Constitucional, pero aparecía justo después de un pasaje sobre la Sala Primera o era la primera mención en su texto.
+  - Capítulo 2: «describió en 1999» y «el criterio que la Sala Constitucional admitió».
+  - Capítulo 3: «la Sala Constitucional, la Sala Primera o el Tribunal».
+  - Capítulo 4: «La Sala Constitucional lo dijo» y «la línea de la Sala Constitucional sobre el buen funcionamiento».
+  - Temas 13 y 16 (primera mención).
+  - Tema 29: «midió» y «condenó».
+- Verificador: sin errores nuevos. Los `out/` difieren de la compilación solo en esos nombres; el capítulo 4 conserva la forma larga del voto 2025-008201.
+- Docs: capítulo 2 rev 53, capítulo 3 rev 36 y capítulo 4 rev 43, con exportación IDÉNTICA a lo esperado. Temas 13, 16 y 29 corregidos por reemplazo exacto.
+- Word final51 = final50 + los 14 reemplazos.
