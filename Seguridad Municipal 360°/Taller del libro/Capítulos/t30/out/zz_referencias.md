@@ -68,6 +68,8 @@ Procuraduría General de la República. (2026, 28 de mayo). *Dictamen C-080-2026
 
 Procuraduría General de la República. (2026, 3 de noviembre). *Dictamen C-199-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25633&param2=0
 
+Programa Estado de la Nación. (2026). Armonía con la naturaleza. En *Informe Estado de la Nación 2026* (cap. 4, pp. 185-278). Programa Estado de la Nación.
+
 Sala Constitucional de la Corte Suprema de Justicia. (2008, 7 de noviembre). *Voto N.° 2008-016885, de las 13:42 horas* (expediente 07-012210-0007-CO). NexusPJ.
 
 Sala Constitucional de la Corte Suprema de Justicia. (2024, 23 de febrero). *Voto N.° 2024-004807, de las 9:20 horas* (expediente 24-002313-0007-CO). NexusPJ.

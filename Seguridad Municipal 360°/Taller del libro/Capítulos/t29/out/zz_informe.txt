@@ -6,4 +6,5 @@ ERRORES (0):
 
 AVISOS (0):
 
-NOTAS DE VOCABULARIO (0):
+NOTAS DE VOCABULARIO (1):
+  [t29.md] vocabulario «Integral»: …mira la gestión desde la Ley para la Gestión Integral de Residuos. El Programa Estado de l…

@@ -24,6 +24,8 @@ Municipalidad de Grecia. (2026, 24 de febrero). *Reglamento de policía municipa
 
 Municipalidad de Heredia. (2019, 16 de diciembre). *Reglamento regulador para la vigilancia de vías públicas mediante dispositivos tecnológicos o técnicos (excepto drones) de la Municipalidad de Heredia*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=90609&param2=119429&param3=1
 
+Observatorio de la Violencia. (2026). *Índice Cantonal de Seguridad Ciudadana 2025: resumen metodológico y resultados*.
+
 Procuraduría General de la República. (1996, 30 de enero). *Dictamen C-015-1996*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=6377&param2=0
 
 Procuraduría General de la República. (1997, 18 de julio). *Dictamen C-131-1997*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=9737&param2=0

@@ -116,6 +116,10 @@ La tabla de datos que acompaña el índice de 2025 contesta la pregunta de los d
 
 El índice mide, entonces, si la policía municipal existe, está reglamentada, capacitada y armada en regla. No mide cuántas aprehensiones practica, cuántas terminan ante el juez dentro del plazo, cuántas quejas recibe por el trato o el uso de la fuerza, cuántas investigaciones disciplinarias abre ni si tiene un protocolo para cuando una persona graba la actuación policial. Tampoco mide cuántas solicitudes de imágenes recibe y cómo las resuelve, cuántos vehículos o mercancías decomisados custodia y en qué condiciones, ni cuántos riesgos del espacio público, como postes o cables caídos, atendió después de una denuncia. En esos puntos, según los casos de la Sala, la municipalidad termina pagando. Una municipalidad que quisiera medir su propia gestión en esta materia tendría que contar, además de patrullas y cámaras, las aprehensiones que terminaron en libertad sin cargos, las quejas por trato y su resultado, el tiempo de respuesta a las denuncias de riesgo en el espacio público y el estado de los bienes que custodia. Son datos que la propia municipalidad produce y que el índice todavía no le pide.
 
+Otro índice mide el resultado y no la gestión. El Índice Cantonal de Seguridad Ciudadana 2025, del Observatorio de la Violencia, calcula tasas por cada 100.000 habitantes de doce delitos e infracciones, con datos del propio Observatorio, el INEC, el Ministerio de Seguridad Pública y el OIJ, y las resume en una escala de 0 a 1, en la que el valor más cercano a 1 indica más seguridad (Observatorio de la Violencia, 2026, pp. 2-3 y 6). Lo compone con tres subíndices: seguridad de los bienes, seguridad personal y seguridad en la edificación o vivienda (Observatorio de la Violencia, 2026, pp. 5-6). En 2025 encabezó Escazú, con 0,952, y cerró San José, en el puesto 84, con 0,566. Respecto de 2024, 48 cantones bajaron de posición, 31 subieron y 5 se mantuvieron (Observatorio de la Violencia, 2026, pp. 7 y 9).
+
+Ese índice no evalúa a la policía municipal: un cantón puede subir o bajar sin que cambie nada de lo que hace su municipalidad. Ofrece, en cambio, lo que el índice de la Contraloría no tiene, un dato cantonal de resultado contra el cual la municipalidad puede contrastar las metas de su propio servicio.
+
 ## Conclusión
 
 La integridad personal y de bienes existe en el cantón cuando el gobierno local tiene una policía que hace cumplir sus decisiones dentro de los límites que protegen a las personas, que registra lo que ocurre y deja registrarlo, que custodia lo que retiene y vigila lo que otros instalan en el espacio público, y que se financia sin depender de quien vigila. La misma potestad que protege a los vecinos puede lesionarlos, y la municipalidad responde en los dos casos.
@@ -159,6 +163,8 @@ Ley N.° 10515, *Ley de Modernización de la Policía Municipal*. (2024). Asambl
 Municipalidad de Grecia. (2026, 24 de febrero). *Reglamento de policía municipal del Cantón de Grecia*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=106789&param2=150642&param3=1
 
 Municipalidad de Heredia. (2019, 16 de diciembre). *Reglamento regulador para la vigilancia de vías públicas mediante dispositivos tecnológicos o técnicos (excepto drones) de la Municipalidad de Heredia*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=90609&param2=119429&param3=1
+
+Observatorio de la Violencia. (2026). *Índice Cantonal de Seguridad Ciudadana 2025: resumen metodológico y resultados*.
 
 Procuraduría General de la República. (1996, 30 de enero). *Dictamen C-015-1996*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=6377&param2=0
 

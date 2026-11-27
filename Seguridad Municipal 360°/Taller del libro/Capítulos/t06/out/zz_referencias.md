@@ -30,6 +30,8 @@ Ley N.° 8992, *Fortalecimiento económico del Benemérito Cuerpo de Bomberos de
 
 Ley N.° 9986, *Ley General de Contratación Pública*. (2021). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=94469&param2=152662&param3=1
 
+Ministerio de Planificación Nacional y Política Económica. (2025). *Índice cantonal de desarrollo sostenible – Agenda 2030: 2020-2022*. https://biblioteca.mideplan.go.cr
+
 Municipalidad de Curridabat. (2007, 11 de setiembre). *Reglamento para la Gestión de Riesgo y Atención de Emergencias y Desastres en el cantón de Curridabat*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=62414&param2=71270&param3=1
 
 Municipalidad de Escazú. (2018, 23 de julio). *Reglamento para brigadistas ad-honorem de seguridad vial y atención de emergencias y monitoreos preventivos*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=86994&param2=113143&param3=1
@@ -45,6 +47,8 @@ Procuraduría General de la República. (2019, 25 de abril). *Dictamen C-109-201
 Procuraduría General de la República. (2024, 9 de diciembre). *Dictamen C-287-2024*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24758&param2=0
 
 Procuraduría General de la República. (2026, 2 de marzo). *Dictamen C-049-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25333&param2=0
+
+Programa Estado de la Nación. (2026). Armonía con la naturaleza. En *Informe Estado de la Nación 2026* (cap. 4, pp. 185-278). Programa Estado de la Nación.
 
 Sala Constitucional de la Corte Suprema de Justicia. (2019, 12 de julio). *Voto N.° 2019-012783, de las 9:30 horas* (expediente 19-009370-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-926027
 

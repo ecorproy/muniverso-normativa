@@ -40,6 +40,8 @@ Municipalidad de Pérez Zeledón. (2017, 24 de octubre). *Reglamento para la reg
 
 Municipalidad de Upala. (2014, 22 de agosto). *Reglamento Interno de la Casa de los Derechos de las Mujeres*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=78197&param2=98469&param3=1
 
+Observatorio de la Violencia. (2026). *Índice Cantonal de Seguridad Ciudadana 2025: resumen metodológico y resultados*.
+
 Procuraduría General de la República. (2010, 2 de noviembre). *Dictamen C-216-2010*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=16480&param2=0
 
 Procuraduría General de la República. (2019, 13 de diciembre). *Dictamen C-372-2019*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=21727&param2=0

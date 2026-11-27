@@ -1914,3 +1914,29 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Cotejo: t17, t32, t36 y conclusión construidos con CITA=corta, sin errores. En t36 se conserva la URL de TCA 1754-2026 en las referencias.
 - Índices: se agregaron las dos ediciones del IFAM.
 - Word final60, de 1054 páginas en el PDF renderizado, y Docs actualizados, con los dos gráficos.
+
+## 27 de noviembre de 2026: Estado de la Nación 2026, ICSC 2025 e ICDS de MIDEPLAN (Word final61)
+
+- Fuentes:
+  - *Informe Estado de la Nación 2026*, cap. 4, «Armonía con la naturaleza». Se cita por la página impresa: PDF + 184.
+  - *Índice Cantonal de Seguridad Ciudadana 2025*, del Observatorio de la Violencia (junio de 2026).
+  - *Índice cantonal de desarrollo sostenible – Agenda 2030: 2020-2022*, de MIDEPLAN (2025).
+  - Los PDF quedan fuera del repositorio.
+- Inserciones:
+  - Tema 4, «Lo que hoy se mide»: el ICSC (escala 0-1, tres subíndices). Escazú encabeza con 0,952 y San José cierra en el puesto 84 con 0,566. Respecto de 2024, 48 cantones bajan, 31 suben y 5 se mantienen. Advertencia: el índice mide el resultado, no a la policía municipal.
+  - Tema 26, «Lo que hoy se mide»: las infracciones a las leyes de violencia doméstica y de penalización forman parte del subíndice de edificación o vivienda.
+  - Tema 6, «Lo que hoy se mide»: el ICDS no tiene datos cantonales de los ODS 13 y 14. Desastres: 2024 fue el segundo año con más desastres en tres décadas, y en 2025 bajaron un 84,4 %.
+  - Tema 28, «Lo que hoy se mide»: en 2022 se rechazó una quinta parte de las solicitudes de disponibilidad de agua ante AyA y ESPH (Aresep, 59 cantones).
+  - Tema 29, «Lo que hoy se mide»: índice de gestión de residuos del PEN (73 de 91 gobiernos locales respondieron):
+    - áreas: herramientas 75,4; acciones municipales 55,3;
+    - perfiles: 29/66,9, 19/59,9, 17/52,3 y 8/30,5;
+    - ninguno aplicó las multas de la Ley 8839.
+  - Tema 30:
+    - aportes del voto 2026-014917 según el PEN, entre ellos el «Estado social, democrático y ecológico de Derecho» (cons. IV del voto);
+    - Zona Protectora Cerros de Escazú, en «El suelo y el área protegida».
+  - Conclusión: ICDS 2022, con Belén 3.° (94,68) y Alajuelita 21.° (77,90), y la advertencia de MIDEPLAN contra las comparaciones simplistas.
+- No se usaron citas textuales de las tres fuentes; todo va parafraseado con página.
+- Cotejo: los siete capítulos se construyeron con CITA=corta, sin errores. Las cifras de citas son las mismas que antes.
+- Unido: solo adiciones; las referencias se insertaron en su posición alfabética.
+- Índices: se agregaron las tres obras.
+- Word final61 (1057 páginas en el PDF renderizado) y Docs actualizados.

@@ -56,6 +56,8 @@ Procuraduría General de la República. (2026, 2 de marzo). *Dictamen C-050-2026
 
 Procuraduría General de la República. (2026, 18 de setiembre). *Dictamen C-160-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25580&param2=0
 
+Programa Estado de la Nación. (2026). Armonía con la naturaleza. En *Informe Estado de la Nación 2026* (cap. 4, pp. 185-278). Programa Estado de la Nación.
+
 Sala Constitucional de la Corte Suprema de Justicia. (2003, 9 de junio). *Voto N.° 2003-005006, de las 15:44 horas* (expediente 03-004802-0007-CO). NexusPJ.
 
 Sala Constitucional de la Corte Suprema de Justicia. (2004, 30 de enero). *Voto N.° 2004-000626, de las 8:45 horas* (expediente 03-010803-0007-CO). NexusPJ.
@@ -76,4 +78,4 @@ Sala Primera de la Corte Suprema de Justicia. (2025, 13 de marzo). *Resolución 
 
 Tribunal Contencioso Administrativo, Sección IV. (2023, 7 de marzo). *Resolución N.° 21-2023, de las 8:00 horas* (expediente 20-004924-1027-CA). NexusPJ.
 
-Tribunal Contencioso Administrativo y Civil de Hacienda. (2026, 25 de mayo). *Resolución N.° 3331-2026, de las 14:39 horas* (expediente 23-002851-1027-CA). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0034-1402122
+Tribunal Contencioso Administrativo y Civil de Hacienda. (2026, 25 de mayo). *Resolución N.° 3331-2026, de las 14:39 horas* (expediente 23-002851-1027-CA). NexusPJ.
