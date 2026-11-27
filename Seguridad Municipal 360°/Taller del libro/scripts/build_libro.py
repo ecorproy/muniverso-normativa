@@ -320,6 +320,8 @@ MANUAL.update({
         ref='Vílchez Ordoñez, M., & Sánchez Davila, K. (2021). Gestión por procesos e imagen institucional: En busca de mayor visibilidad municipal para los ciudadanos. *Ciencia Latina Revista Científica Multidisciplinar*, *5*(4), 6444-6468. https://doi.org/10.37811/cl_rcm.v5i4.778'),
     'Orellana Orellana et al., 2020, como se citó en Vílchez Ordoñez y Sánchez Davila, 2021': dict(file='/home/claude/libro/fuentes/doctrina/vilchez_2021_pag.txt', alias='Vílchez Ordoñez y Sánchez Davila, 2021',
         ref='Vílchez Ordoñez, M., & Sánchez Davila, K. (2021). Gestión por procesos e imagen institucional: En busca de mayor visibilidad municipal para los ciudadanos. *Ciencia Latina Revista Científica Multidisciplinar*, *5*(4), 6444-6468. https://doi.org/10.37811/cl_rcm.v5i4.778'),
+    'Kant, 1797/1873': dict(file='/home/claude/libro/fuentes/doctrina/kant_1873_pag.txt',
+        ref='Kant, I. (1873). *Principios metafísicos del derecho* (G. Lizárraga, Trad.). Librería de Victoriano Suárez. (Trabajo original publicado en 1797)'),
     'Cortés García, 2026': dict(file='/home/claude/libro/fuentes/doctrina/cortes_garcia_2026.txt',
         ref='Cortés García, E. (2026). *Derecho municipal: Impugnación, veto y revisión de actos administrativos*. Tirant lo Blanch.'),
     'Medina León et al., 2009': dict(file='/home/claude/libro/fuentes/doctrina/medina_leon_2009_pag.txt',
@@ -553,7 +555,7 @@ def cita_tca(x, loc):
     orgref = f'Tribunal Contencioso Administrativo, {secs}' if secs else 'Tribunal Contencioso Administrativo y Civil de Hacienda'
     hs = f', de las {h} horas' if h else ''
     exp = f' (expediente {d["expediente"]})' if d['expediente'] else ''
-    add_ref('T' + x, ('tribunal contencioso', y, mo, da, x), f'{orgref}. ({y}, {da} de {MES[mo]}). *Resolución N.° {num}-{yy}{hs}*{exp}. NexusPJ.')
+    add_ref('T' + x, ('tribunal contencioso', y, mo, da, x), f'{orgref}. ({y}, {da} de {MES[mo]}). *Resolución N.° {num}-{yy}{hs}*{exp}. NexusPJ.' + (f' {d["enlace"]}' if d['enlace'] else ''))
     return f'({org}, resolución N.° {num}-{yy}, {loc})' if loc else f'({org}, resolución N.° {num}-{yy})'
 
 

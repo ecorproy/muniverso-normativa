@@ -79,7 +79,7 @@ Cada norma remite a los capítulos y temas en cuyas referencias aparece.
 - Ley N.° 7575, Ley Forestal (1996): tema 30.
 - Ley N.° 7576, Ley de Justicia Penal Juvenil (1996): tema 22.
 - Ley N.° 7586, Ley contra la Violencia Doméstica (1996): tema 26.
-- Ley N.° 7593, Ley de la Autoridad Reguladora de los Servicios Públicos (ARESEP) (1996): temas 17, 28.
+- Ley N.° 7593, Ley de la Autoridad Reguladora de los Servicios Públicos (ARESEP) (1996): temas 17, 28, 36.
 - Ley N.° 7600, Ley de Igualdad de Oportunidades para las Personas con Discapacidad (1996): temas 10, 13, 14, 17, 21, 22, 24.
 - Ley N.° 7648, Ley Orgánica del Patronato Nacional de la Infancia (1996): tema 21.
 - Ley N.° 7717, Ley Reguladora de los Estacionamientos Públicos (1997): temas 5, 33.
@@ -564,6 +564,7 @@ Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas ref
 ### Otros tribunales
 
 - Tribunal Contencioso Administrativo y Civil de Hacienda, Resolución N.° 3972-2023: tema 27.
+- Tribunal Contencioso Administrativo y Civil de Hacienda, Resolución N.° 1754-2026: tema 36.
 - Tribunal Contencioso Administrativo, Sección II, Resolución N.° 268-2003: tema 36.
 - Tribunal Contencioso Administrativo, Sección II, Resolución N.° 18-2008: tema 7.
 - Tribunal Contencioso Administrativo, Sección III, Resolución N.° 1155-2009: tema 15.

@@ -58,6 +58,8 @@ Ley N.° 7451, *Ley de Bienestar de los Animales*. (1994). Asamblea Legislativa 
 
 Ley N.° 7509, *Ley de Impuesto sobre Bienes Inmuebles*. (1995). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=26598&param2=148757&param3=1
 
+Ley N.° 7593, *Ley de la Autoridad Reguladora de los Servicios Públicos (ARESEP)*. (1996). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=26314&param2=152025&param3=1
+
 Ley N.° 7755, *Control de las Partidas Específicas con Cargo al Presupuesto Nacional*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=29252&param2=120681&param3=1
 
 Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40197&param2=152716&param3=1
@@ -191,3 +193,5 @@ Sala Constitucional de la Corte Suprema de Justicia. (2026, 27 de agosto). *Voto
 Tribunal Contencioso Administrativo, Sección II. (2003, 20 de mayo). *Resolución N.° 268-2003, de las 15:55 horas* (expediente 01-000450-0161-CA). NexusPJ.
 
 Tribunal Contencioso Administrativo, Sección IV. (2015, 14 de agosto). *Resolución N.° 82-2015, de las 15:15 horas* (expediente 09-002253-1027-CA). NexusPJ.
+
+Tribunal Contencioso Administrativo y Civil de Hacienda. (2026, 18 de marzo). *Resolución N.° 1754-2026, de las 13:18 horas* (expediente 21-007210-1027-CA). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0034-1387116
