@@ -13,7 +13,7 @@ F=[('Discapacidad, cultura, ambiente, trabajo, emergencias, presupuesto','d',1,'
  ('De ese mismo deber sale el índice de este libro','d',10,'De la ley a los treinta y seis temas y de los temas a los procesos.'),
  ('La Ley Marco agrega además una consecuencia','d',11,'Cómo se compone la calificación y qué produce.'),
  ('En una municipalidad estas reglas tienen un límite','d',12,'Quién fija cómo se evalúa al personal municipal.'),
- ('Esa lectura tiene apoyo técnico','d',13,'Producto interno y servicio prestado.'),
+ ('Esa lectura tiene apoyo técnico','d',13,'Del servicio prestado al producto recibido.'),
  ('Esas dos responsabilidades no deben confundirse','d',14,'La cadena de obligaciones, de la Constitución a la persona servidora.'),
  ('Cuando la cadena se rompe, la persona tiene con qué repararla','d',15,'Dos rutas para reparar la cadena: contra la decisión y contra la omisión.'),
  ('Las seis preguntas tienen una séptima detrás','d',16,'Seis preguntas para diagnosticar una municipalidad, y la séptima.')]

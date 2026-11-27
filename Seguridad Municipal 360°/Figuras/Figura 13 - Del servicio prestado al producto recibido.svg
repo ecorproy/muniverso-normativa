@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1000" viewBox="0 0 1200 1000" font-family="DejaVu Serif, serif"><defs><marker id="ar" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L14,7 L0,14 Z" fill="#111"/></marker></defs><rect width="100%" height="100%" fill="white"/><text x="600.0" y="44.0" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">El orden del trabajo</text>
+<rect x="40" y="75" width="265" height="150" rx="14" fill="white" stroke="#111" stroke-width="3"/>
+<text x="172.5" y="139.4" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Proceso</text>
+<text x="172.5" y="181.3" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">ordena la labor</text>
+<line x1="307" y1="150" x2="321" y2="150" stroke="#111" stroke-width="3" marker-end="url(#ar)"/>
+<rect x="325" y="75" width="265" height="150" rx="14" fill="#f2f2f2" stroke="#111" stroke-width="3"/>
+<text x="457.5" y="127.5" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Proyecto</text>
+<text x="457.5" y="169.4" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">la concentra en una</text>
+<text x="457.5" y="193.2" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">meta con plazo</text>
+<line x1="592" y1="150" x2="606" y2="150" stroke="#111" stroke-width="3" marker-end="url(#ar)"/>
+<rect x="610" y="75" width="265" height="150" rx="14" fill="#e6e6e6" stroke="#111" stroke-width="3"/>
+<text x="742.5" y="127.5" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Servicio</text>
+<text x="742.5" y="169.4" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">la prestación que</text>
+<text x="742.5" y="193.2" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">ejecuta la dependencia</text>
+<line x1="877" y1="150" x2="891" y2="150" stroke="#111" stroke-width="3" marker-end="url(#ar)"/>
+<rect x="895" y="75" width="265" height="150" rx="14" fill="#bdbdbd" stroke="#111" stroke-width="4"/>
+<text x="1027.5" y="127.5" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Producto</text>
+<text x="1027.5" y="169.4" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">lo que recibe la</text>
+<text x="1027.5" y="193.2" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">persona</text>
+<text x="600.0" y="262.0" font-size="19" font-weight="normal" font-style="italic" text-anchor="middle" fill="#333">La ley los enumera como procesos, proyectos, productos y servicios, pero vincula el registro diario</text>
+<text x="600.0" y="288.0" font-size="19" font-weight="normal" font-style="italic" text-anchor="middle" fill="#333">a &quot;dichos procesos, proyectos y productos&quot; (Ley 2166, art. 48; Ley 10159, art. 29).</text>
+<line x1="40" y1="320" x2="1160" y2="320" stroke="#111" stroke-width="2"/>
+<rect x="40" y="350" width="420" height="300" rx="14" fill="white" stroke="#111" stroke-width="3" stroke-dasharray="10,7"/>
+<text x="250.0" y="460.5" font-size="27" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Actividad interna</text>
+<text x="250.0" y="505.1" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Un oficio archivado. Un informe</text>
+<text x="250.0" y="532.6" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">que nadie usa. Un trámite que</text>
+<text x="250.0" y="560.1" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">pasó de una oficina a otra.</text>
+<rect x="740" y="350" width="420" height="300" rx="14" fill="#bdbdbd" stroke="#111" stroke-width="4"/>
+<text x="950.0" y="460.5" font-size="27" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Producto recibido</text>
+<text x="950.0" y="505.1" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">La basura recogida. La acera</text>
+<text x="950.0" y="532.6" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">construida. La solicitud</text>
+<text x="950.0" y="560.1" font-size="22" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">resuelta en plazo.</text>
+<line x1="465" y1="500" x2="734" y2="500" stroke="#111" stroke-width="4" marker-end="url(#ar)"/>
+<text x="600.0" y="460.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="middle" fill="#333">solo cuenta</text>
+<text x="600.0" y="546.0" font-size="18" font-weight="normal" font-style="italic" text-anchor="middle" fill="#333">si el expediente</text>
+<text x="600.0" y="568.0" font-size="18" font-weight="normal" font-style="italic" text-anchor="middle" fill="#333">termina en un producto</text>
+<text x="600.0" y="590.0" font-size="18" font-weight="normal" font-style="italic" text-anchor="middle" fill="#333">que una persona recibió</text>
+<ellipse cx="600" cy="755" rx="300" ry="70" fill="#e6e6e6" stroke="#111" stroke-width="4"/>
+<text x="600.0" y="767.0" font-size="32" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">¿Qué recibió la persona?</text>
+<text x="600.0" y="880.0" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Servir a cada administrado (LGAP, art. 114) y leer las normas por su fin (LGAP, art. 10).</text>
+<text x="600.0" y="914.0" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Ninguna evaluación contra reglas unívocas de la ciencia o de la técnica (LGAP, art. 16).</text>
+<text x="600.0" y="948.0" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Premiar el desempeño deficiente viola la idoneidad comprobada (voto 2025-008201).</text></svg>

@@ -14,7 +14,7 @@ figs=[('Discapacidad, cultura, ambiente, trabajo, emergencias, presupuesto','des
  ('De ese mismo deber sale el índice de este libro','despues',N+'c4_flujo.png','De la ley a los treinta y seis temas y de los temas a los procesos.','14.5cm'),
  ('La Ley Marco agrega además una consecuencia','despues',N+'c4_nota.png','Cómo se compone la calificación y qué produce.','16cm'),
  ('En una municipalidad estas reglas tienen un límite','despues',N+'c4_autonomia.png','Quién fija cómo se evalúa al personal municipal.','14cm'),
- ('Esa lectura tiene apoyo técnico','despues',N+'c4_contraste.png','Producto interno y servicio prestado.','14cm'),
+ ('Esa lectura tiene apoyo técnico','despues',N+'c4_contraste.png','Del servicio prestado al producto recibido.','14cm'),
  ('Esas dos responsabilidades no deben confundirse','despues',N+'cadena.png','La cadena de obligaciones, de la Constitución a la persona servidora.','14cm'),
  ('Cuando la cadena se rompe, la persona tiene con qué repararla','despues',N+'recursos.png','Dos rutas para reparar la cadena: contra la decisión y contra la omisión.','15cm'),
  ('Las seis preguntas tienen una séptima detrás','despues',N+'preguntas.png','Seis preguntas para diagnosticar una municipalidad, y la séptima.','15cm')]

@@ -133,23 +133,23 @@ cuadro(rows[5:],'c4_cuadro_b.svg')
 # ===== C. Anatomía de un proceso y mapa de procesos
 s=SVG(W,1330)
 text(s,W/2,40,'Un proceso',28,bold=True)
-box(s,40,70,600,100,'Responsable: el superior','define procesos, productos y servicios (Ley 10159, art. 28)',fill='#e6e6e6',tfs=23,bfs=19)
+box(s,40,70,600,100,'Responsable: el superior','define procesos, proyectos, productos y servicios (Ley 10159, art. 28)',fill='#e6e6e6',tfs=23,bfs=19)
 s.add('<circle cx="900" cy="125" r="95" fill="white" stroke="#111" stroke-width="3"/>')
 text(s,900,92,'Ciclo de',19,bold=True); text(s,900,116,'Deming',19,bold=True)
 text(s,900,146,'planear, hacer,',16,fill='#333'); text(s,900,166,'verificar,',16,fill='#333'); text(s,900,186,'actuar',16,fill='#333')
 arrow(s,440,170,440,226)
 xs=[40,320,600,880]; ws=[240,240,240,280]
-lab=[('Entradas',None,'white'),('Actividades','secuencia ordenada y repetitiva','#e6e6e6'),('Salidas','resultados programados','#e6e6e6'),('Destinataria','la persona del cantón','#bdbdbd')]
+lab=[('Entradas',None,'white'),('Actividades','secuencia ordenada y repetitiva','#e6e6e6'),('Servicio','la prestación que ejecuta la dependencia','#e6e6e6'),('Producto','lo que recibe la persona del cantón','#bdbdbd')]
 for k,(t,b,f) in enumerate(lab):
     box(s,xs[k],230,ws[k],130,t,b,fill=f,tfs=24,bfs=19,sw=4 if k==3 else 3)
     if k<3: arrow(s,xs[k]+ws[k]+2,295,xs[k+1]-4,295)
 path(s,'M 1020 360 L 1020 410 L 440 410 L 440 365',dash='9,6')
-text(s,1150,445,'juzga la validez de lo que recibe (Medina León et al., 2009, p. 68)',19,anchor='end',italic=True,fill='#333')
+text(s,1150,445,'quien lo recibe juzga su validez (Medina León et al., 2009, p. 68)',19,anchor='end',italic=True,fill='#333')
 box(s,40,480,520,85,None,'El proceso necesita indicadores que muestren de forma gráfica su evolución (Medina León et al., 2009, p. 68)',dash='9,6',bfs=19)
 s.add('<line x1="40" y1="600" x2="1160" y2="600" stroke="#111" stroke-width="2"/>')
 text(s,W/2,650,'El mapa de procesos de una municipalidad',28,bold=True)
 bands=[('Estratégicos','Concejo y Alcaldía: definen y controlan metas, políticas y estrategias (plan de desarrollo y plan anual operativo, CM, art. 13).','#bdbdbd'),
-       ('Operativos','Los servicios que llegan a las personas: la basura, la acera, el permiso, la atención.','#e6e6e6'),
+       ('Operativos','Los servicios que presta cada dependencia y los productos que recibe la persona: la calle limpia, la acera construida, el permiso otorgado, la consulta resuelta.','#e6e6e6'),
        ('De apoyo','La administración que los sostiene: presupuesto, proveeduría, recursos humanos, sistemas.','white')]
 y=690
 for t,b,f in bands:
@@ -162,19 +162,28 @@ arrow(s,640,850,640,876); arrow(s,640,1070,640,1044)
 text(s,W/2,1290,'Fuentes: Zaratiegui (1999, pp. 82-85); Medina León et al. (2009, pp. 67-70).',19,italic=True,fill='#333')
 s.save(D+'c4_proceso.svg')
 
-# ===== D. Producto interno y servicio prestado
-s=SVG(W,700)
-box(s,40,40,420,300,'Producto interno','Un oficio archivado. Un informe que nadie usa. Un trámite que pasó de una oficina a otra.',fill='white',dash='10,7',tfs=27,bfs=22)
-box(s,740,40,420,300,'Servicio prestado','La basura recogida. La acera construida. La solicitud resuelta en plazo.',fill='#bdbdbd',tfs=27,bfs=22,sw=4)
-arrow(s,465,190,734,190,sw=4)
-text(s,600,150,'solo cuenta',20,italic=True,fill='#333')
-text(s,600,236,'si el expediente',18,italic=True,fill='#333'); text(s,600,258,'termina en algo que',18,italic=True,fill='#333'); text(s,600,280,'una persona recibió',18,italic=True,fill='#333')
-s.add('<ellipse cx="600" cy="450" rx="300" ry="70" fill="#e6e6e6" stroke="#111" stroke-width="4"/>')
-text(s,600,462,'¿A quién se le prestó?',32,bold=True)
+# ===== D. Del servicio prestado al producto recibido
+s=SVG(W,1000)
+text(s,W/2,44,'El orden del trabajo',28,bold=True)
+cad=[('Proceso','ordena la labor','white'),('Proyecto','la concentra en una meta con plazo','#f2f2f2'),('Servicio','la prestación que ejecuta la dependencia','#e6e6e6'),('Producto','lo que recibe la persona','#bdbdbd')]
+xs=[40,325,610,895]; wb=265
+for k,(t,b,f) in enumerate(cad):
+    box(s,xs[k],75,wb,150,t,b,fill=f,tfs=25,bfs=19,sw=4 if k==3 else 3)
+    if k<3: arrow(s,xs[k]+wb+2,150,xs[k+1]-4,150)
+text(s,W/2,262,'La ley los enumera como procesos, proyectos, productos y servicios, pero vincula el registro diario',19,italic=True,fill='#333')
+text(s,W/2,288,'a "dichos procesos, proyectos y productos" (Ley 2166, art. 48; Ley 10159, art. 29).',19,italic=True,fill='#333')
+s.add('<line x1="40" y1="320" x2="1160" y2="320" stroke="#111" stroke-width="2"/>')
+box(s,40,350,420,300,'Actividad interna','Un oficio archivado. Un informe que nadie usa. Un trámite que pasó de una oficina a otra.',fill='white',dash='10,7',tfs=27,bfs=22)
+box(s,740,350,420,300,'Producto recibido','La basura recogida. La acera construida. La solicitud resuelta en plazo.',fill='#bdbdbd',tfs=27,bfs=22,sw=4)
+arrow(s,465,500,734,500,sw=4)
+text(s,600,460,'solo cuenta',20,italic=True,fill='#333')
+text(s,600,546,'si el expediente',18,italic=True,fill='#333'); text(s,600,568,'termina en un producto',18,italic=True,fill='#333'); text(s,600,590,'que una persona recibió',18,italic=True,fill='#333')
+s.add('<ellipse cx="600" cy="755" rx="300" ry="70" fill="#e6e6e6" stroke="#111" stroke-width="4"/>')
+text(s,600,767,'¿Qué recibió la persona?',32,bold=True)
 foot=['Servir a cada administrado (LGAP, art. 114) y leer las normas por su fin (LGAP, art. 10).',
       'Ninguna evaluación contra reglas unívocas de la ciencia o de la técnica (LGAP, art. 16).',
       'Premiar el desempeño deficiente viola la idoneidad comprobada (voto 2025-008201).']
-y=575
+y=880
 for f in foot: text(s,W/2,y,f,20,fill='#333'); y+=34
 s.save(D+'c4_contraste.svg')
 
