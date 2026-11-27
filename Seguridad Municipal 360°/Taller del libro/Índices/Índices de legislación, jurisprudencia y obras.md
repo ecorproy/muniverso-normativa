@@ -566,6 +566,7 @@ Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas ref
 
 - Tribunal Contencioso Administrativo y Civil de Hacienda, Resolución N.° 3972-2023: tema 27.
 - Tribunal Contencioso Administrativo y Civil de Hacienda, Resolución N.° 1754-2026: tema 36.
+- Tribunal Contencioso Administrativo y Civil de Hacienda, Resolución N.° 3331-2026: tema 29.
 - Tribunal Contencioso Administrativo, Sección II, Resolución N.° 268-2003: tema 36.
 - Tribunal Contencioso Administrativo, Sección II, Resolución N.° 18-2008: tema 7.
 - Tribunal Contencioso Administrativo, Sección III, Resolución N.° 1155-2009: tema 15.

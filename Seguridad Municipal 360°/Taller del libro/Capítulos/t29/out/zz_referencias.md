@@ -73,3 +73,5 @@ Sala Constitucional de la Corte Suprema de Justicia. (2024, 2 de febrero). *Voto
 Sala Primera de la Corte Suprema de Justicia. (2025, 13 de marzo). *Resolución N.° 000402-F-S1-2025, de las 13:37 horas* (expediente 20-004924-1027-CA). NexusPJ.
 
 Tribunal Contencioso Administrativo, Sección IV. (2023, 7 de marzo). *Resolución N.° 21-2023, de las 8:00 horas* (expediente 20-004924-1027-CA). NexusPJ.
+
+Tribunal Contencioso Administrativo y Civil de Hacienda. (2026, 25 de mayo). *Resolución N.° 3331-2026, de las 14:39 horas* (expediente 23-002851-1027-CA). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0034-1402122

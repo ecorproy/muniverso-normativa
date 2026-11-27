@@ -1619,3 +1619,9 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 ## 27 de noviembre de 2026: enlace del voto 2009-003369
 
 - Voto 2009-003369 (Cartago, temas 18, 27 y 36): https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-445841. Las tres pestañas cotejan IDÉNTICO. Todos los votos incorporados en esta sesión tienen ya enlace. Word final41.
+
+## 27 de noviembre de 2026: TCA 3331-2026 (Tajo Comag, Pavas)
+
+- Fuente aportada por el autor con enlace: Tribunal Contencioso Administrativo y Civil de Hacienda, resolución N.° 3331-2026, de las 14:39 horas del 25 de mayo de 2026 (expediente 23-002851-1027-CA), https://nexuspj.poder-judicial.go.cr/document/sen-1-0034-1402122. En la copia de `fuentes/tca/` se unió a la línea anterior el rótulo «V. Recomendaciones» de un informe transcrito en los hechos probados, para que el compilador no lo tome por un considerando.
+- Tema 29, «Vertederos, vehículos y sanciones»: párrafo nuevo tras el caso de Goicoechea. El deber de prevenir y eliminar vertederos (Ley 8839, art. 8, inc. f) es distinto de la recolección ordinaria; el costo no excusa, porque puede cargarse al propietario; orden sanitaria firme sin cumplir; culpa concurrente de la víctima; sin indemnización, pero con orden a la Municipalidad y al Ministerio de concurrir a la eliminación definitiva.
+- Docs: tema 29 cotejado IDÉNTICO. Word final42.
