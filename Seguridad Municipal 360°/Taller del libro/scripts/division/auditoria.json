@@ -26,12 +26,12 @@
  ],
  "logo_I": true,
  "logo_II": true,
- "indices_entradas_original": 911,
- "indices_relaciones_original": 1482,
- "indices_entradas_TI": 535,
- "indices_entradas_TII": 526,
- "indices_compartidas_TI": 150,
- "indices_compartidas_TII": 150,
+ "indices_entradas_original": 925,
+ "indices_relaciones_original": 1533,
+ "indices_entradas_TI": 549,
+ "indices_entradas_TII": 529,
+ "indices_compartidas_TI": 153,
+ "indices_compartidas_TII": 153,
  "indices_relaciones_no_conservadas": [],
  "n_mal": 0
 }

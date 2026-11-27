@@ -2283,3 +2283,14 @@ Responde a tres observaciones de la evaluación.
 - **Integridad.** El contenido es idéntico en texto y XML. Las 143 imágenes tienen la misma huella SHA-256. Se conservan las 1482 relaciones de los índices, los 32 hipervínculos y los 620 marcadores.
 - **Matriz e informe.** Matriz de trazabilidad (924 fuentes, 7568 apariciones, 153 compartidas) e informe en `Tomos/`; scripts en `scripts/division/`.
 - **Remisiones.** Las 194 remisiones entre tomos se registraron sin tocar el texto.
+
+## 27-11-2026 — Índices de los tomos corregidos
+
+- **Cotejo.** Comparé los índices especializados con las 1533 entradas de las listas de referencias impresas.
+- **Omisiones del original.** Había 16:
+  - el voto 2003-011382 sin el capítulo 3;
+  - el decreto 43952 sin el capítulo 4;
+  - 14 fuentes citadas sin entrada: las leyes 5525 y 8131, el voto 2021-017098, los dictámenes C-016-2024 y C-078-2025, seis documentos del ICM, la tabla de datos y las fichas del IGSM, y Ortíz-Fernandez y otros (2024).
+- **Corrección.** El autor la autorizó y se hizo en los índices de los tomos (`scripts/division/corrige_indices.py`). El final76 no se tocó.
+- **Errores de mi herramienta.** Los supuestos desajustes del Código Municipal y de Lora-Tamayo, y cinco reglamentos «sin entrada», no eran reales.
+- **Resultado.** 925 fuentes y 925 entradas. Las 1533 relaciones coinciden con las listas de referencias. Tomo I: 608 páginas en LibreOffice.

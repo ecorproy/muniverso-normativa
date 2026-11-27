@@ -31,12 +31,15 @@ def compacta(us):
     return '; '.join(out)
 
 def construir(t):
-    d=Document(ORIG); body=d.element.body; els=list(body); sect=els[-1]
+    d=Document(ORIG); body=d.element.body
+    from corrige_indices import corrige
+    global LOG; LOG=corrige(body,{})
+    els=list(body); sect=els[-1]
     idx=lee(els); ent={i:(nombre,uni) for ind,cat,i,nombre,uni in idx}
     # ---------- piezas del original
     portada=els[0:4]; toc=els[4]
     contenido=els[5:3231] if t=='I' else els[3231:6008]
-    indices=els[6008:6983]
+    indices=els[6008:-1]
     # ---------- helpers para párrafos nuevos (se crean al final del cuerpo y luego se mueven)
     def par(texto='',estilo=None,centrado=False,salto=False,cursiva=False):
         p=d.add_paragraph(style=estilo)
@@ -160,3 +163,4 @@ def construir(t):
             del d.part.rels[rid]; borr+=1
     d.save(OUTS[t]); print('Tomo',t,'elementos',len(body),'marcadores huérfanos quitados',quit,'relaciones sin uso quitadas',borr)
 for t in ('I','II'): construir(t)
+print('\n'.join(LOG))

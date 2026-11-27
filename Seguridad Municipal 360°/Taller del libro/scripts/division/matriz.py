@@ -8,9 +8,36 @@ from openpyxl.utils import get_column_letter
 from empareja import carga,empareja
 from unidades_docx import mapa,T
 DOCX='/home/claude/Seguridad Municipal 360 (final76).docx'
-D,U,R=carga(DOCX); par,usado=empareja(D,U,R)
-refs=D['referencias']; A=[a for a in D['apariciones'] if not a['fuente'].startswith('RECURSO')]
-ET=D['etiquetas']
+import empareja2
+from corrige_indices import UNIDADES_FALTANTES,NUEVAS
+D=json.load(open('/home/claude/division/fuentes.json')); X=json.load(open('/home/claude/division/refs_docx.json'))
+D['referencias'].update(X['nuevas'])
+U=defaultdict(set)
+for x in X['listas']: U[x['fuente']].add(x['unidad'])
+ET=D['etiquetas']; inv={v:k for k,v in ET.items()}
+A=[a for a in D['apariciones'] if not a['fuente'].startswith('RECURSO')]
+con=defaultdict(set)
+for a in A: con[a['fuente']].add(ET[a['unidad']])
+for f,us in U.items():
+    for u in us-con[f]:
+        A.append(dict(fuente=f,unidad=inv[u],tomo=('I' if u in ('introducción',) or u.startswith('capítulo') or (u.startswith('tema') and int(u.split()[1])<=18) else 'II'),loc='',forma='Cita escrita en el texto sin macro; figura en la lista de referencias de la unidad',textual=False))
+from indices import lee
+R=lee(list(Document('/tmp/final76_indices_corregidos.docx').element.body))
+empareja2.carga=lambda docx=None:(D,U,R)
+_,_,_,asign,libres,E=empareja2.empareja_estricto()
+manual={'CP':'Constitución Política de la Re','O:IGSMF':'Fichas de indicadores del Índi','O:ICM-BP':'Listado de buenas prácticas de','R:Lora-Tamayo-Vallvé-M-Dir-2020-M':'Lora-Tamayo Vallvé, M. (Dir.).'}
+for f,k in manual.items():
+    asign[f]=next(i for i in libres if E[i][3].startswith(k))
+corr={}
+for k,v in UNIDADES_FALTANTES.items():
+    for f,i in asign.items():
+        if E[i][3].startswith(k): corr[f]='Unidad agregada al índice: '+v
+for ind,cat,nombre,uni in NUEVAS:
+    for f,i in asign.items():
+        if E[i][3]==nombre: corr[f]='Entrada agregada al índice'
+fuente_de={i:f for f,i in asign.items()}
+par=[(ind,cat,i,nombre,uni,fuente_de.get(i),0) for ind,cat,i,nombre,uni in R]
+refs=D['referencias']
 def tomo_de(et):
     if et in ('introducción','prólogo') or et.startswith('capítulo'): return 'I'
     if et.startswith('tema'): return 'I' if int(et.split()[1])<=18 else 'II'
@@ -63,7 +90,7 @@ for n,f in enumerate(orden,2):
     formas=list(OrderedDict.fromkeys(re.sub(r', (?:art|cons|considerando|p|pp|apartado|conclusión|conclusiones|por tanto|resultando|inciso)\b.*\)$',')',a['forma']) for a in ap))[:6]
     locs=list(OrderedDict.fromkeys(a['loc'] for a in ap if a['loc']))
     ents=ent_de.get(f,[])
-    estado='Pendiente de comprobación' if not ents else ('Incidencia previa' if any(set(e[3])!=us for e in ents) else ('Compartida entre tomos' if t1 and t2 else 'Conservada'))
+    estado=('Pendiente de comprobación' if not ents else ('Compartida entre tomos' if t1 and t2 else 'Conservada'))+(' · '+corr[f] if f in corr else '')
     fil.append([f,naturaleza(f),autoridad(f),f.split(':',1)[1] if ':' in f else f,fecha(refs.get(f,'')),refs.get(f,''),' | '.join(formas),'; '.join(locs)[:3000],
                 compacta(us),compacta(t1),compacta(t2),f'=IF(AND(J{n}<>"",K{n}<>""),"Sí","No")',f"=COUNTIF(Apariciones!A:A,A{n})",url(refs.get(f,'')),estado,' / '.join(e[2] for e in ents)])
 ws=wb.active; ws.title='Fuentes'
@@ -80,8 +107,8 @@ for u in ET:
         for c in json.load(open(p)): ct.append([ET[u],tomo_de(ET[u]),c['fuente'],c['palabras'],c['estado'],c['cita']])
 ws=wb.create_sheet('Citas textuales'); hoja(ws,['Unidad','Tomo','Fuente y localizador','Palabras','Cotejo','Inicio de la cita'],ct,[14,7,40,10,10,70])
 # --- Índices
-fi=[[ind,cat or '',nombre,compacta(uni),compacta([u for u in uni if tomo_de(u)=='I']),compacta([u for u in uni if tomo_de(u)=='II']),best,'Sí' if set(uni)==U.get(best,set()) else 'No'] for ind,cat,i,nombre,uni,best,sc in par]
-ws=wb.create_sheet('Índices'); hoja(ws,['Índice','Categoría','Entrada','Unidades (original)','Tomo I','Tomo II','Fuente en la matriz','Coincide con las apariciones'],fi,[28,28,60,40,30,30,20,14])
+fi=[[ind,cat or '',nombre,compacta(uni),compacta([u for u in uni if tomo_de(u)=='I']),compacta([u for u in uni if tomo_de(u)=='II']),best,'Sí' if set(uni)==U.get(best,set()) else 'No',corr.get(best,'')] for ind,cat,i,nombre,uni,best,sc in par]
+ws=wb.create_sheet('Índices'); hoja(ws,['Índice','Categoría','Entrada','Unidades','Tomo I','Tomo II','Fuente en la matriz','Coincide con las listas de referencias','Corrección autorizada (27-11-2026)'],fi,[28,28,60,40,30,30,20,14,34])
 # --- Remisiones entre tomos
 els=list(Document(DOCX).element.body); M=mapa(els)
 pat=re.compile(r'\b(temas?|cap[íi]tulos?|anexos?|figuras?) ((?:\d+|[AB])(?:(?:, | y | o |-| a )(?:\d+|[AB]))*)',re.I)
@@ -122,10 +149,10 @@ ws=wb.create_sheet('Resumen',0)
 ws.append(['Matriz maestra de trazabilidad jurídica y documental — Seguridad Municipal 360°']); ws['A1'].font=Font(name='Arial',bold=True,size=13)
 ws.append(['Manuscrito: Seguridad Municipal 360° (final76).docx. Unidades del Tomo I: introducción, capítulos 1 a 4 y temas 1 a 18. Unidades del Tomo II: temas 19 a 36, conclusión y anexos.'])
 ws.append([])
-filas=[('Fuentes únicas','=COUNTA(Fuentes!A:A)-1'),('Fuentes con presencia en el Tomo I','=COUNTIF(Fuentes!J:J,"?*")'),('Fuentes con presencia en el Tomo II','=COUNTIF(Fuentes!K:K,"?*")'),
+filas=[('Fuentes únicas','=COUNTA(Fuentes!A:A)-1'),('Fuentes con presencia en el Tomo I','=COUNTIF(Fuentes!J:J,"?*")-1'),('Fuentes con presencia en el Tomo II','=COUNTIF(Fuentes!K:K,"?*")-1'),
  ('Fuentes compartidas entre tomos','=COUNTIF(Fuentes!L:L,"Sí")'),('Apariciones (citas en el texto)','=COUNTA(Apariciones!A:A)-1'),('Apariciones en el Tomo I','=COUNTIF(Apariciones!C:C,"I")'),
- ('Apariciones en el Tomo II','=COUNTIF(Apariciones!C:C,"II")'),('Citas textuales','=COUNTA(\'Citas textuales\'!A:A)-1'),('Entradas de los índices del original','=COUNTA(Índices!A:A)-1'),
- ('Entradas que no coinciden con las apariciones','=COUNTIF(Índices!H:H,"No")'),('Fuentes sin entrada propia en los índices','=COUNTIF(Fuentes!O:O,"Pendiente de comprobación")'),
+ ('Apariciones en el Tomo II','=COUNTIF(Apariciones!C:C,"II")'),('Citas textuales','=COUNTA(\'Citas textuales\'!A:A)-1'),('Entradas de los índices (corregidos)','=COUNTA(Índices!A:A)-1'),
+ ('Entradas que no coinciden con las listas de referencias','=COUNTIF(Índices!H:H,"No")'),('Fuentes sin entrada en los índices','=COUNTIF(Fuentes!O:O,"Pendiente*")'),('Correcciones autorizadas a los índices','=COUNTIF(Índices!I:I,"?*")-1'),
  ('Remisiones hacia el otro tomo','=COUNTA(\'Remisiones entre tomos\'!A:A)-1'),('Siglas usadas sin definición previa en su unidad','=COUNTIF(\'Siglas por unidad\'!E:E,"No")')]
 for a,b in filas: ws.append([a,b])
 for row in ws.iter_rows(min_row=2):

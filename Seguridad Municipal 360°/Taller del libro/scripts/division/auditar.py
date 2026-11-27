@@ -53,7 +53,7 @@ def rel(els):
     R={}
     for ind,cat,i,nombre,uni in lee(els): R[(ind,nombre)]=set(uni or [])
     return R
-Ro=rel(oe)
+Ro=rel(list(Document('/tmp/final76_indices_corregidos.docx').element.body))
 def rel_tomo(els):
     R={}
     for e in els:
