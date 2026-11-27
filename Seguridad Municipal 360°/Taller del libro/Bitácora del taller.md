@@ -2128,3 +2128,21 @@ Responde a tres debilidades señaladas por la evaluación: la densidad documenta
   - cap03: 98 citas, 93 OK.
 - **Referencias e índice.** La publicación entra en las referencias de los tres capítulos y en el índice de obras.
 - **Entregables.** Word final69, de 1316 páginas en el PDF renderizado, y Docs actualizado.
+
+## 27 de noviembre de 2026: Recomendación OCDE/LEGAL/0503 (Word final70)
+
+- **Fuente.** OCDE (2024). *Recommendation of the Council on Human-Centred Public Administrative Services* (OECD/LEGAL/0503).
+  - La adoptó el Consejo el 17 de septiembre de 2024.
+  - Se usó el PDF oficial en inglés del compendio de la OCDE. La OCDE no tiene versión oficial en español, así que las citas van en inglés y cada una lleva al lado su sentido en español, sin comillas.
+  - La primera cita de cada capítulo usa la forma «Organización para la Cooperación y el Desarrollo Económicos [OCDE]».
+- **Dónde entró.**
+  - **Cap. 3, las personas del cantón.** El usuario abarca a quien viene de fuera de la jurisdicción local (p. 6). Se aclara que la recomendación no es vinculante y que Costa Rica es miembro de la OCDE (p. 15).
+  - **Cap. 3, coordinación.** Coordinar los niveles de gobierno, incluidos los locales, «regardless of the allocation of competences and jurisdiction» (p. 9).
+  - **Cap. 4, *La persona a quien se sirve*.** Párrafo nuevo con dos puntos:
+    - la prioridad de los usuarios sobre los silos y los procedimientos internos (p. 5);
+    - las barreras de quienes no llegan a los servicios (p. 13). El libro la hace suya como medida.
+- **Cotejo.** 5 citas, todas literales y en la página citada. No hay errores:
+  - cap03: 100 citas, 95 OK;
+  - cap04: 159 citas, 131 OK.
+- **Referencias e índice.** La recomendación entra en las referencias de los caps. 3 y 4 y en el índice de obras.
+- **Entregables.** Word final70, de 1319 páginas en el PDF renderizado, y Docs actualizado.

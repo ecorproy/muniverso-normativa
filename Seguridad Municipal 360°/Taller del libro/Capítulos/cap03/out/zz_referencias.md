@@ -32,6 +32,8 @@ Ley N.° 10159, *Ley Marco de Empleo Público*. (2022). Asamblea Legislativa de 
 
 Naciones Unidas, Dependencia de Seguridad Humana. (2016). *Manual de seguridad humana: Un enfoque integrado para la consecución de los Objetivos de Desarrollo Sostenible y los ámbitos de acción prioritarios de la comunidad internacional y el sistema de las Naciones Unidas*. Naciones Unidas.
 
+Organización para la Cooperación y el Desarrollo Económicos. (2024). *Recommendation of the Council on Human-Centred Public Administrative Services* (OECD/LEGAL/0503). https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0503
+
 Procuraduría General de la República. (2013, 11 de febrero). *Dictamen C-015-2013*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=17915&param2=0
 
 Procuraduría General de la República. (2022, 3 de junio). *Dictamen C-125-2022*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23433&param2=0

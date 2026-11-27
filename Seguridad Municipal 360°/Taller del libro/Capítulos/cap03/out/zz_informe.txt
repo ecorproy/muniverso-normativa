@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 98 | OK: 93
+CITAS TEXTUALES: 100 | OK: 95
   [cap03.md] 9p | Procuraduría General de la República, s. f. | , sección *La problemática de las personificaciones públicas* | LITERAL (sin localización que cotejar) | "sin que el ciudadano tenga un solo interlocutor administrati"
   [cap03.md] 13p | Procuraduría General de la República, s. f. | , sección *La reconducción de la Administración a la unidad* | LITERAL (sin localización que cotejar) | "En caso de conflicto ha de prevalecer el régimen de la Admin"
   [cap03.md] 14p | Sheldrake, 2020 | , capítulo 2 | SIN FUENTE LOCAL | "las hifas están divididas en compartimentos por poros, que p"

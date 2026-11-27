@@ -40,6 +40,8 @@ Ley N.° 10159, *Ley Marco de Empleo Público*. (2022). Asamblea Legislativa de 
 
 Medina León, A., Nogueira Rivera, D., & Hernández Nariño, A. (2009). Relevancia de la gestión por procesos en la planificación estratégica y la mejora continua. *Eídos*, (2), 65-72.
 
+Organización para la Cooperación y el Desarrollo Económicos. (2024). *Recommendation of the Council on Human-Centred Public Administrative Services* (OECD/LEGAL/0503). https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0503
+
 Ortíz-Fernandez, J., Baldeón-Tovar, M., Medina-Pelaiza, L., Ortíz-Huamán, C., & Godiño-Poma, M. (2024). Gestión por procesos en las empresas. Una revisión sistémica. *Gestionar: Revista de Empresa y Gobierno*, *4*(1), 7-22. https://doi.org/10.35622/j.rg.2024.01.001
 
 Procuraduría General de la República. (2024, 12 de febrero). *Dictamen C-016-2024*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24246&param2=0
