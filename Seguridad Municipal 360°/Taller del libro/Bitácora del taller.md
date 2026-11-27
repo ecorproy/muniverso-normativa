@@ -1880,3 +1880,8 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Cotejo: cap02, t15 y la conclusión se construyeron con CITA=corta, sin errores. Las dos citas textuales de Alfaro coinciden en la página citada (pp. 5 y 40).
 - Índices: se agregaron Alfaro Redondo y Lora-Tamayo Vallvé (este último por la introducción). También se agregó «introducción» a Cortés García, Leiva Poveda y la Ley 7794. `indices.py` reconoce ahora la introducción.
 - Word final58 (1050 páginas en el PDF renderizado) y Docs (pestañas del capítulo 2, del tema 15 y de la conclusión) actualizados.
+
+## 27 de noviembre de 2026: página del prólogo (Word final59)
+- Se agregó «Prólogo» (Título 1) entre el índice general y la introducción. La página queda en blanco para el texto de quien escriba el prólogo, y el título ya entra en el índice general. En el PDF renderizado es la página 4; el libro tiene 1051 páginas.
+- Docs: pestaña nueva «Prólogo», primera en el orden (orden «a», antes de la introducción, que es «a0»).
+- Script: `scripts/word_prologo.py`. Fuente: `Capítulos/prologo/src/prologo.md`, solo con el título.
