@@ -8,6 +8,10 @@ Contraloría General de la República. (2025, 5 de agosto). *Índice de Gestión
 
 Contraloría General de la República. (2026, 16 de febrero). *Oficio N.° 01840 (DFOE-LOC-0259). Emisión de criterio sobre los recursos contenidos en el inciso b) del artículo 59 de la Ley sobre la Zona Marítimo Terrestre*.
 
+Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
+Instituto de Fomento y Asesoría Municipal. (2021, 26 de agosto). *Reglamento de financiamiento del Instituto de Fomento y Asesoría Municipal (IFAM)*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=95317&param2=148159&param3=1
+
 Ley N.° 6043, *Ley sobre la Zona Marítimo Terrestre*. (1977). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=32006&param2=131014&param3=1
 
 Ley N.° 6227, *Ley General de la Administración Pública*. (1978). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=13231&param2=153093&param3=1

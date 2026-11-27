@@ -4,6 +4,8 @@ Concejo Municipal de Distrito de Cervantes. (2026, 11 de setiembre). *Reglamento
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
 
+Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
 Ley N.° 7552, *Subvención a las Juntas de Educación y Juntas Administrativas por las Municipalidades*. (1995). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=24953&param2=150699&param3=1
 
 Ley N.° 7576, *Ley de Justicia Penal Juvenil*. (1996). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=19385&param2=146244&param3=1

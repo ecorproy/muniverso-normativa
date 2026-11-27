@@ -118,6 +118,6 @@ En cada tema hay cuatro clases de afirmaciones: lo que dice una norma, lo que in
 
 ## Cómo está hecho cada tema
 
-Cada tema responde una sola pregunta: cómo puede y debe el gobierno local hacer que el bien del tema exista en el cantón. La respuesta empieza por un caso, sigue con las normas que dan la competencia, los instrumentos y los límites, recorre la jurisprudencia y los dictámenes, pregunta con qué se paga cuando el bien exige gasto propio, describe cómo hace el gobierno local que ese bien exista, revisa lo que hoy se mide y termina con una conclusión que enumera los deberes del gobierno local en ese ámbito. Los casos ilustran y prueban; la sustancia está en las normas.
+Cada tema responde una sola pregunta: cómo puede y debe el gobierno local hacer que el bien del tema exista en el cantón. La respuesta empieza por un caso, sigue con las normas que dan la competencia, los instrumentos y los límites, recorre la jurisprudencia y los dictámenes, pregunta con qué se paga, describe cómo hace el gobierno local que ese bien exista, revisa lo que hoy se mide y termina con una conclusión que enumera los deberes del gobierno local en ese ámbito. Los casos ilustran y prueban; la sustancia está en las normas.
 
 Antes de los temas va un capítulo más. Si la persona está en el centro, hay que decir quién la sirve y con qué derecho puede exigir que la sirvan bien. De eso trata el capítulo 4.

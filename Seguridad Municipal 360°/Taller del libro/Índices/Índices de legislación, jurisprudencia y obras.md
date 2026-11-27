@@ -35,7 +35,7 @@ Cada norma remite a los capítulos y temas en cuyas referencias aparece.
 - Ley N.° 4534, Convención Americana sobre Derechos Humanos (Pacto de San José) (1970): tema 10.
 - Ley N.° 4573, Código Penal (1970): temas 10, 14, 16, 31.
 - Ley N.° 4574, Código Municipal (1970): tema 32.
-- Ley N.° 4755, Código de Normas y Procedimientos Tributarios ( Código Tributario ) (1971): temas 17, 18, 19, 29, 31, 36.
+- Ley N.° 4755, Código de Normas y Procedimientos Tributarios ( Código Tributario ) (1971): temas 1, 17, 18, 19, 21, 27, 29, 31, 36.
 - Ley N.° 4760, Ley de Creación del Instituto Mixto de Ayuda Social (IMAS) (1971): temas 8, 19.
 - Ley N.° 5060, Ley General de Caminos Públicos (1972): capítulos 2, 3; temas 5, 33.
 - Ley N.° 5150, Ley General de Aviación Civil (1973): tema 16.
@@ -85,6 +85,7 @@ Cada norma remite a los capítulos y temas en cuyas referencias aparece.
 - Ley N.° 7717, Ley Reguladora de los Estacionamientos Públicos (1997): temas 5, 33.
 - Ley N.° 7727, Resolución Alterna de Conflictos y Promoción de la Paz Social RAC (1997): tema 27.
 - Ley N.° 7739, Código de la Niñez y la Adolescencia (1998): temas 12, 20, 21, 22, 26, 34, 35.
+- Ley N.° 7755, Control de las Partidas Específicas con Cargo al Presupuesto Nacional (1998): temas 1, 20, 21, 23, 24, 25, 36.
 - Ley N.° 7756, Beneficios para los Responsables de Pacientes en Fase Terminal y Personas Menores de Edad Gravemente Enfermas (1998): tema 25.
 - Ley N.° 7779, Uso, Manejo y Conservación de Suelos (1998): temas 1, 30.
 - Ley N.° 7786, Ley sobre estupefacientes, sustancias psicotrópicas, drogas de uso No Autorizado, actividades Conexas, legitimación de capitales y financiamiento al terrorismo (1998): tema 7.
@@ -406,7 +407,7 @@ Cada norma remite a los capítulos y temas en cuyas referencias aparece.
 - Reglamento del programa de abastecimiento institucional (PAI), Consejo Nacional de Producción (2023): tema 3.
 - Reglamento de construcciones, Instituto Nacional de Vivienda y Urbanismo (2018): temas 16, 28.
 - Reglamento de Organización, Funcionamiento y Ética de las Casas de Justicia, Instituto de Fomento y Asesoría Municipal (2015): tema 27.
-- Reglamento de financiamiento del Instituto de Fomento y Asesoría Municipal (IFAM), Instituto de Fomento y Asesoría Municipal (2021): tema 8.
+- Reglamento de financiamiento del Instituto de Fomento y Asesoría Municipal (IFAM), Instituto de Fomento y Asesoría Municipal (2021): temas 8, 20, 23, 24, 26, 30.
 
 # Índice de jurisprudencia y criterios administrativos
 
@@ -863,7 +864,7 @@ Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas ref
 ### Contraloría General de la República
 
 - Certificación de verificación de requisitos del bloque de legalidad presupuestario que debe cumplir el presupuesto inicial y sus variaciones, para las municipalidades: tema 5.
-- Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos: temas 4, 5, 6, 9, 11, 20, 28, 29, 31, 34, 35.
+- Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos: temas 1, 4, 5, 6, 9, 11, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 34, 35, 36.
 - Indicaciones para la formulación y presentación de los presupuestos institucionales, año 2027. División de Fiscalización Operativa y Evaluativa: temas 6, 15, 20.
 - Modelo de guía interna de verificación de requisitos del bloque de legalidad presupuestario que deben cumplir las municipalidades en la formulación de su presupuesto inicial y variaciones sujetas a la aprobación presupuestaria de la Contraloría General de la República: temas 1, 6, 15, 24, 35.
 - Oficio N.° 00415 (DFOE-LOC-0073). Atención de consulta relacionada al Plan Cantonal de Desarrollo Humano Local (PCDHL): tema 15.

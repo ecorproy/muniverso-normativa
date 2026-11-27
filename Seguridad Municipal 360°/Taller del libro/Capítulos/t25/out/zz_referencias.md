@@ -4,7 +4,11 @@ Constitución Política de la República de Costa Rica. (1949). Asamblea Naciona
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
 
+Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
 Ley N.° 2160, *Ley Fundamental de Educación*. (1957). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=31427&param2=148710&param3=1
+
+Ley N.° 7755, *Control de las Partidas Específicas con Cargo al Presupuesto Nacional*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=29252&param2=120681&param3=1
 
 Ley N.° 7756, *Beneficios para los Responsables de Pacientes en Fase Terminal y Personas Menores de Edad Gravemente Enfermas*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=39795&param2=150153&param3=1
 

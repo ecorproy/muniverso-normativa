@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 70 | OK: 67
+CITAS TEXTUALES: 71 | OK: 68
   [t36.md] 10p | D:C-249-2020:respuesta a la pregunta c | LITERAL (sin localización que cotejar) | "una exención genérica subjetiva de todo tributo y patentes m"
   [t36.md] 9p | T:2015-000082:voto salvado | LITERAL (sin localización que cotejar) | "escapa del poder tributario de la Municipalidad de Tibás"
   [t36.md] 12p | L:6587:transitorio 1 | LITERAL (sin localización que cotejar) | "la tarifa más baja, existente en la respectiva ley de patent"

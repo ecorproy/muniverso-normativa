@@ -4,6 +4,10 @@ Constitución Política de la República de Costa Rica. (1949). Asamblea Naciona
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
 
+Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
+Ley N.° 4755, *Código de Normas y Procedimientos Tributarios ( Código Tributario )*. (1971). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=6530&param2=148766&param3=1
+
 Ley N.° 7184, *Convención sobre los Derechos del Niño*. (1990). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
 
 Ley N.° 7552, *Subvención a las Juntas de Educación y Juntas Administrativas por las Municipalidades*. (1995). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=24953&param2=150699&param3=1
@@ -13,6 +17,8 @@ Ley N.° 7600, *Ley de Igualdad de Oportunidades para las Personas con Discapaci
 Ley N.° 7648, *Ley Orgánica del Patronato Nacional de la Infancia*. (1996). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=41328&param2=151591&param3=1
 
 Ley N.° 7739, *Código de la Niñez y la Adolescencia*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=43077&param2=143888&param3=1
+
+Ley N.° 7755, *Control de las Partidas Específicas con Cargo al Presupuesto Nacional*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=29252&param2=120681&param3=1
 
 Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40197&param2=152716&param3=1
 

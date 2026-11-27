@@ -104,6 +104,14 @@ La Casa de Justicia cambia la naturaleza de la intervención municipal. Frente a
 
 La policía municipal es el puente entre ambas formas. Tiene entre sus atribuciones vigilar los bienes comunales, velar por el cumplimiento de las obligaciones de quienes ejercen el comercio y coadyuvar en el cumplimiento de las disposiciones municipales (CM, art. 62), de modo que es ella la que llega cuando el bar se pasa de la hora o cuando alguien detona bombetas en el parque. El reglamento de Grecia de 2026 le encarga además colaborar con las organizaciones comunales en programas "tendientes a mejorar la convivencia social" (Municipalidad de Grecia, 2026, art. 12) y la prevención del delito, y realizar programas de prevención en centros educativos y comunidades que fortalezcan la organización comunitaria (Municipalidad de Grecia, 2026, art. 39). Su disposición transitoria ordena a la Alcaldía presentar al Concejo una política cantonal de convivencia y seguridad ciudadana, con informes semestrales de avance (Municipalidad de Grecia, 2026). El tema 4 examina la policía municipal como servicio; aquí cuenta que su oficio cotidiano es, sobre todo, la convivencia.
 
+## Con qué se paga
+
+La convivencia vecinal cuesta poco en obras y mucho en presencia. Lo que la municipalidad gasta en ella está sobre todo en tres subprogramas de la estructura programática de la Contraloría. La policía municipal, el monitoreo y las cámaras van en seguridad y vigilancia cantonal (Contraloría General de la República [CGR], estructura programática municipal, s. f., p. 16); el parque, la plaza y las zonas verdes donde la gente se encuentra, en el mantenimiento de parques, zonas verdes y obras de ornato (CGR, estructura programática municipal, s. f., p. 14); y las celebraciones del cantón, en el subprograma educativo, cultural, deportivo y recreativo, que menciona expresamente la celebración del cantonato (CGR, estructura programática municipal, s. f., p. 9).
+
+Dos de esos servicios tienen una fuente propia. El Código permite cobrar como tasa el mantenimiento de parques y zonas verdes y el servicio de policía municipal, en el tanto se presten (CM, art. 83), y la tasa no puede destinarse a un fin ajeno al servicio (Ley N.° 4755 [CNPT], 1971, art. 4). La vigilancia del comercio, que es la fuente de buena parte de los conflictos por ruido, es atribución de la policía municipal (CM, art. 62), y las multas que cobra la municipalidad por infracciones a la ley de licores ingresan a sus arcas (Ley 9047, art. 24), sin destino específico.
+
+El resto es tiempo de personas servidoras: la inspección que mide el ruido, el funcionario que atiende la denuncia y el que concilia a los vecinos. Ese costo está en el presupuesto de cada oficina y rara vez se identifica como gasto en convivencia, y por eso conviene que el plan anual lo nombre.
+
 ## Cómo hace el gobierno local que exista la convivencia vecinal
 
 Una prohibición no basta para la convivencia vecinal. Contribuyen a ella la licencia que se otorga con condiciones y se vigila, el bien público que se administra con reglas claras, el plan regulador que separa lo incompatible, la fiesta que se ubica con los vecinos y el conflicto que se media antes de que escale. Cada uno de esos instrumentos tiene base en una norma localizable, y casi todos se tocan con otros temas de este libro.
@@ -126,7 +134,7 @@ La participación completa el conjunto. Los jóvenes deben ser consultados sobre
 
 El índice de gestión de servicios municipales de la Contraloría no tiene un servicio llamado convivencia, y sus fichas no mencionan el ruido, la pólvora ni la mediación. Lo que más se acerca está repartido en tres servicios.
 
-En urbanismo, el índice mide el plazo promedio para otorgar licencias comerciales, que el Código fija en 30 días naturales con silencio positivo, y la municipalidad pierde el puntaje si el promedio supera ese plazo (Contraloría General de la República [CGR], fichas de indicadores del Índice de Gestión de Servicios Municipales 2025 [IGSM, fichas], 2025, p. 50). La ficha mide la rapidez del otorgamiento, no la calidad de las condiciones ni la vigilancia posterior; una municipalidad que otorga en 10 días licencias que nunca inspecciona obtiene mejor puntaje que una que tarda 25 y vigila lo que autoriza. Para la convivencia vecinal, lo decisivo ocurre después de la licencia.
+En urbanismo, el índice mide el plazo promedio para otorgar licencias comerciales, que el Código fija en 30 días naturales con silencio positivo, y la municipalidad pierde el puntaje si el promedio supera ese plazo (CGR, fichas de indicadores del Índice de Gestión de Servicios Municipales 2025 [IGSM, fichas], 2025, p. 50). La ficha mide la rapidez del otorgamiento, no la calidad de las condiciones ni la vigilancia posterior; una municipalidad que otorga en 10 días licencias que nunca inspecciona obtiene mejor puntaje que una que tarda 25 y vigila lo que autoriza. Para la convivencia vecinal, lo decisivo ocurre después de la licencia.
 
 En seguridad y vigilancia, el índice pregunta si existen convenios con la Fuerza Pública, los bomberos, el sistema de emergencias, otras municipalidades y la Cruz Roja para mejorar la seguridad del cantón (IGSM, fichas, p. 160), mide la cobertura de la policía municipal y de la vigilancia electrónica por distrito y si el servicio se presta las 24 horas (IGSM, fichas, p. 161), y pregunta si la municipalidad evaluó la satisfacción de las personas usuarias con su policía (IGSM, fichas, p. 167). Ninguna de esas preguntas distingue la convivencia del delito: la policía que pasa la noche atendiendo bares ruidosos y fiestas sin permiso no aparece como tal en el índice.
 
@@ -154,6 +162,8 @@ Constitución Política de la República de Costa Rica. (1949). Asamblea Naciona
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
 
+Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
 Instituto de Fomento y Asesoría Municipal. (2015, 14 de octubre). *Reglamento de Organización, Funcionamiento y Ética de las Casas de Justicia*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=80574&param2=102307&param3=1
 
 Ley N.° 30, *Código Civil*. (1885). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
@@ -161,6 +171,8 @@ Ley N.° 30, *Código Civil*. (1885). Asamblea Legislativa de la República de C
 Ley N.° 3859, *Ley sobre el Desarrollo de la Comunidad (DINADECO)*. (1967). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=38715&param2=143175&param3=1
 
 Ley N.° 4240, *Ley de Planificación Urbana*. (1968). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=35669&param2=143656&param3=1
+
+Ley N.° 4755, *Código de Normas y Procedimientos Tributarios ( Código Tributario )*. (1971). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=6530&param2=148766&param3=1
 
 Ley N.° 5395, *Ley General de Salud*. (1973). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=6581&param2=146939&param3=1
 

@@ -94,6 +94,14 @@ El trabajo infantil tiene una regla municipal antigua y poco conocida. El Códig
 
 Desamparados recogió esos temas. Los niños de sus talleres señalaron como prioridad los delitos que afectan a las personas menores de edad, el consumo de drogas y licor en la comunidad y la lejanía de los espacios de esparcimiento (Municipalidad de Desamparados, 2023, eje Seguridad y Protección), y la política se propuso articular campañas de prevención del maltrato, el acoso escolar, el ciberacoso y el abuso sexual infantil (Municipalidad de Desamparados, 2023, lineamiento 21), y colaborar para erradicar la explotación laboral infantil y adolescente, la explotación sexual comercial y la trata (Municipalidad de Desamparados, 2023, eje Seguridad y Protección). La política abarcó también otros asuntos. En el eje de familia, los niños menores de doce años señalaron como problemas los conflictos por la división de las tareas en el hogar, la falta de recursos económicos y la falta de tiempo de los padres para estar con ellos, y pidieron espacios para que las familias compartan en la comunidad (Municipalidad de Desamparados, 2023, eje Familia); la política respondió con lineamientos para sensibilizar sobre las necesidades de la niñez, gestionar acciones interinstitucionales y generar espacios de análisis con las familias para una crianza positiva (Municipalidad de Desamparados, 2023, lineamientos 1 a 3). En salud, los actores consultados identificaron el embarazo adolescente como el principal problema del cantón (Municipalidad de Desamparados, 2023, eje Salud), y la política llegó a proponer que se declare emergencia cantonal la atención en salud mental, sexual y reproductiva (Municipalidad de Desamparados, 2023, lineamiento 12). El tema 20 estudió a la madre adolescente; el 2, la salud mental. El tema 26 estudia la violencia doméstica; aquí interesa que la ley de 2024 hizo de la prevención de la violencia contra la niñez un deber de toda la administración municipal, y no únicamente de sus programas sociales.
 
+## Con qué se paga
+
+Lo que la municipalidad hace por los niños se paga desde varios subprogramas. La oficina de la niñez y la adolescencia y los centros de cuido van en servicios sociales (CGR, estructura programática municipal, s. f., p. 17); el parque infantil, en el mantenimiento de parques, zonas verdes y obras de ornato (CGR, estructura programática municipal, s. f., p. 14); las actividades deportivas, culturales y recreativas y el mantenimiento de la infraestructura deportiva, en el subprograma educativo, cultural, deportivo y recreativo (CGR, estructura programática municipal, s. f., p. 9); y el camino a la escuela, en los proyectos de gestión vial cantonal (CGR, estructura programática municipal, s. f., p. 19). Un plan cantonal de la niñez que no diga en cuál de esos lugares está cada acción queda sin dinero cuando llega la hora del presupuesto.
+
+Algunas de esas partidas tienen una fuente propia. El mantenimiento de parques y zonas verdes se cobra como tasa a los usuarios, en el tanto el servicio se preste (CM, art. 83), y la tasa no puede destinarse a otra cosa (Ley N.° 4755 [CNPT], 1971, art. 4); el parque infantil del barrio se paga, por eso, con lo que pagan sus vecinos. El deporte de los niños tiene el mínimo del tres por ciento de los ingresos ordinarios que el Código asigna al comité cantonal (CM, art. 179). Y la red de cuido gira a la municipalidad recursos que se tienen por ingresos propios una vez presupuestados (Ley 9220, art. 16).
+
+El resto depende de la decisión del Concejo y de la coordinación. El Código de la Niñez pone a cargo del Ministerio de Cultura y de las municipalidades la tarea de facilitar los espacios recreativos y culturales que los niños necesitan (CNA, art. 75), sin fijar un porcentaje, de modo que la asignación es una decisión presupuestaria de cada cantón. La beca de estudio para los munícipes de escasos recursos sale del mismo subprograma de servicios sociales (CM, art. 71). Y las partidas específicas pueden financiar el parque o el salón que una comunidad proponga por medio de la municipalidad (Ley N.° 7755, 1998, art. 2).
+
 ## Cómo hace el gobierno local que los niños del cantón ejerzan sus derechos
 
 El gobierno local no es el rector de la niñez, pero la ley lo pone en varios puntos donde se decide si un niño juega, llega a la escuela, está protegido y es escuchado. Para eso cuenta con cinco instrumentos.
@@ -144,6 +152,10 @@ Constitución Política de la República de Costa Rica. (1949). Asamblea Naciona
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
 
+Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
+Ley N.° 4755, *Código de Normas y Procedimientos Tributarios ( Código Tributario )*. (1971). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=6530&param2=148766&param3=1
+
 Ley N.° 7184, *Convención sobre los Derechos del Niño*. (1990). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
 
 Ley N.° 7552, *Subvención a las Juntas de Educación y Juntas Administrativas por las Municipalidades*. (1995). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=24953&param2=150699&param3=1
@@ -153,6 +165,8 @@ Ley N.° 7600, *Ley de Igualdad de Oportunidades para las Personas con Discapaci
 Ley N.° 7648, *Ley Orgánica del Patronato Nacional de la Infancia*. (1996). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=41328&param2=151591&param3=1
 
 Ley N.° 7739, *Código de la Niñez y la Adolescencia*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=43077&param2=143888&param3=1
+
+Ley N.° 7755, *Control de las Partidas Específicas con Cargo al Presupuesto Nacional*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=29252&param2=120681&param3=1
 
 Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40197&param2=152716&param3=1
 

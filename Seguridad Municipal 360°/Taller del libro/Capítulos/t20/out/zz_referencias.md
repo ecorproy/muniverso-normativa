@@ -12,6 +12,8 @@ Contraloría General de la República. (s. f.). *Estructura programática munici
 
 Contraloría General de la República. (2026, julio). *Indicaciones para la formulación y presentación de los presupuestos institucionales, año 2027*. División de Fiscalización Operativa y Evaluativa. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
 
+Instituto de Fomento y Asesoría Municipal. (2021, 26 de agosto). *Reglamento de financiamiento del Instituto de Fomento y Asesoría Municipal (IFAM)*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=95317&param2=148159&param3=1
+
 Ley N.° 2, *Código de Trabajo*. (1943). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=8045&param2=150791&param3=1
 
 Ley N.° 1860, *Ley Orgánica del Ministerio de Trabajo y Seguridad Social*. (1955). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=566&param2=143864&param3=1
@@ -21,6 +23,8 @@ Ley N.° 7142, *Ley de Promoción de la Igualdad Social de la Mujer*. (1990). As
 Ley N.° 7430, *Ley de Fomento de la Lactancia Materna*. (1994). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=16631&param2=150792&param3=1
 
 Ley N.° 7739, *Código de la Niñez y la Adolescencia*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=43077&param2=143888&param3=1
+
+Ley N.° 7755, *Control de las Partidas Específicas con Cargo al Presupuesto Nacional*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=29252&param2=120681&param3=1
 
 Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40197&param2=152716&param3=1
 

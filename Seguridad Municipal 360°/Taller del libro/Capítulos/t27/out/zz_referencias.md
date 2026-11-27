@@ -4,6 +4,8 @@ Constitución Política de la República de Costa Rica. (1949). Asamblea Naciona
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
 
+Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
 Instituto de Fomento y Asesoría Municipal. (2015, 14 de octubre). *Reglamento de Organización, Funcionamiento y Ética de las Casas de Justicia*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=80574&param2=102307&param3=1
 
 Ley N.° 30, *Código Civil*. (1885). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
@@ -11,6 +13,8 @@ Ley N.° 30, *Código Civil*. (1885). Asamblea Legislativa de la República de C
 Ley N.° 3859, *Ley sobre el Desarrollo de la Comunidad (DINADECO)*. (1967). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=38715&param2=143175&param3=1
 
 Ley N.° 4240, *Ley de Planificación Urbana*. (1968). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=35669&param2=143656&param3=1
+
+Ley N.° 4755, *Código de Normas y Procedimientos Tributarios ( Código Tributario )*. (1971). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=6530&param2=148766&param3=1
 
 Ley N.° 5395, *Ley General de Salud*. (1973). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=6581&param2=146939&param3=1
 

@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 45 | OK: 44
+CITAS TEXTUALES: 46 | OK: 45
   [t19.md] 10p | L:9137:transitorio II | LITERAL (sin localización que cotejar) | "para integrarse y suministrar al Sistema toda la información"
 
 UBICACIONES VERIFICADAS A MANO (7):

@@ -736,6 +736,20 @@
  },
  {
   "archivo": "t30.md",
+  "palabras": 5,
+  "fuente": "L:10939:art. 6",
+  "estado": "OK",
+  "cita": "asignar presupuesto para su gestión"
+ },
+ {
+  "archivo": "t30.md",
+  "palabras": 14,
+  "fuente": "L:10939:art. 18",
+  "estado": "OK",
+  "cita": "recursos de la tasa sobre los servicios de mantenimientos de"
+ },
+ {
+  "archivo": "t30.md",
   "palabras": 17,
   "fuente": "L:10939:art. 4, inciso t",
   "estado": "OK",

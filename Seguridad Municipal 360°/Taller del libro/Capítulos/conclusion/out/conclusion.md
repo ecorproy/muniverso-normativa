@@ -2,7 +2,7 @@
 
 ## El recorrido
 
-Este libro empezó debajo del suelo. El capítulo 1 mostró una red que nadie ve y que une el agua del tubo, la calle, la basura del martes, el cementerio y el permiso para abrir un negocio. El capítulo 2 leyó el artículo 169 de la Constitución con quienes lo han aplicado desde 1949. El capítulo 3 definió lo local, dibujó una célula y puso en su núcleo a dos personas. El capítulo 4 explicó qué se deben esas dos personas. Después vinieron treinta y seis temas, cada uno con su caso, sus normas, su jurisprudencia y lo que hoy se mide, y casi todos con su financiamiento.
+Este libro empezó debajo del suelo. El capítulo 1 mostró una red que nadie ve y que une el agua del tubo, la calle, la basura del martes, el cementerio y el permiso para abrir un negocio. El capítulo 2 leyó el artículo 169 de la Constitución con quienes lo han aplicado desde 1949. El capítulo 3 definió lo local, dibujó una célula y puso en su núcleo a dos personas. El capítulo 4 explicó qué se deben esas dos personas. Después vinieron treinta y seis temas, cada uno con su caso, sus normas, su jurisprudencia, su financiamiento y lo que hoy se mide.
 
 Esta conclusión regresa al núcleo sin resumir los temas, porque es ahí donde todo lo anterior adquiere sentido, y deja escritas las preguntas que el libro permite hacerle a cualquier municipalidad.
 

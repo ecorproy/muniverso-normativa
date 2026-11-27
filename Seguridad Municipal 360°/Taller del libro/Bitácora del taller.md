@@ -1542,3 +1542,11 @@ Sin atender por depender del autor o de la editorial: datos editoriales de la po
 - Auditoría de contradicción y exactitud: ver `Auditoría de contradicción y exactitud (26-11-2026).md`. Cinco correcciones (estructura de los temas en caps. 1, 3, 4 y conclusión; figura 7; alcance de «dignidades» en Kant; índices).
 - Docs: pestañas 1, 3, 4 y conclusión publicadas y cotejadas IDÉNTICO; figura 7 reemplazada.
 - Word final30 (938 páginas).
+
+## 27 de noviembre de 2026: «Con qué se paga» en los treinta y seis temas
+
+- El autor pidió la sección en todos los temas, aunque alguno pase de 20 páginas. Se redactó para los doce que no la tenían: 1, 19, 20, 21, 22, 23, 24, 25, 26, 27, 30 y 36. Cada una va antes de «Cómo hace» y sale de las fuentes del repositorio: estructura programática municipal de la Contraloría (pp. 8, 9, 12-20), Código de Normas y Procedimientos Tributarios (art. 4), Código Municipal (arts. 3, 4, 13, 62, 71, 83, 84, 179), leyes 7755, 9220, 7935, 10359, 8261, 7600, 7801, 8688, 9047, 10939, 6043, 8828 y 7739, el reglamento de financiamiento del IFAM y los votos 2024-021998 y 2025-037535. Borradores en `scripts/secciones.py`; operaciones de Docs con `scripts/ops_cqp.py`; búsqueda en leyes y dictámenes con `scripts/q.py`.
+- Las citas largas que antes abrían en «Cómo hace» o «Lo que hoy se mide» pasaron a forma corta donde la sección nueva cita primero la misma norma (temas 22, 25, 30 y 36).
+- Con la sección en todos los temas se restituyó la redacción uniforme: cap. 3, «pregunta con qué se paga»; conclusión, «su financiamiento»; figura 7, paso 4 «partidas, tasas y transferencias». Esto deja sin objeto el hallazgo de la auditoría del 26-11-2026 sobre los doce temas sin financiamiento.
+- Docs: doce temas, cap. 3 y conclusión publicados; figura 7 reemplazada. Las catorce pestañas cotejan IDÉNTICO.
+- Word final31 (950 páginas en LibreOffice) en `Word/`.

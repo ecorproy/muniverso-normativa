@@ -24,6 +24,8 @@ Contraloría General de la República. (2025, 3 de noviembre). *Oficio N.° 2170
 
 Contraloría General de la República. (2026, 8 de abril). *Oficio N.° 03933 (DJ-0647-2026). Se atiende consulta sobre el uso de instalaciones municipales para estacionamiento de vehículos particulares de los funcionarios*.
 
+Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
 Decreto Ejecutivo N.° 43808, *Reglamento a la Ley General de Contratación Pública*. (2022). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
 
 Ley N.° 833, *Ley de Construcciones*. (1949). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=36307&param2=143894&param3=1
@@ -55,6 +57,8 @@ Ley N.° 7210, *Ley de Régimen de Zonas Francas*. (1990). Asamblea Legislativa 
 Ley N.° 7451, *Ley de Bienestar de los Animales*. (1994). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=24319&param2=108690&param3=1
 
 Ley N.° 7509, *Ley de Impuesto sobre Bienes Inmuebles*. (1995). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=26598&param2=148757&param3=1
+
+Ley N.° 7755, *Control de las Partidas Específicas con Cargo al Presupuesto Nacional*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=29252&param2=120681&param3=1
 
 Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40197&param2=152716&param3=1
 

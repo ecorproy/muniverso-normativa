@@ -116,6 +116,14 @@ Para los espectáculos, una ley de 2002 obliga a quien organice un espectáculo 
 
 La calle y la plaza tienen, además, dos reglas antiguas a favor de las personas ciegas. Desde 1957, la ley permite a las personas ciegas que deseen dedicarse al comercio instalar pequeños puestos en edificios del Estado o sitios públicos, "previo permiso de la autoridad respectiva" (Ley N.° 2171, 1957, art. 21), siempre que no desarmonicen con el lugar ni alteren los servicios públicos, y el permiso puede cancelarse en cualquier momento por razones justificadas (Ley 2171, art. 21). En la acera, la plaza y el parque, la autoridad que administra el sitio es la municipalidad, y el permiso que otorga tiene la naturaleza precaria del permiso de uso que se examina en el tema 36. La misma ley dispone que los perros lazarillos, cuando acompañen a una persona ciega, tienen libre acceso a toda clase de transportes y sitios públicos (Ley 2171, art. 25). Un reglamento municipal de parques, mercados o instalaciones deportivas que prohíba la entrada de animales sin exceptuarlos contradice la ley.
 
+## Con qué se paga
+
+La ley no deja la accesibilidad a la buena voluntad del presupuesto. Enumera ministerios e instituciones y termina con "las demás instituciones del Estado" (Ley 7600, art. 69), a las que obliga a "tomar las medidas presupuestarias para adquirir las ayudas técnicas y prestar los servicios de apoyo" (Ley 7600, art. 69) que la ley exige, y los programas y servicios que cuenten con financiamiento municipal deben cumplir sus normas (Ley 7600, art. 8). A la municipalidad le corresponde, además, apoyar a las instituciones públicas y privadas en los programas que promuevan la igualdad de oportunidades (Ley 7600, art. 9). La Sala ha sacado la consecuencia práctica: la falta de presupuesto no justifica la falta de una medida paliativa (voto 2025-037535, cons. III).
+
+En el presupuesto municipal, la accesibilidad se reparte. Los programas vinculados a la accesibilidad y a la atención de personas con discapacidad van en servicios sociales (CGR, estructura programática municipal, s. f., p. 17); la acera accesible, en el mantenimiento de aceras, caminos y calles, y su construcción y rehabilitación pueden cobrarse como tasa a los usuarios (CM, art. 83); la rampa de acceso a la playa, en el subprograma de la zona marítimo terrestre (CGR, estructura programática municipal, s. f., p. 18); y la adecuación del edificio municipal, como adición y mejora de una obra preexistente (CGR, estructura programática municipal, s. f., p. 20). Cuando la acera frente a una propiedad privada falta o está dañada, el costo lo paga el propietario, a quien la municipalidad cobra la obra que hizo en su lugar (CM, art. 84).
+
+Para la inversión mayor existen las partidas específicas (Ley N.° 7755, 1998, art. 1) y el crédito del Instituto de Fomento y Asesoría Municipal, que cobra una comisión menor a los proyectos que atienden a la población en desventaja social (Instituto de Fomento y Asesoría Municipal, 2021, art. 53), categoría en la que su reglamento incluye a las personas con discapacidad (Instituto de Fomento y Asesoría Municipal, 2021, definiciones).
+
 ## Cómo hace el gobierno local que las personas con discapacidad ejerzan sus derechos
 
 El gobierno local no es el rector de la discapacidad; ese papel corresponde al Consejo Nacional de Personas con Discapacidad (Ley 9303, art. 1). Pero las barreras que más pesan en la vida diaria de una persona con discapacidad son locales: la acera, el edificio municipal, el permiso de construcción, el uso del suelo, el desalojo, el parque y la fiesta. Para eso cuenta con cinco instrumentos.
@@ -158,13 +166,19 @@ El padre de Barrio Fátima pidió aceras por donde sus hijos pudieran caminar, y
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
 
+Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
+
 Contraloría General de la República. (2026, julio). *Modelo de guía interna de verificación de requisitos del bloque de legalidad presupuestario que deben cumplir las municipalidades en la formulación de su presupuesto inicial y variaciones sujetas a la aprobación presupuestaria de la Contraloría General de la República*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
 
 Decreto Ejecutivo N.° 26831, *Reglamento Ley de Igualdad de Oportunidades para Personas con Discapacidad*. (1998). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=53160&param2=130269&param3=1
 
+Instituto de Fomento y Asesoría Municipal. (2021, 26 de agosto). *Reglamento de financiamiento del Instituto de Fomento y Asesoría Municipal (IFAM)*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=95317&param2=148159&param3=1
+
 Ley N.° 2171, *Ley del Patronato Nacional de Ciegos*. (1957). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
 
 Ley N.° 7600, *Ley de Igualdad de Oportunidades para las Personas con Discapacidad*. (1996). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=23261&param2=121969&param3=1
+
+Ley N.° 7755, *Control de las Partidas Específicas con Cargo al Presupuesto Nacional*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=29252&param2=120681&param3=1
 
 Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40197&param2=152716&param3=1
 

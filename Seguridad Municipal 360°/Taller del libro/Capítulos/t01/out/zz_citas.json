@@ -176,6 +176,27 @@
  },
  {
   "archivo": "t01.md",
+  "palabras": 5,
+  "fuente": "L:7794:art. 83",
+  "estado": "OK",
+  "cita": "en el tanto se presten"
+ },
+ {
+  "archivo": "t01.md",
+  "palabras": 14,
+  "fuente": "L:4755:art. 4",
+  "estado": "OK",
+  "cita": "un destino ajeno al servicio que constituye la razón de ser "
+ },
+ {
+  "archivo": "t01.md",
+  "palabras": 3,
+  "fuente": "L:7755:art. 1",
+  "estado": "OK",
+  "cita": "expresadas en proyectos"
+ },
+ {
+  "archivo": "t01.md",
   "palabras": 9,
   "fuente": "O:IGSMF:p. 87",
   "estado": "OK",

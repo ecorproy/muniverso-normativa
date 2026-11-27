@@ -104,6 +104,14 @@ El caso de Río Azul no fue elegido al azar. La ley de la persona joven se refor
 
 Para el gobierno local de un cantón con territorio indígena, la juventud indígena es una población con necesidades que el resto del cantón no tiene. Los estudiantes de Río Azul debían recorrer unos seis kilómetros hasta el liceo, y cuando las quebradas crecían ni siquiera los vehículos de doble tracción que los transportaban podían pasar (voto 2026-016165, cons. III). Ningún programa juvenil resuelve eso; lo resuelve una obra vial priorizada. El asiento indígena en el comité es, entre otras cosas, el lugar desde el que esa prioridad puede llegar al Concejo antes de que llegue a la Sala.
 
+## Con qué se paga
+
+La sección sobre el dinero de los jóvenes examinó la transferencia del Consejo de la Persona Joven, que llega con destino específico a los proyectos del comité cantonal (Ley 8261, art. 26). Esa transferencia no es todo el dinero que los jóvenes del cantón pueden recibir de su municipalidad, y la estructura programática de la Contraloría muestra dónde está el resto.
+
+Las actividades deportivas, culturales y recreativas, las escuelas municipales de música o de arte y el mantenimiento de la infraestructura deportiva van en el subprograma educativo, cultural, deportivo y recreativo (Contraloría General de la República [CGR], estructura programática municipal, s. f., p. 9). Las becas de estudio y las bolsas de empleo van en servicios sociales (CGR, estructura programática municipal, s. f., p. 17), y la beca exige que el munícipe sea de escasos recursos y tenga capacidad probada para estudiar (CM, art. 71). El deporte tiene el mínimo del tres por ciento de los ingresos ordinarios asignado al comité cantonal de deportes y recreación (CM, art. 179), que también atiende a los jóvenes.
+
+La casa de la juventud tiene sus propias reglas. La municipalidad puede ceder en préstamo un inmueble suyo al comité para establecerla o construirla (Ley 8261, art. 31), puede financiar su establecimiento con los recursos del Consejo destinados al comité y con los suyos (Ley 8261, art. 32), y puede firmar convenios con universidades, organizaciones no gubernamentales, empresas privadas y organismos internacionales para financiar las actividades que se realicen allí (Ley 8261, art. 34). La construcción del edificio, cuando es municipal, se registra como proyecto de inversión comunal (CGR, estructura programática municipal, s. f., p. 20).
+
 ## Cómo hace el gobierno local que los adolescentes y los jóvenes del cantón ejerzan sus derechos
 
 El gobierno local no gobierna a los jóvenes, pero sus decisiones les abren o les cierran oportunidades. La ley le impone cinco obligaciones concretas.
@@ -122,7 +130,7 @@ Esas cinco obligaciones comparten un rasgo: casi ninguna exige crear algo nuevo.
 
 ## Lo que hoy se mide
 
-El índice de gestión de la Contraloría pide, en varios servicios municipales, identificar a las poblaciones en condición de vulnerabilidad, y entre las categorías de edad incluye a los adolescentes de doce a diecisiete años (Contraloría General de la República [CGR], fichas de indicadores del Índice de Gestión de Servicios Municipales 2025 [IGSM, fichas], 2025, p. 97). En los servicios culturales, el indicador se justifica en que las políticas municipales deben comprender el punto de vista de la niñez y la adolescencia y de las juventudes, entre otras poblaciones (IGSM, fichas, p. 109).
+El índice de gestión de la Contraloría pide, en varios servicios municipales, identificar a las poblaciones en condición de vulnerabilidad, y entre las categorías de edad incluye a los adolescentes de doce a diecisiete años (CGR, fichas de indicadores del Índice de Gestión de Servicios Municipales 2025 [IGSM, fichas], 2025, p. 97). En los servicios culturales, el indicador se justifica en que las políticas municipales deben comprender el punto de vista de la niñez y la adolescencia y de las juventudes, entre otras poblaciones (IGSM, fichas, p. 109).
 
 No mide nada de lo que este capítulo encontró. No pregunta si el Concejo conformó el comité de la persona joven en el plazo legal, ni si la municipalidad ejecutó en el año los recursos que el Consejo le transfirió para los proyectos de los jóvenes, ni cuánto quedó en superávit. No pregunta si existe el mecanismo de consulta a los jóvenes sobre los espacios públicos que la ley de 2024 ordenó crear en seis meses (Ley 10561, art. 11), ni si el Concejo recibió y respondió algún informe trimestral del comité (Ley 10561, art. 8). Tampoco pregunta si el comité cantonal de deportes tiene sus dos integrantes jóvenes (CM, art. 174).
 
@@ -147,6 +155,8 @@ El gobierno local cumple con el derecho de la persona joven a participar en las 
 Concejo Municipal de Distrito de Cervantes. (2026, 11 de setiembre). *Reglamento del Comité de la Persona Joven de Cervantes*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=107880&param2=152421&param3=1
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
+
+Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
 
 Ley N.° 7552, *Subvención a las Juntas de Educación y Juntas Administrativas por las Municipalidades*. (1995). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=24953&param2=150699&param3=1
 

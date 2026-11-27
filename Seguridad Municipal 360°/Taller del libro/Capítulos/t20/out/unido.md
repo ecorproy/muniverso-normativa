@@ -86,6 +86,14 @@ La Ley Marco de Empleo Público añadió para el sector público un permiso de p
 
 Estas reglas no son un asunto ajeno al tema. Una municipalidad que respeta la licencia, la hora de lactancia y el fuero de sus funcionarias, y que tiene una sala de lactancia en su edificio, ofrece a las madres del cantón el ejemplo de lo que exige a los demás empleadores. El tema 18 estudia el trabajo como sustento y el tema 11 la igualdad de género; la maternidad de las funcionarias es el punto donde ambos se encuentran dentro de la propia administración.
 
+## Con qué se paga
+
+El centro de cuido municipal se registra en dos partes del presupuesto. Su operación va en el subprograma de servicios sociales, que comprende "Todo lo relacionado a CECUDI" (CGR, estructura programática municipal, s. f., p. 17), y la construcción, las adiciones y las mejoras del edificio van como proyectos de inversión comunal, donde la Contraloría menciona expresamente los centros de cuidado infantil (CGR, estructura programática municipal, s. f., p. 20). La separación importa porque el dinero de cada parte viene de un lugar distinto.
+
+La operación la sostiene sobre todo la red. Recibe al menos el cuatro por ciento de los ingresos del Fondo de Desarrollo Social y Asignaciones Familiares, girados directamente a sus unidades ejecutoras (Ley 9220, art. 15), y lo que llega a la municipalidad se considera ingreso propio una vez presupuestado (Ley 9220, art. 16). El reglamento del centro reparte después las fuentes: el subsidio institucional para los niños subsidiados, los recursos municipales para los que la municipalidad asume y la mensualidad de las familias que pueden pagar (Municipalidad de Escazú, 2023, art. 17). El caso de Palmares mostró el límite de esa mezcla: los cupos subsidiados no habían aumentado por falta de contenido presupuestario del Patronato (voto 2024-021998, result. 3), y la municipalidad no puede ampliarlos con dinero ajeno.
+
+Para la inversión hay dos vías fuera del presupuesto ordinario. Las partidas específicas financian necesidades públicas locales "expresadas en proyectos" (Ley N.° 7755, 1998, art. 1), y el crédito del Instituto de Fomento y Asesoría Municipal cobra una comisión menor a los proyectos que atienden a la población en desventaja social (Instituto de Fomento y Asesoría Municipal, 2021, art. 53), categoría en la que su reglamento incluye a las adolescentes madres y a los hogares en pobreza (Instituto de Fomento y Asesoría Municipal, 2021, definiciones). La sala de lactancia de la propia municipalidad, en cambio, es gasto de su administración como patrono, y no depende de ninguna transferencia.
+
 ## Cómo hace el gobierno local que la madre y el niño pequeño estén protegidos
 
 La protección de la maternidad y la primera infancia no es una competencia exclusiva de la municipalidad, pero tampoco le es ajena. La Constitución la pone a cargo del Patronato con la colaboración de las demás instituciones (CP, art. 55), y la ley que creó la red de cuido incorpora a las municipalidades como integrantes de ella (Ley 9220, art. 5). El gobierno local hace su parte con cuatro instrumentos: el centro de cuido, el reglamento que lo rige, el edificio y el empleo públicos, y la coordinación con las instituciones que pagan los subsidios.
@@ -134,6 +142,8 @@ Contraloría General de la República. (s. f.). *Estructura programática munici
 
 Contraloría General de la República. (2026, julio). *Indicaciones para la formulación y presentación de los presupuestos institucionales, año 2027*. División de Fiscalización Operativa y Evaluativa. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
 
+Instituto de Fomento y Asesoría Municipal. (2021, 26 de agosto). *Reglamento de financiamiento del Instituto de Fomento y Asesoría Municipal (IFAM)*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=95317&param2=148159&param3=1
+
 Ley N.° 2, *Código de Trabajo*. (1943). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=8045&param2=150791&param3=1
 
 Ley N.° 1860, *Ley Orgánica del Ministerio de Trabajo y Seguridad Social*. (1955). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=566&param2=143864&param3=1
@@ -143,6 +153,8 @@ Ley N.° 7142, *Ley de Promoción de la Igualdad Social de la Mujer*. (1990). As
 Ley N.° 7430, *Ley de Fomento de la Lactancia Materna*. (1994). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=16631&param2=150792&param3=1
 
 Ley N.° 7739, *Código de la Niñez y la Adolescencia*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=43077&param2=143888&param3=1
+
+Ley N.° 7755, *Control de las Partidas Específicas con Cargo al Presupuesto Nacional*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=29252&param2=120681&param3=1
 
 Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40197&param2=152716&param3=1
 

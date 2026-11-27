@@ -92,6 +92,14 @@ El cuido infantil muestra la misma función dentro de un servicio municipal. La 
 
 Seleccionar obliga a hacerlo con igualdad. En 2018 la auditora de Atenas preguntó si los hijos de funcionarios municipales que no calificaban en los índices de pobreza podían entrar al centro de cuido del cantón sin pagar. La Procuraduría respondió que no, que tampoco podían recibir el subsidio del Instituto Mixto de Ayuda Social y que una carta de entendimiento entre el alcalde y el funcionario no podía eximirlos de esos requisitos (Procuraduría General de la República, dictamen C-067-2018, 2018, conclusión). El tema 25 desarrolla el cuido; para este capítulo, el dictamen fija una regla que vale para toda ayuda: el cupo que la ley destina a la familia que lo necesita no se reparte por cercanía con la administración.
 
+## Con qué se paga
+
+La protección que la municipalidad da a la familia se paga, en su mayor parte, desde un solo lugar del presupuesto. La estructura programática de la Contraloría reúne en el subprograma de servicios sociales las ayudas temporales a vecinos, las becas de estudio, todo lo relacionado con los centros de cuido y desarrollo infantil, los aportes en especie y los beneficios patrimoniales a favor de sujetos privados (CGR, estructura programática municipal, s. f., p. 17). El artículo 71 autoriza la ayuda temporal y la beca (CM, art. 71), pero solo funcionan si ese subprograma tiene contenido. Un reglamento de ayudas sin dinero asignado deja a la familia con un derecho que no puede ejercer.
+
+Buena parte del dinero no es municipal. El cuido infantil se paga con recursos de la red que, una vez incluidos en el presupuesto, "se considerarán ingresos propios de cada gobierno local" (Ley 9220, art. 16), y los subsidios a los hogares en pobreza los paga el Instituto Mixto de Ayuda Social, encargado del plan nacional contra la pobreza extrema (Ley 4760, art. 2). En esos casos la municipalidad es la vía por la que el dinero llega, y su costo propio es el de las personas servidoras que reciben la solicitud, valoran el hogar y lo refieren.
+
+La protección de la familia tiene, además, un costo que no aparece como gasto: lo que la municipalidad deja de cobrar. La no afectación del bien único reduce el impuesto sobre bienes inmuebles (Ley 7509, art. 4); la exención de tasas y servicios a las personas mayores en pobreza exige un estudio técnico financiero previo (Ley 10359, art. 3); y la vivienda inscrita como habitación familiar queda fuera de la ejecución por tributos (C-043-2016, concl. 1). Un presupuesto que se toma en serio la protección de la familia estima esos ingresos que no van a entrar antes de comprometer el gasto.
+
 ## Cómo hace el gobierno local que la familia esté protegida
 
 La familia no es un servicio municipal ni una competencia que el Código enumere con ese nombre. La municipalidad la protege con una red de actos dispersos: cobra sin quitarle la casa, ayuda cuando la golpea una desgracia, la lleva a los programas del Estado, cuida a sus hijos y le presta los servicios de los que depende su vida diaria. La ley convierte esos actos dispersos en protección en tres pasos: un reglamento que la ordene, órganos que la decidan y un procedimiento que la haga exigible.
@@ -145,6 +153,8 @@ Contraloría General de la República. (2017, 29 de junio). *Oficio N.° 07359 (
 Contraloría General de la República. (2024, 8 de octubre). *Oficio N.° 16049 (DFOE-LOC-1430). Opinión sobre el texto dictaminado Reforma del artículo 71 del Código Municipal, Ley n.° 7794, del 30 de abril de 1998 y sus reformas, correspondiente al expediente legislativo n.° 23.777*.
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
+
+Contraloría General de la República. (s. f.). *Estructura programática municipal: estructura programática de las municipalidades para incluir la información de los presupuestos y sus variaciones en el Sistema de Información sobre Planes y Presupuestos*. https://www.cgr.go.cr/05-tramites-ap-gl-27.html
 
 Ley N.° 1860, *Ley Orgánica del Ministerio de Trabajo y Seguridad Social*. (1955). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=566&param2=143864&param3=1
 
