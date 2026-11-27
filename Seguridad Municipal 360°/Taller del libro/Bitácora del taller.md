@@ -1940,3 +1940,17 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Unido: solo adiciones; las referencias se insertaron en su posición alfabética.
 - Índices: se agregaron las tres obras.
 - Word final61 (1057 páginas en el PDF renderizado) y Docs actualizados.
+
+## 27 de noviembre de 2026: corrección del congreso de 2016 en la introducción (Word final62)
+
+- Fuente: la nota de la Municipalidad de San José del 21 de octubre de 2016 en munimsj.wordpress.com, que el autor aportó.
+- Nombre del congreso: ahora es «V Congreso Jurídico Municipal», como en la nota. La referencia de Leiva Poveda conserva el título de la *Memoria* («V Congreso Jurídico Nacional Municipal»).
+- Párrafo nuevo, «El congreso tenía un objetivo ambicioso», con:
+  - el objetivo: determinar las competencias exclusivas de las municipalidades conforme a la Constitución;
+  - el tema «Competencias municipales: ¿qué es lo local?»;
+  - el lugar, el auditorio Matilde Marín Chinchilla, y la iniciativa de Mario Vargas Serrano;
+  - según el programa, la bienvenida de Johnny Araya Monge y la exposición inaugural del procurador general Julio Jurado Fernández.
+- Panel: Sancho González, Leiva Poveda, Ortiz Zamora, Araya Olmos, González Camacho, Jiménez Succar y Murillo Arias; moderó Vargas Guillén.
+- Corrección: González Camacho ya era exmagistrado en 2016. Se quitó el «hoy».
+- Referencia nueva: Municipalidad de San José (2016, 21 de octubre), en la introducción y en el índice de obras. Va parafraseada, sin citas textuales.
+- Se actualizaron el Word final62 y Docs, en la pestaña «Introducción. El camino».

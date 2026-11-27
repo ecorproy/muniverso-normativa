@@ -76,6 +76,8 @@ MANUAL.update({
         ref='Ministerio de Planificación Nacional y Política Económica. (2025). *Índice cantonal de desarrollo sostenible – Agenda 2030: 2020-2022*. https://biblioteca.mideplan.go.cr'),
     'MIDEPLAN, 2025': dict(file='',
         ref='Ministerio de Planificación Nacional y Política Económica. (2025). *Índice cantonal de desarrollo sostenible – Agenda 2030: 2020-2022*. https://biblioteca.mideplan.go.cr'),
+    'Municipalidad de San José, 2016': dict(file='',
+        ref='Municipalidad de San José. (2016, 21 de octubre). *V Congreso Jurídico Municipal “Dr. Mauro Murillo Arias”*. https://munimsj.wordpress.com/2016/10/21/v-congreso-juridico-municipal-dr-mauro-murillo-arias/'),
     'Organización Panamericana de la Salud, s. f.': dict(file='/home/claude/libro/fuentes/doctrina/ops_seguridad_humana.txt',
         ref='Organización Panamericana de la Salud. (s. f.). [Resumen del documento de referencia técnico sobre salud y seguridad humana]. https://www.paho.org/sites/default/files/D37404-PAHO-ExecutiveSummary-Spn-WEB.pdf'),
     'Conan Doyle, s. f.': dict(file='/home/claude/libro/fuentes/doctrina/conan_doyle_valle.txt',

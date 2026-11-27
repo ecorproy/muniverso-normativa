@@ -941,6 +941,7 @@ Doctrina, informes y documentos institucionales que no son normas ni resolucione
 - Lora-Tamayo Vallvé, M. (Dir.). (2020). Manual de derecho local (4.ª ed.). Iustel: introducción.
 - Medina León, A., Nogueira Rivera, D., & Hernández Nariño, A. (2009). Relevancia de la gestión por procesos en la planificación estratégica y la mejora continua. Eídos, (2), 65-72: capítulo 4.
 - Ministerio de Planificación Nacional y Política Económica. (2025). Índice cantonal de desarrollo sostenible – Agenda 2030: 2020-2022. https://biblioteca.mideplan.go.cr: temas 6; conclusión
+- Municipalidad de San José. (2016, 21 de octubre). V Congreso Jurídico Municipal “Dr. Mauro Murillo Arias”. https://munimsj.wordpress.com/2016/10/21/v-congreso-juridico-municipal-dr-mauro-murillo-arias/: introducción
 - Naciones Unidas, Dependencia de Seguridad Humana. (2016). Manual de seguridad humana: Un enfoque integrado para la consecución de los Objetivos de Desarrollo Sostenible y los ámbitos de acción prioritarios de la comunidad internacional y el sistema de las Naciones Unidas. Naciones Unidas: capítulo 1.
 - Observatorio de la Violencia. (2026). Índice Cantonal de Seguridad Ciudadana 2025: resumen metodológico y resultados: temas 4, 26
 - Organización Panamericana de la Salud. (s. f.). [Resumen del documento de referencia técnico sobre salud y seguridad humana]. https://www.paho.org/sites/default/files/D37404-PAHO-ExecutiveSummary-Spn-WEB.pdf: capítulo 1.
