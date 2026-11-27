@@ -1980,3 +1980,22 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
   - conclusión: 26/26;
   - t36: 75/72, sin cambio.
 - Se actualizaron el Word final63 (1060 páginas en el PDF renderizado) y Docs, con la imagen de síntesis en el blob fe3bca9d-c8c0.
+
+## 27 de noviembre de 2026: autocitas, centrado e índice de figuras (Word final64)
+
+- Autocitas en primera persona. El autor es Cortés García, así que las siete menciones narrativas a «Cortés García» pasan a primera persona:
+  - en el cap. 2: recordé, sostuve, describí, escribí;
+  - en el cap. 4: llamé, expliqué, advertí, recordé, expliqué.
+  - La primera mención de cada capítulo nombra la obra completa, *Derecho municipal: impugnación, veto y revisión de actos administrativos*; las siguientes, *Derecho municipal*.
+  - Las citas entre paréntesis (Cortés García, 2026, …) se conservan, como corresponde en APA.
+- Cotejo:
+  - cap02: 131/115, sin cambio;
+  - cap04: 157/129. Antes daba 126, porque el voto 2025-008201 no tenía fuente local; ahora está en `libro/fuentes/votos`.
+- Centrado:
+  - los estilos Título 1, Captioned Figure e Image Caption quedan centrados;
+  - los 144 párrafos con imagen, centrados.
+- Índice de figuras:
+  - El campo usaba `TOC \t "Image Caption,1"`. Word en español separa con «;», así que el campo no se generaba.
+  - Ahora cada leyenda lleva un campo `SEQ Figura` (16 leyendas) y el índice es `TOC \h \z \c "Figura"`, que no depende del idioma.
+  - El campo queda marcado para actualizarse al abrir el archivo.
+- Se actualizaron el Word final64 (1060 páginas en el PDF renderizado) y Docs.
