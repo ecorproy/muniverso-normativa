@@ -785,6 +785,20 @@
  },
  {
   "archivo": "cap04.md",
+  "palabras": 5,
+  "fuente": "Osborne et al., 2022 | , p. 640",
+  "estado": "OK",
+  "cita": "the user is its arbiter"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 3,
+  "fuente": "Osborne et al., 2022 | , p. 634",
+  "estado": "OK",
+  "cita": "internal value chains"
+ },
+ {
+  "archivo": "cap04.md",
   "palabras": 24,
   "fuente": "Moyado, 2011, como se citó en Ortíz-Fernandez et al., 2024 | , p. 18",
   "estado": "OK",

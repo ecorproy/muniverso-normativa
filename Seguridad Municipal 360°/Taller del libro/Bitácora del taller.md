@@ -2146,3 +2146,25 @@ Responde a tres debilidades señaladas por la evaluación: la densidad documenta
   - cap04: 159 citas, 131 OK.
 - **Referencias e índice.** La recomendación entra en las referencias de los caps. 3 y 4 y en el índice de obras.
 - **Entregables.** Word final70, de 1319 páginas en el PDF renderizado, y Docs actualizado.
+
+## 27 de noviembre de 2026: Osborne, Powell, Cui y Strokosch (2022) (Word final71)
+
+- **Fuente.** Osborne, S. P., Powell, M., Cui, T., & Strokosch, K. (2022). Value creation in the public service ecosystem: An integrative framework. *Public Administration Review*, 82(4), 634-645.
+  - Es de acceso abierto con licencia CC BY-NC-ND.
+  - La página impresa es la página del PDF más 633.
+  - El PDF no va al repositorio. La copia de cotejo está en `libro/fuentes/doctrina/osborne_2022_pag.txt`.
+  - Las citas van en inglés y cada una lleva al lado su sentido en español.
+- **Dónde entró.**
+  - **Cap. 1, después de la lámina del micelio.** Párrafo nuevo:
+    - la metáfora del ecosistema «dynamic, interactive, and self-sustaining» (p. 637);
+    - la comunidad local como medio del servicio (p. 639);
+    - la diferencia con el libro: el ecosistema explica cómo se crea valor, y la red del libro es un mapa de deberes exigibles.
+  - **Cap. 4, después de los tres niveles (meta, resultado e impacto).** Párrafo nuevo:
+    - el usuario como «arbiter» del valor (p. 640);
+    - el abandono de las «internal value chains» (p. 634);
+    - la diferencia con el libro: el valor que estudian depende de cada persona, y el derecho mide si recibió el producto debido.
+- **Cotejo.** 4 citas, todas literales y en la página citada. No hay errores:
+  - cap01: 55 citas, 23 OK;
+  - cap04: 161 citas, 133 OK.
+- **Referencias e índice.** El artículo entra en las referencias de los caps. 1 y 4 y en el índice de obras.
+- **Entregables.** Word final71, de 1319 páginas en el PDF renderizado, y Docs actualizado.

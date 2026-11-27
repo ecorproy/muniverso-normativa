@@ -10,6 +10,8 @@ Merlin Sheldrake propone una imagen para pensar esa red. En las escuelas se ense
 
 Este libro dibuja esa lámina para el cantón. Debajo del agua que sale del tubo, de la calle por la que se camina, de la basura que se recoge el martes, del cementerio, del mercado, de la acera frente a la escuela y del permiso para abrir un negocio hay una misma red, y esa red es lo local. Casi nadie la ve, porque se ve el tubo, la calle o el permiso, y no el tejido que los une. La tesis de estas páginas es que el gobierno local está presente en cada uno de esos puntos y que la seguridad de una persona en su cantón depende de que la red funcione completa.
 
+La imagen ecológica tiene ya un lugar en la teoría de la administración pública. Stephen P. Osborne, Madeline Powell, Tie Cui y Kirsty Strokosch acuden a la metáfora de ecosistemas "dynamic, interactive, and self-sustaining" (Osborne et al., 2022, p. 637) para entender cómo se prestan los servicios públicos. Su ecosistema tiene un nivel intermedio, el del servicio, que puede incluir "the local community as the milieu of service delivery" (Osborne et al., 2022, p. 639). Este libro se separa de ellos en el punto de llegada. Su ecosistema es un marco para explicar cómo se crea valor; la red de este libro es un mapa de deberes jurídicos que se pueden exigir.
+
 ## La forma del agua
 
 La Constitución no dice cuáles son los hilos. Confía a la municipalidad "La administración de los intereses y servicios locales en cada cantón" (Constitución Política de la República de Costa Rica [CP], 1949, art. 169) y no hace una lista. La Sala Constitucional tampoco la hizo; dio una regla para reconocer cada hilo cuando aparece: el interés local es "todo aquel de naturaleza pública que importa al cantón de manera directa e inmediata" (Sala Constitucional, voto N.° 2006-017907, de las 17:09 horas del 12 de diciembre de 2006, considerando III). El capítulo 2 sigue esa fórmula desde 1949 hasta hoy.
@@ -155,6 +157,8 @@ Municipalidad de Upala. (2014, 22 de agosto). *Reglamento Interno de la Casa de 
 Naciones Unidas, Dependencia de Seguridad Humana. (2016). *Manual de seguridad humana: Un enfoque integrado para la consecución de los Objetivos de Desarrollo Sostenible y los ámbitos de acción prioritarios de la comunidad internacional y el sistema de las Naciones Unidas*. Naciones Unidas.
 
 Organización Panamericana de la Salud. (s. f.). [Resumen del documento de referencia técnico sobre salud y seguridad humana]. https://www.paho.org/sites/default/files/D37404-PAHO-ExecutiveSummary-Spn-WEB.pdf
+
+Osborne, S. P., Powell, M., Cui, T., & Strokosch, K. (2022). Value creation in the public service ecosystem: An integrative framework. *Public Administration Review*, *82*(4), 634-645. https://doi.org/10.1111/puar.13474
 
 Procuraduría General de la República. (1997, 16 de diciembre). *Dictamen C-243-1997*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=9881&param2=0
 

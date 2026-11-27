@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 159 | OK: 131
+CITAS TEXTUALES: 161 | OK: 133
   [cap04.md] 16p | D:C-131-2026:estudio general | LITERAL (sin localización que cotejar) | "se complementa con lo regulado en el propio Código Municipal"
   [cap04.md] 18p | D:C-131-2026:estudio general | LITERAL (sin localización que cotejar) | "criterios objetivos sobre la base de indicadores cuantitativ"
   [cap04.md] 12p | Zaratiegui, 1999 | , p. 82 | SIN FUENTE LOCAL | "se pueden definir como secuencias ordenadas y lógicas de act"

@@ -44,6 +44,8 @@ Organización para la Cooperación y el Desarrollo Económicos. (2024). *Recomme
 
 Ortíz-Fernandez, J., Baldeón-Tovar, M., Medina-Pelaiza, L., Ortíz-Huamán, C., & Godiño-Poma, M. (2024). Gestión por procesos en las empresas. Una revisión sistémica. *Gestionar: Revista de Empresa y Gobierno*, *4*(1), 7-22. https://doi.org/10.35622/j.rg.2024.01.001
 
+Osborne, S. P., Powell, M., Cui, T., & Strokosch, K. (2022). Value creation in the public service ecosystem: An integrative framework. *Public Administration Review*, *82*(4), 634-645. https://doi.org/10.1111/puar.13474
+
 Procuraduría General de la República. (2024, 12 de febrero). *Dictamen C-016-2024*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24246&param2=0
 
 Procuraduría General de la República. (2025, 21 de abril). *Dictamen C-078-2025*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24934&param2=0

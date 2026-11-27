@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 53 | OK: 21
+CITAS TEXTUALES: 55 | OK: 23
   [cap01.md] 6p | Sheldrake, 2020 | , capítulo 2 | SIN FUENTE LOCAL | "El micelio es tejido conjuntivo ecológico"
   [cap01.md] 12p | Sheldrake, 2020 | , capítulo 2 | SIN FUENTE LOCAL | "No hay centros de operaciones, ni ciudades capitales, ni sed"
   [cap01.md] 7p | RM:desamparados-ninez:eje Salud | LITERAL (sin localización que cotejar) | "la mala atención de la salud mental"

@@ -16,6 +16,8 @@ Naciones Unidas, Dependencia de Seguridad Humana. (2016). *Manual de seguridad h
 
 Organización Panamericana de la Salud. (s. f.). [Resumen del documento de referencia técnico sobre salud y seguridad humana]. https://www.paho.org/sites/default/files/D37404-PAHO-ExecutiveSummary-Spn-WEB.pdf
 
+Osborne, S. P., Powell, M., Cui, T., & Strokosch, K. (2022). Value creation in the public service ecosystem: An integrative framework. *Public Administration Review*, *82*(4), 634-645. https://doi.org/10.1111/puar.13474
+
 Procuraduría General de la República. (1997, 16 de diciembre). *Dictamen C-243-1997*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=9881&param2=0
 
 Procuraduría General de la República. (2016, 26 de febrero). *Dictamen C-043-2016*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=19356&param2=0
