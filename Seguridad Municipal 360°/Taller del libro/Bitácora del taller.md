@@ -1833,3 +1833,4 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Fuentes del contenido: los datos de cada tema están en `scripts/recursos/datos_*.py`, redactados sobre «El caso» y «Cómo hace el gobierno local…» de cada tema.
 - Quince temas no llevan QR porque su voto no tiene enlace registrado: 1, 2, 4, 5, 7, 12, 14, 20, 23, 25, 26, 27, 29, 31 y 32.
 - Word final55: 16 figuras sustituidas y 122 recursos insertados. Revisado en PDF renderizado (1041 páginas).
+- Docs: en todas las pestañas, las 16 figuras se sustituyeron por las de color y se insertaron los 122 recursos, en los mismos lugares que en el Word. Al exportar el tema 4 y compararlo con su versión anterior, la única diferencia son las cuatro líneas de imagen: el texto no cambió. Los identificadores de cada imagen quedan en `scripts/recursos/blobs.json` y `assets.txt`.
