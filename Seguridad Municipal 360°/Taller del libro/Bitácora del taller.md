@@ -1571,3 +1571,12 @@ Sin atender por depender del autor o de la editorial: datos editoriales de la po
 - Capítulo 3, «Treinta y seis temas, nueve por cuadrante»: párrafo nuevo con esa justificación. Capítulo 4: párrafo nuevo tras el de Medina León sobre planificación estratégica, con los siete pasos (identificar, clasificar y mapear, ficha, asignar, medir y registrar, calificar, rendir cuentas y mejorar), cada uno con su norma o su fuente de método.
 - Figura 10 rehecha: «De la ley a los treinta y seis temas y de los temas a los procesos». Tres bandas: la ley obliga a planificar; qué servicios (los cuatro cuadrantes); cómo (siete pasos, distinguiendo lo que ordena la ley y lo que aporta la gestión por procesos), con lazo de retorno al plan.
 - Docs: caps. 3 y 4 publicados y cotejados IDÉNTICO. Word final34 (953 páginas).
+
+## 27 de noviembre de 2026: voto 2009-003369 (Cartago)
+
+- Fuente nueva aportada por el autor: Sala Constitucional, voto N.° 2009-003369, de las 12:41 horas del 27 de febrero de 2009 (expediente 08-015027-0007-CO), amparo contra la Alcaldía y el Departamento de Patentes de Cartago. Guardado en `fuentes/votos/`. La referencia no lleva enlace de NexusPJ porque el texto aportado no lo trae.
+- Aplicado en lo conducente:
+  - Tema 27, «El ruido»: párrafo tras el caso de Flores. Vecinos denuncian un local con licencia de venta de pollo que funcionaba como cantina; tres inspecciones nocturnas, procedimiento con los vecinos como parte, audiencia, cancelación de licencias y cierre. La Sala avala el cierre (cons. IV y V) y estima el amparo solo por la solicitud no contestada de retirar pertenencias y alimentos (cons. VI; por tanto).
+  - Tema 18, «El que vende sin permiso»: la clausura de un local y la petición sobre los bienes del afectado (cons. V y VI; por tanto).
+  - Tema 36, «La licencia, entre el control y el sustento»: la licencia autoriza una actividad determinada (cons. IV) y el caso de Cartago (cons. V).
+- Docs: tres temas publicados y cotejados IDÉNTICO. Word final35.

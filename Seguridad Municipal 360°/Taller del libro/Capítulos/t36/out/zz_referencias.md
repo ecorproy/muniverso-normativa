@@ -180,6 +180,8 @@ Procuraduría General de la República. (2026, 28 de enero). *Dictamen C-026-202
 
 Sala Constitucional de la Corte Suprema de Justicia. (1999, 14 de julio). *Voto N.° 1999-005445, de las 14:30 horas* (expediente 94-000757-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-158355
 
+Sala Constitucional de la Corte Suprema de Justicia. (2009, 27 de febrero). *Voto N.° 2009-003369, de las 12:41 horas* (expediente 08-015027-0007-CO). NexusPJ.
+
 Sala Constitucional de la Corte Suprema de Justicia. (2010, 30 de julio). *Voto N.° 2010-012783, de las 8:51 horas* (expediente 10-005131-0007-CO). NexusPJ.
 
 Sala Constitucional de la Corte Suprema de Justicia. (2026, 5 de junio). *Voto N.° 2026-020272, de las 9:30 horas* (expediente 26-008895-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1401436

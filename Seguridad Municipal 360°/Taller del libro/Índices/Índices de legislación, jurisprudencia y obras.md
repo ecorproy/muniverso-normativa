@@ -441,6 +441,7 @@ Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas ref
 - Voto N.° 2008-016885: temas 1, 2, 27, 29, 30.
 - Voto N.° 2008-017231: capítulo 1; temas 5, 8.
 - Voto N.° 2009-000494: temas 9, 28.
+- Voto N.° 2009-003369: temas 18, 27, 36.
 - Voto N.° 2009-008031: tema 1.
 - Voto N.° 2009-015920: tema 7.
 - Voto N.° 2010-001664: temas 2, 7.

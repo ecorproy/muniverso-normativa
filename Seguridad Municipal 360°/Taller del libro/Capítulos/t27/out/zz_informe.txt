@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 39 | OK: 39
+CITAS TEXTUALES: 41 | OK: 41
 
 UBICACIONES VERIFICADAS A MANO (4):
   [t27.md] T:2011-000123:considerando I: "en pleno ejercicio de la autonomía municipal" (segmentador: [])
