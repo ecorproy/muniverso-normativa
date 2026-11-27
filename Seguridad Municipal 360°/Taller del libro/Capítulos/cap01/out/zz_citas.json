@@ -218,6 +218,20 @@
  },
  {
   "archivo": "cap01.md",
+  "palabras": 6,
+  "fuente": "V:2026-014917:considerando XXII",
+  "estado": "OK",
+  "cita": "un déficit estructural de tutela efectiva"
+ },
+ {
+  "archivo": "cap01.md",
+  "palabras": 16,
+  "fuente": "V:2026-014917:considerando XXII",
+  "estado": "OK",
+  "cita": "la suma de actuaciones parciales no alcanza el estándar exig"
+ },
+ {
+  "archivo": "cap01.md",
   "palabras": 22,
   "fuente": "Sheldrake, 2020 | , capítulo 1",
   "estado": "SIN FUENTE LOCAL",

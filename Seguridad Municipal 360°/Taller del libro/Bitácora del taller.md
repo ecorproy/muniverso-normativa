@@ -2027,3 +2027,40 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Puede hacerse con las fuentes actuales: A1 a A10.
 - Necesita fuentes nuevas o una decisión del autor: B1 a B5.
 - Todavía no hay cambios en el texto.
+
+## 27 de noviembre de 2026: respuesta al dictamen crítico, puntos A1 a A10 (Word final66)
+
+- A1. Introducción: sección nueva, «Lo que este libro sostiene», con siete tesis y el lugar donde se demuestra cada una.
+- A2. Capítulo 3: sección nueva, «Lo que ya estaba dicho y lo que el libro agrega». Reconoce como antecedentes:
+  - los votos 1997-006469 y 1999-005445 y la Procuraduría;
+  - la LGAP, art. 113;
+  - la seguridad humana (Naciones Unidas, 2016, p. 6);
+  - las Leyes 2166 y 10159;
+  - Leiva (2016, p. 11).
+  - Lo propio del libro se resume en cinco operaciones.
+- A3. Capítulo 3: sección nueva, «Tres casos difíciles y un límite», contra la fórmula del voto 2006-017907:
+  - la persona en situación de calle (CM, art. 71);
+  - las becas con nacionalidad o residencia (voto 2003-007806, transcrito en el 2024-029734);
+  - la competencia ajena en el caso del Tempisque (voto 2026-014917, cons. XVIII y voto salvado, cons. XXVI);
+  - el límite: el dictamen C-287-2024 sobre el 9-1-1.
+- A4. Capítulo 3: la simetría de nueve temas es una decisión de orden; se reconocen otras clasificaciones posibles.
+- A5. Capítulo 1, «Cómo muere la red»: el corte y el «déficit estructural de tutela efectiva» del voto 2026-014917, cons. XXII.
+- A6. Conclusión: un indicador verificable para cada una de las seis formas, con remisión al anexo A.
+- A7. Capítulo 4: tres niveles (meta individual, resultado de la dependencia e impacto en la población), con la LGAP, arts. 190 y 199.
+- A8. Anexo A: matriz de los 36 temas con lo que hoy se mide, lo que queda sin medir y el indicador propuesto. Es elaboración propia a partir de «Lo que hoy se mide».
+- A9. Anexo B: protocolo de aplicación en cuatro pasos (CM, arts. 13 y 17, inciso a; Ley 10159, art. 28).
+- A10. Tema 1, «El veinte por ciento»:
+  - el convenio con el Ministerio es la prueba idónea, no la única; también sirven un plan o un acta firmados con la autoridad de salud;
+  - las partidas computables quedan a la determinación conjunta y al control de la Contraloría.
+- Cotejo:
+  - cap01: 51/20 (antes 49/18);
+  - cap03: 93/90 (antes 84/81);
+  - cap04: 157/129;
+  - conclusión: 26/26;
+  - t01: 30/30;
+  - anexos: 2/2.
+  - Las citas nuevas cotejan todas.
+- Repositorio: carpeta nueva `Capítulos/anexos`. El unido de t01 estaba desactualizado (le faltaba «Con qué se paga») y quedó al día.
+- Índices: se agregaron las remisiones de Ley 10159 y Ley 7794 (anexos), del voto 2026-014917 (caps. 1 y 3), del voto 2024-029734 (cap. 3) y de Naciones Unidas (cap. 3).
+- Word final66: 1306 páginas en el PDF renderizado. Docs actualizado, con la pestaña nueva «Anexos» (orden d2).
+- Pendientes que necesitan fuentes del autor: B1 a B5 del plan.

@@ -52,19 +52,19 @@ La sexta es que lo que hoy se mide no siempre coincide con lo que importa. La me
 
 El capítulo 1 describió seis formas en que muere la red. Leídas al final del libro, sirven para diagnosticar a cualquier municipalidad, sin importar el servicio que se examine. Cada una se convierte en una pregunta.
 
-La captura pregunta quién recibe sin dar. Es la red de Vermissa, donde los tributos extorsionan, la obra pública se abandona y la policía protege al que manda.
+La captura pregunta quién recibe sin dar. Es la red de Vermissa, donde los tributos extorsionan, la obra pública se abandona y la policía protege al que manda. Se mide, por ejemplo, por la proporción de contrataciones adjudicadas a los mismos oferentes y por las obras pagadas que no se concluyen.
 
-El corte pregunta dónde se cae el expediente. Es el paso de una oficina a otra, el traslado que nadie recibe, el camino intransitable que deja a una comunidad sin escuela y sin EBAIS al mismo tiempo.
+El corte pregunta dónde se cae el expediente. Es el paso de una oficina a otra, el traslado que nadie recibe, el camino intransitable que deja a una comunidad sin escuela y sin EBAIS al mismo tiempo. Se mide por los traslados entre oficinas o instituciones que no reciben respuesta y por los días que pasa un expediente entre una y otra.
 
-El desgaste pregunta qué no se está renovando. Es la flotilla sin mantenimiento que un día deja de recoger la basura.
+El desgaste pregunta qué no se está renovando. Es la flotilla sin mantenimiento que un día deja de recoger la basura. Se mide por la antigüedad de la flotilla y del equipo frente a su vida útil, y por los mantenimientos programados que no se hicieron.
 
-El envenenamiento pregunta qué mala práctica se volvió costumbre. Es la verificación que se agota en un cotejo de requisitos formales, el reclamo que se contesta con un acuse de recibo.
+El envenenamiento pregunta qué mala práctica se volvió costumbre. Es la verificación que se agota en un cotejo de requisitos formales, el reclamo que se contesta con un acuse de recibo. Se mide por los reclamos cerrados con un acuse de recibo y por las verificaciones que no incluyen una visita al lugar.
 
-La sustitución pregunta qué hace otro por la municipalidad. Es la competencia que no se ejerce y que, a fuerza de no ejercerse, prepara su traslado.
+La sustitución pregunta qué hace otro por la municipalidad. Es la competencia que no se ejerce y que, a fuerza de no ejercerse, prepara su traslado. Se mide por los servicios del cantón que presta otra institución sin convenio y por las órdenes judiciales que obligaron a actuar.
 
-El acaparamiento pregunta qué información o qué recurso queda retenido en un punto. Es la sesión que no se transmite, el dato que no se publica.
+El acaparamiento pregunta qué información o qué recurso queda retenido en un punto. Es la sesión que no se transmite, el dato que no se publica. Se mide por las sesiones no transmitidas, las actas publicadas fuera de plazo y los datos que la municipalidad produce y no publica.
 
-Las seis preguntas tienen una séptima detrás: qué fragmento sigue vivo. La red se regenera desde un fragmento, y en los casos del libro ese fragmento fue casi siempre una persona: el padre de Heredia que durante tres años mandó denuncias con fotografías, la vecina que mostró el impacto de bala en su ventana, el vecino de Tibás que escribió una y otra vez por el parque de su barrio.
+Los indicadores son una propuesta; el anexo A los completa tema por tema. Las seis preguntas tienen una séptima detrás: qué fragmento sigue vivo. La red se regenera desde un fragmento, y en los casos del libro ese fragmento fue casi siempre una persona: el padre de Heredia que durante tres años mandó denuncias con fotografías, la vecina que mostró el impacto de bala en su ventana, el vecino de Tibás que escribió una y otra vez por el parque de su barrio.
 
 ## Volver a las dos personas
 

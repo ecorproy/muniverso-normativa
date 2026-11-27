@@ -28,6 +28,8 @@ Ley N.° 8801, *Ley General de transferencia de competencias del Poder Ejecutivo
 
 Ley N.° 10159, *Ley Marco de Empleo Público*. (2022). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=96521&param2=145804&param3=1
 
+Naciones Unidas, Dependencia de Seguridad Humana. (2016). *Manual de seguridad humana: Un enfoque integrado para la consecución de los Objetivos de Desarrollo Sostenible y los ámbitos de acción prioritarios de la comunidad internacional y el sistema de las Naciones Unidas*. Naciones Unidas.
+
 Procuraduría General de la República. (2013, 11 de febrero). *Dictamen C-015-2013*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=17915&param2=0
 
 Procuraduría General de la República. (2022, 3 de junio). *Dictamen C-125-2022*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23433&param2=0
@@ -47,6 +49,10 @@ Sala Constitucional de la Corte Suprema de Justicia. (2003, 7 de octubre). *Voto
 Sala Constitucional de la Corte Suprema de Justicia. (2006, 12 de diciembre). *Voto N.° 2006-017907, de las 17:09 horas* (expediente 06-013514-0007-CO). NexusPJ.
 
 Sala Constitucional de la Corte Suprema de Justicia. (2011, 16 de noviembre). *Voto N.° 2011-015763, de las 9:46 horas* (expediente 11-006691-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-530701
+
+Sala Constitucional de la Corte Suprema de Justicia. (2024, 9 de octubre). *Voto N.° 2024-029734, de las 12:30 horas* (expediente 23-011056-0007-CO). NexusPJ.
+
+Sala Constitucional de la Corte Suprema de Justicia. (2026, 28 de abril). *Voto N.° 2026-014917, de las 9:20 horas* (expediente 26-004800-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1384798
 
 Sala Primera de la Corte Suprema de Justicia. (2006, 25 de mayo). *Resolución N.° 000308-F-2006, de las 10:30 horas* (expediente 00-000717-0163-CA). NexusPJ.
 

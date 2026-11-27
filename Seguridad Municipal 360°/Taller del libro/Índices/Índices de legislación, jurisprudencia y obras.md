@@ -90,7 +90,7 @@ Cada norma remite a los capítulos y temas en cuyas referencias aparece.
 - Ley N.° 7779, Uso, Manejo y Conservación de Suelos (1998): temas 1, 30.
 - Ley N.° 7786, Ley sobre estupefacientes, sustancias psicotrópicas, drogas de uso No Autorizado, actividades Conexas, legitimación de capitales y financiamiento al terrorismo (1998): tema 7.
 - Ley N.° 7788, Ley de Biodiversidad (1998): tema 30.
-- Ley N.° 7794, Código Municipal (1998): introducción; capítulos 1, 2, 3, 4; temas 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36; conclusión.
+- Ley N.° 7794, Código Municipal (1998): introducción; capítulos 1, 2, 3, 4; temas 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36; conclusión; anexos.
 - Ley N.° 7800, Crea Instituto del Deporte y Recreación (ICODER) y su Régimen Jurídico (1998): temas 1, 35.
 - Ley N.° 7801, Ley del Instituto Nacional de las Mujeres (1998): temas 11, 26.
 - Ley N.° 7935, Ley Integral para la Persona Adulta Mayor (1999): temas 13, 23, 25, 26, 32.
@@ -173,7 +173,7 @@ Cada norma remite a los capítulos y temas en cuyas referencias aparece.
 - Ley N.° 10126, Ley de comercio al aire libre (2022): temas 18, 27, 36.
 - Ley N.° 10141, Servicio municipal de atención de animales de compañía (2022): temas 1, 31, 36.
 - Ley N.° 10158, Consolidación del Centro Operativo de atención a la violencia intrafamiliar y la Violencia contra las Mujeres (COAVIFMU) y declaratoria de los servicios de atención de la violencia contra las mujeres como servicio esencial (2022): tema 26.
-- Ley N.° 10159, Ley Marco de Empleo Público (2022): capítulos 3, 4; temas 2, 18, 20, 24, 25; conclusión.
+- Ley N.° 10159, Ley Marco de Empleo Público (2022): capítulos 3, 4; temas 2, 18, 20, 24, 25; conclusión; anexos.
 - Ley N.° 10163, Ley para el fortalecimiento de facilidades comunales y programas sociales municipales (2022): tema 23.
 - Ley N.° 10192, Creación del Sistema Nacional de Cuidados y Apoyos para Personas Adultas y Personas Adultas Mayores en Situación de Dependencia (Sinca) (2022): temas 9, 25.
 - Ley N.° 10199, Ley de vivienda municipal (2022): temas 19, 32.
@@ -503,7 +503,7 @@ Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas ref
 - Voto N.° 2024-021998: temas 19, 20.
 - Voto N.° 2024-023302: tema 17.
 - Voto N.° 2024-024858: tema 30.
-- Voto N.° 2024-029734: tema 12.
+- Voto N.° 2024-029734: capítulo 3; tema 12.
 - Voto N.° 2024-032380: tema 6.
 - Voto N.° 2024-032554: temas 2, 7.
 - Voto N.° 2024-035187: tema 15.
@@ -538,7 +538,7 @@ Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas ref
 - Voto N.° 2026-014326: temas 17, 30.
 - Voto N.° 2026-014377: capítulo 1; temas 11, 20.
 - Voto N.° 2026-014801: tema 24.
-- Voto N.° 2026-014917: temas 6, 15, 30, 34; conclusión.
+- Voto N.° 2026-014917: capítulos 1, 3; temas 6, 15, 30, 34; conclusión.
 - Voto N.° 2026-015340: temas 17, 30.
 - Voto N.° 2026-016165: capítulo 1; temas 10, 22, 33.
 - Voto N.° 2026-018928: tema 4.
@@ -943,7 +943,7 @@ Doctrina, informes y documentos institucionales que no son normas ni resolucione
 - Medina León, A., Nogueira Rivera, D., & Hernández Nariño, A. (2009). Relevancia de la gestión por procesos en la planificación estratégica y la mejora continua. Eídos, (2), 65-72: capítulo 4.
 - Ministerio de Planificación Nacional y Política Económica. (2025). Índice cantonal de desarrollo sostenible – Agenda 2030: 2020-2022. https://biblioteca.mideplan.go.cr: temas 6, 36
 - Municipalidad de San José. (2016, 21 de octubre). V Congreso Jurídico Municipal “Dr. Mauro Murillo Arias”. https://munimsj.wordpress.com/2016/10/21/v-congreso-juridico-municipal-dr-mauro-murillo-arias/: introducción
-- Naciones Unidas, Dependencia de Seguridad Humana. (2016). Manual de seguridad humana: Un enfoque integrado para la consecución de los Objetivos de Desarrollo Sostenible y los ámbitos de acción prioritarios de la comunidad internacional y el sistema de las Naciones Unidas. Naciones Unidas: capítulo 1.
+- Naciones Unidas, Dependencia de Seguridad Humana. (2016). Manual de seguridad humana: Un enfoque integrado para la consecución de los Objetivos de Desarrollo Sostenible y los ámbitos de acción prioritarios de la comunidad internacional y el sistema de las Naciones Unidas. Naciones Unidas: capítulos 1, 3.
 - Observatorio de la Violencia. (2026). Índice Cantonal de Seguridad Ciudadana 2025: resumen metodológico y resultados: temas 4, 26
 - Organización Panamericana de la Salud. (s. f.). [Resumen del documento de referencia técnico sobre salud y seguridad humana]. https://www.paho.org/sites/default/files/D37404-PAHO-ExecutiveSummary-Spn-WEB.pdf: capítulo 1.
 - Pérez Hernández, L., Tabares Neyra, L. M. y Díaz Legón, O. J. (2019). Lo local –municipal– como espacio de desarrollo en Cuba. Notas para el perfeccionamiento del régimen jurídico de la administración local. Universidad de La Habana, (287), 135-160: capítulo 2.

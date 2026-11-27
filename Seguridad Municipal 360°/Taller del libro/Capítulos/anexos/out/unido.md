@@ -1,0 +1,68 @@
+# Anexos
+
+## Anexo A. Lo exigible, lo que hoy se mide y la brecha
+
+Cada tema del libro termina con una sección, *Lo que hoy se mide*, que compara el deber jurídico del tema con los instrumentos públicos que evalúan a las municipalidades. Esta matriz reúne esas treinta y seis comparaciones en una sola vista. La segunda columna resume lo que examinan hoy, sobre todo, el Índice de Gestión de Servicios Municipales de la Contraloría y su tabla de datos. La tercera, lo que el deber exige y ningún instrumento registra. La cuarta, un indicador para cerrar la brecha; casi siempre es el que sugiere el propio tema. Las fuentes de cada fila están citadas en el tema respectivo.
+
+| Tema | Lo que hoy se mide | Lo que queda sin medir | Indicador propuesto |
+|---|---|---|---|
+| 1. Salud física | La recolección de residuos y el agua potable, agrupados como salubridad pública; el alcantarillado pluvial, como desarrollo urbano. | El porcentaje de las entradas anuales destinado a servicios de salud que la ley ordena. | Porcentaje ejecutado en salud según necesidades acordadas con el Ministerio de Salud, con el documento que lo acredita. |
+| 2. Salud mental | Si los programas sociales están reglamentados, planificados y evaluados. | La participación en las instancias de salud mental y prevención del suicidio, y la capacitación del personal. | Personas atendidas y referidas, personal capacitado y participación en la instancia local de prevención. |
+| 3. Alimentación | Nada específico; los mercados solo aparecen dentro del plan regulador. | Las ferias y su espacio, el estado del mercado y las compras a productores del cantón. | Ferias funcionando, puestos ocupados y con permiso sanitario, y compras municipales a productores locales. |
+| 4. Integridad personal y de bienes | Si existen la policía municipal y la vigilancia electrónica, su reglamento, su cobertura por distrito y la capacitación. | Las aprehensiones, las quejas por trato o uso de la fuerza y la atención de riesgos en el espacio público. | Aprehensiones que terminan sin cargos, quejas resueltas y tiempo de respuesta a denuncias de riesgo. |
+| 5. Seguridad vial | El estado de rutas, puentes y aceras, los inventarios y la ejecución de recursos. | El tiempo entre la denuncia de un peligro vial y su corrección. | Días entre la denuncia y la reparación, por tramo. |
+| 6. Emergencias y desastres | Nada como servicio; solo los recursos para emergencias en el presupuesto. | El cumplimiento de los informes de la Comisión Nacional de Emergencias y su plazo. | Informes recibidos y cumplidos con fecha, permisos denegados por riesgo y construcciones en riesgo clausuradas. |
+| 7. Adicciones | El plazo para otorgar la licencia comercial. | La vigilancia posterior de los negocios con licencia de licores. | Inspecciones, denuncias tramitadas con su plazo y licencias revocadas. |
+| 8. Personas en situación de calle | Si los programas sociales tienen reglamento y si se estudiaron las poblaciones vulnerables. | Cuántas personas duermen en la calle y cuántos cupos de albergue hay. | Personas en situación de calle por cantón, cupos de albergue e intervenciones que terminan en referencia y no en expulsión. |
+| 9. Final de la vida | Nada; los cementerios no están entre los servicios evaluados. | Los nichos disponibles y reservados, y los derechos extinguidos. | Años de espacio que le quedan al cementerio, uso de la reserva y extinciones notificadas. |
+| 10. Igualdad y no discriminación | Si se identifica a la población vulnerable por pobreza, edad, género y ubicación. | Las exclusiones por condiciones que la lista no recoge. | Reglamentos revisados para eliminar requisitos discriminatorios y quejas por discriminación resueltas. |
+| 11. Igualdad de género | La variable de género en algunos servicios y la reglamentación de la oficina de la mujer. | La política de igualdad misma, que el informe de labores debe rendir. | Resultados de la política en el informe anual, personal y presupuesto de la oficina de la mujer. |
+| 12. Personas migrantes y refugiadas | La población vulnerable, sin incluir nacionalidad ni condición migratoria. | Los reglamentos que exigen nacionalidad o residencia. | Reglamentos de becas, ayudas y licencias que exigen nacionalidad, y solicitudes rechazadas por ese motivo. |
+| 13. Trato y trámites ante la Municipalidad | Los trámites críticos para invertir, su publicación y el plazo de la licencia. | El trato y los trámites de quien no invierte. | Plazo de respuesta a reclamos y solicitudes de cualquier persona, y resoluciones por silencio positivo. |
+| 14. Información y transparencia | Los canales con que se informa de los programas. | Las actas, la transmisión de las sesiones y el plazo de respuesta a las solicitudes de información. | Actas publicadas, sesiones transmitidas y días de respuesta a cada solicitud. |
+| 15. Participación | La evaluación de la calidad del servicio por quien lo usa. | Las audiencias, las consultas y la parte del presupuesto que se decide con los distritos. | Audiencias realizadas, observaciones respondidas y presupuesto decidido con los distritos. |
+| 16. Intimidad y datos personales | Si existe un reglamento de vigilancia tecnológica. | Quién ve las imágenes, cuánto se guardan y cómo las pide la persona grabada. | Protocolo de acceso, solicitudes de grabaciones resueltas en plazo y reglas para drones. |
+| 17. Acceso digital | Si tres trámites críticos están digitalizados. | La vía presencial para quien no tiene conexión y la accesibilidad de los canales. | Trámites con vía presencial conservada, sesiones transmitidas y canales accesibles para personas con discapacidad. |
+| 18. Trabajo y sustento | El plazo de la licencia comercial. | La patente ambulante, el estudio social, los traslados y los decomisos. | Patentes ambulantes otorgadas, titulares que pasaron a empleo estable y decomisos resueltos. |
+| 19. Familia | Los programas sociales: reglamento, planificación, cobertura por distrito y ejecución. | Los hogares efectivamente atendidos y el tiempo de resolución. | Hogares atendidos y días entre la solicitud y la resolución. |
+| 20. Maternidad y primera infancia | El reglamento de los programas sociales y la identificación de niños de cero a once años. | La cobertura del cuido y la calidad entre unidades. | Cobertura del cuido por distrito, lista de espera y cupos ocupados. |
+| 21. Niñez | El estado de parques y juegos, y la identificación de la niñez como población vulnerable. | Las transferencias a las juntas de educación, el censo de niños que trabajan y la capacitación en violencia. | Transferencias hechas, censo levantado, personal capacitado y distancia de los parques a los barrios. |
+| 22. Adolescencia y juventud | La identificación de adolescentes como población vulnerable. | El comité de la persona joven, sus recursos y la consulta sobre espacios públicos. | Comité conformado en plazo, recursos ejecutados y consultas realizadas. |
+| 23. Personas adultas mayores | La identificación de las personas mayores como población vulnerable. | La ventanilla preferencial, la accesibilidad, la oficina y las exenciones. | Exenciones concedidas con su plazo y personas atendidas por la oficina. |
+| 24. Personas con discapacidad | El inventario de rampas y la proporción de rampas existentes. | El edificio accesible, la comisión de accesibilidad y la revisión de permisos. | Permisos revisados con criterios de accesibilidad y quejas resueltas en plazo. |
+| 25. Cuido | La planificación de los servicios sociales. | La dependencia y la persona cuidadora. | Lista de espera, tiempo en ella y personas cuidadoras atendidas. |
+| 26. Violencia doméstica | Si los programas sociales están reglamentados. | Si la mujer que llamó fue atendida; la tasa cantonal ya se calcula en otro índice. | Mujeres atendidas en crisis, escala de riesgo aplicada y referencias a albergue. |
+| 27. Convivencia vecinal | El plazo de la licencia y los convenios de seguridad. | La vigilancia posterior del ruido y la mediación. | Inspecciones posteriores a la licencia, denuncias de ruido resueltas y mediaciones. |
+| 28. Agua y saneamiento | La gestión del alcantarillado pluvial y su nivel de madurez. | La solución material: inundaciones, aguas negras y plazos. | Inundaciones por año, días entre denuncia y solución, y eficiencia del acueducto municipal. |
+| 29. Residuos y limpieza | El aprovechamiento de lo recolectado, la tasa y la cobertura por distrito. | La continuidad del servicio y la respuesta a la denuncia. | Días sin recolección por sector, cobertura por distrito y plazo de atención de denuncias. |
+| 30. Ambiente y arbolado | Casi nada; la zona marítimo terrestre como servicio. | Las denuncias ambientales y el inventario del arbolado. | Denuncias resueltas, inventario público del arbolado y árboles en riesgo atendidos. |
+| 31. Animales | Nada; no hay un servicio dedicado a los animales. | La matrícula, el albergue, las adopciones y los pasos de fauna. | Animales castrados y registrados, adopciones y pasos de fauna instalados. |
+| 32. Vivienda | El plazo del permiso de construcción, el uso de suelo y la cobertura del plan regulador. | La vivienda como servicio municipal. | Estado del plan regulador y plazo de los permisos para vivienda de interés social. |
+| 33. Espacio público y movilidad | El inventario y el estado de aceras y rampas. | La fecha: cuánto tarda en corregirse la acera denunciada. | Días entre la denuncia y la corrección de la acera, y metros accesibles por distrito. |
+| 34. Cultura y patrimonio | La reglamentación, la coordinación con el sector cultura y la satisfacción de las personas usuarias. | El patrimonio cultural del cantón. | Bienes con valor patrimonial inventariados y consultas previas a una demolición. |
+| 35. Deporte y recreación | La planificación, la cobertura y la ejecución de los servicios deportivos. | La transferencia del tres por ciento al comité cantonal. | Porcentaje transferido al comité y programas deportivos ejecutados por distrito. |
+| 36. Economía local y reparto de la riqueza | La agilidad de la licencia comercial. | La diferencia entre el pequeño, el grande y la actividad de subsistencia. | Licencias negadas por tipo de solicitante y actividades de subsistencia atendidas. |
+
+Fuente: elaboración propia a partir de la sección *Lo que hoy se mide* de cada tema.
+
+Leída de arriba abajo, la matriz muestra una regularidad. Los instrumentos vigentes comprueban sobre todo que un servicio existe, que está reglamentado y que su trámite es ágil. La tercera columna repite, con otras palabras, la pregunta de este libro: qué recibió la persona y en cuánto tiempo. Por eso los indicadores de la cuarta columna cuentan productos recibidos, plazos y personas atendidas, y casi todos salen de registros que la municipalidad ya lleva o que la ley le manda llevar.
+
+## Anexo B. Cómo aplicar el modelo en una municipalidad
+
+El modelo se aplica en cuatro pasos. Ninguno requiere crear órganos nuevos, porque cada paso descansa en una competencia que la municipalidad ya tiene.
+
+El primer paso es el diagnóstico general. Con las seis preguntas de la conclusión, la municipalidad examina cada servicio: quién recibe sin dar, dónde se cae el expediente, qué no se está renovando, qué mala práctica se volvió costumbre, qué hace otro por ella y qué información o recurso queda retenido. A cada respuesta le asigna el indicador que la conclusión propone para esa forma de muerte de la red.
+
+El segundo paso es la revisión tema por tema. Cada uno de los treinta y seis temas trae un recurso, *Revise en su municipalidad*, con las preguntas que permiten saber si el deber del tema se cumple en el cantón. La revisión deja una lista de deberes cumplidos, incumplidos y no verificados, y señala en cuáles la competencia es propia, compartida o ajena.
+
+El tercer paso es la selección de indicadores. De la matriz del anexo A, la municipalidad escoge los indicadores que corresponden a los deberes incumplidos o no verificados. Cada indicador debe tener un responsable, una fuente de datos y una periodicidad, y su meta se asigna a la dependencia que presta el servicio, como lo exige la evaluación por productos y servicios (Ley N.° 10159, 2022, art. 28).
+
+El cuarto paso es la decisión y el seguimiento. Al Concejo le corresponde "Fijar la política y las prioridades de desarrollo del municipio" (Ley N.° 7794 [CM], 1998, art. 13), y puede adoptar los indicadores como parte de esa política. A la persona titular de la alcaldía le toca vigilar "la organización, el funcionamiento, la coordinación y el fiel cumplimiento de los acuerdos municipales" (CM, art. 17, inciso a). El informe anual de labores es el lugar natural para rendir cuentas de esos indicadores ante el Concejo y la comunidad.
+
+La primera aplicación puede ser parcial. Un cuadrante, o incluso un solo tema, basta para comprobar si el modelo detecta en ese cantón lo que el libro dice que detecta, y para corregirlo si no lo hace.
+
+## Referencias
+
+Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40197&param2=152716&param3=1
+
+Ley N.° 10159, *Ley Marco de Empleo Público*. (2022). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=96521&param2=145804&param3=1

@@ -89,6 +89,10 @@ Fecha: 27 de noviembre de 2026. Dictamen evaluado: «publicable con revisiones a
 - **B4. Criterios de la Contraloría sobre el 20 % del art. 55 de la Ley 5412.** No hay en el repositorio dictamen ni oficio sobre las partidas computables.
 - **B5. Investigación empírica propia o piloto.** El dictamen da 50 a la investigación empírica. La única respuesta real es aplicar el protocolo A9 en una municipalidad (por ejemplo, Escazú) y reportar resultados. Requiere decisión y autorización del autor, y no es indispensable para publicar un tratado doctrinal.
 
+## Estado (27 de noviembre de 2026)
+- Aplicados A1 a A10 en Word final66, Docs y repositorio. Detalle en la bitácora.
+- Pendientes: B1 a B5, que necesitan fuentes o una decisión del autor.
+
 ## C. Orden sugerido
 
 1. A1 y A2: bajo costo; cambian la percepción de novedad.

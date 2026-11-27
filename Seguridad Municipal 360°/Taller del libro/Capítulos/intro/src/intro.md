@@ -22,6 +22,26 @@ En aquel congreso, Leiva advirtió que buscar una definición general de lo loca
 
 Diez años después, aquella pregunta tiene una respuesta más larga de lo que imaginé ese día, y esa respuesta es este libro. Para recorrerla conviene ver primero el mapa.
 
+## Lo que este libro sostiene
+
+Antes del viaje conviene decir adónde lleva. El libro reúne mucha legislación, jurisprudencia y criterios administrativos, pero no los reúne para repetirlos. Los usa para sostener siete tesis, que el lector puede comprobar en el lugar donde cada una se demuestra.
+
+La primera es que lo local se define por la persona y no por el territorio ni por la oficina: es lo que importa de manera directa e inmediata a quien habita el cantón o se encuentra en él (capítulo 3).
+
+La segunda es que las personas del cantón no son solo las vecinas residentes. El municipio lo forman los vecinos, pero los servicios locales tienen como destinatarias potenciales a todas las personas que están en el cantón, incluidas las que viven en sus calles (capítulo 3 y tema 8).
+
+La tercera es que la competencia ajena no libera. Cuando la necesidad corresponde a otra institución, el deber municipal se convierte en coordinar, instar y llevar a la persona hasta ella (capítulo 2 y tema 30).
+
+La cuarta es que la escasez no excusa. La falta de recursos no justifica dejar de prestar un servicio; lo exigible es prever (capítulo 4 y conclusión).
+
+La quinta es que el servicio se cumple cuando llega. La evaluación por productos y servicios que exige la ley de empleo público se lee desde lo que recibe la persona, no desde la actividad de la oficina (capítulo 4).
+
+La sexta es que las fallas de la acción municipal tienen formas reconocibles. Las seis formas en que muere una red, captura, corte, desgaste, envenenamiento, sustitución y acaparamiento, sirven para diagnosticar cualquier servicio (capítulo 1 y conclusión).
+
+La séptima es que lo que hoy se mide no coincide con lo que es exigible. Cada tema compara el deber jurídico con los instrumentos que evalúan a las municipalidades, y el anexo A reúne esas treinta y seis brechas en una sola matriz.
+
+Ninguna de esas tesis parte de cero. El capítulo 3 dice qué estaba ya dicho por la Sala Constitucional, la Procuraduría, la ley y la doctrina, y qué agrega este libro.
+
 ## El mapa del viaje
 
 Este libro se lee como un viaje. Empieza bajo el suelo del cantón y termina frente a una persona, en la puerta de su casa. Tiene seis estaciones, y en cada una el lector recoge algo que va a necesitar en la siguiente.

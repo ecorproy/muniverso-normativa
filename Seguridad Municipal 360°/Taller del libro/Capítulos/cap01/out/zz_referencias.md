@@ -68,6 +68,8 @@ Sala Constitucional de la Corte Suprema de Justicia. (2026, 21 de abril). *Voto 
 
 Sala Constitucional de la Corte Suprema de Justicia. (2026, 24 de abril). *Voto N.° 2026-014377, de las 9:20 horas* (expediente 26-006556-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1381340
 
+Sala Constitucional de la Corte Suprema de Justicia. (2026, 28 de abril). *Voto N.° 2026-014917, de las 9:20 horas* (expediente 26-004800-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1384798
+
 Sala Constitucional de la Corte Suprema de Justicia. (2026, 7 de mayo). *Voto N.° 2026-016165, de las 9:30 horas* (expediente 26-006533-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1386807
 
 Sala Constitucional de la Corte Suprema de Justicia. (2026, 10 de julio). *Voto N.° 2026-025649, de las 9:25 horas* (expediente 26-008958-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1409623

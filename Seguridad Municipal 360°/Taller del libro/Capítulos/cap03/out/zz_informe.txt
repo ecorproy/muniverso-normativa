@@ -1,19 +1,21 @@
-CITAS TEXTUALES: 84 | OK: 81
+CITAS TEXTUALES: 93 | OK: 90
   [cap03.md] 14p | Sheldrake, 2020 | , capítulo 2 | SIN FUENTE LOCAL | "las hifas están divididas en compartimentos por poros, que p"
   [cap03.md] 15p | Sheldrake, 2020 | , capítulo 3 | SIN FUENTE LOCAL | "desde el parasitismo en un polo a las relaciones de benefici"
   [cap03.md] 6p | Sheldrake, 2020 | , capítulo 8 | SIN FUENTE LOCAL | "un continuum de mutualismo a parasitismo"
 
-UBICACIONES VERIFICADAS A MANO (6):
+UBICACIONES VERIFICADAS A MANO (7):
   [cap03.md] V:1999-005445:considerando VI: "sólo mediante una ley de nacionalización o de regi" (segmentador: ['RESULTANDO', 'IV'])
   [cap03.md] D:C-287-2024:apartado II: "es el legislador y el juez quienes definen lo 'loc" (segmentador: ['V'])
   [cap03.md] D:C-287-2024:apartado II: "Lo local y lo nacional no puede ni debe ser objeto" (segmentador: ['V'])
   [cap03.md] D:C-195-2024:apartado I: "en resguardo y tutela de los derechos fundamentale" (segmentador: ['II'])
   [cap03.md] D:C-195-2024:apartado I: "en forma oportuna y adecuada" (segmentador: ['II'])
   [cap03.md] V:1999-005445:considerando VI: "si la municipalidad está o no en capacidad real y " (segmentador: ['RESULTANDO', 'IV'])
+  [cap03.md] VT:2003-007806:2024-029734:considerando III: "una condición ilegítima de exclusión de la adjudic" (segmentador: ['RESULTANDO', 'VII'])
 
 ERRORES (0):
 
 AVISOS (0):
 
-NOTAS DE VOCABULARIO (1):
+NOTAS DE VOCABULARIO (2):
   [cap03.md] vocabulario «potenci»: … servicios locales tienen como destinatarias potenciales a todas las personas que habitan …
+  [cap03.md] vocabulario «potenci»: …a distingue dos cosas: quién es destinatario potencial del servicio, que es toda persona d…
