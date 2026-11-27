@@ -4,6 +4,8 @@ Constitución Política de la República de Costa Rica. (1949). Asamblea Naciona
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
 
+Contraloría General de la República. (2025). *Tabla de datos del Índice de Gestión de Servicios Municipales 2025* [Hoja de cálculo publicada en el sitio del IGSM 2025]. https://sites.google.com/cgr.go.cr/igsm/panorama-general
+
 Decreto Ejecutivo N.° 40137, *Reglamento a la Primera Ley Especial para la Transferencia de Competencias: Atención Plena y Exclusiva de la Red Vial Cantonal*. (2016). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=83583&param2=149263&param3=1
 
 Ley N.° 2, *Código de Trabajo*. (1943). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=8045&param2=150791&param3=1

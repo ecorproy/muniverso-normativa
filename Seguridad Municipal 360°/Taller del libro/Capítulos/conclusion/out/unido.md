@@ -48,7 +48,7 @@ La cuarta es que cada deber necesita una fuente de dinero. Por eso cada tema pre
 
 La quinta es que la persona nunca está en un solo tema. La acera frente a una casa toca la discapacidad, la cultura, el ambiente, el trabajo, las emergencias y el presupuesto, como mostró el capítulo 1, y el parque de un barrio de Tibás apareció en cinco temas distintos. Una municipalidad que organiza sus servicios por departamentos estancos atiende pedazos de una persona que llega entera.
 
-La sexta es que lo que hoy se mide no siempre coincide con lo que importa. Los indicadores del Índice de Gestión de Servicios Municipales que examinan los temas comprueban a menudo que un servicio existe: un reglamento, un equipo, una partida. El Índice de Cumplimiento para la Mejora Pública de la Contraloría mide otra cosa: con qué eficacia y en qué plazo atiende la institución las disposiciones del órgano contralor (Contraloría General de la República [CGR], Índice de Cumplimiento para la Mejora Pública (ICM) 2026, 2026a, p. 1). Cumplir una disposición puede mejorar un servicio, pero el índice registra el cumplimiento. El libro pregunta además si el servicio llegó a alguien. La ley ya contiene esa pregunta, porque la evaluación de cada persona servidora se funda en "productos y servicios prestados" (Ley 10159, art. 28): el servicio se presta a alguien, y el producto es lo que esa persona recibe.
+La sexta es que lo que hoy se mide no siempre coincide con lo que importa. Los indicadores del Índice de Gestión de Servicios Municipales que examinan los temas comprueban a menudo que un servicio existe: un reglamento, un equipo, una partida. Cuando el índice pregunta por el alcance, la respuesta suele faltar: en 171 de los 491 distritos, la municipalidad no sabe qué cobertura tiene su recolección de residuos (Contraloría General de la República [CGR], tabla de datos del Índice de Gestión de Servicios Municipales 2025, 2025, hoja de distritos). El Índice de Cumplimiento para la Mejora Pública de la Contraloría mide otra cosa: con qué eficacia y en qué plazo atiende la institución las disposiciones del órgano contralor (CGR, Índice de Cumplimiento para la Mejora Pública (ICM) 2026, 2026a, p. 1). Cumplir una disposición puede mejorar un servicio, pero el índice registra el cumplimiento. El libro pregunta además si el servicio llegó a alguien. La ley ya contiene esa pregunta, porque la evaluación de cada persona servidora se funda en "productos y servicios prestados" (Ley 10159, art. 28): el servicio se presta a alguien, y el producto es lo que esa persona recibe.
 
 ## Seis preguntas para una municipalidad
 
@@ -89,6 +89,8 @@ La imagen final es la del principio. Debajo del cantón hay una red, y en cada c
 ## Referencias
 
 Constitución Política de la República de Costa Rica. (1949). Asamblea Nacional Constituyente. Sistema Costarricense de Información Jurídica.
+
+Contraloría General de la República. (2025). *Tabla de datos del Índice de Gestión de Servicios Municipales 2025* [Hoja de cálculo publicada en el sitio del IGSM 2025]. https://sites.google.com/cgr.go.cr/igsm/panorama-general
 
 Contraloría General de la República. (2026a). *Índice de Cumplimiento para la Mejora Pública (ICM) 2026* [Infografía metodológica]. Área de Seguimiento para la Mejora Pública. https://sites.google.com/cgr.go.cr/icm/icm2026/metodología-icm-2026
 

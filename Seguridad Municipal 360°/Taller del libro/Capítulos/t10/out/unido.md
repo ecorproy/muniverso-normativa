@@ -116,6 +116,8 @@ El Índice de Gestión de Servicios Municipales pregunta por la población vulne
 
 La comparación entre la definición y las variables es reveladora. La condición étnica figura en la definición y no entre las variables que se preguntan, y la discapacidad no figura en ninguna de las dos. En las fichas revisadas no aparecen las palabras indígena ni afrodescendiente. La accesibilidad se mide por las rampas de las aceras: si existe un inventario de su estado (IGSM, fichas, p. 62) y cuántas hay frente a las que debería haber (IGSM, fichas, p. 71). No se mide la accesibilidad de los edificios municipales ni la atención en lengua de señas. Una ficha pide informar los recursos de la red vial destinados a cada distrito, como indicador informativo sin puntaje (IGSM, fichas, p. 66), lo que permite ver el reparto entre distritos, pero no dentro de ellos. Un camino en la posición 57 de una red de 1074 no aparece en esas fichas, y solo se conoció porque la comunidad acudió a la Sala.
 
+Las respuestas de 2025 muestran cuánto falta aun con esas cuatro variables. En la recolección de residuos, 64 de las 84 municipalidades no tienen identificada a la población vulnerable con ninguna de ellas (CGR, tabla de datos del Índice de Gestión de Servicios Municipales 2025, 2025, hoja de municipalidades). Y la cobertura del servicio se conoce peor donde el desarrollo social es más bajo: la administración no cuenta con el dato de cobertura de la recolección en 40 de los 58 distritos de desarrollo muy bajo, y le falta solo en 10 de los 123 de mayor desarrollo (CGR, tabla de datos del Índice de Gestión de Servicios Municipales 2025, 2025, hoja de distritos). La desigualdad empieza por no saber a quién no se le está sirviendo.
+
 Una medición útil no tendría que inventar mucho. Las variables que el índice ya pregunta podrían ampliarse a la condición étnica y a la discapacidad, que su propia definición menciona, y el indicador de recursos por distrito podría completarse con el de caminos codificados y no codificados en territorios indígenas. Con eso, el Concejo tendría a la vista, al fijar sus prioridades, lo que hoy solo conoce cuando se lo ordena una sentencia.
 
 ## Conclusión
@@ -143,6 +145,8 @@ El gobierno local hace que exista la igualdad cuando reparte sus servicios de mo
 Constitución Política de la República de Costa Rica. (1949). Asamblea Nacional Constituyente. Sistema Costarricense de Información Jurídica.
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
+
+Contraloría General de la República. (2025). *Tabla de datos del Índice de Gestión de Servicios Municipales 2025* [Hoja de cálculo publicada en el sitio del IGSM 2025]. https://sites.google.com/cgr.go.cr/igsm/panorama-general
 
 Decreto Ejecutivo N.° 40137, *Reglamento a la Primera Ley Especial para la Transferencia de Competencias: Atención Plena y Exclusiva de la Red Vial Cantonal*. (2016). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=83583&param2=149263&param3=1
 

@@ -2,6 +2,8 @@
 
 Constitución Política de la República de Costa Rica. (1949). Asamblea Nacional Constituyente. Sistema Costarricense de Información Jurídica.
 
+Contraloría General de la República. (2025). *Tabla de datos del Índice de Gestión de Servicios Municipales 2025* [Hoja de cálculo publicada en el sitio del IGSM 2025]. https://sites.google.com/cgr.go.cr/igsm/panorama-general
+
 Contraloría General de la República. (2026a). *Índice de Cumplimiento para la Mejora Pública (ICM) 2026* [Infografía metodológica]. Área de Seguimiento para la Mejora Pública. https://sites.google.com/cgr.go.cr/icm/icm2026/metodología-icm-2026
 
 Kant, I. (1873). *Principios metafísicos del derecho* (G. Lizárraga, Trad.). Librería de Victoriano Suárez. (Trabajo original publicado en 1797)

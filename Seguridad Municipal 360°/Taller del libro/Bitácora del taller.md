@@ -1778,3 +1778,29 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Verificador: las dos citas textuales cotejadas (OK de 124 a 126); sin errores nuevos.
 - Docs: capítulo 4 rev 46, exportación IDÉNTICA.
 - Word final53 = final52 + el párrafo, la frase y la referencia.
+
+## 27 de noviembre de 2026: sitio del IGSM 2025, tabla de datos por municipalidad y distrito (Word final54)
+
+- El autor pidió descargar los archivos del sitio del IGSM y aplicarlos al libro en lo conducente. El sitio tiene cuatro páginas: inicio, panorama general, metodología aplicada y resultados por municipalidad.
+- Archivos encontrados:
+  - informe DFOE-LOC-SGP-00002-2025, fichas de indicadores e instructivo: ya estaban en `Criterios CGR`, idénticos (mismo sha256);
+  - instructivo de descarga de resultados por municipalidad: nuevo, procedimental, guardado sin aplicar;
+  - tabla de datos (hoja de cálculo de Google incrustada en inicio y panorama general): nueva. Se guardó como `IGSM 2025 - tabla de datos (sitio web).xlsx`, con su texto extraído. Tiene dos hojas: el detalle de las 84 municipalidades (289 columnas) y la cobertura y los recursos de 491 distritos, con su clasificación en el índice de desarrollo social 2023 de Mideplán.
+  - Los resultados por municipalidad están en un tablero de Looker Studio que no se descarga como archivo.
+- Hallazgos aplicados:
+  - Recolección de residuos ordinarios: de 491 distritos, la cobertura es total en 233, parcial en 87 y en 171 la administración no cuenta con la información.
+    - Distritos de mayor desarrollo (123): total en 99; sin información en 10.
+    - Distritos de desarrollo muy bajo (58): total en 4; sin información en 40.
+  - Aseo de vías: no hay información de cobertura en 352 de 491 distritos.
+  - Población vulnerable identificada para la recolección: 20 de 84 municipalidades con al menos una variable; 64 con ninguna.
+  - Policía municipal: la prestan 31 municipalidades y cubre 93 de 123 distritos de mayor desarrollo y 6 de 58 de desarrollo muy bajo. Vigilancia tecnológica: la prestan 39 municipalidades y cubre 95 de 123 y 0 de 58.
+- Dónde quedó:
+  - Tema 29, «Lo que hoy se mide»: párrafo nuevo con la cobertura por distrito, el aseo de vías y la población vulnerable.
+  - Tema 10: párrafo nuevo con la población vulnerable no identificada y la cobertura según el desarrollo social del distrito.
+  - Tema 4, «Lo que hoy se mide»: párrafo nuevo con la policía y la vigilancia por distrito. Se aclara que el dato no prueba por sí solo una discriminación, porque refleja sobre todo qué municipalidades tienen el servicio.
+  - Conclusión, sexta idea: «en 171 de los 491 distritos, la municipalidad no sabe qué cobertura tiene su recolección de residuos».
+- Fuente `IGSMD` en `hacer_build_libro.py`. Referencia: Contraloría General de la República. (2025). *Tabla de datos del Índice de Gestión de Servicios Municipales 2025* [Hoja de cálculo publicada en el sitio del IGSM 2025]. Las cifras se calcularon sobre la hoja; no hay citas textuales.
+- Verificador: sin errores en los temas 4, 10 y 29 ni en la conclusión.
+- Docs: tema 4 rev 3, tema 10 rev 3, tema 29 rev 8 y conclusión rev 13, con exportación IDÉNTICA. En la conclusión, la cita del ICM pasa a la forma corta (CGR), porque la sigla se define ahora en la cita anterior.
+- El tema 29 conserva en `out/` la URL de la resolución 3331-2026 del TCA, que esta sesión no tiene en archivo local.
+- Word final54 = final53 + los tres párrafos, la frase de la conclusión y las cuatro referencias.
