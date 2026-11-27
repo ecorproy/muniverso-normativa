@@ -1885,3 +1885,8 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Se agregó «Prólogo» (Título 1) entre el índice general y la introducción. La página queda en blanco para el texto de quien escriba el prólogo, y el título ya entra en el índice general. En el PDF renderizado es la página 4; el libro tiene 1051 páginas.
 - Docs: pestaña nueva «Prólogo», primera en el orden (orden «a», antes de la introducción, que es «a0»).
 - Script: `scripts/word_prologo.py`. Fuente: `Capítulos/prologo/src/prologo.md`, solo con el título.
+
+## 27 de noviembre de 2026: cotejo de la ponencia de Leiva Poveda (2016)
+- El autor aportó el PDF de Leiva Poveda (2016), «La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades». Se usó para recrear la copia local de cotejo (`/home/claude/libro/fuentes/doctrina/leiva_elusiva.txt`, separada por las 12 páginas del PDF). El PDF y su texto no se suben al repositorio, por ser doctrina con derechos de autor.
+- Resultado: las 39 citas textuales de Leiva están verificadas como literales y en la página citada, 28 en el capítulo 2 y 11 en el capítulo 3. La paráfrasis de la introducción (p. 11, «senda peligrosa») coincide con esa página.
+- El texto del libro no cambia. Solo se actualizaron `zz_citas.json` y `zz_informe.txt` de los capítulos 2 y 3. El Word final59 y Docs siguen vigentes.
