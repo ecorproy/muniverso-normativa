@@ -1580,3 +1580,10 @@ Sin atender por depender del autor o de la editorial: datos editoriales de la po
   - Tema 18, «El que vende sin permiso»: la clausura de un local y la petición sobre los bienes del afectado (cons. V y VI; por tanto).
   - Tema 36, «La licencia, entre el control y el sustento»: la licencia autoriza una actividad determinada (cons. IV) y el caso de Cartago (cons. V).
 - Docs: tres temas publicados y cotejados IDÉNTICO. Word final35.
+
+## 27 de noviembre de 2026: cuatro votos aportados por el autor
+
+Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportados no lo traen) y aplicados en lo conducente:
+- Tema 29, «El lote y la casa abandonada»: voto 2017-004417 (Desamparados; edificio abandonado usado como búnker; orden sanitaria girada a la Municipalidad; licitación de demolición suspendida por causa penal; la Sala reprocha no mermar el problema, no comunicar a Salud y responder en parte; plazo de un mes y de tres días) y voto 2024-002486 (Cartago; lote baldío que obstruye el sistema pluvial de una ruta nacional; el art. 84 del Código Municipal, leído con el art. 169 de la Constitución, pone en la municipalidad el deber de asegurar su cumplimiento; plazo de seis meses con CONAVI y MOPT; voto salvado parcial sobre la ejecución).
+- Tema 32, sección nueva «El sello en la puerta»: voto 2000-009839 (Escazú; clausura con sellos de una casa construida sin permiso; sin lugar; fe pública del inspector) y voto 2023-021388 (Moravia; sello en el portón de una casa habitada; con lugar; acceso inmediato sin perjuicio del procedimiento por obra ilegal; voto salvado sobre la vía).
+- Docs: temas 29 y 32 publicados y cotejados IDÉNTICO. Word final36 (956 páginas).

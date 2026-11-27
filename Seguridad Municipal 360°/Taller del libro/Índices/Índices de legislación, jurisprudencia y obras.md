@@ -419,6 +419,7 @@ Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas ref
 - Voto N.° 1991-002306: capítulo 1; tema 18.
 - Voto N.° 1997-006469: capítulos 2, 3.
 - Voto N.° 1999-005445: capítulos 2, 3, 4; temas 19, 36; conclusión.
+- Voto N.° 2000-009839: tema 32.
 - Voto N.° 2002-003956: tema 28.
 - Voto N.° 2002-010857: tema 28.
 - Voto N.° 2003-003656: tema 34.
@@ -457,6 +458,7 @@ Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas ref
 - Voto N.° 2015-012020: capítulo 1; tema 24.
 - Voto N.° 2016-002706: tema 12.
 - Voto N.° 2016-011545: tema 18.
+- Voto N.° 2017-004417: tema 29.
 - Voto N.° 2018-001141: capítulo 4.
 - Voto N.° 2018-016612: tema 28.
 - Voto N.° 2019-012783: tema 6.
@@ -485,12 +487,13 @@ Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas ref
 - Voto N.° 2023-017863: tema 31.
 - Voto N.° 2023-018320: tema 13.
 - Voto N.° 2023-020182: tema 28.
+- Voto N.° 2023-021388: tema 32.
 - Voto N.° 2023-027541: capítulo 1; temas 24, 34.
 - Voto N.° 2023-027545: tema 1.
 - Voto N.° 2023-031213: tema 28.
 - Voto N.° 2023-031756: capítulo 1; tema 15.
 - Voto N.° 2024-001215: temas 13, 14.
-- Voto N.° 2024-002486: tema 8.
+- Voto N.° 2024-002486: temas 8, 29.
 - Voto N.° 2024-004807: tema 30.
 - Voto N.° 2024-014239: tema 7.
 - Voto N.° 2024-017189: capítulo 1; temas 13, 23.

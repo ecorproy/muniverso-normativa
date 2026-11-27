@@ -58,6 +58,10 @@ Procuraduría General de la República. (2024, 9 de diciembre). *Dictamen C-285-
 
 Procuraduría General de la República. (2026, 12 de octubre). *Dictamen C-173-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25595&param2=0
 
+Sala Constitucional de la Corte Suprema de Justicia. (2000, 3 de noviembre). *Voto N.° 2000-009839, de las 10:50 horas* (expediente 00-006936-0007-CO). NexusPJ.
+
+Sala Constitucional de la Corte Suprema de Justicia. (2023, 29 de agosto). *Voto N.° 2023-021388, de las 9:30 horas* (expediente 23-019688-0007-CO). NexusPJ.
+
 Sala Constitucional de la Corte Suprema de Justicia. (2025, 24 de octubre). *Voto N.° 2025-034914, de las 9:20 horas* (expediente 25-029506-0007-CO). NexusPJ.
 
 Sala Primera de la Corte Suprema de Justicia. (2021, 11 de febrero). *Resolución N.° 000314-F-S1-2021, de las 11:45 horas* (expediente 15-003023-1027-CA). NexusPJ.

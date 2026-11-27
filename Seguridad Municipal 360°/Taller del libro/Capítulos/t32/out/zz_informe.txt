@@ -1,6 +1,7 @@
-CITAS TEXTUALES: 75 | OK: 73
+CITAS TEXTUALES: 79 | OK: 76
   [t32.md] 14p | D:C-089-2022:apartado B | LITERAL (sin localización que cotejar) | "un derecho a la construcción de viviendas adecuadas y dignas"
   [t32.md] 11p | D:C-089-2022:apartado B | LITERAL (sin localización que cotejar) | "el derecho a la vivienda consagrado en el artículo 65 consti"
+  [t32.md] 7p | V:2000-009839:considerando, sobre el fondo | LITERAL (sin localización que cotejar) | "el Inspector Municipal goza de fe pública"
 
 UBICACIONES VERIFICADAS A MANO (8):
   [t32.md] D:C-345-2014:apartado II: "la aprobación final de las construcciones y proyec" (segmentador: [])

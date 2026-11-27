@@ -64,7 +64,11 @@ Sala Constitucional de la Corte Suprema de Justicia. (2008, 7 de noviembre). *Vo
 
 Sala Constitucional de la Corte Suprema de Justicia. (2010, 30 de julio). *Voto N.° 2010-012783, de las 8:51 horas* (expediente 10-005131-0007-CO). NexusPJ.
 
+Sala Constitucional de la Corte Suprema de Justicia. (2017, 24 de marzo). *Voto N.° 2017-004417, de las 9:15 horas* (expediente 17-002580-0007-CO). NexusPJ.
+
 Sala Constitucional de la Corte Suprema de Justicia. (2020, 6 de noviembre). *Voto N.° 2020-021381, de las 9:20 horas* (expediente 20-018512-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1003524
+
+Sala Constitucional de la Corte Suprema de Justicia. (2024, 2 de febrero). *Voto N.° 2024-002486, de las 9:15 horas* (expediente 23-028118-0007-CO). NexusPJ.
 
 Sala Primera de la Corte Suprema de Justicia. (2025, 13 de marzo). *Resolución N.° 000402-F-S1-2025, de las 13:37 horas* (expediente 20-004924-1027-CA). NexusPJ.
 
