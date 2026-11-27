@@ -2109,3 +2109,22 @@ Responde a tres debilidades señaladas por la evaluación: la densidad documenta
   - No hay errores.
 - **Referencias e índice.** Reyna entra en las referencias de los tres capítulos y en el índice de obras.
 - **Entregables.** Word final68, de 1315 páginas en el PDF renderizado, y Docs actualizado.
+
+## 27 de noviembre de 2026: publicación de la PGR «La Administración y su transformación» (Word final69)
+
+- **Fuente.** Una publicación del sitio de la Procuraduría que aportó el autor (https://www.pgr.go.cr/la-administracion-y-su-transformacion/).
+  - La página no indica autor ni fecha de publicación, así que se cita como Procuraduría General de la República (s. f.).
+  - Sin paginación propia, la localización va por la sección.
+  - Es una publicación institucional, no un dictamen, y el texto la presenta como «una publicación de la Procuraduría».
+- **Dónde entró.**
+  - **Cap. 1, *Cómo muere la red*.** La compartimentalización que desemboca en conflictos interadministrativos, junto a Reyna.
+  - **Cap. 2, después de Alfaro.** La descentralización posterior a 1949 «sin que el texto constitucional refiera cómo y cuándo debe hacerse».
+  - **Cap. 3, coordinación con lo nacional.**
+    - El ciudadano sin «un solo interlocutor administrativo».
+    - Contraste doctrinal: la publicación propone reconducir la Administración a la unidad y que en caso de conflicto prevalezca el régimen de la Administración Central. El libro no sigue esa salida para lo local, porque la Sala solo admite la coordinación voluntaria.
+- **Cotejo.** 4 citas literales, con la sección como localización. No hay errores:
+  - cap01: 53 citas, 21 OK;
+  - cap02: 132 citas, 115 OK;
+  - cap03: 98 citas, 93 OK.
+- **Referencias e índice.** La publicación entra en las referencias de los tres capítulos y en el índice de obras.
+- **Entregables.** Word final69, de 1316 páginas en el PDF renderizado, y Docs actualizado.

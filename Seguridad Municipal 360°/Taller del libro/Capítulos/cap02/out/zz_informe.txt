@@ -1,4 +1,5 @@
-CITAS TEXTUALES: 131 | OK: 115
+CITAS TEXTUALES: 132 | OK: 115
+  [all.md] 11p | Procuraduría General de la República, s. f. | , sección *La problemática de las personificaciones públicas* | LITERAL (sin localización que cotejar) | "sin que el texto constitucional refiera cómo y cuándo debe h"
   [all.md] 19p | Cortés García, 2026 | , capítulo 33 | SIN FUENTE LOCAL | "una fuente confiable de criterios jurídicos uniformes que no"
   [all.md] 14p | Cortés García, 2026 | , capítulo 33 | SIN FUENTE LOCAL | "marcó el fin de una era de estabilidad jurídica para el régi"
   [all.md] 15p | Cortés García, 2026 | , capítulo 4 | SIN FUENTE LOCAL | "una doble cabeza: un órgano deliberante, el Concejo Municipa"

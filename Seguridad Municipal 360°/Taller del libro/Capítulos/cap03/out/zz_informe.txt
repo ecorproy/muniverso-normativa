@@ -1,4 +1,6 @@
-CITAS TEXTUALES: 96 | OK: 93
+CITAS TEXTUALES: 98 | OK: 93
+  [cap03.md] 9p | Procuraduría General de la República, s. f. | , sección *La problemática de las personificaciones públicas* | LITERAL (sin localización que cotejar) | "sin que el ciudadano tenga un solo interlocutor administrati"
+  [cap03.md] 13p | Procuraduría General de la República, s. f. | , sección *La reconducción de la Administración a la unidad* | LITERAL (sin localización que cotejar) | "En caso de conflicto ha de prevalecer el régimen de la Admin"
   [cap03.md] 14p | Sheldrake, 2020 | , capítulo 2 | SIN FUENTE LOCAL | "las hifas están divididas en compartimentos por poros, que p"
   [cap03.md] 15p | Sheldrake, 2020 | , capítulo 3 | SIN FUENTE LOCAL | "desde el parasitismo en un polo a las relaciones de benefici"
   [cap03.md] 6p | Sheldrake, 2020 | , capítulo 8 | SIN FUENTE LOCAL | "un continuum de mutualismo a parasitismo"

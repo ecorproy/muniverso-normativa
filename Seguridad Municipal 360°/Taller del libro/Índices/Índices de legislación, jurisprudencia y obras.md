@@ -947,6 +947,7 @@ Doctrina, informes y documentos institucionales que no son normas ni resolucione
 - Observatorio de la Violencia. (2026). Índice Cantonal de Seguridad Ciudadana 2025: resumen metodológico y resultados: temas 4, 26
 - Organización Panamericana de la Salud. (s. f.). [Resumen del documento de referencia técnico sobre salud y seguridad humana]. https://www.paho.org/sites/default/files/D37404-PAHO-ExecutiveSummary-Spn-WEB.pdf: capítulo 1.
 - Pérez Hernández, L., Tabares Neyra, L. M. y Díaz Legón, O. J. (2019). Lo local –municipal– como espacio de desarrollo en Cuba. Notas para el perfeccionamiento del régimen jurídico de la administración local. Universidad de La Habana, (287), 135-160: capítulo 2.
+- Procuraduría General de la República. (s. f.). La Administración y su transformación. https://www.pgr.go.cr/la-administracion-y-su-transformacion/: capítulos 1, 2, 3.
 - Programa Estado de la Nación. (2026). Armonía con la naturaleza. En Informe Estado de la Nación 2026 (cap. 4, pp. 185-278). Programa Estado de la Nación: temas 6, 28, 29, 30
 - Reyna, J. J. (2015). La reforma de la Administración pública local para la tutela de los derechos fundamentales en el siglo XXI. Revista Eurolatinoamericana de Derecho Administrativo, 2(1), 185-241. https://doi.org/10.14409/rr.v2i1.4636: capítulos 1, 3; conclusión.
 - Sheldrake, M. (2020). La red oculta de la vida: De qué manera los hongos crean nuestros mundos, cambian nuestra forma de pensar y moldean nuestro futuro (T. Gras Cardona, Trad.). Editorial Planeta: capítulos 1, 3.

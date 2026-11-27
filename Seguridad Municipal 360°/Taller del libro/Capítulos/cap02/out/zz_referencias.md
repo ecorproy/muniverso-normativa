@@ -46,6 +46,8 @@ Procuraduría General de la República. (2024, 9 de diciembre). *Dictamen C-287-
 
 Procuraduría General de la República. (2026, 8 de julio). *Dictamen C-107-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25496&param2=0
 
+Procuraduría General de la República. (s. f.). *La Administración y su transformación*. https://www.pgr.go.cr/la-administracion-y-su-transformacion/
+
 Sala Constitucional de la Corte Suprema de Justicia. (1997, 8 de octubre). *Voto N.° 1997-006469, de las 16:20 horas* (expediente 96-006578-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-112161
 
 Sala Constitucional de la Corte Suprema de Justicia. (1999, 14 de julio). *Voto N.° 1999-005445, de las 14:30 horas* (expediente 94-000757-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-158355

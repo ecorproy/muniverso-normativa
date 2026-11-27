@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 52 | OK: 21
+CITAS TEXTUALES: 53 | OK: 21
   [cap01.md] 6p | Sheldrake, 2020 | , capítulo 2 | SIN FUENTE LOCAL | "El micelio es tejido conjuntivo ecológico"
   [cap01.md] 12p | Sheldrake, 2020 | , capítulo 2 | SIN FUENTE LOCAL | "No hay centros de operaciones, ni ciudades capitales, ni sed"
   [cap01.md] 7p | RM:desamparados-ninez:eje Salud | LITERAL (sin localización que cotejar) | "la mala atención de la salud mental"
@@ -15,6 +15,7 @@ CITAS TEXTUALES: 52 | OK: 21
   [cap01.md] 14p | Sheldrake, 2020 | , capítulo 1 | SIN FUENTE LOCAL | "Si los hilos se rompen, no hay vuelta atrás. El vínculo desa"
   [cap01.md] 9p | Sheldrake, 2020 | , capítulo 2 | SIN FUENTE LOCAL | "Un fragmento de micelio puede regenerar una red entera"
   [cap01.md] 16p | Sheldrake, 2020 | , capítulo 2 | SIN FUENTE LOCAL | "se propagó como antes por la red herida, pero la señal no al"
+  [cap01.md] 25p | Procuraduría General de la República, s. f. | , sección *La problemática de las personificaciones públicas* | LITERAL (sin localización que cotejar) | "Una excesiva compartimentalización de la Administración dese"
   [cap01.md] 22p | Sheldrake, 2020 | , capítulo 1 | SIN FUENTE LOCAL | "son dinámicas, formadas y reconstituidas a medida que las co"
   [cap01.md] 2p | Sheldrake, 2020 | , capítulo 5 | SIN FUENTE LOCAL | "deterioro alarmante"
   [cap01.md] 13p | Sheldrake, 2020 | , capítulo 5 | SIN FUENTE LOCAL | "reducen la abundancia de hongos micorrícicos y alteran la es"

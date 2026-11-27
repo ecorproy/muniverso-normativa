@@ -42,6 +42,8 @@ Procuraduría General de la República. (2024, 5 de setiembre). *Dictamen C-195-
 
 Procuraduría General de la República. (2024, 9 de diciembre). *Dictamen C-287-2024*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24758&param2=0
 
+Procuraduría General de la República. (s. f.). *La Administración y su transformación*. https://www.pgr.go.cr/la-administracion-y-su-transformacion/
+
 Reyna, J. J. (2015). La reforma de la Administración pública local para la tutela de los derechos fundamentales en el siglo XXI. *Revista Eurolatinoamericana de Derecho Administrativo*, *2*(1), 185-241. https://doi.org/10.14409/rr.v2i1.4636
 
 Sala Constitucional de la Corte Suprema de Justicia. (1997, 8 de octubre). *Voto N.° 1997-006469, de las 16:20 horas* (expediente 96-006578-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-112161
