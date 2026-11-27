@@ -1834,3 +1834,17 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Quince temas no llevan QR porque su voto no tiene enlace registrado: 1, 2, 4, 5, 7, 12, 14, 20, 23, 25, 26, 27, 29, 31 y 32.
 - Word final55: 16 figuras sustituidas y 122 recursos insertados. Revisado en PDF renderizado (1041 páginas).
 - Docs: en todas las pestañas, las 16 figuras se sustituyeron por las de color y se insertaron los 122 recursos, en los mismos lugares que en el Word. Al exportar el tema 4 y compararlo con su versión anterior, la única diferencia son las cuatro líneas de imagen: el texto no cambió. Los identificadores de cada imagen quedan en `scripts/recursos/blobs.json` y `assets.txt`.
+
+## 27 de noviembre de 2026: estilos de Word (Word final56)
+- Se usan ahora los estilos integrados de Word, con los nombres internos `heading 1` a `heading 9`. Word en español los muestra como Título, Subtítulo y Título 1 a 9, de modo que el panel de navegación y el índice automático los reconocen.
+- Jerarquía:
+  - Título: el título del libro.
+  - Subtítulo: el autor en la portada.
+  - Título 1: capítulos, cuadrantes, conclusión e índices.
+  - Título 2: los 36 temas y las secciones de los capítulos 1 a 4 y de la conclusión. Estas 54 secciones antes estaban en Título 3, lo que saltaba un nivel.
+  - Título 3: las secciones de los temas.
+  - Títulos 4 y 5: definidos con el mismo diseño y sin uso por ahora.
+- Subtítulo 2 es un estilo nuevo. Se aplica a la línea «Temas X a Y.» bajo cada cuadrante, que ahora también está en el Word, como en Docs.
+- El salto de página de los temas pasó del estilo Título 2 a cada párrafo, para que las secciones de capítulo no empiecen página.
+- El índice general (TOC niveles 1 y 2) se arma cuando Word abre el archivo. Ahora incluye también las secciones de los capítulos.
+- Script: `scripts/estilos_word.py`. El PDF renderizado tiene 1042 páginas; se revisaron la portada, una sección de capítulo, un cuadrante y el inicio de un tema.
