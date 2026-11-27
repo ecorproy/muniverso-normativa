@@ -28,6 +28,8 @@ Procuraduría General de la República. (2023, 20 de febrero). *Dictamen C-029-2
 
 Procuraduría General de la República. (2025, 12 de mayo). *Dictamen C-088-2025*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24949&param2=0
 
+Reyna, J. J. (2015). La reforma de la Administración pública local para la tutela de los derechos fundamentales en el siglo XXI. *Revista Eurolatinoamericana de Derecho Administrativo*, *2*(1), 185-241. https://doi.org/10.14409/rr.v2i1.4636
+
 Sala Constitucional de la Corte Suprema de Justicia. (1991, 6 de noviembre). *Voto N.° 1991-002306, de las 14:45 horas* (expediente 91-001540-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-87313
 
 Sala Constitucional de la Corte Suprema de Justicia. (2003, 9 de junio). *Voto N.° 2003-005006, de las 15:44 horas* (expediente 03-004802-0007-CO). NexusPJ.

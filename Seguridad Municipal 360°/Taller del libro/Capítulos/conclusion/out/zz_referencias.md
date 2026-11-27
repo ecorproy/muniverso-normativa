@@ -24,6 +24,8 @@ Ley N.° 8422, *Ley contra la Corrupción y el Enriquecimiento Ilícito en la Fu
 
 Ley N.° 10159, *Ley Marco de Empleo Público*. (2022). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=96521&param2=145804&param3=1
 
+Reyna, J. J. (2015). La reforma de la Administración pública local para la tutela de los derechos fundamentales en el siglo XXI. *Revista Eurolatinoamericana de Derecho Administrativo*, *2*(1), 185-241. https://doi.org/10.14409/rr.v2i1.4636
+
 Sala Constitucional de la Corte Suprema de Justicia. (1997, 8 de octubre). *Voto N.° 1997-006469, de las 16:20 horas* (expediente 96-006578-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-112161
 
 Sala Constitucional de la Corte Suprema de Justicia. (1999, 14 de julio). *Voto N.° 1999-005445, de las 14:30 horas* (expediente 94-000757-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-158355

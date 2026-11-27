@@ -232,6 +232,13 @@
  },
  {
   "archivo": "cap01.md",
+  "palabras": 3,
+  "fuente": "Reyna, 2015 | , p. 234",
+  "estado": "OK",
+  "cita": "una pequeña totalidad"
+ },
+ {
+  "archivo": "cap01.md",
   "palabras": 22,
   "fuente": "Sheldrake, 2020 | , capítulo 1",
   "estado": "SIN FUENTE LOCAL",

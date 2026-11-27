@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 93 | OK: 90
+CITAS TEXTUALES: 96 | OK: 93
   [cap03.md] 14p | Sheldrake, 2020 | , capítulo 2 | SIN FUENTE LOCAL | "las hifas están divididas en compartimentos por poros, que p"
   [cap03.md] 15p | Sheldrake, 2020 | , capítulo 3 | SIN FUENTE LOCAL | "desde el parasitismo en un polo a las relaciones de benefici"
   [cap03.md] 6p | Sheldrake, 2020 | , capítulo 8 | SIN FUENTE LOCAL | "un continuum de mutualismo a parasitismo"
@@ -16,6 +16,7 @@ ERRORES (0):
 
 AVISOS (0):
 
-NOTAS DE VOCABULARIO (2):
+NOTAS DE VOCABULARIO (3):
+  [cap03.md] vocabulario «fundamentales»: …frente al núcleo existencial de los derechos fundamentales. De ahí deriva que el gobierno …
   [cap03.md] vocabulario «potenci»: … servicios locales tienen como destinatarias potenciales a todas las personas que habitan …
   [cap03.md] vocabulario «potenci»: …a distingue dos cosas: quién es destinatario potencial del servicio, que es toda persona d…

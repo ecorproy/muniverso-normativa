@@ -2088,3 +2088,24 @@ Responde a tres debilidades señaladas por la evaluación: la densidad documenta
   - El t20 no pudo reconstruirse, porque falta la fuente local de la estructura programática de la CGR. Se le insertó la tesis sobre la salida anterior.
 - **Pendiente.** La revisión frase por frase de los 36 apartados «Cómo hace el gobierno local…», para confirmar que ninguna propuesta propia quedó atribuida a una autoridad.
 - **Entregables.** Word final67, de 1314 páginas en el PDF renderizado, y Docs actualizado: 36 tesis y el cap. 3.
+
+## 27 de noviembre de 2026: Reyna (2015), derecho comparado argentino (Word final68)
+
+- **Obra.** El autor aportó: Reyna, J. J. (2015). La reforma de la Administración pública local para la tutela de los derechos fundamentales en el siglo XXI. *Revista Eurolatinoamericana de Derecho Administrativo*, 2(1), 185-241.
+  - La página impresa es la página del PDF más 183.
+  - El PDF y su texto no van al repositorio. La copia de cotejo está en `/home/claude/libro/fuentes/doctrina/reyna_reforma_pag.txt`.
+- **Dónde entró.** Todas las citas textuales llevan comillas y la fuente entre paréntesis.
+  - **Cap. 1, *Cómo muere la red*.** Las redes interadministrativas como «una pequeña totalidad» (p. 234).
+  - **Cap. 3, *La definición frente a otras construcciones*.** Una sexta construcción, la comparada:
+    - el principio constitucional de actuación conjunta (p. 187);
+    - el espacio de convergencia obligatorio (p. 233);
+    - que todos los niveles de gobierno responden (p. 238).
+    - Coincidencia: la competencia ajena no libera. Diferencias: Reyna propone un órgano nuevo, y razona desde un Estado federal.
+  - **Conclusión, tercera regularidad.** Que ningún nivel pueda esconderse en el federalismo dual o en competencias formales (p. 239).
+- **Cotejo.** 5 citas, todas literales y en la página citada:
+  - cap01: 21 de 52 citas OK;
+  - cap03: 93 de 96;
+  - conclusión: 27 de 27.
+  - No hay errores.
+- **Referencias e índice.** Reyna entra en las referencias de los tres capítulos y en el índice de obras.
+- **Entregables.** Word final68, de 1315 páginas en el PDF renderizado, y Docs actualizado.

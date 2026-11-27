@@ -62,7 +62,7 @@ Lo que este libro agrega es la manera de unir esas piezas. Primero, desplaza el 
 
 ## La definición frente a otras construcciones
 
-La definición de este libro no es la primera respuesta a la pregunta de qué es lo local, y su novedad solo se aprecia frente a las anteriores. Hay cinco con las que conviene medirla.
+La definición de este libro no es la primera respuesta a la pregunta de qué es lo local, y su novedad solo se aprecia frente a las anteriores. Hay cinco en la doctrina y la jurisprudencia costarricenses, y una fuera del país, con las que conviene medirla.
 
 La primera es la de Eduardo Ortiz Ortiz, que leyó por separado las dos palabras del artículo 169. Los servicios son la actividad municipal dirigida a satisfacer una necesidad de la colectividad, y los intereses, cualesquiera otros fines de igual alcance que se logran por medios distintos del servicio público (Ortiz Ortiz, 1987, como se citó en Leiva Poveda, 2016, p. 3). Su criterio es el objeto: qué clase de actividad es. Este libro conserva la distinción y cambia el punto de mira: no pregunta primero qué clase de actividad es, sino a quién le importa y si le llega.
 
@@ -74,7 +74,9 @@ La cuarta es la de la Sala Constitucional, que definió el interés local como l
 
 La quinta es la lectura histórica de Ronald Alfaro Redondo, según la cual las instituciones autónomas creadas después de 1949 dejaron a las municipalidades con funciones residuales (Alfaro Redondo, 2009/2025, p. 10). Su criterio es la distribución efectiva de funciones. Este libro parte del mismo diagnóstico, pero lee lo local como una reserva constitucional y no como un residuo: lo que la ley no ha trasladado sigue siendo deber municipal.
 
-Ninguna de esas construcciones mide el cumplimiento por lo que recibe la persona, ni ordena el ámbito de lo local en temas examinados con una misma pregunta. Ese es el aporte que este libro reclama frente a la doctrina costarricense. La comparación con el derecho local de otros países excede este libro.
+La sexta viene de Argentina. Justo José Reyna, profesor de la Universidad Nacional del Litoral, sostiene la existencia de un "principio constitucional de actuación conjunta para la tutela de los derechos humanos" (Reyna, 2015, p. 187). Según ese principio, los niveles de gobierno forman "un espacio de convergencia obligatorio o imperativo" (Reyna, 2015, p. 233) frente al núcleo existencial de los derechos fundamentales. De ahí deriva que el gobierno local, por ser la administración más próxima a la persona, debe impulsar esa actuación, aunque "son todos los niveles de gobierno (y no sólo la Administración local)" (Reyna, 2015, p. 238) los que responden frente a quien resulta afectado. Su criterio es la tutela conjunta del núcleo de los derechos. Este libro llega por otra vía a una conclusión vecina: la competencia ajena no libera, y el deber municipal se vuelve coordinar e instar. Se separa de Reyna en dos puntos. Reyna propone crear en cada municipalidad una unidad de organización dedicada a esa intergobernabilidad; este libro no exige un órgano nuevo, sino que mide si el servicio llega a la persona con los órganos que ya existen. Además, Reyna razona desde un Estado federal con facultades concurrentes, y en Costa Rica el gobierno local convive con instituciones nacionales con las que, según la Sala, se coordina de igual a igual.
+
+Ninguna de esas construcciones mide el cumplimiento por lo que recibe la persona, ni ordena el ámbito de lo local en temas examinados con una misma pregunta. Reyna pone a la persona en el centro, pero su respuesta es organizativa. Ese es el aporte que este libro reclama frente a ellas. Una comparación sistemática con el derecho local de otros países excede este libro.
 
 ## Tres casos difíciles y un límite
 
