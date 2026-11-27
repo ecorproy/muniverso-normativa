@@ -418,7 +418,7 @@ Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas ref
 ### Sala Constitucional
 
 - Voto N.° 1991-002306: capítulo 1; tema 18.
-- Voto N.° 1997-006469: capítulos 2, 3.
+- Voto N.° 1997-006469: capítulos 2, 3; conclusión.
 - Voto N.° 1999-005445: capítulos 2, 3, 4; temas 19, 36; conclusión.
 - Voto N.° 2000-009839: tema 32.
 - Voto N.° 2002-003956: tema 28.
@@ -538,7 +538,7 @@ Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas ref
 - Voto N.° 2026-014326: temas 17, 30.
 - Voto N.° 2026-014377: capítulo 1; temas 11, 20.
 - Voto N.° 2026-014801: tema 24.
-- Voto N.° 2026-014917: temas 6, 15, 30, 34.
+- Voto N.° 2026-014917: temas 6, 15, 30, 34; conclusión.
 - Voto N.° 2026-015340: temas 17, 30.
 - Voto N.° 2026-016165: capítulo 1; temas 10, 22, 33.
 - Voto N.° 2026-018928: tema 4.
@@ -938,7 +938,7 @@ Doctrina, informes y documentos institucionales que no son normas ni resolucione
 - Instituto de Fomento y Asesoría Municipal. (2024). Índice Municipal de Costa Rica 2024. https://drive.google.com/file/d/1StgLMG4K8U3vHaziSk1rOayGPFBxw6sn/view: temas 17, 32.
 - Instituto de Fomento y Asesoría Municipal. (2025). Índice Municipal de Costa Rica 2025. https://drive.google.com/file/d/1JdJsvWDa0uZMg7WBLKVCjm5hgxM1zmIh/view: temas 32, 36; conclusión.
 - Kant, I. (1873). Principios metafísicos del derecho (G. Lizárraga, Trad.). Librería de Victoriano Suárez. (Trabajo original publicado en 1797): capítulos 2, 3, 4; conclusión.
-- Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local? Federación Metropolitana de Municipalidades y Municipalidad de San José: introducción; capítulos 2, 3.
+- Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local? Federación Metropolitana de Municipalidades y Municipalidad de San José: introducción; capítulos 2, 3; conclusión.
 - Lora-Tamayo Vallvé, M. (Dir.). (2020). Manual de derecho local (4.ª ed.). Iustel: introducción.
 - Medina León, A., Nogueira Rivera, D., & Hernández Nariño, A. (2009). Relevancia de la gestión por procesos en la planificación estratégica y la mejora continua. Eídos, (2), 65-72: capítulo 4.
 - Ministerio de Planificación Nacional y Política Económica. (2025). Índice cantonal de desarrollo sostenible – Agenda 2030: 2020-2022. https://biblioteca.mideplan.go.cr: temas 6, 36

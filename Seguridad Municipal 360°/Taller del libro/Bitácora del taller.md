@@ -1999,3 +1999,24 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
   - Ahora cada leyenda lleva un campo `SEQ Figura` (16 leyendas) y el índice es `TOC \h \z \c "Figura"`, que no depende del idioma.
   - El campo queda marcado para actualizarse al abrir el archivo.
 - Se actualizaron el Word final64 (1060 páginas en el PDF renderizado) y Docs.
+
+## 27 de noviembre de 2026: evaluación de final64, interlineado 1,5 e imágenes sin huecos (Word final65)
+
+- Precisiones de la evaluación externa:
+  - Cap. 3 y conclusión: los servicios locales tienen «como destinatarias potenciales» a todas las personas que habitan el cantón o se encuentran en él, «sin perjuicio de los requisitos» que fije el ordenamiento para prestaciones como becas o ayudas temporales.
+  - Definición del cap. 3: si falta capacidad, el deber «consiste en procurarla y, mientras tanto, coordinar para que el servicio llegue, sin que la coordinación la libere de lo que le toca prestar».
+  - «Cómo se construyó el libro»: se nombran las demás mediciones usadas, con el tema donde se citan: IFAM 2024 y 2025, ICN 2026, ICSC 2025, ICDS de MIDEPLAN e Informe Estado de la Nación 2026.
+  - Referencias de la conclusión: se agregaron Leiva Poveda (2016) y los votos 1997-006469 y 2026-014917. En el Word faltaban; en el unido y en Docs, también.
+  - Índices: Leiva y los dos votos remiten ahora también a la conclusión.
+- Formato:
+  - Body Text y First Paragraph pasan a interlineado 1,5. Compact, que usan los índices, se queda en 1,15.
+  - Los recursos sin leyenda que no abren un tema o capítulo (85) pasan a ser imágenes flotantes, ancladas al comienzo de la página donde caen, con ajuste «arriba y abajo». El texto llena el resto de la página.
+  - Las figuras con leyenda (15) van en una tabla flotante de una celda, ubicada en el mismo lugar, para que la leyenda no se separe de su imagen. Los campos SEQ siguen en la leyenda.
+  - Las imágenes que siguen inmediatamente a un título 1 o 2 quedan en línea, para no subir por encima del título.
+  - «Captioned Figure» deja de mantenerse con el párrafo siguiente.
+- Medición con LibreOffice (`huecos.py`, páginas con más del 30 % en blanco):
+  - antes, unos 26 huecos a mitad de capítulo;
+  - después, unos 19, sobre todo junto a las tablas flotantes, que LibreOffice no maneja como Word;
+  - ninguna imagen queda por encima del título de un tema.
+  - Word redistribuye los objetos flotantes por su cuenta, así que el resultado final debe verificarse en Word.
+- Word final65: 1292 páginas en el PDF renderizado, por el interlineado 1,5. Docs actualizado: cap. 3 y conclusión, con texto y referencias.

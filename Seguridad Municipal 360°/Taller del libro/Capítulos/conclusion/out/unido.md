@@ -12,7 +12,7 @@ Esta conclusión regresa al núcleo sin resumir los temas, porque es ahí donde 
 
 El libro responde tres preguntas distintas, y conviene no confundirlas.
 
-La primera es qué es lo local. La respuesta del capítulo 3 es una definición abierta, hecha de criterios y no de una lista: todo interés y todo servicio de naturaleza pública que importa de manera directa e inmediata a las personas que habitan un cantón o se encuentran en él. Esas personas no son solo las residentes: el municipio lo forman los vecinos (Ley N.° 7794 [CM], 1998, art. 1), pero la ley encarga a la municipalidad albergues para quienes viven en la calle (CM, art. 4, inciso j), y los servicios locales llegan a todo el que está en el cantón. La Constitución confía su atención al Gobierno Municipal sin enumerarlo, y así lo entendió la Sala Constitucional desde sus primeras sentencias. La consecuencia práctica es una regla de conducta: frente a la necesidad de una persona del cantón, la municipalidad pregunta primero si aquello es local, y solo después si una ley especial la obliga. Así se atiende la advertencia de Leiva Poveda, para quien buscar una definición general de lo local para todas las municipalidades era imposible y peligroso (Leiva Poveda, 2016, p. 11). La definición del libro no reparte materias: reúne criterios y deja el mapa abierto.
+La primera es qué es lo local. La respuesta del capítulo 3 es una definición abierta, hecha de criterios y no de una lista: todo interés y todo servicio de naturaleza pública que importa de manera directa e inmediata a las personas que habitan un cantón o se encuentran en él. Esas personas no son solo las residentes: el municipio lo forman los vecinos (Ley N.° 7794 [CM], 1998, art. 1), pero la ley encarga a la municipalidad albergues para quienes viven en la calle (CM, art. 4, inciso j), y los servicios locales tienen como destinatarias potenciales a todas las personas que están en el cantón, sin perjuicio de los requisitos que la ley fije para prestaciones como las becas o las ayudas temporales. La Constitución confía su atención al Gobierno Municipal sin enumerarlo, y así lo entendió la Sala Constitucional desde sus primeras sentencias. La consecuencia práctica es una regla de conducta: frente a la necesidad de una persona del cantón, la municipalidad pregunta primero si aquello es local, y solo después si una ley especial la obliga. Así se atiende la advertencia de Leiva Poveda, para quien buscar una definición general de lo local para todas las municipalidades era imposible y peligroso (Leiva Poveda, 2016, p. 11). La definición del libro no reparte materias: reúne criterios y deja el mapa abierto.
 
 La segunda es para qué existe lo local. La respuesta es la Seguridad Municipal 360°: la certeza de cada persona en el cantón de que el Gobierno Municipal responde por ella, dentro de sus competencias y coordinando con las demás instituciones, mediante servicios que efectivamente le llegan. El interés público que persigue la municipalidad es "la expresión de los intereses individuales coincidentes de los administrados" (Ley N.° 6227 [LGAP], 1978, art. 113), y por eso se mira desde la necesidad concreta de cada persona.
 
@@ -102,6 +102,8 @@ Instituto de Fomento y Asesoría Municipal. (2025). *Índice Municipal de Costa 
 
 Kant, I. (1873). *Principios metafísicos del derecho* (G. Lizárraga, Trad.). Librería de Victoriano Suárez. (Trabajo original publicado en 1797)
 
+Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En *Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local?* Federación Metropolitana de Municipalidades y Municipalidad de San José.
+
 Ley N.° 2, *Código de Trabajo*. (1943). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=8045&param2=150791&param3=1
 
 Ley N.° 6227, *Ley General de la Administración Pública*. (1978). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=13231&param2=153093&param3=1
@@ -112,6 +114,8 @@ Ley N.° 8422, *Ley contra la Corrupción y el Enriquecimiento Ilícito en la Fu
 
 Ley N.° 10159, *Ley Marco de Empleo Público*. (2022). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=96521&param2=145804&param3=1
 
+Sala Constitucional de la Corte Suprema de Justicia. (1997, 8 de octubre). *Voto N.° 1997-006469, de las 16:20 horas* (expediente 96-006578-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-112161
+
 Sala Constitucional de la Corte Suprema de Justicia. (1999, 14 de julio). *Voto N.° 1999-005445, de las 14:30 horas* (expediente 94-000757-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-158355
 
 Sala Constitucional de la Corte Suprema de Justicia. (2003, 9 de junio). *Voto N.° 2003-005006, de las 15:44 horas* (expediente 03-004802-0007-CO). NexusPJ.
@@ -121,3 +125,5 @@ Sala Constitucional de la Corte Suprema de Justicia. (2003, 7 de octubre). *Voto
 Sala Constitucional de la Corte Suprema de Justicia. (2021, 29 de octubre). *Voto N.° 2021-024259, de las 9:20 horas* (expediente 21-019572-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1058826
 
 Sala Constitucional de la Corte Suprema de Justicia. (2026, 9 de enero). *Voto N.° 2026-000643, de las 9:20 horas* (expediente 25-029929-0007-CO). NexusPJ.
+
+Sala Constitucional de la Corte Suprema de Justicia. (2026, 28 de abril). *Voto N.° 2026-014917, de las 9:20 horas* (expediente 26-004800-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1384798

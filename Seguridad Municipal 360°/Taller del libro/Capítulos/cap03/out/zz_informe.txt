@@ -15,4 +15,5 @@ ERRORES (0):
 
 AVISOS (0):
 
-NOTAS DE VOCABULARIO (0):
+NOTAS DE VOCABULARIO (1):
+  [cap03.md] vocabulario «potenci»: … servicios locales tienen como destinatarias potenciales a todas las personas que habitan …
