@@ -1,0 +1,69 @@
+{
+ "rId150": {
+  "escala": 0.902
+ },
+ "rId25": {
+  "mov": -2
+ },
+ "rId35": {
+  "mov": -1
+ },
+ "rId50": {
+  "mov": -3
+ },
+ "rId17": {
+  "mov": 2
+ },
+ "rId64": {
+  "mov": -2
+ },
+ "rId92": {
+  "mov": 1
+ },
+ "rId98": {
+  "mov": 0,
+  "escala": 0.9
+ },
+ "rId104": {
+  "escala": 0.814
+ },
+ "rId109": {
+  "escala": 0.883,
+  "mov": 3
+ },
+ "rId47": {
+  "escala": 0.8
+ },
+ "rId46": {
+  "mov": -2
+ },
+ "rId69": {
+  "escala": 0.935
+ },
+ "rId99": {
+  "mov": -2
+ },
+ "rId103": {
+  "mov": -1
+ },
+ "rId133": {
+  "escala": 0.924
+ },
+ "rId141": {
+  "mov": -1
+ },
+ "rId59": {
+  "mov": 1
+ },
+ "rId95": {
+  "mov": 4
+ },
+ "rId68": {
+  "mov": 2
+ },
+ "rId86": {
+  "estilo_figura": true,
+  "junto": true,
+  "mov": 2
+ }
+}

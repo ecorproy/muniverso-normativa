@@ -2252,3 +2252,18 @@ Responde a tres observaciones de la evaluación.
 - **Integridad.** Siete tesis, definición, célula, cuadrantes, 36 temas, seis formas de deterioro y anexos A y B verificados. Tablas, imágenes, títulos y referencias sin cambio.
 - **Informes B a E.** En `notas/Poda quirúrgica: informes B a E (27-11-2026).md`.
 - Docs actualizado con las 64 sustituciones.
+
+## 27-11-2026 — Huecos por figuras (Word final76)
+
+- **Causa.** Las figuras que no cabían en el resto de la página saltaban a la siguiente y dejaban la anterior medio vacía. Eran 18 casos, entre ellos el mapa del viaje de la introducción.
+- **Figuras en el flujo.** Las 15 tablas-figura flotantes y las 85 imágenes ancladas «arriba de la página» pasan a estar en el flujo del texto. Así Word y LibreOffice las colocan igual.
+- **Ajustes.** Se aplicaron 21 ajustes figura por figura (`scripts/huecos_ops.json`):
+  - mover la figura uno a cuatro párrafos antes o después dentro de su sección;
+  - o reducirla levemente (el mapa del viaje al 90 %).
+- **Figura 8.** Sus dos mitades se mueven juntas.
+- **Figura 6.** El pie viaja con la figura.
+- **Resultado.**
+  - En el PDF renderizado con LibreOffice no queda ningún hueco de más del 30 % causado por figuras.
+  - Los huecos que quedan están al final de capítulos y temas (que abren en página nueva), en las portadillas de cuadrante y en los índices.
+  - 1089 páginas.
+  - Texto, imágenes, tablas y párrafos idénticos a final75.
