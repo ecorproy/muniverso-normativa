@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="669" viewBox="0 0 1200 669" font-family="DejaVu Serif, serif"><defs><marker id="ar" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L14,7 L0,14 Z" fill="#1E2A38"/></marker></defs><rect width="100%" height="100%" fill="white"/><rect x="0" y="0" width="1200" height="78" fill="#8A4F9E"/>
+<text x="40.0" y="50.0" font-size="22" font-weight="bold" font-style="normal" text-anchor="start" fill="white">CUADRANTE II. DIGNIDAD</text>
+<text x="1160.0" y="54.0" font-size="30" font-weight="bold" font-style="normal" text-anchor="end" fill="white">TEMA 13</text>
+<text x="40.0" y="135.0" font-size="30" font-weight="bold" font-style="normal" text-anchor="start" fill="#B5543A">El caso, paso a paso</text>
+<text x="40.0" y="169.0" font-size="21" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">Trato y trámites ante la Municipalidad</text>
+<line x1="250" y1="235" x2="250" y2="575.0" stroke="#C9CED6" stroke-width="5"/>
+<text x="216.0" y="266.0" font-size="20" font-weight="bold" font-style="normal" text-anchor="end" fill="#1E2A38">Sep 2021</text>
+<circle cx="250" cy="259.0" r="17" fill="#1F4E79" stroke="white" stroke-width="4"/>
+<rect x="286" y="223" width="900" height="72" rx="10" fill="white" stroke="#1F4E79" stroke-width="2"/>
+<text x="306.0" y="252.5" font-size="23" font-weight="normal" font-style="normal" text-anchor="start" fill="#1E2A38">La alcaldía de Sarchí consulta qué puede pedir a quien solicita la</text>
+<text x="306.0" y="281.2" font-size="23" font-weight="normal" font-style="normal" text-anchor="start" fill="#1E2A38">no afectación del impuesto</text>
+<text x="216.0" y="354.0" font-size="20" font-weight="bold" font-style="normal" text-anchor="end" fill="#1E2A38">Ene 2022</text>
+<circle cx="250" cy="347.0" r="17" fill="#1F7A7A" stroke="white" stroke-width="4"/>
+<rect x="286" y="311" width="900" height="72" rx="10" fill="white" stroke="#1F7A7A" stroke-width="2"/>
+<text x="306.0" y="340.5" font-size="23" font-weight="normal" font-style="normal" text-anchor="start" fill="#1E2A38">A Alajuela, la Procuraduría le acepta exigir certificación del</text>
+<text x="306.0" y="369.2" font-size="23" font-weight="normal" font-style="normal" text-anchor="start" fill="#1E2A38">Registro</text>
+<text x="216.0" y="442.0" font-size="20" font-weight="bold" font-style="normal" text-anchor="end" fill="#1E2A38">Abr 2022</text>
+<circle cx="250" cy="435.0" r="17" fill="#1F7A7A" stroke="white" stroke-width="4"/>
+<rect x="286" y="399" width="900" height="72" rx="10" fill="white" stroke="#1F7A7A" stroke-width="2"/>
+<text x="306.0" y="428.5" font-size="23" font-weight="normal" font-style="normal" text-anchor="start" fill="#1E2A38">A Sarchí le dice lo contrario: no puede exigir certificaciones que</text>
+<text x="306.0" y="457.2" font-size="23" font-weight="normal" font-style="normal" text-anchor="start" fill="#1E2A38">otra oficina tiene</text>
+<text x="216.0" y="518.0" font-size="20" font-weight="bold" font-style="normal" text-anchor="end" fill="#1E2A38">Oct 2022</text>
+<circle cx="250" cy="511.0" r="17" fill="#1F4E79" stroke="white" stroke-width="4"/>
+<rect x="286" y="487" width="900" height="48" rx="10" fill="white" stroke="#1F4E79" stroke-width="2"/>
+<text x="306.0" y="519.0" font-size="23" font-weight="normal" font-style="normal" text-anchor="start" fill="#1E2A38">Sarchí pide reconsiderar</text>
+<text x="216.0" y="582.0" font-size="20" font-weight="bold" font-style="normal" text-anchor="end" fill="#1E2A38">Nov 2023</text>
+<circle cx="250" cy="575.0" r="17" fill="#1F7A7A" stroke="white" stroke-width="4"/>
+<rect x="286" y="551" width="900" height="48" rx="10" fill="white" stroke="#1F7A7A" stroke-width="2"/>
+<text x="306.0" y="583.0" font-size="23" font-weight="normal" font-style="normal" text-anchor="start" fill="#1E2A38">La Procuraduría declara tardía la reconsideración</text>
+<circle cx="52" cy="633" r="11" fill="#1F4E79"/>
+<text x="70.0" y="640.0" font-size="18" font-weight="normal" font-style="normal" text-anchor="start" fill="#44505F">Municipalidad</text>
+<circle cx="228.5" cy="633" r="11" fill="#1F7A7A"/>
+<text x="246.5" y="640.0" font-size="18" font-weight="normal" font-style="normal" text-anchor="start" fill="#44505F">Procuraduría</text></svg>

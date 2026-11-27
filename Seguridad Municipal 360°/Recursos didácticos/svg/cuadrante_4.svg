@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1089" viewBox="0 0 1200 1089" font-family="DejaVu Serif, serif"><defs><marker id="ar" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L14,7 L0,14 Z" fill="#1E2A38"/></marker></defs><rect width="100%" height="100%" fill="white"/><rect x="0" y="0" width="1200" height="230" fill="#2F86AE"/>
+<circle cx="140" cy="115" r="70" fill="white"/>
+<path d="M108.5,150.0 Q101.5,83.5 178.5,76.5 Q175.0,150.0 108.5,150.0 Z" fill="#2F86AE"/>
+<path d="M108.5,150.0 Q140,115 164.5,90.5" stroke="white" stroke-width="4.55" fill="none"/>
+<text x="250.0" y="95.0" font-size="26" font-weight="bold" font-style="normal" text-anchor="start" fill="white">CUADRANTE IV</text>
+<text x="250.0" y="150.0" font-size="46" font-weight="bold" font-style="normal" text-anchor="start" fill="white">Bienestar y entorno</text>
+<text x="250.0" y="192.0" font-size="22" font-weight="normal" font-style="italic" text-anchor="start" fill="white">CP, art. 50 · nueve temas</text>
+<text x="40.0" y="270.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#2F86AE">Las preguntas de este cuadrante</text>
+<rect x="30" y="294" width="1140" height="79" rx="10" fill="white"/>
+<circle cx="82" cy="333.5" r="30" fill="#2F86AE"/>
+<text x="82.0" y="343.5" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">28</text>
+<text x="140.0" y="328.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Agua y saneamiento</text>
+<text x="140.0" y="358.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">¿Cómo hace el gobierno local que el agua y el saneamiento existan?</text>
+<rect x="30" y="379" width="1140" height="79" rx="10" fill="#DCEEF7"/>
+<circle cx="82" cy="418.5" r="30" fill="#2F86AE"/>
+<text x="82.0" y="428.5" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">29</text>
+<text x="140.0" y="413.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Residuos y limpieza</text>
+<text x="140.0" y="443.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">¿Cómo hace el gobierno local que el cantón esté limpio?</text>
+<rect x="30" y="464" width="1140" height="79" rx="10" fill="white"/>
+<circle cx="82" cy="503.5" r="30" fill="#2F86AE"/>
+<text x="82.0" y="513.5" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">30</text>
+<text x="140.0" y="498.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Ambiente y arbolado</text>
+<text x="140.0" y="528.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">¿Cómo hace el gobierno local que el ambiente del cantón se conserve?</text>
+<rect x="30" y="549" width="1140" height="79" rx="10" fill="#DCEEF7"/>
+<circle cx="82" cy="588.5" r="30" fill="#2F86AE"/>
+<text x="82.0" y="598.5" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">31</text>
+<text x="140.0" y="583.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Animales</text>
+<text x="140.0" y="613.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">¿Cómo hace el gobierno local que los animales del cantón estén protegidos?</text>
+<rect x="30" y="634" width="1140" height="79" rx="10" fill="white"/>
+<circle cx="82" cy="673.5" r="30" fill="#2F86AE"/>
+<text x="82.0" y="683.5" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">32</text>
+<text x="140.0" y="668.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Vivienda</text>
+<text x="140.0" y="698.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">¿Cómo hace el gobierno local que las familias tengan dónde vivir?</text>
+<rect x="30" y="719" width="1140" height="79" rx="10" fill="#DCEEF7"/>
+<circle cx="82" cy="758.5" r="30" fill="#2F86AE"/>
+<text x="82.0" y="768.5" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">33</text>
+<text x="140.0" y="753.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Espacio público y movilidad</text>
+<text x="140.0" y="783.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">¿Cómo hace el gobierno local que el espacio público exista?</text>
+<rect x="30" y="804" width="1140" height="79" rx="10" fill="white"/>
+<circle cx="82" cy="843.5" r="30" fill="#2F86AE"/>
+<text x="82.0" y="853.5" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">34</text>
+<text x="140.0" y="838.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Cultura y patrimonio</text>
+<text x="140.0" y="868.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">¿Cómo hace el gobierno local que la cultura exista?</text>
+<rect x="30" y="889" width="1140" height="79" rx="10" fill="#DCEEF7"/>
+<circle cx="82" cy="928.5" r="30" fill="#2F86AE"/>
+<text x="82.0" y="938.5" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">35</text>
+<text x="140.0" y="923.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Deporte y recreación</text>
+<text x="140.0" y="953.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">¿Cómo hace el gobierno local que el deporte y la recreación existan?</text>
+<rect x="30" y="974" width="1140" height="79" rx="10" fill="white"/>
+<circle cx="82" cy="1013.5" r="30" fill="#2F86AE"/>
+<text x="82.0" y="1023.5" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">36</text>
+<text x="140.0" y="1008.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Economía local y reparto de la riqueza</text>
+<text x="140.0" y="1038.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">¿Cómo hace el gobierno local que la riqueza se produzca?</text></svg>

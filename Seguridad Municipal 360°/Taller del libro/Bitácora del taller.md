@@ -1804,3 +1804,32 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Docs: tema 4 rev 3, tema 10 rev 3, tema 29 rev 8 y conclusión rev 13, con exportación IDÉNTICA. En la conclusión, la cita del ICM pasa a la forma corta (CGR), porque la sigla se define ahora en la cita anterior.
 - El tema 29 conserva en `out/` la URL de la resolución 3331-2026 del TCA, que esta sesión no tiene en archivo local.
 - Word final54 = final53 + los tres párrafos, la frase de la conclusión y las cuatro referencias.
+
+## 27 de noviembre de 2026: libro a color y recursos didácticos (Word final55)
+
+- Decisión del autor: el libro se imprime a color. Pidió colores con criterio de psicología del color y todos los recursos visuales que pondría un experto en educación de adultos, en todo el libro y no en un piloto.
+- Paleta semántica en `svglib.py`. Cada color significa siempre lo mismo:
+  - azul: el deber, el Gobierno Municipal y la norma;
+  - terracota: la persona y lo que recibe;
+  - verde: la red, lo local y la coordinación;
+  - ámbar: el halo, la duda y lo que se decide caso por caso;
+  - rojo óxido: la omisión y el daño, usado poco;
+  - índigo: la jurisprudencia;
+  - verde petróleo: la Procuraduría;
+  - gris: lo neutro.
+
+  Cada cuadrante tiene además su color: esmeralda para Vida, púrpura para Dignidad, frambuesa para Protección especial y cerúleo para Bienestar y entorno. El color nunca va solo: siempre lo acompaña un rótulo, una forma o un número.
+- Figuras 1 a 16 recoloreadas con el mismo diseño y texto (`figuras_diagramas.py`, `figuras_diagramas_cap04.py`, `figura_celula.py`). Las versiones en gris quedan en los archivos `_gris`.
+- Recursos nuevos (`Recursos didácticos/`; generadores en `scripts/recursos/`):
+  - mapa de cada capítulo y de la conclusión (organizador previo);
+  - portada de cada cuadrante con las nueve preguntas de sus temas;
+  - síntesis de los capítulos 2 (la regla del artículo 169) y 3 (qué es lo local);
+  - en cada uno de los 36 temas:
+    - mapa del tema, con la pregunta, la ruta de secciones y un QR a la fuente del caso cuando hay enlace verificado (21 temas);
+    - el caso, paso a paso, con el color de cada actor;
+    - «Revise en su municipalidad», una lista de verificación tomada de «Cómo hace el gobierno local…»;
+  - gráficos de la tabla de datos del IGSM 2025 en los temas 4, 10 y 29.
+- Los recursos no tienen número de figura ni leyenda: llevan su título dentro de la imagen, para no alterar la numeración ni el índice de figuras. En el Word llevan texto alternativo.
+- Fuentes del contenido: los datos de cada tema están en `scripts/recursos/datos_*.py`, redactados sobre «El caso» y «Cómo hace el gobierno local…» de cada tema.
+- Quince temas no llevan QR porque su voto no tiene enlace registrado: 1, 2, 4, 5, 7, 12, 14, 20, 23, 25, 26, 27, 29, 31 y 32.
+- Word final55: 16 figuras sustituidas y 122 recursos insertados. Revisado en PDF renderizado (1041 páginas).

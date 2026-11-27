@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1114" viewBox="0 0 1200 1114" font-family="DejaVu Serif, serif"><defs><marker id="ar" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L14,7 L0,14 Z" fill="#1E2A38"/></marker></defs><rect width="100%" height="100%" fill="white"/><rect x="0" y="0" width="1200" height="230" fill="#2A8C6E"/>
+<circle cx="140" cy="115" r="70" fill="white"/>
+<path transform="translate(105.35,88.05) scale(1.9250000000000003)" d="M0,10 C0,-4 18,-6 18,8 C18,-6 36,-4 36,10 C36,24 18,30 18,38 C18,30 0,24 0,10Z" fill="#2A8C6E"/>
+<text x="250.0" y="95.0" font-size="26" font-weight="bold" font-style="normal" text-anchor="start" fill="white">CUADRANTE I</text>
+<text x="250.0" y="150.0" font-size="46" font-weight="bold" font-style="normal" text-anchor="start" fill="white">Vida</text>
+<text x="250.0" y="192.0" font-size="22" font-weight="normal" font-style="italic" text-anchor="start" fill="white">CP, art. 21 · nueve temas</text>
+<text x="40.0" y="270.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#2A8C6E">Las preguntas de este cuadrante</text>
+<rect x="30" y="294" width="1140" height="79" rx="10" fill="#DDF1EA"/>
+<circle cx="82" cy="333.5" r="30" fill="#2A8C6E"/>
+<text x="82.0" y="343.5" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">1</text>
+<text x="140.0" y="328.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Salud física</text>
+<text x="140.0" y="358.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">¿Cómo hace el gobierno local que exista la salud física?</text>
+<rect x="30" y="379" width="1140" height="79" rx="10" fill="white"/>
+<circle cx="82" cy="418.5" r="30" fill="#2A8C6E"/>
+<text x="82.0" y="428.5" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">2</text>
+<text x="140.0" y="413.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Salud mental</text>
+<text x="140.0" y="443.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">¿Cómo hace el gobierno local que exista la salud mental?</text>
+<rect x="30" y="464" width="1140" height="79" rx="10" fill="#DDF1EA"/>
+<circle cx="82" cy="503.5" r="30" fill="#2A8C6E"/>
+<text x="82.0" y="513.5" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">3</text>
+<text x="140.0" y="498.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Alimentación</text>
+<text x="140.0" y="528.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">¿Cómo hace el gobierno local que exista la alimentación?</text>
+<rect x="30" y="549" width="1140" height="79" rx="10" fill="white"/>
+<circle cx="82" cy="588.5" r="30" fill="#2A8C6E"/>
+<text x="82.0" y="598.5" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">4</text>
+<text x="140.0" y="583.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Integridad personal y de bienes</text>
+<text x="140.0" y="613.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">¿Cómo hace el gobierno local que exista la integridad personal y de bienes?</text>
+<rect x="30" y="634" width="1140" height="79" rx="10" fill="#DDF1EA"/>
+<circle cx="82" cy="673.5" r="30" fill="#2A8C6E"/>
+<text x="82.0" y="683.5" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">5</text>
+<text x="140.0" y="668.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Seguridad vial</text>
+<text x="140.0" y="698.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">¿Cómo hace el gobierno local que exista la seguridad vial?</text>
+<rect x="30" y="719" width="1140" height="79" rx="10" fill="white"/>
+<circle cx="82" cy="758.5" r="30" fill="#2A8C6E"/>
+<text x="82.0" y="768.5" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">6</text>
+<text x="140.0" y="753.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Emergencias y desastres</text>
+<text x="140.0" y="783.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">¿Cómo hace el gobierno local que exista la seguridad frente al desastre?</text>
+<rect x="30" y="804" width="1140" height="79" rx="10" fill="#DDF1EA"/>
+<circle cx="82" cy="843.5" r="30" fill="#2A8C6E"/>
+<text x="82.0" y="853.5" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">7</text>
+<text x="140.0" y="838.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Adicciones</text>
+<text x="140.0" y="868.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">¿Cómo hace el gobierno local que exista la protección frente a la adicción?</text>
+<rect x="30" y="889" width="1140" height="79" rx="10" fill="white"/>
+<circle cx="82" cy="928.5" r="30" fill="#2A8C6E"/>
+<text x="82.0" y="938.5" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">8</text>
+<text x="140.0" y="923.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Personas en situación de calle</text>
+<text x="140.0" y="953.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">¿Cómo hace el gobierno local que exista un lugar seguro donde dormir?</text>
+<rect x="30" y="974" width="1140" height="104" rx="10" fill="#DDF1EA"/>
+<circle cx="82" cy="1026.0" r="30" fill="#2A8C6E"/>
+<text x="82.0" y="1036.0" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">9</text>
+<text x="140.0" y="1008.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Final de la vida</text>
+<text x="140.0" y="1038.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">¿Cómo hace el gobierno local que exista un lugar digno para despedir a los</text>
+<text x="140.0" y="1063.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">muertos?</text></svg>

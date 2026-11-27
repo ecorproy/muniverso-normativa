@@ -1,30 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" font-family="DejaVu Serif, serif"><defs><marker id="ar" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L14,7 L0,14 Z" fill="#111"/></marker></defs><rect width="100%" height="100%" fill="white"/><rect x="40" y="30" width="520" height="120" rx="14" fill="#e6e6e6" stroke="#111" stroke-width="3"/>
-<text x="300.0" y="65.2" font-size="26" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Una decisión</text>
-<text x="300.0" y="108.5" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">de una persona servidora que no depende</text>
-<text x="300.0" y="134.8" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">del Concejo</text>
-<rect x="640" y="30" width="520" height="120" rx="14" fill="#e6e6e6" stroke="#111" stroke-width="3"/>
-<text x="900.0" y="78.4" font-size="26" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Una omisión</text>
-<text x="900.0" y="121.7" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">el órgano no adopta la conducta debida</text>
-<line x1="300" y1="150" x2="300" y2="210" stroke="#111" stroke-width="3" marker-end="url(#ar)"/>
-<line x1="900" y1="150" x2="900" y2="210" stroke="#111" stroke-width="3" marker-end="url(#ar)"/>
-<rect x="40" y="210" width="520" height="140" rx="14" fill="white" stroke="#111" stroke-width="3"/>
-<text x="300.0" y="255.0" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Revocatoria</text>
-<text x="300.0" y="297.1" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">ante quien dictó el acto, dentro del</text>
-<text x="300.0" y="323.4" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">quinto día</text>
-<rect x="640" y="210" width="520" height="140" rx="14" fill="white" stroke="#111" stroke-width="3"/>
-<text x="900.0" y="255.0" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Requerimiento</text>
-<text x="900.0" y="297.1" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">al órgano, para que en quince días adopte</text>
-<text x="900.0" y="323.4" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">la conducta debida</text>
-<line x1="300" y1="350" x2="300" y2="410" stroke="#111" stroke-width="3" marker-end="url(#ar)"/>
-<line x1="900" y1="350" x2="900" y2="410" stroke="#111" stroke-width="3" marker-end="url(#ar)"/>
-<text x="912.0" y="388.0" font-size="21" font-weight="normal" font-style="italic" text-anchor="start" fill="#333">si la omisión persiste</text>
-<rect x="40" y="410" width="520" height="140" rx="14" fill="white" stroke="#111" stroke-width="3"/>
-<text x="300.0" y="468.1" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Apelación</text>
-<text x="300.0" y="510.2" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">ante la alcaldía, dentro del quinto día</text>
-<rect x="640" y="410" width="520" height="140" rx="14" fill="white" stroke="#111" stroke-width="3"/>
-<text x="900.0" y="468.1" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Vía judicial</text>
-<text x="900.0" y="510.2" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">queda abierta</text>
-<text x="300.0" y="600.0" font-size="22" font-weight="normal" font-style="italic" text-anchor="middle" fill="#111">CM, art. 171</text>
-<text x="900.0" y="600.0" font-size="22" font-weight="normal" font-style="italic" text-anchor="middle" fill="#111">CPCA, art. 35</text>
-<text x="600.0" y="680.0" font-size="22" font-weight="normal" font-style="italic" text-anchor="middle" fill="#111">La omisión no puede volverse un obstáculo para la persona (Cortés García, 2026, capítulo</text>
-<text x="600.0" y="707.5" font-size="22" font-weight="normal" font-style="italic" text-anchor="middle" fill="#111">12).</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" font-family="DejaVu Serif, serif"><defs><marker id="ar" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L14,7 L0,14 Z" fill="#1E2A38"/></marker></defs><rect width="100%" height="100%" fill="white"/><rect x="40" y="30" width="520" height="120" rx="14" fill="#FBEDCF" stroke="#B07A12" stroke-width="3"/>
+<text x="300.0" y="65.2" font-size="26" font-weight="bold" font-style="normal" text-anchor="middle" fill="#B07A12">Una decisión</text>
+<text x="300.0" y="108.5" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">de una persona servidora que no depende</text>
+<text x="300.0" y="134.8" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">del Concejo</text>
+<rect x="640" y="30" width="520" height="120" rx="14" fill="#F5DCDC" stroke="#9E2A2B" stroke-width="3"/>
+<text x="900.0" y="78.4" font-size="26" font-weight="bold" font-style="normal" text-anchor="middle" fill="#9E2A2B">Una omisión</text>
+<text x="900.0" y="121.7" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">el órgano no adopta la conducta debida</text>
+<line x1="300" y1="150" x2="300" y2="210" stroke="#1E2A38" stroke-width="3" marker-end="url(#ar)"/>
+<line x1="900" y1="150" x2="900" y2="210" stroke="#1E2A38" stroke-width="3" marker-end="url(#ar)"/>
+<rect x="40" y="210" width="520" height="140" rx="14" fill="#DCE8F4" stroke="#1F4E79" stroke-width="3"/>
+<text x="300.0" y="255.0" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1F4E79">Revocatoria</text>
+<text x="300.0" y="297.1" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">ante quien dictó el acto, dentro del</text>
+<text x="300.0" y="323.4" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">quinto día</text>
+<rect x="640" y="210" width="520" height="140" rx="14" fill="#DCE8F4" stroke="#1F4E79" stroke-width="3"/>
+<text x="900.0" y="255.0" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1F4E79">Requerimiento</text>
+<text x="900.0" y="297.1" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">al órgano, para que en quince días adopte</text>
+<text x="900.0" y="323.4" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">la conducta debida</text>
+<line x1="300" y1="350" x2="300" y2="410" stroke="#1E2A38" stroke-width="3" marker-end="url(#ar)"/>
+<line x1="900" y1="350" x2="900" y2="410" stroke="#1E2A38" stroke-width="3" marker-end="url(#ar)"/>
+<text x="912.0" y="388.0" font-size="21" font-weight="normal" font-style="italic" text-anchor="start" fill="#44505F">si la omisión persiste</text>
+<rect x="40" y="410" width="520" height="140" rx="14" fill="#DCE8F4" stroke="#1F4E79" stroke-width="3"/>
+<text x="300.0" y="468.1" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1F4E79">Apelación</text>
+<text x="300.0" y="510.2" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">ante la alcaldía, dentro del quinto día</text>
+<rect x="640" y="410" width="520" height="140" rx="14" fill="#E7E2F3" stroke="#5B4B8A" stroke-width="3"/>
+<text x="900.0" y="468.1" font-size="25" font-weight="bold" font-style="normal" text-anchor="middle" fill="#5B4B8A">Vía judicial</text>
+<text x="900.0" y="510.2" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">queda abierta</text>
+<text x="300.0" y="600.0" font-size="22" font-weight="normal" font-style="italic" text-anchor="middle" fill="#1E2A38">CM, art. 171</text>
+<text x="900.0" y="600.0" font-size="22" font-weight="normal" font-style="italic" text-anchor="middle" fill="#1E2A38">CPCA, art. 35</text>
+<text x="600.0" y="680.0" font-size="22" font-weight="normal" font-style="italic" text-anchor="middle" fill="#B5543A">La omisión no puede volverse un obstáculo para la persona (Cortés García, 2026, capítulo</text>
+<text x="600.0" y="707.5" font-size="22" font-weight="normal" font-style="italic" text-anchor="middle" fill="#B5543A">12).</text></svg>

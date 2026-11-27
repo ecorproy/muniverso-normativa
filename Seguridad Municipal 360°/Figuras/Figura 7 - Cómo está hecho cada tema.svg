@@ -1,65 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" font-family="DejaVu Serif, serif"><defs><marker id="ar" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L14,7 L0,14 Z" fill="#111"/></marker></defs><rect width="100%" height="100%" fill="white"/><circle cx="115.0" cy="70" r="30" fill="#111"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" font-family="DejaVu Serif, serif"><defs><marker id="ar" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L14,7 L0,14 Z" fill="#1E2A38"/></marker></defs><rect width="100%" height="100%" fill="white"/><circle cx="115.0" cy="70" r="30" fill="#B5543A"/>
 <text x="115.0" y="80.0" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">1</text>
-<rect x="40.0" y="120" width="150" height="300" rx="14" fill="white" stroke="#111" stroke-width="3"/>
-<text x="115.0" y="246.8" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">El caso</text>
-<text x="115.0" y="285.0" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">ilustra y</text>
-<text x="115.0" y="308.8" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">prueba</text>
-<line x1="194.0" y1="270" x2="197.66666666666666" y2="270" stroke="#111" stroke-width="3" marker-end="url(#ar)"/>
-<circle cx="276.66666666666663" cy="70" r="30" fill="#111"/>
+<rect x="40.0" y="120" width="150" height="300" rx="14" fill="#F8E2D8" stroke="#B5543A" stroke-width="3"/>
+<text x="115.0" y="246.8" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#B5543A">El caso</text>
+<text x="115.0" y="285.0" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">ilustra y</text>
+<text x="115.0" y="308.8" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">prueba</text>
+<line x1="194.0" y1="270" x2="197.66666666666666" y2="270" stroke="#1E2A38" stroke-width="3" marker-end="url(#ar)"/>
+<circle cx="276.66666666666663" cy="70" r="30" fill="#1F4E79"/>
 <text x="276.7" y="80.0" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">2</text>
-<rect x="201.66666666666666" y="120" width="150" height="300" rx="14" fill="#e6e6e6" stroke="#111" stroke-width="3"/>
-<text x="276.7" y="221.7" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Las</text>
-<text x="276.7" y="248.1" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">normas</text>
-<text x="276.7" y="286.4" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">competencia,</text>
-<text x="276.7" y="310.1" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">instrumentos</text>
-<text x="276.7" y="333.9" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">y límites</text>
-<line x1="355.66666666666663" y1="270" x2="359.3333333333333" y2="270" stroke="#111" stroke-width="3" marker-end="url(#ar)"/>
-<circle cx="438.3333333333333" cy="70" r="30" fill="#111"/>
+<rect x="201.66666666666666" y="120" width="150" height="300" rx="14" fill="#DCE8F4" stroke="#1F4E79" stroke-width="3"/>
+<text x="276.7" y="221.7" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1F4E79">Las</text>
+<text x="276.7" y="248.1" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1F4E79">normas</text>
+<text x="276.7" y="286.4" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">competencia,</text>
+<text x="276.7" y="310.1" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">instrumentos</text>
+<text x="276.7" y="333.9" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">y límites</text>
+<line x1="355.66666666666663" y1="270" x2="359.3333333333333" y2="270" stroke="#1E2A38" stroke-width="3" marker-end="url(#ar)"/>
+<circle cx="438.3333333333333" cy="70" r="30" fill="#5B4B8A"/>
 <text x="438.3" y="80.0" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">3</text>
-<rect x="363.3333333333333" y="120" width="150" height="300" rx="14" fill="white" stroke="#111" stroke-width="3"/>
-<text x="438.3" y="209.8" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Votos y</text>
-<text x="438.3" y="236.2" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">dictámenes</text>
-<text x="438.3" y="274.5" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">la</text>
-<text x="438.3" y="298.2" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">jurisprudencia</text>
-<text x="438.3" y="322.0" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">y la</text>
-<text x="438.3" y="345.7" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Procuraduría</text>
-<line x1="517.3333333333333" y1="270" x2="520.9999999999999" y2="270" stroke="#111" stroke-width="3" marker-end="url(#ar)"/>
-<circle cx="600.0" cy="70" r="30" fill="#111"/>
+<rect x="363.3333333333333" y="120" width="150" height="300" rx="14" fill="#E7E2F3" stroke="#5B4B8A" stroke-width="3"/>
+<text x="438.3" y="209.8" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#5B4B8A">Votos y</text>
+<text x="438.3" y="236.2" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#5B4B8A">dictámenes</text>
+<text x="438.3" y="274.5" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">la</text>
+<text x="438.3" y="298.2" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">jurisprudencia</text>
+<text x="438.3" y="322.0" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">y la</text>
+<text x="438.3" y="345.7" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">Procuraduría</text>
+<line x1="517.3333333333333" y1="270" x2="520.9999999999999" y2="270" stroke="#1E2A38" stroke-width="3" marker-end="url(#ar)"/>
+<circle cx="600.0" cy="70" r="30" fill="#B07A12"/>
 <text x="600.0" y="80.0" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">4</text>
-<rect x="525.0" y="120" width="150" height="300" rx="14" fill="white" stroke="#111" stroke-width="3"/>
-<text x="600.0" y="221.7" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Con qué</text>
-<text x="600.0" y="248.1" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">se paga</text>
-<text x="600.0" y="286.4" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">partidas,</text>
-<text x="600.0" y="310.1" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">tasas y</text>
-<text x="600.0" y="333.9" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">transferencias</text>
-<line x1="679.0" y1="270" x2="682.6666666666666" y2="270" stroke="#111" stroke-width="3" marker-end="url(#ar)"/>
-<circle cx="761.6666666666666" cy="70" r="30" fill="#111"/>
+<rect x="525.0" y="120" width="150" height="300" rx="14" fill="#FBEDCF" stroke="#B07A12" stroke-width="3"/>
+<text x="600.0" y="209.8" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#B07A12">Con qué</text>
+<text x="600.0" y="236.2" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#B07A12">se paga</text>
+<text x="600.0" y="274.5" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">cuando el</text>
+<text x="600.0" y="298.2" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">bien exige</text>
+<text x="600.0" y="322.0" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">gasto</text>
+<text x="600.0" y="345.7" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">propio</text>
+<line x1="679.0" y1="270" x2="682.6666666666666" y2="270" stroke="#1E2A38" stroke-width="3" marker-end="url(#ar)"/>
+<circle cx="761.6666666666666" cy="70" r="30" fill="#4F7942"/>
 <text x="761.7" y="80.0" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">5</text>
-<rect x="686.6666666666666" y="120" width="150" height="300" rx="14" fill="#e6e6e6" stroke="#111" stroke-width="3"/>
-<text x="761.7" y="209.8" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Cómo lo</text>
-<text x="761.7" y="236.2" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">hace</text>
-<text x="761.7" y="274.5" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">el gobierno</text>
-<text x="761.7" y="298.2" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">local hace</text>
-<text x="761.7" y="322.0" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">que el bien</text>
-<text x="761.7" y="345.7" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">exista</text>
-<line x1="840.6666666666666" y1="270" x2="844.3333333333333" y2="270" stroke="#111" stroke-width="3" marker-end="url(#ar)"/>
-<circle cx="923.3333333333333" cy="70" r="30" fill="#111"/>
+<rect x="686.6666666666666" y="120" width="150" height="300" rx="14" fill="#E2EEDC" stroke="#4F7942" stroke-width="3"/>
+<text x="761.7" y="209.8" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#4F7942">Cómo lo</text>
+<text x="761.7" y="236.2" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#4F7942">hace</text>
+<text x="761.7" y="274.5" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">el gobierno</text>
+<text x="761.7" y="298.2" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">local hace</text>
+<text x="761.7" y="322.0" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">que el bien</text>
+<text x="761.7" y="345.7" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">exista</text>
+<line x1="840.6666666666666" y1="270" x2="844.3333333333333" y2="270" stroke="#1E2A38" stroke-width="3" marker-end="url(#ar)"/>
+<circle cx="923.3333333333333" cy="70" r="30" fill="#6B7480"/>
 <text x="923.3" y="80.0" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">6</text>
-<rect x="848.3333333333333" y="120" width="150" height="300" rx="14" fill="white" stroke="#111" stroke-width="3"/>
-<text x="923.3" y="208.5" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Lo que</text>
-<text x="923.3" y="234.9" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">hoy se</text>
-<text x="923.3" y="261.3" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">mide</text>
-<text x="923.3" y="299.6" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">qué se</text>
-<text x="923.3" y="323.3" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">registra y</text>
-<text x="923.3" y="347.1" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">qué falta</text>
-<line x1="1002.3333333333333" y1="270" x2="1005.9999999999999" y2="270" stroke="#111" stroke-width="3" marker-end="url(#ar)"/>
-<circle cx="1085.0" cy="70" r="30" fill="#111"/>
+<rect x="848.3333333333333" y="120" width="150" height="300" rx="14" fill="#EEF0F3" stroke="#6B7480" stroke-width="3"/>
+<text x="923.3" y="208.5" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#6B7480">Lo que</text>
+<text x="923.3" y="234.9" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#6B7480">hoy se</text>
+<text x="923.3" y="261.3" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#6B7480">mide</text>
+<text x="923.3" y="299.6" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">qué se</text>
+<text x="923.3" y="323.3" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">registra y</text>
+<text x="923.3" y="347.1" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">qué falta</text>
+<line x1="1002.3333333333333" y1="270" x2="1005.9999999999999" y2="270" stroke="#1E2A38" stroke-width="3" marker-end="url(#ar)"/>
+<circle cx="1085.0" cy="70" r="30" fill="#1F4E79"/>
 <text x="1085.0" y="80.0" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">7</text>
-<rect x="1010.0" y="120" width="150" height="300" rx="14" fill="white" stroke="#111" stroke-width="3"/>
-<text x="1085.0" y="223.0" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Conclusión</text>
-<text x="1085.0" y="261.3" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">los deberes</text>
-<text x="1085.0" y="285.0" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">del</text>
-<text x="1085.0" y="308.8" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">gobierno</text>
-<text x="1085.0" y="332.5" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">local</text>
-<text x="600.0" y="480.0" font-size="22" font-weight="normal" font-style="italic" text-anchor="middle" fill="#111">La pregunta del tema: cómo puede y debe el gobierno local hacer que el bien exista en el</text>
-<text x="600.0" y="507.5" font-size="22" font-weight="normal" font-style="italic" text-anchor="middle" fill="#111">cantón.</text></svg>
+<rect x="1010.0" y="120" width="150" height="300" rx="14" fill="#9DBAD8" stroke="#1F4E79" stroke-width="3"/>
+<text x="1085.0" y="223.0" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1F4E79">Conclusión</text>
+<text x="1085.0" y="261.3" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">los deberes</text>
+<text x="1085.0" y="285.0" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">del</text>
+<text x="1085.0" y="308.8" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">gobierno</text>
+<text x="1085.0" y="332.5" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">local</text>
+<text x="600.0" y="480.0" font-size="22" font-weight="normal" font-style="italic" text-anchor="middle" fill="#1E2A38">La pregunta del tema: cómo puede y debe el gobierno local hacer que el bien exista en el</text>
+<text x="600.0" y="507.5" font-size="22" font-weight="normal" font-style="italic" text-anchor="middle" fill="#1E2A38">cantón.</text></svg>

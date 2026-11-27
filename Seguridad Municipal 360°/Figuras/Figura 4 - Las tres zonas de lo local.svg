@@ -1,37 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" font-family="DejaVu Serif, serif"><defs><marker id="ar" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L14,7 L0,14 Z" fill="#111"/></marker></defs><rect width="100%" height="100%" fill="white"/><ellipse cx="420" cy="450" rx="400" ry="400" fill="white" stroke="#111" stroke-width="3" stroke-dasharray="12,8"/>
-<ellipse cx="420" cy="450" rx="280" ry="280" fill="#e6e6e6" stroke="#111" stroke-width="3"/>
-<ellipse cx="420" cy="450" rx="150" ry="150" fill="#bdbdbd" stroke="#111" stroke-width="3"/>
-<text x="420.0" y="435.0" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Núcleo</text>
-<text x="420.0" y="468.0" font-size="21" font-weight="normal" font-style="italic" text-anchor="middle" fill="#111">zona de certeza</text>
-<text x="420.0" y="225.0" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Halo</text>
-<text x="420.0" y="255.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="middle" fill="#111">caso por caso, en contacto con</text>
-<text x="420.0" y="280.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="middle" fill="#111">la realidad</text>
-<text x="420.0" y="135.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Zona de certeza negativa</text>
-<rect x="845" y="20" width="340" height="252.55" rx="14" fill="#bdbdbd" stroke="#111" stroke-width="3"/>
-<text x="1015.0" y="55.4" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Núcleo</text>
-<text x="1015.0" y="96.3" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Desarrollo urbano (Ley</text>
-<text x="1015.0" y="122.5" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">4240, art. 15); calles del</text>
-<text x="1015.0" y="148.8" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">cantón (Ley 5060, art. 2);</text>
-<text x="1015.0" y="175.0" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">licencias comerciales</text>
-<text x="1015.0" y="201.3" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">(voto 1997-006469);</text>
-<text x="1015.0" y="227.5" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">pluviales de un barrio</text>
-<text x="1015.0" y="253.8" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">(voto 2006-017907).</text>
-<rect x="845" y="290.55" width="340" height="226.3" rx="14" fill="#e6e6e6" stroke="#111" stroke-width="3"/>
-<text x="1015.0" y="325.9" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Halo</text>
-<text x="1015.0" y="366.9" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">La mayor parte de la red</text>
-<text x="1015.0" y="393.1" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">del capítulo 1. Hechos que</text>
-<text x="1015.0" y="419.4" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">el juez comprueba enteros;</text>
-<text x="1015.0" y="445.6" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">valores donde la</text>
-<text x="1015.0" y="471.9" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">municipalidad tiene</text>
-<text x="1015.0" y="498.1" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">margen.</text>
-<rect x="845" y="534.85" width="340" height="305.05" rx="14" fill="white" stroke="#111" stroke-width="3" stroke-dasharray="12,8"/>
-<text x="1015.0" y="570.2" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Certeza negativa</text>
-<text x="1015.0" y="611.1" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Sistema 9-1-1</text>
-<text x="1015.0" y="637.4" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">(C-287-2024);</text>
-<text x="1015.0" y="663.6" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">telecomunicaciones (voto</text>
-<text x="1015.0" y="689.9" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">2011-015763); aceras de</text>
-<text x="1015.0" y="716.1" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">rutas nacionales</text>
-<text x="1015.0" y="742.4" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">(C-231-2022); salud de la</text>
-<text x="1015.0" y="768.6" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">CCSS (C-125-2022). La</text>
-<text x="1015.0" y="794.9" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">municipalidad coordina,</text>
-<text x="1015.0" y="821.1" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">comunica e insta.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" font-family="DejaVu Serif, serif"><defs><marker id="ar" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L14,7 L0,14 Z" fill="#1E2A38"/></marker></defs><rect width="100%" height="100%" fill="white"/><ellipse cx="420" cy="450" rx="400" ry="400" fill="#EEF0F3" stroke="#6B7480" stroke-width="3" stroke-dasharray="12,8"/>
+<ellipse cx="420" cy="450" rx="280" ry="280" fill="#FBEDCF" stroke="#B07A12" stroke-width="3"/>
+<ellipse cx="420" cy="450" rx="150" ry="150" fill="#9DBAD8" stroke="#1F4E79" stroke-width="4"/>
+<text x="420.0" y="435.0" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1F4E79">Núcleo</text>
+<text x="420.0" y="468.0" font-size="21" font-weight="normal" font-style="italic" text-anchor="middle" fill="#1E2A38">zona de certeza</text>
+<text x="420.0" y="225.0" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="#B07A12">Halo</text>
+<text x="420.0" y="255.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="middle" fill="#1E2A38">caso por caso, en contacto con</text>
+<text x="420.0" y="280.0" font-size="20" font-weight="normal" font-style="italic" text-anchor="middle" fill="#1E2A38">la realidad</text>
+<text x="420.0" y="135.0" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#6B7480">Zona de certeza negativa</text>
+<rect x="845" y="20" width="340" height="252.55" rx="14" fill="#9DBAD8" stroke="#1F4E79" stroke-width="3"/>
+<text x="1015.0" y="55.4" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1F4E79">Núcleo</text>
+<text x="1015.0" y="96.3" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">Desarrollo urbano (Ley</text>
+<text x="1015.0" y="122.5" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">4240, art. 15); calles del</text>
+<text x="1015.0" y="148.8" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">cantón (Ley 5060, art. 2);</text>
+<text x="1015.0" y="175.0" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">licencias comerciales</text>
+<text x="1015.0" y="201.3" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">(voto 1997-006469);</text>
+<text x="1015.0" y="227.5" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">pluviales de un barrio</text>
+<text x="1015.0" y="253.8" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">(voto 2006-017907).</text>
+<rect x="845" y="290.55" width="340" height="226.3" rx="14" fill="#FBEDCF" stroke="#B07A12" stroke-width="3"/>
+<text x="1015.0" y="325.9" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#B07A12">Halo</text>
+<text x="1015.0" y="366.9" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">La mayor parte de la red</text>
+<text x="1015.0" y="393.1" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">del capítulo 1. Hechos que</text>
+<text x="1015.0" y="419.4" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">el juez comprueba enteros;</text>
+<text x="1015.0" y="445.6" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">valores donde la</text>
+<text x="1015.0" y="471.9" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">municipalidad tiene</text>
+<text x="1015.0" y="498.1" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">margen.</text>
+<rect x="845" y="534.85" width="340" height="305.05" rx="14" fill="#EEF0F3" stroke="#6B7480" stroke-width="3" stroke-dasharray="12,8"/>
+<text x="1015.0" y="570.2" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#6B7480">Certeza negativa</text>
+<text x="1015.0" y="611.1" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">Sistema 9-1-1</text>
+<text x="1015.0" y="637.4" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">(C-287-2024);</text>
+<text x="1015.0" y="663.6" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">telecomunicaciones (voto</text>
+<text x="1015.0" y="689.9" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">2011-015763); aceras de</text>
+<text x="1015.0" y="716.1" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">rutas nacionales</text>
+<text x="1015.0" y="742.4" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">(C-231-2022); salud de la</text>
+<text x="1015.0" y="768.6" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">CCSS (C-125-2022). La</text>
+<text x="1015.0" y="794.9" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">municipalidad coordina,</text>
+<text x="1015.0" y="821.1" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">comunica e insta.</text></svg>

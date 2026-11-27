@@ -1,35 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="830" viewBox="0 0 1200 830" font-family="DejaVu Serif, serif"><defs><marker id="ar" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L14,7 L0,14 Z" fill="#111"/></marker></defs><rect width="100%" height="100%" fill="white"/><text x="40.0" y="50.0" font-size="26" font-weight="bold" font-style="normal" text-anchor="start" fill="#111">Cómo se compone la calificación</text>
-<rect x="40" y="80" width="896.0" height="90" fill="#555" stroke="#111" stroke-width="3"/>
-<rect x="936.0" y="80" width="224.0" height="90" fill="#e6e6e6" stroke="#111" stroke-width="3"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="830" viewBox="0 0 1200 830" font-family="DejaVu Serif, serif"><defs><marker id="ar" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L14,7 L0,14 Z" fill="#1E2A38"/></marker></defs><rect width="100%" height="100%" fill="white"/><text x="40.0" y="50.0" font-size="26" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Cómo se compone la calificación</text>
+<rect x="40" y="80" width="896.0" height="90" fill="#B5543A" stroke="#B5543A" stroke-width="3"/>
+<rect x="936.0" y="80" width="224.0" height="90" fill="#DCE8F4" stroke="#1F4E79" stroke-width="3"/>
 <text x="488.0" y="120.0" font-size="30" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">80 %</text>
 <text x="488.0" y="152.0" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="white">cumplimiento de las metas anuales de servicios y productos</text>
-<text x="1048.0" y="120.0" font-size="30" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">20 %</text>
-<text x="1048.0" y="152.0" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#111">competencias del puesto</text>
-<text x="600.0" y="205.0" font-size="19" font-weight="normal" font-style="italic" text-anchor="middle" fill="#333">Ley 2166, art. 48, en la redacción que le dio la Ley 10159</text>
-<text x="40.0" y="290.0" font-size="26" font-weight="bold" font-style="normal" text-anchor="start" fill="#111">Qué produce la calificación</text>
-<rect x="40" y="320" width="360" height="300" rx="14" fill="#e6e6e6" stroke="#111" stroke-width="3"/>
-<text x="220.0" y="370.0" font-size="23" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">«Muy bueno» o su</text>
-<text x="220.0" y="398.8" font-size="23" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">equivalente</text>
-<text x="220.0" y="460.0" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Incentivo por anualidad,</text>
-<text x="220.0" y="486.2" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">para quien labora con</text>
-<text x="220.0" y="512.5" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">salario compuesto (Ley 2166,</text>
-<text x="220.0" y="538.8" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">art. 48).</text>
-<rect x="420" y="320" width="360" height="300" rx="14" fill="white" stroke="#111" stroke-width="3"/>
-<text x="600.0" y="370.0" font-size="23" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Toda calificación</text>
-<text x="600.0" y="460.0" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Se considera para ascensos,</text>
-<text x="600.0" y="486.2" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">promociones,</text>
-<text x="600.0" y="512.5" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">reconocimientos,</text>
-<text x="600.0" y="538.8" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">capacitaciones y</text>
-<text x="600.0" y="565.0" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">adiestramientos (Ley 2166,</text>
-<text x="600.0" y="591.2" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">art. 49).</text>
-<rect x="800" y="320" width="360" height="300" rx="14" fill="#555" stroke="#111" stroke-width="3"/>
+<text x="1048.0" y="120.0" font-size="30" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1E2A38">20 %</text>
+<text x="1048.0" y="152.0" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1E2A38">competencias del puesto</text>
+<text x="600.0" y="205.0" font-size="19" font-weight="normal" font-style="italic" text-anchor="middle" fill="#44505F">Ley 2166, art. 48, en la redacción que le dio la Ley 10159</text>
+<text x="40.0" y="290.0" font-size="26" font-weight="bold" font-style="normal" text-anchor="start" fill="#1E2A38">Qué produce la calificación</text>
+<rect x="40" y="320" width="360" height="300" rx="14" fill="#E2EEDC" stroke="#4F7942" stroke-width="3"/>
+<text x="220.0" y="370.0" font-size="23" font-weight="bold" font-style="normal" text-anchor="middle" fill="#4F7942">«Muy bueno» o su</text>
+<text x="220.0" y="398.8" font-size="23" font-weight="bold" font-style="normal" text-anchor="middle" fill="#4F7942">equivalente</text>
+<text x="220.0" y="460.0" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">Incentivo por anualidad,</text>
+<text x="220.0" y="486.2" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">para quien labora con</text>
+<text x="220.0" y="512.5" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">salario compuesto (Ley 2166,</text>
+<text x="220.0" y="538.8" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">art. 48).</text>
+<rect x="420" y="320" width="360" height="300" rx="14" fill="#DCE8F4" stroke="#1F4E79" stroke-width="3"/>
+<text x="600.0" y="370.0" font-size="23" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1F4E79">Toda calificación</text>
+<text x="600.0" y="460.0" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">Se considera para ascensos,</text>
+<text x="600.0" y="486.2" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">promociones,</text>
+<text x="600.0" y="512.5" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">reconocimientos,</text>
+<text x="600.0" y="538.8" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">capacitaciones y</text>
+<text x="600.0" y="565.0" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">adiestramientos (Ley 2166,</text>
+<text x="600.0" y="591.2" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">art. 49).</text>
+<rect x="800" y="320" width="360" height="300" rx="14" fill="#9E2A2B" stroke="#9E2A2B" stroke-width="3"/>
 <text x="980.0" y="370.0" font-size="23" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">Inferior al 70 % dos</text>
 <text x="980.0" y="398.8" font-size="23" font-weight="bold" font-style="normal" text-anchor="middle" fill="white">veces seguidas</text>
 <text x="980.0" y="460.0" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="white">Causal de despido, con las</text>
 <text x="980.0" y="486.2" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="white">condiciones que fija la</text>
 <text x="980.0" y="512.5" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="white">norma (Ley 10159, art. 21).</text>
-<rect x="40" y="660" width="1120" height="150" rx="14" fill="white" stroke="#111" stroke-width="3" stroke-dasharray="10,7"/>
-<text x="600.0" y="700.4" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Cada puntaje es un acto administrativo</text>
-<text x="600.0" y="741.1" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Debe estar motivado y admite los recursos ordinarios; la aplicación individual se discute en la vía de</text>
-<text x="600.0" y="764.8" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">legalidad (voto 2025-008201, cons. XXVIII). Sin motivación se lesionan el debido proceso y el derecho</text>
-<text x="600.0" y="788.6" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">de defensa (Cortés García, 2026, capítulo 25).</text></svg>
+<rect x="40" y="660" width="1120" height="150" rx="14" fill="#FBEDCF" stroke="#B07A12" stroke-width="3" stroke-dasharray="10,7"/>
+<text x="600.0" y="700.4" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#B07A12">Cada puntaje es un acto administrativo</text>
+<text x="600.0" y="741.1" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">Debe estar motivado y admite los recursos ordinarios; la aplicación individual se discute en la vía de</text>
+<text x="600.0" y="764.8" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">legalidad (voto 2025-008201, cons. XXVIII). Sin motivación se lesionan el debido proceso y el derecho</text>
+<text x="600.0" y="788.6" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#44505F">de defensa (Cortés García, 2026, capítulo 25).</text></svg>

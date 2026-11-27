@@ -1,0 +1,652 @@
+{
+"t01": {
+"title": "1. Salud física",
+"heads": [
+"El caso",
+"Quién manda en la salud del cantón",
+"El veinte por ciento",
+"Las aguas y los vectores",
+"La licencia y el permiso sanitario",
+"Animales, fuego y humo",
+"El cuerpo que se mueve",
+"Quienes trabajan para la municipalidad",
+"Las obras y los aliados de la salud",
+"Con qué se paga",
+"Cómo hace el gobierno local que exista la salud física",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t02": {
+"title": "2. Salud mental",
+"heads": [
+"El caso",
+"Un bien que se produce en el entorno",
+"La facultad y el deber",
+"Lo que la municipalidad no hace",
+"El estigma",
+"El comportamiento suicida",
+"Quienes trabajan para la municipalidad",
+"Con qué se paga",
+"Cómo hace el gobierno local que exista la salud mental",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t03": {
+"title": "3. Alimentación",
+"heads": [
+"El caso",
+"La feria que la municipalidad no administra",
+"El mercado propio",
+"El alimento orgánico",
+"El precio",
+"La municipalidad que compra alimentos",
+"Quien vende al Estado",
+"La venta de alimentos en la calle",
+"La licencia de quien abastece",
+"La ayuda alimentaria",
+"Con qué se paga",
+"Cómo hace el gobierno local que exista la alimentación",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t04": {
+"title": "4. Integridad personal y de bienes",
+"heads": [
+"El caso",
+"Un servicio que se decide crear",
+"La fuerza de las decisiones municipales",
+"Quienes la integran",
+"Detener y usar la fuerza",
+"La cámara y la grabación",
+"Los bienes",
+"El tránsito",
+"Con qué se paga",
+"Cómo hace el gobierno local que exista la integridad personal y de bienes",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t05": {
+"title": "5. Seguridad vial",
+"heads": [
+"El caso",
+"De quién es la calle",
+"La calle ajena",
+"Pintar la calle",
+"La señal sin permiso del Ministerio",
+"El reductor de velocidad",
+"Quién multa en la calle cantonal",
+"El espacio para estacionar",
+"Los consejos que se quedaron sin fondo",
+"Con qué se paga",
+"Cómo hace el gobierno local que exista la seguridad vial",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t06": {
+"title": "6. Emergencias y desastres",
+"heads": [
+"El caso",
+"El riesgo que se construye",
+"El informe técnico y la orden",
+"La emergencia sin decreto",
+"La declaratoria local que la ley no prevé",
+"Quién responde dentro de la municipalidad",
+"El cauce, la propiedad privada y el dique",
+"El agua que baja por la calle",
+"Después del desastre: la ayuda a quien lo perdió",
+"Colaborar, avisar y prestar el equipo",
+"Con qué se paga",
+"Cómo hace el gobierno local que exista la seguridad frente al desastre",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t07": {
+"title": "7. Adicciones",
+"heads": [
+"El caso",
+"Una enfermedad que la municipalidad no cura",
+"Cuántas licencias y dónde",
+"La licencia es reglada",
+"De mercancía a autorización",
+"La fiesta, el turno y el estadio",
+"La calle y la vía pública",
+"Vigilar después de otorgar",
+"La persona menor de edad",
+"El tabaco, el cannabis y el dinero sucio",
+"Quienes trabajan para la municipalidad",
+"Con qué se paga",
+"Cómo hace el gobierno local que exista la protección frente a la adicción",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t08": {
+"title": "8. Personas en situación de calle",
+"heads": [
+"El caso",
+"La persona que no es parte",
+"Lo que manda la ley desde 2021",
+"El albergue no pide vecindad",
+"El parque, el mercado y la noche",
+"Quien se acerca primero",
+"El servicio y su control",
+"Lo que debe decir el reglamento",
+"Con quién se presta",
+"Antes de la calle",
+"Al final de la vida",
+"Con qué se paga",
+"Cómo hace el gobierno local que exista un lugar seguro donde dormir",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t09": {
+"title": "9. Final de la vida",
+"heads": [
+"El caso",
+"Un bien fuera del comercio",
+"La propiedad que sobrevivió a 1884",
+"Lo que se recibe y lo que se pierde",
+"La pérdida del lugar",
+"Quien administra",
+"Quien no puede pagar",
+"Cuando mueren muchos",
+"El cementerio en el territorio",
+"Antes del final",
+"Con qué se paga",
+"Cómo hace el gobierno local que exista un lugar digno para despedir a los muertos",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t10": {
+"title": "10. Igualdad y no discriminación",
+"heads": [
+"El caso",
+"Una regla del servicio además de una regla de trato",
+"La desigualdad que nadie decide",
+"El edificio, la acera y la ventanilla",
+"Las reglas comunes y las reglas propias del territorio indígena",
+"Consultar antes de decidir",
+"Servicios hechos a la medida",
+"La política cantonal contra la discriminación",
+"Quienes trabajan para la municipalidad",
+"Con qué se paga",
+"Cómo hace el gobierno local que exista la igualdad",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t11": {
+"title": "11. Igualdad de género",
+"heads": [
+"El caso",
+"Una política con ciclo completo",
+"La oficina que la ley presupone",
+"La paridad en el Concejo y en lo que el Concejo nombra",
+"La violencia contra las mujeres en la política municipal",
+"El hostigamiento sexual en la municipalidad",
+"La madre que trabaja para la municipalidad",
+"El cuido que libera el tiempo",
+"La calle, la plaza y la casa",
+"Con qué se paga",
+"Cómo hace el gobierno local que exista la igualdad de género",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t12": {
+"title": "12. Personas migrantes y refugiadas",
+"heads": [
+"El caso",
+"Quién forma parte del municipio",
+"La beca, la ayuda y el albergue",
+"El requisito que menos afecta",
+"La beca ante la Sala Constitucional",
+"El comercio y la licencia",
+"La costa, la tierra y el empleo",
+"La policía municipal no es policía migratoria",
+"La participación y la convivencia",
+"La frontera",
+"La trata de personas",
+"Con qué se paga",
+"Cómo hace el gobierno local que la persona migrante y refugiada pertenezca al cantón",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t13": {
+"title": "13. Trato y trámites ante la Municipalidad",
+"heads": [
+"El caso",
+"La gestión que se recibe",
+"El requisito que la municipalidad puede pedir",
+"La respuesta",
+"El silencio",
+"La ventanilla para todas las personas",
+"La contraloría de servicios y la mejora regulatoria",
+"La queja y la responsabilidad",
+"Con qué se paga",
+"Cómo hace el gobierno local que la persona sea bien atendida",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t14": {
+"title": "14. Información y transparencia",
+"heads": [
+"El caso",
+"Qué pertenece a los vecinos",
+"La ley marco de 2024",
+"Quién entrega y en qué plazo",
+"Los límites que la ley sí permite",
+"Lo que se publica sin que nadie lo pida",
+"Las sesiones a la vista",
+"Las redes institucionales",
+"Con qué se paga",
+"Cómo hace el gobierno local que la información sea de los vecinos",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t15": {
+"title": "15. Participación",
+"heads": [
+"El caso",
+"Lo que ordenan la Constitución y el Código",
+"La audiencia del plan regulador",
+"Los reglamentos se consultan",
+"El presupuesto y las obras",
+"Los pueblos indígenas y tribales",
+"Las decisiones que toman otras instituciones",
+"Las juventudes y la comunidad organizada",
+"Las consultas populares",
+"La participación que el Concejo puede crear",
+"La rendición de cuentas",
+"Los concejos de distrito y los medios",
+"Con qué se paga",
+"Cómo hace el gobierno local que las personas tomen parte",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t16": {
+"title": "16. Intimidad y datos personales",
+"heads": [
+"El caso",
+"Qué protege la intimidad",
+"Lo que la municipalidad sabe de las personas",
+"Las cámaras",
+"Los drones",
+"La imagen y su difusión",
+"Cuando el que mira es el vecino",
+"Con qué se paga",
+"Cómo hace el gobierno local que la intimidad exista",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t17": {
+"title": "17. Acceso digital",
+"heads": [
+"El caso",
+"El derecho que se reconoció en 2023",
+"La infraestructura que la municipalidad permite",
+"Los cables que cuelgan en la calle",
+"Las sesiones que se ven desde la casa",
+"La página, el correo y la ventanilla",
+"Lo que ve y oye quien tiene una discapacidad",
+"Los locales de internet y las personas menores de edad",
+"Con qué se paga",
+"Cómo hace el gobierno local que el acceso digital exista",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t18": {
+"title": "18. Trabajo y sustento",
+"heads": [
+"El caso",
+"La puerta de la licencia",
+"La acera como lugar de trabajo",
+"Cuando el permiso termina",
+"El que vende sin permiso",
+"Los alimentos, las ruedas y las terrazas",
+"Lo que el Concejo no puede cerrar",
+"Las ferias, las cooperativas y las asociaciones",
+"La municipalidad como empleadora",
+"Cuando el empleo municipal se pierde",
+"Con qué se paga",
+"Cómo hace el gobierno local que el trabajo y el sustento existan",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t19": {
+"title": "19. Familia",
+"heads": [
+"El caso",
+"La familia como sujeto de protección local",
+"Cobrar a la familia",
+"Ayudar a la familia en desgracia",
+"Qué familia y en qué plazo",
+"La puerta de entrada",
+"Con qué se paga",
+"Cómo hace el gobierno local que la familia esté protegida",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t20": {
+"title": "20. Maternidad y primera infancia",
+"heads": [
+"El caso",
+"Una protección que la Constitución reparte",
+"El centro de cuido municipal",
+"Quién paga, quién entra y quién sale",
+"La madre adolescente",
+"La sala de lactancia",
+"La maternidad de quienes trabajan en la municipalidad",
+"Con qué se paga",
+"Cómo hace el gobierno local que la madre y el niño pequeño estén protegidos",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t21": {
+"title": "21. Niñez",
+"heads": [
+"El caso",
+"Un sistema nacional con piezas locales",
+"El interés superior en los actos ordinarios",
+"El juego y el espacio",
+"La escuela y el camino",
+"La red de cuido después de los siete años",
+"La violencia y el trabajo infantil",
+"Con qué se paga",
+"Cómo hace el gobierno local que los niños del cantón ejerzan sus derechos",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t22": {
+"title": "22. Adolescencia y juventud",
+"heads": [
+"El caso",
+"Quién es joven para el gobierno local",
+"El comité cantonal de la persona joven",
+"El dinero de los jóvenes",
+"La casa y la plaza",
+"El trabajo adolescente",
+"La prevención de la violencia",
+"El colegio",
+"El joven indígena",
+"Con qué se paga",
+"Cómo hace el gobierno local que los adolescentes y los jóvenes del cantón ejerzan sus derechos",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t23": {
+"title": "23. Personas adultas mayores",
+"heads": [
+"El caso",
+"Quién es persona adulta mayor",
+"La ventanilla y el edificio",
+"La acera y el camino",
+"La oficina municipal",
+"Los tributos de quien ya no puede pagar",
+"El patrimonio y el maltrato",
+"Envejecer activo y envejecer cuidado",
+"La persona mayor que trabaja y opina",
+"Con qué se paga",
+"Cómo hace el gobierno local que las personas adultas mayores ejerzan sus derechos",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t24": {
+"title": "24. Personas con discapacidad",
+"heads": [
+"El caso",
+"Qué es la discapacidad para el gobierno local",
+"La acera",
+"El edificio y la ventanilla",
+"La comisión y la oficina",
+"La consulta",
+"El servicio de apoyo",
+"La casa",
+"El regidor y la persona servidora",
+"El espectáculo y el parque",
+"Con qué se paga",
+"Cómo hace el gobierno local que las personas con discapacidad ejerzan sus derechos",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t25": {
+"title": "25. Cuido",
+"heads": [
+"El caso",
+"Qué es cuidar",
+"Cuidar o apoyar",
+"El gobierno local en el sistema",
+"La lista de espera",
+"La salida del programa",
+"El dinero del cuido",
+"El centro diurno",
+"La persona cuidadora",
+"La persona servidora que cuida",
+"Con qué se paga",
+"Cómo hace el gobierno local que el cuido exista",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t26": {
+"title": "26. Violencia doméstica",
+"heads": [
+"El caso",
+"Qué es la violencia doméstica",
+"Un sistema del que la municipalidad no es parte",
+"Los niños de la casa",
+"La violencia dentro del cuido",
+"La oficina de la mujer",
+"La prevención antes de la crisis",
+"La policía municipal",
+"El agresor de uniforme",
+"El albergue",
+"La salida",
+"Con qué se paga",
+"Cómo hace el gobierno local que exista la protección",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t27": {
+"title": "27. Convivencia vecinal",
+"heads": [
+"El caso",
+"Lo que la municipalidad no puede prohibir",
+"Lo que la municipalidad sí controla: sus bienes y su propia conducta",
+"La zonificación como lugar de la regla",
+"El ruido: la licencia no es patente de corso",
+"Fiestas, festejos y el espacio de todos",
+"El conflicto entre vecinos",
+"Con qué se paga",
+"Cómo hace el gobierno local que exista la convivencia vecinal",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t28": {
+"title": "28. Agua y saneamiento",
+"heads": [
+"El caso",
+"Tres capas de ley",
+"El acueducto municipal",
+"Donde no hay acueducto municipal",
+"La disponibilidad y el urbanizador",
+"El origen del agua",
+"Las aguas negras",
+"El tanque séptico y la licencia",
+"La cuenca entera",
+"El agua de lluvia",
+"Cuando el problema es de varios",
+"Con qué se paga",
+"Cómo hace el gobierno local que el agua y el saneamiento existan",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t29": {
+"title": "29. Residuos y limpieza",
+"heads": [
+"El caso",
+"Un deber escrito en verbos",
+"La recolección no se suspende",
+"El plan y quien lo ejecuta",
+"Lo que se separa y de quién es",
+"El lote y la casa abandonada",
+"Los grandes generadores y los eventos",
+"Vertederos, vehículos y sanciones",
+"La limpieza de vías",
+"Con qué se paga",
+"Cómo hace el gobierno local que el cantón esté limpio",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t30": {
+"title": "30. Ambiente y arbolado",
+"heads": [
+"El caso",
+"Un deber que no depende del permiso",
+"El paisaje de la ciudad",
+"La actividad que daña al vecino",
+"El bosque y los árboles fuera de la ciudad",
+"El árbol de la ciudad",
+"Quién decide la corta del árbol peligroso",
+"El suelo y el área protegida",
+"La costa",
+"Con qué se cubre",
+"Con qué se paga",
+"Cómo hace el gobierno local que el ambiente del cantón se conserve",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t31": {
+"title": "31. Animales",
+"heads": [
+"El caso",
+"La dignidad como punto de partida",
+"El permiso del espectáculo",
+"El perro en la calle",
+"El ganado suelto y el que se arrea",
+"El dueño y la sanción que no es municipal",
+"El servicio de 2022",
+"La fauna silvestre y el espacio público",
+"Los animales de la municipalidad",
+"Cuando se retiene o se sacrifica",
+"Con qué se paga",
+"Cómo hace el gobierno local que los animales del cantón estén protegidos",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t32": {
+"title": "32. Vivienda",
+"heads": [
+"El caso",
+"El derecho y la competencia",
+"El plano y el visado",
+"La licencia y quién la aprueba",
+"La vivienda en territorio indígena",
+"La casa en la costa",
+"El sello en la puerta",
+"El desalojo de una casa habitada",
+"La vivienda municipal desde 2022",
+"Lo que se hizo antes de la ley",
+"Otras manos en la vivienda",
+"Con qué se paga",
+"Cómo hace el gobierno local que las familias tengan dónde vivir",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t33": {
+"title": "33. Espacio público y movilidad",
+"heads": [
+"El caso",
+"Dos redes y un dueño",
+"Cuándo una calle es pública",
+"El ancho del camino",
+"El plan y el uso del suelo",
+"Lo que el urbanizador entrega",
+"La acera",
+"La bicicleta y el carro estacionado",
+"Lo que se instala en la calle",
+"Cuando la calle se cae",
+"Quién trabaja en la calle",
+"Con qué se paga",
+"Cómo hace el gobierno local que el espacio público exista",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t34": {
+"title": "34. Cultura y patrimonio",
+"heads": [
+"El caso",
+"Quién declara y quién cuida",
+"Lo que no está declarado",
+"La cultura que no es un edificio",
+"El plan regulador y el patrimonio",
+"El bien patrimonial que la municipalidad posee",
+"El arte en la colección pública",
+"La música y las bibliotecas",
+"Las casas de la cultura y la fiesta",
+"Con qué se paga",
+"Cómo hace el gobierno local que la cultura exista",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t35": {
+"title": "35. Deporte y recreación",
+"heads": [
+"El caso",
+"La cancha es de la municipalidad",
+"Quién integra el comité",
+"El plan, el presupuesto y la cuenta",
+"La instalación cedida",
+"El dinero que llega al atleta",
+"El parque que se remodela",
+"Con qué se paga",
+"Cómo hace el gobierno local que el deporte y la recreación existan",
+"Lo que hoy se mide",
+"Conclusión"
+]
+},
+"t36": {
+"title": "36. Economía local y reparto de la riqueza",
+"heads": [
+"El caso",
+"Cobrar menos: quién puede y en favor de quién",
+"Qué riqueza grava la patente",
+"La licencia, entre el control y el sustento",
+"El permiso de uso en precario",
+"Con qué se paga",
+"Cómo hace el gobierno local que la riqueza se produzca",
+"Lo que hoy se mide",
+"Conclusión"
+]
+}
+}
