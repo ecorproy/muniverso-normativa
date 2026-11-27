@@ -1,10 +1,9 @@
 CITAS TEXTUALES: 41 | OK: 41
 
-UBICACIONES VERIFICADAS A MANO (4):
+UBICACIONES VERIFICADAS A MANO (3):
   [t27.md] T:2011-000123:considerando I: "en pleno ejercicio de la autonomía municipal" (segmentador: [])
   [t27.md] T:2023-003972:considerando II: "no es irrestricta" (segmentador: ['V'])
   [t27.md] T:2023-003972:considerando II: "no incluye la detonación de pólvora ni el desarrol" (segmentador: ['V'])
-  [t27.md] O:IGSMF:p. 113: "en un marco de intercambio cultural, convivencia p" (segmentador: ['114', '115'])
 
 ERRORES (0):
 

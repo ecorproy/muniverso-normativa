@@ -2243,3 +2243,12 @@ Responde a tres observaciones de la evaluación.
 - Sin errores, salvo los 3 conocidos de la introducción.
 - La cita nueva de la LGAP, art. 66, es literal.
 - Word final74, de 1321 páginas en el PDF renderizado, y Docs actualizado.
+
+## 27-11-2026 — Poda quirúrgica (Word final75)
+
+- **Tipografía.** Interlineado 1,2, 0 pt antes y 6 pt después del párrafo; Georgia 12 pt y márgenes sin cambio. De 1321 a 1096 páginas en el PDF renderizado con LibreOffice.
+- **Depuración.** «este capítulo» → «este tema» en 18 temas; 15 anuncios del tipo «…que conviene X» suprimidos; una frase de relleno en el tema 20.
+- **Cap. 3.** Oración que vincula capacidad y traslado con los planos de titularidad y ejercicio.
+- **Integridad.** Siete tesis, definición, célula, cuadrantes, 36 temas, seis formas de deterioro y anexos A y B verificados. Tablas, imágenes, títulos y referencias sin cambio.
+- **Informes B a E.** En `notas/Poda quirúrgica: informes B a E (27-11-2026).md`.
+- Docs actualizado con las 64 sustituciones.
