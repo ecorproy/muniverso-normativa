@@ -1,0 +1,137 @@
+FICHA TÉCNICA INDICADOR DE EFICACIA
+"La Contraloría General impulsa valor público que fortalece la gestión institucional para el
+bienestar de la ciudadanía y la Hacienda Pública."
+
+Objetivo
+Evaluar la eficacia en el cumplimiento de las disposiciones y órdenes de las instituciones fiscalizadas por la Contraloría General.
+
+Descripción del Indicador
+
+Fórmula
+
+Expresa el nivel de eficacia con el que una
+institución fiscalizada por la Contraloría General
+atiende las disposiciones y órdenes giradas en sus
+productos de fiscalización.
+Para ello, se asigna una calificación a cada
+disposición u orden de acuerdo con el grado de
+avance registrado en el sistema institucional
+relacionado con el seguimiento de disposiciones y
+órdenes. Posteriormente, se realiza la sumatoria
+de los puntajes de las disposiciones y órdenes
+emitidas a la institución evaluada y se divide entre
+el número total de esos productos.
+
+Eficacia=
+
+n
+i = 1 pi
+
+n
+
+Dónde:
+n= Número de disposiciones y órdenes por institución
+Pi= Parámetro de cumplimiento por disposición u órden según grado de
+avance
+
+Parámetro de
+cumplimiento 1/
+
+Descripción
+
+100
+
+Comunicación del oficio de conclusión del proceso de seguimiento de la disposición u orden.
+
+95
+
+Atención razonable de la disposición u orden.
+
+80
+
+La institución remitió de manera completa la documentación requerida en la disposición u orden.
+
+75
+50
+25
+10
+
+Se estima conforme al juicio profesional del responsable de seguimiento, tomando en consideración
+el grado de avance en la atención de la disposición u orden, de conformidad con lo comunicado por
+la institución fiscalizada y las acciones de verificación realizadas.
+Designación de la persona que será el contacto oficial y de la persona responsable del expediente de
+cumplimiento de las disposiciones y órdenes.
+
+1/ Para los productos de fiscalización que hayan sido incumplidos por la institución se les otorgará una eficacia de 0.
+
+Nombre del Indicador
+
+Eficacia
+
+Ponderación
+
+Nivel
+
+Porcentaje
+
+Descripción
+
+Inicial
+
+ICM < 35
+
+Nivel incipiente en cuanto a la aplicación de prácticas esperadas y cumplimiento de
+disposiciones y órdenes.
+
+Básico
+
+35 ≤ ICM < 70
+
+Nivel bajo en cuanto a la aplicación de prácticas esperadas y cumplimiento de
+disposiciones y órdenes.
+
+Intermedio
+
+70 ≤ ICM < 85
+
+Nivel medio en cuanto a la aplicación de prácticas esperadas y cumplimiento de
+disposiciones y órdenes.
+
+Avanzado
+
+85 ≤ ICM < 95
+
+Nivel alto en cuanto a la aplicación de prácticas esperadas y cumplimiento de
+disposiciones y órdenes.
+
+Optimizando
+
+95 ≤ ICM
+
+Nivel excelente en cuanto a la aplicación de prácticas esperadas y cumplimiento de
+disposiciones y órdenes.
+
+Nivel de madurez
+
+50%
+
+Unidad de medida
+
+Frecuencia de
+evaluación
+
+Puntaje con base 100
+
+Fuente de datos
+
+Sistema institucional relacionado con el seguimiento de disposiciones y
+órdenes.
+
+Responsable de
+evaluación
+
+Equipo del Área de Seguimiento para la Mejora Pública designado para la evaluación del Índice de Cumplimiento para la Mejora Pública.
+
+Anual
+
+

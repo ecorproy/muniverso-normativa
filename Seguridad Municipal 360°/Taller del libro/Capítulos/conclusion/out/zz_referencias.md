@@ -2,6 +2,8 @@
 
 Constitución Política de la República de Costa Rica. (1949). Asamblea Nacional Constituyente. Sistema Costarricense de Información Jurídica.
 
+Contraloría General de la República. (2026a). *Índice de Cumplimiento para la Mejora Pública (ICM) 2026* [Infografía metodológica]. Área de Seguimiento para la Mejora Pública. https://sites.google.com/cgr.go.cr/icm/icm2026/metodología-icm-2026
+
 Kant, I. (1873). *Principios metafísicos del derecho* (G. Lizárraga, Trad.). Librería de Victoriano Suárez. (Trabajo original publicado en 1797)
 
 Ley N.° 2, *Código de Trabajo*. (1943). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=8045&param2=150791&param3=1

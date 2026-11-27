@@ -1,0 +1,113 @@
+FICHA TÉCNICA INDICADOR CULTURA Y LIDERAZGO
+"La Contraloría General impulsa valor público que fortalece la gestión institucional para el
+bienestar de la ciudadanía y la Hacienda Pública."
+
+Objetivo
+Evaluar la implementación de buenas prácticas a nivel institucional relacionadas con cultura y liderazgo en la atención de las disposiciones y órdenes por parte de las
+instituciones fiscalizadas por la Contraloría General.
+
+Descripción del Indicador
+
+Fórmula
+
+Expresa el nivel de implementación de buenas prácticas a nivel institucional
+relacionadas con la cultura y liderazgo, en la atención de las disposiciones y
+órdenes que emite la Contraloría General en sus productos de fiscalización.
+Para ello, a partir de las buenas prácticas identificadas en procesos anteriores y
+de los resultados del instrumento de consulta aplicado a las instituciones
+fiscalizadas, se realiza una sumatoria de las ponderaciones asignadas a cada
+práctica evaluada de acuerdo con su nivel de implementación, se divide entre la
+cantidad total de acciones definidas y se multiplica por 100. A continuación, se
+describen las prácticas correspondientes a este factor:
+Liderazgo mediante la motivación y concientización al personal
+Coordinación interna orientada a la atención efectiva de las disposiciones
+y órdenes
+Fortalecimiento de una cultura que promueva la colaboración
+interinstitucional
+Compromiso y apoyo por parte de los líderes institucionales
+
+Nombre del Indicador
+
+Cultura y Liderazgo
+
+Buenas
+prácticas =
+
+n
+i = 1 (Acciones)i
+
+n
+
+*100
+
+Dónde:
+Acciones= Acciones implementadas por la institución
+n= Acciones totales
+
+Ponderación
+
+10%
+
+Unidad de medida
+
+Puntaje con base 100
+
+Nivel
+
+Porcentaje
+
+Inicial
+
+ICM < 35
+
+Nivel incipiente en cuanto a la aplicación de prácticas esperadas y cumplimiento de
+disposiciones y órdenes.
+
+Básico
+
+35 ≤ ICM < 70
+
+Nivel bajo en cuanto a la aplicación de prácticas esperadas y cumplimiento de
+disposiciones y órdenes.
+
+Intermedio
+
+70 ≤ ICM < 85
+
+Nivel medio en cuanto a la aplicación de prácticas esperadas y cumplimiento de
+disposiciones y órdenes.
+
+Avanzado
+
+85 ≤ ICM < 95
+
+Nivel alto en cuanto a la aplicación de prácticas esperadas y cumplimiento de
+disposiciones y órdenes.
+
+Optimizando
+
+95 ≤ ICM
+
+Nivel excelente en cuanto a la aplicación de prácticas esperadas y cumplimiento de
+disposiciones y órdenes.
+
+Nivel de madurez
+
+Descripción
+
+Frecuencia de
+evaluación
+
+Fuente de datos
+
+Autoevaluación realizada por las instituciones fiscalizadas a través del
+instrumento de consulta.
+
+Responsable de
+evaluación
+
+Equipo del Área de Seguimiento para la Mejora Pública designado para la evaluación del Índice de Cumplimiento para la Mejora Pública.
+
+Anual
+
+

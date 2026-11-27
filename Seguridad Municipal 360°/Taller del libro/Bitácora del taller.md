@@ -1746,3 +1746,16 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Verificador: sin errores nuevos. Los `out/` difieren de la compilación solo en esos nombres; el capítulo 4 conserva la forma larga del voto 2025-008201.
 - Docs: capítulo 2 rev 53, capítulo 3 rev 36 y capítulo 4 rev 43, con exportación IDÉNTICA a lo esperado. Temas 13, 16 y 29 corregidos por reemplazo exacto.
 - Word final51 = final50 + los 14 reemplazos.
+
+## 27 de noviembre de 2026: metodología del ICM 2026 de la Contraloría (Word final52)
+
+- El autor pidió descargar los archivos de la página «Metodología ICM 2026» (sitio del ICM de la Contraloría) y aplicarlos al libro. Se descargaron los seis PDF que publica la página: infografía, cuatro fichas técnicas (eficacia, eficiencia, estrategia y gestión de datos, cultura y liderazgo) y el listado de buenas prácticas.
+- Están en `Criterios CGR/ICM 2026/` con su texto extraído en orden de lectura. El video de la página no se descargó.
+- Qué mide el ICM: cómo atiende cada institución las disposiciones y órdenes de la Contraloría. Ponderaciones: eficacia 50 %, eficiencia 30 % (plazo previsto frente a plazo empleado), y estrategia y gestión de datos 10 % y cultura y liderazgo 10 %, estas dos autoevaluadas. Niveles: inicial < 35; básico 35-70; intermedio 70-85; avanzado 85-95; optimizando ≥ 95.
+- Aplicación al libro:
+  - Capítulo 4: párrafo nuevo después de «La cadena necesita quien la arme…». El ICM mide una cadena parecida. Recoge dos buenas prácticas que coinciden con la tarea del planificador: designar a quien coordine el seguimiento (n.° 8) e incorporar las disposiciones a los instrumentos de planificación (n.° 12, cita textual, p. 4). La eficiencia del índice es la medida que el libro propone para la meta individual: plazo previsto frente a plazo real.
+  - Conclusión, sexta idea: el ICM mide la eficacia y el plazo con que se atienden las disposiciones del órgano contralor; registra el cumplimiento, no lo que la persona recibió.
+  - Capítulo 3, «Cómo se construyó»: el ICM 2026 se suma como fuente de la medición del cumplimiento de disposiciones.
+- Verificador: seis fuentes nuevas (`ICM`, `ICM-F1` a `ICM-F4`, `ICM-BP`) en `hacer_build_libro.py`. Las fichas sin fecha van como s. f.-a a s. f.-d, antes de las fechadas. La infografía y el listado van como 2026a y 2026b. Cita textual cotejada; sin errores nuevos.
+- Docs: capítulo 3 rev 37, capítulo 4 rev 44 y conclusión rev 11, con exportación IDÉNTICA según `esperado_fig.py`.
+- Word final52 = final51 + el párrafo, las dos frases y las referencias nuevas. Fuera de las referencias, no difiere de la fuente compilada.

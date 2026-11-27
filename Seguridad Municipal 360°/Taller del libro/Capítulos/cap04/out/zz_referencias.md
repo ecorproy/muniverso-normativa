@@ -2,6 +2,18 @@
 
 Constitución Política de la República de Costa Rica. (1949). Asamblea Nacional Constituyente. Sistema Costarricense de Información Jurídica.
 
+Contraloría General de la República. (s. f.-a). *Ficha técnica: indicador de eficacia* [Índice de Cumplimiento para la Mejora Pública]. https://sites.google.com/cgr.go.cr/icm/icm2026/metodología-icm-2026
+
+Contraloría General de la República. (s. f.-b). *Ficha técnica: indicador de eficiencia* [Índice de Cumplimiento para la Mejora Pública]. https://sites.google.com/cgr.go.cr/icm/icm2026/metodología-icm-2026
+
+Contraloría General de la República. (s. f.-c). *Ficha técnica: indicador de estrategia y gestión de datos* [Índice de Cumplimiento para la Mejora Pública]. https://sites.google.com/cgr.go.cr/icm/icm2026/metodología-icm-2026
+
+Contraloría General de la República. (s. f.-d). *Ficha técnica: indicador de cultura y liderazgo* [Índice de Cumplimiento para la Mejora Pública]. https://sites.google.com/cgr.go.cr/icm/icm2026/metodología-icm-2026
+
+Contraloría General de la República. (2026a). *Índice de Cumplimiento para la Mejora Pública (ICM) 2026* [Infografía metodológica]. Área de Seguimiento para la Mejora Pública. https://sites.google.com/cgr.go.cr/icm/icm2026/metodología-icm-2026
+
+Contraloría General de la República. (2026b). *Listado de buenas prácticas | ICM* [Índice de Cumplimiento para la Mejora Pública 2026]. https://sites.google.com/cgr.go.cr/icm/icm2026/metodología-icm-2026
+
 Cortés García, E. (2026). *Derecho municipal: Impugnación, veto y revisión de actos administrativos*. Tirant lo Blanch.
 
 Decreto Ejecutivo N.° 43952, *Reglamento a la Ley Marco de Empleo Público*. (2023). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
