@@ -1610,3 +1610,8 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Voto 2024-002486: https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1211290 (tema 29).
 - Siguen sin enlace los votos 2000-009839 y 2009-003369.
 - Docs: temas 29 y 32 cotejados IDÉNTICO. Word final39.
+
+## 27 de noviembre de 2026: enlace del voto 2000-009839
+
+- Voto 2000-009839 (Escazú, tema 32): https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-132786. Docs cotejado IDÉNTICO. Word final40.
+- Queda sin enlace el voto 2009-003369.
