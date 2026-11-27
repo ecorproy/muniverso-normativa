@@ -1,0 +1,37 @@
+{
+ "textos_original": 4793,
+ "textos_tomos": 4793,
+ "texto_identico": true,
+ "xml_identico": true,
+ "imagenes_original": 143,
+ "imagenes_tomos": 143,
+ "imagenes_identicas": true,
+ "hipervinculos": [
+  32,
+  32,
+  true
+ ],
+ "marcadores": [
+  1210,
+  1212,
+  false
+ ],
+ "palabras": [
+  371903,
+  371903
+ ],
+ "caracteres": [
+  2388820,
+  2388820
+ ],
+ "logo_I": true,
+ "logo_II": true,
+ "indices_entradas_original": 911,
+ "indices_relaciones_original": 1482,
+ "indices_entradas_TI": 535,
+ "indices_entradas_TII": 526,
+ "indices_compartidas_TI": 150,
+ "indices_compartidas_TII": 150,
+ "indices_relaciones_no_conservadas": [],
+ "n_mal": 0
+}

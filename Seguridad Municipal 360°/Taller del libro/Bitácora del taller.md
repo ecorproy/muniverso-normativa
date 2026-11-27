@@ -2267,3 +2267,19 @@ Responde a tres observaciones de la evaluación.
   - Los huecos que quedan están al final de capítulos y temas (que abren en página nueva), en las portadillas de cuadrante y en los índices.
   - 1089 páginas.
   - Texto, imágenes, tablas y párrafos idénticos a final75.
+
+## 27-11-2026 — División en dos tomos
+
+- **Corte.** Entre el tema 18 y la portada del Cuadrante III, sobre copias de final76. Archivos en `Tomos/`.
+- **Tomo I.** Introducción, capítulos 1 a 4 y temas 1 a 18. Mide 607 páginas en LibreOffice.
+- **Tomo II.** Temas 19 a 36, conclusión y anexos. Mide 506 páginas en LibreOffice.
+- **Pendiente.** Contar las páginas en Word.
+- **Piezas añadidas.**
+  - Identificación del tomo en portada y portadilla.
+  - QR a https://leoncortescr.com, verificado leyéndolo en el render.
+  - Índice general de la obra e índice detallado del tomo (campo TOC).
+  - Notas de continuidad.
+  - Índices especializados por tomo con «Véase también».
+- **Integridad.** El contenido es idéntico en texto y XML. Las 143 imágenes tienen la misma huella SHA-256. Se conservan las 1482 relaciones de los índices, los 32 hipervínculos y los 620 marcadores.
+- **Matriz e informe.** Matriz de trazabilidad (924 fuentes, 7568 apariciones, 153 compartidas) e informe en `Tomos/`; scripts en `scripts/division/`.
+- **Remisiones.** Las 194 remisiones entre tomos se registraron sin tocar el texto.
