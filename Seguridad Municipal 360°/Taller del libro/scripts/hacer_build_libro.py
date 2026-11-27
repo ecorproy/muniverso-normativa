@@ -78,6 +78,16 @@ MANUAL.update({
         ref='Ministerio de Planificación Nacional y Política Económica. (2025). *Índice cantonal de desarrollo sostenible – Agenda 2030: 2020-2022*. https://biblioteca.mideplan.go.cr'),
     'Municipalidad de San José, 2016': dict(file='',
         ref='Municipalidad de San José. (2016, 21 de octubre). *V Congreso Jurídico Municipal “Dr. Mauro Murillo Arias”*. https://munimsj.wordpress.com/2016/10/21/v-congreso-juridico-municipal-dr-mauro-murillo-arias/'),
+    'Reyna, 2015': dict(file='/home/claude/libro/fuentes/doctrina/reyna_reforma_pag.txt',
+        ref='Reyna, J. J. (2015). La reforma de la Administración pública local para la tutela de los derechos fundamentales en el siglo XXI. *Revista Eurolatinoamericana de Derecho Administrativo*, *2*(1), 185-241. https://doi.org/10.14409/rr.v2i1.4636'),
+    'Procuraduría General de la República, s. f.': dict(file='/home/claude/libro/fuentes/doctrina/pgr_transformacion.txt',
+        ref='Procuraduría General de la República. (s. f.). *La Administración y su transformación*. https://www.pgr.go.cr/la-administracion-y-su-transformacion/'),
+    'Organización para la Cooperación y el Desarrollo Económicos [OCDE], 2024': dict(file='/home/claude/libro/fuentes/doctrina/ocde_legal_0503.txt', alias='OCDE, 2024',
+        ref='Organización para la Cooperación y el Desarrollo Económicos. (2024). *Recommendation of the Council on Human-Centred Public Administrative Services* (OECD/LEGAL/0503). https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0503'),
+    'OCDE, 2024': dict(file='/home/claude/libro/fuentes/doctrina/ocde_legal_0503.txt',
+        ref='Organización para la Cooperación y el Desarrollo Económicos. (2024). *Recommendation of the Council on Human-Centred Public Administrative Services* (OECD/LEGAL/0503). https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0503'),
+    'Osborne et al., 2022': dict(file='/home/claude/libro/fuentes/doctrina/osborne_2022_pag.txt',
+        ref='Osborne, S. P., Powell, M., Cui, T., & Strokosch, K. (2022). Value creation in the public service ecosystem: An integrative framework. *Public Administration Review*, *82*(4), 634-645. https://doi.org/10.1111/puar.13474'),
     'Organización Panamericana de la Salud, s. f.': dict(file='/home/claude/libro/fuentes/doctrina/ops_seguridad_humana.txt',
         ref='Organización Panamericana de la Salud. (s. f.). [Resumen del documento de referencia técnico sobre salud y seguridad humana]. https://www.paho.org/sites/default/files/D37404-PAHO-ExecutiveSummary-Spn-WEB.pdf'),
     'Conan Doyle, s. f.': dict(file='/home/claude/libro/fuentes/doctrina/conan_doyle_valle.txt',
@@ -863,6 +873,10 @@ src = src.replace(g2, "    # 3) expansión (en forma corta, la primera mención 
 _e = "secs = {'I': 'Sección I', 'II': 'Sección II', 'III': 'Sección III', 'IV': 'Sección IV'}"
 assert src.count(_e) == 1
 src = src.replace(_e, "secs = {k: f'Sección {k}' for k in ('I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X')}")
+# fichas del IGSM 2025: la página citada es la impresa, que es la del PDF menos uno (portada)
+_w = "            want = str(ROM[g]) if g in ROM else g\n"
+assert src.count(_w) == 1
+src = src.replace(_w, _w + "            if macro and macro.startswith('O:IGSMF') and want.isdigit():\n                want = str(int(want) + 1)\n")
 open('/home/claude/mis_scripts/build_libro.py', 'w', encoding='utf-8').write(src)
 c = open('/home/claude/scripts/cite.py', encoding='utf-8').read().replace('/home/claude/scripts/build.py', '/home/claude/mis_scripts/build_libro.py')
 open('/home/claude/mis_scripts/cite_libro.py', 'w', encoding='utf-8').write(c)

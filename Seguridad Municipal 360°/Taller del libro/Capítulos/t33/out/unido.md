@@ -4,7 +4,7 @@
 
 Nov 26, 2026 · @Edward Cortés García
 
-*Tesis del tema.* Este libro sostiene que la acera de la red cantonal es un servicio municipal. Desde 2021 su gestión, incluido el mantenimiento, corresponde a la municipalidad; el propietario conserva deberes, como construirla en la obra nueva, y si no los cumple la municipalidad lo suple y le cobra. El cumplimiento se mide por el tiempo que tarda en corregirse la acera denunciada.
+*Tesis del tema.* Este libro sostiene que el espacio público del cantón existe cuando la municipalidad lo recibe a tiempo, lo ordena con prioridad para el peatón y lo mantiene. La acera de la red cantonal es su caso más claro: desde 2021 su gestión, incluido el mantenimiento, corresponde a la municipalidad; el propietario conserva deberes, como construirla en la obra nueva, y si no los cumple la municipalidad lo suple y le cobra. El cumplimiento se mide por el tiempo que tarda en corregirse la acera denunciada.
 
 ## El caso
 

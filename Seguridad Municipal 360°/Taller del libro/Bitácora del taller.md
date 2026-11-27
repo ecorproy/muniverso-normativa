@@ -2182,3 +2182,18 @@ Responde a tres debilidades señaladas por la evaluación: la densidad documenta
   - la referencia del IGSM duplicada en el Word, temas 1 y 33.
 - **Cotejo.** No hay errores en los caps. 1, 3 y 4, en la conclusión ni en el tema 33.
 - **Entregables.** Word final72, de 1319 páginas en el PDF renderizado, y Docs actualizado.
+
+## 27 de noviembre de 2026: auditoría completa de contradicción y exactitud (Word final73)
+
+- **Informe.** `notas/Auditoría completa de contradicción y exactitud (27-11-2026).md`.
+- **Correcciones.**
+  - Páginas de las fichas del IGSM en el tema 29: la página impresa es la del PDF menos uno, y el verificador ya aplica ese desfase.
+  - Tesis de los temas 15, 18 y 33.
+  - El tema 20 vuelve a construirse.
+- **Verificación.**
+  - Las 94 ubicaciones forzadas a mano se re-verificaron.
+  - Se cotejaron 23 citas de fuentes que no tenían copia local: Zaratiegui, Medina León, Bendell, Vílchez, OPS y Naciones Unidas.
+  - El Word coincide párrafo por párrafo con la fuente verificada.
+- **Pendiente.** Las 205 oraciones con más de dos citas, que van en una lista aparte.
+- **Scripts nuevos.** `audita_manual.py`, `audita_word.py`, `audita_parafrasis.py` y `audita_igsmf.py`.
+- **Entregable.** Word final73, de 1319 páginas en el PDF renderizado.

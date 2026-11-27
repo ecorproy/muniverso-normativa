@@ -387,6 +387,26 @@ MANUAL.update({
         ref='Instituto de Fomento y Asesoría Municipal. (2025). *Índice Municipal de Costa Rica 2025*. https://drive.google.com/file/d/1JdJsvWDa0uZMg7WBLKVCjm5hgxM1zmIh/view'),
     'IFAM, 2025': dict(file='',
         ref='Instituto de Fomento y Asesoría Municipal. (2025). *Índice Municipal de Costa Rica 2025*. https://drive.google.com/file/d/1JdJsvWDa0uZMg7WBLKVCjm5hgxM1zmIh/view'),
+    'Programa Estado de la Nación, 2026': dict(file='',
+        ref='Programa Estado de la Nación. (2026). Armonía con la naturaleza. En *Informe Estado de la Nación 2026* (cap. 4, pp. 185-278). Programa Estado de la Nación.'),
+    'Observatorio de la Violencia, 2026': dict(file='',
+        ref='Observatorio de la Violencia. (2026). *Índice Cantonal de Seguridad Ciudadana 2025: resumen metodológico y resultados*.'),
+    'Ministerio de Planificación Nacional y Política Económica [MIDEPLAN], 2025': dict(file='', alias='MIDEPLAN, 2025',
+        ref='Ministerio de Planificación Nacional y Política Económica. (2025). *Índice cantonal de desarrollo sostenible – Agenda 2030: 2020-2022*. https://biblioteca.mideplan.go.cr'),
+    'MIDEPLAN, 2025': dict(file='',
+        ref='Ministerio de Planificación Nacional y Política Económica. (2025). *Índice cantonal de desarrollo sostenible – Agenda 2030: 2020-2022*. https://biblioteca.mideplan.go.cr'),
+    'Municipalidad de San José, 2016': dict(file='',
+        ref='Municipalidad de San José. (2016, 21 de octubre). *V Congreso Jurídico Municipal “Dr. Mauro Murillo Arias”*. https://munimsj.wordpress.com/2016/10/21/v-congreso-juridico-municipal-dr-mauro-murillo-arias/'),
+    'Reyna, 2015': dict(file='/home/claude/libro/fuentes/doctrina/reyna_reforma_pag.txt',
+        ref='Reyna, J. J. (2015). La reforma de la Administración pública local para la tutela de los derechos fundamentales en el siglo XXI. *Revista Eurolatinoamericana de Derecho Administrativo*, *2*(1), 185-241. https://doi.org/10.14409/rr.v2i1.4636'),
+    'Procuraduría General de la República, s. f.': dict(file='/home/claude/libro/fuentes/doctrina/pgr_transformacion.txt',
+        ref='Procuraduría General de la República. (s. f.). *La Administración y su transformación*. https://www.pgr.go.cr/la-administracion-y-su-transformacion/'),
+    'Organización para la Cooperación y el Desarrollo Económicos [OCDE], 2024': dict(file='/home/claude/libro/fuentes/doctrina/ocde_legal_0503.txt', alias='OCDE, 2024',
+        ref='Organización para la Cooperación y el Desarrollo Económicos. (2024). *Recommendation of the Council on Human-Centred Public Administrative Services* (OECD/LEGAL/0503). https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0503'),
+    'OCDE, 2024': dict(file='/home/claude/libro/fuentes/doctrina/ocde_legal_0503.txt',
+        ref='Organización para la Cooperación y el Desarrollo Económicos. (2024). *Recommendation of the Council on Human-Centred Public Administrative Services* (OECD/LEGAL/0503). https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0503'),
+    'Osborne et al., 2022': dict(file='/home/claude/libro/fuentes/doctrina/osborne_2022_pag.txt',
+        ref='Osborne, S. P., Powell, M., Cui, T., & Strokosch, K. (2022). Value creation in the public service ecosystem: An integrative framework. *Public Administration Review*, *82*(4), 634-645. https://doi.org/10.1111/puar.13474'),
     'Organización Panamericana de la Salud, s. f.': dict(file='/home/claude/libro/fuentes/doctrina/ops_seguridad_humana.txt',
         ref='Organización Panamericana de la Salud. (s. f.). [Resumen del documento de referencia técnico sobre salud y seguridad humana]. https://www.paho.org/sites/default/files/D37404-PAHO-ExecutiveSummary-Spn-WEB.pdf'),
     'Conan Doyle, s. f.': dict(file='/home/claude/libro/fuentes/doctrina/conan_doyle_valle.txt',
@@ -1254,6 +1274,8 @@ def check_quote(fname, quote, macro=None, manual=None, loc=''):
         if m:
             g = m.group(1)
             want = str(ROM[g]) if g in ROM else g
+            if macro and macro.startswith('O:IGSMF') and want.isdigit():
+                want = str(int(want) + 1)
     if want is None:
         st = 'LITERAL (sin localización que cotejar)'
     elif want in where:
