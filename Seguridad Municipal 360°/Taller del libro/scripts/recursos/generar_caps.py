@@ -89,7 +89,7 @@ if __name__=='__main__':
       ('No se vacía','ni puede dejar a los habitantes de un cantón en inferioridad',RO,ROt),
       ('Capacidad','real y técnica; su falta no extingue el deber, y es el criterio para trasladarla por ley',GR,GRt)])
     sintesis('cap03_sintesis','Qué es lo local',('Lo local','la persona del cantón'),[
-      ('Importa','de manera directa e inmediata a las personas que viven en el cantón',TE,TEt),
+      ('Importa','de manera directa e inmediata a las personas que habitan el cantón o están en él',TE,TEt),
       ('Se conoce','mirando la necesidad concreta de cada persona',TE,TEt),
       ('Reservada','al Gobierno Municipal: originaria, genérica y obligatoria',AZ,AZt),
       ('Se cumple','cuando el servicio llega y la persona recibe lo que necesitaba',TE,TEt),

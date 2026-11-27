@@ -1954,3 +1954,29 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Corrección: González Camacho ya era exmagistrado en 2016. Se quitó el «hoy».
 - Referencia nueva: Municipalidad de San José (2016, 21 de octubre), en la introducción y en el índice de obras. Va parafraseada, sin citas textuales.
 - Se actualizaron el Word final62 y Docs, en la pestaña «Introducción. El camino».
+
+## 27 de noviembre de 2026: las personas del cantón y la conclusión completa (Word final63)
+
+- Decisión del autor: lo local alcanza también a quien está en el cantón sin residir en él.
+- Capítulo 3:
+  - La definición dice ahora «a las personas que habitan un cantón o se encuentran en él», en lugar de «que viven en un cantón». El mismo cambio se hizo en «La persona en el centro» y en el recurso `cap03_sintesis`, que ahora dice «que habitan el cantón o están en él».
+  - Párrafo nuevo, «Las personas del cantón no son solo las que residen en él», con cuatro apoyos:
+    - el municipio del artículo 1 del Código es la comunidad política, de vecinos residentes;
+    - el artículo 169 de la Constitución dice «en cada cantón», un criterio territorial;
+    - la Ley 10009 (2021) agregó el artículo 4, inciso j), sobre albergues, y el artículo 71 distingue las ayudas a «vecinos y vecinas» de los albergues para «las personas que se encuentren» en situación de calle;
+    - por analogía, la definición de habitantes del D. E. 22266, art. 2: «domiciliadas o que se encuentren, en forma permanente o transitoria». Se advierte que vale «para sus efectos».
+  - Fuente nueva: `main/Leyes y decretos nacionales/Derechos humanos/Decreto Ejecutivo 22266.md`, tomada del texto del SCIJ que aportó el autor (versión 2 de 2).
+  - Fecha de la norma: 15 de junio de 1993, la que citan los acuerdos de la Defensoría. Otros documentos de la Defensoría dicen 16 de julio de 1993. En la cita solo aparece el año.
+- Conclusión:
+  - la misma definición y su consecuencia, en la primera respuesta;
+  - la respuesta a la advertencia de Leiva (p. 11);
+  - el voto del Tempisque en la tercera regularidad (cons. XVIII y XXV) y su «déficit» en la quinta (cons. XXII);
+  - la agenda con destinatarios: municipalidad y Contraloría (medir), Concejo (decidir, art. 13), alcaldía (art. 17, inciso a), legislador (voto 1997-006469) e investigación;
+  - el párrafo de cierre en primera persona, que vuelve a la pregunta de 2016 sobre el artículo 62;
+  - «La imagen final es la del primer capítulo».
+- El ICDS de MIDEPLAN sale de la conclusión y pasa al tema 36, «Lo que hoy se mide». El índice de obras queda así: MIDEPLAN, temas 6 y 36.
+- Cotejo:
+  - cap03: 84 citas, 81 OK (antes 79/76; las 5 nuevas, OK);
+  - conclusión: 26/26;
+  - t36: 75/72, sin cambio.
+- Se actualizaron el Word final63 (1060 páginas en el PDF renderizado) y Docs, con la imagen de síntesis en el blob fe3bca9d-c8c0.

@@ -2,6 +2,8 @@
 
 Constitución Política de la República de Costa Rica. (1949). Asamblea Nacional Constituyente. Sistema Costarricense de Información Jurídica.
 
+Decreto Ejecutivo N.° 22266, *Reglamento del Defensor de los Habitantes de la República*. (1993). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=11785&param2=12656&param3=3&param4=68288
+
 Kant, I. (1873). *Principios metafísicos del derecho* (G. Lizárraga, Trad.). Librería de Victoriano Suárez. (Trabajo original publicado en 1797)
 
 Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En *Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local?* Federación Metropolitana de Municipalidades y Municipalidad de San José.

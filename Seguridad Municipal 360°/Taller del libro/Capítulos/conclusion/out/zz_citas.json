@@ -92,6 +92,27 @@
  },
  {
   "archivo": "conclusion.md",
+  "palabras": 16,
+  "fuente": "V:2026-014917:considerando XVIII",
+  "estado": "OK",
+  "cita": "La falta de competencia concesional no extingue el deber loc"
+ },
+ {
+  "archivo": "conclusion.md",
+  "palabras": 10,
+  "fuente": "V:2026-014917:considerando XXV",
+  "estado": "OK",
+  "cita": "la autonomía municipal no es excusa para la pasividad local"
+ },
+ {
+  "archivo": "conclusion.md",
+  "palabras": 10,
+  "fuente": "V:2026-014917:considerando XXII",
+  "estado": "OK",
+  "cita": "la suma de actuaciones parciales no alcanza el estándar exig"
+ },
+ {
+  "archivo": "conclusion.md",
   "palabras": 4,
   "fuente": "L:10159:art. 28",
   "estado": "OK",
@@ -145,5 +166,19 @@
   "fuente": "L:7794:art. 13",
   "estado": "OK",
   "cita": "asegurando el respeto, protección, garantía y promoción de l"
+ },
+ {
+  "archivo": "conclusion.md",
+  "palabras": 14,
+  "fuente": "L:7794:art. 17, inciso a",
+  "estado": "OK",
+  "cita": "la organización, el funcionamiento, la coordinación y el fie"
+ },
+ {
+  "archivo": "conclusion.md",
+  "palabras": 23,
+  "fuente": "V:1997-006469:considerando IV",
+  "estado": "OK",
+  "cita": "la única forma de definir o de distinguir lo local de lo que"
  }
 ]

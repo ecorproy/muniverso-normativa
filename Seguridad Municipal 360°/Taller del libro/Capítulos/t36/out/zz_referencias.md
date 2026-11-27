@@ -106,6 +106,8 @@ Ley N.° 10594, *Reforma Código Municipal y Ley de Planificación Urbana*. (202
 
 Ley N.° 10939, *Ley de arbolado urbano*. (2026). Asamblea Legislativa de la República de Costa Rica. La Gaceta N.° 91, Alcance N.° 59, 20 de mayo de 2026. https://www.imprentanacional.go.cr/pub/2026/05/20/ALCA59_20_05_2026.pdf
 
+Ministerio de Planificación Nacional y Política Económica. (2025). *Índice cantonal de desarrollo sostenible – Agenda 2030: 2020-2022*. https://biblioteca.mideplan.go.cr
+
 Procuraduría General de la República. (2000, 16 de mayo). *Dictamen C-108-2000*.
 
 Procuraduría General de la República. (2005, 11 de febrero). *Dictamen C-059-2005*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=12988&param2=0
@@ -196,4 +198,4 @@ Tribunal Contencioso Administrativo, Sección II. (2003, 20 de mayo). *Resoluci�
 
 Tribunal Contencioso Administrativo, Sección IV. (2015, 14 de agosto). *Resolución N.° 82-2015, de las 15:15 horas* (expediente 09-002253-1027-CA). NexusPJ.
 
-Tribunal Contencioso Administrativo y Civil de Hacienda. (2026, 18 de marzo). *Resolución N.° 1754-2026, de las 13:18 horas* (expediente 21-007210-1027-CA). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0034-1387116
+Tribunal Contencioso Administrativo y Civil de Hacienda. (2026, 18 de marzo). *Resolución N.° 1754-2026, de las 13:18 horas* (expediente 21-007210-1027-CA). NexusPJ.

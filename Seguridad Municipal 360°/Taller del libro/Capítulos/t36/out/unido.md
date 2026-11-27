@@ -120,6 +120,8 @@ El Índice de Competitividad Nacional mira las condiciones para producir. Su ent
 
 Un compendio permite, en cambio, una primera mirada al reparto entre municipalidades. Según lo que cada una informó al Instituto de Fomento y Asesoría Municipal, en 2024 las patentes aportaron a los 84 cantones unos 134.438 millones de colones, casi tanto como el impuesto sobre bienes inmuebles, con unos 158.296 millones (Instituto de Fomento y Asesoría Municipal [IFAM], 2025, fichas cantonales). La actividad económica sostiene, entonces, una parte de la hacienda municipal casi tan grande como la que sostiene la propiedad. Y el presupuesto se concentra: San José, Alajuela, Escazú, Heredia y Cartago sumaban el 29 por ciento del presupuesto total de 2024 de los 84 cantones (IFAM, 2025, fichas cantonales).
 
+El desarrollo no sigue al dinero en la misma proporción. En el índice cantonal de desarrollo sostenible de 2022, Belén ocupa el tercer puesto, con 94,68, y Alajuelita el vigesimoprimero, con 77,90, en una escala relativa que da 100 a Escazú y 0 a Talamanca (Ministerio de Planificación Nacional y Política Económica [MIDEPLAN], 2025, pp. 13 y 15). Con el presupuesto de 2024, en cambio, a cada habitante de Belén le correspondían trece veces más recursos que a cada habitante de Alajuelita, como se verá en la conclusión. El propio Ministerio recomienda usar ese índice como herramienta complementaria y evitar las comparaciones simplistas (MIDEPLAN, 2025, p. 48).
+
 Ninguna de las dos mediciones mira el reparto dentro del cantón. No se cuenta con datos sobre cuántas municipalidades gradúan el impuesto de construcción, cuánto dejan de percibir por las exenciones de zona franca y cuánto recuperan con la tarifa doble, cuánto recaudan por contribuciones especiales, qué resultado tienen sus mercados y terminales, cuántas personas quedaron fuera de la patente por ejercer actividades de subsistencia, cuántas declaratorias de no afectación del bien único se tramitan, cuántas otorgan el crédito tributario a organizaciones sin fines de lucro, cuántas municipalidades aplican el régimen simplificado ni cuántas otorgan en sus compras el puntaje que la ley reserva a las pymes y cooperativas de la región. Sin esos datos, el cumplimiento del mandato del artículo 50 en el plano local no puede verificarse.
 
 ## Conclusión
@@ -247,6 +249,8 @@ Ley N.° 10475, *Ley de Prevención de la violencia en personas menores de edad 
 Ley N.° 10594, *Reforma Código Municipal y Ley de Planificación Urbana*. (2024). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
 
 Ley N.° 10939, *Ley de arbolado urbano*. (2026). Asamblea Legislativa de la República de Costa Rica. La Gaceta N.° 91, Alcance N.° 59, 20 de mayo de 2026. https://www.imprentanacional.go.cr/pub/2026/05/20/ALCA59_20_05_2026.pdf
+
+Ministerio de Planificación Nacional y Política Económica. (2025). *Índice cantonal de desarrollo sostenible – Agenda 2030: 2020-2022*. https://biblioteca.mideplan.go.cr
 
 Procuraduría General de la República. (2000, 16 de mayo). *Dictamen C-108-2000*.
 

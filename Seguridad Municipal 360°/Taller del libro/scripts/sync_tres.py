@@ -1,7 +1,7 @@
 import shutil, re, sys, unicodedata
 R='/home/claude/repo/360/Seguridad Municipal 360°/Taller del libro/Capítulos'
 L='/home/claude/libro'
-NUEVAS=('Programa Estado de la Nación. (2026)','Observatorio de la Violencia. (2026)','Ministerio de Planificación Nacional y Política Económica. (2025)')
+NUEVAS=('Programa Estado de la Nación. (2026)','Observatorio de la Violencia. (2026)','Ministerio de Planificación Nacional y Política Económica. (2025)','Decreto Ejecutivo N.° 22266')
 def clave(r):
     r=re.sub(r'[*_]','',r); r=unicodedata.normalize('NFD',r)
     return ''.join(ch for ch in r if unicodedata.category(ch)!='Mn').lower()
@@ -17,6 +17,8 @@ for c in sys.argv[1:]:
         k=bl.index(extra[0]); nl=nuevo.split('\n'); nuevo='\n'.join(nl[:k]+[extra[0],'']+nl[k:])
     lista=[x for x in refs.strip().split('\n\n') if x.strip()]
     zz=[x for x in open(f'{L}/{c}/chk_X/zz_referencias.md',encoding='utf-8').read().split('\n\n') if x.startswith(NUEVAS)]
+    zzall=open(f'{L}/{c}/chk_X/zz_referencias.md',encoding='utf-8').read()
+    lista=[x for x in lista if not (x.startswith(NUEVAS) and x[:60] not in zzall)]
     for z in zz:
         if not any(x.startswith(z[:60]) for x in lista):
             pos=next((i for i,x in enumerate(lista) if clave(x)>clave(z)),len(lista))
