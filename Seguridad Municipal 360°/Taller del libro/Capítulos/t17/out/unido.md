@@ -126,6 +126,8 @@ El Índice de Gestión de Servicios Municipales pregunta si están totalmente di
 
 La medición premia que la persona no tenga que acudir a la municipalidad, lo cual es un avance, pero deja fuera tres cosas que este tema mostró necesarias. No pregunta si quien no tiene conexión conserva la vía presencial para el mismo trámite. No pregunta si las sesiones del Concejo y de sus comisiones se transmiten y si sus actas se publican en plazo. Y no pregunta si los canales digitales son accesibles para personas con discapacidad. Un indicador construido desde la ley contaría, además de los trámites digitalizados, las sesiones transmitidas sobre las celebradas, los días entre la firmeza de un acta y su publicación, los permisos de infraestructura de telecomunicaciones resueltos en plazo y las transmisiones con subtítulos o interpretación en lengua de señas.
 
+Hay otra medición cuyo nombre promete más de lo que informa. En 2024 el Instituto de Fomento y Asesoría Municipal publicó, para cada cantón y concejo municipal de distrito, el resultado de un diagnóstico de ciudades inteligentes y sostenibles en una escala de 1 a 10 (Instituto de Fomento y Asesoría Municipal [IFAM], 2024, fichas cantonales). Los resultados informados van de 1,3 a 4,5, y ninguna municipalidad pasa de un nivel de madurez medio (IFAM, 2024, fichas cantonales). Las fichas resumen el resultado por cinco dimensiones, el desarrollo humano, la gobernanza, el ambiente, el planeamiento urbano y la competitividad (IFAM, 2024, fichas cantonales), y ninguna de ellas muestra por separado si las personas del cantón tienen acceso digital. El índice dice cuán lejos está la municipalidad de un modelo, pero no responde la pregunta de este tema.
+
 ## Conclusión
 
 El acceso digital se volvió un derecho constitucional, y la municipalidad lo afecta por dos caminos: facilitando o entorpeciendo la infraestructura que lo hace posible, y abriendo o cerrando sus propios canales. En el primero su autonomía cede ante una política nacional que busca que el derecho sea igual en todos los cantones; en el segundo sus deberes son propios y tienen plazos.
@@ -155,6 +157,8 @@ Constitución Política de la República de Costa Rica. (1949). Asamblea Naciona
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
 
 Decreto Ejecutivo N.° 32675, *Declara de interés público el Proyecto «Centros Comunitarios de Acceso a Internet» (C.C.A.I.)*. (2005). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
+
+Instituto de Fomento y Asesoría Municipal. (2024). *Índice Municipal de Costa Rica 2024*. https://drive.google.com/file/d/1StgLMG4K8U3vHaziSk1rOayGPFBxw6sn/view
 
 Ley N.° 4755, *Código de Normas y Procedimientos Tributarios ( Código Tributario )*. (1971). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=6530&param2=148766&param3=1
 

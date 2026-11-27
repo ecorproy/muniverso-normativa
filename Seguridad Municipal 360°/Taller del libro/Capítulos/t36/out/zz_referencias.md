@@ -28,6 +28,8 @@ Contraloría General de la República. (s. f.). *Estructura programática munici
 
 Decreto Ejecutivo N.° 43808, *Reglamento a la Ley General de Contratación Pública*. (2022). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
 
+Instituto de Fomento y Asesoría Municipal. (2025). *Índice Municipal de Costa Rica 2025*. https://drive.google.com/file/d/1JdJsvWDa0uZMg7WBLKVCjm5hgxM1zmIh/view
+
 Ley N.° 833, *Ley de Construcciones*. (1949). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=36307&param2=143894&param3=1
 
 Ley N.° 1634, *Ley General de Agua Potable*. (1953). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=6825&param2=7296&param3=1

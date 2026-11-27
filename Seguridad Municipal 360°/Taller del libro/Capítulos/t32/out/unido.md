@@ -114,6 +114,8 @@ La vivienda no está entre los diez servicios que estudia el Índice de Gestión
 
 Las fichas del índice muestran qué se pregunta del urbanismo, y varias preguntas tocan la vivienda. Una mide la duración del trámite de los permisos de construcción, al que la Contraloría considera "un trámite que incide directamente en el acceso a vivienda digna" (CGR, fichas de indicadores del IGSM 2025 [IGSM, fichas], 2025, p. 48). La meta se alcanza cuando todos los permisos se resuelven entre uno y quince días naturales; los que tardan de dieciséis a treinta días puntúan menos, y los de más de treinta no puntúan (IGSM, fichas, p. 48). Otra ficha pide el promedio de días para otorgar el uso de suelo, con diez días naturales como plazo prudencial (IGSM, fichas, p. 49), y otra la proporción del territorio cubierta por plan regulador (IGSM, fichas, p. 47). En el servicio de residuos, una ficha transcribe la atribución de vivienda del Código Municipal para justificar que la municipalidad identifique a su población vulnerable por pobreza, edad, género y ubicación (IGSM, fichas, p. 5).
 
+El estado de los planes puede verse en el compendio que publica el Instituto de Fomento y Asesoría Municipal. Sus fichas de 2025, que toman el dato de MIDEPLAN, describen el plan regulador de los 91 territorios municipales, los 84 cantones y los 7 concejos municipales de distrito. Lo registran como *vigente* en 4, *actualizando* en 28, *creando* en 17 y *donado* en 34, y como inexistente en el cantón de Carrillo y en los 7 concejos municipales de distrito (Instituto de Fomento y Asesoría Municipal [IFAM], 2025, fichas cantonales). Las fichas no definen cada categoría; *donado* corresponde al programa con que el Instituto, el Ministerio de Vivienda y Asentamientos Humanos y el fondo de preinversión de MIDEPLAN anunciaron la donación de planes reguladores cantonales (IFAM, 2024, presentación). En 59 de los 91 territorios, entonces, el plan figura en creación, en donación o como inexistente. Para la persona que pide un permiso de construcción, eso significa que en buena parte del país la regla de su lote depende de un plan que no figura como vigente. El diagnóstico de ciudades inteligentes que el mismo Instituto publicó en 2024 apunta en la misma dirección: el planeamiento urbano aparece como la dimensión más baja, sola o compartida con otra, en 42 de los 89 territorios con resultado (IFAM, 2024, fichas cantonales).
+
 Lo que la ley de 2022 obliga a registrar sirve de base para medir los proyectos propios. El Registro Nacional anota cada contrato de usufructo (Ley 10199, art. 12). La municipalidad lleva la contabilidad de los pagos complementarios (Ley 10199, art. 17) y, cuando la municipalidad "sea el único gestor del proyecto" (Ley 10199, art. 10), los recursos ingresan a su presupuesto. Entre los documentos consultados no se halló un dato público sobre cuántas municipalidades han desarrollado proyectos al amparo de esa ley.
 
 ## Conclusión
@@ -139,6 +141,10 @@ Constitución Política de la República de Costa Rica. (1949). Asamblea Naciona
 Contraloría General de la República. (2025, 5 de agosto). *Índice de Gestión de Servicios Municipales 2025* (informe N.° DFOE-LOC-SGP-00002-2025). https://sites.google.com/cgr.go.cr/igsm/
 
 Contraloría General de la República. (2025). [Fichas de indicadores del Índice de Gestión de Servicios Municipales 2025].
+
+Instituto de Fomento y Asesoría Municipal. (2024). *Índice Municipal de Costa Rica 2024*. https://drive.google.com/file/d/1StgLMG4K8U3vHaziSk1rOayGPFBxw6sn/view
+
+Instituto de Fomento y Asesoría Municipal. (2025). *Índice Municipal de Costa Rica 2025*. https://drive.google.com/file/d/1JdJsvWDa0uZMg7WBLKVCjm5hgxM1zmIh/view
 
 Ley N.° 833, *Ley de Construcciones*. (1949). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=36307&param2=143894&param3=1
 

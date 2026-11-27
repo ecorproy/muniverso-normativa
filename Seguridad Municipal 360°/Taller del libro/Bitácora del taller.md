@@ -1890,3 +1890,27 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - El autor aportó el PDF de Leiva Poveda (2016), «La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades». Se usó para recrear la copia local de cotejo (`/home/claude/libro/fuentes/doctrina/leiva_elusiva.txt`, separada por las 12 páginas del PDF). El PDF y su texto no se suben al repositorio, por ser doctrina con derechos de autor.
 - Resultado: las 39 citas textuales de Leiva están verificadas como literales y en la página citada, 28 en el capítulo 2 y 11 en el capítulo 3. La paráfrasis de la introducción (p. 11, «senda peligrosa») coincide con esa página.
 - El texto del libro no cambia. Solo se actualizaron `zz_citas.json` y `zz_informe.txt` de los capítulos 2 y 3. El Word final59 y Docs siguen vigentes.
+
+## 27 de noviembre de 2026: Índice Municipal de Costa Rica del IFAM, 2024 y 2025 (Word final60)
+- Fuentes aportadas por el autor desde Drive:
+  - IFAM (2024), *Índice Municipal de Costa Rica 2024*: 295 páginas en imagen, leídas con OCR.
+  - IFAM (2025), *Índice Municipal de Costa Rica 2025*: 204 páginas con texto.
+  - Ambas tienen una ficha por cantón y por concejo municipal de distrito.
+  - Las dos obras prohíben la reproducción total o parcial sin autorización del editor. Por eso los PDF, el texto del OCR y la tabla extraída (`ifam2025.csv`) quedan solo en el espacio de trabajo. Al repositorio van los scripts (`scripts/ifam/`) y los resultados agregados que el libro cita.
+- Cómo se cita: (Instituto de Fomento y Asesoría Municipal [IFAM], 2025, fichas cantonales) la primera vez y (IFAM, 2025, ...) después. Las páginas son las del PDF, que coinciden con la paginación impresa. Ambas obras quedan registradas en `hacer_build_libro.py`.
+- Lo que se agregó:
+  - Tema 17, «Lo que hoy se mide»: el diagnóstico de ciudades inteligentes y sostenibles de 2024 (escala de 1 a 10). Los resultados van de 1,3 a 4,5, ninguna municipalidad pasa del nivel medio, y sus cinco dimensiones no miden por separado el acceso digital.
+  - Tema 32, «Lo que hoy se mide»:
+    - estado del plan regulador en los 91 territorios según las fichas de 2025: *vigente* 4, *actualizando* 28, *creando* 17, *donado* 34, y sin plan Carrillo y los 7 concejos municipales de distrito;
+    - el planeamiento urbano es la dimensión más baja en 42 de los 89 diagnósticos de 2024;
+    - gráfico `t32_grafico`.
+  - Tema 36, «Lo que hoy se mide»:
+    - ingresos de 2024 informados por los 84 cantones: patentes, 134.438 millones; bienes inmuebles, 158.296 millones;
+    - San José, Alajuela, Escazú, Heredia y Cartago suman el 29 % del presupuesto total de 2024.
+  - Conclusión:
+    - presupuesto total de 2024 por habitante: Belén, 708.000 colones; Alajuelita, 54.000, trece veces menos. Son los mismos extremos que usó Alfaro Redondo (p. 16);
+    - gráfico a página completa `conclusion_grafico` con los 84 cantones y la mediana (174.000 colones).
+- Cálculos propios: presupuesto entre población y sumas por fuente de ingreso. Los datos de ingresos son los que cada municipalidad informó al IFAM.
+- Cotejo: t17, t32, t36 y conclusión construidos con CITA=corta, sin errores. En t36 se conserva la URL de TCA 1754-2026 en las referencias.
+- Índices: se agregaron las dos ediciones del IFAM.
+- Word final60, de 1054 páginas en el PDF renderizado, y Docs actualizados, con los dos gráficos.

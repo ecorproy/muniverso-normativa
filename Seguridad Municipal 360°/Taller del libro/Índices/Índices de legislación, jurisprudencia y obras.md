@@ -934,6 +934,8 @@ Doctrina, informes y documentos institucionales que no son normas ni resolucione
 - Consejo para la Promoción de la Competitividad. (2026). Índice de Competitividad Nacional 2026. https://icn.cr/: temas 19, 36.
 - Cortés García, E. (2026). Derecho municipal: Impugnación, veto y revisión de actos administrativos. Tirant lo Blanch: introducción; capítulos 2, 4.
 - Harvard Law Review. (2025). Fourth Amendment — Unreasonable searches — Michigan Supreme Court holds exclusionary rule inapplicable in the civil context. Long Lake Township v. Maxon, 15 N.W.3d 118 (Mich. 2024). Harvard Law Review, 138, 1941-1950: tema 16.
+- Instituto de Fomento y Asesoría Municipal. (2024). Índice Municipal de Costa Rica 2024. https://drive.google.com/file/d/1StgLMG4K8U3vHaziSk1rOayGPFBxw6sn/view: temas 17, 32.
+- Instituto de Fomento y Asesoría Municipal. (2025). Índice Municipal de Costa Rica 2025. https://drive.google.com/file/d/1JdJsvWDa0uZMg7WBLKVCjm5hgxM1zmIh/view: temas 32, 36; conclusión.
 - Kant, I. (1873). Principios metafísicos del derecho (G. Lizárraga, Trad.). Librería de Victoriano Suárez. (Trabajo original publicado en 1797): capítulos 2, 3, 4; conclusión.
 - Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local? Federación Metropolitana de Municipalidades y Municipalidad de San José: introducción; capítulos 2, 3.
 - Lora-Tamayo Vallvé, M. (Dir.). (2020). Manual de derecho local (4.ª ed.). Iustel: introducción.

@@ -6,6 +6,8 @@ Contraloría General de la República. (2025). [Fichas de indicadores del Índic
 
 Decreto Ejecutivo N.° 32675, *Declara de interés público el Proyecto «Centros Comunitarios de Acceso a Internet» (C.C.A.I.)*. (2005). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
 
+Instituto de Fomento y Asesoría Municipal. (2024). *Índice Municipal de Costa Rica 2024*. https://drive.google.com/file/d/1StgLMG4K8U3vHaziSk1rOayGPFBxw6sn/view
+
 Ley N.° 4755, *Código de Normas y Procedimientos Tributarios ( Código Tributario )*. (1971). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=6530&param2=148766&param3=1
 
 Ley N.° 7169, *Promoción Desarrollo Científico y Tecnológico y Creación del MICYT(Ministerio de Ciencia y Tecnología)*. (1990). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=11908&param2=141204&param3=1

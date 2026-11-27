@@ -8,6 +8,8 @@ Contraloría General de la República. (2025). *Tabla de datos del Índice de Ge
 
 Contraloría General de la República. (2026a). *Índice de Cumplimiento para la Mejora Pública (ICM) 2026* [Infografía metodológica]. Área de Seguimiento para la Mejora Pública. https://sites.google.com/cgr.go.cr/icm/icm2026/metodología-icm-2026
 
+Instituto de Fomento y Asesoría Municipal. (2025). *Índice Municipal de Costa Rica 2025*. https://drive.google.com/file/d/1JdJsvWDa0uZMg7WBLKVCjm5hgxM1zmIh/view
+
 Kant, I. (1873). *Principios metafísicos del derecho* (G. Lizárraga, Trad.). Librería de Victoriano Suárez. (Trabajo original publicado en 1797)
 
 Ley N.° 2, *Código de Trabajo*. (1943). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=8045&param2=150791&param3=1
