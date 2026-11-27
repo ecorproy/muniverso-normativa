@@ -29,6 +29,6 @@ Alcance: los cambios de los Word final45 a final48 (familias de puestos, orden p
 
 ## Pendientes
 
-1. Voto 2021-017098: fecha cotejada en NexusPJ (31 de julio de 2021, 23:15 horas, expediente 21-011713-0007-CO); el C-136-2026 la da como 1 de julio. Falta el texto completo del voto para pasar de cita indirecta a cita directa.
+1. Voto 2021-017098: fecha cotejada en NexusPJ (31 de julio de 2021, 23:15 horas, expediente 21-011713-0007-CO); el C-136-2026 la da como 1 de julio. El autor aportó el extracto del considerando XIII, apartado 5, y del considerando XIV (en `fuentes/votos/Sentencia 2021-017098.md`). Con él se citan de forma directa las razones de la magistrada Picado Brenes. La regla de los tres grupos y la cita «por violación a la autonomía…» siguen citadas por transcripción, porque están en partes del voto que no se aportaron.
 2. El Word no puede rearmarse desde las fuentes porque `post.py`, `ref.docx` y el logo no están en el repositorio. Por eso se corrige directamente. Conviene guardar ese juego de armado en la rama.
 3. Ley 5525: el texto la usa solo para decir que el sistema incluye las unidades de planificación locales. La ley no obliga a la municipalidad a crear una (su art. 12 nombra ministerios e instituciones autónomas y semiautónomas).

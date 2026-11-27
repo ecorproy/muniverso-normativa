@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 155 | OK: 124
+CITAS TEXTUALES: 157 | OK: 126
   [cap04.md] 28p | V:2025-008201:considerando IV | SIN FUENTE LOCAL | "el mandato constitucional es que el servidor público sea nom"
   [cap04.md] 25p | V:2025-008201:considerando XXVIII | SIN FUENTE LOCAL | "también es una manifestación del principio de transparencia "
   [cap04.md] 16p | D:C-131-2026:estudio general | LITERAL (sin localización que cotejar) | "se complementa con lo regulado en el propio Código Municipal"

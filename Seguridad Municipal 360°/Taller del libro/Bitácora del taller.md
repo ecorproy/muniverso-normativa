@@ -1759,3 +1759,22 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Verificador: seis fuentes nuevas (`ICM`, `ICM-F1` a `ICM-F4`, `ICM-BP`) en `hacer_build_libro.py`. Las fichas sin fecha van como s. f.-a a s. f.-d, antes de las fechadas. La infografía y el listado van como 2026a y 2026b. Cita textual cotejada; sin errores nuevos.
 - Docs: capítulo 3 rev 37, capítulo 4 rev 44 y conclusión rev 11, con exportación IDÉNTICA según `esperado_fig.py`.
 - Word final52 = final51 + el párrafo, las dos frases y las referencias nuevas. Fuera de las referencias, no difiere de la fuente compilada.
+
+## 27 de noviembre de 2026: extracto del voto 2021-017098, en lo conducente (Word final53)
+
+- El autor aportó el extracto del voto 2021-017098: el considerando XIII, apartado 5 («Razones y notas sobre la consulta en cuanto a las Municipalidades»), y el considerando XIV. Pidió aplicarlo en lo conducente.
+- Fuente local: `fuentes/votos/Sentencia 2021-017098.md`. Lleva los metadatos de la ficha de NexusPJ y una advertencia de que es un extracto. El encabezado «XIII.-» se agregó para que el verificador ubique el apartado, que precede al considerando XIV.
+- Capítulo 4:
+  - Párrafo nuevo después de «Esa división coincide con el mapa de procesos…». Recoge las razones adicionales de la magistrada Picado Brenes sobre el artículo 7 del proyecto: «todo el personal que labora en las municipalidades, desde el puesto más humilde hasta el cargo jerárquico más alto, es absolutamente indispensable…». Incluye su ejemplo de los recolectores y conserjes, parafraseado. Se aclara que son razones de una magistrada y no la regla del voto, y que el Concejo y la Alcaldía pueden tomarlas como motivo al decidir sobre el apoyo.
+  - En «En una municipalidad estas reglas tienen un límite…», cita de la misma magistrada: «Absurdo sería pretender que los intereses locales sean determinados por las corporaciones municipales…».
+  - Referencia nueva: voto 2021-017098 (31 de julio de 2021, 23:15 horas; expediente 21-011713-0007-CO).
+- No se usaron del extracto:
+  - la nota de Rueda Leal;
+  - las razones de Garro Vargas (artículos 2 c, 7, 9 y 13);
+  - las de Picado Brenes sobre los artículos 9 y 18;
+  - el considerando XIV (instituciones autónomas, consulta inevacuable).
+
+  Quedan disponibles en la fuente.
+- Verificador: las dos citas textuales cotejadas (OK de 124 a 126); sin errores nuevos.
+- Docs: capítulo 4 rev 46, exportación IDÉNTICA.
+- Word final53 = final52 + el párrafo, la frase y la referencia.
