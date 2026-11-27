@@ -4,11 +4,11 @@ L='/home/claude/libro/'
 d=Document(sys.argv[1]); ps=d.paragraphs
 def pl(t): return re.sub(r'\s+',' ',unicodedata.normalize('NFC',re.sub(r'[\*\[\]]','',t))).strip()
 def titulo(c):
-    return open(L+c+'/chk_A/'+('all' if c=='cap02' else c)+'.md',encoding='utf-8').read().split('\n',1)[0].lstrip('# ').strip()
+    return open(L+c+'/chk_X/'+('all' if c=='cap02' else c)+'.md',encoding='utf-8').read().split('\n',1)[0].lstrip('# ').strip()
 caps=[('intro','Heading 1'),('cap01','Heading 1'),('cap02','Heading 1'),('cap03','Heading 1'),('cap04','Heading 1'),('conclusion','Heading 1'),('anexos','Heading 1')]+[(f't{i:02d}','Heading 2') for i in range(1,37)]
 tot_m=tot_e=0
 for c,niv in caps:
-    md=open(L+c+'/chk_A/'+('all' if c=='cap02' else c)+'.md',encoding='utf-8').read()
+    md=open(L+c+'/chk_X/'+('all' if c=='cap02' else c)+'.md',encoding='utf-8').read()
     t=titulo(c)
     h=[i for i,p in enumerate(ps) if p.style.name==niv and pl(p.text)==pl(t)]
     if len(h)!=1: print(c,'título no hallado:',t[:50],len(h)); continue
@@ -26,7 +26,7 @@ for c,niv in caps:
         for sub in (b.split('\n') if b.startswith('- ') or re.match(r'^\d+\. ',b) else [b]):
             sub=re.sub(r'^(- |\d+\. )','',sub.strip())
             if sub: blocks.append(pl(sub))
-    zz=[pl(x) for x in open(L+c+'/chk_A/zz_referencias.md',encoding='utf-8').read().split('\n\n') if x.strip() and not x.startswith('#')]
+    zz=[pl(x) for x in open(L+c+'/chk_X/zz_referencias.md',encoding='utf-8').read().split('\n\n') if x.strip() and not x.startswith('#')]
     blocks+=zz+['Referencias']
     miss=[b for b in blocks if b not in Wset]
     Bset=set(blocks)

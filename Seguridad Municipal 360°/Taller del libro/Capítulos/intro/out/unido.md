@@ -32,7 +32,7 @@ La primera es que lo local se define por la persona y no por el territorio ni po
 
 La segunda es que las personas del cantón no son solo las vecinas residentes. El municipio lo forman los vecinos, pero los servicios locales tienen como destinatarias potenciales a todas las personas que están en el cantón, incluidas las que viven en sus calles (capítulo 3 y tema 8).
 
-La tercera es que la competencia ajena no libera. Cuando la necesidad corresponde a otra institución, el deber municipal se convierte en coordinar, instar y llevar a la persona hasta ella (capítulo 2 y tema 30).
+La tercera es que la competencia ajena no libera de lo propio. Cuando la titularidad corresponde a otra institución, la municipalidad no ejerce esa competencia, pero conserva sus obligaciones: coordinar, instar y llevar a la persona hasta quien debe atenderla (capítulos 2 y 3, y tema 30).
 
 La cuarta es que la escasez no excusa. La falta de recursos no justifica dejar de prestar un servicio; lo exigible es prever (capítulo 4 y conclusión).
 
@@ -48,7 +48,7 @@ Ninguna de esas tesis parte de cero. El capítulo 3 dice qué estaba ya dicho po
 
 Este libro se lee como un viaje. Empieza bajo el suelo del cantón y termina frente a una persona, en la puerta de su casa. Tiene seis estaciones, y en cada una el lector recoge algo que va a necesitar en la siguiente.
 
-![Introducción: mapa del viaje, seis estaciones de la red a la persona](blob/b56f72ae-d59b)
+[[RECURSO:intro_mapa]]
 
 La primera estación está bajo tierra. El capítulo 1, La red, muestra lo que no se ve: los hilos que unen el agua del tubo, la acera, la basura, el cementerio y el permiso para abrir un negocio. De ahí el lector sale con una idea: en el cantón casi nada ocurre solo, y un mismo caso toca varios temas a la vez.
 
@@ -66,7 +66,7 @@ La sexta estación es el regreso. La conclusión vuelve al núcleo, responde qu�
 
 Un viaje largo no obliga a hacerlo de una sola vez. Las personas adultas leemos mejor cuando lo que leemos resuelve un problema que ya tenemos, y por eso el libro tiene varias puertas. El capítulo 1 explica por qué cada lector ve una punta distinta de la red; aquí van algunas rutas para empezar.
 
-![Introducción: cinco rutas de lectura según quien lee](blob/9b93ded9-69d1)
+[[RECURSO:intro_rutas]]
 
 Quien integra el Concejo Municipal o la Alcaldía puede empezar por la conclusión y sus preguntas de diagnóstico, y después ir a los temas donde su cantón tiene cuentas pendientes. El capítulo 4 le muestra cómo se exige y se mide el servicio.
 

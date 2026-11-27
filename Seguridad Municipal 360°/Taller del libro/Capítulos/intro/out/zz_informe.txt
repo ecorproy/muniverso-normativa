@@ -1,0 +1,17 @@
+CITAS TEXTUALES: 0 | OK: 0
+
+UBICACIONES VERIFICADAS A MANO (0):
+
+ERRORES (3):
+  [intro.md] CITA TEXTUAL con paréntesis no reconocido: "La municipalidad podrá usar o disponer de su patri" (Ley N.° 7794 [CM], 1998, art. 62, texto original)
+  MACRO desconocida: RECURSO:intro_mapa
+  MACRO desconocida: RECURSO:intro_rutas
+
+AVISOS (4):
+  [intro.md] estilo (comillas no rectas): …da, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría …
+  [intro.md] estilo (comillas no rectas): …016). La elusiva definición de “lo local”, que de existir perjudicaría a las mun…
+  [intro.md] estilo (comillas no rectas): …ctubre). *V Congreso Jurídico Municipal “Dr. Mauro Murillo Arias”*. https://muni…
+  [intro.md] estilo (comillas no rectas): …ídico Municipal “Dr. Mauro Murillo Arias”*. https://munimsj.wordpress.com/2016/1…
+
+NOTAS DE VOCABULARIO (1):
+  [intro.md] vocabulario «potenci»: … servicios locales tienen como destinatarias potenciales a todas las personas que están en…

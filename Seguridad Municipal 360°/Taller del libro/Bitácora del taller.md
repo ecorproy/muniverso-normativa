@@ -2197,3 +2197,49 @@ Responde a tres debilidades señaladas por la evaluación: la densidad documenta
 - **Pendiente.** Las 205 oraciones con más de dos citas, que van en una lista aparte.
 - **Scripts nuevos.** `audita_manual.py`, `audita_word.py`, `audita_parafrasis.py` y `audita_igsmf.py`.
 - **Entregable.** Word final73, de 1319 páginas en el PDF renderizado.
+
+## 27 de noviembre de 2026: titularidad, ejercicio y cumplimiento; indicadores de resultado; validación del anexo B (Word final74)
+
+Responde a tres observaciones de la evaluación.
+
+### Precisión conceptual
+
+- **Sección nueva en el cap. 3: *Titularidad, ejercicio y cumplimiento*.** Va antes de *La definición frente a otras construcciones*. Distingue tres planos:
+  - **titularidad:** CP, art. 169, y LGAP, art. 59;
+  - **ejercicio:** LGAP, art. 70, y CM, art. 3;
+  - **cumplimiento de la obligación de servicio:** LGAP, art. 4.
+- La sección se apoya en la LGAP, art. 66: «Las potestades de imperio y su ejercicio, y los deberes públicos y su cumplimiento».
+- Cada plano se prueba de una manera:
+  - la titularidad, en la norma;
+  - el ejercicio, en los actos;
+  - el cumplimiento, en lo que recibe la persona.
+- **Fórmula «la competencia ajena no libera».** Se precisó como «la competencia ajena no libera de lo propio» en cinco lugares:
+  - la tesis 3 de la introducción;
+  - el cap. 3, en Jinesta, en Reyna y en el tercer caso difícil;
+  - la conclusión, en la tercera regularidad y en *Lo que el libro no dice*.
+- **Anexo B, paso 2.** Ahora separa titularidad, ejercicio y cumplimiento.
+- **Anexo B, paso 3.** Aclara que el art. 28 de la Ley 10159 mide metas individuales, que se derivan de la meta de la dependencia.
+
+### Indicadores
+
+- **Anexo A.**
+  - Se reformularon 23 indicadores para medir prestaciones recibidas, plazos y problemas resueltos. Se quitaron las cifras de actividad y las de sanciones, clausuras, decomisos y revocatorias.
+  - Se agregaron tres reglas: medir resultados, no fijar sanciones como meta y que la cifra no pueda mejorar mientras la persona recibe menos.
+- **Conclusión.** Los seis indicadores son de riesgo, no de resultado.
+- **Cap. 4.** Párrafo nuevo sobre los riesgos de contar actividades y de premiar sanciones.
+- **Temas 1, 4, 7 y 29.** Las cifras de clausuras, multas, aprehensiones, decomisos y sanciones pasan a ser contexto y no meta.
+
+### Validación
+
+- **Anexo B.** Declara que el protocolo no se ha aplicado y fija cuatro condiciones para validarlo:
+  - una línea de base;
+  - un ciclo presupuestario de aplicación;
+  - una medición independiente;
+  - el registro de lo que el protocolo no detectó.
+- **Conclusión, *Lo que el libro no dice*.** El modelo de gestión queda por validar.
+
+### Cotejo y entregable
+
+- Sin errores, salvo los 3 conocidos de la introducción.
+- La cita nueva de la LGAP, art. 66, es literal.
+- Word final74, de 1321 páginas en el PDF renderizado, y Docs actualizado.

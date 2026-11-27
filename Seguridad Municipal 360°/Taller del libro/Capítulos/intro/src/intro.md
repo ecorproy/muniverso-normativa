@@ -30,7 +30,7 @@ La primera es que lo local se define por la persona y no por el territorio ni po
 
 La segunda es que las personas del cantón no son solo las vecinas residentes. El municipio lo forman los vecinos, pero los servicios locales tienen como destinatarias potenciales a todas las personas que están en el cantón, incluidas las que viven en sus calles (capítulo 3 y tema 8).
 
-La tercera es que la competencia ajena no libera. Cuando la necesidad corresponde a otra institución, el deber municipal se convierte en coordinar, instar y llevar a la persona hasta ella (capítulo 2 y tema 30).
+La tercera es que la competencia ajena no libera de lo propio. Cuando la titularidad corresponde a otra institución, la municipalidad no ejerce esa competencia, pero conserva sus obligaciones: coordinar, instar y llevar a la persona hasta quien debe atenderla (capítulos 2 y 3, y tema 30).
 
 La cuarta es que la escasez no excusa. La falta de recursos no justifica dejar de prestar un servicio; lo exigible es prever (capítulo 4 y conclusión).
 
