@@ -1860,3 +1860,23 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Recursos nuevos sin número de figura: `intro_mapa` (mapa del viaje) e `intro_rutas` (rutas de lectura). Generador: `scripts/recursos/generar_intro.py`.
 - Word final57, insertado con `scripts/word_intro.py`: Título 1 la introducción, Título 2 sus secciones. Ocupa las páginas 4 a 10 del PDF renderizado; el libro tiene 1049 páginas.
 - Docs: pestaña nueva «Introducción. El camino», primera en el orden (a0), con las dos imágenes.
+
+## 27 de noviembre de 2026: Alfaro Redondo, El régimen municipal costarricense a inicios del siglo XXI (Word final58)
+- Fuente aportada por el autor: Alfaro Redondo, R. (2025), *El régimen municipal costarricense a inicios del siglo XXI* (Cuadernos para la Ciudadanía 8, Editorial UCR; edición digital de una obra publicada en 2009). Se cita como (Alfaro Redondo, 2009/2025, p. N), con la paginación impresa. La obra tiene derechos reservados: el PDF y su texto no se suben al repositorio. Para cotejar las citas se usa una copia local paginada (`/home/claude/libro/fuentes/doctrina/alfaro_regimen_pag.txt`), registrada en `hacer_build_libro.py`.
+- Lo que se agregó:
+  - Capítulo 2, «Lo local antes del 169»:
+    - los cabildos menores de Cádiz (1812), entre ellos el de Escazú;
+    - la lista de funciones municipales de la Ley 161 de 1828;
+    - la abolición del régimen municipal por la Ley de Bases y Garantías (1841);
+    - la restitución de 1844 y la municipalidad por cantón de 1848.
+  - Capítulo 2, «El legislador lee el 169»: después de 1949, las instituciones autónomas asumieron la mayor parte de los servicios y las funciones municipales quedaron residuales.
+  - Tema 15:
+    - los plebiscitos revocatorios acordados y no realizados (Orotina, Oreamuno, La Unión y Tibás; Estado de la Nación, 2006);
+    - en «Lo que hoy se mide», la encuesta de 2004 (7 de cada 100 asistieron a una reunión convocada por el alcalde; casi 1 de cada 5 hizo una petición), la brecha entre la norma y la práctica, y la abstención del 77 % (2002) y del 76 % (2006) en las elecciones de alcaldes.
+  - Conclusión:
+    - el índice de gestión financiero-presupuestaria de la CGR de 2006, con 27 indicadores;
+    - la distancia de ingresos per cápita entre municipalidades en 2002.
+- Las fuentes que Alfaro cita (Araya y Albarracín, Baker et al., Vargas y Rosero, Estado de la Nación, CGR) se citan «como se citó en» y no entran en las referencias, conforme a APA.
+- Cotejo: cap02, t15 y la conclusión se construyeron con CITA=corta, sin errores. Las dos citas textuales de Alfaro coinciden en la página citada (pp. 5 y 40).
+- Índices: se agregaron Alfaro Redondo y Lora-Tamayo Vallvé (este último por la introducción). También se agregó «introducción» a Cortés García, Leiva Poveda y la Ley 7794. `indices.py` reconoce ahora la introducción.
+- Word final58 (1050 páginas en el PDF renderizado) y Docs (pestañas del capítulo 2, del tema 15 y de la conclusión) actualizados.

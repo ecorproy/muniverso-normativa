@@ -1,5 +1,7 @@
 ## Referencias
 
+Alfaro Redondo, R. (2025). *El régimen municipal costarricense a inicios del siglo XXI* (Cuadernos para la Ciudadanía 8). Editorial Universidad de Costa Rica. (Trabajo original publicado en 2009)
+
 Constitución Política de la República de Costa Rica. (1949). Asamblea Nacional Constituyente. Sistema Costarricense de Información Jurídica.
 
 Contraloría General de la República. (2024, 19 de enero). *Oficio N.° 00415 (DFOE-LOC-0073). Atención de consulta relacionada al Plan Cantonal de Desarrollo Humano Local (PCDHL)*.

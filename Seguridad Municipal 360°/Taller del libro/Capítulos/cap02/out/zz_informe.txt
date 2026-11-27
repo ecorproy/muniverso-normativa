@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 130 | OK: 86
+CITAS TEXTUALES: 131 | OK: 87
   [all.md] 8p | Leiva Poveda, 2016 | , p. 5 | SIN FUENTE LOCAL | "fue favorable al desarrollo de los gobiernos locales"
   [all.md] 14p | Leiva Poveda, 2016 | , p. 5 | SIN FUENTE LOCAL | "tuvo como una de sus vías de consolidación el debilitamiento"
   [all.md] 5p | Leiva Poveda, 2016 | , p. 6 | SIN FUENTE LOCAL | "por más de un siglo"

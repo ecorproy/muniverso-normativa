@@ -1,5 +1,7 @@
 ## Referencias
 
+Alfaro Redondo, R. (2025). *El régimen municipal costarricense a inicios del siglo XXI* (Cuadernos para la Ciudadanía 8). Editorial Universidad de Costa Rica. (Trabajo original publicado en 2009)
+
 Constitución Política de la República de Costa Rica. (1949). Asamblea Nacional Constituyente. Sistema Costarricense de Información Jurídica.
 
 Cortés García, E. (2026). *Derecho municipal: Impugnación, veto y revisión de actos administrativos*. Tirant lo Blanch.

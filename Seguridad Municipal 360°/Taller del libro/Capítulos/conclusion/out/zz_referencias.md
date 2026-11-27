@@ -1,5 +1,7 @@
 ## Referencias
 
+Alfaro Redondo, R. (2025). *El régimen municipal costarricense a inicios del siglo XXI* (Cuadernos para la Ciudadanía 8). Editorial Universidad de Costa Rica. (Trabajo original publicado en 2009)
+
 Constitución Política de la República de Costa Rica. (1949). Asamblea Nacional Constituyente. Sistema Costarricense de Información Jurídica.
 
 Contraloría General de la República. (2025). *Tabla de datos del Índice de Gestión de Servicios Municipales 2025* [Hoja de cálculo publicada en el sitio del IGSM 2025]. https://sites.google.com/cgr.go.cr/igsm/panorama-general

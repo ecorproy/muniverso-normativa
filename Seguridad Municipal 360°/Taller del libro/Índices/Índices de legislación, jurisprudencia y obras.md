@@ -90,7 +90,7 @@ Cada norma remite a los capítulos y temas en cuyas referencias aparece.
 - Ley N.° 7779, Uso, Manejo y Conservación de Suelos (1998): temas 1, 30.
 - Ley N.° 7786, Ley sobre estupefacientes, sustancias psicotrópicas, drogas de uso No Autorizado, actividades Conexas, legitimación de capitales y financiamiento al terrorismo (1998): tema 7.
 - Ley N.° 7788, Ley de Biodiversidad (1998): tema 30.
-- Ley N.° 7794, Código Municipal (1998): capítulos 1, 2, 3, 4; temas 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36; conclusión.
+- Ley N.° 7794, Código Municipal (1998): introducción; capítulos 1, 2, 3, 4; temas 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36; conclusión.
 - Ley N.° 7800, Crea Instituto del Deporte y Recreación (ICODER) y su Régimen Jurídico (1998): temas 1, 35.
 - Ley N.° 7801, Ley del Instituto Nacional de las Mujeres (1998): temas 11, 26.
 - Ley N.° 7935, Ley Integral para la Persona Adulta Mayor (1999): temas 13, 23, 25, 26, 32.
@@ -929,12 +929,14 @@ Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas ref
 
 Doctrina, informes y documentos institucionales que no son normas ni resoluciones.
 
+- Alfaro Redondo, R. (2025). El régimen municipal costarricense a inicios del siglo XXI (Cuadernos para la Ciudadanía 8). Editorial Universidad de Costa Rica. (Trabajo original publicado en 2009): capítulo 2; tema 15; conclusión.
 - Conan Doyle, A. (s. f.). El valle del terror. Fundación Carlos Slim. (Obra original publicada en 1915): capítulo 1.
 - Consejo para la Promoción de la Competitividad. (2026). Índice de Competitividad Nacional 2026. https://icn.cr/: temas 19, 36.
-- Cortés García, E. (2026). Derecho municipal: Impugnación, veto y revisión de actos administrativos. Tirant lo Blanch: capítulos 2, 4.
+- Cortés García, E. (2026). Derecho municipal: Impugnación, veto y revisión de actos administrativos. Tirant lo Blanch: introducción; capítulos 2, 4.
 - Harvard Law Review. (2025). Fourth Amendment — Unreasonable searches — Michigan Supreme Court holds exclusionary rule inapplicable in the civil context. Long Lake Township v. Maxon, 15 N.W.3d 118 (Mich. 2024). Harvard Law Review, 138, 1941-1950: tema 16.
 - Kant, I. (1873). Principios metafísicos del derecho (G. Lizárraga, Trad.). Librería de Victoriano Suárez. (Trabajo original publicado en 1797): capítulos 2, 3, 4; conclusión.
-- Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local? Federación Metropolitana de Municipalidades y Municipalidad de San José: capítulos 2, 3.
+- Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local? Federación Metropolitana de Municipalidades y Municipalidad de San José: introducción; capítulos 2, 3.
+- Lora-Tamayo Vallvé, M. (Dir.). (2020). Manual de derecho local (4.ª ed.). Iustel: introducción.
 - Medina León, A., Nogueira Rivera, D., & Hernández Nariño, A. (2009). Relevancia de la gestión por procesos en la planificación estratégica y la mejora continua. Eídos, (2), 65-72: capítulo 4.
 - Naciones Unidas, Dependencia de Seguridad Humana. (2016). Manual de seguridad humana: Un enfoque integrado para la consecución de los Objetivos de Desarrollo Sostenible y los ámbitos de acción prioritarios de la comunidad internacional y el sistema de las Naciones Unidas. Naciones Unidas: capítulo 1.
 - Organización Panamericana de la Salud. (s. f.). [Resumen del documento de referencia técnico sobre salud y seguridad humana]. https://www.paho.org/sites/default/files/D37404-PAHO-ExecutiveSummary-Spn-WEB.pdf: capítulo 1.

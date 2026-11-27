@@ -5,6 +5,7 @@ units=[]; cur=None; inref=False
 for x in L:
     m=re.match(r'^# (\d)\. ',x); t=re.match(r'^## (\d+)\. ',x)
     if m: cur=('cap',int(m.group(1))); inref=False; continue
+    if x.startswith('# Introducción'): cur=('intro',0); inref=False; continue
     if x.startswith('# Conclusión'): cur=('concl',0); inref=False; continue
     if t and not x.startswith('### '): cur=('tema',int(t.group(1))); inref=False; continue
     if x.startswith('### Referencias'): inref=True; continue
@@ -37,7 +38,7 @@ for u,ref in units:
     idx.setdefault(k,set()).add(u)
 def lugares(s):
     caps=sorted(n for t,n in s if t=='cap'); temas=sorted(n for t,n in s if t=='tema'); c=any(t=='concl' for t,_ in s)
-    parts=[]
+    parts=['introducción'] if any(t=='intro' for t,_ in s) else []
     if caps: parts.append(('capítulo ' if len(caps)==1 else 'capítulos ')+', '.join(map(str,caps)))
     if temas: parts.append(('tema ' if len(temas)==1 else 'temas ')+', '.join(map(str,temas)))
     if c: parts.append('conclusión')
