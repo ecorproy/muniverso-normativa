@@ -1625,3 +1625,9 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Fuente aportada por el autor con enlace: Tribunal Contencioso Administrativo y Civil de Hacienda, resolución N.° 3331-2026, de las 14:39 horas del 25 de mayo de 2026 (expediente 23-002851-1027-CA), https://nexuspj.poder-judicial.go.cr/document/sen-1-0034-1402122. En la copia de `fuentes/tca/` se unió a la línea anterior el rótulo «V. Recomendaciones» de un informe transcrito en los hechos probados, para que el compilador no lo tome por un considerando.
 - Tema 29, «Vertederos, vehículos y sanciones»: párrafo nuevo tras el caso de Goicoechea. El deber de prevenir y eliminar vertederos (Ley 8839, art. 8, inc. f) es distinto de la recolección ordinaria; el costo no excusa, porque puede cargarse al propietario; orden sanitaria firme sin cumplir; culpa concurrente de la víctima; sin indemnización, pero con orden a la Municipalidad y al Ministerio de concurrir a la eliminación definitiva.
 - Docs: tema 29 cotejado IDÉNTICO. Word final42.
+
+## 27 de noviembre de 2026: dictamen C-095-2025 (becas, Cartago)
+
+- Fuente aportada por el autor: Procuraduría General de la República, dictamen C-095-2025, 19 de mayo de 2025 (https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24957). Ya estaba en la colección de dictámenes; el tema 19 solo citaba la conclusión 1.
+- Tema 19, «Ayudar a la familia en desgracia»: párrafo nuevo tras el de Cartago y Curridabat. El artículo 71 del Código Municipal no restringe las becas a la educación pública; la restricción del reglamento de Cartago es de origen reglamentario y la Municipalidad puede reformarlo para incluir universidades privadas acreditadas (apartados B y C, conclusiones 3 a 5). La beca sigue siendo facultativa.
+- Docs: tema 19 cotejado IDÉNTICO. Word final43.
