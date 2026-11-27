@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1330" viewBox="0 0 1200 1330" font-family="DejaVu Serif, serif"><defs><marker id="ar" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L14,7 L0,14 Z" fill="#111"/></marker></defs><rect width="100%" height="100%" fill="white"/><text x="600.0" y="40.0" font-size="28" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Un proceso</text>
 <rect x="40" y="70" width="600" height="100" rx="14" fill="#e6e6e6" stroke="#111" stroke-width="3"/>
 <text x="340.0" y="97.0" font-size="23" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Responsable: el superior</text>
-<text x="340.0" y="136.5" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">define procesos, proyectos, productos y servicios</text>
+<text x="340.0" y="136.5" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">define procesos, proyectos, servicios y productos</text>
 <text x="340.0" y="160.2" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">(Ley 10159, art. 28)</text>
 <circle cx="900" cy="125" r="95" fill="white" stroke="#111" stroke-width="3"/>
 <text x="900.0" y="92.0" font-size="19" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">Ciclo de</text>

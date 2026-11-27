@@ -8,8 +8,8 @@ def banda(t,y):
     s.add(f'<rect x="20" y="{y}" width="{W-40}" height="50" fill="#111"/>')
     text(s,W/2,y+34,t,25,bold=True,fill='white'); return y+50+22
 y=banda('1. La ley obliga a planificar',y)
-L1=[('Cada superior','Define los procesos y proyectos de la dependencia y los productos y servicios prestados, de conformidad con la normativa vigente y los planes estratégicos institucionales (Ley 2166, art. 47; Ley 10159, art. 28).'),
-    ('La jefatura, al inicio del año','Distribuye a cada persona servidora entre esos procesos, proyectos, productos y servicios, con plazos de entrega y tiempo estimado (Ley 2166, art. 48; Ley 10159, art. 29).'),
+L1=[('Cada superior','Define los procesos y proyectos de la dependencia y los servicios prestados y productos, de conformidad con la normativa vigente y los planes estratégicos gubernamentales institucionales (Ley 2166, art. 47; Ley 10159, art. 28).'),
+    ('La jefatura, al inicio del año','Distribuye a cada persona servidora entre esos procesos, proyectos, servicios y productos, con plazos de entrega y tiempo estimado (Ley 2166, art. 48; Ley 10159, art. 29).'),
     ('Concejo y Alcaldía','Plan de desarrollo municipal y plan anual operativo con las necesidades e intereses de la población (CM, art. 13); manual de organización y funcionamiento (CM, art. 130).')]
 bw=(W-40-2*20)/3
 h=max(need_h(t,b,bw,23,20,pad=24) for t,b in L1)
@@ -33,7 +33,7 @@ P=[('Identificar los procesos de cada tema','Responsable: cada superior (Ley 101
    ('Clasificarlos y dibujar el mapa','Estratégicos, operativos y de apoyo, junto con el plan (Medina León et al., 2009, p. 70); el mapa queda en el manual (CM, art. 130).','met'),
    ('Escribir la ficha de cada proceso','Objetivo, entradas, salidas, responsable e indicadores (Zaratiegui, 1999, p. 85).','met'),
    ('Asignar personas y plazos','Al inicio del año, con plazos de entrega y tiempo estimado (Ley 10159, art. 29).','ley'),
-   ('Medir y registrar','Indicadores cuantitativos de metas de productos y servicios prestados (Ley 10159, art. 28); sistema informático al día (art. 29).','ley'),
+   ('Medir y registrar','Indicadores cuantitativos de metas individuales de servicios prestados y productos (Ley 10159, art. 28); sistema informático al día (art. 29).','ley'),
    ('Calificar','80 % metas y 20 % competencias (Ley 2166, art. 48), con la escala municipal (CM, art. 146).','ley'),
    ('Rendir cuentas y mejorar','Informe de labores ante el Concejo y los vecinos (CM, art. 17); ciclo de Deming (Medina León et al., 2009, p. 68).','ley')]
 x0=110; pw=W-x0-20; ys=[]
@@ -133,7 +133,7 @@ cuadro(rows[5:],'c4_cuadro_b.svg')
 # ===== C. Anatomía de un proceso y mapa de procesos
 s=SVG(W,1330)
 text(s,W/2,40,'Un proceso',28,bold=True)
-box(s,40,70,600,100,'Responsable: el superior','define procesos, proyectos, productos y servicios (Ley 10159, art. 28)',fill='#e6e6e6',tfs=23,bfs=19)
+box(s,40,70,600,100,'Responsable: el superior','define procesos, proyectos, servicios y productos (Ley 10159, art. 28)',fill='#e6e6e6',tfs=23,bfs=19)
 s.add('<circle cx="900" cy="125" r="95" fill="white" stroke="#111" stroke-width="3"/>')
 text(s,900,92,'Ciclo de',19,bold=True); text(s,900,116,'Deming',19,bold=True)
 text(s,900,146,'planear, hacer,',16,fill='#333'); text(s,900,166,'verificar,',16,fill='#333'); text(s,900,186,'actuar',16,fill='#333')

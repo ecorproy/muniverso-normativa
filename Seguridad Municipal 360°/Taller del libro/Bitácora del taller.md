@@ -1662,3 +1662,13 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Texto: capítulo 4 («Queda el orden de las palabras…») y conclusión («Por eso la pregunta que ordena todo el libro…» y «Quedan también tareas…»). No queda ninguna mención de «a quién se le prestó».
 - Figuras: la 5 («Medir y rendir cuentas»), la 10 (cuadro final) y la 13 (elipse) se regeneraron con figuras_diagramas.py y figuras_diagramas_cap04.py. Las PNG de las figuras 5, 9, 10 y 13 se exportaron a 2100 px de ancho, como el resto de la carpeta. figs.py también se actualizó.
 - Pendiente: llevar a Docs los cambios de los finales 45, 46 y 47 (capítulo 4, conclusión y figuras 5, 9, 10 y 13) y cotejar con esperado.py y esperado_fig.py.
+
+## 27 de noviembre de 2026: artículo 28 de la Ley Marco y el planificador institucional (Word final48)
+
+- Lectura del autor: el art. 28 enumera «metas individuales de productos y servicios prestados», pero el orden del trabajo es proceso y proyecto → servicio prestado → producto → meta individual (la porción repartida por la jefatura según el art. 29) → indicador. La meta debe medir el servicio en plazo y el producto entregado, no solo la actividad.
+- Párrafo nuevo después de «Queda el orden de las palabras…»: «El artículo 28 tiene la misma inversión…», con la Ley 8131, art. 5 e) (principio de programación: «los objetivos, las metas y los productos»). Ese título de la Ley 8131 rige para las municipalidades según su art. 1 d).
+- Párrafo nuevo después de «La misma lógica alcanza…»: «La cadena necesita quien la arme…». Trata la figura del planificador institucional con el CM, art. 13 (los planes «constituyen la base del proceso presupuestario»), la Ley 8131, art. 4, y la Ley 5525, art. 3 (unidades de planificación de las entidades públicas locales). No hay ley que obligue a la municipalidad a crear la unidad (el art. 12 de la Ley 5525 no la nombra); la función sí es obligatoria. El planificador no sustituye al superior.
+- Salvedad de los lineamientos de Mideplán (párrafo «En una municipalidad estas reglas tienen un límite…»): cubre a la familia municipal; los puestos de servicios comunes que queden bajo la rectoría nacional sí reciben los lineamientos (Ley 10159, art. 7).
+- Orden «servicios y productos» en la voz del libro, en seis paráfrasis del capítulo 4. Donde el texto refiere lo que dice la ley, y en el título de la sección, se conserva el orden legal.
+- Figuras 9 y 10: superior, jefatura y paso «Medir y registrar» en el orden nuevo; la figura 10 dice «planes estratégicos gubernamentales institucionales», como el art. 28.
+- Referencias del capítulo: Ley 5525 (1974) y Ley 8131 (2001), en orden numérico.
