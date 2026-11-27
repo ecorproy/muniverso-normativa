@@ -198,7 +198,7 @@ Municipalidad de Upala. (2014, 22 de agosto). *Reglamento Interno de la Casa de 
 
 Municipalidad de Upala. (2022, 17 de noviembre). *Reglamento para el otorgamiento de becas para estudio a los munícipes de Upala*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=100218&param2=137379&param3=1
 
-Procuraduría General de la República. (2022, 10 de mayo). *Dictamen C-094-2022*.
+Procuraduría General de la República. (2022, 10 de mayo). *Dictamen C-094-2022*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23396&param2=0
 
 Procuraduría General de la República. (2026, 16 de setiembre). *Dictamen C-151-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25581&param2=0
 

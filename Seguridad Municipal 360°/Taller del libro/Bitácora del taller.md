@@ -1631,3 +1631,9 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Fuente aportada por el autor: Procuraduría General de la República, dictamen C-095-2025, 19 de mayo de 2025 (https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24957). Ya estaba en la colección de dictámenes; el tema 19 solo citaba la conclusión 1.
 - Tema 19, «Ayudar a la familia en desgracia»: párrafo nuevo tras el de Cartago y Curridabat. El artículo 71 del Código Municipal no restringe las becas a la educación pública; la restricción del reglamento de Cartago es de origen reglamentario y la Municipalidad puede reformarlo para incluir universidades privadas acreditadas (apartados B y C, conclusiones 3 a 5). La beca sigue siendo facultativa.
 - Docs: tema 19 cotejado IDÉNTICO. Word final43.
+
+## 27 de noviembre de 2026: dictamen C-094-2022 (becas, Vázquez de Coronado)
+
+- Fuente aportada por el autor con enlace: https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=23396&param2=0. El dictamen ya se citaba en los temas 12 y 18 (convención colectiva, hijos de trabajadores, voto de Moravia); su ficha no tenía enlace. Se guardó copia con enlace en fuentes/dictamenes y las referencias de los temas 12, 18 y 19 lo llevan ahora.
+- Tema 19, «Ayudar a la familia en desgracia»: párrafo nuevo tras el de Cartago. El reglamento obliga a la municipalidad que lo dictó (LGAP, art. 13); con el suyo, Vázquez de Coronado solo podía becar a residentes, en educación pública y de escasos recursos (conclusión 1). Leído con C-095-2025: la ley deja abierta la educación privada y el reglamento decide si la incluye. Se menciona la exclusión de parientes de autoridades y se remite al tema 18 para la convención.
+- Docs: temas 12, 18 y 19 cotejados IDÉNTICO. Word final44.
