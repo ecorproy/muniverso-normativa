@@ -32,36 +32,81 @@ path(s,f'M {x0} {yl} L 60 {yl} L 60 {yt} L {x0-2} {yt}',dash='10,7')
 s.add(f'<text transform="translate(45,{(yl+yt)/2}) rotate(-90)" font-size="21" font-style="italic" text-anchor="middle" fill="#333">sus necesidades vuelven al plan</text>')
 s.h=y; s.save(D+'c4_flujo.svg')
 
-# ===== B. Cuadro comparativo
-cols=['','Ley 2166 (capítulo de 2018)','Ley 10159','Lo que agrega la Ley Marco']
-cw=[190,330,330,310]
-rows=[('Finalidad','Mecanismo para la mejora continua de la gestión pública y del desempeño de los funcionarios (art. 45).','La misma finalidad, referida a las personas servidoras públicas (art. 27).','El instrumento «deberá ser objetivo» (art. 27).'),
- ('Rectoría','Mideplán; evalúa el sistema de empleo público en eficiencia, eficacia, economía y calidad (art. 46).','Mideplán dicta lineamientos generales para homogeneizar los métodos de evaluación (art. 28).','«Con las salvedades respectivas»: en las municipalidades la evaluación la define el propio ente (C-136-2026).'),
- ('Método','Indicadores cuantitativos de metas individuales de productos y servicios prestados, vinculados a procesos y proyectos (art. 47).','El mismo método; cada superior define procesos, proyectos, productos y servicios (art. 28).','Se mide también al cuerpo directivo en todos sus niveles, por metas y objetivos institucionales (art. 28).'),
- ('Obligaciones','La jefatura asigna al inicio del año; sistema informático; falta grave por no dar seguimiento o no registrar (art. 48).','Las mismas tres obligaciones: jefatura, administración y persona servidora (art. 29).','La falta grave se declara previo procedimiento administrativo; el sistema se pone a disposición de cada persona (art. 29).'),
- ('Consecuencias','Anualidad con «muy bueno»: 80 % metas y 20 % competencias (art. 48); ascensos, promociones, reconocimientos y capacitaciones (art. 49).','Da al artículo 48 de la Ley 2166 su redacción vigente (art. 49).','Dos evaluaciones consecutivas inferiores al 70 %: causal de despido (art. 21).')]
-s=SVG(W,10); xs=[30]
-for w in cw: xs.append(xs[-1]+w)
-y=30; hh=96
-for j,c in enumerate(cols):
-    if c: box(s,xs[j],y,cw[j],hh,c,None,fill='#111' if j<3 else '#555',r=0,tfs=22,sw=2)
-for j,c in enumerate(cols):
-    if c:
-        # rewrite header text white
-        pass
-s.o=[o for o in s.o if not o.startswith('<text')]
-for j,c in enumerate(cols):
-    if c: text(s,xs[j]+cw[j]/2,y+42,c,22,bold=True,fill='white',width=cw[j]-20)
-y+=hh
-for i,(r,a,b,c) in enumerate(rows):
-    h=max(need_h(None,t,cw[k+1],22,21,pad=34) for k,t in enumerate((a,b,c)))
-    box(s,xs[0],y,cw[0],h,r,None,fill='#e6e6e6',r=0,tfs=22,sw=2)
-    box(s,xs[1],y,cw[1],h,None,a,r=0,bfs=21,sw=2)
-    box(s,xs[2],y,cw[2],h,None,b,r=0,bfs=21,sw=2)
-    box(s,xs[3],y,cw[3],h,None,c,fill='#e6e6e6',r=0,bfs=21,sw=2)
-    y+=h
-text(s,W/2,y+40,'La Ley Marco no derogó el capítulo de la Ley 2166: las dos se leen juntas.',21,italic=True,fill='#333')
-s.h=y+70; s.save(D+'c4_cuadro.svg')
+# ===== B. Cuadro comparativo: cuatro fuentes por etapa
+cols=['Ley 2166','Ley 10159 (Ley Marco)','Código Municipal','Código de Trabajo']
+cw=[185,310,310,310,300]
+SR='Sin regla propia.'
+rows=[('Finalidad y alcance',
+  'Mejora continua de la gestión pública y del desempeño y desarrollo integral de los funcionarios (art. 45).',
+  'La misma finalidad; el instrumento debe ser objetivo, sin perjuicio por injerencia política, persecución o acoso laboral (art. 27). Cubre a municipalidades y concejos municipales de distrito (art. 2, inc. c).',
+  'Evaluación y calificación anual de los servicios de cada trabajador municipal (art. 144). Regula incentivos y beneficios (art. 143).',
+  'La persona trabajadora ejecuta el trabajo con intensidad, cuidado y esmero, en la forma, tiempo y lugar convenidos (art. 71, inc. b).'),
+ ('Quién fija el método',
+  'Rectoría de Mideplán (art. 46); lineamientos generales con las salvedades respectivas (art. 47). La Dirección General de Servicio Civil dicta cada año lineamientos técnicos y metodológicos (art. 49).',
+  'Mideplán emite lineamientos y principios generales, salvo funciones exclusivas de los entes con autonomía de gobierno (art. 7, inc. f; art. 28). En la municipalidad, la define el propio ente (C-136-2026).',
+  'Recursos Humanos confecciona los formularios, previa consulta a la alcaldía; sin esa oficina, los elabora la alcaldía (art. 144).',
+  'El servicio se desempeña bajo la dirección del patrono o su representante (art. 71, inc. a).'),
+ ('Qué se mide',
+  'Indicadores cuantitativos de metas individuales de productos y servicios prestados, vinculados a procesos y proyectos; también el cuerpo gerencial (art. 47).',
+  'El mismo método y el cuerpo de los niveles directivos (art. 28). La alta dirección: evaluación rigurosa por eficacia, eficiencia y control de resultados (art. 17, inc. c).',
+  'El rendimiento del servidor en cada factor que influye en su desempeño general (art. 146).',
+  SR),
+ ('Plan y registro',
+  'La jefatura asigna al inicio del año, con plazos y tiempos; sistema informático al día, también para el nivel directivo; incumplir es falta grave (art. 48).',
+  'Igual, y la falta grave se declara previo procedimiento administrativo; el sistema se alimenta solo durante la jornada (art. 29).',
+  'Primera quincena de junio; Recursos Humanos vela por que cada jefatura evalúe (art. 146). Personal en propiedad con un año continuo (art. 147) y reglas para quien no lo completó (art. 148).',
+  SR),
+ ('Escala',
+  '80 % metas anuales y 20 % competencias valoradas por la jefatura (art. 48).',
+  'Da al artículo 48 de la Ley 2166 su redacción vigente (art. 49).',
+  'Regular, Bueno, Muy bueno y Excelente (art. 146).',
+  SR),
+ ('Desacuerdo y control',
+  SR,
+  'La jefatura que califica y la autoridad que confirma deben justificar la nota; cuentan solo evaluaciones en firme (art. 21).',
+  'Lo resuelve la alcaldía, previa audiencia a todas las partes (art. 149).',
+  SR),
+ ('Efectos favorables',
+  'Anualidad solo con Muy bueno o su equivalente, en salario compuesto (art. 48); ascensos, promociones, reconocimientos y capacitaciones (art. 49).',
+  SR,
+  'Reconocimiento y estímulo; cuenta para selección, capacitación, ascensos, aumento de sueldo, permisos y reducciones forzosas (art. 145); derecho al reconocimiento del buen desempeño (art. 155, inc. c).',
+  SR),
+ ('Efectos desfavorables',
+  'Falta grave por no dar seguimiento al plan o no registrar (art. 48).',
+  'Dos evaluaciones consecutivas inferiores al 70 %, en firme y con responsabilidad acreditada, tras un plan remedial pactado: despido (art. 21).',
+  'Dos calificaciones consecutivas de Regular: falta grave (art. 150); sanciones de amonestación a despido (art. 158).',
+  'Negarse de modo reiterado a las normas de eficacia y rendimiento; incapacidad demostrada; otra falta grave al contrato (art. 81, incs. h, j y l).'),
+ ('Despido',
+  SR,
+  'Procedimiento especial único, con acto final en dos meses (art. 21, inc. a).',
+  'Solo por las causales del Código de Trabajo y con el procedimiento del Código (art. 155, inc. a); lo acuerda la alcaldía y se apela ante el tribunal de trabajo (arts. 158 y 159).',
+  'Causas justas de terminación del contrato (art. 81).')]
+W2=sum(cw)+60
+def cuadro(filas,nombre,pie=True,bfs=23,lfs=23):
+    s=SVG(W2,10); xs=[30]
+    for w in cw: xs.append(xs[-1]+w)
+    y=30; hh=80
+    for j,c in enumerate(cols):
+        k=j+1
+        box(s,xs[k],y,cw[k],hh,None,None,fill='#111' if k<3 else '#555',r=0,sw=2)
+        text(s,xs[k]+cw[k]/2,y+50,c,23,bold=True,fill='white',width=cw[k]-16)
+    y+=hh
+    for r in filas:
+        lab,cells=r[0],r[1:]
+        h=max([need_h(None,t,cw[k+1],bfs,bfs,pad=28) for k,t in enumerate(cells)]+[need_h(lab,None,cw[0],lfs,lfs,pad=28)])
+        box(s,xs[0],y,cw[0],h,lab,None,fill='#e6e6e6',r=0,tfs=lfs,sw=2)
+        for k,t in enumerate(cells):
+            box(s,xs[k+1],y,cw[k+1],h,None,t,fill='#f4f4f4' if t==SR else 'white',r=0,bfs=bfs,sw=2)
+        y+=h
+    if pie:
+        text(s,W2/2,y+40,'La Ley Marco no derogó el capítulo de la Ley 2166, y ambas se complementan con los artículos 144 a 150 del Código Municipal (C-131-2026).',21,italic=True,fill='#333',width=W2-80)
+        text(s,W2/2,y+120,'El Código de Trabajo entra por remisión del Código Municipal (arts. 155, 157 y 159). La evaluación es motivada y recurrible (voto 2025-008201).',21,italic=True,fill='#333',width=W2-80)
+        y+=170
+    else: y+=30
+    s.h=y; s.save(D+nombre)
+cuadro(rows,'c4_cuadro.svg')
+cuadro(rows[:5],'c4_cuadro_a.svg',pie=False)
+cuadro(rows[5:],'c4_cuadro_b.svg')
 
 # ===== C. Anatomía de un proceso y mapa de procesos
 s=SVG(W,1330)

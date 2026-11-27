@@ -1556,3 +1556,11 @@ Sin atender por depender del autor o de la editorial: datos editoriales de la po
 - Regla del autor: las comillas solo encierran citas. En el tema 24 se eliminaron las que marcaban las respuestas de la guía de la Contraloría; ahora dice que la columna de observaciones se reserva para justificar por qué una pregunta se responde en sentido negativo o no aplica. Sin avisos de estilo en el libro.
 - Las únicas comillas que quedan fuera de citas forman parte del título oficial de una fuente (Leiva Poveda, 2016; Decreto Ejecutivo N.° 32675).
 - Docs: tema 24 publicado y cotejado IDÉNTICO. Word final32.
+
+## 27 de noviembre de 2026: figura 8 con las cuatro fuentes
+
+- Observación del autor: la figura 8 no aprovechaba los artículos de la Ley 2166, la Ley Marco, el Código Municipal y el Código de Trabajo. Se rehízo como cuadro por etapas (finalidad, quién fija el método, qué se mide, plan y registro, escala, desacuerdo, efectos favorables y desfavorables, despido) con cuatro columnas: Ley 2166 (arts. 45-49), Ley 10159 (arts. 2, 7, 17, 21, 27-29 y 49), Código Municipal (arts. 143-150, 155, 158 y 159) y Código de Trabajo (arts. 71 y 81). Pie: C-131-2026 y voto 2025-008201.
+- Error corregido al cotejar la Ley 2166: el cuadro y el texto presentaban como novedad de la Ley Marco la medición del cuerpo directivo y la fórmula «con las salvedades respectivas», que ya estaban en el artículo 47 de la Ley 2166 (cuerpo gerencial). El capítulo 4 lo dice ahora así.
+- Capítulo 4: párrafo nuevo sobre los artículos 144 a 150 del Código Municipal, con el dictamen C-131-2026 (la normativa de las dos leyes se complementa con esos artículos; cambio de paradigma hacia criterios objetivos); alta dirección (Ley 10159, art. 17); competencias de Mideplán y exclusión de los entes con autonomía de gobierno (art. 7); ámbito municipal (art. 2); condiciones del despido por evaluación (art. 21: firmeza, responsabilidad acreditada, justificación, plan remedial) frente a la falta grave por dos calificaciones de regular (CM, arts. 150 y 158).
+- La figura 8 ocupa ahora el lugar posterior a ese párrafo. En el Word va en dos partes (8a y 8b) para que la letra sea legible; en Docs, completa. `figuras.py` admite una figura en varias imágenes.
+- Docs: capítulo 4 publicado y cotejado IDÉNTICO. Word final33 (952 páginas).

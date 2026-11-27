@@ -8,7 +8,7 @@ F=[('Discapacidad, cultura, ambiente, trabajo, emergencias, presupuesto','d',1,'
  ('Por la misma razón, cada tema distingue','d',5,'Ante una necesidad: qué debe hacer el Gobierno Municipal.'),
  ('## Una célula','d',6,'La célula: el cantón visto desde las dos personas del núcleo.'),
  ('Cada tema responde una sola pregunta','d',7,'Cómo está hecho cada tema.'),
- ('El artículo 29 reparte las obligaciones','d',8,'La evaluación del desempeño en la Ley 2166 y en la Ley Marco de Empleo Público.'),
+ ('Las dos leyes no están solas en una municipalidad','d',8,'La evaluación del desempeño en la Ley 2166, la Ley Marco de Empleo Público, el Código Municipal y el Código de Trabajo.'),
  ('De esa revisión salen rasgos','d',9,'Anatomía de un proceso y mapa de procesos de una municipalidad.'),
  ('Los mismos autores proponen que identificar','d',10,'Del plan a la persona: cómo se encadenan el plan, los procesos, las metas, la evaluación y la rendición de cuentas.'),
  ('La Ley Marco agrega además una consecuencia','d',11,'Cómo se compone la calificación y qué produce.'),

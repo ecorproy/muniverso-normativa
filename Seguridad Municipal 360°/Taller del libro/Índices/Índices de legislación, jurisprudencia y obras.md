@@ -854,6 +854,7 @@ Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas ref
 - Dictamen C-101-2026: tema 33.
 - Dictamen C-107-2026: capítulo 2; tema 17.
 - Dictamen C-124-2026: tema 21.
+- Dictamen C-131-2026: capítulo 4.
 - Dictamen C-136-2026: capítulo 4.
 - Dictamen C-151-2026: tema 12.
 - Dictamen C-160-2026: tema 29.

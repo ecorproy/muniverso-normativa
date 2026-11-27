@@ -24,6 +24,8 @@ Medina León, A., Nogueira Rivera, D., & Hernández Nariño, A. (2009). Relevanc
 
 Procuraduría General de la República. (2026, 3 de junio). *Dictamen C-084-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25462&param2=0
 
+Procuraduría General de la República. (2026, 17 de agosto). *Dictamen C-131-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25540&param2=0
+
 Procuraduría General de la República. (2026, 17 de agosto). *Dictamen C-136-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25548&param2=0
 
 Sala Constitucional de la Corte Suprema de Justicia. (1999, 14 de julio). *Voto N.° 1999-005445, de las 14:30 horas* (expediente 94-000757-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-158355

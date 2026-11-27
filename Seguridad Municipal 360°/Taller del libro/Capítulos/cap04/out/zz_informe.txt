@@ -1,4 +1,6 @@
-CITAS TEXTUALES: 125 | OK: 118
+CITAS TEXTUALES: 133 | OK: 124
+  [cap04.md] 16p | D:C-131-2026:estudio general | LITERAL (sin localización que cotejar) | "se complementa con lo regulado en el propio Código Municipal"
+  [cap04.md] 18p | D:C-131-2026:estudio general | LITERAL (sin localización que cotejar) | "criterios objetivos sobre la base de indicadores cuantitativ"
   [cap04.md] 21p | Cortés García, 2026 | , capítulo 25 | LITERAL (sin localización que cotejar) | "no solo constituye un vicio formal grave, sino que represent"
   [cap04.md] 26p | Cortés García, 2026 | , capítulo 27 | LITERAL (sin localización que cotejar) | "trasciende la corrección jurídica formal para constituirse c"
   [cap04.md] 22p | Cortés García, 2026 | , capítulo 26 | LITERAL (sin localización que cotejar) | "el cumplimiento formal de rituales procedimentales puede coe"

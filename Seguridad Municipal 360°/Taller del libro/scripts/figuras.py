@@ -9,7 +9,7 @@ figs=[('Discapacidad, cultura, ambiente, trabajo, emergencias, presupuesto','des
  ('Por la misma razón, cada tema distingue','despues',N+'flujo.png','Ante una necesidad: qué debe hacer el Gobierno Municipal.','14cm'),
  ('### Una célula','despues',F+'celula.png','La célula: el cantón visto desde las dos personas del núcleo.','15cm'),
  ('Cada tema responde una sola pregunta','despues',N+'tema.png','Cómo está hecho cada tema.','16.5cm'),
- ('El artículo 29 reparte las obligaciones','despues',N+'c4_cuadro.png','La evaluación del desempeño en la Ley 2166 y en la Ley Marco de Empleo Público.','16.5cm'),
+ ('Las dos leyes no están solas en una municipalidad','despues',(N+'c4_cuadro_a.png',N+'c4_cuadro_b.png'),'La evaluación del desempeño en la Ley 2166, la Ley Marco de Empleo Público, el Código Municipal y el Código de Trabajo.','16.5cm'),
  ('De esa revisión salen rasgos','despues',N+'c4_proceso.png','Anatomía de un proceso y mapa de procesos de una municipalidad.','16cm'),
  ('Los mismos autores proponen que identificar','despues',N+'c4_flujo.png','Del plan a la persona: cómo se encadenan el plan, los procesos, las metas, la evaluación y la rendición de cuentas.','15cm'),
  ('La Ley Marco agrega además una consecuencia','despues',N+'c4_nota.png','Cómo se compone la calificación y qué produce.','16cm'),
@@ -27,9 +27,12 @@ orden=sorted(range(len(pos)),key=lambda k:pos[k][0])
 num={k:n+1 for n,k in enumerate(orden)}
 for k in sorted(range(len(pos)),key=lambda k:-pos[k][0]):
     i,modo,img,ley,w=pos[k]
+    if isinstance(img,tuple):
+        previas=[x for p_ in img[:-1] for x in ('',f'![]({p_}){{width={w}}}')]; img=img[-1]
+    else: previas=[]
     linea=f'![Figura {num[k]}. {ley}]({img}){{width={w}}}'
-    if modo=='despues': L[i+1:i+1]=['',linea]
-    else: L[i:i]=[linea,'']
+    if modo=='despues': L[i+1:i+1]=previas+['',linea]
+    else: L[i:i]=previas[1:]+['',linea,'']
 open(p,'w',encoding='utf-8').write('\n'.join(L))
 
 # Índice de figuras: campo TOC sobre el estilo de leyenda, con la lista como resultado previo
