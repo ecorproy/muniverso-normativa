@@ -1672,3 +1672,19 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Orden «servicios y productos» en la voz del libro, en seis paráfrasis del capítulo 4. Donde el texto refiere lo que dice la ley, y en el título de la sección, se conserva el orden legal.
 - Figuras 9 y 10: superior, jefatura y paso «Medir y registrar» en el orden nuevo; la figura 10 dice «planes estratégicos gubernamentales institucionales», como el art. 28.
 - Referencias del capítulo: Ley 5525 (1974) y Ley 8131 (2001), en orden numérico.
+
+## 27 de noviembre de 2026: auditoría de coherencia, fuentes y Docs al día (Word final49)
+
+- Pedido del autor: auditoría de coherencia e incongruencia, corrección contra fuentes y subida de todo. El informe está en «Auditoría de coherencia (27-11-2026).md».
+- Taller rearmado según «Rearmado»: los clones quedaron en `repo/main` y `repo/360`. Prueba de base del capítulo 4: 7 errores previos (voto 2025-008201 sin archivo en esta sesión) y doctrina con derechos sin texto local.
+- Los cambios de los finales 45 a 48 se llevaron a `Capítulos/cap04/src` y `Capítulos/conclusion/src` con macros (scripts `adenda5_port_cap04.py` y `adenda5_sync_cap04.py`). El verificador da 0 errores nuevos: todas las citas nuevas quedaron cotejadas.
+- Verificador: Ortíz-Fernandez et al. (2024) y sus siete citas secundarias se registraron en `hacer_build_libro.py` (MANUAL), con texto paginado en `fuentes/doctrina/ortiz_fernandez_2024_pag.txt` (licencia CC BY 4.0).
+- Correcciones de la auditoría:
+  - conclusión: «y un servicio solo se presta a alguien» → «el servicio se presta a alguien, y el producto es lo que esa persona recibe»;
+  - figura 11: «servicios y productos»;
+  - «De ese mismo deber…»: «sus servicios, productos y plazos»;
+  - «La frontera…» y «En una municipalidad…»: forma de cita del voto 2021-017098 vía el Decreto 43952 y el C-136-2026.
+- Docs (documento ea3a20c9…): capítulo 4 rev 39, conclusión rev 10 y capítulo 3 rev 24. Imágenes nuevas de las figuras 5, 9, 10, 11 y 13 como blobs (`7ea9989e-1abb`, `4e788217-82af`, `9ae75698-163b`, `7642717f-2f84`, `5516bf28-5e7c`). Exportaciones IDÉNTICAS con `esperado_fig.py`: capítulo 4, capítulo 3 y conclusión (sha256 99093298…, 16.552 bytes).
+- `out/` del capítulo 4 conserva la forma larga del voto 2025-008201 tal como está publicada; el informe de esta sesión la marca sin archivo local.
+- Word final49 = final48 + tres párrafos sincronizados con la fuente + figura 11 + corrección de la conclusión. Fuera de títulos y citas en bloque, solo difiere de la fuente compilada en la forma larga del voto 2025-008201, que es correcta en el Word.
+- Pendientes: fecha del voto 2021-017098 en NexusPJ; guardar en la rama el juego de armado del Word (`post.py`, `ref.docx`, logo).

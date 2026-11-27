@@ -207,7 +207,7 @@ text(s,40,50,'Cómo se compone la calificación',26,anchor='start',bold=True)
 x0,x1=40,1160; L=x1-x0; y=80
 s.add(f'<rect x="{x0}" y="{y}" width="{L*0.8}" height="90" fill="#555" stroke="#111" stroke-width="3"/>')
 s.add(f'<rect x="{x0+L*0.8}" y="{y}" width="{L*0.2}" height="90" fill="#e6e6e6" stroke="#111" stroke-width="3"/>')
-text(s,x0+L*0.4,y+40,'80 %',30,bold=True,fill='white'); text(s,x0+L*0.4,y+72,'cumplimiento de las metas anuales de productos y servicios',19,fill='white')
+text(s,x0+L*0.4,y+40,'80 %',30,bold=True,fill='white'); text(s,x0+L*0.4,y+72,'cumplimiento de las metas anuales de servicios y productos',19,fill='white')
 text(s,x0+L*0.9,y+40,'20 %',30,bold=True); text(s,x0+L*0.9,y+72,'competencias del puesto',17)
 text(s,W/2,y+125,'Ley 2166, art. 48, en la redacción que le dio la Ley 10159',19,italic=True,fill='#333')
 y=290

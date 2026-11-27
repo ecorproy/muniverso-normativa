@@ -4,15 +4,21 @@ Constitución Política de la República de Costa Rica. (1949). Asamblea Naciona
 
 Cortés García, E. (2026). *Derecho municipal: Impugnación, veto y revisión de actos administrativos*. Tirant lo Blanch.
 
+Decreto Ejecutivo N.° 43952, *Reglamento a la Ley Marco de Empleo Público*. (2023). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica.
+
 Kant, I. (1873). *Principios metafísicos del derecho* (G. Lizárraga, Trad.). Librería de Victoriano Suárez. (Trabajo original publicado en 1797)
 
 Ley N.° 2, *Código de Trabajo*. (1943). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=8045&param2=150791&param3=1
 
 Ley N.° 2166, *Ley de Salarios de la Administración Pública*. (1957). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=3672&param2=147114&param3=1
 
+Ley N.° 5525, *Ley de Planificación Nacional*. (1974). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=34439&param2=145310&param3=1
+
 Ley N.° 6227, *Ley General de la Administración Pública*. (1978). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=13231&param2=153093&param3=1
 
 Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=40197&param2=152716&param3=1
+
+Ley N.° 8131, *Ley de la Administración Financiera de la República y Presupuestos Públicos*. (2001). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=47258&param2=142574&param3=1
 
 Ley N.° 8422, *Ley contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública*. (2004). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=53738&param2=151776&param3=1
 
@@ -21,6 +27,12 @@ Ley N.° 8508, *Código Procesal Contencioso-Administrativo*. (2006). Asamblea L
 Ley N.° 10159, *Ley Marco de Empleo Público*. (2022). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=96521&param2=145804&param3=1
 
 Medina León, A., Nogueira Rivera, D., & Hernández Nariño, A. (2009). Relevancia de la gestión por procesos en la planificación estratégica y la mejora continua. *Eídos*, (2), 65-72.
+
+Ortíz-Fernandez, J., Baldeón-Tovar, M., Medina-Pelaiza, L., Ortíz-Huamán, C., & Godiño-Poma, M. (2024). Gestión por procesos en las empresas. Una revisión sistémica. *Gestionar: Revista de Empresa y Gobierno*, *4*(1), 7-22. https://doi.org/10.35622/j.rg.2024.01.001
+
+Procuraduría General de la República. (2024, 12 de febrero). *Dictamen C-016-2024*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24246&param2=0
+
+Procuraduría General de la República. (2025, 21 de abril). *Dictamen C-078-2025*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=24934&param2=0
 
 Procuraduría General de la República. (2026, 3 de junio). *Dictamen C-084-2026*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=25462&param2=0
 

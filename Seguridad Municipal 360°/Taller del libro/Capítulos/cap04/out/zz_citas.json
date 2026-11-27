@@ -206,14 +206,14 @@
   "archivo": "cap04.md",
   "palabras": 28,
   "fuente": "V:2025-008201:considerando IV",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "el mandato constitucional es que el servidor público sea nom"
  },
  {
   "archivo": "cap04.md",
   "palabras": 25,
   "fuente": "V:2025-008201:considerando XXVIII",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "también es una manifestación del principio de transparencia "
  },
  {
@@ -388,84 +388,84 @@
   "archivo": "cap04.md",
   "palabras": 12,
   "fuente": "Zaratiegui, 1999 | , p. 82",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "se pueden definir como secuencias ordenadas y lógicas de act"
  },
  {
   "archivo": "cap04.md",
   "palabras": 18,
   "fuente": "Zaratiegui, 1999 | , p. 82",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "para alcanzar unos resultados programados, que se entregan a"
  },
  {
   "archivo": "cap04.md",
   "palabras": 10,
   "fuente": "Zaratiegui, 1999 | , p. 83",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "su continuo recurso a las medidas, a los datos objetivos"
  },
  {
   "archivo": "cap04.md",
   "palabras": 14,
   "fuente": "Zaratiegui, 1999 | , p. 85",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "destinados a definir y controlar las metas de la empresa, su"
  },
  {
   "archivo": "cap04.md",
   "palabras": 8,
   "fuente": "Zaratiegui, 1999 | , p. 85",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "con su objetivo, entradas y salidas, responsable, indicadore"
  },
  {
   "archivo": "cap04.md",
   "palabras": 25,
   "fuente": "Zaratiegui, 1999 | , p. 82",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "fuerzan a la cooperación y van creando una cultura de empres"
  },
  {
   "archivo": "cap04.md",
   "palabras": 19,
   "fuente": "Zaratiegui, 1999 | , p. 82",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "Un principio fundamental de la Calidad Total es el papel de "
  },
  {
   "archivo": "cap04.md",
   "palabras": 64,
   "fuente": "Medina León et al., 2009 | , p. 69",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "Secuencia ordenada de actividades repetitivas que se realiza"
  },
  {
   "archivo": "cap04.md",
   "palabras": 12,
   "fuente": "Medina León et al., 2009 | , p. 68",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "Debe poseer un responsable y ser administrado según el ciclo"
  },
  {
   "archivo": "cap04.md",
   "palabras": 11,
   "fuente": "Medina León et al., 2009 | , p. 68",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "Poseer indicadores que visualicen de forma gráfica la evoluc"
  },
  {
   "archivo": "cap04.md",
   "palabras": 26,
   "fuente": "Medina León et al., 2009 | , p. 68",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "Los destinatarios del proceso, internos o externos, son los "
  },
  {
   "archivo": "cap04.md",
   "palabras": 19,
   "fuente": "Medina León et al., 2009 | , p. 70",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "de ser realizados de conjunto con la Planificación Estratégi"
  },
  {
@@ -484,9 +484,107 @@
  },
  {
   "archivo": "cap04.md",
+  "palabras": 7,
+  "fuente": "L:10159:art. 13",
+  "estado": "OK",
+  "cita": "según las funciones que ejecute su personal"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 13,
+  "fuente": "L:10159:art. 13",
+  "estado": "OK",
+  "cita": "que sean exclusivas y excluyentes para el ejercicio de las c"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 12,
+  "fuente": "DE:43952:considerando IX",
+  "estado": "LITERAL (sin localización que cotejar)",
+  "cita": "por violación a la autonomía de gobierno de las municipalida"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 9,
+  "fuente": "D:C-136-2026:apartado IV",
+  "estado": "OK",
+  "cita": "un núcleo duro, un indisponible para el Poder Ejecutivo"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 5,
+  "fuente": "D:C-136-2026:apartado IV",
+  "estado": "OK",
+  "cita": "una determinación funcional y estructural"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 8,
+  "fuente": "D:C-136-2026:apartado V",
+  "estado": "OK",
+  "cita": "es únicamente respecto de la rectoría de MIDEPLAN"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 3,
+  "fuente": "L:10159:art. 32",
+  "estado": "OK",
+  "cita": "con perfil similar"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 4,
+  "fuente": "L:10159:art. 33",
+  "estado": "OK",
+  "cita": "los deberes realmente desempeñados"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 10,
+  "fuente": "L:10159:art. 32",
+  "estado": "OK",
+  "cita": "siempre estará supeditada a una evaluación satisfactoria del"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 8,
+  "fuente": "L:7794:art. 124",
+  "estado": "OK",
+  "cita": "la correspondencia entre la responsabilidad y las remuneraci"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 19,
+  "fuente": "Aval, 2018, como se citó en Ortíz-Fernandez et al., 2024 | , p. 13",
+  "estado": "OK",
+  "cita": "Cada empleado entiende su papel en cada proceso y sabe cómo "
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 20,
+  "fuente": "Domingo y Fernandez-Baca, 2016, como se citó en Ortíz-Fernandez et al., 2024 | , p. 13",
+  "estado": "OK",
+  "cita": "La responsabilidad de mejorar un proceso recae en sus partic"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 13,
+  "fuente": "Ortíz-Fernandez et al., 2024 | , p. 8",
+  "estado": "OK",
+  "cita": "sino como una mentalidad que impulsa el día a día de la empr"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 6,
+  "fuente": "L:7794:art. 13",
+  "estado": "OK",
+  "cita": "constituyen la base del proceso presupuestario"
+ },
+ {
+  "archivo": "cap04.md",
   "palabras": 27,
   "fuente": "Vílchez Ordoñez y Sánchez Davila, 2021 | , p. 6465",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "brindando un trato adecuado a los clientes sean intrínsecos "
  },
  {
@@ -612,15 +710,22 @@
   "archivo": "cap04.md",
   "palabras": 25,
   "fuente": "V:2025-008201:considerando XXVIII",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "también es una manifestación del principio de transparencia "
  },
  {
   "archivo": "cap04.md",
   "palabras": 21,
   "fuente": "Cortés García, 2026 | , capítulo 25",
-  "estado": "LITERAL (sin localización que cotejar)",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "no solo constituye un vicio formal grave, sino que represent"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 5,
+  "fuente": "L:2166:art. 48",
+  "estado": "OK",
+  "cita": "dichos procesos, proyectos y productos"
  },
  {
   "archivo": "cap04.md",
@@ -628,6 +733,41 @@
   "fuente": "L:10159:art. 1",
   "estado": "OK",
   "cita": "asegurar la eficiencia y eficacia en la prestación de los bi"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 12,
+  "fuente": "L:10159:art. 28",
+  "estado": "OK",
+  "cita": "indicadores cuantitativos de cumplimiento de metas individua"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 11,
+  "fuente": "L:8131:art. 5",
+  "estado": "OK",
+  "cita": "los objetivos, las metas y los productos que se pretenden al"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 24,
+  "fuente": "Moyado, 2011, como se citó en Ortíz-Fernandez et al., 2024 | , p. 18",
+  "estado": "OK",
+  "cita": "una secuencia de actividades o pasos interconectados que, al"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 14,
+  "fuente": "Dumas et al., 2012, como se citó en Ortíz-Fernandez et al., 2024 | , p. 18",
+  "estado": "OK",
+  "cita": "resultan en un producto final que agrega valor a los cliente"
+ },
+ {
+  "archivo": "cap04.md",
+  "palabras": 10,
+  "fuente": "Medina et al., 2019, como se citó en Ortíz-Fernandez et al., 2024 | , p. 12",
+  "estado": "OK",
+  "cita": "la búsqueda constante del propósito y beneficiario del traba"
  },
  {
   "archivo": "cap04.md",
@@ -640,7 +780,7 @@
   "archivo": "cap04.md",
   "palabras": 26,
   "fuente": "Cortés García, 2026 | , capítulo 27",
-  "estado": "LITERAL (sin localización que cotejar)",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "trasciende la corrección jurídica formal para constituirse c"
  },
  {
@@ -717,21 +857,21 @@
   "archivo": "cap04.md",
   "palabras": 22,
   "fuente": "Cortés García, 2026 | , capítulo 26",
-  "estado": "LITERAL (sin localización que cotejar)",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "el cumplimiento formal de rituales procedimentales puede coe"
  },
  {
   "archivo": "cap04.md",
   "palabras": 11,
   "fuente": "Cortés García, 2026 | , capítulo 26",
-  "estado": "LITERAL (sin localización que cotejar)",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "constituye la manifestación más intensa del poder estatal so"
  },
  {
   "archivo": "cap04.md",
   "palabras": 16,
   "fuente": "Cortés García, 2026 | , capítulo 14",
-  "estado": "LITERAL (sin localización que cotejar)",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "implicaría sostener que el derecho de defensa es inversament"
  },
  {
@@ -759,7 +899,7 @@
   "archivo": "cap04.md",
   "palabras": 17,
   "fuente": "Medina León et al., 2009 | , p. 68",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "dependen de los recursos, la habilidad y la motivación del p"
  },
  {
@@ -801,14 +941,14 @@
   "archivo": "cap04.md",
   "palabras": 13,
   "fuente": "Medina León et al., 2009 | , p. 71",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "la mejora de la actividad humana (cultura organizacional, li"
  },
  {
   "archivo": "cap04.md",
   "palabras": 19,
   "fuente": "Vílchez Ordoñez y Sánchez Davila, 2021 | , p. 6465",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "procesos de mejoras continuas para su personal y como result"
  },
  {
@@ -906,21 +1046,21 @@
   "archivo": "cap04.md",
   "palabras": 14,
   "fuente": "Medina León et al., 2009 | , p. 66",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "no es extraño que, frecuentemente, los clientes externos no "
  },
  {
   "archivo": "cap04.md",
   "palabras": 15,
   "fuente": "Bendell et al., 1993, como se citó en Medina León et al., 2009 | , p. 66",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "los problemas ocurren en el momento del cambio, cuando el te"
  },
  {
   "archivo": "cap04.md",
   "palabras": 23,
   "fuente": "Cortés García, 2026 | , Introducción",
-  "estado": "LITERAL (sin localización que cotejar)",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "su deber de velar porque, todos los órganos a su cargo conoz"
  },
  {
@@ -934,7 +1074,7 @@
   "archivo": "cap04.md",
   "palabras": 30,
   "fuente": "Cortés García, 2026 | , capítulo 12",
-  "estado": "LITERAL (sin localización que cotejar)",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "La omisión ilegítima de la administración no puede convertir"
  }
 ]

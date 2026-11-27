@@ -1,0 +1,860 @@
+Gestionar (2024). Vol. 4 Núm. 1 págs. 7-22
+
+Gestionar: revista de empresa y gobierno
+https://www.revistagestionar.com
+
+ISSN: 2810-8264 / ISSN-L: 2810-823X
+Editada por:
+Instituto Universitario de Innovación Ciencia y Tecnología Inudi Perú
+
+ARTÍCULO DE REVISIÓN
+
+Gestión por procesos en las empresas. Una revisión sistémica
+Process management in companies: A systemic review
+Gestão por processos nas empresas: Uma revisão sistemática
+Jaime Ortíz-Fernandez1
+Universidad Hipócrates, Acapulco – Estado De Guerrero, México
+Instituto Universitario de Innovación Ciencia y Tecnología Inudi – Perú,
+Puno – Puno, Perú
+
+https://orcid.org/0000-0001-7258-9975
+jortiz@inudi.edu.pe (correspondencia)
+
+Magno Baldeón-Tovar
+
+Luz Medina-Pelaiza
+
+Universidad Peruana Los Andes, Huancayo – Huancayo,
+Perú
+
+Universidad Peruana Los Andes, Huancayo – Huancayo,
+Perú
+
+https://orcid.org/0000-0002-6752-0735
+
+https://orcid.org/0000-0001-6327-7208
+
+d.mbaldeon@upla.edu.pe
+
+d.lmedina@upla.edu.pe
+
+Cesar Ortíz-Huamán
+
+Milka Godiño-Poma
+
+Universidad Peruana de Ciencias Aplicadas, Lima –
+Lima, Perú
+
+Universidad Peruana Los Andes, Huancayo – Huancayo,
+Perú
+
+https://orcid.org/0000-0003-4593-8142
+
+https://orcid.org/0000-0001-6443-0593
+
+chortizh@gmail.com
+
+d.mgodino@upla.edu.pe
+
+DOI: https://doi.org/10.35622/j.rg.2024.01.001
+Recibido: 15/10/2023 Aceptado: 30/12/2023 Publicado: 12/01/2024
+PALABRAS CLAVE
+empresas, gestión por
+procesos, gestión de
+procesos de negocio,
+sistema de gestión de
+procesos de negocio.
+
+1
+
+RESUMEN. Este estudio de revisión sistémica tuvo como objetivo explorar la literatura actual sobre
+la gestión por procesos, centrándose en su aplicación en las empresas. La metodología de
+investigación adoptada fue cualitativa, a través de una revisión sistemática. Se aplicaron criterios
+de inclusión, como libros, tesis y artículos científicos, recopilados de bases de datos como Scopus,
+Scielo, Redalyc y Google Scholar. La selección se limitó a publicaciones relacionadas con la gestión
+por procesos entre 2011 y 2022, utilizando palabras clave como "gestión por procesos" y "gestión
+de procesos de negocio" identificando un total de 90 investigaciones entre artículos, tesis y libros
+que fueron sometidos a criterios de inclusión y exclusión resultando 30 documentos para su
+revisión final. Los resultados indican que la gestión por procesos es crucial para las empresas,
+mejorando la rentabilidad y satisfaciendo a los clientes. Además, la integración de tecnologías de
+
+Doctor en Educación por la Universidad Peruana Los Andes, Perú.
+
+Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0.
+
+Gestión por procesos en las empresas. Una revisión sistémica
+la información da origen a la gestión de procesos de negocio. Se concluye que la implementación
+de la gestión de procesos y los sistemas de gestión de procesos de negocio son factores clave y
+estratégicos para reducir costos e incrementar la rentabilidad. Estas metodologías son adoptadas
+por las organizaciones para modelar, mejorar y automatizar procesos comerciales, buscando
+aumentar la calidad, eficiencia y agilidad. Se sugiere no ver la gestión por procesos como una tarea
+aislada, sino como una mentalidad que impulsa el día a día de la empresa. Desde la identificación
+de procesos críticos hasta la implementación de mejoras, cada paso debe guiarse por el deseo de
+eficiencia, eficacia y excelencia.
+
+enterprise, process
+management, process
+management system,
+process management
+system.
+
+PALAVRAS-CHAVE
+empresas, gestão por
+processos, gestão de
+processos de negócio,
+sistema de gestão de
+processos de negócio.
+
+ABSTRACT. This systemic review aimed to explore the current literature on process management,
+focusing on its application in companies. The adopted research methodology was qualitative,
+through a systematic review. Inclusion criteria were applied, such as books, theses, and scientific
+articles, collected from databases like Scopus, Scielo, Redalyc, and Google Scholar. The selection
+was limited to publications related to process management between 2011 and 2022, using
+keywords such as "process management" and "business process management," identifying a total
+of 90 research works among articles, theses, and books that underwent inclusion and exclusion
+criteria, resulting in 30 documents for final review. The results indicate that process management
+is crucial for companies, improving profitability and satisfying customers. Furthermore, the
+integration of information technologies gives rise to business process management. It is concluded
+that the implementation of process management and business process management systems are
+key strategic factors for reducing costs and increasing profitability. These methodologies are
+adopted by organizations to model, improve, and automate business processes, aiming to increase
+quality, efficiency, and agility. It is suggested not to view process management as an isolated task
+but as a mindset that drives the company's day-to-day operations. From identifying critical
+processes to implementing improvements, each step should be guided by the desire for efficiency,
+effectiveness, and excellence.
+RESUMO. Esta revisão sistemática teve como objetivo explorar a literatura atual sobre gestão de
+processos, com foco em sua aplicação nas empresas. A metodologia de pesquisa adotada foi
+qualitativa, por meio de uma revisão sistemática. Foram aplicados critérios de inclusão, como livros,
+teses e artigos científicos, coletados de bases de dados como Scopus, Scielo, Redalyc e Google
+Scholar. A seleção foi limitada a publicações relacionadas à gestão de processos entre 2011 e
+2022, utilizando palavras-chave como "gestão de processos" e "gestão de processos de negócios",
+identificando um total de 90 pesquisas entre artigos, teses e livros que foram submetidos a critérios
+de inclusão e exclusão, resultando em 30 documentos para revisão final. Os resultados indicam
+que a gestão de processos é crucial para as empresas, melhorando a rentabilidade e satisfazendo
+os clientes. Além disso, a integração de tecnologias da informação dá origem à gestão de processos
+de negócios. Conclui-se que a implementação da gestão de processos e dos sistemas de gestão
+de processos de negócios são fatores-chave e estratégicos para reduzir custos e aumentar a
+rentabilidade. Essas metodologias são adotadas pelas organizações para modelar, melhorar e
+automatizar processos comerciais, visando aumentar a qualidade, eficiência e agilidade. Sugere-se
+não ver a gestão de processos como uma tarefa isolada, mas como uma mentalidade que
+impulsiona o dia a dia da empresa. Desde a identificação de processos críticos até a implementação
+de melhorias, cada passo deve ser guiado pelo desejo de eficiência, eficácia e excelência.
+
+1. INTRODUCCIÓN
+
+Las empresas se enfrentan a la difícil tarea de renovar sus estrategias de gestión para mejorar su rentabilidad.
+Además, funcionan en un marco marcado por transformaciones constantes, lo que requiere adaptaciones
+graduales manteniendo la excelencia de su oferta. Para lograr este objetivo, se hace imperativo racionalizar los
+procedimientos operativos, priorizando la satisfacción del cliente y el de todos los stakeholders, con el objetivo
+final de obtener un reconocimiento generalizado para la organización (Llanes-Font et al., 2014).
+
+Jaime Ortíz-Fernandez; Magno Baldeón-Tovar; Luz Medina-Pelaiza; Cesar Ortíz-Huamán; Milka Godiño-Poma
+Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0.
+
+Gestionar: revista de empresa y gobierno Vol. 4 Núm. 1 (2024) págs. 7-22
+
+KEYWORDS
+
+8
+
+Gestión por procesos en las empresas. Una revisión sistémica
+
+En nuestro mundo en constante evolución, las organizaciones se consideran sistemas complejos que constan
+de varios elementos interconectados, como recursos, procesos y tecnologías. Para abordar los desafíos únicos
+que enfrentan, se vuelve imperativo que estas organizaciones adopten enfoques y estructuras de gestión que
+puedan abordar estos desafíos de manera efectiva. Especialmente en la era digital actual, es crucial adoptar
+enfoques innovadores que puedan alinear los objetivos de una organización. En este sentido, la gestión de
+procesos se perfila como una herramienta vital que no sólo fomenta la mejora continua, sino que también
+impulsa la excelencia dentro de las empresas. Sirve como un componente crítico para lograr los objetivos
+establecidos y al mismo tiempo mejorar la eficiencia, la eficacia y la productividad general (Florián et al., 2022a).
+Los procesos son como una serie de acciones que toman algo y lo transforman en otra cosa. Por ejemplo,
+cuando pides algo o necesitas un servicio, el proceso toma esa solicitud y la convierte en el objeto o servicio
+que deseas. Es importante señalar que este proceso de transformación agrega valor en cada paso, mejorando
+las cosas en términos de calidad/precio, rapidez, conveniencia y confort, entre otros. Cuando se examina un
+proceso dentro de una organización, puede dar lugar a cambios o renovaciones para mejorar la eficiencia de
+ese proceso. En última instancia, esto tiene como objetivo elevar el estándar del producto o servicio,
+beneficiando al cliente. Esta herramienta ha demostrado su eficacia tanto en empresas privadas como en
+organizaciones públicas (Aranda et al., 2018).
+
+La tarea de implementar la gestión de procesos se considera un desafío enorme. Se ha observado a lo largo de
+la historia que las grandes organizaciones se han apegado a una estructura funcional durante mucho tiempo.
+No es de extrañar que exista resistencia al cambio cuando se trata de adoptar la gestión de procesos. Esta
+resistencia está respaldada por más de un siglo de investigación y avances en gestión científica, y también por
+los casos de éxito de empresas que han adoptado este enfoque. La mayoría de las instituciones muestran una
+fuerte resistencia a esta transformación. Las complejidades y la naturaleza siempre cambiante del entorno
+externo han obligado a las organizaciones a realizar cambios y adaptarse de acuerdo con su entorno. Este
+proceso ha estimulado el avance de las investigaciones sobre gestión por procesos, especialmente para
+mantenerse al tanto de los rápidos progresos en informática y automatización. Al explorar las investigaciones
+sobre enfoque y gestión de procesos, se identifican tendencias emergentes directamente relacionadas con el
+desarrollo de tecnologías de la información y comunicación (Flores-Rueda et al., 2020).
+En la actualidad, resulta inevitable no apreciar el impacto beneficioso que las tecnologías de la información (TI)
+ejercen en el aumento del rendimiento empresarial. Estas herramientas se han convertido en recursos ágiles y
+eficaces que desempeñan un papel fundamental en la optimización de los procedimientos de gestión. Por
+consiguiente, es crucial contar con infraestructuras de TI adecuadas que respalden un sistema de gestión
+centrado en los procesos (González et al., 2019).
+La gestión de procesos ha experimentado importantes avances en el mundo de los negocios, particularmente
+con la implementación de Business Process Management (BPM) como un concepto en constante evolución.
+Jaime Ortíz-Fernandez; Magno Baldeón-Tovar; Luz Medina-Pelaiza; Cesar Ortíz-Huamán; Milka Godiño-Poma
+Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0.
+
+Gestionar: revista de empresa y gobierno Vol. 4 Núm. 1 (2024) págs. 7-22
+
+Mediante la implementación continua de la gestión por procesos, se pueden obtener beneficios como la
+coordinación e integración de los resultados planeados, la capacidad de priorizar la eficacia, eficiencia y
+flexibilidad de dichos procesos, y la contribución al rendimiento homogéneo de la organización. Es crucial
+garantizar que cada sistema de gestión dentro de la organización no prevalezca sobre los demás y que todos
+operen de manera integrada y equitativa (Llanes-Font et al., 2014). La meta principal de la gestión por procesos
+es alcanzar resultados (Palvarini & Quezado, 2014).
+
+9
+
+Gestión por procesos en las empresas. Una revisión sistémica
+
+BPM se considera una herramienta para obtener una ventaja competitiva, permitiendo a las organizaciones
+mejorar su eficiencia operativa, garantizar la excelencia de sus ofertas y fomentar la creatividad. Cuando buscan
+renovar sus procesos y cosechar estos beneficios, los ejecutivos de negocios suelen recurrir a este enfoque.
+(Hernández-Nariño et al., 2016). En pocas palabras, BPM implica una colección de principios, métodos y
+herramientas diseñados específicamente para ayudar en el desarrollo, examen, ejecución y observación de
+procedimientos comerciales. Esta definición abarca las fases fundamentales del ciclo de vida de BPM junto con
+varios campos asociados que complementan BPM, como Lean, Six Sigma y Total Quality Management (Dumas
+et al., 2012).
+Según Ortiz (2020), BPM se define como la práctica de planificar, ejecutar, supervisar y perfeccionar procesos
+empresariales, constituyendo una metodología capaz de convertir a la empresa en un sistema operativo eficaz.
+Su implementación busca lograr una mejora continua, garantizando que los procesos estén organizados y sigan
+una trayectoria predecible de principio a fin. En términos de importancia, se subraya la constante necesidad de
+que las empresas adapten y mejoren sus procesos. Por lo tanto, la BPM, con su tecnología avanzada y enfoque
+evolucionado, se ha convertido en un componente esencial para proporcionar agilidad y flexibilidad a las
+organizaciones.
+
+En el mundo competitivo y acelerado de hoy, las empresas están reconociendo la importancia de la Gestión de
+Procesos de Negocio (BPM) para mantenerse al día con el panorama en constante cambio. Está claro que las
+empresas están adoptando cada vez más soluciones y sistemas BPM como un elemento crucial para reducir
+costos y maximizar el retorno de la inversión (ROI). La colaboración entre las operaciones comerciales y la
+implementación de tecnología efectiva para su gestión está en constante crecimiento (Díaz, 2008).
+Se optó por llevar a cabo una revisión sistemática sobre el tema de gestión de procesos, justificada por su
+aporte a la comprensión, aplicación y mejora de esta disciplina empresarial; es un campo dinámico en constante
+evolución, realizar una revisión proporciona una visión actualizada del estado del conocimiento en este ámbito,
+permitiendo identificar las tendencias, enfoques y desarrollos más recientes; facilita la identificación de mejores
+prácticas y lecciones aprendidas en la gestión de procesos. Conocer casos de éxito y experiencias previas en
+diferentes contextos empresariales puede ser crucial para aplicar enfoques efectivos. Por lo mencionado, este
+estudio de revisión tiene como objetivo describir la literatura actual acerca de la gestión por procesos,
+enfocándose en su aplicación a las empresas.
+2. MÉTODO
+
+La investigación siguió un enfoque metodológico cualitativo (Piñero et al., 2022), empleando el método de
+revisión sistemática (Moher et al., 2009). Para la realización del estudio se utilizaron criterios de inclusión
+específicos, que abarcaron artículos científicos, tesis y libros relacionados con la gestión de procesos. Las
+fuentes de datos estuvieron compuestas por revistas científicas indexadas en las bases de datos Scopus, Scielo,
+Redalyc y Google Scholar. Además, los artículos considerados para esta investigación fueron publicados entre
+2011 y 2022. Las palabras clave utilizadas en la búsqueda abarcaron temas relacionados con la gestión de
+Jaime Ortíz-Fernandez; Magno Baldeón-Tovar; Luz Medina-Pelaiza; Cesar Ortíz-Huamán; Milka Godiño-Poma
+Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0.
+
+Gestionar: revista de empresa y gobierno Vol. 4 Núm. 1 (2024) págs. 7-22
+
+Las soluciones tecnológicas diseñadas para sustentar y aprovechar el crecimiento a largo plazo en la gestión
+empresarial han propiciado que herramientas como BPM respalden la administración de procesos empresariales
+como una estrategia táctica. Esta metodología facilita la generación y supervisión de cambios de manera ágil,
+oportuna, confiable y de alta calidad, con el fin de alcanzar los objetivos estratégicos de las empresas.
+
+10
+
+Gestión por procesos en las empresas. Una revisión sistémica
+
+procesos y la gestión de procesos de negocio tanto en español como en inglés. Además, se establecieron
+ciertos criterios de exclusión; estos incluían artículos que no se publicaron dentro del período de tiempo
+determinado de 2011 a 2022, artículos de revistas científicas no indexadas, así como palabras clave que no eran
+relevantes para la gestión de procesos o la gestión de procesos de negocio. Además, también se excluyeron de
+la consideración aquellos artículos científicos, tesis o libros que no estuvieran relacionados con la gestión de
+procesos.
+Del total de documentos aplicando el modelo PRISMA se encontró un total de 30 referencias que cumplieron
+con los criterios definidos en la presente revisión. El procedimiento seguido fue el siguiente: (1) identificación
+de la base de datos a examinar; (2) proyección de artículos acorde con los objetivos del estudio; (3) elegibilidad
+de documentos pertinentes para el estudio; (4) eliminar duplicados y documentos que no satisfacen los criterios
+de inclusión; (5) normalizar los metadatos seleccionados para el análisis; y (6) llevar a cabo el análisis del
+estudio. La revisión sistemática estuvo compuesta por 23 artículos, 4 tesis y 3 libros.
+Figura 1
+
+3. RESULTADOS Y DISCUSIÓN
+Los hallazgos sugieren que incluir la gestión de procesos es un método crucial para las empresas, ya que les
+permite mejorar la rentabilidad y satisfacer a los clientes. Además, cuando se combina con tecnologías de la
+información, conduce a la gestión de procesos de negocio. El análisis sistemático ha revelado las nociones,
+rasgos, ventajas y conexiones conceptuales de la gestión de procesos, así como su posterior desarrollo en la
+gestión de procesos de negocio. Los principios básicos de la gestión de procesos se presentan a continuación.
+
+Jaime Ortíz-Fernandez; Magno Baldeón-Tovar; Luz Medina-Pelaiza; Cesar Ortíz-Huamán; Milka Godiño-Poma
+Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0.
+
+Gestionar: revista de empresa y gobierno Vol. 4 Núm. 1 (2024) págs. 7-22
+
+Diagrama de revisión Prisma
+
+11
+
+Gestión por procesos en las empresas. Una revisión sistémica
+
+Gestión por procesos
+La gestión de procesos ha sido un tema de interés en el ámbito administrativo desde hace bastante tiempo. Ha
+evolucionado continuamente, con el objetivo de encontrar los métodos más eficientes y exitosos para lograr los
+objetivos de una organización. Las raíces de este enfoque se remontan a los estudios realizados por Mary Parker
+Follett durante la década de 1920. Su investigación exploró el concepto de organización interfuncional y gestión
+dinámica, desafiando las ideas de Frederick Taylor sobre mecanismos y dinámicas de poder dentro de las
+organizaciones. Follett proporcionó soluciones para abordar las deficiencias en las estructuras organizativas. La
+formalización de la gestión de procesos comenzó en la década de 1990 como un enfoque estratégico para
+mejorar el desempeño organizacional general.
+Este enfoque constituye una evolución natural en las organizaciones al destacar la participación del personal y
+dirigirla hacia la satisfacción del cliente (Zamora, 2017).
+La gestión por procesos afirma que la organización funciona como un sistema compuesto por actividades
+interrelacionadas que buscan la creación de productos o servicios con el propósito de mejorar la satisfacción
+del cliente. En este contexto, un proceso puede ser conceptualizado como un conjunto de actividades
+interconectadas que transforman uno o más insumos en un resultado deseado (Moyado, 2011).
+
+La gestión por procesos puede definirse como el método empleado para la administración de los procesos
+empresariales, basándose en funciones, con la finalidad de ajustarlos a la misión, objetivos y estrategias de la
+organización, siempre con un enfoque centrado en la satisfacción del cliente. Este enfoque se basa en la
+capacidad de adaptación y la generación de valor. Además, garantiza la flexibilidad y la agilidad en los procesos
+mediante la reestructuración de los flujos de trabajo (Florián et al., 2022b).
+Las diferencias fundamentales entre la gestión tradicional y la gestión por procesos se sintetizan en los
+siguientes puntos: a) disminución de la jerarquía, donde la gestión por procesos reduce la estructura jerárquica,
+fomentando la colaboración y la toma de decisiones descentralizada; b) enfoque en las necesidades de los
+destinatarios, alineando los procesos con las necesidades y expectativas de los clientes o usuarios finales del
+producto o servicio; c) organización centrada en procesos relevantes, en lugar de enfocarse en departamentos
+o áreas funcionales, estructura la organización alrededor de los procesos clave y significativos para su
+funcionamiento; d) priorización de los procesos de realización, destacando la importancia de identificar y
+priorizar los procesos que generan valor y contribuyen directamente a la realización de los productos o servicios;
+e) optimización de la capacidad de los procesos, buscando maximizar la capacidad de los procesos,
+trascendiendo los límites de los sectores y de la propia organización, fomentando la colaboración y la integración
+de diversas áreas; f) inclusión del "destinatario" y el "proveedor" interno, reconociendo la importancia de los
+clientes internos y externos en el flujo de los procesos, considerándolos como destinatarios y proveedores
+internos respectivamente; y g) organización basada en el enfoque de valor, permitiendo organizar los procesos
+Jaime Ortíz-Fernandez; Magno Baldeón-Tovar; Luz Medina-Pelaiza; Cesar Ortíz-Huamán; Milka Godiño-Poma
+Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0.
+
+Gestionar: revista de empresa y gobierno Vol. 4 Núm. 1 (2024) págs. 7-22
+
+La gestión por procesos surge como una alternativa a la gestión convencional centrada en funciones y se define
+como el enfoque administrativo de una organización basado en los procesos. Su propósito es alinear los
+procesos con la estrategia, misión y objetivos de la organización, estableciendo un sistema interconectado
+orientado a mejorar la satisfacción del cliente, agregar valor y aumentar la capacidad de respuesta. Este enfoque
+implica la reorganización de los flujos de trabajo para adaptarse con mayor flexibilidad y rapidez a los cambios,
+además de la búsqueda constante del propósito y beneficiario del trabajo realizado (Medina et al., 2019).
+
+12
+
+Gestión por procesos en las empresas. Una revisión sistémica
+
+desde la perspectiva del valor generado para los clientes, asegurando una mayor eficiencia y efectividad en la
+entrega de productos o servicios. Es así que la gestión por procesos se distingue de la gestión tradicional debido
+a su enfoque en la colaboración, la orientación al cliente, la organización centrada en procesos, la priorización
+de la generación de valor y la inclusión de los destinatarios y proveedores internos (Zamora, 2017).
+La gestión por procesos se caracteriza por su atención en la supervisión de las interacciones, resaltando las
+conexiones de causa y efecto entre las actividades. Además, se dedica a reconocer las necesidades del cliente
+externo y orienta la empresa hacia la consecución de su satisfacción. De esta forma, se concreta la perspectiva
+centrada en el cliente (González et al., 2019).
+Este enfoque presenta varias ventajas, como proporcionar una visión completa de la organización y sus
+interconexiones internas.
+Cada empleado entiende su papel en cada proceso y sabe cómo contribuir para lograr los objetivos de la
+organización. Además, se mejora la eficiencia en la utilización de recursos, lo que conlleva a una reducción de
+los costos operativos y de gestión. Asimismo, fomenta la mejora continua al identificar posibles ineficiencias o
+debilidades durante el desarrollo del proceso del producto. En última instancia, facilita el trabajo en equipo,
+buscando el beneficio mutuo de la empresa (Aval, 2018).
+
+Contreras et al. (2017) afirman que el objetivo principal de la gestión de procesos es lograr resultados y generar
+valor para los clientes, al mismo tiempo que se ajusta a la misión de la empresa. Además, implica reconocer
+objetivos que estén alineados con las necesidades del cliente. Estos esfuerzos suelen tener un carácter
+horizontal, abarcan diversas tareas y tienen un comienzo y una conclusión predeterminados.
+Investigaciones como la Cieza-Mostacero y González-Castro (2022); Florián et al. (2022b); Llaque et al. (2021);
+Bravo et al. (2019) y Cueto y Cruz (2019) describen la implementación de la gestión por procesos en diversas
+empresas, abarcando sectores como metalmecánica, construcción, micro y pequeñas empresas (mype), y
+gastronómico. Los estudios concluyen que la implementación de la gestión por procesos beneficia a las
+empresas al mejorar la eficiencia y eficacia de los procesos, así como la rentabilidad y la satisfacción de los
+clientes. Además, en algunos casos, se observa un aumento en el número de ventas, la utilidad operacional, la
+base de clientes, mejoras en los inventarios y una reducción de costos internos innecesarios.
+Business Process Management (BPM)
+En una organización, la gestión de procesos y las tecnologías de la información tienen una fuerte conexión y
+dependen unas de otras. La gestión de procesos tiene como objetivo establecer la estandarización en los
+procesos de negocio. En el marco de BPM (Business Process Management), la gestión de procesos de negocio
+implica definir e implementar tecnologías de la información que se alineen con las actividades marcadas por
+estos procesos (Tabares & Lochmulle, 2013). El enfoque BPM se basa en factores estratégicos y operativos,
+Jaime Ortíz-Fernandez; Magno Baldeón-Tovar; Luz Medina-Pelaiza; Cesar Ortíz-Huamán; Milka Godiño-Poma
+Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0.
+
+Gestionar: revista de empresa y gobierno Vol. 4 Núm. 1 (2024) págs. 7-22
+
+La gestión por procesos facilita la rápida identificación y solución de problemas de manera ágil, sin necesidad
+de mejorar todos los demás procesos. Esto implica que al realizar modificaciones o cambios en un proceso, no
+es necesario alterar los demás, aunque afectará al resultado final. En consecuencia, todos los procesos deben
+cumplir con las expectativas y necesidades de los demás debido a su integración. La responsabilidad de mejorar
+un proceso recae en sus participantes directos, pero siempre con la colaboración de toda la organización
+(Domingo & Fernandez-Baca, 2016).
+
+13
+
+Gestión por procesos en las empresas. Una revisión sistémica
+
+utilizando técnicas y herramientas modernas. Además, requiere la participación activa de los empleados y está
+respaldado por una estructura organizativa horizontal, todo con el objetivo de garantizar la máxima satisfacción
+de las necesidades de los clientes (Hernández-Nariño et al., 2016).
+Sánchez (2011), destaca que la BPM, como una disciplina o perspectiva centrada en los procesos de negocio,
+ofrece una visión integral que una organización podría aprovechar por varias razones. El hecho de que la BPM
+aborde los procesos, junto con la integración inteligente de las tecnologías de la información y los recursos
+humanos involucrados en dichos procesos, resulta en un producto final más completo, coherente y con menos
+deficiencias. La BPM se ocupa de identificar, diseñar, ejecutar, documentar, monitorear, controlar y medir los
+procesos de negocios implementados por una organización. Este enfoque abarca tanto los procesos manuales
+como los automatizados y no se limita a la implementación de software. Dependiendo del enfoque y su
+aplicación, la BPM puede considerarse como una metodología, una herramienta estratégica o incluso como un
+conjunto de herramientas tecnológicas. La definición de "enfoque disciplinado" resulta ser la descripción más
+precisa para ello.
+Rodríguez (2014) indica que los directivos de las empresas contemporáneas buscan de manera constante
+métodos para lograr eficiencia. Actualmente, existen diversas definiciones de BPM, y aunque comparten
+similitudes, también presentan variaciones. La meta de BPM es alinear los procesos con los objetivos
+empresariales, buscando maneras de optimizar estos procesos y estableciendo medidas que puedan utilizarse
+para evaluar el rendimiento, fomentar la mejora continua y optimizar el desempeño.
+
+Espinosa y Ramón (2013) indican que la introducción de soluciones BPM se plantea como un desafío complejo,
+lo que ha llevado a distintos autores y proveedores de herramientas a establecer sus propios ciclos para abordar
+estas iniciativas, siendo la fase de modelado un componente constante. Este proceso implica un análisis
+detallado de los procesos con el propósito de identificar problemas y oportunidades de mejora en el negocio,
+seguido por la elaboración de un diseño electrónico que pueda ser implementado y perfeccionado de manera
+continua. En esta investigación, se ha analizado la transformación del concepto de modelado de procesos de
+negocio en el complejo integrado de investigación tecnológica desde 2009 hasta 2012. Los hallazgos desvelan
+los elementos que han impactado en la aceptación e integración del paradigma BPM en la institución.
+Cetina (2016) describe la administración de procesos mediante la metodología empresarial BPM, abordando
+desde la definición de conceptos fundamentales, los principios básicos de BPM, sus atributos, ventajas,
+estructura, ciclo de vida de los procesos, hasta el modelado de procesos y las herramientas empleadas para
+ello. Se concluye que la adopción de BPM en las organizaciones está destinada a experimentar un crecimiento
+sustancial, ya que constituye una herramienta esencial para mejorar los procesos y optimizar la utilización de
+los recursos de la empresa al alinear estos procesos con la estrategia y los objetivos del negocio.
+BPM se define como el conjunto de metodologías, técnicas y herramientas que facilitan el diseño, control,
+automatización, integración y mejora de los procesos empresariales. Su objetivo es alinear estos procesos y
+recursos con la estrategia y los objetivos del negocio para mejorar la eficiencia y asegurar su cumplimiento
+(Cetina, 2016).
+Jaime Ortíz-Fernandez; Magno Baldeón-Tovar; Luz Medina-Pelaiza; Cesar Ortíz-Huamán; Milka Godiño-Poma
+Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0.
+
+Gestionar: revista de empresa y gobierno Vol. 4 Núm. 1 (2024) págs. 7-22
+
+De acuerdo con la Harvard Business School (2010), la Optimización de Procesos Empresariales (BPI), también
+referida como Administración de Procesos Empresariales (BPM), se enfoca en modificar los procesos
+empresariales con el objetivo de mejorar su eficiencia (Citado en Rodríguez, 2014).
+
+14
+
+Gestión por procesos en las empresas. Una revisión sistémica
+
+La administración empresarial implica la coordinación y orquestación de un conjunto diverso de recursos y
+activos para lograr los objetivos relacionados con la misión empresarial. Las influencias y fuerzas que pueden
+afectar este proceso no se limitan al entorno empresarial, sino que están vinculadas al contexto operativo global
+de una empresa.
+La BPM resulta crucial para implementar un mecanismo constante, continuo y ágil que permita la alineación de
+los sistemas de información con la evolución de los procesos de negocios. En este contexto, una posible
+solución podría ser el enfoque que proponemos, basado en un marco específico llamado Sistema de Gestión
+de Procesos. Esta metodología proporciona soporte basado en conocimientos para expertos empresariales,
+abarcando no solo las fases operativas de BPM, sino también las actividades de ingeniería y prototipado del
+sistema de información correspondiente (Paiano et al., 2015).
+
+La tarea que nos ocupa es comprender las complejidades de implementar soluciones BPM, que involucran
+aspectos tanto organizativos como tecnológicos. Académicos y profesionales en el campo de BPM han ideado
+sus propias metodologías para gestionar procesos de negocio, proporcionando conocimientos valiosos para
+informatizar BPM. Este estudio tiene como objetivo combinar diferentes perspectivas sobre la adopción de BPM
+a través de una revisión meticulosa de la literatura y las técnicas de mapeo existentes. Se basa en fuentes
+académicas y empresariales para analizar los diversos aspectos de la adopción de tecnología en BPM, incluidos
+sistemas, ciclos, componentes, lenguajes de modelado, arquitecturas y guías metodológicas (Espinosa et al.,
+2020).
+La gestión de procesos de negocio y sus niveles de madurez se han convertido en un tema de gran interés en
+los círculos académicos como medio de evaluación de procesos. Según Rohvein et al. (2019), existe potencial
+para que las pequeñas y medianas empresas (PYMES) en Argentina mejoren la madurez de sus sistemas de
+gestión de procesos para facilitar la expansión empresarial. A través del examen de tres casos de estudio que
+involucran a Pymes, se ha validado la hipótesis de que las organizaciones certificadas bajo la Norma ISO
+9001:2015 alcanzan mayores niveles de madurez en sus sistemas de gestión de procesos de negocio,
+estableciendo así la presencia de una distinción notable. Después de un examen cuidadoso de estas
+organizaciones, se ha determinado que incorporar la gestión de procesos e integrar modelos de madurez de
+procesos de negocio en los sistemas de gestión de acuerdo con los estándares de calidad puede producir
+resultados ventajosos.
+En el análisis y mejora de procesos, diversas aproximaciones son posibles, siendo BPM y Seis Sigma las
+principales metodologías destacadas. Estas metodologías tienen enfoques distintos, no son mutuamente
+excluyentes y se sugiere su uso de manera complementaria. Esto se debe a que BPM adopta un enfoque
+Jaime Ortíz-Fernandez; Magno Baldeón-Tovar; Luz Medina-Pelaiza; Cesar Ortíz-Huamán; Milka Godiño-Poma
+Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0.
+
+Gestionar: revista de empresa y gobierno Vol. 4 Núm. 1 (2024) págs. 7-22
+
+Resulta desafiante elegir una herramienta de BPM adecuada para desarrollar un sistema de respaldo para
+procesos de negocio específicos. Existen diversas herramientas BPM disponibles, ya sea como sistemas para
+instalación local o como servicios en la nube. Estas herramientas se basan en distintos paradigmas de BPM,
+como flujo de trabajo o gestión de casos, y ofrecen capacidades, cumplimiento del flujo de control, espacios
+compartidos o entornos colaborativos diversos. Esta diversidad dificulta la tarea de seleccionar una herramienta
+que se ajuste a los procesos comerciales particulares de una organización. La propuesta del trabajo para abordar
+este problema sugiere el uso de un modelo de proceso empresarial de alto nivel llamado modelo de “relación
+escalonada”, que representa las características fundamentales de un proceso de manera independiente del
+paradigma (Bider & Perjons, 2015).
+
+15
+
+Gestión por procesos en las empresas. Una revisión sistémica
+
+cualitativo e integrado con los sistemas de información que respaldan los procesos, mientras que las
+herramientas cuantitativas de Seis Sigma se emplean para identificar áreas de mejora.
+En este estudio, se realiza un análisis de caso en el proceso de compras de una organización educativa con el
+propósito de examinar la complementariedad de estas metodologías a través de la revisión de manuales de
+trabajo, entrevistas, análisis del soporte informático y análisis estadístico. Los hallazgos indican que ambas
+metodologías pueden integrarse de manera beneficiosa (Rincón et al., 2019).
+
+Para Szelągowski y Lupeikiene (2020) una de las manifestaciones de la evolución de la BPM es el surgimiento
+de tecnologías de la información, metodologías y herramientas de software diseñadas para administrar una
+variedad de procesos, desde los estructurados de manera convencional hasta los no estructurados. Este artículo
+explica la evolución de los sistemas BPM inteligentes (iBPMS) y los sistemas de gestión de casos
+adaptables/dinámicos (DCMS/ACMS), evidenciando que convergen en una categoría de sistemas. Además,
+incorporan nuevas tecnologías emergentes como la minería de procesos, la automatización de procesos
+robóticos (RPA) o el aprendizaje automático/inteligencia artificial (ML/AI). Los resultados de la investigación
+sugieren que, debido a las demandas empresariales, la evolución de ambas clases de sistemas (iBPMS y
+DCMS/ACMS) tiende a abordar funciones similares al brindar soporte a procesos de diversas naturalezas. Esto
+indica una posible evolución futura hacia la integración de las metodologías y sistemas de soporte de BPM con
+los sistemas de gestión del conocimiento (KMS).
+Gudelj et al. (2021) subrayan que la BPM y la orientación a procesos es el foco de atención de muchos
+investigadores en la gestión operativa. Se han desarrollado diversos modelos que ilustran la madurez, la
+importancia y la función de BPM en la formulación de una estrategia empresarial, así como en la concepción,
+ejecución y supervisión de los procesos empresariales. El modelo presentado surge de numerosos ejemplos
+de diversas fuentes literarias, información adquirida experimentalmente y la experiencia de expertos
+consultados. Este modelo abarca cinco dimensiones de factores clave para el éxito en el diseño, implementación
+y control de los procesos de negocio, alineándose con un conjunto de estrategias empresariales. Los resultados
+de la investigación indican que las organizaciones que adoptan el modelo propuesto tienen la posibilidad de
+aprovechar los impactos positivos de la orientación hacia los procesos y administrar eficazmente los procesos
+empresariales.
+Hoy en día, la administración empresarial ha experimentado un nivel de cambio en el que los procesos se
+consideran elementos fundamentales para el crecimiento y avance de una organización. Este paradigma se ha
+convertido en la motivación principal que impulsa a las organizaciones a adoptar, integrar y perfeccionar sus
+Jaime Ortíz-Fernandez; Magno Baldeón-Tovar; Luz Medina-Pelaiza; Cesar Ortíz-Huamán; Milka Godiño-Poma
+Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0.
+
+Gestionar: revista de empresa y gobierno Vol. 4 Núm. 1 (2024) págs. 7-22
+
+Las acciones más significativas del BPM en el ámbito empresarial y sus procesos son: (a) enfoque centrado en
+los procesos; (b) alineación entre el Negocio y las Tecnologías de la Información (TI); (c) mejora continua de
+los procesos; (d) composición de soluciones; (e) transparencia. Las razones para adoptar el BPM incluyen: (a)
+proporcionar una visualización de los objetivos y metas de la organización en relación con los departamentos o
+áreas; (b) mejorar la efectividad de los procesos; (c) asegurar la agilidad en los procesos para adaptarse
+rápidamente a los cambios, logrando eficiencia y precisión en la ejecución; (d) ofrecer visibilidad y transparencia
+a los procesos; (e) monitorear y controlar los procesos del negocio; (f) simular procesos para mitigar riesgos.
+Para implementar el BPM, es necesario seguir los siguientes pasos: (a) capacitar al personal involucrado en la
+implementación; (b) definir los procesos en los que se trabajará; (c) analizar y seleccionar las herramientas; (d)
+implementar el proceso de negocio; (e) optimizar el proceso de negocio (Ortiz, 2020).
+
+16
+
+Gestión por procesos en las empresas. Una revisión sistémica
+
+operaciones a través de diversas opciones comerciales. Estas alternativas incluyen sistemas de información,
+aplicaciones y plataformas que se ajusten de manera óptima a las demandas del mercado actual y al entorno
+que rodea a la organización (López et al., 2022).
+Business Process Management Suite (BPMS)
+
+Según la definición de Eqmed (2014), un sistema de gestión de procesos de negocio (BPMS) o plataforma es
+una aplicación informática diseñada con objetivos empresariales, enfocada en la planificación y ejecución de la
+automatización de procesos. Estos sistemas facilitan la coordinación de procesos, personas, aplicaciones
+preexistentes y la información generada dentro de la organización (Citado en Ortiz, 2020). En este sentido, un
+BPMS tiene la capacidad de automatizar un proceso, y todos los BPMS siguen un ciclo compuesto por cuatro
+etapas: modelización, ejecución, monitorización y optimización. Entre las herramientas BPMS más destacadas
+se encuentran: (a) Appian, reconocida mundialmente en varios sectores de tecnología empresarial; (b)
+BonitaSoft, que facilita la participación tanto de desarrolladores profesionales como aficionados en la
+parametrización de proyectos de automatización; (c) Bizagi, una plataforma diseñada para la transformación
+digital; y (d) Aura Portal, una herramienta BPMS orientada a la gestión empresarial (Ortiz, 2020).
+Seymour y Koopman (2022) remarcan que las BPMS se han adoptado en las organizaciones para modelar,
+mejorar y automatizar los procesos comerciales, ya que su propósito es mejorar la calidad, eficiencia y agilidad
+de sus operaciones comerciales. En un estudio de caso interpretativo en una gran organización de servicios
+financieros de Sudáfrica se explica los factores que impactan negativamente en la adopción exitosa de BPMS.
+Los factores dominantes fueron la dificultad de integrarse con otras aplicaciones y la falta de gobernanza en
+torno a BPM. Se explica el impacto de la estrategia, la cultura y la gobernanza de BPM en los métodos, recursos,
+datos y tecnología de BPM.
+De Masellis et al. (2022) destacan que los avances recientes en BPM han llevado al desarrollo de varias suites
+que pueden modelar objetos de datos junto con la perspectiva tradicional del flujo de control. Sin embargo,
+todavía faltan herramientas de verificación efectivas para ejecuciones y modelos de procesos imperativos
+basados en datos. Esta investigación ofrece una solución tangible para verificar formalmente las propiedades de
+accesibilidad en procesos comerciales imperativos conscientes de los datos. En primer lugar, presenta una
+codificación meticulosa de un lenguaje basado en redes de flujo de trabajo con reconocimiento de datos,
+planificación clásica y verificación de modelos. En segundo lugar, proporciona una evaluación integral del
+desempeño de diferentes solucionadores, cada uno diseñado para un lenguaje específico, en términos de su
+capacidad para razonar con lenguajes de red de flujo de trabajo conscientes de datos.
+Jaime Ortíz-Fernandez; Magno Baldeón-Tovar; Luz Medina-Pelaiza; Cesar Ortíz-Huamán; Milka Godiño-Poma
+Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0.
+
+Gestionar: revista de empresa y gobierno Vol. 4 Núm. 1 (2024) págs. 7-22
+
+Díaz (2008) indica que la globalización, la apertura económica, los tratados de libre comercio y el entorno
+competitivo requieren que las empresas y organizaciones se preparen eficientemente para su futuro. Aquellas
+empresas comprometidas con su sostenibilidad a largo plazo han optado por soluciones de Gestión por
+Procesos Empresariales (BPM), cuyo propósito es mejorar la eficiencia mediante la administración sistemática
+de los procesos de negocio. Estos procesos deben ser integrales, automatizados, optimizados, monitoreados y
+documentados de manera continua. Es evidente que la BPM está siendo ampliamente aceptada en el ámbito
+empresarial, y la adopción de soluciones BPM y Suites de Gestión de Procesos de Negocio (BPMS) se ha vuelto
+un elemento esencial y estratégico para reducir costos y aumentar el Retorno de la Inversión (ROI). La
+coordinación entre los negocios y la implementación de tecnologías adecuadas son elementos estratégicos que
+facilitan la generación y el control de "cambios" de manera ágil, oportuna y confiable.
+
+17
+
+Gestión por procesos en las empresas. Una revisión sistémica
+
+Un proceso se describe como una secuencia de actividades o pasos interconectados que, al llevarse a cabo,
+conducen a un resultado o a la generación de un producto específico. En el ámbito empresarial, este proceso
+generalmente implica la transformación de insumos (inputs) en productos, servicios o resultados deseados
+(outputs) (Moyado, 2011).
+En línea con esta definición, Dumas et al. (2012), también sostienen que un proceso implica una combinación
+de eventos, actividades y decisiones que, en conjunto, resultan en un producto final que agrega valor a los
+clientes de una organización. La comprensión y gestión eficaz de estos procesos se convierten en elementos
+clave para asegurar la constante generación de valor y, en consecuencia, contribuir a la eficacia y competitividad
+de las organizaciones.
+Se precisa que la gestión por procesos es una perspectiva administrativa que tiene como objetivo potenciar la
+eficiencia y efectividad de una organización, concentrándose en la planificación, diseño, ejecución, monitoreo y
+optimización de sus procesos clave (Bravo et al., 2019; Llaque et al., 2021; Cieza-Mostacero & González-Castro,
+2022; Florián et al., 2022a).
+
+Adicional a lo mencionado, se tiene que la gestión de procesos de negocio (BPM) se considera comúnmente
+como una herramienta valiosa que brinda a las organizaciones una ventaja al mejorar la eficiencia de sus
+operaciones, garantizar la calidad de sus productos o servicios y fomentar la innovación. Cuando los líderes
+empresariales pretenden reestructurar sus procesos para lograr estos objetivos, adoptan activamente esta
+metodología. Hernández-Nariño et al. (2016); Dumas et al. (2012), discutieron el BPM como una colección de
+principios, métodos y herramientas diseñadas para el desarrollo, examen, implementación y supervisión de
+procesos de negocio.
+Para Rincón et al. (2019) la BPM representa una metodología centrada en aspectos cualitativos y forma parte
+integral de la integración con los sistemas de información que sustentan los procesos. y puede integrarse de
+manera beneficiosa para las empresas (Cetina, 2016). En el mismo sentido Ortiz (2020) menciona los beneficios
+del BMP para la empresa, tales como: proporcionar una representación visual de los objetivos y metas de la
+organización en relación con los distintos departamentos o áreas, con el propósito de mejorar la eficacia en los
+procesos (Sánchez, 2011) y asegurar flexibilidad en los procesos para adaptarse de manera ágil a los cambios,
+logrando eficiencia y precisión en la ejecución (Rodríguez, 2016).
+Las propuestas de investigación de este estudio tienen como objetivo investigar la conexión entre la gestión de
+procesos y la capacidad de innovación de una organización. Además, pretenden analizar cómo la estructura de
+Jaime Ortíz-Fernandez; Magno Baldeón-Tovar; Luz Medina-Pelaiza; Cesar Ortíz-Huamán; Milka Godiño-Poma
+Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0.
+
+Gestionar: revista de empresa y gobierno Vol. 4 Núm. 1 (2024) págs. 7-22
+
+La gestión por procesos abandona la estructura basada en funciones o departamentos aislados y en su lugar,
+considera a la organización como un conjunto de actividades interrelacionadas que colaboran para alcanzar
+objetivos estratégicos. Este enfoque tiene la intención de armonizar los procesos con la misión y visión de la
+organización, promoviendo la mejora constante, la flexibilidad y la provisión de valor al cliente (Contreras et al.,
+2017). Además, implica la utilización de metodologías, herramientas y tecnologías para gestionar y mejorar de
+manera integral las operaciones de la empresa (Llanes-Font et al., 2014) en concordancia Florián et al. (2022b)
+menciona que la gestión por procesos es una metodología que supervisa los procesos comerciales, ajustándolos
+a la misión, metas y estrategias de la organización, manteniendo una orientación centrada en la satisfacción del
+cliente. Se sustenta en la capacidad de adaptación y creación de valor, garantizando flexibilidad y celeridad
+mediante la reestructuración de los flujos de trabajo.
+
+18
+
+Gestión por procesos en las empresas. Una revisión sistémica
+
+los procesos promueve u obstaculiza la implementación de nuevos productos, servicios o prácticas. Además, el
+estudio busca medir el efecto de las tecnologías de la información en la efectividad de la gestión de procesos.
+Su objetivo es evaluar cómo la automatización, el análisis de datos y otras herramientas tecnológicas impactan
+la eficiencia y la excelencia de los procesos comerciales.
+La relevancia científica de los resultados obtenidos radica en que la implementación de la gestión por procesos
+desempeña un papel fundamental en la ciencia empresarial, proporcionando un marco metodológico y
+estratégico que transforma la forma en que las organizaciones estructuran y ejecutan sus operaciones. La
+importancia de este enfoque en la ciencia empresarial se manifiesta en varios aspectos clave, como la
+optimización de la eficiencia operativa, el enfoque centrado en el cliente, la adaptabilidad a los cambios, la
+mejora continua y el aprendizaje organizacional, así como la medición y el análisis cuantificables, y la alineación
+con objetivos estratégicos.
+4. CONCLUSIONES
+
+Las razones para implementar la Gestión por Procesos (BPM) incluyen proporcionar una visión sistémica de los
+objetivos y metas de la organización, aumentar la eficacia de los procesos, permitir la adaptación dinámica de
+los procesos a cambios, garantizar eficacia y eficiencia, ofrecer transparencia a los procesos, supervisar y
+controlar los procesos, y simular los procesos. En cuanto a la implementación de la BPM, se recomienda
+capacitar al personal en la implementación, definir los procesos, analizar y seleccionar las herramientas,
+implementar el proceso de negocio y optimizar dicho proceso.
+Las organizaciones implementan la gestión por procesos para abordar deficiencias o problemas en sus
+procesos, buscando mejorar la rentabilidad y la satisfacción del cliente a través de la eficiencia y eficacia de los
+procesos. Además, esta práctica puede conducir al aumento de las ventas, la utilidad operativa y la base de
+clientes. La estrecha relación entre la gestión por procesos y las tecnologías de la información resalta la
+necesidad de que las empresas se adapten y mejoren continuamente sus procesos, lo que ha impulsado la
+importancia del BPM como un componente esencial para brindar agilidad y flexibilidad a las organizaciones. La
+BPM se define como la planificación, ejecución, monitoreo y optimización de procesos empresariales, con el
+objetivo de lograr una mejora continua. Este enfoque permite estructurar los procesos y seguir una trayectoria
+predecible de principio a fin.
+Conflicto de intereses / Competing interests:
+Los autores declaran que no incurren en conflictos de intereses.
+Rol de los autores / Authors Roles:
+Jaime Ortíz-Fernandez: Conceptualización, curación de datos, análisis formal, investigación, metodología, recursos,
+software, supervisión, validación, visualización, administración del proyecto, escritura y preparación del borrador
+original, revisión y amp, edición.
+
+Jaime Ortíz-Fernandez; Magno Baldeón-Tovar; Luz Medina-Pelaiza; Cesar Ortíz-Huamán; Milka Godiño-Poma
+Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0.
+
+Gestionar: revista de empresa y gobierno Vol. 4 Núm. 1 (2024) págs. 7-22
+
+La implementación de la gestión de procesos de negocio y los sistemas de gestión de procesos de negocio son
+elementos clave y estratégicos para la reducción de costos y el aumento de la rentabilidad. La integración entre
+los negocios y la aplicación de tecnologías adecuadas está experimentando un crecimiento constante, lo que
+permite que los sistemas de gestión de procesos de negocio sean adoptados en las organizaciones con el fin
+de modelar, mejorar y automatizar los procesos comerciales. El objetivo principal de esta adopción es mejorar
+la calidad, la eficiencia y la agilidad de los procesos comerciales.
+
+19
+
+Gestión por procesos en las empresas. Una revisión sistémica
+Magno Baldeón-Tovar: Conceptualización, análisis formal, investigación, metodología, administración del proyecto,
+escritura y preparación del borrador original, revisión y amp, edición.
+Luz Medina-Pelaiza: Conceptualización, análisis formal, investigación, metodología, administración del proyecto,
+escritura y preparación del borrador original, revisión y amp, edición.
+Cesar Ortíz-Huamán: Conceptualización, análisis formal, investigación, metodología, administración del proyecto,
+escritura y preparación del borrador original, revisión y amp, edición.
+Milka Godiño-Poma: Conceptualización, análisis formal, investigación, metodología, administración del proyecto,
+escritura y preparación del borrador original, revisión y amp, edición.
+Fuentes de financiamiento / Funding:
+Los autores declaran que no recibieron un fondo específico para esta investigación.
+Aspectos éticos / legales; Ethics / legals:
+Los autores declaran no haber incurrido en aspectos antiéticos, ni haber omitido aspectos legales en la realización de
+la investigación.
+
+REFERENCIAS
+Aranda, M., Ordoñez, L., & Peralta, C. (2018). La gestión por procesos como medio para mejorar la eficacia en
+el cumplimiento de objetivos institucionales del Minagri. [Tesis de Maestría, Universidad Pacífico].
+Repositorio Institucional. https://cutt.ly/KwMyvmmj
+
+Bider, I., & Perjons, E. (2015). Design science in action: developing a modeling technique for eliciting
+requirements on business process management (BPM) tools. Software and Systems Modeling, 14,
+1159–1188.
+Bravo, E., Flores, R., & Cieza, S. (2019). Process Management and Its Influence in the Document Administration
+of a Construction Company. 17th LACCEI International Multi-Conference for Engineering, Education,
+and Technology. http://dx.doi.org/10.18687/LACCEI2019.1.1.123
+Cetina, M. (2016). Gestión de procesos con BPM. Tecnología, Investigación y Academia, 4(2), 45-56.
+http://hdl.handle.net/11349/21122
+Cieza-Mostacero, S., & González-Castro, J. (2022). Implementación de la Gestión por Procesos en la Gestión
+de Ventas de una Empresa Metalmecánica. Memorias de la Décima Segunda Conferencia
+Iberoamericana
+de
+Complejidad,
+Informática
+y
+Cibernética
+(CICIC
+2022).
+https://www.iiis.org/CDs2022/CD2022Spring/papers/CB613KO.pdf
+Contreras, F., Olaya, J., & Matos, F. (2017). Gestión por procesos. Indicadores y estándares para unidades de
+información. Edición propia. https://cutt.ly/XwMynVOS
+Cueto, L., & Cruz, M. (2019). Gestión por procesos y rentabilidad de las empresas del sector gastronómico del
+distrito de Los Olivos Lima, Perú. [Tesis de grado, Universidad Tecnológica del Perú]. Repositorio
+Institucional https://repositorio.utp.edu.pe/handle/20.500.12867/4247
+De Masellis, R., Di Francescomarino, F., Ghidini, C., & Tessaris, S. (2022). Solving reachability problems on
+data-aware workflows. Expert Systems With Applications, 1-31.
+Jaime Ortíz-Fernandez; Magno Baldeón-Tovar; Luz Medina-Pelaiza; Cesar Ortíz-Huamán; Milka Godiño-Poma
+Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0.
+
+Gestionar: revista de empresa y gobierno Vol. 4 Núm. 1 (2024) págs. 7-22
+
+Aval, J. (2018). Diseño de la gestión por procesos que permite la integración y mejora del proceso de recursos
+humanos en las Mypes del sector hotelero en Lima Metropolitana. [Tesis de grado, Universidad Peruana
+de Ciencias Aplicadas]. Repositorio Institucional. http://hdl.handle.net/10757/624132
+
+20
+
+Gestión por procesos en las empresas. Una revisión sistémica
+
+Díaz, F. (2008). Gestión de procesos de negocio BPM (Business Process Management), TICs y crecimiento
+empresarial. ¿Qué es BPM y cómo se articula con el crecimiento empresarial? Revista Universidad y
+Empresa, 7(15), 151-176.
+Domingo, J., & Fernandez-Baca, W. (2016). Gestión por procesos y su relación con el plan estratégico en un
+contexto de modernización de la gestión pública peruana. Revista de Investigación de la Facultad de
+Ciencias Administrativas, UNMSM, 19-I(37), 25-30.
+Dumas, M., La Rosa, M., Mendling, J., & Reijers, H. (2012). Fundamentals of Business Process Management.
+New York: Springer Heidelberg.
+Espinosa, Y., & Ramón, C. (2013). Business Process Modeling: Evolution of the Concept in a University Context.
+Computación y Sistemas, 17(1), 79-93.
+Espinosa, Y., Ramón, C., Castro, C., & Arencibia, R. (2020). Adopción de tecnologías de gestión de procesos
+de negocio: una revisión sistemática. Ingeniare. Revista chilena de ingeniería, 28(1), 41-55.
+Flores-Rueda, I.; Espinosa-Delgado, J.; Torres-Rivera, P., & Martínez-Aguilar, M. (2020) Prácticas socio
+administrativas para la competitividad, emprendimiento y mercadotecnia digital. Una visión desde la
+licenciatura. San Luis Potosí: Universidad Autónoma de San Luis Potosí.
+Florián, O., Bardales, E., & Caso, A. (2022a). Process Management for Continuous Improvement in a B2B Digital
+Marketing SME Company. Education, Research and Leadership in Post-pandemic Engineering:
+Resilient,
+Inclusive
+and
+Sustainable
+Action.
+https://laccei.org/LACCEI2022BocaRaton/full_papers/FP170.pdf
+
+González, A., Leal, L., Martínez, D., & Morales, D. (2019). Herramientas para la gestión por procesos. Cuadernos
+Latinoamericanos de Administración, 16(28), 1-13. https://cutt.ly/ZwMymJTE
+Gudelj, M., Delic, M., Kuzmanovic, B., Tesic, Z., & Tasic, N. (2021). Business process management model as
+an approach to process orientation. International Journal of Simulation Modelling, 255-266.
+https://cutt.ly/LwMymM52
+Hernández-Nariño, A., Delgado-Landa, A., Marqués-León, M., Nogueira-Rivera, D., Medina-León, A., & NegrínSosa, E. (2016). Generalización de la gestión por procesos como plataforma de trabajo de apoyo a la
+mejora de organizaciones de salud. Revista de Gerencia, Política y Salud, 15(31), 66-87. http://dx.doi.
+org/10.11144/Javeriana.rgyps15-31.ggpp
+Llanes-Font, M., Isaac-Godínez, M., Moreno-Pino, M., & García-VidalI, G. (2014). De la gestión por procesos
+a la gestión integrada por procesos. Ingeniería Industrial, 35(3), 255-264. https://cutt.ly/GwMyQtT2
+Llaque, G., Escobar, E., Zuñiga, K., & Quiñones, N. (2021). Gestión por Procesos en la Logística en una Empresa
+PYME del Sector Construcción. 1sh LACCEI InternationalMulticonference on Entrepreneurship,
+Innovation and Regional Development. http://dx.doi.org/10.18687/LEIRD2021.1.1.15
+López, J., Guerrero, A., & Sierra, J. (2022). Epistemic Analysis Of BPM Business Process Management.
+Webology, 19(6), 321-329. https://www.webology.org/abstract.php?id=4167
+
+Jaime Ortíz-Fernandez; Magno Baldeón-Tovar; Luz Medina-Pelaiza; Cesar Ortíz-Huamán; Milka Godiño-Poma
+Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0.
+
+Gestionar: revista de empresa y gobierno Vol. 4 Núm. 1 (2024) págs. 7-22
+
+Florián, O., Suarez, B., Diaz, D., Obando, S., & Florián-Sánchez.O. (2022b). Gestión por Procesos para la
+Satisfacción del Cliente en una Empresa Mype de Servicios. 2nd LACCEI International Multiconference
+on
+Entrepreneurship,
+Innovation
+and
+Regional
+Development.
+http://dx.doi.org/10.18687/LEIRD2022.1.1.50
+
+21
+
+Gestión por procesos en las empresas. Una revisión sistémica
+
+Medina, A., Nogueira, D., Hernández-Nariño, A., & Comas, R. (2019). Procedimiento para la gestión por
+procesos: métodos y herramientas de apoyo. Ingeniare. Revista chilena de ingeniería, 27(2), 328-342.
+http://dx.doi.org/10.4067/S0718-33052019000200328
+Moher, D.; Liberati, A.; Tetzlaff, J., & Altman, D. (2009) Preferred Reporting Items for Systematic Reviews and
+Meta-Analyses:
+The
+PRISMA
+Statement.
+PLoS
+Med,
+6(7).
+https://doi.org/10.1371/journal.pmed.1000097
+Moyado, F. (2011). Gobernanza y calidad en la Gestión Pública. Estudios Gerenciales, 27(129).
+http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0123-59232011000300011
+Ortiz, C. (2020). Desarrollo de una Guía para Implementar BPM (Business Process Management) utilizando un
+MOOC. Universidad Nacional Abierta y a Distancia. https://cutt.ly/QwMyQU9e
+Paiano, R., Caione, A., Guido, A., Martella, A., & Pandurino, A. (2015). Business Process Management – A
+Traditional Approach versus a Knowledge Based Approach. BRAIN. Broad Research in Artificial
+Intelligence and Neuroscience, 6(1-2), 54-69.
+Palvarini, B., & Quezado, C. (2014). Gestión de procesos orientada a los resultados. California: Vertsys.
+Piñero, M., Esteban, E., Vanga, M., & Rivera, M. (2022). Hacia una reconceptualización de la investigación
+cualitativa. Revista de Filosofía, 39(2), 524-536. https://doi.org/10.5281/zenodo.7312693
+Rincon, N., Aguirre, H., & Caballero, J. (2014). Business Process Management y Seis Sigma en el análisis de
+procesos: caso de estudio. Revista Venezolana de Gerencia, 19(67), 477-498.
+Rodríguez, D. (2014). Gerencia de Procesos del Negocio (BPM): ¿A qué puede contribuir BPM? OPS Nicaragua.
+
+Sánchez, D. (2011). Introducción a Business Process Management (BPM). IBM China, 1-6.
+Seymour, L., & Koopman, A. (2022). Analysing factors impacting BPMS performance: a case of a challenged
+technology adoption. Software and Systems Modeling, 21, 869–890.
+Szelągowski, M., & Lupeikiene, A. (2020). Business Process Management Systems: Evolution and Development
+Trends. Informática, 31(3), 579–595.
+Tabares, M., & Lochmulle, C. (2013). Propuesta de un espacio multidimensional para la gestión por procesos.
+Un estudio de caso. Estudios Gerenciales, 29, 222–230.
+Zamora, M. (2017). Teoría de la Gestión por Procesos: Un Análisis del Centro de Fórmulas Lácteas Infantiles
+del Hospital “Sor María Ludovica” de La Plata [Tesis de maestría]. Universidad Nacional de La Plata.
+
+Jaime Ortíz-Fernandez; Magno Baldeón-Tovar; Luz Medina-Pelaiza; Cesar Ortíz-Huamán; Milka Godiño-Poma
+Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0.
+
+Gestionar: revista de empresa y gobierno Vol. 4 Núm. 1 (2024) págs. 7-22
+
+Rohvein, C., Jaureguiberry, M., Urrutia, S., Roark, G., Chiodi, F., & Paravie, D. (2019). Modelo de madurez
+como base para el diagnóstico de la gestión de procesos Pyme. Revista Ingeniería Industrial, 18(1), 526.
+
+22
+

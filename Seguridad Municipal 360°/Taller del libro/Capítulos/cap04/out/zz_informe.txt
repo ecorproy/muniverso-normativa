@@ -1,21 +1,51 @@
-CITAS TEXTUALES: 134 | OK: 125
+CITAS TEXTUALES: 154 | OK: 123
+  [cap04.md] 28p | V:2025-008201:considerando IV | SIN FUENTE LOCAL | "el mandato constitucional es que el servidor público sea nom"
+  [cap04.md] 25p | V:2025-008201:considerando XXVIII | SIN FUENTE LOCAL | "también es una manifestación del principio de transparencia "
   [cap04.md] 16p | D:C-131-2026:estudio general | LITERAL (sin localización que cotejar) | "se complementa con lo regulado en el propio Código Municipal"
   [cap04.md] 18p | D:C-131-2026:estudio general | LITERAL (sin localización que cotejar) | "criterios objetivos sobre la base de indicadores cuantitativ"
-  [cap04.md] 21p | Cortés García, 2026 | , capítulo 25 | LITERAL (sin localización que cotejar) | "no solo constituye un vicio formal grave, sino que represent"
-  [cap04.md] 26p | Cortés García, 2026 | , capítulo 27 | LITERAL (sin localización que cotejar) | "trasciende la corrección jurídica formal para constituirse c"
-  [cap04.md] 22p | Cortés García, 2026 | , capítulo 26 | LITERAL (sin localización que cotejar) | "el cumplimiento formal de rituales procedimentales puede coe"
-  [cap04.md] 11p | Cortés García, 2026 | , capítulo 26 | LITERAL (sin localización que cotejar) | "constituye la manifestación más intensa del poder estatal so"
-  [cap04.md] 16p | Cortés García, 2026 | , capítulo 14 | LITERAL (sin localización que cotejar) | "implicaría sostener que el derecho de defensa es inversament"
-  [cap04.md] 23p | Cortés García, 2026 | , Introducción | LITERAL (sin localización que cotejar) | "su deber de velar porque, todos los órganos a su cargo conoz"
-  [cap04.md] 30p | Cortés García, 2026 | , capítulo 12 | LITERAL (sin localización que cotejar) | "La omisión ilegítima de la administración no puede convertir"
+  [cap04.md] 12p | Zaratiegui, 1999 | , p. 82 | SIN FUENTE LOCAL | "se pueden definir como secuencias ordenadas y lógicas de act"
+  [cap04.md] 18p | Zaratiegui, 1999 | , p. 82 | SIN FUENTE LOCAL | "para alcanzar unos resultados programados, que se entregan a"
+  [cap04.md] 10p | Zaratiegui, 1999 | , p. 83 | SIN FUENTE LOCAL | "su continuo recurso a las medidas, a los datos objetivos"
+  [cap04.md] 14p | Zaratiegui, 1999 | , p. 85 | SIN FUENTE LOCAL | "destinados a definir y controlar las metas de la empresa, su"
+  [cap04.md] 8p | Zaratiegui, 1999 | , p. 85 | SIN FUENTE LOCAL | "con su objetivo, entradas y salidas, responsable, indicadore"
+  [cap04.md] 25p | Zaratiegui, 1999 | , p. 82 | SIN FUENTE LOCAL | "fuerzan a la cooperación y van creando una cultura de empres"
+  [cap04.md] 19p | Zaratiegui, 1999 | , p. 82 | SIN FUENTE LOCAL | "Un principio fundamental de la Calidad Total es el papel de "
+  [cap04.md] 64p | Medina León et al., 2009 | , p. 69 | SIN FUENTE LOCAL | "Secuencia ordenada de actividades repetitivas que se realiza"
+  [cap04.md] 12p | Medina León et al., 2009 | , p. 68 | SIN FUENTE LOCAL | "Debe poseer un responsable y ser administrado según el ciclo"
+  [cap04.md] 11p | Medina León et al., 2009 | , p. 68 | SIN FUENTE LOCAL | "Poseer indicadores que visualicen de forma gráfica la evoluc"
+  [cap04.md] 26p | Medina León et al., 2009 | , p. 68 | SIN FUENTE LOCAL | "Los destinatarios del proceso, internos o externos, son los "
+  [cap04.md] 19p | Medina León et al., 2009 | , p. 70 | SIN FUENTE LOCAL | "de ser realizados de conjunto con la Planificación Estratégi"
+  [cap04.md] 12p | DE:43952:considerando IX | LITERAL (sin localización que cotejar) | "por violación a la autonomía de gobierno de las municipalida"
+  [cap04.md] 27p | Vílchez Ordoñez y Sánchez Davila, 2021 | , p. 6465 | SIN FUENTE LOCAL | "brindando un trato adecuado a los clientes sean intrínsecos "
+  [cap04.md] 25p | V:2025-008201:considerando XXVIII | SIN FUENTE LOCAL | "también es una manifestación del principio de transparencia "
+  [cap04.md] 21p | Cortés García, 2026 | , capítulo 25 | SIN FUENTE LOCAL | "no solo constituye un vicio formal grave, sino que represent"
+  [cap04.md] 26p | Cortés García, 2026 | , capítulo 27 | SIN FUENTE LOCAL | "trasciende la corrección jurídica formal para constituirse c"
+  [cap04.md] 22p | Cortés García, 2026 | , capítulo 26 | SIN FUENTE LOCAL | "el cumplimiento formal de rituales procedimentales puede coe"
+  [cap04.md] 11p | Cortés García, 2026 | , capítulo 26 | SIN FUENTE LOCAL | "constituye la manifestación más intensa del poder estatal so"
+  [cap04.md] 16p | Cortés García, 2026 | , capítulo 14 | SIN FUENTE LOCAL | "implicaría sostener que el derecho de defensa es inversament"
+  [cap04.md] 17p | Medina León et al., 2009 | , p. 68 | SIN FUENTE LOCAL | "dependen de los recursos, la habilidad y la motivación del p"
+  [cap04.md] 13p | Medina León et al., 2009 | , p. 71 | SIN FUENTE LOCAL | "la mejora de la actividad humana (cultura organizacional, li"
+  [cap04.md] 19p | Vílchez Ordoñez y Sánchez Davila, 2021 | , p. 6465 | SIN FUENTE LOCAL | "procesos de mejoras continuas para su personal y como result"
+  [cap04.md] 14p | Medina León et al., 2009 | , p. 66 | SIN FUENTE LOCAL | "no es extraño que, frecuentemente, los clientes externos no "
+  [cap04.md] 15p | Bendell et al., 1993, como se citó en Medina León et al., 2009 | , p. 66 | SIN FUENTE LOCAL | "los problemas ocurren en el momento del cambio, cuando el te"
+  [cap04.md] 23p | Cortés García, 2026 | , Introducción | SIN FUENTE LOCAL | "su deber de velar porque, todos los órganos a su cargo conoz"
+  [cap04.md] 30p | Cortés García, 2026 | , capítulo 12 | SIN FUENTE LOCAL | "La omisión ilegítima de la administración no puede convertir"
 
 UBICACIONES VERIFICADAS A MANO (0):
 
-ERRORES (0):
+ERRORES (7):
+  VOTO sin archivo: 2025-008201
+  VOTO sin archivo: 2025-008201
+  VOTO sin archivo: 2025-008201
+  VOTO sin archivo: 2025-008201
+  VOTO sin archivo: 2025-008201
+  VOTO sin archivo: 2025-008201
+  VOTO sin archivo: 2025-008201
 
 AVISOS (0):
 
-NOTAS DE VOCABULARIO (7):
+NOTAS DE VOCABULARIO (8):
+  [cap04.md] vocabulario «destaca»: …). Entre los rasgos del enfoque, la revisión destaca "" (Medina et al., 2019, como se citó…
   [cap04.md] vocabulario «fundamental»: …a que lo presta. La primera tiene un derecho fundamental a que el servicio funcione bien. …
   [cap04.md] vocabulario «fundamental»: …que sirve mejor a la persona.  ## Un derecho fundamental al buen funcionamiento  La Consti…
   [cap04.md] vocabulario «fundamental»: …-011382, cons. III). Y concluyó que el texto fundamental "" (voto 2003-011382, cons. IV). …
