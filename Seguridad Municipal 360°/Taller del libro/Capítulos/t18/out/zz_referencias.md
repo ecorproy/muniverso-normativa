@@ -58,7 +58,7 @@ Sala Constitucional de la Corte Suprema de Justicia. (1991, 6 de noviembre). *Vo
 
 Sala Constitucional de la Corte Suprema de Justicia. (2007, 20 de julio). *Voto N.° 2007-010102, de las 10:46 horas* (expediente 07-007053-0007-CO). NexusPJ.
 
-Sala Constitucional de la Corte Suprema de Justicia. (2009, 27 de febrero). *Voto N.° 2009-003369, de las 12:41 horas* (expediente 08-015027-0007-CO). NexusPJ.
+Sala Constitucional de la Corte Suprema de Justicia. (2009, 27 de febrero). *Voto N.° 2009-003369, de las 12:41 horas* (expediente 08-015027-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-445841
 
 Sala Constitucional de la Corte Suprema de Justicia. (2013, 22 de febrero). *Voto N.° 2013-002572, de las 11:40 horas* (expediente 12-005965-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1006569
 

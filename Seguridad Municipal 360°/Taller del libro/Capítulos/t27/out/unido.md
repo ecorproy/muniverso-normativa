@@ -222,7 +222,7 @@ Sala Constitucional de la Corte Suprema de Justicia. (2008, 30 de octubre). *Vot
 
 Sala Constitucional de la Corte Suprema de Justicia. (2008, 7 de noviembre). *Voto N.° 2008-016885, de las 13:42 horas* (expediente 07-012210-0007-CO). NexusPJ.
 
-Sala Constitucional de la Corte Suprema de Justicia. (2009, 27 de febrero). *Voto N.° 2009-003369, de las 12:41 horas* (expediente 08-015027-0007-CO). NexusPJ.
+Sala Constitucional de la Corte Suprema de Justicia. (2009, 27 de febrero). *Voto N.° 2009-003369, de las 12:41 horas* (expediente 08-015027-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-445841
 
 Sala Constitucional de la Corte Suprema de Justicia. (2010, 11 de junio). *Voto N.° 2010-010119, de las 9:06 horas* (expediente 10-006097-0007-CO). NexusPJ.
 
