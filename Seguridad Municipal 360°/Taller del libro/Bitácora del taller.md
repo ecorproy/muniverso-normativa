@@ -1848,3 +1848,15 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - El salto de página de los temas pasó del estilo Título 2 a cada párrafo, para que las secciones de capítulo no empiecen página.
 - El índice general (TOC niveles 1 y 2) se arma cuando Word abre el archivo. Ahora incluye también las secciones de los capítulos.
 - Script: `scripts/estilos_word.py`. El PDF renderizado tiene 1042 páginas; se revisaron la portada, una sección de capítulo, un cuadrante y el inicio de un tema.
+
+## 27 de noviembre de 2026: introducción «El camino» (Word final57)
+- Nueva introducción antes del capítulo 1 (`Capítulos/intro/`). Abre con el relato del autor sobre el V Congreso Jurídico Nacional Municipal de octubre de 2016 y su pregunta sobre el entonces artículo 62 del Código Municipal. Sigue con la imagen del viaje en seis estaciones, cinco rutas de lectura según quien lee, la clave de colores y de recursos, y un cierre: «Desde acá, sigue usted».
+- Fuentes:
+  - El texto original del artículo 62 lo aportó el autor desde el SCIJ (versión 1 de 6). Solo se corrigieron espacios perdidos al pegar («darse préstamos», «las municipalidades», «beneficencia o»).
+  - Que pasó al artículo 71 en 2018 (Ley 9542) y que se reformó en 2025 (Ley 10713), y el contenido actual del artículo 71: notas del SCIJ en el texto vigente de la Ley 7794.
+  - Leiva Poveda (2016, p. 11), parafraseado como en el capítulo 3.
+  - Referencia nueva: Lora-Tamayo Vallvé, M. (Dir.). (2020). *Manual de derecho local* (4.ª ed.). Iustel.
+- No repite el capítulo 1: ese capítulo ya explica los cuadrantes y las puntas de la red. La introducción remite a él.
+- Recursos nuevos sin número de figura: `intro_mapa` (mapa del viaje) e `intro_rutas` (rutas de lectura). Generador: `scripts/recursos/generar_intro.py`.
+- Word final57, insertado con `scripts/word_intro.py`: Título 1 la introducción, Título 2 sus secciones. Ocupa las páginas 4 a 10 del PDF renderizado; el libro tiene 1049 páginas.
+- Docs: pestaña nueva «Introducción. El camino», primera en el orden (a0), con las dos imágenes.
