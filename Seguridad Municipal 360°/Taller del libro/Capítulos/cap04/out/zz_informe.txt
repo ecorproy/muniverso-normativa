@@ -1,6 +1,4 @@
-CITAS TEXTUALES: 157 | OK: 126
-  [cap04.md] 28p | V:2025-008201:considerando IV | SIN FUENTE LOCAL | "el mandato constitucional es que el servidor público sea nom"
-  [cap04.md] 25p | V:2025-008201:considerando XXVIII | SIN FUENTE LOCAL | "también es una manifestación del principio de transparencia "
+CITAS TEXTUALES: 157 | OK: 129
   [cap04.md] 16p | D:C-131-2026:estudio general | LITERAL (sin localización que cotejar) | "se complementa con lo regulado en el propio Código Municipal"
   [cap04.md] 18p | D:C-131-2026:estudio general | LITERAL (sin localización que cotejar) | "criterios objetivos sobre la base de indicadores cuantitativ"
   [cap04.md] 12p | Zaratiegui, 1999 | , p. 82 | SIN FUENTE LOCAL | "se pueden definir como secuencias ordenadas y lógicas de act"
@@ -17,7 +15,6 @@ CITAS TEXTUALES: 157 | OK: 126
   [cap04.md] 19p | Medina León et al., 2009 | , p. 70 | SIN FUENTE LOCAL | "de ser realizados de conjunto con la Planificación Estratégi"
   [cap04.md] 12p | DE:43952:considerando IX | LITERAL (sin localización que cotejar) | "por violación a la autonomía de gobierno de las municipalida"
   [cap04.md] 27p | Vílchez Ordoñez y Sánchez Davila, 2021 | , p. 6465 | SIN FUENTE LOCAL | "brindando un trato adecuado a los clientes sean intrínsecos "
-  [cap04.md] 25p | V:2025-008201:considerando XXVIII | SIN FUENTE LOCAL | "también es una manifestación del principio de transparencia "
   [cap04.md] 21p | Cortés García, 2026 | , capítulo 25 | SIN FUENTE LOCAL | "no solo constituye un vicio formal grave, sino que represent"
   [cap04.md] 26p | Cortés García, 2026 | , capítulo 27 | SIN FUENTE LOCAL | "trasciende la corrección jurídica formal para constituirse c"
   [cap04.md] 22p | Cortés García, 2026 | , capítulo 26 | SIN FUENTE LOCAL | "el cumplimiento formal de rituales procedimentales puede coe"
@@ -33,14 +30,7 @@ CITAS TEXTUALES: 157 | OK: 126
 
 UBICACIONES VERIFICADAS A MANO (0):
 
-ERRORES (7):
-  VOTO sin archivo: 2025-008201
-  VOTO sin archivo: 2025-008201
-  VOTO sin archivo: 2025-008201
-  VOTO sin archivo: 2025-008201
-  VOTO sin archivo: 2025-008201
-  VOTO sin archivo: 2025-008201
-  VOTO sin archivo: 2025-008201
+ERRORES (0):
 
 AVISOS (0):
 
