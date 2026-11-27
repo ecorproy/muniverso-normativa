@@ -2168,3 +2168,17 @@ Responde a tres debilidades señaladas por la evaluación: la densidad documenta
   - cap04: 161 citas, 133 OK.
 - **Referencias e índice.** El artículo entra en las referencias de los caps. 1 y 4 y en el índice de obras.
 - **Entregables.** Word final71, de 1319 páginas en el PDF renderizado, y Docs actualizado.
+
+## 27 de noviembre de 2026: Osborne en la conclusión y auditoría de contradicción y exactitud (Word final72)
+
+- **Conclusión, *Seis preguntas para una municipalidad*.** Se agregó Osborne et al. (2022, p. 642), que piden indicadores que capten la creación de valor. El libro marca su diferencia: sus indicadores miden el cumplimiento de un deber jurídico, no el valor percibido.
+- **Auditoría.** Hubo 8 hallazgos y todos se corrigieron. El detalle está en `notas/Auditoría de contradicción y exactitud (27-11-2026).md`.
+  - tesis del tema 33;
+  - contraste con la PGR en el cap. 3;
+  - novedad del alcance subjetivo en el cap. 3;
+  - dos paráfrasis de Osborne, en los caps. 1 y 4;
+  - el considerando de la OCDE en el cap. 4;
+  - el dato de Reyna;
+  - la referencia del IGSM duplicada en el Word, temas 1 y 33.
+- **Cotejo.** No hay errores en los caps. 1, 3 y 4, en la conclusión ni en el tema 33.
+- **Entregables.** Word final72, de 1319 páginas en el PDF renderizado, y Docs actualizado.

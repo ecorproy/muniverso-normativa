@@ -66,7 +66,7 @@ La sustitución pregunta qué hace otro por la municipalidad. Es la competencia 
 
 El acaparamiento pregunta qué información o qué recurso queda retenido en un punto. Es la sesión que no se transmite, el dato que no se publica. Se mide por las sesiones no transmitidas, las actas publicadas fuera de plazo y los datos que la municipalidad produce y no publica.
 
-Los indicadores son una propuesta; el anexo A los completa tema por tema. Las seis preguntas tienen una séptima detrás: qué fragmento sigue vivo. La red se regenera desde un fragmento, y en los casos del libro ese fragmento fue casi siempre una persona: el padre de Heredia que durante tres años mandó denuncias con fotografías, la vecina que mostró el impacto de bala en su ventana, el vecino de Tibás que escribió una y otra vez por el parque de su barrio.
+Los indicadores son una propuesta; el anexo A los completa tema por tema. La literatura de gestión pública pide algo parecido: Osborne et al. sostienen que hacen falta indicadores de desempeño que "truly capture the dimensions of value creation/co-creation through public service delivery" (Osborne et al., 2022, p. 642). Los de este libro tienen un objeto más estrecho, porque miden el cumplimiento de un deber jurídico y no el valor que cada persona percibe. Las seis preguntas tienen una séptima detrás: qué fragmento sigue vivo. La red se regenera desde un fragmento, y en los casos del libro ese fragmento fue casi siempre una persona: el padre de Heredia que durante tres años mandó denuncias con fotografías, la vecina que mostró el impacto de bala en su ventana, el vecino de Tibás que escribió una y otra vez por el parque de su barrio.
 
 ## Volver a las dos personas
 
@@ -113,6 +113,8 @@ Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la Repúblic
 Ley N.° 8422, *Ley contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública*. (2004). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=53738&param2=151776&param3=1
 
 Ley N.° 10159, *Ley Marco de Empleo Público*. (2022). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=96521&param2=145804&param3=1
+
+Osborne, S. P., Powell, M., Cui, T., & Strokosch, K. (2022). Value creation in the public service ecosystem: An integrative framework. *Public Administration Review*, *82*(4), 634-645. https://doi.org/10.1111/puar.13474
 
 Reyna, J. J. (2015). La reforma de la Administración pública local para la tutela de los derechos fundamentales en el siglo XXI. *Revista Eurolatinoamericana de Derecho Administrativo*, *2*(1), 185-241. https://doi.org/10.14409/rr.v2i1.4636
 
