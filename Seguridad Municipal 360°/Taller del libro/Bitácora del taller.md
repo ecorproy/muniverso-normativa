@@ -2020,3 +2020,10 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
   - ninguna imagen queda por encima del título de un tema.
   - Word redistribuye los objetos flotantes por su cuenta, así que el resultado final debe verificarse en Word.
 - Word final65: 1292 páginas en el PDF renderizado, por el interlineado 1,5. Docs actualizado: cap. 3 y conclusión, con texto y referencias.
+
+## 27 de noviembre de 2026: dictamen crítico externo (81/100)
+
+- Se registró el plan de respuesta en `notas/Plan de respuesta al dictamen crítico (27-11-2026).md`.
+- Puede hacerse con las fuentes actuales: A1 a A10.
+- Necesita fuentes nuevas o una decisión del autor: B1 a B5.
+- Todavía no hay cambios en el texto.
