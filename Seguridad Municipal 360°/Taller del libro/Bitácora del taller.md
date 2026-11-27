@@ -1718,3 +1718,14 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - El autor trajo la ficha de la norma. Datos: versión 6 de 6, del 20/10/2025; vigente desde el 10/03/2023; La Gaceta N.° 45, Alcance N.° 39, del 10/03/2023; 65 artículos y 8 transitorios.
 - La copia local (`Leyes y decretos nacionales/Laboral/Decreto Ejecutivo 43952.md`) es esa misma versión 6 de 6. Las citas del libro (considerando IX) se cotejaron contra la versión vigente. Se completó el encabezado de la copia con los datos de la ficha.
 - La ficha no resuelve la fecha del voto 2021-017098. El considerando IX dice «23:15 horas de 31 de julio de 2021» y el C-136-2026 dice 1-07-2021. Sigue pendiente cotejarla en NexusPJ.
+
+## 27 de noviembre de 2026: ficha NexusPJ del voto 2021-017098 (pendiente de fecha cerrado)
+
+- El autor trajo la ficha de NexusPJ. Datos:
+  - resolución N.° 17098-2021, del 31 de julio de 2021 a las 23:15;
+  - expediente 21-011713-0007-CO;
+  - redactan Ana María Picado Brenes y Fernando Castillo Víquez;
+  - consulta legislativa facultativa, sentencia estimatoria, con voto salvado y nota separada; marcada como sentencia relevante.
+- La fecha del Decreto 43952 (considerando IX) es la correcta. El «1-07-2021» del C-136-2026 no coincide con la ficha.
+- El libro no fecha el voto: lo cita por la transcripción del reglamento. No hubo que cambiar texto.
+- Para pasar a cita directa falta el texto completo del voto en `fuentes/votos`. Con él se cita el considerando y se agrega la referencia: Sala Constitucional de la Corte Suprema de Justicia. (2021, 31 de julio). *Voto N.° 2021-017098, de las 23:15 horas* (expediente 21-011713-0007-CO). NexusPJ.
