@@ -528,6 +528,7 @@ Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas ref
 - Voto N.° 2025-041927: temas 21, 28, 35.
 - Voto N.° 2026-000643: capítulo 1; temas 5, 33; conclusión.
 - Voto N.° 2026-005199: tema 10.
+- Voto N.° 2026-005482: temas 13, 33.
 - Voto N.° 2026-008044: temas 17, 30, 33.
 - Voto N.° 2026-009053: temas 5, 28, 33.
 - Voto N.° 2026-010907: temas 11, 30, 34, 35.

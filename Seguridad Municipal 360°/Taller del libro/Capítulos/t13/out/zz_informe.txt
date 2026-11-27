@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 43 | OK: 43
+CITAS TEXTUALES: 44 | OK: 44
 
 UBICACIONES VERIFICADAS A MANO (4):
   [t13.md] O:IGSMF:p. 39: "Trámites reconocidos internacionalmente como mayor" (segmentador: ['40'])

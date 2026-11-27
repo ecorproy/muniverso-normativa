@@ -55,3 +55,5 @@ Sala Constitucional de la Corte Suprema de Justicia. (2024, 21 de junio). *Voto 
 Sala Constitucional de la Corte Suprema de Justicia. (2025, 10 de enero). *Voto N.° 2025-000577, de las 9:20 horas* (expediente 24-033215-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1296995
 
 Sala Constitucional de la Corte Suprema de Justicia. (2025, 19 de setiembre). *Voto N.° 2025-029985, de las 9:30 horas* (expediente 23-027898-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1336983
+
+Sala Constitucional de la Corte Suprema de Justicia. (2026, 13 de febrero). *Voto N.° 2026-005482, de las 9:34 horas* (expediente 26-002173-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1366995

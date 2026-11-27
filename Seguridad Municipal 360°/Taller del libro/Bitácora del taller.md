@@ -1595,3 +1595,10 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Hallazgo al cotejar: el art. 20 de la Ley 7593, reformado por la Ley 9455 de 2017, dispone que los expendedores de combustible responden, para la imposición de obligaciones tributarias, por los ingresos y costos atribuibles exclusivamente a ellos. El párrafo anterior del tema, que dejaba la corrección solo a la ley de patentes de cada cantón, ahora remite a esa reforma.
 - `build_libro.py`: las referencias del TCA llevan el enlace de NexusPJ cuando la ficha lo trae.
 - Docs: tema 36 publicado y cotejado IDÉNTICO. Word final37.
+
+## 27 de noviembre de 2026: voto 2026-005482 (Cartago, recarpeteo)
+
+- Fuente aportada por el autor con enlace: Sala Constitucional, voto N.° 2026-005482, de las 9:34 horas del 13 de febrero de 2026 (expediente 26-002173-0007-CO), https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1366995.
+- Tema 33, «Cuando la calle se cae»: el recarpeteo municipal que dejó un desnivel frente a la entrada de un condominio; respuesta durante el amparo «imprecisa y poco clara», sin la inspección solicitada; orden de resolver en un mes y notificar al medio señalado.
+- Tema 13, «La respuesta»: la respuesta vacía cuando lo pedido es una obra; la excepción a la remisión a la vía contencioso administrativa; nota del magistrado Castillo Víquez sobre la Ley 9097 y la competencia de la Sala.
+- Docs: temas 13 y 33 publicados y cotejados IDÉNTICO. Word final38.

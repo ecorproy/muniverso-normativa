@@ -90,6 +90,8 @@ Procuraduría General de la República. (2026, 19 de octubre). *Dictamen C-184-2
 
 Sala Constitucional de la Corte Suprema de Justicia. (2026, 9 de enero). *Voto N.° 2026-000643, de las 9:20 horas* (expediente 25-029929-0007-CO). NexusPJ.
 
+Sala Constitucional de la Corte Suprema de Justicia. (2026, 13 de febrero). *Voto N.° 2026-005482, de las 9:34 horas* (expediente 26-002173-0007-CO). NexusPJ. https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1366995
+
 Sala Constitucional de la Corte Suprema de Justicia. (2026, 6 de marzo). *Voto N.° 2026-008044, de las 9:25 horas* (expediente 25-037393-0007-CO). NexusPJ.
 
 Sala Constitucional de la Corte Suprema de Justicia. (2026, 13 de marzo). *Voto N.° 2026-009053, de las 9:30 horas* (expediente 26-000171-0007-CO). NexusPJ.
