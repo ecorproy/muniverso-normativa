@@ -83,7 +83,7 @@ s.add('<ellipse cx="420" cy="450" rx="400" ry="400" fill="white" stroke="#111" s
 s.add('<ellipse cx="420" cy="450" rx="280" ry="280" fill="#e6e6e6" stroke="#111" stroke-width="3"/>')
 s.add('<ellipse cx="420" cy="450" rx="150" ry="150" fill="#bdbdbd" stroke="#111" stroke-width="3"/>')
 text(s,420,435,'Núcleo',28,bold=True); text(s,420,468,'zona de certeza',21,italic=True)
-text(s,420,225,'Halo',28,bold=True); text(s,420,255,'caso por caso, mirando la realidad',20,italic=True,width=360)
+text(s,420,225,'Halo',28,bold=True); text(s,420,255,'caso por caso, en contacto con la realidad',20,italic=True,width=360)
 text(s,420,135,'Zona de certeza negativa',24,bold=True)
 zb=[('Núcleo','Desarrollo urbano (Ley 4240, art. 15); calles del cantón (Ley 5060, art. 2); licencias comerciales (voto 1997-006469); pluviales de un barrio (voto 2006-017907).','#bdbdbd',None),
     ('Halo','La mayor parte de la red del capítulo 1. Hechos que el juez comprueba enteros; valores donde la municipalidad tiene margen.','#e6e6e6',None),
@@ -99,7 +99,7 @@ cx=430
 box(s,cx-260,30,520,90,None,'Una necesidad de una persona del cantón',fill='#e6e6e6',bfs=24)
 arrow(s,cx,120,cx,170)
 diamond(s,cx,265,560,190,'¿Importa de manera directa e inmediata a las personas del cantón?')
-box(s,815,195,360,140,None,'Corresponde a otra institución: la municipalidad la insta a atenderla',bfs=21)
+box(s,815,180,360,170,None,'Corresponde a otra institución: la municipalidad la insta a atenderla y lleva a la persona hasta ella',bfs=21)
 arrow(s,cx+280,265,813,265,label='No',lx=cx+300,ly=252)
 arrow(s,cx,360,cx,410,label='Sí',lx=cx+12,ly=395)
 diamond(s,cx,500,560,180,'¿Una ley la organizó para todo el país?')

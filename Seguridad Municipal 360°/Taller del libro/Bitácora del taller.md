@@ -1688,3 +1688,27 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - `out/` del capítulo 4 conserva la forma larga del voto 2025-008201 tal como está publicada; el informe de esta sesión la marca sin archivo local.
 - Word final49 = final48 + tres párrafos sincronizados con la fuente + figura 11 + corrección de la conclusión. Fuera de títulos y citas en bloque, solo difiere de la fuente compilada en la forma larga del voto 2025-008201, que es correcta en el Word.
 - Pendientes: fecha del voto 2021-017098 en NexusPJ; guardar en la rama el juego de armado del Word (`post.py`, `ref.docx`, logo).
+
+## 27 de noviembre de 2026: nueva definición de lo local y la línea de abrazar y abrasar (Word final50)
+
+- Pedido del autor: mejorar la definición de lo local del capítulo 3 y añadir después de la cita de Leiva (p. 2) la línea «quien pide que lo abracen puede terminar abrasado» (versión A). Pidió además ajustar todo lo demás.
+- Definición nueva. Lo local:
+  - se conoce mirando la necesidad concreta de cada persona;
+  - es una competencia que la Constitución reserva;
+  - se cumple cuando el servicio llega y la persona recibe lo que necesitaba;
+  - la precisan la ley y, a falta de ella, el examen de cada caso en contacto con la realidad (lo hace la municipalidad y lo revisa el juez);
+  - cuando la necesidad corresponde a otra institución, la municipalidad insta a esa institución y lleva a la persona hasta ella;
+  - la falta de capacidad real y técnica no quita la titularidad ni el deber, que entonces consiste en procurarla y coordinar.
+- Párrafos de fuente:
+  - nuevo párrafo «Que se cumple cuando el servicio llega…», con el voto 2003-011382 (considerando IV, buen funcionamiento de los servicios públicos) y la Ley 10159, art. 28;
+  - se agregó una frase al párrafo de la sentencia de 1997 (voto 1997-006469, considerando IV: el concepto indeterminado como mandato al juez; el primer examen le toca a la municipalidad);
+  - orden nuevo de los párrafos: directa e inmediata, necesidad, reserva, probidad, cumplimiento, precisión, interpretación, convivencia y capacidad.
+- Ecos ajustados en los capítulos 1, 2 y 3. «En contacto con la realidad» reemplaza a «mirando la realidad». En la capacidad, la Sala «admitió el criterio» para que una ley «traslade» la competencia; antes decía que la ley «la desplace». El párrafo de la definición abierta mide el cumplimiento por el servicio que llega a la persona.
+- Figuras 4 (halo) y 5 (casilla de otra institución) actualizadas.
+- Referencias del capítulo 3: voto 2003-011382.
+- Docs:
+  - capítulo 1 rev 18, capítulo 2 rev 48 y capítulo 3 rev 35;
+  - blobs de las figuras 4 (`91cef556-e9a5`) y 5 (`997b416e-da6b`);
+  - exportaciones IDÉNTICAS a lo esperado (sha256 ed46ed51…, a47f1262…, cd016b03…).
+- Word final50 = final49 + estos cambios + figuras 4 y 5. Fuera de las referencias, no difiere de la fuente compilada.
+- Abierto para el autor: si lo local alcanza a quien trabaja, transita o tiene bienes en el cantón sin vivir en él. No se cambió porque haría falta otra fuente.

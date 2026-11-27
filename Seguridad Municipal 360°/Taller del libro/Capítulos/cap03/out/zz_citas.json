@@ -78,27 +78,6 @@
  },
  {
   "archivo": "cap03.md",
-  "palabras": 25,
-  "fuente": "L:8422:art. 3",
-  "estado": "OK",
-  "cita": "al identificar y atender las necesidades colectivas priorita"
- },
- {
-  "archivo": "cap03.md",
-  "palabras": 29,
-  "fuente": "L:6227:art. 10",
-  "estado": "OK",
-  "cita": "deberá ser interpretada en la forma que mejor garantice la r"
- },
- {
-  "archivo": "cap03.md",
-  "palabras": 13,
-  "fuente": "L:6227:art. 10",
-  "estado": "OK",
-  "cita": "la naturaleza y valor de la conducta y hechos a que se refie"
- },
- {
-  "archivo": "cap03.md",
   "palabras": 11,
   "fuente": "V:1999-005445:considerando X",
   "estado": "OK",
@@ -134,6 +113,20 @@
  },
  {
   "archivo": "cap03.md",
+  "palabras": 25,
+  "fuente": "L:8422:art. 3",
+  "estado": "OK",
+  "cita": "al identificar y atender las necesidades colectivas priorita"
+ },
+ {
+  "archivo": "cap03.md",
+  "palabras": 15,
+  "fuente": "V:2003-011382:considerando IV",
+  "estado": "OK",
+  "cita": "recoge como derecho fundamental de las personas el del buen "
+ },
+ {
+  "archivo": "cap03.md",
   "palabras": 23,
   "fuente": "V:1997-006469:considerando IV",
   "estado": "OK",
@@ -152,6 +145,20 @@
   "fuente": "D:C-287-2024:apartado II",
   "estado": "OK",
   "cita": "es el legislador y el juez quienes definen lo 'local'"
+ },
+ {
+  "archivo": "cap03.md",
+  "palabras": 29,
+  "fuente": "L:6227:art. 10",
+  "estado": "OK",
+  "cita": "deberá ser interpretada en la forma que mejor garantice la r"
+ },
+ {
+  "archivo": "cap03.md",
+  "palabras": 13,
+  "fuente": "L:6227:art. 10",
+  "estado": "OK",
+  "cita": "la naturaleza y valor de la conducta y hechos a que se refie"
  },
  {
   "archivo": "cap03.md",
@@ -241,21 +248,21 @@
   "archivo": "cap03.md",
   "palabras": 17,
   "fuente": "Leiva Poveda, 2016 | , p. 2",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "Debemos tener mucho cuidado con lo que deseamos, pues se nos"
  },
  {
   "archivo": "cap03.md",
   "palabras": 24,
   "fuente": "Leiva Poveda, 2016 | , p. 11",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "La búsqueda de una definición de alcance general para las 81"
  },
  {
   "archivo": "cap03.md",
   "palabras": 21,
   "fuente": "Leiva Poveda, 2016 | , p. 8",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "que se enfrenta a un callejón sin salida, en donde la determ"
  },
  {
@@ -269,56 +276,56 @@
   "archivo": "cap03.md",
   "palabras": 13,
   "fuente": "Leiva Poveda, 2016 | , p. 11",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "automáticamente colocaría en la ilegalidad a los municipios "
  },
  {
   "archivo": "cap03.md",
   "palabras": 24,
   "fuente": "Leiva Poveda, 2016 | , p. 11",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "fijaría en el tiempo los ámbitos de acción municipal, impidi"
  },
  {
   "archivo": "cap03.md",
   "palabras": 3,
   "fuente": "Leiva Poveda, 2016 | , p. 8",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "alcances y contornos"
  },
  {
   "archivo": "cap03.md",
   "palabras": 11,
   "fuente": "Leiva Poveda, 2016 | , p. 11",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "es la vía hacia el desarrollo de una verdadera descentraliza"
  },
  {
   "archivo": "cap03.md",
   "palabras": 54,
   "fuente": "García de Enterría, 1999, como se citó en Leiva Poveda, 2016 | , p. 9",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "en la estructura de todo concepto indeterminado es identific"
  },
  {
   "archivo": "cap03.md",
   "palabras": 31,
   "fuente": "García de Enterría, 1999, como se citó en Leiva Poveda, 2016 | , p. 9",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "Los primeros se ventilan en la apreciación de los hechos (si"
  },
  {
   "archivo": "cap03.md",
   "palabras": 8,
   "fuente": "García de Enterría, 1999, como se citó en Leiva Poveda, 2016 | , p. 10",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "una cierta presunción en favor de su juicio"
  },
  {
   "archivo": "cap03.md",
   "palabras": 20,
   "fuente": "García de Enterría, 1999, como se citó en Leiva Poveda, 2016 | , p. 10",
-  "estado": "OK",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "deberá normalmente conformarse con un control de los límites"
  },
  {
@@ -388,7 +395,7 @@
   "archivo": "cap03.md",
   "palabras": 14,
   "fuente": "Sheldrake, 2020 | , capítulo 2",
-  "estado": "LITERAL (sin localización que cotejar)",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "las hifas están divididas en compartimentos por poros, que p"
  },
  {
@@ -444,14 +451,14 @@
   "archivo": "cap03.md",
   "palabras": 15,
   "fuente": "Sheldrake, 2020 | , capítulo 3",
-  "estado": "LITERAL (sin localización que cotejar)",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "desde el parasitismo en un polo a las relaciones de benefici"
  },
  {
   "archivo": "cap03.md",
   "palabras": 6,
   "fuente": "Sheldrake, 2020 | , capítulo 8",
-  "estado": "LITERAL (sin localización que cotejar)",
+  "estado": "SIN FUENTE LOCAL",
   "cita": "un continuum de mutualismo a parasitismo"
  },
  {

@@ -1,7 +1,18 @@
-CITAS TEXTUALES: 78 | OK: 75
-  [cap03.md] 14p | Sheldrake, 2020 | , capítulo 2 | LITERAL (sin localización que cotejar) | "las hifas están divididas en compartimentos por poros, que p"
-  [cap03.md] 15p | Sheldrake, 2020 | , capítulo 3 | LITERAL (sin localización que cotejar) | "desde el parasitismo en un polo a las relaciones de benefici"
-  [cap03.md] 6p | Sheldrake, 2020 | , capítulo 8 | LITERAL (sin localización que cotejar) | "un continuum de mutualismo a parasitismo"
+CITAS TEXTUALES: 79 | OK: 65
+  [cap03.md] 17p | Leiva Poveda, 2016 | , p. 2 | SIN FUENTE LOCAL | "Debemos tener mucho cuidado con lo que deseamos, pues se nos"
+  [cap03.md] 24p | Leiva Poveda, 2016 | , p. 11 | SIN FUENTE LOCAL | "La búsqueda de una definición de alcance general para las 81"
+  [cap03.md] 21p | Leiva Poveda, 2016 | , p. 8 | SIN FUENTE LOCAL | "que se enfrenta a un callejón sin salida, en donde la determ"
+  [cap03.md] 13p | Leiva Poveda, 2016 | , p. 11 | SIN FUENTE LOCAL | "automáticamente colocaría en la ilegalidad a los municipios "
+  [cap03.md] 24p | Leiva Poveda, 2016 | , p. 11 | SIN FUENTE LOCAL | "fijaría en el tiempo los ámbitos de acción municipal, impidi"
+  [cap03.md] 3p | Leiva Poveda, 2016 | , p. 8 | SIN FUENTE LOCAL | "alcances y contornos"
+  [cap03.md] 11p | Leiva Poveda, 2016 | , p. 11 | SIN FUENTE LOCAL | "es la vía hacia el desarrollo de una verdadera descentraliza"
+  [cap03.md] 54p | García de Enterría, 1999, como se citó en Leiva Poveda, 2016 | , p. 9 | SIN FUENTE LOCAL | "en la estructura de todo concepto indeterminado es identific"
+  [cap03.md] 31p | García de Enterría, 1999, como se citó en Leiva Poveda, 2016 | , p. 9 | SIN FUENTE LOCAL | "Los primeros se ventilan en la apreciación de los hechos (si"
+  [cap03.md] 8p | García de Enterría, 1999, como se citó en Leiva Poveda, 2016 | , p. 10 | SIN FUENTE LOCAL | "una cierta presunción en favor de su juicio"
+  [cap03.md] 20p | García de Enterría, 1999, como se citó en Leiva Poveda, 2016 | , p. 10 | SIN FUENTE LOCAL | "deberá normalmente conformarse con un control de los límites"
+  [cap03.md] 14p | Sheldrake, 2020 | , capítulo 2 | SIN FUENTE LOCAL | "las hifas están divididas en compartimentos por poros, que p"
+  [cap03.md] 15p | Sheldrake, 2020 | , capítulo 3 | SIN FUENTE LOCAL | "desde el parasitismo en un polo a las relaciones de benefici"
+  [cap03.md] 6p | Sheldrake, 2020 | , capítulo 8 | SIN FUENTE LOCAL | "un continuum de mutualismo a parasitismo"
 
 UBICACIONES VERIFICADAS A MANO (6):
   [cap03.md] V:1999-005445:considerando VI: "sólo mediante una ley de nacionalización o de regi" (segmentador: ['RESULTANDO', 'IV'])
