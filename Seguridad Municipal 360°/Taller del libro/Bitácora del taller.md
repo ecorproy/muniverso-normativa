@@ -1712,3 +1712,9 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
   - exportaciones IDÉNTICAS a lo esperado (sha256 ed46ed51…, a47f1262…, cd016b03…).
 - Word final50 = final49 + estos cambios + figuras 4 y 5. Fuera de las referencias, no difiere de la fuente compilada.
 - Abierto para el autor: si lo local alcanza a quien trabaja, transita o tiene bienes en el cantón sin vivir en él. No se cambió porque haría falta otra fuente.
+
+## 27 de noviembre de 2026: ficha SCIJ del Decreto 43952
+
+- El autor trajo la ficha de la norma. Datos: versión 6 de 6, del 20/10/2025; vigente desde el 10/03/2023; La Gaceta N.° 45, Alcance N.° 39, del 10/03/2023; 65 artículos y 8 transitorios.
+- La copia local (`Leyes y decretos nacionales/Laboral/Decreto Ejecutivo 43952.md`) es esa misma versión 6 de 6. Las citas del libro (considerando IX) se cotejaron contra la versión vigente. Se completó el encabezado de la copia con los datos de la ficha.
+- La ficha no resuelve la fecha del voto 2021-017098. El considerando IX dice «23:15 horas de 31 de julio de 2021» y el C-136-2026 dice 1-07-2021. Sigue pendiente cotejarla en NexusPJ.

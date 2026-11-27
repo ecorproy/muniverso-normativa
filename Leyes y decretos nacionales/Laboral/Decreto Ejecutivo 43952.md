@@ -3,7 +3,13 @@ numero: "Decreto Ejecutivo 43952"
 nombre: "Reglamento a la Ley Marco de Empleo Público"
 materia: "laboral"
 version_sinalevi: "6 de 6"
+fecha_version: "20/10/2025"
 ultima_reforma: ""
+vigencia_desde: "10/03/2023"
+publicacion: "La Gaceta N.° 45, Alcance N.° 39, 10/03/2023"
+emisor: "Poder Ejecutivo"
+articulos: 65
+transitorios: 8
 enlace: ""
 fecha_norma: "28/02/2023"
 ---
