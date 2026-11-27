@@ -2,35 +2,57 @@ import sys; sys.path.insert(0,'/home/claude/figuras')
 from svglib import *
 D='/home/claude/figuras/nuevas/'
 W=1200
-# ===== A. De la meta al servicio prestado
-st=[('Concejo Municipal','Aprueba el plan de desarrollo municipal y el plan anual operativo, incorporando las necesidades e intereses de la población (CM, art. 13).','#bdbdbd'),
-    ('Alcaldía','Mantiene actualizado el manual de organización y funcionamiento, donde queda escrito el mapa de procesos (CM, art. 130).','#bdbdbd'),
-    ('Cada superior','Define los procesos y proyectos de la dependencia y los productos y servicios prestados (Ley 10159, art. 28).','#e6e6e6'),
-    ('La jefatura, al inicio del año','Asigna a cada persona servidora entre procesos, proyectos, productos y servicios, con plazos de entrega y tiempo estimado (Ley 10159, art. 29).','#e6e6e6'),
-    ('La persona servidora','Mantiene al día su desempeño en el sistema informático que la administración pone a su disposición (Ley 10159, art. 29).','white'),
-    ('La evaluación','80 % cumplimiento de metas de productos y servicios; 20 % competencias del puesto valoradas por la jefatura (Ley 2166, art. 48). Motivada y recurrible (voto 2025-008201).','white'),
-    ('Los efectos','Anualidad con «muy bueno» o su equivalente (Ley 2166, art. 48); ascensos, promociones, reconocimientos y capacitaciones (art. 49); dos evaluaciones consecutivas inferiores al 70 %: causal de despido (Ley 10159, art. 21).','white'),
-    ('La rendición de cuentas','Informe de labores de la alcaldía ante el Concejo, a disposición de los habitantes (CM, art. 17).','#e6e6e6'),
-    ('La persona del cantón','¿A quién se le prestó?','#bdbdbd')]
-side={3:'Sin seguimiento del plan anual: falta grave, previo procedimiento administrativo (art. 29).',
-      4:'Sin registro al día: falta grave, también para todo el nivel directivo (art. 29).'}
-x0,bw=120,700; y=30; gap=46; ys=[]
-s=SVG(W,10)
-for i,(t,b,f) in enumerate(st):
-    h=need_h(t,b,bw,26,22,pad=34)
-    box(s,x0,y,bw,h,t,b,fill=f,tfs=26,bfs=22,sw=4 if i==8 else 3)
-    ys.append((y,h))
-    if i in side:
-        sh=need_h(None,side[i],300,25,21,pad=30)
-        box(s,870,y+h/2-sh/2,300,sh,None,side[i],dash='9,6',bfs=21)
-        s.add(f'<line x1="{x0+bw}" y1="{y+h/2}" x2="868" y2="{y+h/2}" stroke="#111" stroke-width="2" stroke-dasharray="6,5"/>')
-    if i<8: arrow(s,x0+bw/2,y+h,x0+bw/2,y+h+gap-2)
-    y+=h+gap
-# lazo de retorno
-yl=ys[8][0]+ys[8][1]/2; yt=ys[0][0]+ys[0][1]/2
-path(s,f'M {x0} {yl} L 60 {yl} L 60 {yt} L {x0-2} {yt}',dash='10,7')
-s.add(f'<text transform="translate(45,{(yl+yt)/2}) rotate(-90)" font-size="21" font-style="italic" text-anchor="middle" fill="#333">sus necesidades vuelven al plan</text>')
-s.h=y; s.save(D+'c4_flujo.svg')
+# ===== A. De la ley a los treinta y seis temas y de los temas a los procesos
+s=SVG(W,10); y=20
+def banda(t,y):
+    s.add(f'<rect x="20" y="{y}" width="{W-40}" height="50" fill="#111"/>')
+    text(s,W/2,y+34,t,25,bold=True,fill='white'); return y+50+22
+y=banda('1. La ley obliga a planificar',y)
+L1=[('Cada superior','Define los procesos y proyectos de la dependencia y los productos y servicios prestados, de conformidad con la normativa vigente y los planes estratégicos institucionales (Ley 2166, art. 47; Ley 10159, art. 28).'),
+    ('La jefatura, al inicio del año','Distribuye a cada persona servidora entre esos procesos, proyectos, productos y servicios, con plazos de entrega y tiempo estimado (Ley 2166, art. 48; Ley 10159, art. 29).'),
+    ('Concejo y Alcaldía','Plan de desarrollo municipal y plan anual operativo con las necesidades e intereses de la población (CM, art. 13); manual de organización y funcionamiento (CM, art. 130).')]
+bw=(W-40-2*20)/3
+h=max(need_h(t,b,bw,23,20,pad=24) for t,b in L1)
+yb1=y+h/2
+for k,(t,b) in enumerate(L1):
+    box(s,20+k*(bw+20),y,bw,h,t,b,fill='#e6e6e6',tfs=23,bfs=20)
+y+=h; arrow(s,W/2,y+2,W/2,y+32); y+=36
+y=banda('2. Qué servicios: los treinta y seis temas',y)
+q=[('I. Vida','CP, art. 21','temas 1 a 9'),('II. Dignidad','CP, art. 33','temas 10 a 18'),('III. Protección especial','CP, art. 51','temas 19 a 27'),('IV. Bienestar y entorno','CP, art. 50','temas 28 a 36')]
+qw=(W-40-3*16)/4
+hq=max(need_h(a,b+'; '+c,qw,22,19,pad=22) for a,b,c in q)
+for k,(a,b,c) in enumerate(q):
+    box(s,20+k*(qw+16),y,qw,hq,a,b+'; '+c,fill='#bdbdbd',tfs=22,bfs=19)
+y+=hq+12
+nota='Cada tema parte de un deber constitucional y se comprueba contra la normativa vigente en su sección de normas: el mismo parámetro que la ley impone al superior. Es el inventario de ámbitos de servicio que la planificación necesita antes de asignar a nadie.'
+hn=need_h(None,nota,W-40,22,21,pad=26)
+box(s,20,y,W-40,hn,None,nota,fill='white',bfs=21,dash='9,6')
+y+=hn; arrow(s,W/2,y+2,W/2,y+32); y+=36
+y=banda('3. Cómo: los pasos que fijan la ley y la gestión por procesos',y)
+P=[('Identificar los procesos de cada tema','Responsable: cada superior (Ley 10159, art. 28).','ley'),
+   ('Clasificarlos y dibujar el mapa','Estratégicos, operativos y de apoyo, junto con el plan (Medina León et al., 2009, p. 70); el mapa queda en el manual (CM, art. 130).','met'),
+   ('Escribir la ficha de cada proceso','Objetivo, entradas, salidas, responsable e indicadores (Zaratiegui, 1999, p. 85).','met'),
+   ('Asignar personas y plazos','Al inicio del año, con plazos de entrega y tiempo estimado (Ley 10159, art. 29).','ley'),
+   ('Medir y registrar','Indicadores cuantitativos de metas de productos y servicios prestados (Ley 10159, art. 28); sistema informático al día (art. 29).','ley'),
+   ('Calificar','80 % metas y 20 % competencias (Ley 2166, art. 48), con la escala municipal (CM, art. 146).','ley'),
+   ('Rendir cuentas y mejorar','Informe de labores ante el Concejo y los vecinos (CM, art. 17); ciclo de Deming (Medina León et al., 2009, p. 68).','ley')]
+x0=110; pw=W-x0-20; ys=[]
+for n,(t,b,tipo) in enumerate(P):
+    hp=need_h(t,b,pw-20,23,20,pad=18)
+    s.add(f'<circle cx="60" cy="{y+hp/2}" r="26" fill="#111"/>')
+    text(s,60,y+hp/2+9,str(n+1),25,bold=True,fill='white')
+    box(s,x0,y,pw,hp,t,b,fill='#e6e6e6' if tipo=='ley' else 'white',tfs=23,bfs=20,dash=None if tipo=='ley' else '9,6')
+    ys.append((y,hp)); y+=hp
+    if n<len(P)-1: arrow(s,x0+pw/2,y+2,x0+pw/2,y+20); y+=24
+arrow(s,x0+pw/2,y+2,x0+pw/2,y+26); y+=30
+hb=80; box(s,x0+pw/2-260,y,520,hb,'La persona del cantón','¿A quién se le prestó?',fill='#bdbdbd',tfs=24,bfs=21,sw=4)
+yl=y+hb/2; yt=ys[0][0]+ys[0][1]/2
+path(s,f'M {x0+pw/2+260} {yl} L {W-6} {yl} L {W-6} {yb1} L {W-18} {yb1}',sw=2.5,dash='10,7')
+y+=hb+22
+box(s,20,y,40,26,None,None,fill='#e6e6e6',r=4,sw=2); text(s,70,y+20,'lo ordena la ley',20,anchor='start',fill='#333')
+box(s,330,y,40,26,None,None,fill='white',r=4,sw=2,dash='6,4'); text(s,380,y+20,'lo aporta la gestión por procesos',20,anchor='start',fill='#333')
+text(s,W-20,y+20,'las necesidades vuelven al plan ↺',20,anchor='end',italic=True,fill='#333')
+s.h=y+50; s.save(D+'c4_flujo.svg')
 
 # ===== B. Cuadro comparativo: cuatro fuentes por etapa
 cols=['Ley 2166','Ley 10159 (Ley Marco)','Código Municipal','Código de Trabajo']

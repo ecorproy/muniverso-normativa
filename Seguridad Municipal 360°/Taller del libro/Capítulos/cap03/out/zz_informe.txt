@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 77 | OK: 74
+CITAS TEXTUALES: 78 | OK: 75
   [cap03.md] 14p | Sheldrake, 2020 | , capítulo 2 | LITERAL (sin localización que cotejar) | "las hifas están divididas en compartimentos por poros, que p"
   [cap03.md] 15p | Sheldrake, 2020 | , capítulo 3 | LITERAL (sin localización que cotejar) | "desde el parasitismo en un polo a las relaciones de benefici"
   [cap03.md] 6p | Sheldrake, 2020 | , capítulo 8 | LITERAL (sin localización que cotejar) | "un continuum de mutualismo a parasitismo"

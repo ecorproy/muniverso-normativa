@@ -6,6 +6,8 @@ Kant, I. (1873). *Principios metafísicos del derecho* (G. Lizárraga, Trad.). L
 
 Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En *Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local?* Federación Metropolitana de Municipalidades y Municipalidad de San José.
 
+Ley N.° 2166, *Ley de Salarios de la Administración Pública*. (1957). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=3672&param2=147114&param3=1
+
 Ley N.° 4240, *Ley de Planificación Urbana*. (1968). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=35669&param2=143656&param3=1
 
 Ley N.° 5060, *Ley General de Caminos Públicos*. (1972). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=38653&param2=138745&param3=1
@@ -21,6 +23,8 @@ Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la Repúblic
 Ley N.° 8422, *Ley contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública*. (2004). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=53738&param2=151776&param3=1
 
 Ley N.° 8801, *Ley General de transferencia de competencias del Poder Ejecutivo a las Municipalidades*. (2010). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=67855&param2=80560&param3=1
+
+Ley N.° 10159, *Ley Marco de Empleo Público*. (2022). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=96521&param2=145804&param3=1
 
 Procuraduría General de la República. (2013, 11 de febrero). *Dictamen C-015-2013*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=17915&param2=0
 

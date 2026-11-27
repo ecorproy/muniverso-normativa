@@ -11,7 +11,7 @@ figs=[('Discapacidad, cultura, ambiente, trabajo, emergencias, presupuesto','des
  ('Cada tema responde una sola pregunta','despues',N+'tema.png','Cómo está hecho cada tema.','16.5cm'),
  ('Las dos leyes no están solas en una municipalidad','despues',(N+'c4_cuadro_a.png',N+'c4_cuadro_b.png'),'La evaluación del desempeño en la Ley 2166, la Ley Marco de Empleo Público, el Código Municipal y el Código de Trabajo.','16.5cm'),
  ('De esa revisión salen rasgos','despues',N+'c4_proceso.png','Anatomía de un proceso y mapa de procesos de una municipalidad.','16cm'),
- ('Los mismos autores proponen que identificar','despues',N+'c4_flujo.png','Del plan a la persona: cómo se encadenan el plan, los procesos, las metas, la evaluación y la rendición de cuentas.','15cm'),
+ ('De ese mismo deber sale el índice de este libro','despues',N+'c4_flujo.png','De la ley a los treinta y seis temas y de los temas a los procesos.','14.5cm'),
  ('La Ley Marco agrega además una consecuencia','despues',N+'c4_nota.png','Cómo se compone la calificación y qué produce.','16cm'),
  ('En una municipalidad estas reglas tienen un límite','despues',N+'c4_autonomia.png','Quién fija cómo se evalúa al personal municipal.','14cm'),
  ('Esa lectura tiene apoyo técnico','despues',N+'c4_contraste.png','Producto interno y servicio prestado.','14cm'),

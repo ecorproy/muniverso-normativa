@@ -104,6 +104,8 @@ El orden va de adentro hacia afuera. Primero la persona viva, después la person
 
 Cada cuadrante tiene nueve temas, y los cuatro suman treinta y seis. El título no es una suma de grados. Los trescientos sesenta grados son la vuelta completa: todo lo local que rodea a las dos personas del núcleo. Los treinta y seis temas son lo que este libro alcanzó a identificar dentro de esa vuelta.
 
+Identificarlos no fue un ejercicio libre. La Ley Marco de Empleo Público obliga a cada superior a definir los procesos y los proyectos de su dependencia y los productos y servicios que presta, "de conformidad con la normativa vigente y los planes estratégicos gubernamentales institucionales" (Ley N.° 10159, 2022, art. 28), con la misma fórmula que ya traía la Ley de Salarios de la Administración Pública (Ley N.° 2166, 1957, art. 47). Esa obligación supone saber antes en qué ámbitos presta servicios la municipalidad, y los treinta y seis temas son ese inventario: cada uno parte de un deber constitucional y se comprueba contra la normativa vigente en su sección de normas. El capítulo 4 muestra cómo, desde ahí, la ley y la gestión por procesos fijan los pasos para que cada servicio llegue a una persona.
+
 La comparación más exacta es la del genoma. Los genes están en el núcleo de la célula, y a partir de ellos la célula produce lo que circula por su citoplasma. Los derechos y deberes de las dos personas son ese código, y cada servicio municipal es algo que la célula produce a partir de él. Conocer la secuencia de un genoma no equivale a saber qué hace cada una de sus partes, y con lo local pasa algo parecido. Entre un tema y el siguiente puede haber diez servicios más, o más todavía, que este libro no nombró: una necesidad nueva, una ley reciente, un caso que nadie había previsto. Cuando aparezcan no habrá que reformular el modelo, porque estaban en el código desde el principio: salen de la misma relación entre las dos personas y de la misma Constitución, sin perjuicio de la habilitación normativa que su ejercicio requiera.
 
 Este libro es, por eso, un mapa incompleto, y lo dice a propósito. Otras investigaciones pueden completarlo, y cada tema que se identifique después se lee con las mismas reglas: la definición de lo local de este capítulo, la técnica de los conceptos indeterminados que propone Leiva y la pregunta de qué se mide. Los treinta y seis temas son ámbitos reconocibles de la acción municipal, no listas de actuaciones obligatorias. Dentro de cada uno hay actuaciones propias de la municipalidad, otras que comparte con instituciones nacionales y otras que no le corresponden, y cada actuación concreta debe pasar por las tres zonas de la técnica de los conceptos indeterminados: la zona de certeza, el halo y la zona de certeza negativa. Lo que queda entre un tema y otro vive en el halo hasta que una investigación lo nombre.
@@ -132,6 +134,8 @@ Kant, I. (1873). *Principios metafísicos del derecho* (G. Lizárraga, Trad.). L
 
 Leiva Poveda, J. (2016). La elusiva definición de “lo local”, que de existir perjudicaría a las municipalidades. En *Memoria. V Congreso Jurídico Nacional Municipal: Dr. Mauro Murillo Arias. Competencias municipales: ¿Qué es lo local?* Federación Metropolitana de Municipalidades y Municipalidad de San José.
 
+Ley N.° 2166, *Ley de Salarios de la Administración Pública*. (1957). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=3672&param2=147114&param3=1
+
 Ley N.° 4240, *Ley de Planificación Urbana*. (1968). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=35669&param2=143656&param3=1
 
 Ley N.° 5060, *Ley General de Caminos Públicos*. (1972). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=38653&param2=138745&param3=1
@@ -147,6 +151,8 @@ Ley N.° 7794, *Código Municipal*. (1998). Asamblea Legislativa de la Repúblic
 Ley N.° 8422, *Ley contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública*. (2004). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=53738&param2=151776&param3=1
 
 Ley N.° 8801, *Ley General de transferencia de competencias del Poder Ejecutivo a las Municipalidades*. (2010). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=67855&param2=80560&param3=1
+
+Ley N.° 10159, *Ley Marco de Empleo Público*. (2022). Asamblea Legislativa de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=96521&param2=145804&param3=1
 
 Procuraduría General de la República. (2013, 11 de febrero). *Dictamen C-015-2013*. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosPronunciamiento/Informacion?param1=17915&param2=0
 

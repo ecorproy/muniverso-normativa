@@ -1,4 +1,4 @@
-CITAS TEXTUALES: 133 | OK: 124
+CITAS TEXTUALES: 134 | OK: 125
   [cap04.md] 16p | D:C-131-2026:estudio general | LITERAL (sin localización que cotejar) | "se complementa con lo regulado en el propio Código Municipal"
   [cap04.md] 18p | D:C-131-2026:estudio general | LITERAL (sin localización que cotejar) | "criterios objetivos sobre la base de indicadores cuantitativ"
   [cap04.md] 21p | Cortés García, 2026 | , capítulo 25 | LITERAL (sin localización que cotejar) | "no solo constituye un vicio formal grave, sino que represent"

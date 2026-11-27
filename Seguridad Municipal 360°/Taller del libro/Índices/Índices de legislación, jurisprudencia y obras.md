@@ -20,7 +20,7 @@ Cada norma remite a los capítulos y temas en cuyas referencias aparece.
 - Ley N.° 1860, Ley Orgánica del Ministerio de Trabajo y Seguridad Social (1955): temas 19, 20.
 - Ley N.° 2035, Ley Orgánica del Consejo Nacional de Producción (1956): tema 3.
 - Ley N.° 2160, Ley Fundamental de Educación (1957): tema 25.
-- Ley N.° 2166, Ley de Salarios de la Administración Pública (1957): capítulo 4.
+- Ley N.° 2166, Ley de Salarios de la Administración Pública (1957): capítulos 3, 4.
 - Ley N.° 2171, Ley del Patronato Nacional de Ciegos (1957): tema 24.
 - Ley N.° 2391, Disposiciones sobre matrícula y vacunación de perros (1959): temas 1, 31.
 - Ley N.° 2694, Prohibe toda clase de discriminación en materia laboral (1960): tema 10.
@@ -173,7 +173,7 @@ Cada norma remite a los capítulos y temas en cuyas referencias aparece.
 - Ley N.° 10126, Ley de comercio al aire libre (2022): temas 18, 27, 36.
 - Ley N.° 10141, Servicio municipal de atención de animales de compañía (2022): temas 1, 31, 36.
 - Ley N.° 10158, Consolidación del Centro Operativo de atención a la violencia intrafamiliar y la Violencia contra las Mujeres (COAVIFMU) y declaratoria de los servicios de atención de la violencia contra las mujeres como servicio esencial (2022): tema 26.
-- Ley N.° 10159, Ley Marco de Empleo Público (2022): capítulo 4; temas 2, 18, 20, 24, 25; conclusión.
+- Ley N.° 10159, Ley Marco de Empleo Público (2022): capítulos 3, 4; temas 2, 18, 20, 24, 25; conclusión.
 - Ley N.° 10163, Ley para el fortalecimiento de facilidades comunales y programas sociales municipales (2022): tema 23.
 - Ley N.° 10192, Creación del Sistema Nacional de Cuidados y Apoyos para Personas Adultas y Personas Adultas Mayores en Situación de Dependencia (Sinca) (2022): temas 9, 25.
 - Ley N.° 10199, Ley de vivienda municipal (2022): temas 19, 32.
