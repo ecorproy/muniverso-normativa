@@ -103,7 +103,7 @@
 <line x1="645.0" y1="1606.4499999999996" x2="645.0" y2="1630.4499999999996" stroke="#111" stroke-width="3" marker-end="url(#ar)"/>
 <rect x="385.0" y="1634.4499999999996" width="520" height="80" rx="14" fill="#bdbdbd" stroke="#111" stroke-width="4"/>
 <text x="645.0" y="1662.3" font-size="24" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">La persona del cantón</text>
-<text x="645.0" y="1703.2" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">¿A quién se le prestó?</text>
+<text x="645.0" y="1703.2" font-size="21" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">¿Qué recibió y quién se lo prestó?</text>
 <path d="M 905.0 1674.4499999999996 L 1194 1674.4499999999996 L 1194 224.1 L 1182 224.1" fill="none" stroke="#111" stroke-width="2.5" marker-end="url(#ar)" stroke-dasharray="10,7"/>
 <rect x="20" y="1736.4499999999996" width="40" height="26" rx="4" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
 <text x="70.0" y="1756.4" font-size="20" font-weight="normal" font-style="normal" text-anchor="start" fill="#333">lo ordena la ley</text>

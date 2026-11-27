@@ -45,7 +45,7 @@ for n,(t,b,tipo) in enumerate(P):
     ys.append((y,hp)); y+=hp
     if n<len(P)-1: arrow(s,x0+pw/2,y+2,x0+pw/2,y+20); y+=24
 arrow(s,x0+pw/2,y+2,x0+pw/2,y+26); y+=30
-hb=80; box(s,x0+pw/2-260,y,520,hb,'La persona del cantón','¿A quién se le prestó?',fill='#bdbdbd',tfs=24,bfs=21,sw=4)
+hb=80; box(s,x0+pw/2-260,y,520,hb,'La persona del cantón','¿Qué recibió y quién se lo prestó?',fill='#bdbdbd',tfs=24,bfs=21,sw=4)
 yl=y+hb/2; yt=ys[0][0]+ys[0][1]/2
 path(s,f'M {x0+pw/2+260} {yl} L {W-6} {yl} L {W-6} {yb1} L {W-18} {yb1}',sw=2.5,dash='10,7')
 y+=hb+22
@@ -178,8 +178,8 @@ box(s,740,350,420,300,'Producto recibido','La basura recogida. La acera construi
 arrow(s,465,500,734,500,sw=4)
 text(s,600,460,'solo cuenta',20,italic=True,fill='#333')
 text(s,600,546,'si el expediente',18,italic=True,fill='#333'); text(s,600,568,'termina en un producto',18,italic=True,fill='#333'); text(s,600,590,'que una persona recibió',18,italic=True,fill='#333')
-s.add('<ellipse cx="600" cy="755" rx="300" ry="70" fill="#e6e6e6" stroke="#111" stroke-width="4"/>')
-text(s,600,767,'¿Qué recibió la persona?',32,bold=True)
+s.add('<ellipse cx="600" cy="755" rx="430" ry="70" fill="#e6e6e6" stroke="#111" stroke-width="4"/>')
+text(s,600,766,'¿Qué recibió la persona y quién se lo prestó?',29,bold=True)
 foot=['Servir a cada administrado (LGAP, art. 114) y leer las normas por su fin (LGAP, art. 10).',
       'Ninguna evaluación contra reglas unívocas de la ciencia o de la técnica (LGAP, art. 16).',
       'Premiar el desempeño deficiente viola la idoneidad comprobada (voto 2025-008201).']

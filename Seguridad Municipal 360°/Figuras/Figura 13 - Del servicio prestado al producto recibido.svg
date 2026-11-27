@@ -35,8 +35,8 @@
 <text x="600.0" y="546.0" font-size="18" font-weight="normal" font-style="italic" text-anchor="middle" fill="#333">si el expediente</text>
 <text x="600.0" y="568.0" font-size="18" font-weight="normal" font-style="italic" text-anchor="middle" fill="#333">termina en un producto</text>
 <text x="600.0" y="590.0" font-size="18" font-weight="normal" font-style="italic" text-anchor="middle" fill="#333">que una persona recibió</text>
-<ellipse cx="600" cy="755" rx="300" ry="70" fill="#e6e6e6" stroke="#111" stroke-width="4"/>
-<text x="600.0" y="767.0" font-size="32" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">¿Qué recibió la persona?</text>
+<ellipse cx="600" cy="755" rx="430" ry="70" fill="#e6e6e6" stroke="#111" stroke-width="4"/>
+<text x="600.0" y="766.0" font-size="29" font-weight="bold" font-style="normal" text-anchor="middle" fill="#111">¿Qué recibió la persona y quién se lo prestó?</text>
 <text x="600.0" y="880.0" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Servir a cada administrado (LGAP, art. 114) y leer las normas por su fin (LGAP, art. 10).</text>
 <text x="600.0" y="914.0" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Ninguna evaluación contra reglas unívocas de la ciencia o de la técnica (LGAP, art. 16).</text>
 <text x="600.0" y="948.0" font-size="20" font-weight="normal" font-style="normal" text-anchor="middle" fill="#333">Premiar el desempeño deficiente viola la idoneidad comprobada (voto 2025-008201).</text></svg>
