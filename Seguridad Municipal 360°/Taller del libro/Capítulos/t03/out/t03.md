@@ -2,6 +2,8 @@
 
 Nov 23, 2026 · @Edward Cortés García
 
+*Tesis del tema.* Este libro sostiene que la alimentación existe en el cantón cuando el gobierno local abre el lugar donde el productor encuentra al consumidor, gobierna con reglas claras su propio mercado, compra para sus servicios a quien la ley le indica, licencia con agilidad y con la condición sanitaria a quien abastece y hace llegar la ayuda a quien la necesita.
+
 ## El caso
 
 En junio de 1997, el Concejo Municipal de Goicoechea acordó preguntar a la Procuraduría General de la República si podía "legal y moralmente" (Procuraduría General de la República, dictamen C-243-1997, 1997, planteamiento de la consulta) dar la administración de la feria del agricultor del cantón a una asociación cuyo representante legal era un regidor propietario. El departamento legal de la Municipalidad había opinado que un regidor puede ser miembro de una asociación de desarrollo y de su junta directiva, pero que tiene impedimento para ser parte en una negociación entre la Municipalidad y la asociación que representa. La Procuraduría advirtió de entrada que sus pronunciamientos "no podrían valorar el ajuste moral de una posible decisión administrativa" (C-243-1997, planteamiento de la consulta) y que su respuesta sería solo jurídica.

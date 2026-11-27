@@ -2,6 +2,8 @@
 
 Nov 23, 2026 · @Edward Cortés García
 
+*Tesis del tema.* Este libro sostiene que el gobierno local cumple la protección especial de la persona adulta mayor en tres ámbitos: la atención al público, la hacienda y el territorio.
+
 ## El caso
 
 Una mujer de setenta y un años llegó a la plataforma de servicios de la Municipalidad de Naranjo y preguntó por la fila preferencial. Le respondieron que no había atención preferencial por falta de personal. Sabía, además, que desde hacía más de un año y medio el ascensor que da acceso al segundo piso del edificio municipal estaba dañado y que había una orden sanitaria por ello (Sala Constitucional, voto N.° 2024-017189, de las 9:20 horas del 21 de junio de 2024, considerando I). Acudió a la Sala Constitucional.

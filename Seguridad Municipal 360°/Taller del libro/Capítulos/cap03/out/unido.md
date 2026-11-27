@@ -62,6 +62,22 @@ Conviene separar lo heredado de lo propio. Que lo local es un concepto indetermi
 
 Lo que este libro agrega es la manera de unir esas piezas. Primero, desplaza el punto de partida: lo local se reconoce mirando a la persona que necesita, y no al territorio o a la oficina. Segundo, extiende el alcance subjetivo a quien está en el cantón sin residir en él. Tercero, organiza el ámbito de lo local en treinta y seis temas y cuatro cuadrantes, con una forma única de examinarlos. Cuarto, convierte cada tema en una comparación entre lo exigible y lo que hoy se mide. Y quinto, ofrece una tipología de las fallas, las seis formas en que muere la red, para diagnosticar cualquier servicio. Ninguna de esas operaciones contradice a la Sala ni a la Procuraduría; las supone. La pregunta que queda es si la definición sirve para resolver algo que la fórmula anterior no resolvía.
 
+## La definición frente a otras construcciones
+
+La definición de este libro no es la primera respuesta a la pregunta de qué es lo local, y su novedad solo se aprecia frente a las anteriores. Hay cinco con las que conviene medirla.
+
+La primera es la de Eduardo Ortiz Ortiz, que leyó por separado las dos palabras del artículo 169. Los servicios son la actividad municipal dirigida a satisfacer una necesidad de la colectividad, y los intereses, cualesquiera otros fines de igual alcance que se logran por medios distintos del servicio público (Ortiz Ortiz, 1987, como se citó en Leiva Poveda, 2016, p. 3). Su criterio es el objeto: qué clase de actividad es. Este libro conserva la distinción y cambia el punto de mira: no pregunta primero qué clase de actividad es, sino a quién le importa y si le llega.
+
+La segunda es la de Ernesto Jinesta Lobo, para quien las municipalidades son entes territoriales de fin general, a los que corresponde cualquier interés o servicio que tenga la connotación de local (Jinesta Lobo, 2002, como se citó en Leiva Poveda, 2016, pp. 3-4). Su criterio es la naturaleza del ente. Explica por qué la competencia es genérica, pero no dice cuándo se cumple. Este libro agrega esa medida: la competencia se cumple cuando el servicio llega a la persona.
+
+La tercera es la de Jorge Leiva Poveda, que rechazó una definición general para todas las municipalidades y propuso tratar lo local como concepto jurídico indeterminado, con su núcleo, su halo y su zona negativa (Leiva Poveda, 2016, pp. 9-11). Su criterio es la técnica de determinación. Este libro la adopta entera y se separa de ella en un punto: sí propone una definición, pero hecha de criterios y no de materias, de modo que no fija en el tiempo los ámbitos de acción ni toma como modelo a una municipalidad determinada.
+
+La cuarta es la de la Sala Constitucional, que definió el interés local como lo que importa al cantón de manera directa e inmediata (voto 2006-017907, cons. III). Su criterio es la intensidad del interés. Este libro conserva la intensidad y cambia el sujeto: lo que importa es a las personas que habitan el cantón o se encuentran en él. La sección siguiente muestra qué cambia con ello.
+
+La quinta es la lectura histórica de Ronald Alfaro Redondo, según la cual las instituciones autónomas creadas después de 1949 dejaron a las municipalidades con funciones residuales (Alfaro Redondo, 2009/2025, p. 10). Su criterio es la distribución efectiva de funciones. Este libro parte del mismo diagnóstico, pero lee lo local como una reserva constitucional y no como un residuo: lo que la ley no ha trasladado sigue siendo deber municipal.
+
+Ninguna de esas construcciones mide el cumplimiento por lo que recibe la persona, ni ordena el ámbito de lo local en temas examinados con una misma pregunta. Ese es el aporte que este libro reclama frente a la doctrina costarricense. La comparación con el derecho local de otros países excede este libro.
+
 ## Tres casos difíciles y un límite
 
 La fórmula de la Sala define el interés local como "todo aquel de naturaleza pública que importa al cantón de manera directa e inmediata" (voto 2006-017907, cons. III). La definición de este libro cambia el sujeto: lo que importa a las personas que habitan el cantón o se encuentran en él. La diferencia parece pequeña, pero se nota en tres casos.
@@ -142,7 +158,7 @@ Los casos que abren y recorren cada tema se escogieron porque muestran un deber 
 
 Las fuentes no pesan lo mismo, y el libro lo tiene presente. La jurisprudencia y los precedentes de la Sala Constitucional "son vinculantes erga omnes, salvo para sí misma" (Ley N.° 7135 [LJC], 1989, art. 13). Los dictámenes de la Procuraduría "son de acatamiento obligatorio para la Administración Pública" (Ley N.° 6815, 1982, art. 2). Las sentencias de otras jurisdicciones resuelven el caso concreto y orientan. El reglamento de una municipalidad obliga en su cantón, y en los demás vale como práctica que puede copiarse, no como deber. De cada sentencia se distingue además la regla que sostiene la decisión de las medidas que ordenó para ese caso, que no se trasladan sin más a otro cantón.
 
-En cada tema hay cuatro clases de afirmaciones: lo que dice una norma, lo que interpretó un tribunal o un órgano consultivo, lo que resulta de leer varias normas juntas y lo que el libro propone para mejorar la gestión. Las dos primeras llevan su cita. La tercera se presenta como lectura del libro, con las normas que la sostienen. La cuarta se presenta como propuesta, y es buena parte del aporte del libro.
+En cada tema hay cuatro clases de afirmaciones: lo que dice una norma, lo que interpretó un tribunal o un órgano consultivo, lo que resulta de leer varias normas juntas y lo que el libro propone para mejorar la gestión. Las dos primeras llevan su cita. La tercera se presenta como lectura del libro, con las normas que la sostienen. La cuarta se presenta como propuesta, y es buena parte del aporte del libro. Para que la voz del autor no se confunda con la de sus fuentes, cada tema abre con su tesis, introducida con la fórmula *Este libro sostiene*, y las lecturas y propuestas propias se reconocen por esa misma voz: el libro sostiene, el libro propone. Lo que dicen la Sala, la Procuraduría, el legislador o un autor va siempre con su nombre y su cita.
 
 ## Cómo está hecho cada tema
 
@@ -151,6 +167,8 @@ Cada tema responde una sola pregunta: cómo puede y debe el gobierno local hacer
 Antes de los temas va un capítulo más. Si la persona está en el centro, hay que decir quién la sirve y con qué derecho puede exigir que la sirvan bien. De eso trata el capítulo 4.
 
 ## Referencias
+
+Alfaro Redondo, R. (2025). *El régimen municipal costarricense a inicios del siglo XXI* (Cuadernos para la Ciudadanía 8). Editorial Universidad de Costa Rica. (Trabajo original publicado en 2009)
 
 Constitución Política de la República de Costa Rica. (1949). Asamblea Nacional Constituyente. Sistema Costarricense de Información Jurídica.
 

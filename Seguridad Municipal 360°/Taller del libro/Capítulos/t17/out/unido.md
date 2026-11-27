@@ -2,6 +2,8 @@
 
 Nov 25, 2026 · @Edward Cortés García
 
+*Tesis del tema.* Este libro sostiene que el acceso digital es un derecho, y la municipalidad lo afecta por dos caminos: la infraestructura que facilita o entorpece y los canales propios que abre o cierra. En el primero su autonomía cede ante una política nacional; en el segundo sus deberes son propios y tienen plazos.
+
 ## El caso
 
 El 1 de julio de 2020, un vecino de Upala preguntó por el perfil de Facebook de la municipalidad dónde podía ver las sesiones del Concejo. La respuesta llegó por el mismo medio: "por el momento las sesiones del Concejo Municipal no son transmitidas" (Sala Constitucional, voto N.° 2020-016680, de las 9:15 horas del 4 de setiembre de 2020, considerando II). Ese mismo día pidió a la secretaría las órdenes del día, las actas y el enlace de las transmisiones, y se le contestó que todo lo relacionado con actas o acuerdos se tramitaba en esa oficina "mediante solicitud firmada por la persona solicitante" (voto 2020-016680, cons. II). Dos días después presentó un recurso de amparo (voto 2020-016680, result. 1).

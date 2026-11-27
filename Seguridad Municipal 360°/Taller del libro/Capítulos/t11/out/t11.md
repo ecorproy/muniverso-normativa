@@ -2,6 +2,8 @@
 
 Nov 25, 2026 · @Edward Cortés García
 
+*Tesis del tema.* Este libro sostiene que el gobierno local hace que exista la igualdad de género cuando cumple el ciclo que el Código Municipal le asigna, desde el programa de la alcaldía hasta el informe anual, y cuando revisa sus servicios y su propio empleo con las necesidades diferenciadas de mujeres y hombres a la vista.
+
 ## El caso
 
 En septiembre de 2024, la Defensoría de los Habitantes conminó a la Municipalidad de Belén a llevar a cabo las acciones administrativas necesarias para habilitar una sala de lactancia, y la Alcaldía comunicó formalmente, días después, el inicio de esas acciones (Sala Constitucional, voto N.° 2026-014377, de las 9:20 horas del 24 de abril de 2026, resultando 3). En 2025 la sala seguía pendiente. En una sesión del Concejo, según lo transcribió quien luego acudió a la Sala Constitucional, la alcaldesa dijo que la Defensoría "nos pide que eso es por ley, que nosotros no hemos atendido" (voto 2026-014377, result. 1). La Municipalidad había escogido para la sala el primer piso de la edificación que colinda con las canchas multiuso situadas detrás del edificio municipal (voto 2026-014377, result. 3).

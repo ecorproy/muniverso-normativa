@@ -2064,3 +2064,27 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Índices: se agregaron las remisiones de Ley 10159 y Ley 7794 (anexos), del voto 2026-014917 (caps. 1 y 3), del voto 2024-029734 (cap. 3) y de Naciones Unidas (cap. 3).
 - Word final66: 1306 páginas en el PDF renderizado. Docs actualizado, con la pestaña nueva «Anexos» (orden d2).
 - Pendientes que necesitan fuentes del autor: B1 a B5 del plan.
+
+## 27 de noviembre de 2026: voz del autor y novedad doctrinal (Word final67)
+
+Responde a tres debilidades señaladas por la evaluación: la densidad documental, la falta de diferenciación doctrinal y la novedad no demostrada.
+
+- **Tesis de cada tema.** Los 36 temas abren con un párrafo, *Tesis del tema.* «Este libro sostiene que…», antes de «El caso».
+  - Se redactó a partir de la conclusión de cada tema, sin fuentes nuevas.
+  - En los temas 12 a 18, 22, 25, 26 y 28 a 35, la conclusión empieza con una pregunta, así que la tesis se formuló desde su contenido.
+  - Las tesis de los temas 34 y 35 se ajustaron a lo que dicen sus conclusiones: el estudio de incorporación ante el Ministerio y el comité como órgano adscrito.
+- **Convención de voz (cap. 3, «Cómo se construyó el libro»).** Lo propio va con la fórmula «el libro sostiene» o «el libro propone»; lo ajeno, siempre con nombre y cita.
+- **Contraste doctrinal (cap. 3, sección nueva «La definición frente a otras construcciones»).** Compara la definición del libro con cinco construcciones, cada una con su criterio:
+  - Ortiz Ortiz: el objeto;
+  - Jinesta Lobo: la naturaleza del ente;
+  - Leiva Poveda: la técnica de determinación;
+  - la Sala Constitucional, voto 2006-017907: la intensidad del interés;
+  - Alfaro Redondo: la distribución efectiva de funciones.
+  - Ortiz y Jinesta se citan tal como los recoge Leiva. Se declara que la comparación con otros países excede el libro.
+- **Referencias e índice.** Alfaro entra en las referencias del cap. 3, y su entrada del índice de obras remite ahora también al cap. 3.
+- **Cotejo.**
+  - cap03 da 93/90, sin cambio; las secciones nuevas no tienen citas textuales.
+  - Los 36 temas reconstruidos dan las mismas cifras que antes.
+  - El t20 no pudo reconstruirse, porque falta la fuente local de la estructura programática de la CGR. Se le insertó la tesis sobre la salida anterior.
+- **Pendiente.** La revisión frase por frase de los 36 apartados «Cómo hace el gobierno local…», para confirmar que ninguna propuesta propia quedó atribuida a una autoridad.
+- **Entregables.** Word final67, de 1314 páginas en el PDF renderizado, y Docs actualizado: 36 tesis y el cap. 3.

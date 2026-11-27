@@ -2,6 +2,8 @@
 
 Nov 23, 2026 · @Edward Cortés García
 
+*Tesis del tema.* Este libro sostiene que la salud mental existe en el cantón cuando el gobierno local cuida el entorno que la produce, acompaña a las personas en los servicios que ya presta, trata bien a quienes trabajan para él y coordina con la autoridad sanitaria lo que solo él sabe del territorio. La municipalidad no atiende trastornos mentales, pero administra muchas de las condiciones de las que depende que la gente no los sufra, o que los sufra acompañada.
+
 ## El caso
 
 La Municipalidad de Desamparados preparó su primera política dirigida a la niñez y la adolescencia, una población que equivale a cerca de la cuarta parte de sus habitantes (Municipalidad de Desamparados, 2023, presentación). El proceso nació en la Comisión de Niñez y Adolescencia del Concejo Municipal y empezó con un taller con representantes de organizaciones públicas y sociales vinculadas con esa población (Municipalidad de Desamparados, 2023, marco metodológico); después se consultó en talleres a niñas, niños, adolescentes y personas adultas del cantón (Municipalidad de Desamparados, 2023, eje Salud).

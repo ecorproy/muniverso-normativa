@@ -2,6 +2,8 @@
 
 Nov 25, 2026 · @Edward Cortés García
 
+*Tesis del tema.* Este libro sostiene que el gobierno local hace que exista la igualdad cuando reparte sus servicios de modo que nadie quede excluido por lo que es o por dónde vive, y cuando corrige la exclusión que producen sus propios criterios.
+
 ## El caso
 
 La comunidad de San Miguel está en el territorio indígena cabécar de Talamanca. Para llegar al CINDEA Satélite China Kichá, donde estudia una de las personas amparadas, y al EBAIS China Kichá, en El Progreso, donde otras tres, adultas mayores y con padecimientos de salud, reciben atención médica y retiran sus medicamentos, deben recorrer el camino cantonal 7-01-066, a cargo de la Municipalidad de Limón (Sala Constitucional, voto N.° 2026-013450, de las 9:20 horas del 21 de abril de 2026, considerando II). Del camino, 6 kilómetros están dentro del territorio indígena y son intransitables, hecho que no fue controvertido (voto 2026-013450, cons. II). Según el recurso, la Municipalidad nunca había intervenido ese tramo, un sector se había hundido, el río Moy era casi imposible de pasar por las piedras acumuladas y no entraba transporte público (voto 2026-013450, result. 1).

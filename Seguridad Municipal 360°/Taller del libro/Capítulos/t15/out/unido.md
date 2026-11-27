@@ -2,6 +2,8 @@
 
 Nov 25, 2026 · @Edward Cortés García
 
+*Tesis del tema.* Este libro sostiene que la participación del vecino en las decisiones del gobierno local es un mandato de la Constitución y del Código, y cada instrumento de participación tiene efectos propios. Cumplir la forma de una audiencia o de una consulta es condición de validez de lo que se decide después.
+
 ## El caso
 
 El plan regulador costero del distrito de Cahuita, en Talamanca, lo elaboró el Instituto Nacional de Vivienda y Urbanismo por convenio con la Municipalidad, suscrito en 2017. En julio de 2018 hubo talleres informativos en Cahuita, Manzanillo y Puerto Viejo, y en enero de 2023 la Secretaría Técnica Nacional Ambiental otorgó la viabilidad ambiental a una propuesta que abarcaba áreas dentro del territorio indígena de Keköldi y áreas adyacentes (Sala Constitucional, voto N.° 2023-031756, de las 9:30 horas del 7 de diciembre de 2023, considerando III). En mayo de ese año excluyó de la viabilidad la finca que se traslapaba con el territorio, porque no forma parte de la administración municipal (voto 2023-031756, cons. V). El 21 de junio de 2023, el Concejo convocó una audiencia pública para el 4 de agosto en la plaza de fútbol de Hone Creek; según quienes recurrieron, la convocatoria se hizo "sin ninguna referencia específica, a la situación del pueblo indígena en cuestión" (voto 2023-031756, cons. V). La Sala comprobó que los integrantes de una organización del territorio de Keköldi que acudieron a ella no fueron convocados (voto 2023-031756, cons. V).

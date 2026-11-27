@@ -930,7 +930,7 @@ Cada resolución, dictamen u oficio remite a los capítulos y temas en cuyas ref
 
 Doctrina, informes y documentos institucionales que no son normas ni resoluciones.
 
-- Alfaro Redondo, R. (2025). El régimen municipal costarricense a inicios del siglo XXI (Cuadernos para la Ciudadanía 8). Editorial Universidad de Costa Rica. (Trabajo original publicado en 2009): capítulo 2; tema 15; conclusión.
+- Alfaro Redondo, R. (2025). El régimen municipal costarricense a inicios del siglo XXI (Cuadernos para la Ciudadanía 8). Editorial Universidad de Costa Rica. (Trabajo original publicado en 2009): capítulos 2, 3; tema 15; conclusión.
 - Conan Doyle, A. (s. f.). El valle del terror. Fundación Carlos Slim. (Obra original publicada en 1915): capítulo 1.
 - Consejo para la Promoción de la Competitividad. (2026). Índice de Competitividad Nacional 2026. https://icn.cr/: temas 19, 36.
 - Cortés García, E. (2026). Derecho municipal: Impugnación, veto y revisión de actos administrativos. Tirant lo Blanch: introducción; capítulos 2, 4.

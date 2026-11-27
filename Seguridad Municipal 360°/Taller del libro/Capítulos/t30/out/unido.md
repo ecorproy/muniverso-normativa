@@ -2,6 +2,8 @@
 
 Nov 26, 2026 · @Edward Cortés García
 
+*Tesis del tema.* Este libro sostiene que el deber ambiental municipal no depende del permiso ni de la denuncia. La municipalidad debe vigilar de oficio lo que ocurre en su territorio, aunque el permiso o la concesión sean de otro.
+
 ## El caso
 
 Seis árboles de entre veinte y veinticinco metros crecen en el derecho de vía de una ruta nacional, sobre la acera, en San Pablo de Heredia (Sala Constitucional, voto N.° 2025-016121, de las 9:20 horas del 30 de mayo de 2025, considerando III). La sociedad dueña de la propiedad vecina reclamó que las raíces levantaron el concreto e inclinaron su tapia, y que por esa acera ya no puede pasar una silla de ruedas (voto 2025-016121, result. 1). En 2024 pidió a la Municipalidad que los cortara. La Municipalidad contestó que, por estar en una ruta nacional, hacerlo les correspondía al Ministerio de Obras Públicas y Transportes o al Consejo Nacional de Vialidad. El Ministerio tenía un informe según el cual los árboles eran un riesgo por su estado, y pidió la corta al Consejo. El Consejo inspeccionó el sitio en mayo de 2025, con el amparo ya presentado (voto 2025-016121, cons. III).

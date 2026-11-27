@@ -2,6 +2,8 @@
 
 Nov 23, 2026 · @Edward Cortés García
 
+*Tesis del tema.* Este libro sostiene que el cuido ocurre en una casa del cantón y no en la sede de una institución nacional. Aunque el gobierno local no decide los cupos ni el financiamiento de los centros, sí puede ver y acompañar a quien necesita cuidado y a quien lo da.
+
 ## El caso
 
 El 30 de julio de 2026, en el EBAIS de Barrio Los Ángeles, en Concepción de La Unión, le informaron a una mujer que la persona a quien cuidaba tendría que esperar unos dos años para ingresar a un hogar de ancianos. La persona cuidada era una adulta mayor con múltiples padecimientos, dependencia e inmovilidad, que necesitaba ayuda para su cuidado personal. La mujer que la cuidaba también era adulta mayor, tenía limitaciones físicas y atendía además a otra persona que requería cuidados (Sala Constitucional, voto N.° 2026-036718, de las 9:20 horas del 24 de setiembre de 2026, resultando 1). En agosto presentó un recurso de amparo contra el Consejo Nacional de la Persona Adulta Mayor.

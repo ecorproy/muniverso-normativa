@@ -2,6 +2,8 @@
 
 Nov 25, 2026 · @Edward Cortés García
 
+*Tesis del tema.* Este libro sostiene que la información de la municipalidad pertenece a los vecinos, y la ley ya dice qué se publica, qué se entrega y qué se reserva. Una reserva que no nace de la ley no es válida.
+
 ## El caso
 
 En octubre de 2022, un usuario y seguidor del perfil de Facebook de la Municipalidad de San Ramón advirtió que ya no podía entrar a él. Escribió al correo institucional de la oficina de comunicación y pidió las capturas de pantalla, o lo que fuera necesario, donde constara "la lista de usuarios que se encuentran bloqueados indicando fecha y hora de la diligencia" (Sala Constitucional, voto N.° 2023-001782, de las 9:15 horas del 27 de enero de 2023, considerando III). La respuesta llegó el 1 de noviembre, a las 8:46, desde la misma cuenta: "Acuse de recibo. Favor referirse a la alcaldía" (voto 2023-001782, cons. III). A las 9:15 el usuario preguntó qué quería decir eso, y a las 9:36 envió la misma solicitud al correo del alcalde. No volvió a tener noticia de la Municipalidad hasta que esta fue notificada del recurso de amparo que presentó el 14 de noviembre (voto 2023-001782, result. 1).

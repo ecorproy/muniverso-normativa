@@ -2,6 +2,8 @@
 
 Nov 24, 2026 · @Edward Cortés García
 
+*Tesis del tema.* Este libro sostiene que la persona en situación de calle es sujeto de un servicio y no un asunto de ornato. La ley permite crear albergues y obliga a reglamentarlos; las reglas de uso del espacio público deben leerse de modo compatible con esa condición, y la necesidad de un albergue es un hecho que la municipalidad debe averiguar en su cantón.
+
 ## El caso
 
 En marzo de 2020 se declaró la emergencia nacional por la pandemia de COVID-19. El 4 de mayo, una persona presentó un recurso de amparo contra la Municipalidad de San José porque, según dijo, los funcionarios del Centro Dormitorio municipal no cumplían las medidas sanitarias del Ministerio de Salud: no usaban mascarillas, no tomaban la temperatura a quienes entraban y no evitaban el contacto físico. Reclamó también que la lista de quienes podían quedarse en el dormitorio se había hecho con criterios subjetivos (Sala Constitucional, voto N.° 2020-009780, de las 9:15 horas del 29 de mayo de 2020, resultando 1).

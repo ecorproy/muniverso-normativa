@@ -1,5 +1,7 @@
 ## Referencias
 
+Alfaro Redondo, R. (2025). *El régimen municipal costarricense a inicios del siglo XXI* (Cuadernos para la Ciudadanía 8). Editorial Universidad de Costa Rica. (Trabajo original publicado en 2009)
+
 Constitución Política de la República de Costa Rica. (1949). Asamblea Nacional Constituyente. Sistema Costarricense de Información Jurídica.
 
 Decreto Ejecutivo N.° 22266, *Reglamento del Defensor de los Habitantes de la República*. (1993). Poder Ejecutivo de la República de Costa Rica. Sistema Costarricense de Información Jurídica. https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=11785&param2=12656&param3=3&param4=68288

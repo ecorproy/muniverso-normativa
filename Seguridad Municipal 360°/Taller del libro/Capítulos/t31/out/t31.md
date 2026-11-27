@@ -2,6 +2,8 @@
 
 Nov 26, 2026 · @Edward Cortés García
 
+*Tesis del tema.* Este libro sostiene que la protección de los animales es un servicio local con reglas precisas, y la regla más reciente desplaza a la antigua. La municipalidad que recoge un animal responde por lo que pasa con él y por lo que sabe la persona que lo busca.
+
 ## El caso
 
 El 12 de marzo de 2012 tres personas acudieron a la Sala Constitucional, a favor de tres organizaciones, contra un evento que ya se anunciaba en los medios: una corrida de toros al estilo de Pamplona en un campo ferial de Belén (Sala Constitucional, voto N.° 2012-004620, de las 15:00 horas del 10 de abril de 2012, encabezado y resultando 1). Al día siguiente la empresa organizadora presentó en la Municipalidad el trámite 1109, con el que pedía los permisos para diez días de caballistas, motocicletas, bandas, pólvora y toros, entre otras actividades (voto 2012-004620, cons. III). La corrida reuniría ocho toros y hasta cuatrocientos corredores en un recorrido de 750 metros (voto 2012-004620, cons. III). El Servicio Nacional de Salud Animal informó que no la avalaba, porque los organizadores no pudieron garantizar el bienestar de los animales ni la seguridad de quienes corrieran (voto 2012-004620, cons. III). El 10 de abril, tres días antes de la fecha anunciada, la Sala ordenó al alcalde y a la presidenta del Concejo, junto con la autoridad de salud y la empresa, "girar de inmediato las órdenes necesarias" (voto 2012-004620, por tanto) para que el evento no incluyera esas corridas.

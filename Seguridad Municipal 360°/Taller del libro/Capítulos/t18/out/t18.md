@@ -2,6 +2,8 @@
 
 Nov 26, 2026 · @Edward Cortés García
 
+*Tesis del tema.* Este libro sostiene que el puesto de quien vende en la calle es precario frente al destino del bien público, pero no frente a la forma. La municipalidad puede trasladar o retirar el permiso, y debe hacerlo con un acto motivado, comunicado y con plazo, porque para quien vive de ese puesto la sorpresa es la lesión.
+
 ## El caso
 
 El 17 de junio de 1991, funcionarios del Ministerio de Obras Públicas y Transportes retiraron de las aceras de San José los puestos de venta que la Municipalidad había autorizado, sin comunicarlo antes a sus dueños. El secretario general de la Unión de Vendedores Estacionarios Patentados de Artículos Varios de San José presentó un recurso de amparo contra el Ministerio y contra la Municipalidad, a la que reprochó haber actuado junto con él (Sala Constitucional, voto N.° 1991-002306, de las 14:45 horas del 6 de noviembre de 1991, resultando 1). El ministro explicó que los puestos se quitaron porque incumplían las regulaciones, y que con ello se protegían la vida, la salud y el tránsito de la colectividad "mediante la concordancia o equilibrio entre tales derechos fundamentales y los de los vendedores ambulantes" (voto 1991-002306, result. 3). La frase plantea el problema del tema entero: el trabajo de una persona ocupa un espacio que es de todos, y la autoridad local tiene que decidir cuánto de ese espacio cede y en qué condiciones lo recupera.

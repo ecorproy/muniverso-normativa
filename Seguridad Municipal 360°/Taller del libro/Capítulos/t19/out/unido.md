@@ -2,6 +2,8 @@
 
 Nov 23, 2026 · @Edward Cortés García
 
+*Tesis del tema.* Este libro sostiene que el gobierno local protege a la familia en tres papeles: como acreedor que modera su cobro, como autoridad que ayuda ante la desgracia y como vía de acceso a los programas del Estado. En los tres, la ley le da reglas precisas.
+
 ## El caso
 
 En junio de 2015, la secretaria del Concejo Municipal de Siquirres trasladó a la Procuraduría una pregunta práctica: cuál era el procedimiento para ejecutar, por tributos municipales pendientes, los inmuebles sometidos al régimen de patrimonio familiar (Procuraduría General de la República, dictamen C-043-2016, 2016, planteamiento de la consulta). La respuesta llegó en febrero de 2016 y no partió de cero. La Procuraduría transcribió un criterio que había dado en 2005 al alcalde de Cañas sobre la misma duda (C-043-2016, ap. I), y lo hizo suyo.

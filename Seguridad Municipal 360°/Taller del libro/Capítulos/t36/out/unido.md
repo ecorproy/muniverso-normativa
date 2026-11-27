@@ -2,6 +2,8 @@
 
 Nov 22, 2026 · @Edward Cortés García
 
+*Tesis del tema.* Este libro sostiene que el gobierno local hace que la riqueza se produzca con instrumentos que la ley ya le dio, y ninguno exige rebajar tributos. Le corresponde prestar bien los servicios que crean el entorno para producir y distinguir entre quien invierte y quien sobrevive.
+
 ## El caso
 
 En julio de 2022, el Concejo Municipal de Mora le pidió al alcalde estudiar una rebaja modesta con un propósito preciso. Quería que a las asociaciones de desarrollo, a las ASADAS y a otras organizaciones comunales inscritas se les cobrara un impuesto de construcción del 0,01 % del costo de la obra, en lugar del 1 %, "para que puedan ahorrarse esos recursos e invertirlos incluso en otros materiales o suministros que la obra amerite" (Procuraduría General de la República, dictamen C-029-2023, 2023, apartado I). La dirección jurídica y el departamento de control constructivo de la Municipalidad respondieron que no se podía sin una ley que lo respaldara (C-029-2023, ap. I), y el alcalde llevó la duda a la Procuraduría General de la República: "¿Puede una Municipalidad reducir el porcentaje de impuesto por licencia constructiva?" (C-029-2023, ap. I).
