@@ -1602,3 +1602,11 @@ Guardados en `fuentes/votos/` (sin enlace de NexusPJ, porque los textos aportado
 - Tema 33, «Cuando la calle se cae»: el recarpeteo municipal que dejó un desnivel frente a la entrada de un condominio; respuesta durante el amparo «imprecisa y poco clara», sin la inspección solicitada; orden de resolver en un mes y notificar al medio señalado.
 - Tema 13, «La respuesta»: la respuesta vacía cuando lo pedido es una obra; la excepción a la remisión a la vía contencioso administrativa; nota del magistrado Castillo Víquez sobre la Ley 9097 y la competencia de la Sala.
 - Docs: temas 13 y 33 publicados y cotejados IDÉNTICO. Word final38.
+
+## 27 de noviembre de 2026: enlaces de NexusPJ aportados por el autor
+
+- Voto 2017-004417: https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-703972 (tema 29).
+- Voto 2023-021388: https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1180612 (tema 32).
+- Voto 2024-002486: https://nexuspj.poder-judicial.go.cr/document/sen-1-0007-1211290 (tema 29).
+- Siguen sin enlace los votos 2000-009839 y 2009-003369.
+- Docs: temas 29 y 32 cotejados IDÉNTICO. Word final39.
